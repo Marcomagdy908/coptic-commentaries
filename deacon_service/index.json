@@ -1,0 +1,111 @@
+{
+  "title": "فهرس خدمة الشماس الطقسي",
+  "totalChapters": 13,
+  "totalItems": 491,
+  "chapters": [
+    {
+      "id": "01_hiteniat",
+      "name": "الهيتينيات ومجمع الشفاعات",
+      "icon": "feather",
+      "description": "هيتينيات العذراء والملائكة والرسل والشهداء والقديسين",
+      "file": "deacon_service/01_hiteniat.json",
+      "count": 8
+    },
+    {
+      "id": "02_araba3_naqous",
+      "name": "أرباع الناقوس السنوية والمواسم",
+      "icon": "bell",
+      "description": "أرباع الناقوس الواطس والآدام والأعياد",
+      "file": "deacon_service/02_araba3_naqous.json",
+      "count": 30
+    },
+    {
+      "id": "03_raising_incense",
+      "name": "رفع بخور عشية وباكر",
+      "icon": "fire",
+      "description": "مردات وألحان عشية وباكر وسر البخور",
+      "file": "deacon_service/03_raising_incense.json",
+      "count": 9
+    },
+    {
+      "id": "04_kiahk_season",
+      "name": "ألحان ومردات شهر كيهك",
+      "icon": "star",
+      "description": "مردات التسبحة والقداس لشهر كيهك المبارك",
+      "file": "deacon_service/04_kiahk_season.json",
+      "count": 9
+    },
+    {
+      "id": "05_nativity_and_epiphany",
+      "name": "الميلاد والغطاس والبرمونات",
+      "icon": "sun",
+      "description": "مردات أعياد الميلاد والختان والغطاس وعرس قانا الجليل",
+      "file": "deacon_service/05_nativity_and_epiphany.json",
+      "count": 24
+    },
+    {
+      "id": "06_great_lent_and_jonah",
+      "name": "صوم يونان والصوم الكبير",
+      "icon": "mountain",
+      "description": "مردات وآحاد الصوم الكبير وصوم نينوى",
+      "file": "deacon_service/06_great_lent_and_jonah.json",
+      "count": 7
+    },
+    {
+      "id": "07_pascha_and_holy_week",
+      "name": "أسبوع الآلام والشعانين وسبت الفرح",
+      "icon": "cross",
+      "description": "مردات أحد الشعانين، خميس العهد، والجمعة العظيمة، وسبت النور",
+      "file": "deacon_service/07_pascha_and_holy_week.json",
+      "count": 20
+    },
+    {
+      "id": "08_resurrection_and_pentecost",
+      "name": "القيامة والصعود والعنصرة",
+      "icon": "dove",
+      "description": "مردات فترة الخماسين المقدسة وعيد الصعود وعيد العنصرة",
+      "file": "deacon_service/08_resurrection_and_pentecost.json",
+      "count": 33
+    },
+    {
+      "id": "09_apostles_and_st_mary",
+      "name": "صوم الرسل وأعياد العذراء مريم",
+      "icon": "crown",
+      "description": "مردات صوم وعيد الرسل وصوم السيدة العذراء",
+      "file": "deacon_service/09_apostles_and_st_mary.json",
+      "count": 12
+    },
+    {
+      "id": "10_occasional_services",
+      "name": "اللقان والتجنيز والمناسبات الخاصة",
+      "icon": "praying-hands",
+      "description": "صلوات اللقان، الأكاليل، والتجنيز",
+      "file": "deacon_service/10_occasional_services.json",
+      "count": 15
+    },
+    {
+      "id": "11_communion_distribution",
+      "name": "ألحان ومزامير التوزيع والتناول",
+      "icon": "bread-slice",
+      "description": "مزمور التوزيع وألحان التناول والاعتراف",
+      "file": "deacon_service/11_communion_distribution.json",
+      "count": 14
+    },
+    {
+      "id": "12_liturgy_anaphora",
+      "name": "الأنافورا وصلاة الصلح والتقديس",
+      "icon": "church",
+      "description": "مردات صلاة الصلح والأنافورا والرشومات وسر حلول الروح القدس",
+      "file": "deacon_service/12_liturgy_anaphora.json",
+      "count": 2
+    },
+    {
+      "id": "14_liturgy_general",
+      "name": "مردات القداس الإلهي والرسائل",
+      "icon": "book-open",
+      "description": "مردات تقديم الحمل، البولس، الكاثوليكون، الإبركسيس، والإنجيل",
+      "file": "deacon_service/14_liturgy_general.json",
+      "count": 308
+    }
+  ]
+}

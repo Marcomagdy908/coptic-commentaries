@@ -1,0 +1,49 @@
+{
+  "title": "فهرس أقسام الكتاب المقدس",
+  "totalDivisions": 7,
+  "totalVerses": 37126,
+  "divisions": [
+    {
+      "id": "01_pentateuch",
+      "name": "أسفار التوراة وموسى الخمسة",
+      "file": "bible/01_pentateuch.json",
+      "versesCount": 6039
+    },
+    {
+      "id": "02_historical_ot",
+      "name": "الأسفار التاريخية بالعهد القديم",
+      "file": "bible/02_historical_ot.json",
+      "versesCount": 8382
+    },
+    {
+      "id": "03_poetic_and_wisdom",
+      "name": "الأسفار الشعرية والحكمية (المزامير)",
+      "file": "bible/03_poetic_and_wisdom.json",
+      "versesCount": 6817
+    },
+    {
+      "id": "04_prophets",
+      "name": "أسفار الأنبياء الكبار والصغار",
+      "file": "bible/04_prophets.json",
+      "versesCount": 4762
+    },
+    {
+      "id": "05_deuterocanonical",
+      "name": "الأسفار القانونية الثانية",
+      "file": "bible/05_deuterocanonical.json",
+      "versesCount": 4598
+    },
+    {
+      "id": "06_gospels_and_acts",
+      "name": "البشائر الأربعة وسفر أعمال الرسل",
+      "file": "bible/06_gospels_and_acts.json",
+      "versesCount": 471
+    },
+    {
+      "id": "07_epistles_and_revelation",
+      "name": "رسائل الرسل وسفر الرؤيا",
+      "file": "bible/07_epistles_and_revelation.json",
+      "versesCount": 6057
+    }
+  ]
+}

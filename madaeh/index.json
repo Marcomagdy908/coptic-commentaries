@@ -1,0 +1,49 @@
+{
+  "title": "فهرس مدائح وتماجيد القديسين والشهداء",
+  "totalChapters": 6,
+  "totalItems": 488,
+  "chapters": [
+    {
+      "id": "01_madaeh_st_mary",
+      "name": "مدائح وتماجيد السيدة العذراء مريم",
+      "icon": "crown",
+      "file": "madaeh/01_madaeh_st_mary.json",
+      "count": 109
+    },
+    {
+      "id": "02_madaeh_archangels",
+      "name": "مدائح رؤساء الملائكة والقوات السمائية",
+      "icon": "feather",
+      "file": "madaeh/02_madaeh_archangels.json",
+      "count": 11
+    },
+    {
+      "id": "03_madaeh_apostles",
+      "name": "مدائح الرسل والآباء والأنبياء",
+      "icon": "scroll",
+      "file": "madaeh/03_madaeh_apostles.json",
+      "count": 6
+    },
+    {
+      "id": "04_madaeh_martyrs",
+      "name": "مدائح وتماجيد الشهداء العظام",
+      "icon": "cross",
+      "file": "madaeh/04_madaeh_martyrs.json",
+      "count": 9
+    },
+    {
+      "id": "05_madaeh_monks",
+      "name": "مدائح آباء الرهبنة والمتوحدين",
+      "icon": "mountain",
+      "file": "madaeh/05_madaeh_monks.json",
+      "count": 5
+    },
+    {
+      "id": "06_madaeh_patriarchs_and_saints",
+      "name": "مدائح البطاركة والمعترفين والقديسين",
+      "icon": "users",
+      "file": "madaeh/06_madaeh_patriarchs_and_saints.json",
+      "count": 348
+    }
+  ]
+}

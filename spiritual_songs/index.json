@@ -1,0 +1,56 @@
+{
+  "title": "فهرس الترانيم والأناشيد الروحية",
+  "totalChapters": 7,
+  "totalItems": 895,
+  "chapters": [
+    {
+      "id": "01_communion",
+      "name": "ترانيم التناول والمذبح المقدس",
+      "icon": "bread-slice",
+      "file": "spiritual_songs/01_communion.json",
+      "count": 24
+    },
+    {
+      "id": "02_cross_and_resurrection",
+      "name": "ترانيم الصليب والفداء والقيامة",
+      "icon": "cross",
+      "file": "spiritual_songs/02_cross_and_resurrection.json",
+      "count": 14
+    },
+    {
+      "id": "03_st_mary_and_saints",
+      "name": "ترانيم العذراء مريم والقديسين والشهداء",
+      "icon": "crown",
+      "file": "spiritual_songs/03_st_mary_and_saints.json",
+      "count": 29
+    },
+    {
+      "id": "04_repentance_and_prayer",
+      "name": "ترانيم التوبة والرجوع والصلاة",
+      "icon": "praying-hands",
+      "file": "spiritual_songs/04_repentance_and_prayer.json",
+      "count": 6
+    },
+    {
+      "id": "05_praise_and_thanksgiving",
+      "name": "ترانيم التسبيح والتمجيد والشكر",
+      "icon": "heart",
+      "file": "spiritual_songs/05_praise_and_thanksgiving.json",
+      "count": 51
+    },
+    {
+      "id": "06_children_songs",
+      "name": "ترانيم الأطفال ومدارس الأحد",
+      "icon": "smile",
+      "file": "spiritual_songs/06_children_songs.json",
+      "count": 14
+    },
+    {
+      "id": "07_general_songs",
+      "name": "ترانيم التأمل والحياة المسيحية",
+      "icon": "compact-disc",
+      "file": "spiritual_songs/07_general_songs.json",
+      "count": 757
+    }
+  ]
+}

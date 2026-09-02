@@ -6,7 +6,8 @@
     "rubric_ref": "T14f12",
     "text_coptic": "ⲡⲓⲉϩⲟⲟⲩ ⲙⲡϣⲟⲙⲧ ϯⲁϫⲡ ⲁ",
     "text_arabic": "يوم الثلاثاء الساعة الاولي",
-    "text_english": "tuesday the first hour"
+    "text_english": "tuesday the first hour",
+    "text_coptic_arabic": "بي إيهوو مبشومت تي أجب أ"
   },
   {
     "order": 2,
@@ -15,7 +16,8 @@
     "rubric_ref": "R4721",
     "text_coptic": "ϧⲉⲛ ⲫⲣⲁⲛ ⲙⲫⲓⲱⲧ ⲛⲉⲙ ⲡϣⲏⲣⲓ ⲛⲉⲙ ⲡⲓⲡⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲛⲟⲩϯ ⲛⲟⲩⲱⲧ ⲁⲙⲏⲛ",
     "text_arabic": "باسم الاب والابن والروح القدس الاله الواحد امين",
-    "text_english": "in the name of the father and the son and the holy spirit one god amen"
+    "text_english": "in the name of the father and the son and the holy spirit one god amen",
+    "text_coptic_arabic": "خين فران مفيوت نيم بشيري نيم بي إبنيفما إثؤواب أونوتي نو أوت آمين"
   },
   {
     "order": 3,
@@ -24,7 +26,8 @@
     "rubric_ref": "R14f14",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "نبوات الساعة الاولي من يوم الثلاثاء من البصخة المقدسة بركته علينا امين",
-    "text_english": "the prophecies of the first hour of tuesday of holy pascha may its blessings be with us amen"
+    "text_english": "the prophecies of the first hour of tuesday of holy pascha may its blessings be with us amen",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 4,
@@ -33,7 +36,8 @@
     "rubric_ref": "T14f17",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "خروج 19 1 9",
-    "text_english": "exodus 19 1 9"
+    "text_english": "exodus 19 1 9",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 5,
@@ -42,7 +46,8 @@
     "rubric_ref": "R142f",
     "text_coptic": "ⲉⲃⲟⲗϧⲉⲛ ⲡⲓⲇⲟⲝⲟⲇⲟⲥ ⲛⲧⲉ ⲙⲱⲩⲥⲏⲥ ⲡⲓⲡⲣⲟⲫⲏⲧⲏⲥ ⲉⲣⲉⲡⲉϥⲥⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁⲙⲏⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ",
     "text_arabic": "من سفر الخروج لموسي النبي بركته المقدسة تکون معنا امين",
-    "text_english": "a reading from the book of exodus of moses the prophet may his holy blessings be with us amen"
+    "text_english": "a reading from the book of exodus of moses the prophet may his holy blessings be with us amen",
+    "text_coptic_arabic": "إيڤولخين بي ذوكسوذوس نتي مويسيس بي بروفيتيس إيريبيفسمو إثؤواب شوبي نيمان آمين إيفجو مموس"
   },
   {
     "order": 6,
@@ -51,7 +56,8 @@
     "rubric_ref": "R14f18",
     "text_coptic": "ⲛϧⲣⲏⲓ ⲇⲉ ϧⲉⲛ ⲡⲓⲙⲁϩ ϣⲟⲙⲧ ⲛⲁⲃⲟⲧ ⲛⲧⲉ ⲡϫⲓⲛⲓ ⲉⲃⲟⲗ ⲛⲉⲛϣⲏⲣⲓ ⲙⲡⲓⲓⲥⲣⲁⲏⲗ ⲉⲃⲟⲗ ϧⲉⲛ ⲡⲕⲁϩⲓ ⲛⲭⲏⲙⲓ ϧⲉⲛ ⲡⲁⲓⲉϩⲟⲟⲩ ⲉⲧⲉⲙⲙⲁⲩ ⲁⲩⲓ ⲉϩⲣⲏⲓ ⲉⲡϣⲁϥⲉ ⲛⲥⲓⲛⲁ",
     "text_arabic": "وفي الشهر الثالث لخروج بني اسرائيل من ارض مصر في ذلك اليوم جاءوا الي برية سيناء",
-    "text_english": "now in the third month after the children of israel departed from the land of egypt on the same day they came into the sinai desert"
+    "text_english": "now in the third month after the children of israel departed from the land of egypt on the same day they came into the sinai desert",
+    "text_coptic_arabic": "نخري ذي خين بي ماه شومت ناڤوت نتي بجيني إيڤول نين شيري مبييسرايل إيڤول خين بكاهي نكيمي خين باييهوو إت إيمماڤ آڤي إيهري إيبشافي نسينا"
   },
   {
     "order": 7,
@@ -60,7 +66,8 @@
     "rubric_ref": "R14f19",
     "text_coptic": "ⲟⲩⲟϩ ⲁⲩϥⲁⲓ ⲉⲃⲟⲗ ϧⲉⲛ ⲣⲁⲫⲁⲍⲓⲛ ⲁⲩⲓ ⲉⲡϣⲁϥⲉ ⲛⲥⲓⲛⲁ ⲟⲩⲟϩ ⲁϥⲟⲩⲟϩ ⲙⲙⲁⲩ ⲛϫⲉ ⲡⲓⲓⲥⲣⲁⲏⲗ ⲙⲡⲉⲙⲑⲟ ⲙⲡⲓⲧⲱⲟⲩ",
     "text_arabic": "ورحلوا من رافازين ووصلوا الي برية سيناء ونزلوا هناك قبالة الجبل",
-    "text_english": "for they departed from rephidim came into the sinai desert and camped in the desert so israel camped there before the mountain"
+    "text_english": "for they departed from rephidim came into the sinai desert and camped in the desert so israel camped there before the mountain",
+    "text_coptic_arabic": "أووه آڤفاي إيڤول خين رافازين آڤي إيبشافي نسينا أووه أفووه مماڤ نجي بي إيسرايل مبيمثو مبيتوو"
   },
   {
     "order": 8,
@@ -69,7 +76,8 @@
     "rubric_ref": "R14f1a",
     "text_coptic": "ⲟⲩⲟϩ ⲁϥⲓ ⲛϫⲉ ⲙⲱⲩⲥⲏⲥ ⲉϩⲣⲏⲓ ⲉϫⲉⲛ ⲡⲓⲧⲱⲟⲩ ⲛⲧⲉ ⲫⲛⲟⲩϯ ⲟⲩⲟϩ ⲁϥⲙⲟⲩϯ ⲉⲣⲟϥ ⲛϫⲉ ⲫⲛⲟⲩϯ ⲉⲃⲟⲗ ϧⲉⲛ ⲡⲓⲧⲱⲟⲩ ⲉϥϫⲱ ⲙⲙⲟⲥ",
     "text_arabic": "فصعد موسي الي جبل الله فناداه الله من الجبل قائلا",
-    "text_english": "then moses went up to the mountain of god and god called to him from the mountain saying"
+    "text_english": "then moses went up to the mountain of god and god called to him from the mountain saying",
+    "text_coptic_arabic": "أووه أفي نجي مويسيس إيهري إيجين بي توو نتي فنوتي أووه أفموتي إيروف نجي فنوتي إيڤول خين بي توو إيفجو مموس"
   },
   {
     "order": 9,
@@ -78,7 +86,8 @@
     "rubric_ref": "R14f1b",
     "text_coptic": "ϫⲉ ⲛⲁⲓ ⲛⲉ ⲉⲧⲉⲕⲉϫⲟⲧⲟⲩ ⲙⲡⲏⲓ ⲛⲓⲁⲕⲱⲃ ⲟⲩⲟϩ ⲉⲕⲉⲧⲁⲙⲉ ⲛⲉⲛϣⲏⲣⲓ ⲙⲡⲓⲓⲥⲣⲁⲏⲗ ⲉⲣⲱⲟⲩ",
     "text_arabic": "هذا ما تقوله لبيت يعقوب وتخبر به بني اسرائيل قائلا لهم",
-    "text_english": "thus you shall say to the house of jacob and tell the children of israel"
+    "text_english": "thus you shall say to the house of jacob and tell the children of israel",
+    "text_coptic_arabic": "جي ناي ني إت إيكيجوتو مبي ني أكوب أووه إيكيتامي نين شيري مبييسرايل إيروو"
   },
   {
     "order": 10,
@@ -87,7 +96,8 @@
     "rubric_ref": "R14f1c",
     "text_coptic": "ϫⲉ ⲛⲑⲱⲧⲉⲛ ⲡⲉ ⲉⲧⲁⲣⲉⲧⲉⲛⲛⲁⲩ ⲉϩⲱⲃ ⲛⲓⲃⲉⲛ ⲉⲧⲁⲓⲁⲓⲧⲟⲩ ⲛⲛⲓⲣⲉⲙⲛⲭⲏⲙⲓ ⲟⲩⲟϩ ⲁⲓϭⲓ ⲑⲏⲛⲟⲩ ⲙⲫⲣⲏϯ ϩⲓϫⲉⲛ ϩⲁⲛⲧⲉⲛϩ ⲛⲧⲉ ϩⲁⲛⲁϧⲱⲙ ⲁⲓⲥⲉⲕ ⲑⲏⲛⲟⲩ ϩⲁⲣⲟⲓ",
     "text_arabic": "قد رايتم كل الاعمال التي صنعتها بالمصريين وكيف حملتكم كانكم علي اجنحة النسور واتيت بكم الي",
-    "text_english": "you have seen what i did to the egyptians and how i bore you on eagles wings and brought you to myself"
+    "text_english": "you have seen what i did to the egyptians and how i bore you on eagles wings and brought you to myself",
+    "text_coptic_arabic": "جي نثوتين بي إت أريتينناڤ إيهوب ني ڤين إت أيايتو ننيريمنكيمي أووه أيتشي ثينو مفريتي هيجين هانتينه نتي هاناخوم أيسيك ثينو هاروي"
   },
   {
     "order": 11,
@@ -96,7 +106,8 @@
     "rubric_ref": "R14f1d",
     "text_coptic": "ⲟⲩⲟϩ ϯⲛⲟⲩ ⲉϣⲱⲡ ϧⲉⲛ ⲟⲩⲥⲱⲧⲉⲙ ⲛⲧⲉⲧⲉⲛⲥⲱⲧⲉⲙ ⲛⲥⲁ ⲧⲁⲥⲙⲏ ⲟⲩⲟϩ ⲛⲧⲉⲧⲉⲛⲁⲣⲉϩ ⲉⲧⲁⲇⲓⲁⲑⲏⲕⲏ ⲉⲣⲉⲧⲉⲛⲉϣⲱⲡⲓ ⲛⲏⲓ ⲛⲟⲩⲗⲁⲟⲥ ⲉϥⲥⲟⲩⲃⲏⲧ ⲉⲃⲟⲗ ⲟⲩⲧⲉ ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲫⲱⲓ ⲅⲁⲣ ⲡⲉ ⲡⲕⲁϩⲓ ⲧⲏⲣϥ",
     "text_arabic": "والان ان كنتم سمعا تسمعون لصوتي وتحفظون عهدي فانكم تكونون لي شعبا خاصا الي الابد من بين جميع الامم لان لي الارض باسرها",
-    "text_english": "now therefore if you will indeed obey my voice and keep my covenant you shall be a special people to me above all nations for all the earth is mine"
+    "text_english": "now therefore if you will indeed obey my voice and keep my covenant you shall be a special people to me above all nations for all the earth is mine",
+    "text_coptic_arabic": "أووه تي نو إيشوب خين أوسوتيم نتيتينسوتيم نسا تاسمي أووه نتيتيناريه إت أذياثيكي إيريتينيشوبي ني نو لاوس إيفسوڤيت إيڤول أوتي ني إيثنوس تيرو فوي غار بي بكاهي تيرف"
   },
   {
     "order": 12,
@@ -105,7 +116,8 @@
     "rubric_ref": "R14f1e",
     "text_coptic": "ⲛⲑⲱⲧⲉⲛ ⲇⲉ ⲉⲣⲉⲧⲉⲛⲉϣⲱⲡⲓ ⲛⲏⲓ ⲛⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲉⲥⲟⲩⲁⲃ ⲛⲉⲙ ⲟⲩⲉⲑⲛⲟⲥ ⲉϥⲧⲟⲩⲃⲏⲟⲩⲧ ⲛⲁⲓ ⲛⲉ ⲛⲓⲥⲁϫⲓ ⲉⲧⲉⲕⲉϫⲟⲧⲟⲩ ⲙⲡⲏⲓ ⲙⲡⲓⲓⲥⲣⲁⲏⲗ",
     "text_arabic": "وانتم تكونون لي مملكة مقدسة وامة مطهرة هذا هو الكلام الذي تقوله لبيت اسرائيل",
-    "text_english": "you shall be to me a royal priesthood and a holy nation these are the words you shall speak to the children of israel"
+    "text_english": "you shall be to me a royal priesthood and a holy nation these are the words you shall speak to the children of israel",
+    "text_coptic_arabic": "نثوتين ذي إيريتينيشوبي ني نو ميت أورو إيسواب نيم أويثنوس إيفتوڤيؤيت ناي ني ني ساجي إت إيكيجوتو مبي مبييسرايل"
   },
   {
     "order": 13,
@@ -114,7 +126,8 @@
     "rubric_ref": "R14f1f",
     "text_coptic": "ⲁϥⲓ ⲇⲉ ⲛϫⲉ ⲙⲱⲩⲥⲏⲥ ⲟⲩⲟϩ ⲁϥⲙⲟⲩϯ ⲉⲛⲓⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲧⲉ ⲡⲓⲗⲁⲟⲥ ⲟⲩⲟϩ ⲁϥⲭⲱ ϧⲁⲧⲟⲧⲟⲩ ⲛⲛⲁⲓⲥⲁϫⲓ ⲧⲏⲣⲟⲩ ⲛⲁⲓ ⲉⲧⲁϥⲟⲩⲁϩⲥⲁϩⲛⲓ ⲙⲙⲱⲟⲩ ⲛⲱⲟⲩ ⲛϫⲉ ⲫⲛⲟⲩϯ",
     "text_arabic": "فجاء موسي ودعا شيوخ الشعب وقص عليهم كل هذه الكلمات التي امره الله بها",
-    "text_english": "so moses came and called for the elders of the people and laid before them all these words the lord commanded him"
+    "text_english": "so moses came and called for the elders of the people and laid before them all these words the lord commanded him",
+    "text_coptic_arabic": "أفي ذي نجي مويسيس أووه أفموتي إينيبريسڤيتيروس نتي بي لاوس أووه أفكو خاتوتو ننايساجي تيرو ناي إت أفواهساهني مموو نوو نجي فنوتي"
   },
   {
     "order": 14,
@@ -123,7 +136,8 @@
     "rubric_ref": "R14f20",
     "text_coptic": "ⲁϥⲉⲣⲟⲩⲱ ⲇⲉ ⲛϫⲉ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ ⲉⲩⲥⲟⲡ ⲟⲩⲟϩ ⲡⲉϫⲱⲟⲩ ϫⲉ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲉⲧⲉϥⲛⲁϫⲟⲧⲟⲩ ⲛϫⲉ ⲫⲛⲟⲩϯ ⲧⲉⲛⲛⲁⲁⲓⲧⲟⲩ ⲟⲩⲟϩ ⲧⲉⲛⲛⲁⲥⲟⲑⲙⲟⲩ ⲁ ⲙⲱⲩⲥⲏⲥ ⲇⲉ ⲉⲛ ⲛⲉⲛⲥⲁϫⲓ ⲙⲡⲓⲗⲁⲟⲥ ⲉⲡϣⲱⲓ ϩⲁ ⲫⲛⲟⲩϯ",
     "text_arabic": "فاجاب جميع الشعب معا وقالوا كل ما تكلم به الله نسمعه ونعمل به فرفع موسي كلام الشعب الي الله",
-    "text_english": "then all the people answered with one accord and said everything the lord said we will do and hearken to so moses reported these words to god"
+    "text_english": "then all the people answered with one accord and said everything the lord said we will do and hearken to so moses reported these words to god",
+    "text_coptic_arabic": "أفيروو ذي نجي بي لاوس تيرف إيڤسوب أووه بيجوو جي هوب ني ڤين إت إيفناجوتو نجي فنوتي تين ناايتو أووه تين ناسوثمو أ مويسيس ذي إين نين ساجي مبيلاوس إيبشوي ها فنوتي"
   },
   {
     "order": 15,
@@ -132,7 +146,8 @@
     "rubric_ref": "R141f",
     "text_coptic": "ⲟⲩⲱⲟⲩ ⲛϯⲧⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ ⲡⲉⲛⲛⲟⲩϯ ϣⲁ ⲉⲛⲉϩ ⲛⲉⲙ ϣⲁ ⲉⲛⲉϩ ⲛⲧⲉ ⲛⲓⲉⲛⲉϩ ⲧⲏⲣⲟⲩ ⲁⲙⲏⲛ",
     "text_arabic": "مجدا للثالوث القدوس الهنا الي الابد والي ابد الاباد كلها امين",
-    "text_english": "glory be to the holy trinity our god forever and unto the ages of all ages amen"
+    "text_english": "glory be to the holy trinity our god forever and unto the ages of all ages amen",
+    "text_coptic_arabic": "أووو نتيترياس إثؤواب بين نو تي شا إينيه نيم شا إينيه نتي ني إينيه تيرو آمين"
   },
   {
     "order": 16,
@@ -141,7 +156,8 @@
     "rubric_ref": "T14f23",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ايوب 23 2 24 25",
-    "text_english": "job 23 2 24 25"
+    "text_english": "job 23 2 24 25",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 17,
@@ -150,7 +166,8 @@
     "rubric_ref": "R4ae9",
     "text_coptic": "ⲉⲃⲟⲗϧⲉⲛ ⲓⲱⲃ ⲡⲓⲑⲙⲏⲓ ⲉⲣⲉⲡⲉϥⲥⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁⲙⲏⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ",
     "text_arabic": "من ايوب الصديق بركته المقدسة تکون معنا امين",
-    "text_english": "a reading from job the righteous may his blessings be with us amen"
+    "text_english": "a reading from job the righteous may his blessings be with us amen",
+    "text_coptic_arabic": "إيڤولخين إيوب بي ثمي إيريبيفسمو إثؤواب شوبي نيمان آمين إيفجو مموس"
   },
   {
     "order": 18,
@@ -159,7 +176,8 @@
     "rubric_ref": "R14f24",
     "text_coptic": "ϫⲉ ⲕⲉ ⲅⲁⲣ ϯⲉⲙⲓ ϫⲉ ⲡⲁⲥⲟϩⲓ ⲟⲩⲉⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲡⲉ ⲟⲩⲟϩ ⲧⲉϥϫⲓϫ ⲁⲥϩⲣⲟϣ ⲉϫⲉⲛ ⲡⲁϥⲓⲁϩⲟⲙ",
     "text_arabic": "انا اعلم ان توبيخي هو منه ويده قد ثقلت علي تنهدي",
-    "text_english": "indeed i know pleading is out of my reach for his hand is heavy upon my groaning"
+    "text_english": "indeed i know pleading is out of my reach for his hand is heavy upon my groaning",
+    "text_coptic_arabic": "جي كي غار تي إيمي جي باسوهي أويڤول هيتوتف بي أووه تيف جيج أسهروش إيجين بافياهوم"
   },
   {
     "order": 19,
@@ -168,7 +186,8 @@
     "rubric_ref": "R14f25",
     "text_coptic": "ⲛⲓⲙ ⲅⲁⲣ ⲉⲧⲛⲁⲉⲙⲓ ϫⲉ ϯⲛⲁϫⲉⲙϥ ⲟⲩⲟϩ ϫⲉ ϯⲛⲁⲓ ϣⲁ ⲡϫⲱⲕ",
     "text_arabic": "من لي بان اعلم واجده واتقدم الي منصبه",
-    "text_english": "who then would know that i might find him and might bring this matter to an end"
+    "text_english": "who then would know that i might find him and might bring this matter to an end",
+    "text_coptic_arabic": "ني م غار إت نايمي جي تي ناجيمف أووه جي تي ناي شا بجوك"
   },
   {
     "order": 20,
@@ -177,7 +196,8 @@
     "rubric_ref": "R14f26",
     "text_coptic": "ⲟⲩⲟϩ ϫⲉ ⲁⲛ ϯⲛⲁϫⲉ ⲟⲩϩⲁⲡ ⲛⲁϩⲣⲁϥ ⲣⲱⲓ ⲇⲉ ⲉϥⲉⲙⲟⲁϩϥ ⲛⲥⲟϩⲓ",
     "text_arabic": "فاحسن الدعوي امامه فيمتلئ فمي توبيخا",
-    "text_english": "i would state my case before him and fill my mouth with arguments"
+    "text_english": "i would state my case before him and fill my mouth with arguments",
+    "text_coptic_arabic": "أووه جي أن تي ناجي أوهاب ناهراف روي ذي إيفيمواهف نسوهي"
   },
   {
     "order": 21,
@@ -186,7 +206,8 @@
     "rubric_ref": "R14f27",
     "text_coptic": "ⲉⲓⲉⲉⲙⲓ ⲇⲉ ⲉⲛⲓⲧⲁⲗϭⲟ ⲉⲧⲉϥⲛⲁϫⲟⲧⲟⲩ ⲛⲏⲓ ⲉⲓⲉⲉⲣⲉⲥⲑⲁⲛⲉⲥⲑⲉ ⲇⲉ ⲉⲛⲏ ⲉⲧⲉϥⲛⲁⲧⲁⲙⲟⲓ ⲉⲣⲱⲟⲩ",
     "text_arabic": "انا اعلم بثبات ما يقوله لي وافهم ما يعرفني اياه",
-    "text_english": "i would know the remedies which he would answer me and could perceive what he would tell me"
+    "text_english": "i would know the remedies which he would answer me and could perceive what he would tell me",
+    "text_coptic_arabic": "إييييمي ذي إينيتالتشو إت إيفناجوتو ني إييييريستانيستي ذي إيني إت إيفناتاموي إيروو"
   },
   {
     "order": 22,
@@ -195,7 +216,8 @@
     "rubric_ref": "R14f28",
     "text_coptic": "ⲟⲩⲟϩ ϫⲉ ⲁⲛ ϥⲛⲁⲓ ⲉϩⲣⲏⲓ ⲉϫⲱⲓ ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛϫⲟⲙ ⲓⲧⲁ ϥⲛⲁⲉⲣⲭⲣⲁⲥⲑⲉ ⲛⲏⲓ ⲁⲛ ϧⲉⲛ ⲟⲩⲙⲃⲟⲛ",
     "text_arabic": "ولا ياتي علي بقوة عظيمة ولا يفسح لي في الرجز",
-    "text_english": "though he would come on me in his great strength he would not threaten me"
+    "text_english": "though he would come on me in his great strength he would not threaten me",
+    "text_coptic_arabic": "أووه جي أن فناي إيهري إيجوي خين أونيشتي نجوم إيتا فنايرخراستي ني أن خين أومڤون"
   },
   {
     "order": 23,
@@ -204,7 +226,8 @@
     "rubric_ref": "R14f29",
     "text_coptic": "ϯⲙⲉⲑⲙⲏⲓ ⲅⲁⲣ ⲛⲉⲙ ⲡⲓⲥⲟϩⲓ ϩⲁⲛⲉⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲛⲉ ⲉϥⲉⲓⲛⲓ ⲇⲉ ⲉⲃⲟⲗ ⲙⲡⲁϩⲁⲡ ϣⲁ ⲉⲃⲟⲗ",
     "text_arabic": "لان البر والتوبيخ هما منه ويخرج حكمي الي الانقضاء",
-    "text_english": "for truth and rebuke are from him and he would bring my judgment to an end"
+    "text_english": "for truth and rebuke are from him and he would bring my judgment to an end",
+    "text_coptic_arabic": "تي ميثمي غار نيم بي سوهي هانيڤول هيتوتف ني إيفييني ذي إيڤول مباهاب شا إيڤول"
   },
   {
     "order": 24,
@@ -213,7 +236,8 @@
     "rubric_ref": "R14f2a",
     "text_coptic": "ⲉⲓⲉϣⲉ ⲛⲏⲓ ⲇⲉ ⲉⲛⲓϩⲟⲩⲁϯ ⲟⲩⲟϩ ϯϣⲟⲡ ⲁⲛ ϫⲉ ⲟⲩ ⲇⲉ ⲡⲉϯⲉⲙⲓ ⲉⲣⲟϥ ϧⲉⲛ ⲛⲓϧⲁⲉⲩ",
     "text_arabic": "وامضي الي الاوائل ولا اكون بعد ولا اعلم ما في الاواخر",
-    "text_english": "for if i shall go first and i no longer exist still what would i know about the latter end"
+    "text_english": "for if i shall go first and i no longer exist still what would i know about the latter end",
+    "text_coptic_arabic": "إيييشي ني ذي إينيهواتي أووه تي شوب أن جي أو ذي بيتييمي إيروف خين ني خايڤ"
   },
   {
     "order": 25,
@@ -222,7 +246,8 @@
     "rubric_ref": "R14f2b",
     "text_coptic": "ⲉⲧⲁϥⲑⲁⲙⲓⲟ ⲛϩⲁⲛϭⲁⲗⲉ ⲟⲩⲟϩ ⲙⲡⲓⲁⲙⲟⲛⲓ ⲉϥⲉϩⲱⲃⲥ ⲛϩⲁⲛⲟⲩⲓⲛⲁⲙ ⲟⲩⲟϩ ⲛⲛⲁⲛⲁⲩ",
     "text_arabic": "عمل في الشمال ولم ادركه ويستتر في الجنوب ولم انظره",
-    "text_english": "when he worked on the left hand i observed it not his right hand will encompass me but i will not see it"
+    "text_english": "when he worked on the left hand i observed it not his right hand will encompass me but i will not see it",
+    "text_coptic_arabic": "إت أفثاميو نهانتشالي أووه مبياموني إيفيهوبس نهانوينام أووه نناناڤ"
   },
   {
     "order": 26,
@@ -231,7 +256,8 @@
     "rubric_ref": "R14f2c",
     "text_coptic": "ϥⲥⲱⲟⲩⲛ ⲅⲁⲣ ⲛⲑⲟϥ ⲏⲇⲏ ⲙⲡⲁⲙⲱⲓⲧ ⲁϥⲉⲣⲇⲓⲁⲕⲣⲓⲛⲓⲛ ⲇⲉ ⲙⲙⲟⲓ ⲙⲫⲣⲏϯ ⲙⲡⲓⲛⲟⲩⲃ",
     "text_arabic": "هو عارف طريقي ومحصني مثل الذهب",
-    "text_english": "for he knows my way already and he has tried me as gold h"
+    "text_english": "for he knows my way already and he has tried me as gold h",
+    "text_coptic_arabic": "فسوون غار نثوف إيذي مبامويت أفيرذياكرينين ذي مموي مفريتي مبينوب"
   },
   {
     "order": 27,
@@ -240,7 +266,8 @@
     "rubric_ref": "R14f2d",
     "text_coptic": "ⲉⲓⲉⲙⲟϣⲓ ⲇⲉ ϧⲉⲛ ⲛⲉϥϩⲟⲛϩⲉⲛ ⲁⲓⲁⲣⲉϩ ⲅⲁⲣ ⲉⲛⲉϥⲙⲱⲓⲧ ⲟⲩⲟϩ ⲛⲛⲁⲣⲓⲕⲓ ⲉⲃⲟⲗ ϧⲉⲛ ⲛⲉϥϩⲟⲛϩⲉⲛ ⲟⲩⲇⲉ ⲛⲛⲁⲭⲁⲩ ⲛⲥⲱⲓ ⲛⲉϥⲥⲁϫⲓ ⲇⲉ ⲁⲓⲭⲟⲡⲟⲩ ϧⲉⲛ ⲕⲉⲛⲧ",
     "text_arabic": "فاسلك بحسب اوامره ولا ارفضها اخفي كلامه في حضني",
-    "text_english": "i will go forth in his commandments for i have kept his ways and will not turn aside i will not disregard his commandments but i have hidden his words in my bosom ebol"
+    "text_english": "i will go forth in his commandments for i have kept his ways and will not turn aside i will not disregard his commandments but i have hidden his words in my bosom ebol",
+    "text_coptic_arabic": "إيييموشي ذي خين نيف هونهين أياريه غار إينيفمويت أووه نناريكي إيڤول خين نيف هونهين أوذي نناكاڤ نسوي نيف ساجي ذي أيكوبو خين كينت"
   },
   {
     "order": 28,
@@ -249,7 +276,8 @@
     "rubric_ref": "R14f2e",
     "text_coptic": "ⲓⲥϫⲉ ⲛⲑⲟϥ ⲁϥϯϩⲁⲡ ⲙⲡⲁⲓⲣⲏϯ ⲛⲓⲙ ⲡⲉⲧⲁϥⲉⲣⲁⲛⲧⲓⲗⲉⲅⲓⲛ ⲛⲁϥ ⲅⲁⲣ ⲉⲧⲁϥⲟⲩⲁϣϥ ⲫⲁⲓ ⲡⲉⲧⲁϥⲁⲓϥ",
     "text_arabic": "فان كان قد حكم هكذا فمن هو الذي يقاومه وهو يفعل ما يريده",
-    "text_english": "if he too has thus judged who is he that has opposed him for he has willed a thing and done it"
+    "text_english": "if he too has thus judged who is he that has opposed him for he has willed a thing and done it",
+    "text_coptic_arabic": "إيسجي نثوف أفتيهاب مبايريتي ني م بيتافيرانديليجين ناف غار إت أفواشف فاي بيتافايف"
   },
   {
     "order": 29,
@@ -258,7 +286,8 @@
     "rubric_ref": "R14f2f",
     "text_coptic": "ⲉⲑⲃⲉⲫⲁⲓ ⲁⲓⲓⲏⲥ ⲙⲙⲟⲓ ⲉϩⲣⲏⲓ ⲉϫⲱϥ ⲉϥⲉϯⲥⲃⲱ ⲇⲉ ⲛⲏⲓ ⲁⲓⲉⲣϩⲟϯ ϧⲁⲧⲉϥϩⲏ",
     "text_arabic": "من اجل ذلك اسرعت اليه ادبني فخفت منه",
-    "text_english": "therefore i pursue him zealously and when i was reproved i thought of him"
+    "text_english": "therefore i pursue him zealously and when i was reproved i thought of him",
+    "text_coptic_arabic": "إيثڤيفاي أيييس مموي إيهري إيجوف إيفيتيسڤو ذي ني أييرهوتي خاتيفهي"
   },
   {
     "order": 30,
@@ -267,7 +296,8 @@
     "rubric_ref": "R14f30",
     "text_coptic": "ⲉϩⲣⲏⲓ ⲉϫⲉⲛ ⲫⲁⲓ ⲓⲉⲓⲏⲥ ϧⲁⲧϩⲏ ⲙⲡⲉϥϩⲟ ⲉⲓⲉⲥⲟⲙⲥ ⲟⲩⲟϩ ⲉⲛⲟⲩϣⲡ ⲉⲃⲟⲗ ⲙⲙⲟϥ",
     "text_arabic": "لهذا اسرع قدام وجهه واتامل فارتعب منه",
-    "text_english": "therefore let me be serious before his face i will consider and be afraid of him e ei"
+    "text_english": "therefore let me be serious before his face i will consider and be afraid of him e ei",
+    "text_coptic_arabic": "إيهري إيجين فاي إييييس خاتهي مبيفهو إيييسومس أووه إينوشب إيڤول مموف"
   },
   {
     "order": 31,
@@ -276,7 +306,8 @@
     "rubric_ref": "R14f31",
     "text_coptic": "ⲡϭⲟⲓⲥ ⲇⲉ ⲁϥⲉⲛ ⲟⲩϣⲱ ϫⲉⲛ ⲡⲁϩⲏⲧ ⲟⲩⲟϩ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ ⲁϥⲓ ⲥ ⲛⲥⲱⲓ",
     "text_arabic": "لان الرب قد اضعف قلبي والضابط الكل اسرع ورائي",
-    "text_english": "but the lord softened my heart and the almighty has alarmed me ni hi w"
+    "text_english": "but the lord softened my heart and the almighty has alarmed me ni hi w",
+    "text_coptic_arabic": "بتشيس ذي أفين أوشو جين باهيت أووه بي بانتوكراتور أفي س نسوي"
   },
   {
     "order": 32,
@@ -285,7 +316,8 @@
     "rubric_ref": "R14f32",
     "text_coptic": "ⲛⲁⲓⲉⲙⲓ ⲅⲁⲣ ⲡⲉ ϫⲉ ϥⲛⲁⲓⲛⲓ ⲉϫⲱⲓ ⲛⲟⲩⲭⲁⲕⲓ ⲟⲩⲅⲛⲟⲫⲟⲥ ⲇⲉ ⲡⲉ ⲉⲧⲁϥϩⲱⲃⲥ ⲉⲃⲟⲗ ϧⲁⲧϩⲏ ⲙⲡⲁϩⲟ",
     "text_arabic": "لاني كنت اعلم ان الظلمة ستاتي علي والضباب غطي وجهي",
-    "text_english": "for i did not know darkness would come upon me but thick darkness covered my face an"
+    "text_english": "for i did not know darkness would come upon me but thick darkness covered my face an",
+    "text_coptic_arabic": "ناييمي غار بي جي فنايني إيجوي نو كاكي أوغنوفوس ذي بي إت أفهوبس إيڤول خاتهي مباهو"
   },
   {
     "order": 33,
@@ -294,7 +326,8 @@
     "rubric_ref": "R14f33",
     "text_coptic": "ⲉⲑⲃⲉⲟⲩ ⲁⲩϩⲱⲡ ⲉⲡϭⲟⲓⲥ ⲛϫⲉ ϩⲁⲛⲟⲩⲛⲱⲟⲩⲓ",
     "text_arabic": "كيف خفيت هذه الازمنة علي الرب",
-    "text_english": "why have the times escaped the lord s notice"
+    "text_english": "why have the times escaped the lord s notice",
+    "text_coptic_arabic": "إيثڤيو آڤهوب إيبتشيس نجي هانونووي"
   },
   {
     "order": 34,
@@ -303,7 +336,8 @@
     "rubric_ref": "R14f34",
     "text_coptic": "ⲛⲓⲁⲥⲉⲃⲏⲥ ⲇⲉ ⲁⲩⲥⲁⲃⲟⲗ ⲛⲛⲟⲩⲑⲱϣ ⲉⲁⲩϩⲱⲗⲉⲙ ⲛⲛⲟⲩⲟϩⲓ ⲛⲉⲙ ⲡⲉϥⲙⲁⲛⲉⲥⲱⲟⲩ",
     "text_arabic": "فتجاوز المنافقون حدودهم مختطفين القطيع مع راعيه",
-    "text_english": "why have the ungodly stepped over the boundary snatching away the flock with the shepherd"
+    "text_english": "why have the ungodly stepped over the boundary snatching away the flock with the shepherd",
+    "text_coptic_arabic": "ني أسيڤيس ذي آڤساڤول ننوثوش إياڤهوليم ننووهي نيم بيف مانيسوو"
   },
   {
     "order": 35,
@@ -312,7 +346,8 @@
     "rubric_ref": "R14f35",
     "text_coptic": "ⲟⲩⲓⲱ ⲇⲉ ⲛⲧⲉ ϩⲁⲛⲟⲣⲫⲁⲛⲟⲥ ⲁⲩⲟⲗⲥ ⲟⲩⲟϩ ⲧⲉϩⲉ ⲛⲟⲩⲭⲏⲣⲁ ⲁⲩⲟⲗⲥ ⲛⲁⲩⲱ",
     "text_arabic": "سلبوا حمار الايتام وارتهنوا بقرة الارملة",
-    "text_english": "they have led away the donkey of the orphans and have taken the widow s ox as a pledge"
+    "text_english": "they have led away the donkey of the orphans and have taken the widow s ox as a pledge",
+    "text_coptic_arabic": "أويو ذي نتي هانورفانوس آڤولس أووه تيهي نو كيرا آڤولس ناڤو"
   },
   {
     "order": 36,
@@ -321,7 +356,8 @@
     "rubric_ref": "R14f36",
     "text_coptic": "ⲁⲩⲑⲣⲉ ϩⲁⲛⲁⲧϫⲟⲙ ⲣⲓⲕⲓ ⲉⲃⲟⲗ ϧⲁ ⲫⲙⲱⲓⲧ ⲛⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ⲁⲩⲭⲟⲡⲟⲩ ⲇⲉ ⲉⲩⲥⲟⲡ ⲛϫⲉ ⲛⲓⲣⲉⲙⲣⲁⲩϣ ⲛⲧⲉ ⲡⲕⲁϩⲓ",
     "text_arabic": "وجعلوا الضعفاء يميلون عن طريق الحق واختفي ودعاء الارض معا",
-    "text_english": "they have turned aside the weak from the right way the meek of the land have hidden themselves together"
+    "text_english": "they have turned aside the weak from the right way the meek of the land have hidden themselves together",
+    "text_coptic_arabic": "آڤثري هاناتجوم ريكي إيڤول خا فمويت نتي تي ميثمي آڤكوبو ذي إيڤسوب نجي ني ريمراڤش نتي بكاهي"
   },
   {
     "order": 37,
@@ -330,7 +366,8 @@
     "rubric_ref": "R14f37",
     "text_coptic": "ⲁⲩϣⲱⲡⲓ ⲙⲫⲣⲏϯ ⲛϩⲁⲛⲉⲉⲩ ϧⲉⲛ ⲧⲕⲟⲓ ⲉⲁⲩⲥⲉⲛ ⲧⲟⲩⲡⲣⲁⲝⲓⲥ ⲉⲃⲟⲗ ⲉϩⲣⲏⲓ ⲉϫⲱⲟⲩ ⲁⲩϩⲗⲟϫ ⲛⲁϥ ⲛϫⲉ ⲟⲩⲱⲓⲕ ⲛⲧⲉ ϩⲁⲛⲁⲗⲱⲟⲩⲓ",
     "text_arabic": "وصاروا كالبقر في الحقل وطرحوا اعمالهم علي واستحلوا خبز الاطفال",
-    "text_english": "they departed like donkeys in the field contrary to me they went forth to their own pursuits their bread was sweet to their little ones"
+    "text_english": "they departed like donkeys in the field contrary to me they went forth to their own pursuits their bread was sweet to their little ones",
+    "text_coptic_arabic": "آڤشوبي مفريتي نهانييڤ خين تكوي إياڤسين تو براكسيس إيڤول إيهري إيجوو آڤهلوج ناف نجي أوويك نتي هانالووي"
   },
   {
     "order": 38,
@@ -339,7 +376,8 @@
     "rubric_ref": "R14f38",
     "text_coptic": "ⲟⲩⲓⲟϩⲓ ⲙⲫⲱⲟⲩ ⲁⲛ ⲡⲉ ⲁⲩⲟⲥϧϥ ⲙⲡⲁⲧⲉ ⲧⲉϩⲟϯ ϣⲱⲡⲓ ϩⲁⲛⲁⲧϫⲟⲙ ⲇⲉ ⲁⲩⲉⲣϩⲱⲃ ⲉϩⲁⲛⲙⲁⲛⲁⲗⲟⲗⲓ ⲛⲧⲉ ⲛⲓⲁⲥⲉⲃⲏⲥ ⲛⲁⲧⲃⲉⲭⲉ ⲟⲩⲟϩ ⲛⲁⲧⲟⲩⲱⲙ",
     "text_arabic": "وحقل ليس لهم حصدوه قبل اوانه يعمل الضعفاء في كروم المنافقين بلا اجرة ولا طعام",
-    "text_english": "for they harvested a field that was not their own before the time and the poor worked the vineyard of the ungodly without pay or food"
+    "text_english": "for they harvested a field that was not their own before the time and the poor worked the vineyard of the ungodly without pay or food",
+    "text_coptic_arabic": "أويوهي مفوو أن بي آڤوسخف مباتي تيهوتي شوبي هاناتجوم ذي آڤيرهوب إيهانمانالولي نتي ني أسيڤيس ناتڤيكي أووه ناتووم"
   },
   {
     "order": 39,
@@ -348,7 +386,8 @@
     "rubric_ref": "R14f39",
     "text_coptic": "ⲟⲩⲙⲏϣ ⲉⲩⲃⲏϣ ϣⲁⲩⲑⲣⲟⲩⲉⲛⲕⲟⲧ ⲛⲁⲧϩⲱⲃⲥ ⲁⲩⲱⲗⲓ ⲇⲉ ⲛⲧϩⲉⲃⲥⲱ ⲛⲧⲉ ⲧⲟⲩⲯⲩⲭⲏ",
     "text_arabic": "كثيرا ما جعلوهم يبيتون عراة بغير لباس ونزعوا كساء انفسهم",
-    "text_english": "they caused many naked to sleep without clothing and they took away the covering of their body"
+    "text_english": "they caused many naked to sleep without clothing and they took away the covering of their body",
+    "text_coptic_arabic": "أوميش إيڤڤيش شاڤثروينكوت ناتهوبس آڤولي ذي نتهيبسو نتي تو بسيشي"
   },
   {
     "order": 40,
@@ -357,7 +396,8 @@
     "rubric_ref": "R14f3a",
     "text_coptic": "ⲥⲉϩⲟⲣⲡ ⲇⲉ ⲉⲃⲟⲗ ϧⲉⲛ ⲛⲓⲧⲉⲗⲧⲓⲗⲓ ⲛⲧⲉ ⲛⲓⲧⲱⲟⲩ ⲉⲑⲃⲉϫⲉ ⲙⲙⲟⲛⲧⲟⲩ ⲥⲕⲉⲡⲏ ⲙⲙⲁⲩ ⲁⲩϫⲟⲗⲟⲩ ⲛⲟⲩⲡⲉⲧⲣⲁ",
     "text_arabic": "فابتلوا من قطر الجبال وحيث ان لا خيام لهم استتروا بالصخور",
-    "text_english": "they are wet with the showers of the mountains and have huddled around the rock for want of shelter"
+    "text_english": "they are wet with the showers of the mountains and have huddled around the rock for want of shelter",
+    "text_coptic_arabic": "سيهورب ذي إيڤول خين ني تيلتيلي نتي ني توو إيثڤيجي ممونتو سكيبي مماڤ آڤجولو نو بيترا"
   },
   {
     "order": 41,
@@ -366,7 +406,8 @@
     "rubric_ref": "R14f3b",
     "text_coptic": "ⲁⲩϩⲱⲗⲉⲙ ⲛⲟⲩⲟⲣⲫⲁⲛⲟⲥ ⲉⲃⲟⲗ ϧⲉⲛ ⲟⲩⲛⲕⲟⲧ ⲫⲏ ⲇⲉ ⲉⲧⲁϥϩⲉⲓ ⲁⲩⲑⲉⲃⲓⲟϥ",
     "text_arabic": "خطفوا الايتام عن ثديهم ومن سقط اذلوه",
-    "text_english": "they have snatched the orphan from the breast and have humiliated the banished"
+    "text_english": "they have snatched the orphan from the breast and have humiliated the banished",
+    "text_coptic_arabic": "آڤهوليم نو أورفانوس إيڤول خين أونكوت في ذي إت أفهيي آڤثيڤيوف"
   },
   {
     "order": 42,
@@ -375,7 +416,8 @@
     "rubric_ref": "R14f3c",
     "text_coptic": "ⲁⲩⲑⲣⲉ ϩⲁⲛⲟⲩⲟⲛ ⲇⲉ ⲛⲕⲟⲧ ⲉⲩⲃⲏϣ ϧⲉⲛ ⲟⲩϭⲓⲛϫⲟⲛⲥ ⲛⲏ ⲇⲉ ⲉⲧϩⲟⲕⲉⲣ ⲁⲩⲱⲗⲓ ⲙⲡⲟⲩⲱⲓⲕ",
     "text_arabic": "بظلمهم جعلوا قوما ينامون عراة واخذوا خبز الجياع",
-    "text_english": "they have unjustly caused them to sleep without clothing and they have taken away the morsel from the hungry"
+    "text_english": "they have unjustly caused them to sleep without clothing and they have taken away the morsel from the hungry",
+    "text_coptic_arabic": "آڤثري هانوون ذي نكوت إيڤڤيش خين أوتشينجونس ني ذي إت هوكير آڤولي مبوويك"
   },
   {
     "order": 43,
@@ -384,7 +426,8 @@
     "rubric_ref": "R14f3d",
     "text_coptic": "ϧⲉⲛ ϩⲁⲛⲙⲁ ⲉⲩϫⲏⲟⲩ ⲁⲩϫⲱⲣϫ ϧⲉⲛ ⲟⲩϭⲓⲛϫⲟⲛⲥ ⲫⲙⲱⲓⲧ ⲇⲉ ⲛⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ⲙⲡⲟⲩⲥⲟⲩⲱⲛϥ",
     "text_arabic": "في المواضع الضيقة اصطادوا بالظلم وطريق العدل لم يعرفوه",
-    "text_english": "they have wrongfully laid snares in narrow places and have not known the way of righteousness"
+    "text_english": "they have wrongfully laid snares in narrow places and have not known the way of righteousness",
+    "text_coptic_arabic": "خين هانما إيڤجيؤي آڤجورج خين أوتشينجونس فمويت ذي نتي تي ميثمي مبوسوونف"
   },
   {
     "order": 44,
@@ -393,7 +436,8 @@
     "rubric_ref": "R14f3e",
     "text_coptic": "ⲛⲏ ⲉⲛⲁⲩϩⲓⲟⲩⲓ ⲙⲙⲱⲟⲩ ⲉⲃⲟⲗ ϧⲉⲛ ⲛⲟⲩⲃⲁⲕⲓ ⲛⲉⲙ ⲛⲟⲩⲏⲓ ⲧϯⲯⲩⲭⲏ ⲛⲧⲉ ϩⲁⲛⲕⲟⲩϫⲓ ⲛⲁⲗⲱⲟⲩⲓ ⲁⲥⲉⲣϩⲁⲛⲛⲓϣϯ ⲙϥⲓⲁϩⲟⲙ ⲛⲑⲟϥ ⲇⲉ ⲉⲑⲃⲉ ⲙⲡⲉϥϫⲉⲙⲡϣⲓⲛⲓ ⲛⲛⲁⲓ",
     "text_arabic": "والذين طردوهم من مدنهم وبيوتهم لم يعرفوهم فصارت نفس الاطفال في تنهد شديد لماذا لم يفتقد هؤلاء",
-    "text_english": "they have cast the poor out of the city and their own houses and the soul of the infants sighed greatly why then has he not visited them"
+    "text_english": "they have cast the poor out of the city and their own houses and the soul of the infants sighed greatly why then has he not visited them",
+    "text_coptic_arabic": "ني إيناڤهيوي مموو إيڤول خين نو ڤاكي نيم نو إي تتيبسيشي نتي هانكوجي نالووي أسيرهاننيشتي مفياهوم نثوف ذي إيثڤي مبيفجيمبشيني نناي"
   },
   {
     "order": 45,
@@ -402,7 +446,8 @@
     "rubric_ref": "R14f3f",
     "text_coptic": "ⲉⲩϣⲟⲡ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ ⲟⲩⲟϩ ⲙⲡⲟⲩⲉⲙⲓ ⲫⲙⲱⲓⲧ ⲇⲉ ⲛⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ⲙⲡⲟⲩⲥⲟⲩⲱⲛϥ ⲟⲩⲇⲉ ⲙⲡⲟⲩⲙⲟϣⲓ ϩⲓ ⲛⲉⲥⲙⲓⲧⲱⲟⲩⲓ",
     "text_arabic": "وهم علي الارض وهم لم يعرفوا طريق البر ولم يمشوا في سبله",
-    "text_english": "they are the ones on the earth who neither know nor understand the way of righteousness nor do they walk in his paths"
+    "text_english": "they are the ones on the earth who neither know nor understand the way of righteousness nor do they walk in his paths",
+    "text_coptic_arabic": "إيڤشوب هيجين بي كاهي أووه مبويمي فمويت ذي نتي تي ميثمي مبوسوونف أوذي مبوموشي هي نيس ميتووي"
   },
   {
     "order": 46,
@@ -411,7 +456,8 @@
     "rubric_ref": "R14f40",
     "text_coptic": "ⲉⲧⲁϥⲉⲙⲓ ⲇⲉ ⲛⲟⲩϩⲃⲏⲟⲩⲓ ⲁϥⲧⲏⲓⲧⲟⲩ ⲉⲡⲭⲁⲕⲓ ⲟⲩⲟϩ ϧⲉⲛ ⲡⲓⲉϫⲱⲣϩ ⲉϥⲉⲉⲣ ⲙⲫⲣⲏϯ ⲛⲟⲩⲣⲉϥϭⲓⲟⲩⲓ",
     "text_arabic": "فلما علم باعمالهم اسلمهم للظلمة وفي الليل يصير مثل اللص",
-    "text_english": "but he knows their works and delivered them into darkness and one shall be like a thief in the night e"
+    "text_english": "but he knows their works and delivered them into darkness and one shall be like a thief in the night e",
+    "text_coptic_arabic": "إت أفيمي ذي نو هڤيؤي أفتيتو إيبكاكي أووه خين بي إيجوره إيفيير مفريتي نو ريف تشيوي"
   },
   {
     "order": 47,
@@ -420,7 +466,8 @@
     "rubric_ref": "R14f41",
     "text_coptic": "ⲟⲩⲟϩ ⲫⲃⲁⲗ ⲛⲟⲩⲛⲱⲓⲕ ⲁϥⲁⲣⲉϩ ⲉⲣⲟϥ ⲉⲩⲭⲁⲕⲓ ⲉϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲙⲙⲟⲛ ⲃⲁⲗ ⲛⲁⲩ ⲉⲣⲟⲓ ⲟⲩⲟϩ ⲁϥⲭⲁⲧ ⲛⲟⲩⲙⲁⲛⲭⲱⲡ ⲛⲧⲉ ⲟⲩϩⲟ",
     "text_arabic": "وعين الزاني ترقب الظلام قائلة لا تبصرني عين فيجعل سترا علي وجهه",
-    "text_english": "for the eye of the adulterer watches for the darkness saying no eye will perceive me and he puts a covering on his face"
+    "text_english": "for the eye of the adulterer watches for the darkness saying no eye will perceive me and he puts a covering on his face",
+    "text_coptic_arabic": "أووه فڤال نو نويك أفاريه إيروف إيڤخاكي إيفجو مموس جي ممون ڤال ناڤ إيروي أووه أفكات نو مانكوب نتي أوهو"
   },
   {
     "order": 48,
@@ -429,7 +476,8 @@
     "rubric_ref": "R14f42",
     "text_coptic": "ⲁⲩϩⲓϣⲁⲧⲥ ⲉϩⲁⲛⲏⲓ ϧⲉⲛ ⲡⲭⲁⲕⲓ ϧⲉⲛ ⲡⲓⲉϩⲟⲟⲩ ⲁⲩϩⲓⲧⲉⲃⲥ ⲉⲣⲱⲟⲩ ⲙⲙⲓⲛ ⲙⲙⲱⲟⲩ ⲙⲡⲟⲩⲥⲟⲩⲱⲛ ⲫⲟⲩⲱⲓⲛⲓ",
     "text_arabic": "نقب بيوتا في الظلام وفي النهار اغلقوا علي انفسهم فلا يعرفون النور",
-    "text_english": "in the dark he breaks into houses in the daytime they seal themselves up they do not know the light"
+    "text_english": "in the dark he breaks into houses in the daytime they seal themselves up they do not know the light",
+    "text_coptic_arabic": "آڤهيشاتس إيهاني خين بكاكي خين بي إيهوو آڤهيتيبس إيروو ممين مموو مبوسوون فوويني"
   },
   {
     "order": 49,
@@ -438,7 +486,8 @@
     "rubric_ref": "R14f43",
     "text_coptic": "ϫⲉ ϩⲁⲛⲁⲧⲟⲟⲩⲓ ⲡⲉ ⲟⲩϧⲏⲓⲃⲓ ⲛⲧⲉ ⲫⲙⲟⲩ ⲡⲉⲉⲧⲛⲁϣⲱⲡⲓ ⲛⲱⲟⲩ ⲉⲩⲥⲟⲡ ϫⲉ ⲉϥⲉⲥⲟⲩⲉⲛ ϩⲁⲛϣⲑⲟⲣⲧⲉⲣ ⲛⲧⲉ ⲧϧⲏⲓⲃⲓ ⲙⲫⲙⲟⲩ",
     "text_arabic": "لان صباحا ظل الموت يدركهم معا لانه يعرف اهوال ظل الموت",
-    "text_english": "for the morning is to them all as the shadow of death because they shall know the terrors of the shadow of death"
+    "text_english": "for the morning is to them all as the shadow of death because they shall know the terrors of the shadow of death",
+    "text_coptic_arabic": "جي هاناتووي بي أوخيڤي نتي فمو بييتناشوبي نوو إيڤسوب جي إيفيسوين هانشتورتير نتي تخيڤي مفمو"
   },
   {
     "order": 50,
@@ -447,7 +496,8 @@
     "rubric_ref": "R14f44",
     "text_coptic": "ϥⲁⲥⲓⲱⲟⲩ ϩⲓϫⲉⲛ ⲡϩⲟ ⲛⲟⲩⲙⲱⲟⲩ ⲉϥⲉϣⲱⲡⲓ ⲉϥⲥϩⲟⲩⲟⲣⲧ ⲛϫⲉ ⲡⲟⲩⲙⲉⲣⲟⲥ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ",
     "text_arabic": "خفيف هو علي وجه الماء فليكن نصيبهم ملعونا علي الارض",
-    "text_english": "he is swift on the face of the waters may his portion be cursed on earth"
+    "text_english": "he is swift on the face of the waters may his portion be cursed on earth",
+    "text_coptic_arabic": "فاسيوو هيجين بهو نو موو إيفيشوبي إيفسهوورت نجي بو ميروس هيجين بي كاهي"
   },
   {
     "order": 51,
@@ -456,7 +506,8 @@
     "rubric_ref": "R14f45",
     "text_coptic": "ⲉⲩⲉⲟⲩⲱⲛϩ ⲇⲉ ⲉⲃⲟⲗ ⲛϫⲉ ⲛⲏ ⲉⲧⲣⲏⲧ ⲛⲧⲱⲟⲩ ⲉⲩϣⲟⲩⲱⲟⲩ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ ⲁⲩϩⲱⲗⲉⲙ ⲅⲁⲣ ⲛϩⲁⲛⲭⲛⲁⲩ ⲛⲧⲉ ϩⲁⲛⲟⲣⲫⲁⲛⲟⲥ",
     "text_arabic": "وليظهر نباتهم يابسا علي وجه الارض لانهم نهبوا اغمار الايتام",
-    "text_english": "may their plants wither on earth for they have taken away from the orphans even the smallest portions"
+    "text_english": "may their plants wither on earth for they have taken away from the orphans even the smallest portions",
+    "text_coptic_arabic": "إيڤيوونه ذي إيڤول نجي ني إت ريت نتوو إيڤشووو هيجين بي كاهي آڤهوليم غار نهانكناڤ نتي هانورفانوس"
   },
   {
     "order": 52,
@@ -465,7 +516,8 @@
     "rubric_ref": "R14f46",
     "text_coptic": "ⲓⲧⲁ ⲁϥⲉⲣⲫⲙⲉⲩⲓ ⲙⲡⲉϥⲛⲟⲃⲓ ⲁϥⲉⲣⲁⲑⲟⲩⲱⲛϩ ⲇⲉ ⲙⲫⲣⲏϯ ⲛⲟⲩⲛⲓϥ ⲛⲓⲱϯ ⲉϥⲉϯϣⲉⲃⲓⲱ ⲇⲉ ⲛⲁϥ ⲛⲛⲏ ⲉⲧⲁϥⲁⲓⲧⲟⲩ ⲉϥⲉϧⲟⲙϧⲉⲙ ⲇⲉ ⲛϫⲉ ⲣⲉϥϭⲓⲛϫⲟⲛⲥ ⲛⲓⲃⲉⲛ ⲙⲫⲣⲏϯ ⲛⲟⲩϣⲉ ⲛⲁⲧϣⲁⲩ",
     "text_arabic": "وحين ذكر خطيته وصار غير ظاهر كمثل طل الندي وسيجازي بما فعل وينسحق كل ظالم مثل الخشب غير النافع",
-    "text_english": "then his sin is recalled to memory and he vanishes like a mist of dew but what he has done may it be recompensed to him and may every wrongdoer be crushed like rotten wood"
+    "text_english": "then his sin is recalled to memory and he vanishes like a mist of dew but what he has done may it be recompensed to him and may every wrongdoer be crushed like rotten wood",
+    "text_coptic_arabic": "إيتا أفيرفميڤي مبيفنوڤي أفيراثوونه ذي مفريتي نو ني ف ني أوتي إيفيتيشيڤيو ذي ناف نني إت أفايتو إيفيخومخيم ذي نجي ريف تشينجونس ني ڤين مفريتي نو شي ناتشاڤ"
   },
   {
     "order": 53,
@@ -474,7 +526,8 @@
     "rubric_ref": "R14f47",
     "text_coptic": "ⲟⲩⲁϭⲣⲏⲛ ⲧⲉ ⲙⲡⲟⲩⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲛⲁⲥ ⲟⲩⲁⲧⲥϩⲓⲙⲓ ⲇⲉ ⲛⲛⲟⲩⲛⲁⲓ ⲛⲁϥ",
     "text_arabic": "لانهم لم يحسنوا الي العاقر ولم يرحموا الارملة",
-    "text_english": "for he has not treated the barren woman well and showed no mercy to the feeble woman"
+    "text_english": "for he has not treated the barren woman well and showed no mercy to the feeble woman",
+    "text_coptic_arabic": "أواتشرين تي مبويربيثنانيف ناس أواتسهيمي ذي ننوناي ناف"
   },
   {
     "order": 54,
@@ -483,7 +536,8 @@
     "rubric_ref": "R14f48",
     "text_coptic": "ϧⲉⲛ ⲟⲩϫⲱⲛⲧ ⲅⲁⲣ ⲁϥⲣⲱϧⲧ ⲛϩⲁⲛⲁⲧϫⲟⲙ ⲁϥϣⲁⲛⲧⲱⲛϥ ⲟⲩⲛ ⲙⲡⲉⲛⲑⲣⲉϥⲧⲉⲛϩⲉⲧ ⲡⲉϥⲧⲱⲛϥ",
     "text_arabic": "وبغضب طرحوا الضعفاء فاذا قام لا يامن علي حياته",
-    "text_english": "in his anger he overturns the weak therefore when he rises up no one believes his own life is safe"
+    "text_english": "in his anger he overturns the weak therefore when he rises up no one believes his own life is safe",
+    "text_coptic_arabic": "خين أوجونت غار أفروخت نهاناتجوم أفشانتونف أون مبينثريفتينهيت بيف تونف"
   },
   {
     "order": 55,
@@ -492,7 +546,8 @@
     "rubric_ref": "R14f49",
     "text_coptic": "ⲁϥϣⲁⲛϣⲱⲛⲓ ⲇⲉ ⲙⲡⲉⲛⲑⲣⲉϥⲉⲣϩⲉⲗⲡⲓⲥ ϫⲉ ϥⲛⲁⲗⲟϫϥ ⲁⲗⲗⲁ ⲉϥⲉϩⲉⲓ ϧⲉⲛ ⲟⲩϣⲱⲛⲓ",
     "text_arabic": "واذا ضعف لا يرجو الشفاء بل يسقط بالمرض",
-    "text_english": "when he falls sick let him not hope to recover but let him perish by disease"
+    "text_english": "when he falls sick let him not hope to recover but let him perish by disease",
+    "text_coptic_arabic": "أفشانشوني ذي مبينثريفيرهيلبيس جي فنالوجف أللا إيفيهيي خين أوشوني"
   },
   {
     "order": 56,
@@ -501,7 +556,8 @@
     "rubric_ref": "R14f4a",
     "text_coptic": "ⲟⲩⲙⲏϣ ⲅⲁⲣ ⲁϥⲧϩⲉⲙⲕⲱⲟⲩ ⲛϫⲉ ⲡⲉϥϭⲓⲥⲓ ⲁϥⲗⲱⲙ ⲇⲉ ⲙⲫⲣⲏϯ ⲛⲟⲩⲙⲟⲗⲟⲕⲓ ϧⲉⲛ ⲡⲕⲁⲩⲙⲁ ⲓⲉ ⲙⲫⲣⲏϯ ⲛⲟⲩϧⲉⲙⲥ ⲉⲁϥϩⲉⲓ ⲙⲙⲁⲩⲁⲧϥ ⲉⲃⲟⲗ ϧⲉⲛ ϩⲁⲛⲣⲱⲟⲩⲓ",
     "text_arabic": "ان كثيرين خفضهم ارتفاعه فذبلت خضرتهم بالحر مثل السنبل اذا سقط وحده من العواصف",
-    "text_english": "for his exaltation mistreated many but he has withered as mallows in the heat or as an ear of corn falling on its own from the stalk"
+    "text_english": "for his exaltation mistreated many but he has withered as mallows in the heat or as an ear of corn falling on its own from the stalk",
+    "text_coptic_arabic": "أوميش غار أفتهيمكوو نجي بيف تشيسي أفلوم ذي مفريتي نو مولوكي خين بكاڤما إيي مفريتي نو خيمس إيافهيي مماڤاتف إيڤول خين هانرووي"
   },
   {
     "order": 57,
@@ -510,7 +566,8 @@
     "rubric_ref": "R14f4b",
     "text_coptic": "ⲓⲥϫⲉ ⲙⲙⲟⲛ ⲛⲓⲙ ⲡⲉ ⲫⲏ ⲉⲧⲁϥϫⲟⲥ ϫⲉ ⲁϥϫⲉ ⲙⲉⲑⲛⲟⲩϫ ⲟⲩⲟϩ ⲛⲧⲉϥⲭⲱ ⲛⲛⲁⲥⲁϫⲓ ϫⲉ ϩⲁⲛϩⲗⲓ ⲛⲉ",
     "text_arabic": "والا فمن قال له اني كذبت ويجعل كلامي كلا شيء",
-    "text_english": "if it is not so who says i speak falsely and will make my speech worth nothing"
+    "text_english": "if it is not so who says i speak falsely and will make my speech worth nothing",
+    "text_coptic_arabic": "إيسجي ممون ني م بي في إت أفجوس جي أفجي ميثنوج أووه نتيفكو نناساجي جي هانهلي ني"
   },
   {
     "order": 58,
@@ -519,7 +576,8 @@
     "rubric_ref": "T5961",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "تفسير ايوب 23 2 24 25",
-    "text_english": "interpretation job 23 2 24 25"
+    "text_english": "interpretation job 23 2 24 25",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 59,
@@ -528,7 +586,8 @@
     "rubric_ref": "R5962",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال انا اعلم ان توبيخي هو منه يعني بهذا عن المصائب التي اصابته من ماله وبنيه وجسده وسمي ذلك توبيخا كما قال بولس الرسول ان الذي يحبه الرب يؤدبه",
-    "text_english": "he said “even today my complaint is bitter” referring to the calamities that befell him in his fortunes children and body he called it bitter as st paul said “for whom the lord loves he chastens”"
+    "text_english": "he said “even today my complaint is bitter” referring to the calamities that befell him in his fortunes children and body he called it bitter as st paul said “for whom the lord loves he chastens”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 60,
@@ -537,7 +596,8 @@
     "rubric_ref": "R5963",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ويده قد ثقلت علي تنهدي يعني ان قوة الرب غلبت الافكار المترادفة عليه لانه سمي قوة الرب يدا",
-    "text_english": "he said “his hand is heavy in spite of my groaning” which means that god’s power overwhelmed his thoughts because he likened god’s power to a hand"
+    "text_english": "he said “his hand is heavy in spite of my groaning” which means that god’s power overwhelmed his thoughts because he likened god’s power to a hand",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 61,
@@ -546,7 +606,8 @@
     "rubric_ref": "R5964",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال وثقلت اي رجحت علي الافكار والتنهد حتي منعهم عنه",
-    "text_english": "he said that his suffering is so grave that it overwhelmed his thoughts and his sighs enabling him to present his case well before the lord"
+    "text_english": "he said that his suffering is so grave that it overwhelmed his thoughts and his sighs enabling him to present his case well before the lord",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 62,
@@ -555,7 +616,8 @@
     "rubric_ref": "R5965",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال من لي بان اعلم واجده واتقدم الي منصبه فاحسن الدعوة امامه كشف له الرب انه ليس احدا يبلغ الكمال الا سيدنا يسوع المسيح",
-    "text_english": "he said “oh that i knew where i might find him that i might come to his seat i would present my case before him ” the lord revealed to him that no one is perfect except our lord jesus christ"
+    "text_english": "he said “oh that i knew where i might find him that i might come to his seat i would present my case before him ” the lord revealed to him that no one is perfect except our lord jesus christ",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 63,
@@ -564,7 +626,8 @@
     "rubric_ref": "R5966",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال انا اعلم بثبات ما يقوله لي وافهم ما يعرفني اياه يعني ان الله اعطاه موهبة الثبات علي قتال العدو ومكره",
-    "text_english": "he said “i would know the words which he would answer me and understand what he would say to me ” he means that god gave him the resilience to fight his adversary and his schemes"
+    "text_english": "he said “i would know the words which he would answer me and understand what he would say to me ” he means that god gave him the resilience to fight his adversary and his schemes",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 64,
@@ -573,7 +636,8 @@
     "rubric_ref": "R5967",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لان العدو كان يحرك فيه افكارا يظن بها انها حسنة ليخدعه بها وكانت المعرفة التي فيه تعلمه انها من العدو",
-    "text_english": "because his adversary moved in him thoughts that appeared good to beguile him but his awareness made him realize that they are from his adversary"
+    "text_english": "because his adversary moved in him thoughts that appeared good to beguile him but his awareness made him realize that they are from his adversary",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 65,
@@ -582,7 +646,8 @@
     "rubric_ref": "R5968",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ابعظمة جبروته ياتي علي لا بل يعطف علي ويفسح لي في الحال رجزه اي لا يتخلي عني حتي اضجر واكفر به",
-    "text_english": "he said “would he contend with me in his great power no but he would take note of me” which means god would not forsake him beyond his endurance or until he loses faith"
+    "text_english": "he said “would he contend with me in his great power no but he would take note of me” which means god would not forsake him beyond his endurance or until he loses faith",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 66,
@@ -591,7 +656,8 @@
     "rubric_ref": "R5969",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ويخرج حكمي الي الانقضاء اي ان هذا الصبر الذي صربته ينتشر الي انقضاء العالم لان الحكم هو الالم الذي اصابه",
-    "text_english": "he said “and i would be delivered forever from my judge ” because his patience will last until the end of time since suffering is his judgment"
+    "text_english": "he said “and i would be delivered forever from my judge ” because his patience will last until the end of time since suffering is his judgment",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 67,
@@ -600,7 +666,8 @@
     "rubric_ref": "R596a",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ولا اعلم ما في الاواخر يعني انه في مكانه كان يفرغ من انه ما يصبر الي المنتهي",
-    "text_english": "he said “look i go forward but he is not there and backward but i cannot perceive him” which means he was scared that he would not be able to wait up till the end"
+    "text_english": "he said “look i go forward but he is not there and backward but i cannot perceive him” which means he was scared that he would not be able to wait up till the end",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 68,
@@ -609,7 +676,8 @@
     "rubric_ref": "R596b",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ويعمل في الشمال ولم ادركه يعني بهذا اعداءه وعمال الشر المناصبين له لانهم يسمون شمالا كما قال السيد المسيح",
-    "text_english": "he said “when he works on the left hand i cannot behold him” referring to his adversaries and the agents of evil because they are called left as the lord has said"
+    "text_english": "he said “when he works on the left hand i cannot behold him” referring to his adversaries and the agents of evil because they are called left as the lord has said",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 69,
@@ -618,7 +686,8 @@
     "rubric_ref": "R596c",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "يقيم الخراف عن يمينه والجداء عن اليسار اي ابليس ومن يتبع هواه",
-    "text_english": "“and he will set the sheep on his right hand but the goats on the left” meaning satan and his followers"
+    "text_english": "“and he will set the sheep on his right hand but the goats on the left” meaning satan and his followers",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 70,
@@ -627,7 +696,8 @@
     "rubric_ref": "R596d",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وقال ولم ادركه يعني انه ما تمسك بافعالهم ولا تنجس بطرقهم",
-    "text_english": "“he cannot behold him” because he did not cling to their acts nor did he become unclean with their ways"
+    "text_english": "“he cannot behold him” because he did not cling to their acts nor did he become unclean with their ways",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 71,
@@ -636,7 +706,8 @@
     "rubric_ref": "R596e",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ويستتر في الجنوب ولم انظر يعني بما ان الشياطين ومن يتبع هواهم من اهل الشمال",
-    "text_english": "he said “when he turns to the south i catch no glimpse of him” meaning that the demons and their followers are from the north"
+    "text_english": "he said “when he turns to the south i catch no glimpse of him” meaning that the demons and their followers are from the north",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 72,
@@ -645,7 +716,8 @@
     "rubric_ref": "R596f",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فكذلك الملائكة ومن سلك طرقهم هم من اهل اليمين",
-    "text_english": "whereas the angels and their followers are on the right"
+    "text_english": "whereas the angels and their followers are on the right",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 73,
@@ -654,7 +726,8 @@
     "rubric_ref": "R5970",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال فان كان قد حكم هكذا فمن هو الذي يقاومه وهو ما يريده يعمله يعني بذلك ان الانسان اذا اتي عليه حكم من احكام الرب فيجب عليه ان يصبر ويشكره دائما",
-    "text_english": "he said “but he stands alone and who can oppose him he does whatever he pleases” which means that man must bear when he receives god’s judgment and thank him continuously"
+    "text_english": "he said “but he stands alone and who can oppose him he does whatever he pleases” which means that man must bear when he receives god’s judgment and thank him continuously",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 74,
@@ -663,7 +736,8 @@
     "rubric_ref": "R5971",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولا يقاومه بالضجر والكفر بل يجعل عوض ذلك الصلاة والطلبة ان يعطيه الله عوض الضجر صبرا فان الذي يريده الرب يفعله",
-    "text_english": "and does not resist by resentment or losing faith but persevere in prayer and in asking god to substitute resentment with patience since times are not hidden from the almighty god does what he wants to do"
+    "text_english": "and does not resist by resentment or losing faith but persevere in prayer and in asking god to substitute resentment with patience since times are not hidden from the almighty god does what he wants to do",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 75,
@@ -672,7 +746,8 @@
     "rubric_ref": "R5972",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال كيف خفيت هذه الازمنة علي الرب اي ان الرب لا يخفاه شيء لكنه يتمهل علي الخطاة ويتاني عليهم رجاء عودتهم الي الصلاح",
-    "text_english": "he said “since times are not hidden from the almighty ” because the lord sees everything yet he is slow to act against the sinners hoping they will repent"
+    "text_english": "he said “since times are not hidden from the almighty ” because the lord sees everything yet he is slow to act against the sinners hoping they will repent",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 76,
@@ -681,7 +756,8 @@
     "rubric_ref": "R5973",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال فتجاوز المنافقون عن حدودهم مختطفين القطيع مع راعيه يعني بذلك بني اسرائيل لانهم خرجوا عن العقل الذي انارهم به الله وعملوا بضده وارتكبوا الشطط",
-    "text_english": "he said “why do those who know him see not his days some remove landmarks they seize flocks violently” referring to the israelites because they acted against reason"
+    "text_english": "he said “why do those who know him see not his days some remove landmarks they seize flocks violently” referring to the israelites because they acted against reason",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 77,
@@ -690,7 +766,8 @@
     "rubric_ref": "R5974",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وساروا وراء هواهم حتي حكموا بالموت علي السيد المسيح الذي هو الراعي الصالح وناصبوا تلاميذه الذين هم القطيع العداء",
-    "text_english": "and followed their whims until they sentenced christ to death although he is the good shepherd and made enemies with his disciples"
+    "text_english": "and followed their whims until they sentenced christ to death although he is the good shepherd and made enemies with his disciples",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 78,
@@ -699,7 +776,8 @@
     "rubric_ref": "R5975",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال وصاروا كالبقر في الحقل يعني بذلك انهم خرجوا عن حد العقل وصاروا كالبهائم",
-    "text_english": "he said “indeed like wild donkeys in the desert” showing that they became unreasonable like animals"
+    "text_english": "he said “indeed like wild donkeys in the desert” showing that they became unreasonable like animals",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 79,
@@ -708,7 +786,8 @@
     "rubric_ref": "R5976",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال مستحلين خبز الاطفال يعني انهم صاروا كالاطفال الذين لم يكمل عقلهم حيث لم يندموا بعد ذلك علي افعالهم",
-    "text_english": "he said “some snatch the fatherless from the breast” meaning they became like children immature and unrepentant for their deeds"
+    "text_english": "he said “some snatch the fatherless from the breast” meaning they became like children immature and unrepentant for their deeds",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 80,
@@ -717,7 +796,8 @@
     "rubric_ref": "R5977",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "بل كان كل ما يعملونه حلوا عندهم كاكل الخبز",
-    "text_english": "their acts were as sweet as eating bread"
+    "text_english": "their acts were as sweet as eating bread",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 81,
@@ -726,7 +806,8 @@
     "rubric_ref": "R5978",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال استعمل المنافقون الضعفاء في كرومهم بلا اجرة ولا طعام يعني بالضعفاء الرسل الافاضل لانهم خرجوا نزر يسير في العالم جميعه",
-    "text_english": "he said “they cause the poor to go naked without clothing” those they abuse are the holy disciples who evangelized the world with very little"
+    "text_english": "he said “they cause the poor to go naked without clothing” those they abuse are the holy disciples who evangelized the world with very little",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 82,
@@ -735,7 +816,8 @@
     "rubric_ref": "R5979",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال في كرومهم كروم المنافقين يعني الكرم الحقل والحقل سماه الانجيل العالم وذلك ان الرسل بشروا في العالم غير المؤمنين",
-    "text_english": "the winepresses are placed in the fields which stand for the world the apostles evangelized the nonbelievers who were called hypocrites"
+    "text_english": "the winepresses are placed in the fields which stand for the world the apostles evangelized the nonbelievers who were called hypocrites",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 83,
@@ -744,7 +826,8 @@
     "rubric_ref": "R597a",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لانه سمي غير المؤمن منافق قال بغير اجرة كما قال لهم السيد مجانا اخذتم مجانا اعطوا",
-    "text_english": "they made them work without pay because the lord said “freely you have received freely give ”"
+    "text_english": "they made them work without pay because the lord said “freely you have received freely give ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 84,
@@ -753,7 +836,8 @@
     "rubric_ref": "R597b",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال يبيتون كثيرين عراة بلا لباس لانهم سلبوهم كساء انفسهم يعني بذلك ان معلمي الناموس لمحبتهم الرئاسة وتشددهم علي الناس وتحميلهم الاثقال يخرجونهم من هذا العالم وهم عراة من الاعمال الصالحة",
-    "text_english": "he said “they cause the poor to go naked without clothing and they take away the sheaves from the hungry ” this means that the teachers of the law loved to be leaders and were hard on the people whom they burdened enough to deliver them from this world naked from any good deeds"
+    "text_english": "he said “they cause the poor to go naked without clothing and they take away the sheaves from the hungry ” this means that the teachers of the law loved to be leaders and were hard on the people whom they burdened enough to deliver them from this world naked from any good deeds",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 85,
@@ -762,7 +846,8 @@
     "rubric_ref": "R597c",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لانهم اخذوا كسوة انفسهم اي منعوهم من كل الفضائل التي هي كسوة النفس",
-    "text_english": "because they took their clothes for themselves they forbade them from any virtue which is the clothing of the soul"
+    "text_english": "because they took their clothes for themselves they forbade them from any virtue which is the clothing of the soul",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 86,
@@ -771,7 +856,8 @@
     "rubric_ref": "R597d",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "كما قال لهم سيدنا المسيح ويل لكم ايها الناموسيون لانكم اخذتم مفتاح المعرفة ما دخلتم انتم والداخلون منعتموهم",
-    "text_english": "as the lord christ said “woe to you lawyers for you have taken away the key of knowledge you did not enter in yourselves and those who were entering in you hindered"
+    "text_english": "as the lord christ said “woe to you lawyers for you have taken away the key of knowledge you did not enter in yourselves and those who were entering in you hindered",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 87,
@@ -780,7 +866,8 @@
     "rubric_ref": "R597e",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال فابتلوا من قطر الجبال وحيث ان لا خيام لهم التجئوا الي الصخور يعني ان الذي قبل وصايا رسل سيدنا المسيح الذين هم القطر لان القطر هو التعاليم المسيحية",
-    "text_english": "“they are drenched by mountain rains and hug the rocks for lack of shelter ” those who accepted the commandments of jesus christ are the rain because the rain is the christian teachings"
+    "text_english": "“they are drenched by mountain rains and hug the rocks for lack of shelter ” those who accepted the commandments of jesus christ are the rain because the rain is the christian teachings",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 88,
@@ -789,7 +876,8 @@
     "rubric_ref": "R597f",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فهم يوصلوه الي تلك الصخرة التي هي المسيح ويلتجئ بها",
-    "text_english": "which lead them to the rock christ where they take shelter"
+    "text_english": "which lead them to the rock christ where they take shelter",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 89,
@@ -798,7 +886,8 @@
     "rubric_ref": "R5980",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فصارت نفس الاطفال في تنهد شديد تنبا النبي عن مجيء السيد المسيح وقتل الاطفال الذين في بيت لحم وما كان في ذلك الوقت من التنهد العظيم والعويل الشديد",
-    "text_english": "“the fatherless child is snatched from the breath” prophesying the murder of the innocents in bethlehem which was a time of great weeping and groaning"
+    "text_english": "“the fatherless child is snatched from the breath” prophesying the murder of the innocents in bethlehem which was a time of great weeping and groaning",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 90,
@@ -807,7 +896,8 @@
     "rubric_ref": "R5981",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ولماذا يفتقد سكان الارض وهم لم يعرفوا طريق العدل ولم يمشوا في سبيله",
-    "text_english": "he said “yet god does not charge them with wrong there are those who rebel against the light they do not know its ways nor abide in its paths ”"
+    "text_english": "he said “yet god does not charge them with wrong there are those who rebel against the light they do not know its ways nor abide in its paths ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 91,
@@ -816,7 +906,8 @@
     "rubric_ref": "R5982",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "يعني بذلك ان شعب اليهود كان ينظر العلامات التي تدل علي مجيء المسيح وينكر ذلك لمحبته في المجد الباطل",
-    "text_english": "referring to the jewish people who looked for the signs of the coming of christ but they denied his coming seeking vainglory"
+    "text_english": "referring to the jewish people who looked for the signs of the coming of christ but they denied his coming seeking vainglory",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 92,
@@ -825,7 +916,8 @@
     "rubric_ref": "R5983",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولم يذعن لاقوال الانبياء ولم يؤمن بسيدنا يسوع المسيح لان الصديق سمي طريق العدل هنا الايمان بالمسيح",
-    "text_english": "they did not heed the prophecies and did not believe in our lord christ the path of light is belief in christ"
+    "text_english": "they did not heed the prophecies and did not believe in our lord christ the path of light is belief in christ",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 93,
@@ -834,7 +926,8 @@
     "rubric_ref": "R5984",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال فلما علم باعمالهم سلمهم للظلمة اي انه لما راي انهم لم يتوبوا تخلي عنهم وملك اعداءهم عليهم واسلمهم الي السيف",
-    "text_english": "he said “they are in the terrors of the shadow of death ” when god saw that they did not repent he abandoned them their enemies ruled them and they were killed with the sword"
+    "text_english": "he said “they are in the terrors of the shadow of death ” when god saw that they did not repent he abandoned them their enemies ruled them and they were killed with the sword",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 94,
@@ -843,7 +936,8 @@
     "rubric_ref": "R5985",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال فليكن نصيبهم ملعونا علي الارض يعني ان الذين يبقون من بني اسرائيل ولم يؤمنوا بالمسيح يكونون مرذولين مبغوضين من كل الامم في كل صقع من الارض",
-    "text_english": "he said “their portion should be cursed in the earth ” meaning those who were left from the israelites and did not believe in christ will be rejected and hated by all nations in all corners of the earth"
+    "text_english": "he said “their portion should be cursed in the earth ” meaning those who were left from the israelites and did not believe in christ will be rejected and hated by all nations in all corners of the earth",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 95,
@@ -852,7 +946,8 @@
     "rubric_ref": "R5986",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "قال ولا فمن يكذبني ويجعل كلامي كلا شيء يعني بذلك انه لم يتكلم بشيء من عنده بل بالروح الكلي قدسه الصادق الذي له المجد دائما امين",
-    "text_english": "he said “now if it is not so who will prove me a liar and make my speech worth nothing ” to show that he said nothing on his own but was inspired by the holy spirit glory be to him forever amen"
+    "text_english": "he said “now if it is not so who will prove me a liar and make my speech worth nothing ” to show that he said nothing on his own but was inspired by the holy spirit glory be to him forever amen",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 96,
@@ -861,7 +956,8 @@
     "rubric_ref": "T14f4e",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "هوشع 4 1 8",
-    "text_english": "hosea 4 1 8"
+    "text_english": "hosea 4 1 8",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 97,
@@ -870,7 +966,8 @@
     "rubric_ref": "R55a0",
     "text_coptic": "ⲉⲃⲟⲗϧⲉⲛ ⲱⲥⲓⲉ ⲡⲓⲡⲣⲟⲫⲏⲧⲏⲥ ⲉⲣⲉⲡⲉϥⲥⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁⲙⲏⲛ ⲉϥϫⲱ ⲙⲙⲟⲥ",
     "text_arabic": "من هوشع النبي بركته المقدسة تکون معنا امين",
-    "text_english": "a reading from hosea the prophet may his holy blessings be with us amen"
+    "text_english": "a reading from hosea the prophet may his holy blessings be with us amen",
+    "text_coptic_arabic": "إيڤولخين أوسيي بي بروفيتيس إيريبيفسمو إثؤواب شوبي نيمان آمين إيفجو مموس"
   },
   {
     "order": 98,
@@ -879,7 +976,8 @@
     "rubric_ref": "R14f4f",
     "text_coptic": "ⲥⲱⲧⲉⲙ ⲉⲡⲥⲁϫⲓ ⲙⲡϭⲟⲓⲥ ⲛⲉⲛϣⲏⲣⲓ ⲙⲡⲓⲥⲣⲁⲏⲗ ϫⲉ ⲡⲓϩⲁⲡ ⲙⲡϭⲟⲓⲥ ⲟⲩⲃⲉ ⲛⲏⲉⲧϣⲟⲡ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ϫⲉ ⲟⲩⲏⲓ ⲙⲙⲟⲛ ⲙⲉⲑⲙⲏⲓ ⲟⲩⲇⲉ ⲙⲙⲟⲛ ⲛⲁⲓ ⲟⲩⲇⲉ ⲙⲙⲟⲛ ⲥⲟⲩⲉⲛ ⲛⲟⲩϯ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ",
     "text_arabic": "اسمعوا كلام الرب يا بني اسرائيل فان للرب محاكمة مع سكان الارض لانه لا حق ولا رحمة ولا معرفة الله علي الارض",
-    "text_english": "hear the word of the lord you children of israel for the lord has a judgment for the inhabitants of the land there is no truth or mercy or knowledge of god in the land"
+    "text_english": "hear the word of the lord you children of israel for the lord has a judgment for the inhabitants of the land there is no truth or mercy or knowledge of god in the land",
+    "text_coptic_arabic": "سوتيم إيبساجي مبتشيس نين شيري مبيسرايل جي بي هاب مبتشيس أوڤي ني إت شوب هيجين بكاهي جي أوي ممون ميثمي أوذي ممون ناي أوذي ممون سوين نو تي هيجين بكاهي"
   },
   {
     "order": 99,
@@ -888,7 +986,8 @@
     "rubric_ref": "R14f50",
     "text_coptic": "ⲟⲩⲥⲁϩⲟⲩⲓ ⲛⲉⲙ ⲟⲩⲙⲉⲑⲛⲟⲩϫ ⲛⲉⲙ ⲟⲩϧⲱⲧⲉⲃ ⲛⲉⲙ ⲟⲩϭⲓⲟⲩⲓ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲛⲱⲓⲕ ⲁⲩⲫⲱⲛⲉⲃⲟⲗ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ⲟⲩⲟϩ ϩⲁⲛⲥⲛⲟϥ ⲥⲉⲙⲟⲩϫⲧ ⲙⲙⲱⲟⲩ ⲉϫⲉⲛ ϩⲁⲛⲥⲛⲟϥ",
     "text_arabic": "بل لعنة وكذب وقتل وسرقة وفسق قد فاضت علي الارض ودماء تختلط بدماء",
-    "text_english": "cursing and lying murder and theft and adultery gushed forth in the land and blood is mingled with blood"
+    "text_english": "cursing and lying murder and theft and adultery gushed forth in the land and blood is mingled with blood",
+    "text_coptic_arabic": "أوساهوي نيم أوميثنوج نيم أوخوتيب نيم أوتشيوي نيم أوميتنويك آڤفونيڤول هيجين بكاهي أووه هانسنوف سيموجت مموو إيجين هانسنوف"
   },
   {
     "order": 100,
@@ -897,7 +996,8 @@
     "rubric_ref": "R14f51",
     "text_coptic": "ⲉⲑⲃⲉ ⲫⲁⲓ ⲉϥⲉⲉⲣϩⲏⲃⲓ ⲛϫⲉ ⲡⲕⲁϩⲓ ⲛⲉⲙ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧϣⲟⲡ ⲛϧⲏⲧϥ ⲟⲩⲟϩ ⲉϥⲉⲉⲣⲕⲟⲩϫⲓ ⲛⲉⲙ ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲧⲉ ⲧⲕⲟⲓ ⲛⲉⲙ ⲛⲓϭⲁⲧϥⲓ ⲛⲧⲉ ⲡⲕⲁϩⲓ ⲛⲉⲙ ⲛⲓϩⲁⲗⲁϯ ⲛⲧⲉ ⲧⲫⲉ ⲟⲩⲟϩ ⲛⲓⲕⲉⲧⲉⲃⲧ ⲛⲧⲉ ⲫⲓⲟⲙ ⲉⲩⲉⲙⲟⲩⲛⲕ",
     "text_arabic": "لذلك تنوح الارض وكل من يسكن فيها يذبل مع وحوش البرية ودبابات الارض وطيور السماء وسمك البحر ايضا يفني",
-    "text_english": "therefore the land shall mourn and be diminished with all the things that dwell in it the wild beasts of the field the reptiles of the earth and the birds of the sky and the fish of the sea shall come to an end"
+    "text_english": "therefore the land shall mourn and be diminished with all the things that dwell in it the wild beasts of the field the reptiles of the earth and the birds of the sky and the fish of the sea shall come to an end",
+    "text_coptic_arabic": "إيثڤي فاي إيفييرهيڤي نجي بكاهي نيم أوون ني ڤين إت شوب نخيتف أووه إيفييركوجي نيم ني ثيريون نتي تكوي نيم ني تشاتفي نتي بكاهي نيم ني هالاتي نتي تفي أووه ني كيتيبت نتي فيوم إيڤيمونك"
   },
   {
     "order": 101,
@@ -906,7 +1006,8 @@
     "rubric_ref": "R14f52",
     "text_coptic": "ϩⲟⲡⲱⲥ ⲛⲛⲉϩⲗⲓ ϭⲓϩⲁⲡ ⲟⲩⲇⲉ ⲛⲛⲉϥⲥⲟϩⲓ ⲡⲓⲗⲁⲟⲥ ⲁϥⲉⲣⲁⲛⲧⲓⲗⲉⲅⲓⲛ ⲛⲁϥ ⲛⲟⲩⲙⲉⲧϣⲁⲙϣⲉ ⲓⲇⲱⲗⲟⲛ ⲙⲫⲣⲏⲧ ⲙⲡⲓⲟⲩⲏⲃ ⲉϥⲉⲣⲁⲛ ⲧⲓⲗⲉⲅⲓⲛ ⲛⲁϥ ⲛⲟⲩⲙⲉⲧϣⲁⲙϣⲉ ⲛⲟⲩϯ",
     "text_arabic": "حتي لا يكون من يحاكم ولا من يوبخ مثل الشعب الذي يماري في عبادة الاصنام مثل الكاهن الذي يماري في عبادة الاله",
-    "text_english": "that neither may anyone judge nor analyze another but my people are as a priest who is spoken against"
+    "text_english": "that neither may anyone judge nor analyze another but my people are as a priest who is spoken against",
+    "text_coptic_arabic": "هوبوس ننيهلي تشيهاب أوذي ننيفسوهي بي لاوس أفيرانديليجين ناف نو ميت شامشي إيذولون مفريت مبيويب إيفيران تيليجين ناف نو ميت شامشي نو تي"
   },
   {
     "order": 102,
@@ -915,7 +1016,8 @@
     "rubric_ref": "R14f53",
     "text_coptic": "ⲟⲩⲟϩ ⲉϥⲉϣⲱⲕ ⲙⲡⲓⲉϩⲟⲟⲩ ⲟⲩⲟϩ ⲉϥⲉϣⲱⲕⲓ ⲙⲡⲓⲡⲣⲟⲫⲏⲧⲏⲥ ⲛⲉⲙⲁⲕ ⲧⲉⲕⲙⲁⲩ ⲁⲓⲧⲉⲛⲑⲱⲛⲥ ⲉⲡⲓⲉϫⲱⲣϩ",
     "text_arabic": "فيتعثر بالنهار ويتعثر ايضا النبي معك وامك شبهتها بالليل",
-    "text_english": "thus you shall be weak by day and the prophet shall be weak with you i have compared your mother to the night"
+    "text_english": "thus you shall be weak by day and the prophet shall be weak with you i have compared your mother to the night",
+    "text_coptic_arabic": "أووه إيفيشوك مبييهوو أووه إيفيشوكي مبيبروفيتيس نيماك تيك ماڤ أيتينثونس إيبييجوره"
   },
   {
     "order": 103,
@@ -924,7 +1026,8 @@
     "rubric_ref": "R14f54",
     "text_coptic": "ⲡⲁⲗⲁⲟⲥ ⲁϥⲉⲣ ⲙⲫⲣⲏϯ ⲙⲫⲏⲉⲧⲉ ⲙⲙⲟⲛ ⲧⲉϥⲥⲱⲟⲩⲛ ⲙⲙⲁⲩ ϫⲉ ⲛⲑⲟⲕ ⲁⲕⲭⲱ ⲙⲡⲥⲱⲟⲩⲛ ⲛⲥⲱⲕ ⲁⲛⲟⲕ ϩⲱ ϯⲛⲁⲭⲁⲕ ⲛⲥⲱⲓ ⲉϣⲧⲉⲙ ⲉⲣⲟⲩⲏⲃ ⲛⲏⲓ",
     "text_arabic": "وصار شعبي كمن لا معرفة له لانك انت رفضت المعرفة انا ايضا ارفضك فلا تكهن لي",
-    "text_english": "my people are like as those who have no knowledge because you have rejected knowledge i will also reject you from being a priest to me"
+    "text_english": "my people are like as those who have no knowledge because you have rejected knowledge i will also reject you from being a priest to me",
+    "text_coptic_arabic": "بالاوس أفير مفريتي مفييتي ممون تيف سوون مماڤ جي نثوك أككو مبسوون نسوك أنوك هو تي ناكاك نسوي إيشتيم إيرويب ني"
   },
   {
     "order": 104,
@@ -933,7 +1036,8 @@
     "rubric_ref": "R14f55",
     "text_coptic": "ⲟⲩⲟϩ ⲟⲛ ϯⲛⲁⲉⲣⲡⲱⲃϣ ⲙⲫⲛⲟⲙⲟⲥ ⲙⲡⲓⲥⲣⲁⲏⲗ ⲟⲩⲟϩ ϯⲛⲁⲉⲣⲡⲱⲃϣ ⲛⲛⲟⲩϩⲃⲏⲟⲩⲓ",
     "text_arabic": "انسي انا ايضا ناموس اسرائيل وانسي اعمالهم",
-    "text_english": "and because you have forgotten the law of your god i also will forget your children"
+    "text_english": "and because you have forgotten the law of your god i also will forget your children",
+    "text_coptic_arabic": "أووه أون تي نايربوبش مفنوموس مبيسرايل أووه تي نايربوبش ننوهڤيؤي"
   },
   {
     "order": 105,
@@ -942,7 +1046,8 @@
     "rubric_ref": "R14f56",
     "text_coptic": "ⲡⲁⲓⲣⲏϯ ⲁⲩⲉⲣⲛⲟⲃⲓ ⲡⲟⲩⲱⲟⲩ ϯⲛⲁⲭⲁϥ ⲉⲩϣⲱϣ",
     "text_arabic": "هكذا اخطاوا فابدل مجدهم هوانا",
-    "text_english": "according to their multitude so they sinned against me i will turn their glory into dishonor"
+    "text_english": "according to their multitude so they sinned against me i will turn their glory into dishonor",
+    "text_coptic_arabic": "بايريتي آڤيرنوڤي بو أوو تي ناكاف إيڤشوش"
   },
   {
     "order": 106,
@@ -951,7 +1056,8 @@
     "rubric_ref": "R14f57",
     "text_coptic": "ⲛⲓⲛⲟⲃⲓ ⲛⲧⲉ ⲡⲁⲗⲁⲟⲥ ⲁⲩⲟⲩⲟⲙⲟⲩ ⲟⲩⲟϩ ⲛϧⲣⲏⲓ ϧⲉⲛ ⲛⲟⲩϭⲓⲛϫⲟⲛⲥ ⲥⲉⲱⲗⲓ ⲛⲛⲟⲩⲯⲩⲭⲏ",
     "text_arabic": "وخطايا شعبي تاكلهم وبظلمهم تنزع نفوسهم",
-    "text_english": "they will eat the sins of my people and take away their lives because of their wrongdoings"
+    "text_english": "they will eat the sins of my people and take away their lives because of their wrongdoings",
+    "text_coptic_arabic": "ني نوڤي نتي بالاوس آڤوومو أووه نخري خين نو تشينجونس سيولي ننوبسيشي"
   },
   {
     "order": 107,
@@ -960,7 +1066,8 @@
     "rubric_ref": "T14f5a",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "عظة لابينا القديس انبا شنودة رئيس المتوحدين",
-    "text_english": "homily of abba shenouda the archimandrite"
+    "text_english": "homily of abba shenouda the archimandrite",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 108,
@@ -969,7 +1076,8 @@
     "rubric_ref": "R145f",
     "text_coptic": "ⲟⲩⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲁⲃⲃⲁ ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇⲣⲓⲧⲏⲥ ⲉⲣⲉ ⲡⲉϥⲥⲙⲟⲩ ⲉⲑⲟⲩⲁⲃ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ ⲁⲙⲏⲛ",
     "text_arabic": "عظة لابينا القديس انبا شنودة رئيس المتوحدين بركته المقدسة تكون معنا امين",
-    "text_english": "a homily of our holy father abba shenouda the archimandrite may his holy blessings be with us amen"
+    "text_english": "a homily of our holy father abba shenouda the archimandrite may his holy blessings be with us amen",
+    "text_coptic_arabic": "أوكاتيشيسيس نتي بين إيوت إثؤواب أبڤا شينوتي بي أرشيمانذريتيس إيري بيف سمو إثؤواب شوبي نيمان آمين"
   },
   {
     "order": 109,
@@ -978,7 +1086,8 @@
     "rubric_ref": "R14f5b",
     "text_coptic": "ϩⲱⲃ ⲥⲛⲁⲩ ⲛⲏⲉϯⲛⲁϫⲟⲧⲟⲩ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲧⲁⲩⲣⲁϣⲓ ⲉϫⲱⲟⲩ ϧⲉⲛ ⲧⲫⲉ ⲉⲑⲃⲉ ⲧⲟⲩⲙⲉⲧⲁⲛⲟⲓⲁ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ⲥⲉⲛⲁⲛⲁⲩ ⲁⲛ ⲉⲗⲩⲡⲏ ⲟⲩⲇⲉ ⲙⲕⲁϩ ϧⲉⲛ ⲡⲓⲙⲁ ⲉⲧⲉ ⲙⲙⲁⲩ",
     "text_arabic": "انا اخبركم بامرين ان كل الذين فرح بهم في السماء لاجل توبتهم علي الارض سوف لا يرون حزنا ولا الما في ذلك المكان",
-    "text_english": "let me inform you about two matters those for whom the heavens rejoiced because they repented their sin on earth will not suffer sadness or pain in the place they are destined to inherit"
+    "text_english": "let me inform you about two matters those for whom the heavens rejoiced because they repented their sin on earth will not suffer sadness or pain in the place they are destined to inherit",
+    "text_coptic_arabic": "هوب سناڤ نييتيناجوتو أوون ني ڤين إت آڤراشي إيجوو خين تفي إيثڤي تو ميت أنيا هيجين بكاهي سيناناڤ أن إيليبي أوذي مكاه خين بي ما إت إي مماڤ"
   },
   {
     "order": 110,
@@ -987,7 +1096,8 @@
     "rubric_ref": "R14f5c",
     "text_coptic": "ⲛⲏⲇⲉ ⲉⲧⲉ ⲙⲡⲟⲩⲣⲁϣⲓ ⲉϫⲱⲟⲩ ϧⲉⲛ ⲧⲫⲉ ⲉⲑⲃⲉ ⲡϫⲓⲛ ⲧⲁⲥⲑⲟ ⲛⲧⲟⲩⲙⲉⲧⲁⲛⲟⲓⲁ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ⲥⲉⲛⲁⲛⲁⲩ ⲁⲛ ⲉⲣⲁϣⲓ ⲟⲩⲇⲉ ⲁⲛⲁⲡⲁⲩⲥⲓⲥ ϧⲉⲛ ⲡⲓⲙⲁ ⲉⲧⲉⲙⲙⲁⲩ ⲉⲣⲉ ⲛⲁⲓ ⲅⲁⲣ ⲛⲁⲉⲣ ⲡⲟⲩⲣⲁϣⲓ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ⲛⲥⲉⲛⲁⲛⲁⲩ ⲁⲛ ⲉⲣⲁϣⲓ ⲟⲩⲇⲉ ⲁⲛⲁⲡⲁⲩⲥⲓⲥ ⲓⲥϫⲉⲛ ϯⲛⲟⲩ",
     "text_arabic": "واما الذين لم يفرح بهم في السماء لاجل الارتداد من توبتهم علي الارض فسوف لا يرون فرحا ولا نياحا في ذلك الموضع",
-    "text_english": "as for those whom heavens did not rejoice for because they did not atone their sins and did not repent their iniquities on earth they will find neither joy nor comfort in that place"
+    "text_english": "as for those whom heavens did not rejoice for because they did not atone their sins and did not repent their iniquities on earth they will find neither joy nor comfort in that place",
+    "text_coptic_arabic": "نيذي إت إي مبوراشي إيجوو خين تفي إيثڤي بجين تاستو ندوميتانيا هيجين بكاهي سيناناڤ أن إيراشي أوذي أناباڤسيس خين بي ما إت إيمماڤ إيري ناي غار ناير بو راشي هيجين بكاهي نسيناناڤ أن إيراشي أوذي أناباڤسيس إيسجين تي نو"
   },
   {
     "order": 111,
@@ -996,7 +1106,8 @@
     "rubric_ref": "R14f5d",
     "text_coptic": "ⲛⲧⲉⲧⲉⲛⲥⲱⲧⲉⲙ ⲁⲛ ϫⲉ ⲱⲟⲩⲛⲓⲁⲧⲟⲩ ⲛⲛⲏⲉⲧⲉⲣϩⲏⲃⲓ ϫⲉ ⲛⲑⲱⲟⲩ ⲡⲉⲧⲟⲩⲛⲁϯϩⲟ ⲉⲣⲱⲟⲩ ⲟⲩⲇⲉ ⲛⲓⲕⲉⲭⲱⲟⲩⲛⲓ ⲉⲑⲛⲁⲉⲣ ⲡⲟⲩⲣⲁϣⲓ ⲁⲛ ϩⲓϫⲉⲛ ⲡⲕⲁϩⲓ ⲛⲥⲉⲛⲁⲁⲓⲧⲟⲩ ⲟⲛ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ",
     "text_arabic": "لان الذين سيصنعون فرحهم علي الارض سوف لا يرون فرحا ولا نياحا من الان",
-    "text_english": "because those who revel in pleasures and delights will enjoy neither happiness nor comfort in heavens"
+    "text_english": "because those who revel in pleasures and delights will enjoy neither happiness nor comfort in heavens",
+    "text_coptic_arabic": "نتيتينسوتيم أن جي أوونياتو ننييتيرهيڤي جي نثوو بيتوناتيهو إيروو أوذي ني كيكووني إيثناير بو راشي أن هيجين بكاهي نسيناايتو أون خين ني فيؤي"
   },
   {
     "order": 112,
@@ -1005,7 +1116,8 @@
     "rubric_ref": "R14f5e",
     "text_coptic": "ⲛⲧⲉⲧⲉⲛⲥⲱⲧⲉⲙ ⲁⲛ ϫⲉ ⲟⲩⲟⲓ ⲛⲱⲧⲉⲛ ⲛⲏⲉⲧ ⲥⲱⲃⲓ ϯⲛⲟⲩ ϫⲉ ⲧⲉⲧⲉⲛ ⲛⲁⲉⲣϩⲏⲃⲓ",
     "text_arabic": "اما سمعتم طوبي للحزاني فانهم يتعزون",
-    "text_english": "have not you heard his saying blessed are those who mourn because they shall be comforted"
+    "text_english": "have not you heard his saying blessed are those who mourn because they shall be comforted",
+    "text_coptic_arabic": "نتيتينسوتيم أن جي أووي نوتين ني إت سوڤي تي نو جي تيتين نايرهيڤي"
   },
   {
     "order": 113,
@@ -1014,7 +1126,8 @@
     "rubric_ref": "R14f5f",
     "text_coptic": "ⲛⲑⲱⲧⲉⲛ ⲛⲧⲉⲧⲉⲛⲣⲓⲙⲓ ⲙⲏ ⲫⲁⲓ ⲁⲛ ⲡⲉ ⲡⲓⲥⲏⲟⲩ ⲛⲧⲉ ⲛⲏⲉⲧⲟⲓ ⲛϫⲱⲃ ϯϩⲓⲱⲧⲟⲩ ⲛⲟⲩϫⲟⲙ ⲟⲩⲟϩ ⲫⲏⲉⲧⲉ ⲙⲙⲟⲛ ϣϫⲟⲙ ⲙⲙⲟϥⲉⲑⲣⲉϥϫⲟⲥ ϫⲉϯϫⲉⲙϫⲟⲙ ⲁⲛⲟⲕ ϧⲉⲛ ⲡϫⲓⲛⲑⲣⲉϥϯ ⲙⲡⲉϥϩⲏⲧ ⲉⲡⲓⲥⲁϫⲓ ⲉⲧ ⲥϧⲏⲟⲩⲧ",
     "text_arabic": "وكذلك الاخرون الذين لا يفرحون علي الارض يفرحون ايضا في السموات اما سمعتم الويل لكم ايها الضاحكون الان فانكم ستبكون وتحزنون اليس هذا هو الزمان الذي فيه يلبس الضعفاء القوة",
-    "text_english": "also those who do not rejoice on earth shall rejoice in heavens or have not you woe to you who laugh now for you shall weep and mourn isn’t this the time when the meek is vested with power"
+    "text_english": "also those who do not rejoice on earth shall rejoice in heavens or have not you woe to you who laugh now for you shall weep and mourn isn’t this the time when the meek is vested with power",
+    "text_coptic_arabic": "نثوتين نتيتينريمي مي فاي أن بي بي سيؤي نتي ني إت أوي نجوب تي هيوتو نو جوم أووه في إت إي ممون شجوم مموفيثريفجوس جيتيجيمجوم أنوك خين بجينثريفتي مبيفهيت إيبيساجي إت سخيؤيت"
   },
   {
     "order": 114,
@@ -1023,7 +1136,8 @@
     "rubric_ref": "R14f60",
     "text_coptic": "ⲟⲩⲟϩ ⲕⲁⲧⲁ ⲡⲥⲁϫⲓ ⲙⲡⲓⲡⲣⲟⲫⲏⲧⲏⲥ ⲥⲉⲟϣ ⲛϫⲉ ⲛⲏⲉⲧⲁⲩⲉⲣϫⲱⲃ ϧⲉⲛ ⲡⲟⲩⲥⲱⲙⲁ ϩⲓⲧⲉⲛ ⲡⲁϣⲁⲓ ⲛⲧⲉ ⲧⲟⲩⲡⲟⲣⲓⲁ ⲥⲉⲛⲁⲉⲣϫⲱⲃ ⲇⲉ ⲟⲛ ϧⲉⲛ ⲛⲟⲩⲕⲉϩⲏⲧ ⲙⲫⲣⲏϯ ⲉⲧⲉ ϯⲅⲣⲁⲫⲏ ϫⲱ ⲙⲙⲟⲥ ⲛⲛⲁⲓ ⲙⲡⲁⲓⲣⲏϯ ϫⲉ ϥⲛⲁⲟⲩⲱϫⲡ ϧⲉⲛ ϯⲁⲕⲁⲑⲁⲣⲥⲓⲁ ⲛⲧⲉ ⲧⲉϥⲯⲩⲭⲏ",
     "text_arabic": "والذي ليس بقوي يقول انا قوي عند ما يعطي قلبه للقول المكتوب وكقول النبي كثيرون هم الذين ضعفت اجسادهم من كثرة زناهم سيضعفون ايضا في قلوبهم",
-    "text_english": "and he who is not strong will say i am strong when he yields his heart to the written word as the prophet says many are those whose repeated adultery has weakened their bodies and they shall be weakened at heart as well"
+    "text_english": "and he who is not strong will say i am strong when he yields his heart to the written word as the prophet says many are those whose repeated adultery has weakened their bodies and they shall be weakened at heart as well",
+    "text_coptic_arabic": "أووه كاتا بساجي مبيبروفيتيس سيوش نجي ني إت آڤيرجوب خين بو سوما هيتين باشاي نتي تو بوريا سينايرجوب ذي أون خين نو كيهيت مفريتي إت إي تي غرافي جو مموس نناي مبايريتي جي فناووجب خين تي أكاثارسيا نتي تيف بسيشي"
   },
   {
     "order": 115,
@@ -1032,7 +1146,8 @@
     "rubric_ref": "R14f61",
     "text_coptic": "ⲉⲣⲉ ⲡⲓⲥⲁϫⲓ ⲇⲉ ⲛⲧⲉ ⲛⲏⲉⲧⲁⲩⲉⲣ ⲁⲅⲱⲛⲓⲍⲉⲥⲑⲉ ϧⲉⲛ ⲟⲩⲙⲉⲧϫⲱⲣⲓ ϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲭⲱⲗⲉⲙ ⲙⲁⲧⲁϩⲟⲕ ⲉⲣⲁⲧⲕ ⲛⲟⲩⲥⲱⲧⲡ ⲙⲫⲛⲟⲩϯ ⲛⲟⲩⲉⲣⲅⲁⲧⲏⲥ ⲙⲡⲁϥϭⲓϣⲓⲡⲓ ⲉϥϣⲱⲧ ⲉⲃⲟⲗ ⲙⲡⲥⲁϫⲓ ⲛϯⲙⲉⲑⲙⲏⲓ",
     "text_arabic": "كما يقول الكتاب عن هؤلاء هكذا انه يتحطم بنجاسة نفسه واما المجاهدون بشجاعة فقد قيل عنهم اسرع وقوم ذاتك صفيا لله فاعلا لا يخزي يقطع كلمة الحق",
-    "text_english": "as the book says about those they will be devastated by their own profanity as for those who struggle with courage it was said about them hasten and straighten yourself to be a companion of god undisgraced worker who preaches the word of truth"
+    "text_english": "as the book says about those they will be devastated by their own profanity as for those who struggle with courage it was said about them hasten and straighten yourself to be a companion of god undisgraced worker who preaches the word of truth",
+    "text_coptic_arabic": "إيري بي ساجي ذي نتي ني إت آڤير أغونيزيستي خين أوميتجوري جو مموس جي كوليم ماتاهوك إيراتك نو سوتب مفنوتي نو إيرغاتيس مبافتشيشيبي إيفشوت إيڤول مبساجي نتيميثمي"
   },
   {
     "order": 116,
@@ -1041,7 +1156,8 @@
     "rubric_ref": "R1467",
     "text_coptic": "ⲙⲁⲣⲉⲛⲉⲣ ⲥⲫⲣⲁϫⲓⲍⲓⲛ ⲛϯⲕⲁⲧⲏⲭⲏⲥⲓⲥ ⲛⲧⲉ ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲁⲃⲃⲁ ϣⲉⲛⲟⲩϯ ⲡⲓⲁⲣⲭⲏⲙⲁⲛⲇⲣⲓⲧⲏⲥ ⲫⲏⲉⲧⲁϥⲉⲣⲟⲩⲱⲓⲛⲓ ⲙⲡⲉⲛⲛⲟⲩⲥ ⲛⲉⲙ ⲛⲓⲃⲁⲗ ⲛⲧⲉ ⲛⲉⲛϩⲏⲧ ϧⲉⲛ ⲫⲣⲁⲛ ⲙⲫⲓⲱⲧ ⲛⲉⲙ ⲡϣⲏⲣⲓ ⲛⲉⲙ ⲡⲓⲡⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲛⲟⲩϯ ⲛⲟⲩⲱⲧ ⲁⲙⲏⲛ",
     "text_arabic": "فلنختم عظة ابينا القديس انبا شنوده رئيس المتوحدين الذي انار عقولنا وعيون قلوبنا باسم الاب والابن والروح القدس الاله الواحد امين",
-    "text_english": "we conclude the homily of our holy father abba shenouda the archimandrite who enlightened our minds and our hearts in the name of the father and the son and the holy spirit one god amen"
+    "text_english": "we conclude the homily of our holy father abba shenouda the archimandrite who enlightened our minds and our hearts in the name of the father and the son and the holy spirit one god amen",
+    "text_coptic_arabic": "مارين إير سفراجيزين نتيكاتيشيسيس نتي بين إيوت إثؤواب أبڤا شينوتي بي أرشيمانذريتيس في إت أفيروويني مبيننوس نيم ني ڤال نتي نين هيت خين فران مفيوت نيم بشيري نيم بي إبنيفما إثؤواب أونوتي نو أوت آمين"
   },
   {
     "order": 117,
@@ -1050,7 +1166,8 @@
     "rubric_ref": "T14f63",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "مقدمة تسبحة البصخة",
-    "text_english": "introduction to the paschal praise"
+    "text_english": "introduction to the paschal praise",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 118,
@@ -1059,7 +1176,8 @@
     "rubric_ref": "R4742",
     "text_coptic": "ⲡϭⲟⲓⲥ ⲛⲁⲓ ⲛⲁⲛ ⲁⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
     "text_arabic": "يارب ارحمنا امين الليلويا",
-    "text_english": "lord have mercy upon us amen alleluia"
+    "text_english": "lord have mercy upon us amen alleluia",
+    "text_coptic_arabic": "بتشيس ناي نان آمين الليلويا"
   },
   {
     "order": 119,
@@ -1068,7 +1186,8 @@
     "rubric_ref": "R4743",
     "text_coptic": "ϧⲉⲛ ⲫⲣⲁⲛ ⲙⲫⲓⲱⲧ ⲛⲉⲙ ⲡϣⲏⲣⲓ ⲛⲉⲙ ⲡⲓⲡⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲛⲟⲩϯ ⲛⲟⲩⲱⲧ ⲁⲙⲏⲛ",
     "text_arabic": "باسم الاب والابن والروح القدس اله واحد امين",
-    "text_english": "in the name of the father the son and the holy spirit one god amen"
+    "text_english": "in the name of the father the son and the holy spirit one god amen",
+    "text_coptic_arabic": "خين فران مفيوت نيم بشيري نيم بي إبنيفما إثؤواب أونوتي نو أوت آمين"
   },
   {
     "order": 120,
@@ -1077,7 +1196,8 @@
     "rubric_ref": "R17fb",
     "text_coptic": "ⲇⲟⲝⲁ ⲡⲁⲧⲣⲓ ⲕⲉ ⲩⲓⲱ ⲕⲉ ⲁⲅⲓⲱ ⲡⲛⲉⲩⲙⲁⲧⲓ ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁⲓ ⲕⲉ ⲓⲥⲧⲟⲩⲥ ⲉⲱⲛⲁⲥ ⲧⲱⲛ ⲉⲱⲛⲱⲛ ⲁⲙⲏⲛ",
     "text_arabic": "المجد للاب والابن والروح القدس الان وكل اوان والي دهر الدهور امين",
-    "text_english": "glory to the father and to the son and to the holy spirit now and ever and unto the ages of the ages amen"
+    "text_english": "glory to the father and to the son and to the holy spirit now and ever and unto the ages of the ages amen",
+    "text_coptic_arabic": "ذوكصا باتري كي إييو كي أجيو بنيڤماتي كي نين كي أي كي إيستوس إيوناس تون إيونون آمين"
   },
   {
     "order": 121,
@@ -1086,7 +1206,8 @@
     "rubric_ref": "R14f65",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "تسبحة الساعة الاولي من يوم الثلاثاء من البصخة المقدسة بركته علينا امين",
-    "text_english": "the doxology of the first hour of tuesday of holy pascha may its blessings be with us amen"
+    "text_english": "the doxology of the first hour of tuesday of holy pascha may its blessings be with us amen",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 122,
@@ -1095,7 +1216,8 @@
     "rubric_ref": "R4c",
     "text_coptic": "ⲁⲣⲓⲧⲉⲛ ⲛⲉⲙⲡϣⲁ ⲛϫⲟⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩⲙⲟⲧ",
     "text_arabic": "اللهم اجعلنا مستحقين ان نقول بشكر",
-    "text_english": "make us worthy to pray thankfully"
+    "text_english": "make us worthy to pray thankfully",
+    "text_coptic_arabic": "آري تين نيمبشا نجوس خين أوشيبهموت"
   },
   {
     "order": 123,
@@ -1104,7 +1226,8 @@
     "rubric_ref": "R4d",
     "text_coptic": "ϫⲉ ⲡⲉⲛⲓⲱⲧ ⲉⲧ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛϫⲉ ⲡⲉⲕⲣⲁⲛ",
     "text_arabic": "ابانا الذي في السماوات ليتقدس اسمك",
-    "text_english": "our father who art in heaven hallowed be thy name"
+    "text_english": "our father who art in heaven hallowed be thy name",
+    "text_coptic_arabic": "جي بين إيوت إت خين ني فيؤي ماريف تو ڤو نجي بيك ران"
   },
   {
     "order": 124,
@@ -1113,7 +1236,8 @@
     "rubric_ref": "R4e",
     "text_coptic": "ⲙⲁⲣⲉⲥⲓ ⲛϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ ⲙⲫⲣⲏϯ ϧⲉⲛ ⲧⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ",
     "text_arabic": "ليات ملكوتك لتكن مشيئتك كما في السماء كذلك علي الارض",
-    "text_english": "thy kingdom come thy will be done on earth as it is in heaven"
+    "text_english": "thy kingdom come thy will be done on earth as it is in heaven",
+    "text_coptic_arabic": "ماريس إي نجي تيك ميت أورو بيتيهناك ماريف شوبي مفريتي خين تفي نيم هيجين بي كاهي"
   },
   {
     "order": 125,
@@ -1122,7 +1246,8 @@
     "rubric_ref": "R4f",
     "text_coptic": "ⲡⲉⲛⲱⲓⲕ ⲛⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙⲫⲟⲟⲩ ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉⲣⲟⲛ ⲛⲁⲛ ⲉⲃⲟⲗ ⲙⲫⲣⲏϯ ϩⲱⲛ ⲛⲧⲉⲛⲭⲱ ⲉⲃⲟⲗ ⲛⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛⲧⲁⲛ ⲉⲣⲱⲟⲩ ⲟⲩⲟϩ ⲙⲡⲉⲣⲉⲛⲧⲉⲛ ⲉϧⲟⲩⲛ ⲉⲡⲓⲣⲁⲥⲙⲟⲥ ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ",
     "text_arabic": "خبزنا الذي للغد اعطنا اليوم واغفر لنا ذنوبنا كما نغفر نحن ايضا للمذنبين الينا ولا تدخلنا في تجربة لكن نجنا من الشرير",
-    "text_english": "give us this day our daily bread and forgive us our trespasses as we forgive those who trespass against us and lead us not into temptation but deliver us from the evil one"
+    "text_english": "give us this day our daily bread and forgive us our trespasses as we forgive those who trespass against us and lead us not into temptation but deliver us from the evil one",
+    "text_coptic_arabic": "بين أويك نتي راستي ميف نان مفوو أووه كا ني إت إيرون نان إيڤول مفريتي هون نتينكو إيڤول ننييتي أوون نتان إيروو أووه مبيرينتين إيخون إيبيرازموس أللا ناهمين إيڤول ها بي بيتهوو"
   },
   {
     "order": 126,
@@ -1131,7 +1256,8 @@
     "rubric_ref": "R50",
     "text_coptic": "ϧⲉⲛ ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲉⲛϭⲟⲓⲥ ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱⲟⲩ ϣⲁ ⲉⲛⲉϩ ⲁⲙⲏⲛ",
     "text_arabic": "بالمسيح يسوع ربنا لان لك الملك والقوة والمجد الي الابد امين",
-    "text_english": "in christ jesus our lord for thine is the kingdom and the power and the glory forever amen"
+    "text_english": "in christ jesus our lord for thine is the kingdom and the power and the glory forever amen",
+    "text_coptic_arabic": "خين بي إخرستوس إيسوس بين تشيس جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أوو شا إينيه آمين"
   },
   {
     "order": 127,
@@ -1140,7 +1266,8 @@
     "rubric_ref": "T5833",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "تسبحة البصخة",
-    "text_english": "paschal praise"
+    "text_english": "paschal praise",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 128,
@@ -1149,7 +1276,8 @@
     "rubric_ref": "R5834",
     "text_coptic": "ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ",
     "text_arabic": "",
-    "text_english": "the paschal praise is chanted twelve times alternating between the north and south choirs from the ninth hour of hosanna sunday until the ninth hour of tuesday the following is chanted"
+    "text_english": "the paschal praise is chanted twelve times alternating between the north and south choirs from the ninth hour of hosanna sunday until the ninth hour of tuesday the following is chanted",
+    "text_coptic_arabic": "ثوك تي تي جوم"
   },
   {
     "order": 129,
@@ -1158,7 +1286,8 @@
     "rubric_ref": "R8c",
     "text_coptic": "ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏⲥⲟⲛ",
     "text_arabic": "يا رب ارحم",
-    "text_english": "lord have mercy"
+    "text_english": "lord have mercy",
+    "text_coptic_arabic": "كيريى إلايسون"
   },
   {
     "order": 130,
@@ -1167,7 +1296,8 @@
     "rubric_ref": "R474d",
     "text_coptic": "ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱⲟⲩ ⲛⲉⲙ ⲡⲓⲥⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁⲙⲁϩⲓ ϣⲁ ⲉⲛⲉϩ ⲁⲙⲏⲛ ⲉⲙⲙⲁⲛⲟⲩⲏⲗ ⲡⲉⲛⲛⲟⲩϯ ⲡⲉⲛⲟⲩⲣⲟ",
     "text_arabic": "لك القوة والمجد والبركة والعزة الي الابد امين عمانوئيل الهنا وملكنا",
-    "text_english": "thine is the power the glory the blessing the majesty forever amen immanuel our god and king"
+    "text_english": "thine is the power the glory the blessing the majesty forever amen immanuel our god and king",
+    "text_coptic_arabic": "ثوك تي تي جوم نيم بي أوو نيم بي سمو نيم بي أماهي شا إينيه آمين إيممانويل بين نو تي بين أورو"
   },
   {
     "order": 131,
@@ -1176,7 +1306,8 @@
     "rubric_ref": "R5835",
     "text_coptic": "ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱⲟⲩ ⲛⲉⲙ ⲡⲓⲥⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁⲙⲁϩⲓ ϣⲁ ⲉⲛⲉϩ ⲁⲙⲏⲛ ⲡⲁϭⲟⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡⲓⲭⲣⲓⲥⲧⲟⲥ",
     "text_arabic": "لك القوة والمجد والبركة والعزة الي الابد امين يا ربي يسوع المسيح",
-    "text_english": "thine is the power the glory the blessing the majesty forever amen my lord jesus christ"
+    "text_english": "thine is the power the glory the blessing the majesty forever amen my lord jesus christ",
+    "text_coptic_arabic": "ثوك تي تي جوم نيم بي أوو نيم بي سمو نيم بي أماهي شا إينيه آمين باتشيس إيسوس بي إخرستوس"
   },
   {
     "order": 132,
@@ -1185,7 +1316,8 @@
     "rubric_ref": "R4750",
     "text_coptic": "ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱⲟⲩ ⲛⲉⲙ ⲡⲓⲥⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁⲙⲁϩⲓ ϣⲁ ⲉⲛⲉϩ ⲁⲙⲏⲛ",
     "text_arabic": "لك القوة والمجد والبركة والعزة الي الابد امين",
-    "text_english": "thine is the power the glory the blessing the majesty forever amen"
+    "text_english": "thine is the power the glory the blessing the majesty forever amen",
+    "text_coptic_arabic": "ثوك تي تي جوم نيم بي أوو نيم بي سمو نيم بي أماهي شا إينيه آمين"
   },
   {
     "order": 133,
@@ -1194,7 +1326,8 @@
     "rubric_ref": "T4a",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ابانا الذي",
-    "text_english": "our father"
+    "text_english": "our father",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 134,
@@ -1203,7 +1336,8 @@
     "rubric_ref": "T14f68",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "مزمور 119 2 7",
-    "text_english": "psalm 119 2 7"
+    "text_english": "psalm 119 2 7",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 135,
@@ -1212,7 +1346,8 @@
     "rubric_ref": "R639",
     "text_coptic": "ⲯⲁⲗⲙⲟⲥ ⲧⲱ ⲇⲁⲩⲓⲇ",
     "text_arabic": "من مزامير داود النبي",
-    "text_english": "a psalm of david"
+    "text_english": "a psalm of david",
+    "text_coptic_arabic": "بسالموس تو داڤيد"
   },
   {
     "order": 136,
@@ -1221,7 +1356,8 @@
     "rubric_ref": "R14f69",
     "text_coptic": "ⲡϭⲟⲓⲥ ⲉⲕⲉⲛⲟϩⲉⲙ ⲛⲧⲁⲯⲩⲭⲏ ⲉⲃⲟⲗ ϧⲉⲛ ϩⲁⲛⲥⲫⲟⲧⲟⲩ ⲛⲟϫⲓ ⲛⲉⲙ ⲉⲃⲟⲗ ϩⲁ ⲟⲩⲗⲁⲥ ⲛⲭⲣⲟϥ",
     "text_arabic": "يارب تنجي نفسي من الشفاه الظالمة ومن اللسان الغاش",
-    "text_english": "o lord deliver my soul from unjust lips and from a deceitful tongue"
+    "text_english": "o lord deliver my soul from unjust lips and from a deceitful tongue",
+    "text_coptic_arabic": "بتشيس إيكينوهيم ندابسيشي إيڤول خين هانسفوتو نوجي نيم إيڤول ها أولاس نكروف"
   },
   {
     "order": 137,
@@ -1230,7 +1366,8 @@
     "rubric_ref": "R14f6a",
     "text_coptic": "ⲛⲁⲓⲟⲓ ⲛϩⲓⲣⲏⲛⲏⲕⲟⲥ ⲡⲉ ⲛⲉⲙ ⲛⲏⲉⲑⲙⲟⲥϯ ⲛϯϩⲓⲣⲏⲛⲏ ⲉϣⲱⲡ ⲁⲓϣⲁⲛⲥⲁϫⲓ ⲛⲉⲙⲱⲟⲩ ϣⲁⲩⲃⲱⲧⲥ ⲉⲣⲟⲓ ⲛϫⲓⲛϫⲏ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
     "text_arabic": "ومع مبغضي السلام كنت صاحب سلامة وحين كنت اكلمهم كانوا يقاتلونني مجانا الليلويا",
-    "text_english": "with those who hate peace i was peaceful when i spoke to them they made war against me without cause alleluia"
+    "text_english": "with those who hate peace i was peaceful when i spoke to them they made war against me without cause alleluia",
+    "text_coptic_arabic": "نايوي نهيرينيكوس بي نيم نييثموستي نتيهيريني إيشوب أيشانساجي نيموو شاڤڤوتس إيروي نجينجي الليلويا"
   },
   {
     "order": 138,
@@ -1239,7 +1376,8 @@
     "rubric_ref": "T14f6c",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "يوحنا 8 21 29",
-    "text_english": "john 8 21 29"
+    "text_english": "john 8 21 29",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 139,
@@ -1248,7 +1386,8 @@
     "rubric_ref": "R59b",
     "text_coptic": "ⲕⲉ ⲩⲡⲉⲣⲧⲟⲩ ⲕⲁⲧⲁ ⲝⲓⲱⲑⲏⲛⲉ ⲏⲙⲁⲥ ⲧⲏⲥ ⲁⲕⲣⲟ ⲁⲥⲉⲱⲥ ⲧⲟⲩ ⲁⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ ⲕⲩⲣⲓⲟⲛ ⲕⲉ ⲧⲟⲛ ⲑⲉⲟⲛ ⲏⲙⲱⲛ ⲓⲕⲉⲧⲉⲩⲥⲱⲙⲉⲛ ⲥⲟⲫⲓⲁ ⲟⲣⲑⲓ ⲁⲕⲟⲩⲥⲱⲙⲉⲛ ⲧⲟⲩ ⲁⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ",
     "text_arabic": "من اجل ان نكون مستحقين لسماع الانجيل المقدس الي ربنا والهنا نتوسل بحكمة مستقيمين انصتوا للانجيل المقدس",
-    "text_english": "we beseech our lord and god that we may be worthy to hear the holy gospel in wisdom and uprightness let us attend to the holy gospel"
+    "text_english": "we beseech our lord and god that we may be worthy to hear the holy gospel in wisdom and uprightness let us attend to the holy gospel",
+    "text_coptic_arabic": "كي إيبيرتو كاتا كسيوثيني إيماس تيس أكرو أسيوس تو أجيو إيڤانجيليو كيريون كي تون ثيون إيمون إيكيتيڤسومين سوفيا أورثي أكوسومين تو أجيو إيڤانجيليو"
   },
   {
     "order": 140,
@@ -1257,7 +1396,8 @@
     "rubric_ref": "Re60",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "اللهم تراءف علينا وارحمنا واجعلنا مستحقين لسماع انجيلك المقدس",
-    "text_english": "o god have mercy and compassion upon us and make us worthy to hear the holy gospel"
+    "text_english": "o god have mercy and compassion upon us and make us worthy to hear the holy gospel",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 141,
@@ -1266,7 +1406,8 @@
     "rubric_ref": "R32bd",
     "text_coptic": "ⲟⲩⲁⲛⲁⲅⲛⲱⲥⲓⲥ ⲉⲃⲟⲗϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ ⲕⲁⲧⲁ ⲓⲱⲁⲛⲛⲏⲛ ⲁⲅⲓⲟⲩ",
     "text_arabic": "فصل من بشارة الانجيل لمعلمنا مار يوحنا البشير بركاته علينا امين",
-    "text_english": "a reading according to saint john may his blessings be with us amen"
+    "text_english": "a reading according to saint john may his blessings be with us amen",
+    "text_coptic_arabic": "أواناغنوسيس إيڤولخين بي إيڤانجيليون إثؤواب كاتا إيواننين أجيو"
   },
   {
     "order": 142,
@@ -1275,7 +1416,8 @@
     "rubric_ref": "R1057",
     "text_coptic": "ⲇⲟⲝⲁ ⲥⲓ ⲕⲩⲣⲓⲉ",
     "text_arabic": "والمجد لله دائما",
-    "text_english": "glory be to god forever"
+    "text_english": "glory be to god forever",
+    "text_coptic_arabic": "ذوكصا سي كيريى"
   },
   {
     "order": 143,
@@ -1284,7 +1426,8 @@
     "rubric_ref": "R1058",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "",
-    "text_english": "note that the correct translation is glory to you o lord"
+    "text_english": "note that the correct translation is glory to you o lord",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 144,
@@ -1293,7 +1436,8 @@
     "rubric_ref": "R14f6e",
     "text_coptic": "ⲡⲁⲗⲓⲛⲟⲛ ⲡⲉϫⲉ ⲓⲏⲥⲟⲩⲥ ⲛⲱⲟⲩ ϫⲉ ⲁⲛⲟⲕ ϯⲛⲁϣⲉⲛⲏⲓ ⲟⲩⲟϩ ⲧⲉⲧⲉⲛⲛⲁⲕⲱϯ ⲛⲥⲱⲓ ⲟⲩⲟϩ ⲧⲉⲧⲉⲛⲛⲁϫⲉⲙⲧ ⲁⲛ ⲟⲩⲟϩ ⲧⲉⲧⲉⲛⲛⲁⲙⲟⲩ ϧⲉⲛ ⲛⲉⲧⲉⲛⲛⲟⲃⲓ ϫⲉ ⲡⲓⲙⲁ ⲁⲛⲟⲕ ⲉϯⲛⲁϣⲉⲛⲏⲓ ⲉⲣⲟϥ ⲙⲙⲟⲛ ϣϫⲟⲙ ⲙⲙⲱⲧⲉⲛ ⲉⲓ ⲉⲣⲟϥ",
     "text_arabic": "ثم قال لهم يسوع ايضا انا امضي وستطلبونني فلا تجدونني وتموتون بخطاياكم وحيث امضي انا فلا تقدرون انتم ان تاتوا الي",
-    "text_english": "then jesus said to them again “i am going away and you will seek me and will die in your sin where i go you cannot come ”"
+    "text_english": "then jesus said to them again “i am going away and you will seek me and will die in your sin where i go you cannot come ”",
+    "text_coptic_arabic": "بالينون بيجي إيسوس نوو جي أنوك تي ناشيني أووه تيتينناكوتي نسوي أووه تيتينناجيمت أن أووه تيتيننامو خين نيتيننوڤي جي بي ما أنوك إيتيناشيني إيروف ممون شجوم مموتين إيي إيروف"
   },
   {
     "order": 145,
@@ -1302,7 +1446,8 @@
     "rubric_ref": "R14f6f",
     "text_coptic": "ⲛⲁⲩϫⲱ ⲟⲩⲛ ⲙⲙⲟⲥ ⲡⲉ ⲛϫⲉ ⲛⲓⲓⲟⲩⲇⲁⲓ ϫⲉ ⲙⲏⲧⲓ ⲁϥⲛⲁϧⲟⲑⲃⲉϥ ⲙⲙⲁⲩⲁⲧϥ ϫⲉ ϥϫⲱ ⲙⲙⲟⲥ ϫⲉ ⲡⲓⲙⲁ ⲁⲛⲟⲕ ⲉϯⲛⲁϣⲉⲛⲏⲓ ⲉⲣⲟϥ ⲛⲑⲱⲧⲉⲛ ⲛⲧⲉⲧⲉⲛⲛⲁϣⲓ ⲉⲣⲟϥ ⲁⲛ",
     "text_arabic": "فقال اليهود العله يقتل نفسه وحده حتي يقول حيث امضي انا لا تقدرون انتم ان تاتوا",
-    "text_english": "so the jews said “will he kill himself because he says ‘where i go you cannot come’ ”"
+    "text_english": "so the jews said “will he kill himself because he says ‘where i go you cannot come’ ”",
+    "text_coptic_arabic": "ناڤجو أون مموس بي نجي ني إيوداي جي ميتي أفناخوثڤيف مماڤاتف جي فجو مموس جي بي ما أنوك إيتيناشيني إيروف نثوتين نتيتينناشي إيروف أن"
   },
   {
     "order": 146,
@@ -1311,7 +1456,8 @@
     "rubric_ref": "R14f70",
     "text_coptic": "ⲟⲩⲟϩ ⲛⲁⲩϫⲱ ⲙⲙⲟⲥ ⲛⲱⲟⲩ ⲡⲉ ϫⲉ ⲛⲑⲱⲧⲉⲛ ⲛⲑⲱⲧⲉⲛ ϩⲁⲛ ⲉⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲧⲉ ⲛϧⲣⲏⲓ ⲁⲛⲟⲕ ⲇⲉ ⲁⲛⲟⲕ ⲟⲩ ⲉⲃⲟⲗ ⲙⲡϣⲱⲓ ⲛⲑⲱⲧⲉⲛ ⲛⲑⲱⲧⲉⲛ ⲉⲃⲟⲗϧⲉⲛ ⲡⲁⲓ ⲕⲟⲥⲙⲟⲥ ⲁⲛⲟⲕ ⲇⲉ ⲁⲛⲟⲕ ⲟⲩ ⲉⲃⲟⲗϧⲉⲛ ⲡⲁⲓ ⲕⲟⲥⲙⲟⲥ ⲁⲛ",
     "text_arabic": "فقال لهم انتم انتم من اسفل واما انا فمن فوق انتم انتم من هذا العالم واما انا فلست من هذا العالم",
-    "text_english": "and he said to them “you are from beneath i am from above you are of this world i am not of this world"
+    "text_english": "and he said to them “you are from beneath i am from above you are of this world i am not of this world",
+    "text_coptic_arabic": "أووه ناڤجو مموس نوو بي جي نثوتين نثوتين هان إيڤولخين ني إت إي نخري أنوك ذي أنوك أو إيڤول مبشوي نثوتين نثوتين إيڤولخين باي كوزموس أنوك ذي أنوك أو إيڤولخين باي كوزموس أن"
   },
   {
     "order": 147,
@@ -1320,7 +1466,8 @@
     "rubric_ref": "R14f71",
     "text_coptic": "ⲁⲓϫⲟⲥ ⲟⲩⲛ ⲛⲱⲧⲉⲛ ϫⲉ ⲧⲉⲧⲉⲛⲛⲁⲙⲟⲩ ⲛϧⲣⲏⲓ ϧⲉⲛ ⲛⲉⲧⲉⲛⲛⲟⲃⲓ ⲉϣⲱⲡ ⲟⲩⲛ ⲁⲣⲉⲧⲉⲛ ϣⲧⲉⲙⲛⲁϩϯ ϫⲉ ⲁⲛⲟⲕ ⲡⲉ ⲧⲉⲧⲉⲛⲛⲁⲙⲟⲩ ⲛϧⲣⲏⲓ ϧⲉⲛ ⲛⲉⲧⲉⲛⲛⲟⲃⲓ",
     "text_arabic": "قد قلت لكم انكم تموتون بخطاياكم لانكم ان لم تؤمنوا اني انا هو تموتون بخطاياكم",
-    "text_english": "therefore i said to you that you will die in your sins for if you do not believe that i am he you will die in your sins ”"
+    "text_english": "therefore i said to you that you will die in your sins for if you do not believe that i am he you will die in your sins ”",
+    "text_coptic_arabic": "أيجوس أون نوتين جي تيتيننامو نخري خين نيتيننوڤي إيشوب أون أريتين شتيمناهتي جي أنوك بي تيتيننامو نخري خين نيتيننوڤي"
   },
   {
     "order": 148,
@@ -1329,7 +1476,8 @@
     "rubric_ref": "R14f72",
     "text_coptic": "ⲛⲁⲩϫⲱ ⲟⲩⲛ ⲙⲙⲟⲥ ⲛⲁϥ ⲡⲉ ϫⲉ ⲛⲑⲟⲕ ⲛⲓⲙ ⲡⲉϫⲉ ⲓⲏⲥⲟⲩⲥ ⲛⲱⲟⲩ ϫⲉ ⲛϯⲁⲣⲭⲏ ⲁⲓⲉⲣⲡⲕⲉⲥⲁϫⲓ ⲛⲉⲙⲱⲧⲉⲛ",
     "text_arabic": "فقالوا له من انت فقال لهم يسوع انا من البدء تكلمت معكم",
-    "text_english": "then they said to him “who are you ” and jesus said to them “just what i have been saying to you from the beginning"
+    "text_english": "then they said to him “who are you ” and jesus said to them “just what i have been saying to you from the beginning",
+    "text_coptic_arabic": "ناڤجو أون مموس ناف بي جي نثوك ني م بيجي إيسوس نوو جي نتياركي أييربكيساجي نيموتين"
   },
   {
     "order": 149,
@@ -1338,7 +1486,8 @@
     "rubric_ref": "R14f73",
     "text_coptic": "ⲟⲩⲟϩ ⲟⲩⲟⲛϯ ⲟⲩⲙⲏϣ ⲉϫⲟⲧⲟⲩ ⲉⲑⲃⲉ ⲑⲏⲛⲟⲩ ⲟⲩⲟϩ ⲉϯϩⲁⲡ",
     "text_arabic": "ولي اشياء كثيرة اقولها واحكم بها من نحوكم",
-    "text_english": "i have many things to say and to judge concerning you"
+    "text_english": "i have many things to say and to judge concerning you",
+    "text_coptic_arabic": "أووه أوونتي أوميش إيجوتو إيثڤي ثينو أووه إيتيهاب"
   },
   {
     "order": 150,
@@ -1347,7 +1496,8 @@
     "rubric_ref": "R14f74",
     "text_coptic": "ⲁⲗⲗⲁ ⲫⲏ ⲉⲧⲁϥⲧⲁⲟⲩⲟⲓ ⲟⲩⲑⲙⲏⲓ ⲡⲉ ⲟⲩⲟϩ ⲁⲛⲟⲕ ϩⲱ ⲛⲏⲉⲧⲁⲓⲥⲟⲑⲙⲟⲩ ⲛⲧⲟⲧϥ ⲛⲁⲓ ϯⲥⲁϫⲓ ⲙⲙⲱⲟⲩ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲙⲡⲟⲩⲉⲙⲓ ϫⲉ ⲛⲁϥⲥⲁϫⲓ ⲛⲉⲙⲱⲟⲩ ⲉⲑⲃⲉ ⲫⲓⲱⲧ",
     "text_arabic": "ولكن الذي ارسلني هو حق وانا ما سمعته منه فهذا اتكلم به في العالم فلم يفهموا انه كان يقول لهم عن الاب",
-    "text_english": "but he who sent me is true and i speak to the world those things which i heard from him ” they did not understand that he spoke to them of the father"
+    "text_english": "but he who sent me is true and i speak to the world those things which i heard from him ” they did not understand that he spoke to them of the father",
+    "text_coptic_arabic": "أللا في إت أفتاووي أوثمي بي أووه أنوك هو ني إت أيسوثمو نتوتف ناي تي ساجي مموو خين بي كوزموس مبويمي جي نافساجي نيموو إيثڤي فيوت"
   },
   {
     "order": 151,
@@ -1356,7 +1506,8 @@
     "rubric_ref": "R14f75",
     "text_coptic": "ⲡⲉϫⲉ ⲓⲏⲥ ⲛⲱⲟⲩ ϫⲉ ⲉϣⲱⲡ ⲁⲣⲉⲧⲉⲛϣⲁⲛϭⲉⲥ ⲡϣⲏⲣⲓ ⲙⲫⲣⲱⲙⲓ ⲧⲟⲧⲉ ⲉⲣⲉⲧⲉⲛⲉⲙⲓ ϫⲉ ⲁⲛⲟⲕ ⲡⲉ ⲟⲩⲟϩ ⲛϯⲉⲣ ϩⲗⲓ ⲁⲛ ⲉⲃⲟⲗϩⲓⲧⲟⲧϥ ⲙⲙⲁⲩⲁⲧ",
     "text_arabic": "فقال لهم يسوع متي رفعتم ابن الانسان فحينئذ تعلمون اني انا هو ولست افعل شيئا من ذاتي وحدي",
-    "text_english": "then jesus said to them “when you lift up the son of man then you will know that i am he and that i do nothing of myself"
+    "text_english": "then jesus said to them “when you lift up the son of man then you will know that i am he and that i do nothing of myself",
+    "text_coptic_arabic": "بيجي إيسوس نوو جي إيشوب أريتينشانتشيس بشيري مفرومي توتي إيريتينيمي جي أنوك بي أووه نتيير هلي أن إيڤولهيتوتف مماڤات"
   },
   {
     "order": 152,
@@ -1365,7 +1516,8 @@
     "rubric_ref": "R14f76",
     "text_coptic": "ⲁⲗⲗⲁ ⲕⲁⲧⲁ ⲫⲣⲏϯ ⲉⲧⲁϥⲧⲥⲁⲃⲟⲓ ⲛϫⲉ ⲡⲁⲓⲱⲧ ⲛⲁⲓ ϯⲥⲁϫⲓ ⲙⲙⲱⲟⲩ",
     "text_arabic": "بل اتكلم بهذا كما علمني ابي",
-    "text_english": "but as my father taught me i speak these things"
+    "text_english": "but as my father taught me i speak these things",
+    "text_coptic_arabic": "أللا كاتا فريتي إت أفتساڤوي نجي بايوت ناي تي ساجي مموو"
   },
   {
     "order": 153,
@@ -1374,7 +1526,8 @@
     "rubric_ref": "R14f77",
     "text_coptic": "ⲟⲩⲟϩ ⲫⲏⲉⲧⲁϥⲧⲁⲟⲩⲟⲓ ϥⲭⲏ ⲛⲉⲙⲏⲓ ⲟⲩⲟϩ ⲙⲡⲉϥⲭⲁⲧ ⲙⲙⲁⲩⲁⲧ ϫⲉ ⲁⲛⲟⲕ ϯⲓⲣⲓ ⲛⲛⲏⲉⲑⲣⲁⲛⲁϥ ⲛⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ",
     "text_arabic": "والذي ارسلني هو معي ولم يدعني وحدي لاني في كل حين افعل ما يرضيه",
-    "text_english": "and he who sent me is with me the father has not left me alone for i always do those things that please him ”"
+    "text_english": "and he who sent me is with me the father has not left me alone for i always do those things that please him ”",
+    "text_coptic_arabic": "أووه في إت أفتاووي فكي نيمي أووه مبيفكات مماڤات جي أنوك تي إيري ننييثراناف نسيؤي ني ڤين"
   },
   {
     "order": 154,
@@ -1383,7 +1536,8 @@
     "rubric_ref": "R478d",
     "text_coptic": "ⲟⲩⲱϣⲧ ⲙⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ",
     "text_arabic": "اسجدوا للانجيل المقدس",
-    "text_english": "bow down before the holy gospel"
+    "text_english": "bow down before the holy gospel",
+    "text_coptic_arabic": "أووشت مبييڤانجيليون إثؤواب"
   },
   {
     "order": 155,
@@ -1392,7 +1546,8 @@
     "rubric_ref": "T59b6",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "تفسير يوحنا 8 21 29",
-    "text_english": "interpretation john 8 21 29"
+    "text_english": "interpretation john 8 21 29",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 156,
@@ -1401,7 +1556,8 @@
     "rubric_ref": "R59b7",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لما علم ربنا يسوع المسيح في مدينة اورشليم في يومي الاحد والاثنين تعليما بسلطان وكل اليهود مجتمعون حوله مؤمنون انه بالحقيقة المسيح ملكهم الذي كانوا ينتظرونه",
-    "text_english": "when our lord christ taught with authority in jerusalem on sunday and monday and was surrounded by the jews who believed that he is truly christ their awaited king"
+    "text_english": "when our lord christ taught with authority in jerusalem on sunday and monday and was surrounded by the jews who believed that he is truly christ their awaited king",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 157,
@@ -1410,7 +1566,8 @@
     "rubric_ref": "R59b8",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "صعب ذلك جدا علي مقدمي وكهنة اليهود الذين كانوا يبغضونه وتشاوروا ان ينصبوا له فخا حتي يسلموه الي بيلاطس الوالي الرومي ليقتله",
-    "text_english": "it became very difficult for the jewish elders and priests who hated him they decided to trick him and deliver him to pilates the roman governor to have him killed"
+    "text_english": "it became very difficult for the jewish elders and priests who hated him they decided to trick him and deliver him to pilates the roman governor to have him killed",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 158,
@@ -1419,7 +1576,8 @@
     "rubric_ref": "R59b9",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولما حضر يوم الثلاثاء للتعليم كعادته ارسلوا جواسيس يتراءون انهم ابرار لكي يمسكوه بكلمة حتي يسلموه الي حكم الوالي وسلطانه",
-    "text_english": "when he came on tuesday to teach as usual “so they watched him and sent spies who pretended to be righteous that they might seize on his words in order to deliver him to the power and the authority of the governor"
+    "text_english": "when he came on tuesday to teach as usual “so they watched him and sent spies who pretended to be righteous that they might seize on his words in order to deliver him to the power and the authority of the governor",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 159,
@@ -1428,7 +1586,8 @@
     "rubric_ref": "R59ba",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فسالوه قائلين يا معلم نعلم انك بالاستقامة تتكلم وتعلم ولا تقبل الوجوه بل بالحق تعلم طريق الله ايجوز لنا ان نعطي جزية لقيصر ام لا",
-    "text_english": "then they asked him saying teacher we know that you say and teach rightly and you do not show personal favoritism but teach the way of god in truth is it lawful for us to pay taxes to caesar or not"
+    "text_english": "then they asked him saying teacher we know that you say and teach rightly and you do not show personal favoritism but teach the way of god in truth is it lawful for us to pay taxes to caesar or not",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 160,
@@ -1437,7 +1596,8 @@
     "rubric_ref": "R59bb",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وظنوا انه سيقول لهم لا فيمضوا الي ولاة الروم ويعلموهم بذلك ليقتلوه",
-    "text_english": "thinking that he will say “no” so they can go to the roman governors and inform them and they would kill him"
+    "text_english": "thinking that he will say “no” so they can go to the roman governors and inform them and they would kill him",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 161,
@@ -1446,7 +1606,8 @@
     "rubric_ref": "R59bc",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فاجابهم علام الغيوب قائلا لماذا تجربونني اروني دينارا لمن الصورة والكتابة فاجابوا وقالوا لقيصر",
-    "text_english": "but the lord who knows all said “why do you test me you hypocrites show me the tax money whose image and inscription is this they said to him caesar s"
+    "text_english": "but the lord who knows all said “why do you test me you hypocrites show me the tax money whose image and inscription is this they said to him caesar s",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 162,
@@ -1455,7 +1616,8 @@
     "rubric_ref": "R59bd",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فقال لهم اعطوا اذن ما لقيصر لقيصر وما لله لله يعني بما ان الدنانير عليها صورة القيصر فيجب ان تعطي له",
-    "text_english": "and he said to them render therefore to caesar the things that are caesar s and to god the things that are god s meaning that if the denarius carried caesar’s picture then it should be given to him “"
+    "text_english": "and he said to them render therefore to caesar the things that are caesar s and to god the things that are god s meaning that if the denarius carried caesar’s picture then it should be given to him “",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 163,
@@ -1464,7 +1626,8 @@
     "rubric_ref": "R59be",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وصورة الله التي رسمها علي النفس العاقلة الناطقة يجب ان تعطي له وقد اوضح بهذا شرف النفس وكرامتها",
-    "text_english": "likewise the image of god drawn on man’s reasoning and talking soul must be given to him he thus revealed the honor and the pride of the soul"
+    "text_english": "likewise the image of god drawn on man’s reasoning and talking soul must be given to him he thus revealed the honor and the pride of the soul",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 164,
@@ -1473,7 +1636,8 @@
     "rubric_ref": "R59bf",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لان الله تعالي رسم صورته عليها ولذا يامرنا ان نعطيه اياها بدوامها في خوفه ومحبته والتفكر فيه وبوصاياه ونواميسه",
-    "text_english": "because god himself drew his picture on it and he orders us to give it to him by constantly loving fearing and constantly thinking about him and his commandments and laws"
+    "text_english": "because god himself drew his picture on it and he orders us to give it to him by constantly loving fearing and constantly thinking about him and his commandments and laws",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 165,
@@ -1482,7 +1646,8 @@
     "rubric_ref": "R59c0",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "والتضرع الدائم في طلب معونته علي عمل وصاياه والخلاص من كل خطية",
-    "text_english": "we should always seek his help to obey his commandments and be delivered from all sin"
+    "text_english": "we should always seek his help to obey his commandments and be delivered from all sin",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 166,
@@ -1491,7 +1656,8 @@
     "rubric_ref": "R59c1",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وكان اليهود في ذلك الزمان ينقسمون الي فرقتين الواحدة تسمي الفريسيين اي المعتزلة والاخري تسمي الصدوقيين",
-    "text_english": "the jews at the time were divided into two groups the pharisees and the sadducees"
+    "text_english": "the jews at the time were divided into two groups the pharisees and the sadducees",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 167,
@@ -1500,7 +1666,8 @@
     "rubric_ref": "R59c2",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "الذين يقولون ليس قيامة للاموات كما شهد عنهم الانجيل وكان لهم زعيما يسمي صادوق قد افسد رايهم عن الحق وامالهم الي راي من يعتقد ان الموتي لا يقومون",
-    "text_english": "who did not believe in resurrection as the bible testified they had a leader whose name was sadduc who was responsible for ruining their beliefs in truth and swayed them towards not believing in the resurrection of the dead"
+    "text_english": "who did not believe in resurrection as the bible testified they had a leader whose name was sadduc who was responsible for ruining their beliefs in truth and swayed them towards not believing in the resurrection of the dead",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 168,
@@ -1509,7 +1676,8 @@
     "rubric_ref": "R59c3",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وفي يوم الثلاثاء بينما كان الرب يعلم في الهيكل حضر اليه قوم من الصدوقيين يقصدون التهزئة بالقيامة وسالوه عن امراة تزوجت سبعة اخوة الواحد بعد الاخر وماتوا ولم يتركوا نسلا واخر الكل ماتت المراة",
-    "text_english": "on tuesday while the lord was teaching in the temple some of the sadducees came to him desiring to show contempt for the resurrection and asked him about a woman who was married to seven brothers one after the other and then died they left no offspring and the woman last of all died"
+    "text_english": "on tuesday while the lord was teaching in the temple some of the sadducees came to him desiring to show contempt for the resurrection and asked him about a woman who was married to seven brothers one after the other and then died they left no offspring and the woman last of all died",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 169,
@@ -1518,7 +1686,8 @@
     "rubric_ref": "R59c4",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وهنا سالوه قائلين ففي القيامة لمن من السبعة تكون زوجة فانها كانت للجميع",
-    "text_english": "they asked him “therefore in the resurrection whose wife of the seven will she be for they all had her"
+    "text_english": "they asked him “therefore in the resurrection whose wife of the seven will she be for they all had her",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 170,
@@ -1527,7 +1696,8 @@
     "rubric_ref": "R59c5",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "يريدون ان يقولوا باوضح عبارة ان كانت للاول فهذا ظلم وان كانت لهم كلهم فيكونوا زناة",
-    "text_english": "what they were clearly saying is if she were to be to the first one that would be unjust and if she were to be to all of them they would be adulterers"
+    "text_english": "what they were clearly saying is if she were to be to the first one that would be unjust and if she were to be to all of them they would be adulterers",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 171,
@@ -1536,7 +1706,8 @@
     "rubric_ref": "R59c6",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وقالوا بمكر انه لم يكن لهم نسلا حتي لا يقول لهم تكون للذي له منها ولدا ولكن السيد المسيح ابكم افواههم بقوله",
-    "text_english": "viciously they said she did not have any children because had she had any children he may have told them she was to be to the one who fathered her children but the lord christ shut them up by saying"
+    "text_english": "viciously they said she did not have any children because had she had any children he may have told them she was to be to the one who fathered her children but the lord christ shut them up by saying",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 172,
@@ -1545,7 +1716,8 @@
     "rubric_ref": "R59c7",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "تضلون اذ لا تعرفون الكتب ولا قوة الله لانهم في القيامة لا يزوجون ولا يتزوجون بل يكونون كملائكة الله في السماء",
-    "text_english": "you are mistaken not knowing the scriptures or the power of god for in the resurrection they neither marry nor are given in marriage but are like angels of god in heaven”"
+    "text_english": "you are mistaken not knowing the scriptures or the power of god for in the resurrection they neither marry nor are given in marriage but are like angels of god in heaven”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 173,
@@ -1554,7 +1726,8 @@
     "rubric_ref": "R59c8",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "اي ان النسبة بين الزوج والزوجة مختصة بهذه الدنيا ولا تكون في السماء ونتعلم من جواب السيد المسيح كيف تكون القيامة وعلي اي وجه هي",
-    "text_english": "which means that the marital relationship between husband and wife pertains to this earth only and will not apply in heaven from christ’s response we learn about the resurrection and how it will be"
+    "text_english": "which means that the marital relationship between husband and wife pertains to this earth only and will not apply in heaven from christ’s response we learn about the resurrection and how it will be",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 174,
@@ -1563,7 +1736,8 @@
     "rubric_ref": "R59c9",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وهو ان يكون الناس فيها روحانيين غير مفتقرين الي شيء من هذه الامور الجسمانية كالاكل والشرب وغيره",
-    "text_english": "people will be spirits and will no longer have any of these physical needs such as food drink etc"
+    "text_english": "people will be spirits and will no longer have any of these physical needs such as food drink etc",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 175,
@@ -1572,7 +1746,8 @@
     "rubric_ref": "R59ca",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وليس يريد ان نكون كالملائكة بمعني ان نكون بغير اجساد مثلهم لكننا لا نحتاج الي شيء كما هم لا يحتاجون",
-    "text_english": "when he says like the angels he doesn’t mean without bodies like the angels but without the need for anything like them"
+    "text_english": "when he says like the angels he doesn’t mean without bodies like the angels but without the need for anything like them",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 176,
@@ -1581,7 +1756,8 @@
     "rubric_ref": "R59cb",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولما كان الصدوقيون يظنون ان اقوال موسي في مسالة الزوجة المذكورة تبطل القيامة ذكر لهم السيد المسيح عبارة من اقوال هذا النبي تحقق القيامة فقال",
-    "text_english": "since the sadducees thought that moses sayings about the above mentioned wife denies the resurrection the lord christ cited a statement from this prophet’s sayings verifying the resurrection"
+    "text_english": "since the sadducees thought that moses sayings about the above mentioned wife denies the resurrection the lord christ cited a statement from this prophet’s sayings verifying the resurrection",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 177,
@@ -1590,7 +1766,8 @@
     "rubric_ref": "R59cc",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "افما قراتم ما قيل لكم من قبل الله القائد انا اله ابراهيم واله اسحق واله يعقوب ليس الله اله اموات بل اله احياء",
-    "text_english": "“but concerning the resurrection of the dead have you not what was spoken to you by god saying i am the god of abraham the god of isaac and the god of jacob god is not the god of the dead but of the living"
+    "text_english": "“but concerning the resurrection of the dead have you not what was spoken to you by god saying i am the god of abraham the god of isaac and the god of jacob god is not the god of the dead but of the living",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 178,
@@ -1599,7 +1776,8 @@
     "rubric_ref": "R59cd",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وقال في هؤلاء انهم احياء بمعني انهم باقون اي نفوسهم خالدة ولانهم يصيرون عند القيامة الي الحياة المعدة لهم ولسائر الابرار",
-    "text_english": "god said that these people are alive which means that they are still there because their souls are immortal after resurrection they move to a life that is prepared for them and for all the virtuous"
+    "text_english": "god said that these people are alive which means that they are still there because their souls are immortal after resurrection they move to a life that is prepared for them and for all the virtuous",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 179,
@@ -1608,7 +1786,8 @@
     "rubric_ref": "R59ce",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "واما قوله ليس الله اله اموات بل اله احياء فلكي يحقق ان الخطاة غير التائبين الذين هم موتي بخطاياهم ليس الله لهم الها كما يقول يوحنا الانجيلي من قال اني قد عرفته ولم يحفظ وصاياه فهو كاذب",
-    "text_english": "as for his saying “god is not the god of the dead but of the living” it verifies that the unrepentant sinners are dead in their sins and they have no god as john the evangelist said he who says i know him and does not keep his commandments is a liar and the truth is not in him ”"
+    "text_english": "as for his saying “god is not the god of the dead but of the living” it verifies that the unrepentant sinners are dead in their sins and they have no god as john the evangelist said he who says i know him and does not keep his commandments is a liar and the truth is not in him ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 180,
@@ -1617,7 +1796,8 @@
     "rubric_ref": "R59cf",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "اما الفريسيون فلما سمعوا انه ابكم الصدوقيين اجتمعوا معا وساله واحد منهم وهو ناموسي ليجربه قائلا يا معلم اية وصية هي العظمي في الناموس",
-    "text_english": "“but when the pharisees heard that he had silenced the sadducees they gathered together then one of them a lawyer asked him a question testing him saying teacher which is the great commandment in the law"
+    "text_english": "“but when the pharisees heard that he had silenced the sadducees they gathered together then one of them a lawyer asked him a question testing him saying teacher which is the great commandment in the law",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 181,
@@ -1626,7 +1806,8 @@
     "rubric_ref": "R59d0",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فقال له يسوع تحب الرب الهك من كل قلبك الخ وحب الرب هو حفظ وصاياه والعمل بها كما قال السيد المسيح لتلاميذه",
-    "text_english": "jesus said to him “you shall love the lord your god with all your heart with all your soul and with all your mind this is the first and great commandment ” the love of god is to keep his commandments as the lord said to his disciples"
+    "text_english": "jesus said to him “you shall love the lord your god with all your heart with all your soul and with all your mind this is the first and great commandment ” the love of god is to keep his commandments as the lord said to his disciples",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 182,
@@ -1635,7 +1816,8 @@
     "rubric_ref": "R59d1",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "انتم احبائي ان فعلتم ما اوصيكم به وقد اظهر عظم جلال محبة بعضنا لبعض اذ جعل ذلك شبه محبتنا له بقوله",
-    "text_english": "“you are my friends if you do whatever i command you ” the lord showed us the greatness of loving one another because he likened it to our love for him saying"
+    "text_english": "“you are my friends if you do whatever i command you ” the lord showed us the greatness of loving one another because he likened it to our love for him saying",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 183,
@@ -1644,7 +1826,8 @@
     "rubric_ref": "R59d2",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "والثانية مثلها تحب قريبك كنفسك وقريبي الذي امرني بحبه كنفسي هو من اراه في ضيقة او محتاج الي معونة مني واعينه حسب طاقتي",
-    "text_english": "“you shall love your neighbor as yourself ” the neighbor that the lord ordered us to love as ourselves is anyone in need of help or is suffering i must help him as much as i could"
+    "text_english": "“you shall love your neighbor as yourself ” the neighbor that the lord ordered us to love as ourselves is anyone in need of help or is suffering i must help him as much as i could",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 184,
@@ -1653,7 +1836,8 @@
     "rubric_ref": "R59d3",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "كالذي قدر ان اعين به نفسي اذا كنت في مثل تلك الضيقة فان حبي اياه يشبه حبي لخالقي كما قال يوحنا الانجيلي",
-    "text_english": "and as i would help myself had i been in such a situation my love for him is like my love for my creator as john the evangelist said"
+    "text_english": "and as i would help myself had i been in such a situation my love for him is like my love for my creator as john the evangelist said",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 185,
@@ -1662,7 +1846,8 @@
     "rubric_ref": "R59d4",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ان قال احد اني احب الله وابغض اخاه فهو كاذب لان من لا يحب اخاه الذي ابصره كيف يقدر ان يحب الله الذي لم يبصره وعليه فان حب الله لا يصح الا بمحبة الاخ",
-    "text_english": "“if someone says i love god and hates his brother he is a liar for he who does not love his brother whom he has seen how can he love god whom he has not seen ” thus the love of god can’t be except by the love of one’s brother"
+    "text_english": "“if someone says i love god and hates his brother he is a liar for he who does not love his brother whom he has seen how can he love god whom he has not seen ” thus the love of god can’t be except by the love of one’s brother",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 186,
@@ -1671,7 +1856,8 @@
     "rubric_ref": "R59d5",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولما اراد ان يوضح لهم لاهوته وربوبيته وانه مساو لابيه في ذلك قال لهم ماذا تظنون في المسيح ابن من هو",
-    "text_english": "when the lord wanted to reveal his divinity and that he is equal to his father he said what do you think about the christ whose son is he “"
+    "text_english": "when the lord wanted to reveal his divinity and that he is equal to his father he said what do you think about the christ whose son is he “",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 187,
@@ -1680,7 +1866,8 @@
     "rubric_ref": "R59d6",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "اراد بقوله هذا ان ينبه عقول الفريسيين الي الاعتقاد بربوبيته وانه هو الذي وعد بمجيئه الانبياء",
-    "text_english": "he asked them to alert the minds of the pharisees to believe in his divinity and that he is the one promised by the prophets"
+    "text_english": "he asked them to alert the minds of the pharisees to believe in his divinity and that he is the one promised by the prophets",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 188,
@@ -1689,7 +1876,8 @@
     "rubric_ref": "R59d7",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وقال لهم ابن من هو قالوا له ابن داود قال لهم فكيف يدعوه داود بالروح ربا الخ",
-    "text_english": "he asked them whose son is he “they said to him the son of david he said to them how then does david in the spirit call him lord etc ”"
+    "text_english": "he asked them whose son is he “they said to him the son of david he said to them how then does david in the spirit call him lord etc ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 189,
@@ -1698,7 +1886,8 @@
     "rubric_ref": "R59d8",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولكون اليهود لم يكونوا يعلمون ان المسيح هو اله متانس وهو ابن الله وابن داود لم يستحسنوا ان يجيبوه علي سؤاله ومن ذلك اليوم لم يجسر احد ان يساله بتة",
-    "text_english": "because the jews did not know that christ is god incarnate in the flesh the son of god and the son of david they did not favor answering his question and from that day forward no one dared question him anymore ”"
+    "text_english": "because the jews did not know that christ is god incarnate in the flesh the son of god and the son of david they did not favor answering his question and from that day forward no one dared question him anymore ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 190,
@@ -1707,7 +1896,8 @@
     "rubric_ref": "R59d9",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لانهم كانوا اذا سمعوه في بعض الاوقات يشير لهم عن لاهوته يصعب عليهم ذلك ويعتبروه تجديفا",
-    "text_english": "because it was difficult for them to hear him talk about his divinity and they considered it heresy"
+    "text_english": "because it was difficult for them to hear him talk about his divinity and they considered it heresy",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 191,
@@ -1716,7 +1906,8 @@
     "rubric_ref": "R59da",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "حيث اثبت لهم من قول داود انه بلاهوته رب داود وهو رب كل ما يري وما لا يري",
-    "text_english": "he proved to them using david’s words that he is divine and the god of david god of the seen and the unseen"
+    "text_english": "he proved to them using david’s words that he is divine and the god of david god of the seen and the unseen",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 192,
@@ -1725,7 +1916,8 @@
     "rubric_ref": "R59db",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وهو ابن الله المولود منه قبل كل الدهور كميلاد شعاع الشمس من قرصها مولود منه وهو ثابت فيه كما ان شعاع الشمس مولود من قرصها وهو متصل بالقرص",
-    "text_english": "the son of god born before all ages like the birth of the sun rays from its source while connected to it"
+    "text_english": "the son of god born before all ages like the birth of the sun rays from its source while connected to it",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 193,
@@ -1734,7 +1926,8 @@
     "rubric_ref": "R59dc",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولكي يعرفنا بولس الرسول عن ميلاده من الاب واتصاله به كالشعاع بالشمس قال الذي وهو بهاء مجده ورسم جوهره ابيه كالبنين المخلوقين",
-    "text_english": "paul the apostle speaks about his birth from the father and his link to him like the ray of the sun to its source he said “who being the brightness of his glory and the express image of his person” so that we may know that he is the true son complete in picture and hypostasis as his father and is not separate from his father’s hypostasis like the created children"
+    "text_english": "paul the apostle speaks about his birth from the father and his link to him like the ray of the sun to its source he said “who being the brightness of his glory and the express image of his person” so that we may know that he is the true son complete in picture and hypostasis as his father and is not separate from his father’s hypostasis like the created children",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 194,
@@ -1743,7 +1936,8 @@
     "rubric_ref": "R59dd",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "بل هو متصل باقنوم ابيه كالشعاع بالقرص كما دعاه داود ربا وابيه ربا بقوله قال الرب لربي اجلس عن يميني ولم يدعه ربا بلاهوته فقط بل بلاهوته وناسوته",
-    "text_english": "but he is connected to his father’s hypostasis as the ray is connected to its source and as david has called him god and his father god saying “the lord said to my lord sit at my right hand ” and he did not call him god in his divinity only but also in his humanity too"
+    "text_english": "but he is connected to his father’s hypostasis as the ray is connected to its source and as david has called him god and his father god saying “the lord said to my lord sit at my right hand ” and he did not call him god in his divinity only but also in his humanity too",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 195,
@@ -1752,7 +1946,8 @@
     "rubric_ref": "R59de",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "لان قول الاب له اجلس عن يميني هو عن جلوسه بناسوته بعد صعوده الي السماء وقد حقق لنا داود بذلك انه بلاهوته وناسوته رب واحد وانه واحد ولا نقول ان لاهوته رب وناسوته رب بل هو رب واحد",
-    "text_english": "because the father’s saying sit by my right hand refers to his sitting in his humanity after his ascension to heaven david demonstrated to us that his divinity and his humanity are one god and we don’t say that his divinity is a god and his humanity is another both are one"
+    "text_english": "because the father’s saying sit by my right hand refers to his sitting in his humanity after his ascension to heaven david demonstrated to us that his divinity and his humanity are one god and we don’t say that his divinity is a god and his humanity is another both are one",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 196,
@@ -1761,7 +1956,8 @@
     "rubric_ref": "R59df",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "كما شهد بذلك بولس الرسول بقول ورب واحد يسوع المسيح يعني انه رب واحد بلاهوته وناسوته لان اللاهوت باتحاده بالناسوت صار اقنوما واحدا الها متانسا",
-    "text_english": "as paul the apostle has testified “and one lord jesus christ ” meaning he is one god with his humanity and divinity because the union between the divinity and the humanity has become one hypostasis and one divine incarnation"
+    "text_english": "as paul the apostle has testified “and one lord jesus christ ” meaning he is one god with his humanity and divinity because the union between the divinity and the humanity has become one hypostasis and one divine incarnation",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 197,
@@ -1770,7 +1966,8 @@
     "rubric_ref": "R59e0",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "واما عن التثليث والتوحيد فقد اثبته الوحي بقوله وقال الله نعمل الانسان علي صورتنا كشبهنا",
-    "text_english": "trinity and monotheism were clarified by the divine inspiration “then god said let us make man in our image according to our likeness ”"
+    "text_english": "trinity and monotheism were clarified by the divine inspiration “then god said let us make man in our image according to our likeness ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 198,
@@ -1779,7 +1976,8 @@
     "rubric_ref": "R59e1",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ولكون هذا القول يوضح وجود الروح القدس لقوله نخلق اوضح بهذا ان القول ليس للابن وحده بل للثلاثة اقانيم معا الاب والابن والروح القدس",
-    "text_english": "which shows the presence of the holy spirit in his word “us” clarifying that the saying was not about the son alone but about the three hypostasis together the father the son and the holy spirit"
+    "text_english": "which shows the presence of the holy spirit in his word “us” clarifying that the saying was not about the son alone but about the three hypostasis together the father the son and the holy spirit",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 199,
@@ -1788,7 +1986,8 @@
     "rubric_ref": "R59e2",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وهكذا قال ايضا ايام بناء البرج هلم ننزل ونبلبل هناك لسانهم",
-    "text_english": "also during building the tower of babel he said “come let us go down and there confuse their language that they may not understand one another s speech"
+    "text_english": "also during building the tower of babel he said “come let us go down and there confuse their language that they may not understand one another s speech",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 200,
@@ -1797,7 +1996,8 @@
     "rubric_ref": "R59e3",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وقال ايضا انا اله ابيك اله ابراهيم واله اسحق واله يعقوب ومراده بهذا القول الكلام عن الثلاثة اقانيم وان لم يكن ذلك فما كانت حاجة الي تكرير لفظ الجلالة",
-    "text_english": "moreover he said i am the god of your father the god of abraham the god of isaac and the god of jacob speaking of the three hypostasis otherwise there would have been no need to repeat the word god three times"
+    "text_english": "moreover he said i am the god of your father the god of abraham the god of isaac and the god of jacob speaking of the three hypostasis otherwise there would have been no need to repeat the word god three times",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 201,
@@ -1806,7 +2006,8 @@
     "rubric_ref": "R59e4",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وكان القول هكذا انا اله ابراهيم واسحق ويعقوب وانما كرر اسم الاله ثلاثة دفعات لكي نعلم ان كل واحد من الاقانيم الثلاثة اله حقيقي",
-    "text_english": "he repeated the word god three times to show us that each of the three hypostasis is a true god"
+    "text_english": "he repeated the word god three times to show us that each of the three hypostasis is a true god",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 202,
@@ -1815,7 +2016,8 @@
     "rubric_ref": "R59e5",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فالاب اله حقيقي والابن اله حقيقي والروح القدس اله حقيقي واذا علمنا ان كل واحد من الاقانيم الثلاثة اله حقيقي نعلم ايضا ان الثلاثة اله واحد وليس ثلاثة الهة",
-    "text_english": "the father is a true god the son is a true god and the holy spirit is a true god if we know that each of the three hypostasis is a true god we should know that the three are one god and not three gods"
+    "text_english": "the father is a true god the son is a true god and the holy spirit is a true god if we know that each of the three hypostasis is a true god we should know that the three are one god and not three gods",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 203,
@@ -1824,7 +2026,8 @@
     "rubric_ref": "R59e6",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وان كل غيرة وبعده ومخلوق منه ومحدود ومحصور وله بداية ونهاية في صورته وفي وجوده",
-    "text_english": "and every other thing followed him was created by him and limited with a beginning and an end in his image and in his presence"
+    "text_english": "and every other thing followed him was created by him and limited with a beginning and an end in his image and in his presence",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 204,
@@ -1833,7 +2036,8 @@
     "rubric_ref": "R59e7",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "اما الثالوث الاقدس فكل واحد من اقانيمه لا بداية له ولا نهاية لا في صورته ولا في وجوده",
-    "text_english": "as for the holy trinity each of its three hypostasis is without beginning or end not in his image and not in his presence"
+    "text_english": "as for the holy trinity each of its three hypostasis is without beginning or end not in his image and not in his presence",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 205,
@@ -1842,7 +2046,8 @@
     "rubric_ref": "R59e8",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "هو منذ الازل ولا يزال وهو هو واحد لا شبه له ولا مثال ومن انكر علينا قولنا ان الاب رب والابن رب والروح القدس رب",
-    "text_english": "he is from the beginning and is still being he is unique and no one is like him anyone who denies that the father is god the son is god and the holy spirit is god"
+    "text_english": "he is from the beginning and is still being he is unique and no one is like him anyone who denies that the father is god the son is god and the holy spirit is god",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 206,
@@ -1851,7 +2056,8 @@
     "rubric_ref": "R59e9",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فلينكر علي داود قوله قال الرب لربي اجلس عن يميني وعلي موسي قوله فامطر الرب من عند الرب لان ايماننا نحن المسيحيون قد شهدت به انبياء اليهود وكهنتهم",
-    "text_english": "denies david’s words “the lord said to my lord sit at my right hand” and moses words “then the lord rained brimstone and fire on sodom and gomorrah from the lord out of the heavens” because the prophets and priests of the jews testify for our christian faith"
+    "text_english": "denies david’s words “the lord said to my lord sit at my right hand” and moses words “then the lord rained brimstone and fire on sodom and gomorrah from the lord out of the heavens” because the prophets and priests of the jews testify for our christian faith",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 207,
@@ -1860,7 +2066,8 @@
     "rubric_ref": "T479d",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "مقدمة الطرح",
-    "text_english": "exposition introduction"
+    "text_english": "exposition introduction",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 208,
@@ -1869,7 +2076,8 @@
     "rubric_ref": "R47a0",
     "text_coptic": "ϧⲉⲛ ⲫⲣⲁⲛ ⲛϯⲧⲣⲓⲁⲥ",
     "text_arabic": "باسم الثالوث",
-    "text_english": "in the name of the trinity"
+    "text_english": "in the name of the trinity",
+    "text_coptic_arabic": "خين فران نتيترياس"
   },
   {
     "order": 209,
@@ -1878,7 +2086,8 @@
     "rubric_ref": "R47a2",
     "text_coptic": "ⲛⲟⲙⲟⲟⲩⲥⲓⲟⲥ",
     "text_arabic": "المساوي",
-    "text_english": "one in essence"
+    "text_english": "one in essence",
+    "text_coptic_arabic": "نومووسيوس"
   },
   {
     "order": 210,
@@ -1887,7 +2096,8 @@
     "rubric_ref": "R47a4",
     "text_coptic": "ⲫⲓⲱⲧ ⲛⲉⲙ ⲡϣⲏⲣⲓ",
     "text_arabic": "الاب والابن",
-    "text_english": "the father and the son"
+    "text_english": "the father and the son",
+    "text_coptic_arabic": "فيوت نيم بشيري"
   },
   {
     "order": 211,
@@ -1896,7 +2106,8 @@
     "rubric_ref": "R47a6",
     "text_coptic": "ⲛⲉⲙ ⲡⲓⲡⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ",
     "text_arabic": "والروح القدس",
-    "text_english": "and the holy spirit"
+    "text_english": "and the holy spirit",
+    "text_coptic_arabic": "نيم بي إبنيفما إثؤواب"
   },
   {
     "order": 212,
@@ -1905,7 +2116,8 @@
     "rubric_ref": "R47a8",
     "text_coptic": "ⲡⲓⲟⲩⲱⲓⲛⲓ ⲛⲧⲁⲫⲙⲏⲓ",
     "text_arabic": "ايها النور الحقيقي",
-    "text_english": "o true light"
+    "text_english": "o true light",
+    "text_coptic_arabic": "بي أوويني نتافمي"
   },
   {
     "order": 213,
@@ -1914,7 +2126,8 @@
     "rubric_ref": "R47aa",
     "text_coptic": "ⲫⲏⲉⲧⲉⲣⲟⲩⲱⲓⲛⲓ",
     "text_arabic": "الذي يضيء",
-    "text_english": "who enlightens"
+    "text_english": "who enlightens",
+    "text_coptic_arabic": "في إت إيروويني"
   },
   {
     "order": 214,
@@ -1923,7 +2136,8 @@
     "rubric_ref": "R47ac",
     "text_coptic": "ⲉⲣⲱⲙⲓ ⲛⲓⲃⲉⲛ",
     "text_arabic": "لكل انسان",
-    "text_english": "every man"
+    "text_english": "every man",
+    "text_coptic_arabic": "إيرومي ني ڤين"
   },
   {
     "order": 215,
@@ -1932,7 +2146,8 @@
     "rubric_ref": "R47ae",
     "text_coptic": "ⲉⲑⲛⲏⲟⲩ ⲉⲡⲓⲕⲟⲥⲙⲟⲥ",
     "text_arabic": "ات الي العالم",
-    "text_english": "who comes into the world"
+    "text_english": "who comes into the world",
+    "text_coptic_arabic": "إيثنيؤي إيبيكوزموس"
   },
   {
     "order": 216,
@@ -1941,7 +2156,8 @@
     "rubric_ref": "T14f7a",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "الطرح",
-    "text_english": "exposition"
+    "text_english": "exposition",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 217,
@@ -1950,7 +2166,8 @@
     "rubric_ref": "R14f7c",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "طرح الساعة الاولي من يوم الثلاثاء من البصخة المقدسة بركته علينا امين",
-    "text_english": "the exposition of the first hour of tuesday of holy pascha may its blessings be with us amen"
+    "text_english": "the exposition of the first hour of tuesday of holy pascha may its blessings be with us amen",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 218,
@@ -1959,7 +2176,8 @@
     "rubric_ref": "R14f7e",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "وجاء اسرائيل الي جبل رافازين من بعد ثلاثة اشهر وهو في البرية وخرج بنو اسرائيل من مصر وجبل سيناء الي هذا المكان",
-    "text_english": "and israel came to mount rephidim after three months in the wilderness then the israelites came out of egypt and mount sinai to this place"
+    "text_english": "and israel came to mount rephidim after three months in the wilderness then the israelites came out of egypt and mount sinai to this place",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 219,
@@ -1968,7 +2186,8 @@
     "rubric_ref": "R14f7f",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فجاء موسي ووقف قدام الله فناداه وتكلم معه قائلا هذا ما تقوله لبيت يعقوب وتخبر به بني اسرائيل",
-    "text_english": "moses came and stood in the presence of god he called and spoke to him saying “this is what you tell the house of israel and report to the sons of israel"
+    "text_english": "moses came and stood in the presence of god he called and spoke to him saying “this is what you tell the house of israel and report to the sons of israel",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 220,
@@ -1977,7 +2196,8 @@
     "rubric_ref": "R14f80",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "انكم قد رايتم اعمالي الكثيرة التي صنعتها انا بالمصريين وكيف حملتكم انا بقوتي العالية كانكم علي اجنحة النسور",
-    "text_english": "you have seen the many deeds i have inflicted on the egyptians and how i carried you with my soaring power as if you were on the wings of eagles"
+    "text_english": "you have seen the many deeds i have inflicted on the egyptians and how i carried you with my soaring power as if you were on the wings of eagles",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 221,
@@ -1986,7 +2206,8 @@
     "rubric_ref": "R14f81",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فاحفظوا ناموسي ووصاياي وانصتوا لكلامي واصنعوا ارادتي فانني اخترتكم من بين جميع الامم لان لي الارض كلها والبحر معا لتصيروا لي مملكة وشعبا مختارا وامة مطهرة",
-    "text_english": "keep my laws and commandments take heed to my words and carry out my will for i have chosen you from among the nations for i have the earth and the sea as well you will be my kingdom a chosen people and a holy nation ”"
+    "text_english": "keep my laws and commandments take heed to my words and carry out my will for i have chosen you from among the nations for i have the earth and the sea as well you will be my kingdom a chosen people and a holy nation ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 222,
@@ -1995,7 +2216,8 @@
     "rubric_ref": "R14f82",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فجاء موسي واخبر الشعب بجميع هذا الكلام الذي قاله الرب فصرخ جميع الشعب بصوت واحد قائلين كلما يرسم به الله نحن نحفظه",
-    "text_english": "and moses came back and told the people all what god has said the public cheered in one voice saying “whatever god wills we will observe ”"
+    "text_english": "and moses came back and told the people all what god has said the public cheered in one voice saying “whatever god wills we will observe ”",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 223,
@@ -2004,7 +2226,8 @@
     "rubric_ref": "R14f83",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فقام موسي وخبر العارف ان الشعب سمع اوامرك فعاد اسرائيل ورجع يعقوب الي خلف وحاد بنو اسرائيل وصارت وصاياه كلا شئ واوامره عادت باطلة",
-    "text_english": "moses then told the omniscient that the people adhered to his orders but israel turned back jacob retreated and the sons of israel strayed away god s commandments became as if they were not and his instructions ignored"
+    "text_english": "moses then told the omniscient that the people adhered to his orders but israel turned back jacob retreated and the sons of israel strayed away god s commandments became as if they were not and his instructions ignored",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 224,
@@ -2013,7 +2236,8 @@
     "rubric_ref": "R14f84",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "فلذلك اسلمهم الي اعداء مبغضين واستعبدوا للغرباء مرة اخري ونكس رؤوسهم امام الامم و صاروا في فضيحة و خزي ابدي",
-    "text_english": "thus god delivered them into the hands of hateful enemies and subjugated them to strangers once again he humiliated them before the nations and they lived in eternal shame and disgrace"
+    "text_english": "thus god delivered them into the hands of hateful enemies and subjugated them to strangers once again he humiliated them before the nations and they lived in eternal shame and disgrace",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 225,
@@ -2022,7 +2246,8 @@
     "rubric_ref": "T47bb",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "ختام الطرح",
-    "text_english": "exposition conclusion"
+    "text_english": "exposition conclusion",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 226,
@@ -2031,7 +2256,8 @@
     "rubric_ref": "R47bd",
     "text_coptic": "ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲛⲥⲱⲧⲏⲣ",
     "text_arabic": "المسيح مخلصنا",
-    "text_english": "christ our savior"
+    "text_english": "christ our savior",
+    "text_coptic_arabic": "بي إخرستوس بين سوتير"
   },
   {
     "order": 227,
@@ -2040,7 +2266,8 @@
     "rubric_ref": "R47bf",
     "text_coptic": "ⲁϥⲓ ⲁϥϣⲉⲡⲙⲕⲁϩ",
     "text_arabic": "جاء وتالم عنا",
-    "text_english": "has come and has borne suffering"
+    "text_english": "has come and has borne suffering",
+    "text_coptic_arabic": "أفي أفشيبمكاه"
   },
   {
     "order": 228,
@@ -2049,7 +2276,8 @@
     "rubric_ref": "R47c1",
     "text_coptic": "ϩⲓⲛⲁ ϧⲉⲛ ⲛⲉϥⲙⲕⲁⲩϩ",
     "text_arabic": "لكي بالامه",
-    "text_english": "that through his passion"
+    "text_english": "that through his passion",
+    "text_coptic_arabic": "هينا خين نيف مكاڤه"
   },
   {
     "order": 229,
@@ -2058,7 +2286,8 @@
     "rubric_ref": "R47c3",
     "text_coptic": "ⲛⲧⲉϥⲥⲱϯ ⲙⲙⲟⲛ",
     "text_arabic": "يخلصنا",
-    "text_english": "he may save us"
+    "text_english": "he may save us",
+    "text_coptic_arabic": "نتيفسوتي ممون"
   },
   {
     "order": 230,
@@ -2067,7 +2296,8 @@
     "rubric_ref": "R47c5",
     "text_coptic": "ⲙⲁⲣⲉⲛ ϯⲱⲟⲩⲛⲁϥ",
     "text_arabic": "فلنمجده",
-    "text_english": "let us glorify him"
+    "text_english": "let us glorify him",
+    "text_coptic_arabic": "مارين تي أووناف"
   },
   {
     "order": 231,
@@ -2076,7 +2306,8 @@
     "rubric_ref": "R47c7",
     "text_coptic": "ⲧⲉⲛϭⲓⲥⲓ ⲙⲡⲉϥⲣⲁⲛ",
     "text_arabic": "ونرفع اسمه",
-    "text_english": "and exalt his name"
+    "text_english": "and exalt his name",
+    "text_coptic_arabic": "تين تشيسي مبيفران"
   },
   {
     "order": 232,
@@ -2085,7 +2316,8 @@
     "rubric_ref": "R47c9",
     "text_coptic": "ϫⲉ ⲁϥⲉⲣⲟⲩⲛⲁⲓ ⲛⲉⲙⲁⲛ",
     "text_arabic": "لانه صنع معنا رحمة",
-    "text_english": "for he has done us mercy"
+    "text_english": "for he has done us mercy",
+    "text_coptic_arabic": "جي أفيروناي نيمان"
   },
   {
     "order": 233,
@@ -2094,7 +2326,8 @@
     "rubric_ref": "R47cb",
     "text_coptic": "ⲕⲁⲧⲁ ⲡⲉϥⲛⲓϣϯ ⲛⲛⲁⲓ",
     "text_arabic": "كعظيم رحمته",
-    "text_english": "according to his great mercy"
+    "text_english": "according to his great mercy",
+    "text_coptic_arabic": "كاتا بيف ني شتي نناي"
   },
   {
     "order": 234,
@@ -2103,7 +2336,8 @@
     "rubric_ref": "R4e4c",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "",
-    "text_english": "depending upon the practice and schedule of a local parish the following concluding litanies may be prayed"
+    "text_english": "depending upon the practice and schedule of a local parish the following concluding litanies may be prayed",
+    "text_coptic_arabic": "إت أكثاشف"
   },
   {
     "order": 235,
@@ -2112,6 +2346,7 @@
     "rubric_ref": "L5491",
     "text_coptic": "ⲉⲧⲁⲕⲑⲁϣϥ",
     "text_arabic": "طلبة النهار",
-    "text_english": "daytime litanies"
+    "text_english": "daytime litanies",
+    "text_coptic_arabic": "إت أكثاشف"
   }
 ]

@@ -1,0 +1,679 @@
+{
+  "book_id": 4,
+  "book_title": "تفسير سفر القضاة",
+  "testament": "Old Testament",
+  "chapters_count": 21,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الاستيلاء على بقية كنعان"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "مقدمة في لاهوتيات السفر"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "عثنيئيل بن قناز"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "دبورة النبية وباراق"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "تسبحة دبورة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "ملاك الرب وجدعون"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "جدعون والمديانيون"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "قتل زبح وصلمناع"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "فتنة أبيمالك"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "انحراف إسرائيل"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "إقامة يفتاح قاضيًا"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "حرب يفتاح مع أفرايم"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "شمشون"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "زواج شمشون بأممية"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "صراع شمشون"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "شمشون ودليلة"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "تمثال ميخا"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "اغتصاب التمثالين"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "اللاوي وسريته"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "حرب ضد سبط بنيامين"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Jerome Biblical Commentary, P 149."
+    },
+    {
+      "id": 2,
+      "text": "John L. Mckenzie: Deict. of the Bible, P 465."
+    },
+    {
+      "id": 3,
+      "text": "J. Raven: O.T. Introduction, P 159."
+    },
+    {
+      "id": 4,
+      "text": "Richard V. French: Lex Mosaica, P 191."
+    },
+    {
+      "id": 5,
+      "text": "Ibid 198 - 199: J. Raven: O.T. Introduction, P 158."
+    },
+    {
+      "id": 6,
+      "text": "Jerome Biblical Commentary, P 150."
+    },
+    {
+      "id": 7,
+      "text": "Conc. Widows, Ch 8."
+    },
+    {
+      "id": 8,
+      "text": "Ep. ad Furiam 17."
+    },
+    {
+      "id": 9,
+      "text": "Cat. hect. 16:28"
+    },
+    {
+      "id": 10,
+      "text": "Mckenzie, P 464."
+    },
+    {
+      "id": 11,
+      "text": "PG 46:929 C."
+    },
+    {
+      "id": 12,
+      "text": "للمؤلف: سفر العدد سنة 1981 ، ص 15."
+    },
+    {
+      "id": 13,
+      "text": "للمؤلف: الإنجيل بحسب متى سنة 1983 ، ص 79."
+    },
+    {
+      "id": 14,
+      "text": "In Rom. PG 60:499."
+    },
+    {
+      "id": 15,
+      "text": "In Gen. PG 53:76, 77."
+    },
+    {
+      "id": 16,
+      "text": "James Strong: Dict. of The Words in the Hebrew Bible, article 113."
+    },
+    {
+      "id": 17,
+      "text": "Ibid, article 966."
+    },
+    {
+      "id": 18,
+      "text": "New westminster Dict. of the Bible, P 114."
+    },
+    {
+      "id": 19,
+      "text": "On Ps. 122."
+    },
+    {
+      "id": 20,
+      "text": "سفر يشوع سنة 1982 ، ص 182، 183."
+    },
+    {
+      "id": 21,
+      "text": "New westminster Dict. of the Bible, P 219."
+    },
+    {
+      "id": 22,
+      "text": "يشوع ، ص 184."
+    },
+    {
+      "id": 23,
+      "text": "In Jos. hom 21:1."
+    },
+    {
+      "id": 24,
+      "text": "للمؤلف: آباء مدرسة الإسكندرية الأولون سنة 1980، ص 160."
+    },
+    {
+      "id": 25,
+      "text": "الحب الرعوي، ص 764."
+    },
+    {
+      "id": 26,
+      "text": "يشوع سنة 1982 ، ص 82، 83."
+    },
+    {
+      "id": 27,
+      "text": "Mckenzie, P 311"
+    },
+    {
+      "id": 28,
+      "text": "Cassian: Conf. 4:6."
+    },
+    {
+      "id": 29,
+      "text": "يشوع 1982 ، ص 23."
+    },
+    {
+      "id": 30,
+      "text": "المرجع السابق ، ص 27."
+    },
+    {
+      "id": 31,
+      "text": "المرجع السابق ، ص 28."
+    },
+    {
+      "id": 32,
+      "text": "المرجع السابق ، ص25."
+    },
+    {
+      "id": 33,
+      "text": "المرجع السابق ، ص 28."
+    },
+    {
+      "id": 34,
+      "text": "المرجع السابق ، ص 29."
+    },
+    {
+      "id": 35,
+      "text": "المرجع السابق ، ص 1984."
+    },
+    {
+      "id": 36,
+      "text": "Strong A Concise Dict. of the words in the Hebrew Bible, article 6274."
+    },
+    {
+      "id": 37,
+      "text": "يشوع ، ص 1984."
+    },
+    {
+      "id": 38,
+      "text": "الإنجيل بحسب متى ص 93، ص 85."
+    },
+    {
+      "id": 39,
+      "text": "New westminster Dict. of the Bible, article: 6274."
+    },
+    {
+      "id": 40,
+      "text": "Strong A Concise Dict. of the words in the Hebrew Bible, article 261."
+    },
+    {
+      "id": 41,
+      "text": "Cassian Conf. 6:10."
+    },
+    {
+      "id": 42,
+      "text": "In Ioan. tr 105:1"
+    },
+    {
+      "id": 43,
+      "text": "Ibid."
+    },
+    {
+      "id": 44,
+      "text": "Ibid. 105:2."
+    },
+    {
+      "id": 45,
+      "text": "On Ps 45."
+    },
+    {
+      "id": 46,
+      "text": "راجع القديس يوحنا الذهبي الفم، 1980 ، ص 318-321."
+    },
+    {
+      "id": 47,
+      "text": "On Ps. 83."
+    },
+    {
+      "id": 48,
+      "text": "Conc. Widows 8 ."
+    },
+    {
+      "id": 49,
+      "text": "Ibid. 51."
+    },
+    {
+      "id": 50,
+      "text": "Comm. on Can’t, Ser. 9"
+    },
+    {
+      "id": 51,
+      "text": "Strong Hebrew & Chadec Dict., articles 3940, 3941."
+    },
+    {
+      "id": 52,
+      "text": "الإنجيل بحسب متى ص 115."
+    },
+    {
+      "id": 53,
+      "text": "Conc. Widows 8 ."
+    },
+    {
+      "id": 54,
+      "text": "Ibid."
+    },
+    {
+      "id": 55,
+      "text": "Ibid. 8 ."
+    },
+    {
+      "id": 56,
+      "text": "Ibid. 8 ."
+    },
+    {
+      "id": 57,
+      "text": "Ibid. 8 ."
+    },
+    {
+      "id": 58,
+      "text": "Ibid. 8 ."
+    },
+    {
+      "id": 59,
+      "text": "راجع زكريا ، ص 131 (أيضًا القديس أغسطينوس: تفسير يوحنا مقال 17: 6)."
+    },
+    {
+      "id": 60,
+      "text": "In Ioan, hom. 46."
+    },
+    {
+      "id": 61,
+      "text": "حزقيال ، ص 67-70."
+    },
+    {
+      "id": 62,
+      "text": "الكنيسة تحبك 1966، ص 42، 43."
+    },
+    {
+      "id": 63,
+      "text": "On Ps. hom 7."
+    },
+    {
+      "id": 64,
+      "text": "On Ps. 68."
+    },
+    {
+      "id": 65,
+      "text": "سفر العدد، 1981 ، ص 210-216."
+    },
+    {
+      "id": 66,
+      "text": "المرجع السابق ، ص 213، 214، العلامة أوريجين: في العدد عظة 26."
+    },
+    {
+      "id": 67,
+      "text": "St. Hippolytus of Rome: On Christ & Anti-Christ."
+    },
+    {
+      "id": 68,
+      "text": "On Ps. 33."
+    },
+    {
+      "id": 69,
+      "text": "Cassian: Conf. 3:4."
+    },
+    {
+      "id": 70,
+      "text": "Mckenzie, P 628."
+    },
+    {
+      "id": 71,
+      "text": "Strong: Hebrew & Chadee Dict., article 1439."
+    },
+    {
+      "id": 72,
+      "text": "Caesarius of Arles: Sermon 117: 1; St. Ambrose: On the Holy Spirit 1:1."
+    },
+    {
+      "id": 73,
+      "text": "Caesarius 117:2."
+    },
+    {
+      "id": 74,
+      "text": "Ibid. 117:6."
+    },
+    {
+      "id": 75,
+      "text": "Incomp. Of Cod 5:4. PG 48:740."
+    },
+    {
+      "id": 76,
+      "text": "Caesarius 117:3."
+    },
+    {
+      "id": 77,
+      "text": "Fragments of Lost Writings 17."
+    },
+    {
+      "id": 78,
+      "text": "Caesarius 117:4."
+    },
+    {
+      "id": 79,
+      "text": "Ibid. 177: 6 (See Conc. Widows 3)."
+    },
+    {
+      "id": 80,
+      "text": "On Ps 72."
+    },
+    {
+      "id": 81,
+      "text": "Ep. 58:3"
+    },
+    {
+      "id": 82,
+      "text": "Adv. Haer 3:17:3."
+    },
+    {
+      "id": 83,
+      "text": "Caesarius 117:5."
+    },
+    {
+      "id": 84,
+      "text": "Ibid."
+    },
+    {
+      "id": 85,
+      "text": "Chaplet 3."
+    },
+    {
+      "id": 86,
+      "text": "Myst. Hom. 3:4."
+    },
+    {
+      "id": 87,
+      "text": "The Last Farewell 7."
+    },
+    {
+      "id": 88,
+      "text": "On Ps. 68"
+    },
+    {
+      "id": 89,
+      "text": "Caesarius Ser. 117:3."
+    },
+    {
+      "id": 90,
+      "text": "راجع تفسير يشوع 3: 2 ."
+    },
+    {
+      "id": 91,
+      "text": "راجع: من يقدر أن يؤذيك؟، \"هل للشيطان سلطان عليك؟"
+    },
+    {
+      "id": 92,
+      "text": "للمؤلف: الحب الرعوي، 1965، ص 196."
+    },
+    {
+      "id": 93,
+      "text": "المرجع السابق، ص 230، 231."
+    },
+    {
+      "id": 94,
+      "text": "راجع تفسير قض 6: 11 ."
+    },
+    {
+      "id": 95,
+      "text": "راجع للمؤلف: الإنجيل بحسب متى ، ص 183."
+    },
+    {
+      "id": 96,
+      "text": "راجع تفسير 2تي 4: 6 ."
+    },
+    {
+      "id": 97,
+      "text": "رسطا 71، طك 23."
+    },
+    {
+      "id": 98,
+      "text": "In Hebr. hom 23:9."
+    },
+    {
+      "id": 99,
+      "text": "In Acts hom 3."
+    },
+    {
+      "id": 100,
+      "text": "للمؤلف: الإنجيل بحسب متى ص 75."
+    },
+    {
+      "id": 101,
+      "text": "Ep. 60:8."
+    },
+    {
+      "id": 102,
+      "text": "PG 57:30, 53:228."
+    },
+    {
+      "id": 103,
+      "text": "Duties of the clergy 3:12 (78, 79)."
+    },
+    {
+      "id": 104,
+      "text": "Ibid. 2:50 ."
+    },
+    {
+      "id": 105,
+      "text": "Conc. Stat. hom 14:7."
+    },
+    {
+      "id": 106,
+      "text": "Ibid."
+    },
+    {
+      "id": 107,
+      "text": "Ep. 118:5."
+    },
+    {
+      "id": 108,
+      "text": "Conc. Stat. hom 14:7."
+    },
+    {
+      "id": 109,
+      "text": "Adv. Arian., Dis 2:16"
+    },
+    {
+      "id": 110,
+      "text": "Adv. Eunomoius 8:1."
+    },
+    {
+      "id": 111,
+      "text": "Incomp. Of God 5:4, PG 48:740."
+    },
+    {
+      "id": 112,
+      "text": "Of the Holy Spirit 2, Introd. 5, 6."
+    },
+    {
+      "id": 113,
+      "text": "Ibid. 8, 9."
+    },
+    {
+      "id": 114,
+      "text": "Caesarius, Ser. 119:1-3."
+    },
+    {
+      "id": 115,
+      "text": "Ibid. 119:5."
+    },
+    {
+      "id": 116,
+      "text": "Ibid. 118:2."
+    },
+    {
+      "id": 117,
+      "text": "Ibid. 118:3."
+    },
+    {
+      "id": 118,
+      "text": "Of the Holy Spirit 2, Introd. 7."
+    },
+    {
+      "id": 119,
+      "text": "Ibid. 10."
+    },
+    {
+      "id": 120,
+      "text": "Caesarius, Ser. 118:4."
+    },
+    {
+      "id": 121,
+      "text": "Ibid. 119:4."
+    },
+    {
+      "id": 122,
+      "text": "Ibid. 118:5"
+    },
+    {
+      "id": 123,
+      "text": "Ibid. 118:3"
+    },
+    {
+      "id": 124,
+      "text": "On Philip hom 12."
+    },
+    {
+      "id": 125,
+      "text": "Demon. 6 on Monks 3."
+    },
+    {
+      "id": 126,
+      "text": "Duties of the Clergy 2:26 ."
+    },
+    {
+      "id": 127,
+      "text": "On the Great Athans. 26."
+    },
+    {
+      "id": 128,
+      "text": "Caesarius Ser. 120:2."
+    },
+    {
+      "id": 129,
+      "text": "Ibid. 118:6."
+    },
+    {
+      "id": 130,
+      "text": "Ibid."
+    },
+    {
+      "id": 131,
+      "text": "Ibid. 120:3."
+    },
+    {
+      "id": 132,
+      "text": "Ibid."
+    },
+    {
+      "id": 133,
+      "text": "Ibid."
+    },
+    {
+      "id": 134,
+      "text": "Ibid. 118:6."
+    },
+    {
+      "id": 135,
+      "text": "Ibid. 120:4."
+    },
+    {
+      "id": 136,
+      "text": "Frag from Lost Writings 27."
+    },
+    {
+      "id": 137,
+      "text": "هل للشيطان سلطان عليك؟ ، 1972، ص 56، 57."
+    },
+    {
+      "id": 138,
+      "text": "Jerome Biblical Commentary, P 149."
+    },
+    {
+      "id": 139,
+      "text": "John L. Mckenzie: Deict. of the Bible, P 465."
+    },
+    {
+      "id": 140,
+      "text": "J. Raven: O.T. Introduction, P 159."
+    },
+    {
+      "id": 141,
+      "text": "Richard V. French: Lex Mosaica, P 191."
+    },
+    {
+      "id": 142,
+      "text": "Ibid 198 - 199: J. Raven: O.T. Introduction, P 158."
+    },
+    {
+      "id": 143,
+      "text": "Jerome Biblical Commentary, P 150."
+    },
+    {
+      "id": 144,
+      "text": "Conc. Widows, Ch 8."
+    },
+    {
+      "id": 145,
+      "text": "Ep. ad Furiam 17."
+    },
+    {
+      "id": 146,
+      "text": "Cat. hect. 16:28"
+    },
+    {
+      "id": 147,
+      "text": "Mckenzie, P 464."
+    }
+  ]
+}

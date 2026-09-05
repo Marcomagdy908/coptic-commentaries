@@ -1,0 +1,627 @@
+{
+  "book_id": 38,
+  "book_title": "تفسير سفر ميخا",
+  "testament": "Old Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "خروج الرب للمحاكمة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الأصحاح 2"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "جبل الجبال"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الأصحاح 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "الجلسة الأولى"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الأصحاح 7"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Cf. The Collegeville Bible Commentary, Minnesota, 1989, p. 510-511."
+    },
+    {
+      "id": 2,
+      "text": "Cf. Wycliffe Bible Commentary, Chicago, 1966, p. 851-852."
+    },
+    {
+      "id": 3,
+      "text": "The Jerome Biblical Commentary, London, 1970, p.283."
+    },
+    {
+      "id": 4,
+      "text": "The Collegeville Bible Commentary, Minnesota, 1989, p. 509-510."
+    },
+    {
+      "id": 5,
+      "text": "Cf. Henerietta Mears: What the Bible is All About, chapter 23."
+    },
+    {
+      "id": 6,
+      "text": "The Collegeville Bible Commentary, Minnesota, 1989, p. 511."
+    },
+    {
+      "id": 7,
+      "text": "The Jerome Biblical Commentary, London, 1970, p.283."
+    },
+    {
+      "id": 8,
+      "text": "J.H. Raven: Old Testament Introduction, 1910, p. 229 ff."
+    },
+    {
+      "id": 9,
+      "text": "Letter, 45."
+    },
+    {
+      "id": 10,
+      "text": "In Thess., hom 5."
+    },
+    {
+      "id": 11,
+      "text": "Cf. Theodoret of Cyrus Commentary on Isaiah 1:2."
+    },
+    {
+      "id": 12,
+      "text": "In John, homily 20: 152-156."
+    },
+    {
+      "id": 13,
+      "text": "In Genesis, homily 4: 5."
+    },
+    {
+      "id": 14,
+      "text": "Life of Pachomius (Coptic-Bohairic) 1: 155."
+    },
+    {
+      "id": 15,
+      "text": "Commentary on Micah 1: 1: 4."
+    },
+    {
+      "id": 16,
+      "text": "Letter to Marcella, 40:1."
+    },
+    {
+      "id": 17,
+      "text": "Letter 62: 1."
+    },
+    {
+      "id": 18,
+      "text": "Homilies on Matthew, homily 38:2."
+    },
+    {
+      "id": 19,
+      "text": "Homilies on Matthew, homily 14:6."
+    },
+    {
+      "id": 20,
+      "text": "Homilies on Matthew, homily 14:6."
+    },
+    {
+      "id": 21,
+      "text": "تأملات في مديح للقديس غريغوريوس النزينزي."
+    },
+    {
+      "id": 22,
+      "text": "عظة 7: 3."
+    },
+    {
+      "id": 23,
+      "text": "In 1 Corinth., hom. 9:8."
+    },
+    {
+      "id": 24,
+      "text": "Homilies on Ezekiel, homily 18 (2: 6)."
+    },
+    {
+      "id": 25,
+      "text": "Cassian: Institutes, 7:1-2."
+    },
+    {
+      "id": 26,
+      "text": "الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 96."
+    },
+    {
+      "id": 27,
+      "text": "الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 115."
+    },
+    {
+      "id": 28,
+      "text": "Cassian: Institutes, 7:7-8."
+    },
+    {
+      "id": 29,
+      "text": "Cassian: Institutes, 7:23."
+    },
+    {
+      "id": 30,
+      "text": "Against Noetus, 15."
+    },
+    {
+      "id": 31,
+      "text": "On Ps. 138. . LXX معناها سبعون، وتشير إلى الترجمة السبعينية"
+    },
+    {
+      "id": 32,
+      "text": "St. Cassian: Conferences, 24:24 ."
+    },
+    {
+      "id": 33,
+      "text": "Flight from the World 5: 31."
+    },
+    {
+      "id": 34,
+      "text": "Hamilieson Ps. 60."
+    },
+    {
+      "id": 35,
+      "text": "Commentary on Isaiah 28:7."
+    },
+    {
+      "id": 36,
+      "text": "Commentary on Micah 1: 2: 13."
+    },
+    {
+      "id": 37,
+      "text": "Homilies on John, 52."
+    },
+    {
+      "id": 38,
+      "text": "Commentary on Micah 3: 1-4 PG 81: 1756."
+    },
+    {
+      "id": 39,
+      "text": "Homily 2 on Ps.5."
+    },
+    {
+      "id": 40,
+      "text": "Comm. On Ps.18."
+    },
+    {
+      "id": 41,
+      "text": "Homilies on Jer., hom. 19: 14: 9."
+    },
+    {
+      "id": 42,
+      "text": "Fragments from the catena, 15 (F. of the Church, vol. 97)"
+    },
+    {
+      "id": 43,
+      "text": "Commentary on Tatian’s Diatessaron, 11: 8."
+    },
+    {
+      "id": 44,
+      "text": "James M. Freeman: Manners and Customs of the Bible, 1972, article 612."
+    },
+    {
+      "id": 45,
+      "text": "cf. St. John Chrysostom: Homilies on Second Corinthians, Homily 24:3."
+    },
+    {
+      "id": 46,
+      "text": "St. John Chrysostom: the Gospel of St. Matthew, Homily 68:1."
+    },
+    {
+      "id": 47,
+      "text": "Commentary on Micah 1: 3: 11."
+    },
+    {
+      "id": 48,
+      "text": "In defense of His Flight to Pontus, 2: 58."
+    },
+    {
+      "id": 49,
+      "text": "Theodoret of Cyrus, Commentary on Isaiah 2:2."
+    },
+    {
+      "id": 50,
+      "text": "PG 70:68D."
+    },
+    {
+      "id": 51,
+      "text": "PG 16:3."
+    },
+    {
+      "id": 52,
+      "text": "Commentary on Isaiah 2:2"
+    },
+    {
+      "id": 53,
+      "text": "Tertullian: On Modesty"
+    },
+    {
+      "id": 54,
+      "text": "St. Augustine: City of God 18:30."
+    },
+    {
+      "id": 55,
+      "text": "St. Athanasius: letter 59 to Epictetus, 2."
+    },
+    {
+      "id": 56,
+      "text": "On Ps 48"
+    },
+    {
+      "id": 57,
+      "text": "City of God, 18: 30."
+    },
+    {
+      "id": 58,
+      "text": "Sibylline Oracle, 8: 299-300."
+    },
+    {
+      "id": 59,
+      "text": "Epitome of the Divine Institutes, 4: 17."
+    },
+    {
+      "id": 60,
+      "text": "Euripides Hippolytus. اقتبسها من ايريبيدس هيبولتيس 612"
+    },
+    {
+      "id": 61,
+      "text": "Apology 1: 39."
+    },
+    {
+      "id": 62,
+      "text": "يوجه القديس يوستين حديثه لقضاة روما وشعبها."
+    },
+    {
+      "id": 63,
+      "text": "Commentary on Isaiah 2:2."
+    },
+    {
+      "id": 64,
+      "text": "Oration on the Holy Baptism, 25."
+    },
+    {
+      "id": 65,
+      "text": "Commentary on Micah 4: 1-3."
+    },
+    {
+      "id": 66,
+      "text": "Commentary on Micah 4: 13."
+    },
+    {
+      "id": 67,
+      "text": "Commentary on Isaiah 2:3."
+    },
+    {
+      "id": 68,
+      "text": "St. Irenaeus: Against Heresies, 4:34:4."
+    },
+    {
+      "id": 69,
+      "text": "The Incarnation of the Word, NPNF , Vol. 4, p. 64."
+    },
+    {
+      "id": 70,
+      "text": "James M. Freeman: Manners and Customs of the Bible, 1972, article 613."
+    },
+    {
+      "id": 71,
+      "text": "Jacob and the Happy Life, 2: 13."
+    },
+    {
+      "id": 72,
+      "text": "Banquet on the Ten Virgins 10: 5."
+    },
+    {
+      "id": 73,
+      "text": "On Paradise 1: 2."
+    },
+    {
+      "id": 74,
+      "text": "Commentary on Micah 2:4:5."
+    },
+    {
+      "id": 75,
+      "text": "Dialogue with Trypho, 110."
+    },
+    {
+      "id": 76,
+      "text": "Commentary on Micah."
+    },
+    {
+      "id": 77,
+      "text": "Commentary on Micah."
+    },
+    {
+      "id": 78,
+      "text": "Commentary on Micah."
+    },
+    {
+      "id": 79,
+      "text": "Commentary on Micah."
+    },
+    {
+      "id": 80,
+      "text": "Commentary on Micah 5:1 PG 71:709-712."
+    },
+    {
+      "id": 81,
+      "text": "St. John Chrysostom: the Gospel of St. Matthew, Homily 7:2."
+    },
+    {
+      "id": 82,
+      "text": "Tertullian: An Answer to the Jews, 13."
+    },
+    {
+      "id": 83,
+      "text": "St. Jerome: Letter 108:10."
+    },
+    {
+      "id": 84,
+      "text": "Homilies on Leviticus Homily 8: 4:3."
+    },
+    {
+      "id": 85,
+      "text": "On Ps 45."
+    },
+    {
+      "id": 86,
+      "text": "Sermon 373:4."
+    },
+    {
+      "id": 87,
+      "text": "Commentary on Micah."
+    },
+    {
+      "id": 88,
+      "text": "Dialogues 1."
+    },
+    {
+      "id": 89,
+      "text": "Letters, 151."
+    },
+    {
+      "id": 90,
+      "text": "Marius victorinus: Epistle ti the Ephesiaus 10: 2: 17."
+    },
+    {
+      "id": 91,
+      "text": "ماريوس فيكتورينوس (حوالي 280-355م): عالِم نحو قام بترجمة أعمال الأفلاطونيين، وإذ قبل الإيمان مؤخرًا (حوالي 355م) استخدم ذلك ضد الأريوسيين."
+    },
+    {
+      "id": 92,
+      "text": "Homilies on Matthew, homily 25: 1."
+    },
+    {
+      "id": 93,
+      "text": "St. Hippolytus of Rome: Treatise on Christ and Antichrist, 57."
+    },
+    {
+      "id": 94,
+      "text": "On Ps 45."
+    },
+    {
+      "id": 95,
+      "text": "Victorinus of Petau: Commentary on Apocalypse, from seventh chapter, 8.."
+    },
+    {
+      "id": 96,
+      "text": "On Ps 50."
+    },
+    {
+      "id": 97,
+      "text": "Cassiodorus: Exposition of the Psalms 134:14."
+    },
+    {
+      "id": 98,
+      "text": "Against the Arians and on Himself, Oration 33:2."
+    },
+    {
+      "id": 99,
+      "text": "St. John Chrysostom: the Gospel of St. Matthew, Homily 68:2."
+    },
+    {
+      "id": 100,
+      "text": "Cf. Letter 41:24."
+    },
+    {
+      "id": 101,
+      "text": "Flight from the world, 6:33."
+    },
+    {
+      "id": 102,
+      "text": "Stromata 3:16:101."
+    },
+    {
+      "id": 103,
+      "text": "On Isaiah 1:11 Commentary."
+    },
+    {
+      "id": 104,
+      "text": "Origen: De Principiis, 3:1:6.."
+    },
+    {
+      "id": 105,
+      "text": "St. Augustine: City of God 10:5."
+    },
+    {
+      "id": 106,
+      "text": "Sermon 48:2."
+    },
+    {
+      "id": 107,
+      "text": "On Purity, 2."
+    },
+    {
+      "id": 108,
+      "text": "Flight from the world, 6:33."
+    },
+    {
+      "id": 2,
+      "text": "Homily 2 on Ps. 5."
+    },
+    {
+      "id": 3,
+      "text": "Theodore of Mopsuestia: Commentary on Micah 6:6:8."
+    },
+    {
+      "id": 4,
+      "text": "Concerning Statues, 3: 12."
+    },
+    {
+      "id": 2,
+      "text": "Concerning Statues, 3: 12."
+    },
+    {
+      "id": 3,
+      "text": "On Ps 140."
+    },
+    {
+      "id": 3,
+      "text": "Homily 2 on Ps. 5."
+    },
+    {
+      "id": 4,
+      "text": "Concerning Statues, 2: 14."
+    },
+    {
+      "id": 5,
+      "text": "Homilies on Jeremiah, 15:3:2."
+    },
+    {
+      "id": 6,
+      "text": "The Prayer of Job and David, 2:5:18."
+    },
+    {
+      "id": 7,
+      "text": "St. Ambrose: Concerning Repentance, 2:7 ."
+    },
+    {
+      "id": 8,
+      "text": "On Ps. 12."
+    },
+    {
+      "id": 9,
+      "text": "St. John Chrysostom: The Gospel of St. John, Homily 64:4."
+    },
+    {
+      "id": 10,
+      "text": "On Psalm 120."
+    },
+    {
+      "id": 11,
+      "text": "St. Cassian: Conferences 17:20."
+    },
+    {
+      "id": 12,
+      "text": "St. Cassian: Conferences 9:35."
+    },
+    {
+      "id": 13,
+      "text": "On the Holy Lights, Oration 39:15."
+    },
+    {
+      "id": 14,
+      "text": "St. John Chrysostom: The Gospel of St. Matthew, Homily 35:2."
+    },
+    {
+      "id": 15,
+      "text": "On Ps. 146."
+    },
+    {
+      "id": 16,
+      "text": "Homily 55 on Ps. 145."
+    },
+    {
+      "id": 17,
+      "text": "Exposition on the Psalms 37:15."
+    },
+    {
+      "id": 18,
+      "text": "St. Ambrose: Concerning Repentance, 2:8 ."
+    },
+    {
+      "id": 19,
+      "text": "The long Rules, 55."
+    },
+    {
+      "id": 20,
+      "text": "On Ps. 46."
+    },
+    {
+      "id": 21,
+      "text": "On Ps 100."
+    },
+    {
+      "id": 22,
+      "text": "Explanation of the Psalms 114:5."
+    },
+    {
+      "id": 23,
+      "text": "St. Ambrose: Concerning Repentance, 1:13 ."
+    },
+    {
+      "id": 24,
+      "text": "De Synods, part 3, 49."
+    },
+    {
+      "id": 25,
+      "text": "St. John Chrysostom: The Paralytic Let Down Through the Roof, 6."
+    },
+    {
+      "id": 26,
+      "text": "Four Discourses Against the Arians, 2:67."
+    },
+    {
+      "id": 27,
+      "text": "On the Incomprehensible Nature of God, homily 10: 23."
+    },
+    {
+      "id": 28,
+      "text": "Letter 45."
+    },
+    {
+      "id": 29,
+      "text": "Homilies on the Gospel of Luke, 23:5."
+    },
+    {
+      "id": 30,
+      "text": "St. Jerome: Letter 69:6."
+    },
+    {
+      "id": 31,
+      "text": "Cf. The Collegeville Bible Commentary, Minnesota, 1989, p. 510-511."
+    },
+    {
+      "id": 32,
+      "text": "Cf. Wycliffe Bible Commentary, Chicago, 1966, p. 851-852."
+    },
+    {
+      "id": 33,
+      "text": "The Collegeville Bible Commentary, Minnesota, 1989, p. 509-510."
+    },
+    {
+      "id": 34,
+      "text": "Cf. Henerietta Mears: What the Bible is All About, chapter 23."
+    },
+    {
+      "id": 35,
+      "text": "The Collegeville Bible Commentary, Minnesota, 1989, p. 511."
+    },
+    {
+      "id": 36,
+      "text": "The Jerome Biblical Commentary, London, 1970, p.283."
+    },
+    {
+      "id": 37,
+      "text": "J.H. Raven: Old Testament Introduction, 1910, p. 229 ff."
+    }
+  ]
+}

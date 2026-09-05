@@ -1,0 +1,7735 @@
+{
+  "book_id": 46,
+  "book_title": "تفسير إنجيل لوقا",
+  "testament": "New Testament",
+  "chapters_count": 24,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "البشارة بالتجسّد"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ميلاد الصديق السماوي"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الإعلان عن الصديق السماوي"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "صديقنا يُجُرِّب مثلنا"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "يسوع يسند المُتعبين"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "الصديق المعلِّم"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "صديق الجميع"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الصديق العامل بلا انقطاع"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "صديقنا السماوي والتلاميذ"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "الإرساليَّة الثانية"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "التوبة العاملة"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "أساسيات الصداقة الإلهيَّة"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "صداقته للخطاة"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "اغتصاب الصداقة الإلهيَّة"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "الإيمان والصداقة الإلهية"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "الصلاة الحية والصداقة الإلهية"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "صديقنا في أورشليم"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "مقاومو الصداقة الإلهية"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Catena Aurea (Luke Ch 1)."
+    },
+    {
+      "id": 2,
+      "text": "J. Strong: Greek Dick. Of the N. T., art 3065, 3066."
+    },
+    {
+      "id": 3,
+      "text": "New Westminster Dictionary of the Bible, p570."
+    },
+    {
+      "id": 4,
+      "text": "Oscar Cullmann: The N.T.., 1968, P 41."
+    },
+    {
+      "id": 5,
+      "text": "Jerome Bid. Comm.., p. 116, Oxford Dictionary. of the Christian Church , p. 844."
+    },
+    {
+      "id": 6,
+      "text": "Eusebius, H. E. 5:8 ."
+    },
+    {
+      "id": 7,
+      "text": "Eusebius, H. E. 3: 4: 7 , 8 ."
+    },
+    {
+      "id": 8,
+      "text": "Adv . Marc."
+    },
+    {
+      "id": 9,
+      "text": "The Interpreter ’ s one-volume Commentary , 1980, p. 672 ."
+    },
+    {
+      "id": 10,
+      "text": "الدكتور موريس تاوضروس في مقدمته لكتاب: إنجيل القديس لوقا (تعليقات القديس كيرلس بطريرك الإسكندرية عليه) تعريب المرحوم كامل جرجس، ص 6-9 . قام بترجمة 41 عظة، نشرت بمجلة الكرمة استصوبت عدم إعادة ترجمتها، وقد قمت بترجمة بقية العظات للقديس كيرلس."
+    },
+    {
+      "id": 11,
+      "text": "J. McKenzie: Dictionary of the Bible , P 524."
+    },
+    {
+      "id": 12,
+      "text": "Eusebius. H . E . 6: 25: 6 ."
+    },
+    {
+      "id": 13,
+      "text": "McKenzie, P 526 ."
+    },
+    {
+      "id": 14,
+      "text": "Mckenzie, P 526 ."
+    },
+    {
+      "id": 15,
+      "text": "Jerome Bib. Com . 116."
+    },
+    {
+      "id": 16,
+      "text": "Mckenzie 526."
+    },
+    {
+      "id": 17,
+      "text": "Jerome Bible Com . 117 ."
+    },
+    {
+      "id": 18,
+      "text": "Jerome Bible Com . 117 ."
+    },
+    {
+      "id": 19,
+      "text": "Adv . Marc. 4: 2 ."
+    },
+    {
+      "id": 20,
+      "text": "راجع في شيء من التفصيل مقدمة الدكتور موريس تاوضروس ص10-13."
+    },
+    {
+      "id": 21,
+      "text": "In Luc. hom 1: 1."
+    },
+    {
+      "id": 22,
+      "text": "Fest. Iett.2: 7."
+    },
+    {
+      "id": 23,
+      "text": "تفسير لو 1 : 4 (ترجمة مدام عايدة حنا بسطا)."
+    },
+    {
+      "id": 24,
+      "text": "In Luc. hom 1: 3."
+    },
+    {
+      "id": 25,
+      "text": "In Luc. hom 1: 4."
+    },
+    {
+      "id": 26,
+      "text": "In Luc. hom 1: 5."
+    },
+    {
+      "id": 27,
+      "text": "عظة 1 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 28,
+      "text": "In Luc hom 1: 6."
+    },
+    {
+      "id": 29,
+      "text": "In Luc. hom 2: 3."
+    },
+    {
+      "id": 30,
+      "text": "In Luc. hom 2: 12."
+    },
+    {
+      "id": 31,
+      "text": "On Nature & Grace 74."
+    },
+    {
+      "id": 32,
+      "text": "St. Augustine: On man ’ s perfection in Righteousness."
+    },
+    {
+      "id": 33,
+      "text": "St. Augustine: On the Grace of Christ 54."
+    },
+    {
+      "id": 34,
+      "text": "In Luc. hom 3."
+    },
+    {
+      "id": 35,
+      "text": "للمؤلف: القدّيس يوحنا الذهبي الفم، 1980 ."
+    },
+    {
+      "id": 36,
+      "text": "منشورات النور: فصول في الصلاة والحياة الروحية: في الصلاة 81 (نُسبت للقدّيس نيلس السينائي )."
+    },
+    {
+      "id": 37,
+      "text": "للمؤلف: المسيح في سرّ الإفخارستيا، 1973 ، ص 441."
+    },
+    {
+      "id": 38,
+      "text": "Vita Antonii 35."
+    },
+    {
+      "id": 39,
+      "text": "Vita Antonii 36."
+    },
+    {
+      "id": 40,
+      "text": "Cassian: Confer. 6: 3."
+    },
+    {
+      "id": 41,
+      "text": "In Luc. Hom 4: 4."
+    },
+    {
+      "id": 42,
+      "text": "In Luc. hom 4: 6."
+    },
+    {
+      "id": 43,
+      "text": "In Luc. hom 4: 5."
+    },
+    {
+      "id": 44,
+      "text": "On the Trinity 5: 14: 5."
+    },
+    {
+      "id": 45,
+      "text": "In Luc. hom 5: 1."
+    },
+    {
+      "id": 46,
+      "text": "In Luc. hom 5: 3."
+    },
+    {
+      "id": 47,
+      "text": "In Luc. Hom 6: 3."
+    },
+    {
+      "id": 48,
+      "text": "للمؤلف: القدّيسة مريم في المفهوم الأرثوذكسي ، ص 20، 21."
+    },
+    {
+      "id": 49,
+      "text": "W.L. Strack & P.l. Billenck: Kommentar Zum Neuen"
+    },
+    {
+      "id": 50,
+      "text": "Testamentus Talmud und Midrash, Munchen, 1924, vil 2, p 377-394 ."
+    },
+    {
+      "id": 51,
+      "text": "In Luc. Hom 6: 4,5."
+    },
+    {
+      "id": 52,
+      "text": "St. Igntius: Ep. Adephes 19: 1."
+    },
+    {
+      "id": 53,
+      "text": "لحن أكاسيستوس، يقال في السبت الخامس من الصوم الكبير."
+    },
+    {
+      "id": 54,
+      "text": "Ser. 25: 8."
+    },
+    {
+      "id": 55,
+      "text": "Ser. 4, addressed at the Council of Ephesus. PG 77: 996."
+    },
+    {
+      "id": 56,
+      "text": "New Westminster Dict. of the Bible, p 653."
+    },
+    {
+      "id": 57,
+      "text": "المقدمة ، و تفسير زك 6 : 12 - راجع كتابنا: زكريا ."
+    },
+    {
+      "id": 58,
+      "text": "راجع: القدّيسة مريم في المفهوم الأرثوذكسي ، ص 40-41."
+    },
+    {
+      "id": 59,
+      "text": "J. Mchaugh: The Mother of Jesus in the N.T., N. Y. 1975, p. 39 ."
+    },
+    {
+      "id": 60,
+      "text": "On Reduke & Grace 30."
+    },
+    {
+      "id": 61,
+      "text": "On the Holy Nativity of Christ 11 PG 77: 1427."
+    },
+    {
+      "id": 62,
+      "text": "In Luc. hom 6."
+    },
+    {
+      "id": 63,
+      "text": "In Luc. hom 8."
+    },
+    {
+      "id": 64,
+      "text": "Ep 22: 38."
+    },
+    {
+      "id": 65,
+      "text": "De Sacr. Virg. 8."
+    },
+    {
+      "id": 66,
+      "text": "In Matt. hom 2: 2."
+    },
+    {
+      "id": 67,
+      "text": "Ser. 178: 4. PL 38: 1005."
+    },
+    {
+      "id": 68,
+      "text": "In luc. hom 7: 1."
+    },
+    {
+      "id": 69,
+      "text": "In Luc. hom 7: 2."
+    },
+    {
+      "id": 70,
+      "text": "Oration on the Holy lights 17."
+    },
+    {
+      "id": 71,
+      "text": "In Luc. hom 7: 3."
+    },
+    {
+      "id": 72,
+      "text": "Cat. Iect. 17: 8,7."
+    },
+    {
+      "id": 73,
+      "text": "القدّيسة مريم في المفهوم الأرثوذكسي ، ص24."
+    },
+    {
+      "id": 74,
+      "text": "القدّيسة مريم في المفهوم الأرثوذكسي ، ، ص28."
+    },
+    {
+      "id": 75,
+      "text": "In Luc. 7: 5."
+    },
+    {
+      "id": 76,
+      "text": "In Luc. hom 8: 1."
+    },
+    {
+      "id": 77,
+      "text": "In Luc. hom 8: 2."
+    },
+    {
+      "id": 78,
+      "text": "Symposion 8: 8."
+    },
+    {
+      "id": 79,
+      "text": "PL 15: 1810."
+    },
+    {
+      "id": 80,
+      "text": "ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 81,
+      "text": "In Luc. hom 9: 1,2."
+    },
+    {
+      "id": 82,
+      "text": "In Luc. hom 10: 1."
+    },
+    {
+      "id": 83,
+      "text": "In Ps. hom 25."
+    },
+    {
+      "id": 84,
+      "text": "On the Great Athan."
+    },
+    {
+      "id": 85,
+      "text": "In Luc. hom 10: 2."
+    },
+    {
+      "id": 86,
+      "text": "In Luc. hom 10: 3."
+    },
+    {
+      "id": 87,
+      "text": "In Luc. hom 10: 3."
+    },
+    {
+      "id": 88,
+      "text": "ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 89,
+      "text": "In Luc. Hom 10: 6,7."
+    },
+    {
+      "id": 90,
+      "text": "عظة 1 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 91,
+      "text": "In Luc. Hom 11: 6. (ترجمة السيدة تريز سعد)"
+    },
+    {
+      "id": 92,
+      "text": "العذراء كل حين 12 (ترجمة القمص متياس فريد)."
+    },
+    {
+      "id": 93,
+      "text": "عظة 1."
+    },
+    {
+      "id": 94,
+      "text": "عظة 1."
+    },
+    {
+      "id": 95,
+      "text": "Orat. on hom 11:6."
+    },
+    {
+      "id": 96,
+      "text": "In Ps. hom 44."
+    },
+    {
+      "id": 97,
+      "text": "عظة 2 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 98,
+      "text": "In Luc. hom 12:1,2 . (ترجمة مدام وديعة حنا)"
+    },
+    {
+      "id": 99,
+      "text": "Sunday Sermons of the Great Fathers, vo.l 1, p 110."
+    },
+    {
+      "id": 100,
+      "text": "On Nativity 1,14."
+    },
+    {
+      "id": 101,
+      "text": "EP. 75:1."
+    },
+    {
+      "id": 102,
+      "text": "On Ioan. hom 15:1."
+    },
+    {
+      "id": 103,
+      "text": "Const. Apost. 7:5."
+    },
+    {
+      "id": 104,
+      "text": "On Grace &Free will 4."
+    },
+    {
+      "id": 105,
+      "text": "On Trinity 13:13:17."
+    },
+    {
+      "id": 106,
+      "text": "On Nativity 5."
+    },
+    {
+      "id": 107,
+      "text": "الحب الإلهي، 1967، ص269، 270."
+    },
+    {
+      "id": 108,
+      "text": "عظة 3."
+    },
+    {
+      "id": 109,
+      "text": "ميمر على دخول ربنا الهيكل."
+    },
+    {
+      "id": 110,
+      "text": "In Luc. hom 15:2,3."
+    },
+    {
+      "id": 111,
+      "text": "On mortality 3."
+    },
+    {
+      "id": 112,
+      "text": "Funeral Oration on Meletius."
+    },
+    {
+      "id": 113,
+      "text": "On Our Lord 48."
+    },
+    {
+      "id": 114,
+      "text": "عظة 4."
+    },
+    {
+      "id": 115,
+      "text": "Daniélou: A Hist. of Early Christian Doctrine, ch 19; Adv. Haer. 5:1."
+    },
+    {
+      "id": 116,
+      "text": "In 2 Cor. hom 5:2."
+    },
+    {
+      "id": 117,
+      "text": "Epistle, 260:7."
+    },
+    {
+      "id": 118,
+      "text": "Epistle, 260:8."
+    },
+    {
+      "id": 119,
+      "text": "Epistle, 260:8."
+    },
+    {
+      "id": 120,
+      "text": "Fr. Malaty. St. Mary in the Orthodox Concept."
+    },
+    {
+      "id": 121,
+      "text": "Ep. 54:16."
+    },
+    {
+      "id": 122,
+      "text": "In Ioan. hom 21:1."
+    },
+    {
+      "id": 123,
+      "text": "عظة 5."
+    },
+    {
+      "id": 124,
+      "text": "Adv. Eunomius 6:4."
+    },
+    {
+      "id": 125,
+      "text": "In Luc , hom. 19:2."
+    },
+    {
+      "id": 126,
+      "text": "In Luc , hom. 20:6."
+    },
+    {
+      "id": 127,
+      "text": "Disc. against Arians 3:52."
+    },
+    {
+      "id": 128,
+      "text": "In Luc. Hom 18:3,4."
+    },
+    {
+      "id": 129,
+      "text": "In Luc , hom. 19:4."
+    },
+    {
+      "id": 130,
+      "text": "In Luc , hom. 19:3."
+    },
+    {
+      "id": 131,
+      "text": "Cat. Lect.7:9."
+    },
+    {
+      "id": 132,
+      "text": "On Marriage& Concupiscence 12."
+    },
+    {
+      "id": 133,
+      "text": "Ser.5."
+    },
+    {
+      "id": 134,
+      "text": "Ep. 22:17."
+    },
+    {
+      "id": 135,
+      "text": "In Luc. Hom 20:5."
+    },
+    {
+      "id": 136,
+      "text": "In Luc. hom 20:4."
+    },
+    {
+      "id": 137,
+      "text": "Ep. 107:7."
+    },
+    {
+      "id": 138,
+      "text": "On the Soul and its origin , 31."
+    },
+    {
+      "id": 139,
+      "text": "On the Triniy 2:6:11."
+    },
+    {
+      "id": 140,
+      "text": "عظة 6."
+    },
+    {
+      "id": 141,
+      "text": "Cat .lect . 3:4 ."
+    },
+    {
+      "id": 142,
+      "text": "Cat .lect . 3:2."
+    },
+    {
+      "id": 143,
+      "text": "In Matt . hom 11."
+    },
+    {
+      "id": 144,
+      "text": "عظة 6."
+    },
+    {
+      "id": 145,
+      "text": "In Matt 3:9. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 146,
+      "text": "راجع أيضًا أقوال الآباء الواردة في كتابنا \"الإنجيل بحسب متى\". 1983 ، ص 71، 72."
+    },
+    {
+      "id": 147,
+      "text": "عظة 7."
+    },
+    {
+      "id": 148,
+      "text": "In Matt. hom 3:16."
+    },
+    {
+      "id": 149,
+      "text": "Ep .169:5."
+    },
+    {
+      "id": 150,
+      "text": "In Incan 5:2."
+    },
+    {
+      "id": 151,
+      "text": "عظة 10."
+    },
+    {
+      "id": 152,
+      "text": "Catena Aurea (John 1) ."
+    },
+    {
+      "id": 153,
+      "text": "PL 74:1099-1103."
+    },
+    {
+      "id": 154,
+      "text": "In Matt .8:11."
+    },
+    {
+      "id": 155,
+      "text": "ميمر عن المعمودية المقدسة ، مخطوط بدير الأنبا انطونيوس ، نسخ عام 1488."
+    },
+    {
+      "id": 156,
+      "text": "In Matt. 3:11."
+    },
+    {
+      "id": 157,
+      "text": "عظة 10."
+    },
+    {
+      "id": 158,
+      "text": "In Luc. 26:4. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 159,
+      "text": "عظة 10."
+    },
+    {
+      "id": 160,
+      "text": "Ep. 93: 33."
+    },
+    {
+      "id": 161,
+      "text": "الإنجيل بحسب متى , ص 326، 327."
+    },
+    {
+      "id": 162,
+      "text": "On the Trinity15:26:46."
+    },
+    {
+      "id": 163,
+      "text": "On Ps. hom 1 ."
+    },
+    {
+      "id": 164,
+      "text": "On the Holy Spirit, 29."
+    },
+    {
+      "id": 165,
+      "text": "يشير إلى بدعة نسطور التي نادت بأن الذي أعتمد هو يسوع في طبيعته البشرية ولم يكن بعد قد حّل فيه اللاهوت ."
+    },
+    {
+      "id": 166,
+      "text": "عظة 11."
+    },
+    {
+      "id": 167,
+      "text": "Ep .169:5."
+    },
+    {
+      "id": 168,
+      "text": "In Luc. Hom .28:1. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 169,
+      "text": "In Luc. Hom .28:1."
+    },
+    {
+      "id": 170,
+      "text": "In Matt. Hom4:1."
+    },
+    {
+      "id": 171,
+      "text": "Sermons on N.T. Lessons 1."
+    },
+    {
+      "id": 172,
+      "text": "In Luc. hom 29:3,4."
+    },
+    {
+      "id": 173,
+      "text": "In Matt 4:2."
+    },
+    {
+      "id": 174,
+      "text": "In Luc. Hom 30:1-4."
+    },
+    {
+      "id": 175,
+      "text": "Adv . Haer 5:22:2."
+    },
+    {
+      "id": 176,
+      "text": "Adv . Haer 5:24:1."
+    },
+    {
+      "id": 177,
+      "text": "Adv . Haer 5:21:2."
+    },
+    {
+      "id": 178,
+      "text": "In Luc hom 31:1-7."
+    },
+    {
+      "id": 179,
+      "text": "In Matt 4:6."
+    },
+    {
+      "id": 180,
+      "text": "In Luc hom 32:2."
+    },
+    {
+      "id": 181,
+      "text": "In Luc hom 32:3,4."
+    },
+    {
+      "id": 182,
+      "text": "In Luc hom 32:4."
+    },
+    {
+      "id": 183,
+      "text": "In Luc hom 32:6."
+    },
+    {
+      "id": 184,
+      "text": "In Matt. Hom 16."
+    },
+    {
+      "id": 185,
+      "text": "In Luc. hom 33:3."
+    },
+    {
+      "id": 186,
+      "text": "In 2Cor. Hom 19."
+    },
+    {
+      "id": 187,
+      "text": "Conc. Widows 3."
+    },
+    {
+      "id": 188,
+      "text": "In Ioan. Tr 11: 2."
+    },
+    {
+      "id": 189,
+      "text": "Adv. Marcon 4:7."
+    },
+    {
+      "id": 190,
+      "text": "Adv. Marccon 4:7."
+    },
+    {
+      "id": 191,
+      "text": "Adv. Marcon 4:7."
+    },
+    {
+      "id": 192,
+      "text": "Ser. on N.T. 3:11."
+    },
+    {
+      "id": 193,
+      "text": "Conc. Widows 10."
+    },
+    {
+      "id": 194,
+      "text": "See In Matt. Hom 27:3."
+    },
+    {
+      "id": 195,
+      "text": "Ser. On N.T. 87: 6."
+    },
+    {
+      "id": 196,
+      "text": "In Ioan. tr 122: 7."
+    },
+    {
+      "id": 197,
+      "text": "راجع كتابنا: الكنيسة بيت الله- فصل: الرموز."
+    },
+    {
+      "id": 198,
+      "text": "In Matt. hom 3: 8."
+    },
+    {
+      "id": 199,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 200,
+      "text": "Adv. Marc. 4: 9."
+    },
+    {
+      "id": 201,
+      "text": "On Lord`s Prayer 29 ,30."
+    },
+    {
+      "id": 202,
+      "text": "Ep.7: 6."
+    },
+    {
+      "id": 203,
+      "text": "للمؤلف: يسوع والمفلوجان للقديس يوحنا الذهبي الفم, 1966, ص47- 49."
+    },
+    {
+      "id": 204,
+      "text": "للمؤلف: يسوع والمفلوجان للقديس يوحنا الذهبي الفم, 1966, ص 52، 53."
+    },
+    {
+      "id": 205,
+      "text": "In Matt9: 9. (ترجمة الأنسة تريز سعد)"
+    },
+    {
+      "id": 206,
+      "text": "In Matt9: 9. (ترجمة الأنسة تريز سعد)"
+    },
+    {
+      "id": 207,
+      "text": "Ep. Of Barnabas, 5."
+    },
+    {
+      "id": 208,
+      "text": "On the Resurrection of the Flesh, 9."
+    },
+    {
+      "id": 209,
+      "text": "Jerome Biblica Comm.p 135."
+    },
+    {
+      "id": 210,
+      "text": "راجع الأعياد والأصوام عند اليهود في كتابنا: سفر اللاويين , 1984م, ص227- 229."
+    },
+    {
+      "id": 211,
+      "text": "للمؤلف: الإنجيل بحسب متّى, 1983م ,ص270."
+    },
+    {
+      "id": 212,
+      "text": "In Luc 6:1-6."
+    },
+    {
+      "id": 213,
+      "text": "عظة 22 ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 214,
+      "text": "عظة 22."
+    },
+    {
+      "id": 215,
+      "text": "عظة 23."
+    },
+    {
+      "id": 216,
+      "text": "In Luc 6:12-49. ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 217,
+      "text": "City of God 18:49."
+    },
+    {
+      "id": 218,
+      "text": "عظة 28."
+    },
+    {
+      "id": 219,
+      "text": "In Luc 6:20."
+    },
+    {
+      "id": 220,
+      "text": "دير السيدة العذراء- السريان: الآباء الحاذقون في العبادة، ح 2، 1952م، ص 184-185."
+    },
+    {
+      "id": 221,
+      "text": "In Matt. hom 47:4."
+    },
+    {
+      "id": 222,
+      "text": "Strom. 4:5:26."
+    },
+    {
+      "id": 223,
+      "text": "Paed. 2:57:56."
+    },
+    {
+      "id": 224,
+      "text": "In Luc Ser 28."
+    },
+    {
+      "id": 225,
+      "text": "Conc. Virgins 3:5; Conc. Widows 6."
+    },
+    {
+      "id": 226,
+      "text": "Comm. on Eccles. ch 3."
+    },
+    {
+      "id": 227,
+      "text": "On Ps. hom 16, 18, 39."
+    },
+    {
+      "id": 228,
+      "text": "In Jer. hom 3:49; In Luc. hom 18."
+    },
+    {
+      "id": 229,
+      "text": "PG 49:829 D."
+    },
+    {
+      "id": 230,
+      "text": "In Is. 26:10."
+    },
+    {
+      "id": 231,
+      "text": "Short Rules 31."
+    },
+    {
+      "id": 232,
+      "text": "PG 31:257 D."
+    },
+    {
+      "id": 233,
+      "text": "In Ep. Ad Phil 3:4."
+    },
+    {
+      "id": 234,
+      "text": "الآباء الحاذقون 2: 186."
+    },
+    {
+      "id": 235,
+      "text": "In Ps. Hom 1."
+    },
+    {
+      "id": 236,
+      "text": "عظة 28."
+    },
+    {
+      "id": 237,
+      "text": "المطران ابيفانيوس: الأماني الذهبية من مقالات لأبينا الجليل في القديسين يوحنا الذهبي الفم، 1972م، ص47، 48."
+    },
+    {
+      "id": 238,
+      "text": "In Ep. Ad Rom."
+    },
+    {
+      "id": 239,
+      "text": "In Luc 6:24."
+    },
+    {
+      "id": 240,
+      "text": "عظة 32."
+    },
+    {
+      "id": 241,
+      "text": "In Ioan tr 87:4."
+    },
+    {
+      "id": 242,
+      "text": "الآباء الحاذقون 199,198: 2."
+    },
+    {
+      "id": 243,
+      "text": "On Rancor."
+    },
+    {
+      "id": 244,
+      "text": "Ep 138:12."
+    },
+    {
+      "id": 245,
+      "text": "Apol. 1:16."
+    },
+    {
+      "id": 246,
+      "text": "Ep. Of Bern. 19."
+    },
+    {
+      "id": 247,
+      "text": "Who is the rich man that shall be saved 31."
+    },
+    {
+      "id": 248,
+      "text": "Enchiridion 78."
+    },
+    {
+      "id": 249,
+      "text": "In Matt. hom 35:6; 49:4; 52:5."
+    },
+    {
+      "id": 250,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 251,
+      "text": "In Heb. hom 32:7."
+    },
+    {
+      "id": 252,
+      "text": "PG 65:320 D; 65:289."
+    },
+    {
+      "id": 253,
+      "text": "On Refusal to judge.."
+    },
+    {
+      "id": 254,
+      "text": "عظة 32، 33."
+    },
+    {
+      "id": 255,
+      "text": "Ser. On N.T. 8:10."
+    },
+    {
+      "id": 256,
+      "text": "Ser. On N.T. 10:12."
+    },
+    {
+      "id": 257,
+      "text": "On the Soul 22."
+    },
+    {
+      "id": 258,
+      "text": "In Matt. Hom 26: 3."
+    },
+    {
+      "id": 259,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 260,
+      "text": "On Idolatry 19."
+    },
+    {
+      "id": 261,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 262,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 263,
+      "text": "عظة 35 على إنجيل لوقا."
+    },
+    {
+      "id": 264,
+      "text": "Greg. Naz. In Laudem Caesarii 15- P G 35: 755f."
+    },
+    {
+      "id": 265,
+      "text": "Ser. on N.T. 48: 1."
+    },
+    {
+      "id": 266,
+      "text": "Ser. on N.T. 48: 2."
+    },
+    {
+      "id": 267,
+      "text": "عظة 36."
+    },
+    {
+      "id": 268,
+      "text": "Ser. On N.T. 48: 5."
+    },
+    {
+      "id": 269,
+      "text": "In Luc 7: 11- 17."
+    },
+    {
+      "id": 270,
+      "text": "In Luc 7: 11- 17."
+    },
+    {
+      "id": 271,
+      "text": "عظة 36."
+    },
+    {
+      "id": 272,
+      "text": "عظة 37."
+    },
+    {
+      "id": 273,
+      "text": "In Luc 7: 18 - 35."
+    },
+    {
+      "id": 274,
+      "text": "In Matt. hom 36: 2."
+    },
+    {
+      "id": 275,
+      "text": "عظة 38."
+    },
+    {
+      "id": 276,
+      "text": "In Luc 7: 18-35."
+    },
+    {
+      "id": 277,
+      "text": "On Repent. 2: 6."
+    },
+    {
+      "id": 278,
+      "text": "In Luc 7: 18-35."
+    },
+    {
+      "id": 279,
+      "text": "عظة 39."
+    },
+    {
+      "id": 280,
+      "text": "Ser. on N.T. 49: 1"
+    },
+    {
+      "id": 281,
+      "text": "Ep 41: 12."
+    },
+    {
+      "id": 282,
+      "text": "On Repent. 2."
+    },
+    {
+      "id": 283,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 284,
+      "text": "Ep. 41: 13."
+    },
+    {
+      "id": 285,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 286,
+      "text": "Ep. 41: 14."
+    },
+    {
+      "id": 287,
+      "text": "Ep. 41: 18."
+    },
+    {
+      "id": 288,
+      "text": "Ep. 41: 16,17."
+    },
+    {
+      "id": 289,
+      "text": "In Luc 7: 36-50."
+    },
+    {
+      "id": 290,
+      "text": "Ser. on N.T. 12: 1."
+    },
+    {
+      "id": 291,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 292,
+      "text": "عظة 40."
+    },
+    {
+      "id": 293,
+      "text": "Adv. Haer. 3: 20: 2."
+    },
+    {
+      "id": 294,
+      "text": "Catena Aurea Luc 8."
+    },
+    {
+      "id": 295,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 296,
+      "text": "In Matt. hom 32:11."
+    },
+    {
+      "id": 297,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 298,
+      "text": "In Matt. hom 28:1."
+    },
+    {
+      "id": 299,
+      "text": "In Loan tr 49:9."
+    },
+    {
+      "id": 300,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 301,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 302,
+      "text": "In Matt. hom 19: 10."
+    },
+    {
+      "id": 303,
+      "text": "In Matt. hom 19: 10."
+    },
+    {
+      "id": 304,
+      "text": "In Luc 9:1 etc."
+    },
+    {
+      "id": 305,
+      "text": "In Luc 9:10-17."
+    },
+    {
+      "id": 306,
+      "text": "In Luc 9:10-17."
+    },
+    {
+      "id": 307,
+      "text": "In Ps. hom 23."
+    },
+    {
+      "id": 308,
+      "text": "On theFlesh of Christ 5."
+    },
+    {
+      "id": 309,
+      "text": "On Belief of the Resurrection 2:94."
+    },
+    {
+      "id": 310,
+      "text": "In Luc 9:28-31."
+    },
+    {
+      "id": 311,
+      "text": "Praktikos 13,14."
+    },
+    {
+      "id": 312,
+      "text": "On Humility."
+    },
+    {
+      "id": 313,
+      "text": "In Matt. hom 24:2."
+    },
+    {
+      "id": 314,
+      "text": "Ser. on N.T. 50:1."
+    },
+    {
+      "id": 315,
+      "text": "In Luc 9:57-62."
+    },
+    {
+      "id": 316,
+      "text": "Ser. on N.T. 50:2."
+    },
+    {
+      "id": 317,
+      "text": "Ser. on N.T. 50:2."
+    },
+    {
+      "id": 318,
+      "text": "In Luc 9: 57-62."
+    },
+    {
+      "id": 319,
+      "text": "Ep 39:4."
+    },
+    {
+      "id": 320,
+      "text": "Inst. 4:36."
+    },
+    {
+      "id": 321,
+      "text": "Inst. 9:15."
+    },
+    {
+      "id": 322,
+      "text": "Edershiem: The Temple, p. 240."
+    },
+    {
+      "id": 323,
+      "text": "Ser. On N.T. 51:3."
+    },
+    {
+      "id": 324,
+      "text": "Ser. On N.T. 51:14."
+    },
+    {
+      "id": 325,
+      "text": "In Matt. Hom 33:3."
+    },
+    {
+      "id": 326,
+      "text": "In Luc 10:1-24."
+    },
+    {
+      "id": 327,
+      "text": "In Luc 10: 1-24."
+    },
+    {
+      "id": 328,
+      "text": "Ser. on N.T. 51:6."
+    },
+    {
+      "id": 329,
+      "text": "Ser. on N.T. 51:7."
+    },
+    {
+      "id": 330,
+      "text": "Instr. 3:7."
+    },
+    {
+      "id": 331,
+      "text": "Ser. On N.T. 51:5."
+    },
+    {
+      "id": 332,
+      "text": "Ser. on N.T. 51:8."
+    },
+    {
+      "id": 333,
+      "text": "Ser. on N.T. 51:9."
+    },
+    {
+      "id": 334,
+      "text": "In Ioan tr 89:2."
+    },
+    {
+      "id": 335,
+      "text": "Adv. Haer 5:24:2:20:3."
+    },
+    {
+      "id": 336,
+      "text": "In Matt. Hom. 56:6."
+    },
+    {
+      "id": 337,
+      "text": "In Ioan Tr. 13:17."
+    },
+    {
+      "id": 338,
+      "text": "Adv. Haer 7:36:4."
+    },
+    {
+      "id": 339,
+      "text": "Myst. 3:11."
+    },
+    {
+      "id": 340,
+      "text": "Cassian: Conf 15:6,7,9"
+    },
+    {
+      "id": 341,
+      "text": "In Luc. 10."
+    },
+    {
+      "id": 342,
+      "text": "In Ioan hom. 60:1."
+    },
+    {
+      "id": 343,
+      "text": "Adv. Hear. 4:6:7."
+    },
+    {
+      "id": 344,
+      "text": "In Gal. hom1:16."
+    },
+    {
+      "id": 345,
+      "text": "Instr. 1:5."
+    },
+    {
+      "id": 346,
+      "text": "Instr. 1:6."
+    },
+    {
+      "id": 347,
+      "text": "On Ps. Hom 5."
+    },
+    {
+      "id": 348,
+      "text": "In Luc hom 34:2 ."
+    },
+    {
+      "id": 349,
+      "text": "قام Maurice Briere بترجمة عظات القديس ساويروس الانطاكي عن السريانية إلى الفرنسية وقد قام المتنيح الشماس يوسف حبيب مع الأستاذ مليكة حبيب بترجمة بعضها إلى العربية ونشرها ."
+    },
+    {
+      "id": 350,
+      "text": "On Repen. 1."
+    },
+    {
+      "id": 351,
+      "text": "In Luc. Hom 34:3."
+    },
+    {
+      "id": 352,
+      "text": "In Luc. Hom 34:4."
+    },
+    {
+      "id": 353,
+      "text": "In Luc. Hom 34:5."
+    },
+    {
+      "id": 354,
+      "text": "Ep. 45:6."
+    },
+    {
+      "id": 355,
+      "text": "In Ioan tr 43:2."
+    },
+    {
+      "id": 356,
+      "text": "On Repent. 1."
+    },
+    {
+      "id": 357,
+      "text": "Ser. On N.T. 69: 7."
+    },
+    {
+      "id": 358,
+      "text": "Ep. 77:12."
+    },
+    {
+      "id": 359,
+      "text": "In Luc. hom 34:7."
+    },
+    {
+      "id": 360,
+      "text": "In Ioan tr 61:13"
+    },
+    {
+      "id": 361,
+      "text": "In Luc. hom 34:8."
+    },
+    {
+      "id": 362,
+      "text": "Adv. Haer. 3:17:3."
+    },
+    {
+      "id": 363,
+      "text": "On the Good of Marriage 8."
+    },
+    {
+      "id": 364,
+      "text": "Ser. on N.T. 53:2,3."
+    },
+    {
+      "id": 365,
+      "text": "Ser. on N.T. 53:5."
+    },
+    {
+      "id": 366,
+      "text": "Ser. on N.T. 54:1."
+    },
+    {
+      "id": 367,
+      "text": "Ser. on N.T. 54:4."
+    },
+    {
+      "id": 368,
+      "text": "Ep 22:24."
+    },
+    {
+      "id": 369,
+      "text": "Who is the rich man.... 10"
+    },
+    {
+      "id": 370,
+      "text": "Cassian: Conf. 1:8."
+    },
+    {
+      "id": 371,
+      "text": "In Luc. 10:38-42."
+    },
+    {
+      "id": 372,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 373,
+      "text": "الإنجيل بحسب متى ص140-158."
+    },
+    {
+      "id": 374,
+      "text": "Cat. Lac. 23:11."
+    },
+    {
+      "id": 375,
+      "text": "Monast. Cap 1."
+    },
+    {
+      "id": 376,
+      "text": "Orat. Dom. 2."
+    },
+    {
+      "id": 377,
+      "text": "On Prayer 2."
+    },
+    {
+      "id": 378,
+      "text": "On Prayer 111 - 3, 54 (J.Bamberger: Evagrius Ponticus, Te Praktikos, Chapters on Prayer, 1981, P 74, 63)."
+    },
+    {
+      "id": 379,
+      "text": "Cat. Aurea."
+    },
+    {
+      "id": 380,
+      "text": "Cat. Lect. 23:12."
+    },
+    {
+      "id": 381,
+      "text": "On Prayer 3."
+    },
+    {
+      "id": 382,
+      "text": "Cat. Lect. 23:13."
+    },
+    {
+      "id": 383,
+      "text": "On Prayer 5."
+    },
+    {
+      "id": 384,
+      "text": "Cat. Lect. 23:14."
+    },
+    {
+      "id": 385,
+      "text": "Orat. Dom. 4."
+    },
+    {
+      "id": 386,
+      "text": "On Prayer 4."
+    },
+    {
+      "id": 387,
+      "text": "On Prayer 6."
+    },
+    {
+      "id": 388,
+      "text": "Cat. Lect 23:16."
+    },
+    {
+      "id": 389,
+      "text": "On Prayer 7,11."
+    },
+    {
+      "id": 390,
+      "text": "On Prayer 13 (Bamberger, P 57)."
+    },
+    {
+      "id": 391,
+      "text": "I bid 21, 64."
+    },
+    {
+      "id": 392,
+      "text": "Cat. Lect. 23:17."
+    },
+    {
+      "id": 393,
+      "text": "In reg. Brev. Ad inter 221."
+    },
+    {
+      "id": 394,
+      "text": "On Prayer 8."
+    },
+    {
+      "id": 395,
+      "text": "Cat. Lect 23:18 ."
+    },
+    {
+      "id": 396,
+      "text": "On Prayer 10."
+    },
+    {
+      "id": 397,
+      "text": "On Prayer 9."
+    },
+    {
+      "id": 398,
+      "text": "Cassian: Conf. 9:34."
+    },
+    {
+      "id": 399,
+      "text": "Ser. On N. T. 11:6."
+    },
+    {
+      "id": 400,
+      "text": "On Prayer 87."
+    },
+    {
+      "id": 401,
+      "text": "In Luc 11:5-13."
+    },
+    {
+      "id": 402,
+      "text": "Ser. On N. T. 55:2,3."
+    },
+    {
+      "id": 403,
+      "text": "De Quaest. Ev. Lib 2 qu 21."
+    },
+    {
+      "id": 404,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 405,
+      "text": "Ser . on N. T. 55:4."
+    },
+    {
+      "id": 406,
+      "text": "Ser . on N. T. 55:5."
+    },
+    {
+      "id": 407,
+      "text": "Ep. 130:8."
+    },
+    {
+      "id": 408,
+      "text": "In Luc 11:15 -13."
+    },
+    {
+      "id": 409,
+      "text": "Ser. On N.T. 11: 6."
+    },
+    {
+      "id": 410,
+      "text": "Ep. 130 - 8."
+    },
+    {
+      "id": 411,
+      "text": "Const. Mon. 1."
+    },
+    {
+      "id": 412,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 413,
+      "text": "Const. Mon. 1."
+    },
+    {
+      "id": 414,
+      "text": "De Quaest Evang. Lib 2 - Qu 22- (Ser. On N. T. 55)."
+    },
+    {
+      "id": 415,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 416,
+      "text": "Ser. On N.T. 56:4."
+    },
+    {
+      "id": 417,
+      "text": "Ser. On N.T. 55:11."
+    },
+    {
+      "id": 418,
+      "text": "Ser. On N.T. 55:12."
+    },
+    {
+      "id": 419,
+      "text": "Who is the Rich man.. 39."
+    },
+    {
+      "id": 420,
+      "text": "In Ioan . hom 84: 3."
+    },
+    {
+      "id": 421,
+      "text": "Catena Aurea (In Luc 81) ."
+    },
+    {
+      "id": 422,
+      "text": "De Quaest Evang . 1: 2 ."
+    },
+    {
+      "id": 423,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 424,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 425,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 426,
+      "text": "In Matt. hom 41."
+    },
+    {
+      "id": 427,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 428,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 429,
+      "text": "In Matt. hom 41."
+    },
+    {
+      "id": 430,
+      "text": "In Luc 11:14- 26."
+    },
+    {
+      "id": 431,
+      "text": "In Luc Ser 81."
+    },
+    {
+      "id": 432,
+      "text": "Of Holy Virginity 3."
+    },
+    {
+      "id": 433,
+      "text": "In Ioan tr 10:3 ."
+    },
+    {
+      "id": 434,
+      "text": "In Luc Ser 82 ."
+    },
+    {
+      "id": 435,
+      "text": "In Luc 11:29-32 ."
+    },
+    {
+      "id": 436,
+      "text": "In Luc 11:33-36."
+    },
+    {
+      "id": 437,
+      "text": "In Luc Ser 83."
+    },
+    {
+      "id": 438,
+      "text": "Ser. 106."
+    },
+    {
+      "id": 439,
+      "text": "In Matt. hom 50:5."
+    },
+    {
+      "id": 440,
+      "text": "Ser. On N. T.56:4."
+    },
+    {
+      "id": 441,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 442,
+      "text": "In Luc Ser. 83."
+    },
+    {
+      "id": 443,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 444,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 445,
+      "text": "In Luc Ser. 84."
+    },
+    {
+      "id": 446,
+      "text": "In Matt. hom 73."
+    },
+    {
+      "id": 447,
+      "text": "In Luc Ser 84."
+    },
+    {
+      "id": 448,
+      "text": "In Luc Ser 85."
+    },
+    {
+      "id": 449,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 450,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 451,
+      "text": "In Luc Ser 85"
+    },
+    {
+      "id": 452,
+      "text": "In Matt. Hom 74."
+    },
+    {
+      "id": 453,
+      "text": "الإنجيل بحسب متى، 1983م، ص489."
+    },
+    {
+      "id": 454,
+      "text": "Orat. In Diem Nat. Christi."
+    },
+    {
+      "id": 455,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 456,
+      "text": "In Luc Ser 86."
+    },
+    {
+      "id": 457,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 458,
+      "text": "In Luc Ser 86."
+    },
+    {
+      "id": 459,
+      "text": "In Luc 12:1-7."
+    },
+    {
+      "id": 460,
+      "text": "In Luc Ser 87."
+    },
+    {
+      "id": 461,
+      "text": "In Matt. hom 22."
+    },
+    {
+      "id": 462,
+      "text": "مقال [منشورات النور: إسحق السريانى: (نقله إلى العربية الأب اسحق عطالله)، بيروت]."
+    },
+    {
+      "id": 463,
+      "text": "In Luc hom 87."
+    },
+    {
+      "id": 464,
+      "text": "In Luc 12."
+    },
+    {
+      "id": 465,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 466,
+      "text": "Catena Aurea"
+    },
+    {
+      "id": 467,
+      "text": "In Matt. hom 34."
+    },
+    {
+      "id": 468,
+      "text": "In Luc Ser 88."
+    },
+    {
+      "id": 469,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 470,
+      "text": "راجع تفسير مت 12 : 22-37 ."
+    },
+    {
+      "id": 471,
+      "text": "Ep 55: 5; 76:5."
+    },
+    {
+      "id": 472,
+      "text": "In Matt. Hom 33."
+    },
+    {
+      "id": 473,
+      "text": "In Luc 12: 13-34."
+    },
+    {
+      "id": 474,
+      "text": "In Luc Ser. 89."
+    },
+    {
+      "id": 475,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 476,
+      "text": "Strom 4: 6."
+    },
+    {
+      "id": 477,
+      "text": "In Luc Ser. 89."
+    },
+    {
+      "id": 478,
+      "text": "Inst. 9: 30."
+    },
+    {
+      "id": 479,
+      "text": "Ser on N.T. 57: 9."
+    },
+    {
+      "id": 480,
+      "text": "Ep. 43: 2."
+    },
+    {
+      "id": 481,
+      "text": "In Gen. Hom 23."
+    },
+    {
+      "id": 482,
+      "text": "In Matt. Hom 21."
+    },
+    {
+      "id": 483,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 484,
+      "text": "In Luc 12: 13-48."
+    },
+    {
+      "id": 485,
+      "text": "الإنجيل بحسب متى ، ص 169-172."
+    },
+    {
+      "id": 486,
+      "text": "In Luc 12: 13-48."
+    },
+    {
+      "id": 487,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 488,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 489,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 490,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 491,
+      "text": "Inst. 4: 38."
+    },
+    {
+      "id": 492,
+      "text": "In Matt. Hom 77: 5."
+    },
+    {
+      "id": 493,
+      "text": "Ser. On N.T. 38:12."
+    },
+    {
+      "id": 494,
+      "text": "In Luc Ser 91."
+    },
+    {
+      "id": 495,
+      "text": "In Act. Hom 25."
+    },
+    {
+      "id": 496,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 497,
+      "text": "Inst. 1: 11."
+    },
+    {
+      "id": 498,
+      "text": "Ser. on N.T. 58: 2."
+    },
+    {
+      "id": 499,
+      "text": "Ser. on N.T 43: 3."
+    },
+    {
+      "id": 500,
+      "text": "On Continence 17."
+    },
+    {
+      "id": 501,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 502,
+      "text": "Ep 22: 11."
+    },
+    {
+      "id": 503,
+      "text": "In Luc hom 92."
+    },
+    {
+      "id": 504,
+      "text": "In Luc hom 92."
+    },
+    {
+      "id": 505,
+      "text": "In Evang. Hom 13."
+    },
+    {
+      "id": 506,
+      "text": "In Hebr. Hom 10: 8."
+    },
+    {
+      "id": 507,
+      "text": "In Evang. Hom 13."
+    },
+    {
+      "id": 508,
+      "text": "In Ep. Ad Titus."
+    },
+    {
+      "id": 509,
+      "text": "Banquet of 10 Virgins 5: 2."
+    },
+    {
+      "id": 510,
+      "text": "In Luc Ser 92."
+    },
+    {
+      "id": 511,
+      "text": "In Matt. Hom 77."
+    },
+    {
+      "id": 512,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 513,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 514,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 515,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 516,
+      "text": "On Grace & Freewill 5."
+    },
+    {
+      "id": 517,
+      "text": "In Ioan hom 34: 1."
+    },
+    {
+      "id": 518,
+      "text": "In Ioan hom 84: 4."
+    },
+    {
+      "id": 519,
+      "text": "In Matt. Hom 6: 7."
+    },
+    {
+      "id": 520,
+      "text": "In Matt. Hom 35: 2."
+    },
+    {
+      "id": 521,
+      "text": "In Matt. Hom 6: 7."
+    },
+    {
+      "id": 522,
+      "text": "Fest. Lett. 3: 4."
+    },
+    {
+      "id": 523,
+      "text": "Oration on Easter 2: 16."
+    },
+    {
+      "id": 524,
+      "text": "Ser on N.T. 21: 19."
+    },
+    {
+      "id": 525,
+      "text": "Ep. 52:3."
+    },
+    {
+      "id": 526,
+      "text": "In Luc 12:49,50"
+    },
+    {
+      "id": 527,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 528,
+      "text": "On Baptism 16."
+    },
+    {
+      "id": 529,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 530,
+      "text": "In Luc 12:12-53."
+    },
+    {
+      "id": 531,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 532,
+      "text": "In Luc 12:12-53."
+    },
+    {
+      "id": 533,
+      "text": "Ser. on N. T. 59:1 ."
+    },
+    {
+      "id": 534,
+      "text": "In Luc Ser 95 ."
+    },
+    {
+      "id": 535,
+      "text": "Ser. on N. T. 59:3-4 ."
+    },
+    {
+      "id": 536,
+      "text": "De Lazer. Conc. 3."
+    },
+    {
+      "id": 537,
+      "text": "Ser. on N.T.60:1."
+    },
+    {
+      "id": 538,
+      "text": "Conc. Repent 2: 1."
+    },
+    {
+      "id": 539,
+      "text": "In Luc 13: 6-9. ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 540,
+      "text": "In Evang. Hom 31."
+    },
+    {
+      "id": 541,
+      "text": "Oration 32."
+    },
+    {
+      "id": 542,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 543,
+      "text": "Ser on N.T. 60: 2."
+    },
+    {
+      "id": 544,
+      "text": "On the Trinity 4: 4: 7."
+    },
+    {
+      "id": 545,
+      "text": "In Luc 13: 10-17."
+    },
+    {
+      "id": 546,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 547,
+      "text": "In Ps. Hom 55,29,7."
+    },
+    {
+      "id": 548,
+      "text": "Hexam. Hom 9."
+    },
+    {
+      "id": 549,
+      "text": "In Luc 13: 10-17."
+    },
+    {
+      "id": 550,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 551,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 552,
+      "text": "In Evang. Hom 31 ."
+    },
+    {
+      "id": 553,
+      "text": "الإنجيل بحسب متى, ص 308-313."
+    },
+    {
+      "id": 554,
+      "text": "الإنجيل بحسب مرقس, ص82-85."
+    },
+    {
+      "id": 555,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 556,
+      "text": "الإنجيل بحسب متى, ص313-315."
+    },
+    {
+      "id": 557,
+      "text": "In Ioan tr 9:17 ."
+    },
+    {
+      "id": 558,
+      "text": "In Ioan tr 61:1 ."
+    },
+    {
+      "id": 559,
+      "text": "In Luc 13:20,21 ."
+    },
+    {
+      "id": 560,
+      "text": "In Luc 13:20,21 ."
+    },
+    {
+      "id": 561,
+      "text": "In Luc Ser 96 ."
+    },
+    {
+      "id": 562,
+      "text": "الإنجيل بحسب متى 179-181 ."
+    },
+    {
+      "id": 563,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 564,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 565,
+      "text": "In Luc Ser 99."
+    },
+    {
+      "id": 566,
+      "text": "Ep. 234: 3."
+    },
+    {
+      "id": 567,
+      "text": "In Ps. Hom 1."
+    },
+    {
+      "id": 568,
+      "text": "Vita S. Antonii 38."
+    },
+    {
+      "id": 569,
+      "text": "In Luc Ser 99."
+    },
+    {
+      "id": 570,
+      "text": "In Luc Ser 100."
+    },
+    {
+      "id": 571,
+      "text": "Strom. 4:6."
+    },
+    {
+      "id": 572,
+      "text": "Contr. Julian 6: 19."
+    },
+    {
+      "id": 573,
+      "text": "In Luc Ser 100."
+    },
+    {
+      "id": 574,
+      "text": "In Ioan. hom 68: 2."
+    },
+    {
+      "id": 575,
+      "text": "In Luc Ser 101."
+    },
+    {
+      "id": 576,
+      "text": "Quaest Evang 2: 29."
+    },
+    {
+      "id": 577,
+      "text": "In Luc Ser 102."
+    },
+    {
+      "id": 578,
+      "text": "Ser. On N.T. 32: 6."
+    },
+    {
+      "id": 579,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 580,
+      "text": "In 1 Thess. Hom.11."
+    },
+    {
+      "id": 581,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 582,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 583,
+      "text": "In Acts hom 45."
+    },
+    {
+      "id": 584,
+      "text": "In Luc. Ser.103."
+    },
+    {
+      "id": 585,
+      "text": "Instr. 2: 1."
+    },
+    {
+      "id": 586,
+      "text": "In Luc. Ser 104."
+    },
+    {
+      "id": 587,
+      "text": "In Luc Ser. 104."
+    },
+    {
+      "id": 588,
+      "text": "In Gal. hom 2: 20."
+    },
+    {
+      "id": 589,
+      "text": "Ser. On N.T. 62: 6."
+    },
+    {
+      "id": 590,
+      "text": "Ser. On N.T. 62: 6."
+    },
+    {
+      "id": 591,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 592,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 593,
+      "text": "In Evang. hom 36."
+    },
+    {
+      "id": 594,
+      "text": "Cassian: Conf 21: 9."
+    },
+    {
+      "id": 595,
+      "text": "Who is the Rich man..22."
+    },
+    {
+      "id": 596,
+      "text": "Ser. On N.T.62: 8."
+    },
+    {
+      "id": 597,
+      "text": "In Evang. hom 36."
+    },
+    {
+      "id": 598,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 599,
+      "text": "In Luc. Ser 104."
+    },
+    {
+      "id": 600,
+      "text": "In Luc. Ser 105."
+    },
+    {
+      "id": 601,
+      "text": "In Evang. hom 37."
+    },
+    {
+      "id": 602,
+      "text": "In Evang. hom 37."
+    },
+    {
+      "id": 603,
+      "text": "Cassian: Conf. 2: 9."
+    },
+    {
+      "id": 604,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 605,
+      "text": "In Evang hom 37"
+    },
+    {
+      "id": 606,
+      "text": "In Esai 1."
+    },
+    {
+      "id": 607,
+      "text": "De Virgin. 18."
+    },
+    {
+      "id": 608,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 609,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 610,
+      "text": "الإنجيل بحسب متى (مت 5: 13)."
+    },
+    {
+      "id": 611,
+      "text": "In Luc 15: 1-7."
+    },
+    {
+      "id": 612,
+      "text": "In Luc 15: 1-7."
+    },
+    {
+      "id": 613,
+      "text": "Ad Eutropius 2: 5."
+    },
+    {
+      "id": 614,
+      "text": "To the Fallen Theodore 1: 7."
+    },
+    {
+      "id": 615,
+      "text": "In Evang. hom 34."
+    },
+    {
+      "id": 616,
+      "text": "In Luc Ser 106."
+    },
+    {
+      "id": 617,
+      "text": "Ep. 2: 1."
+    },
+    {
+      "id": 618,
+      "text": "On the Theophany or Birth of Christ, 14."
+    },
+    {
+      "id": 619,
+      "text": "In Matt. Hom 59: 5."
+    },
+    {
+      "id": 620,
+      "text": "De Mul. Pecc."
+    },
+    {
+      "id": 621,
+      "text": "In Luc Ser. 106."
+    },
+    {
+      "id": 622,
+      "text": "In Luc 12: 8- 10."
+    },
+    {
+      "id": 623,
+      "text": "In Evangelia 34."
+    },
+    {
+      "id": 624,
+      "text": "In Luc 12: 8-10."
+    },
+    {
+      "id": 625,
+      "text": "Oration on Easter 2: 26."
+    },
+    {
+      "id": 626,
+      "text": "Panegyric on S. Caeserius 23."
+    },
+    {
+      "id": 627,
+      "text": "Who is the Rich Man that is saved? 39."
+    },
+    {
+      "id": 628,
+      "text": "On Repentence 8."
+    },
+    {
+      "id": 629,
+      "text": "De Petre et duob. Filiis."
+    },
+    {
+      "id": 630,
+      "text": "In Luc Ser 107."
+    },
+    {
+      "id": 631,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 632,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 633,
+      "text": "Ep 43 to Antonius."
+    },
+    {
+      "id": 634,
+      "text": "Unity of Church 6."
+    },
+    {
+      "id": 635,
+      "text": "De Patre et duob. Filiis."
+    },
+    {
+      "id": 636,
+      "text": "On Ps 70; Quaest. Ev 2: 33."
+    },
+    {
+      "id": 637,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 638,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 639,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 640,
+      "text": "Quaest Ev. 2: 33."
+    },
+    {
+      "id": 641,
+      "text": "Ser on N. T. 46: 2."
+    },
+    {
+      "id": 642,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 643,
+      "text": "De Patre et duobus filiis."
+    },
+    {
+      "id": 644,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 645,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 82."
+    },
+    {
+      "id": 646,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 82."
+    },
+    {
+      "id": 647,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 75."
+    },
+    {
+      "id": 648,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 63."
+    },
+    {
+      "id": 649,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 650,
+      "text": "Quaest Ev 2: 33."
+    },
+    {
+      "id": 651,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 652,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 653,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 654,
+      "text": "De Patre et duobuys Filiis."
+    },
+    {
+      "id": 655,
+      "text": "Quaest. Evang. 2: 33."
+    },
+    {
+      "id": 656,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 657,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 658,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 659,
+      "text": "Quaest Evang. 2: 33."
+    },
+    {
+      "id": 660,
+      "text": "Fest. Lett. 9: 10."
+    },
+    {
+      "id": 661,
+      "text": "To Eutropius 2."
+    },
+    {
+      "id": 662,
+      "text": "De patre et duobus Filiis."
+    },
+    {
+      "id": 663,
+      "text": "Quaest. Ev. 2: 33."
+    },
+    {
+      "id": 664,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 665,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 666,
+      "text": "Ser 163: 2, 3."
+    },
+    {
+      "id": 667,
+      "text": "In Luc. Ser. 108."
+    },
+    {
+      "id": 668,
+      "text": "Quaest Evan. 2:34."
+    },
+    {
+      "id": 669,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 670,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 671,
+      "text": "On Patience 7."
+    },
+    {
+      "id": 672,
+      "text": "In 1 Tim. Hom. 11."
+    },
+    {
+      "id": 673,
+      "text": "In Phil. Hom 1."
+    },
+    {
+      "id": 674,
+      "text": "In Luc 16:1-13."
+    },
+    {
+      "id": 675,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 676,
+      "text": "In Heber. 1:4."
+    },
+    {
+      "id": 677,
+      "text": "Who is the Rich Man... 31."
+    },
+    {
+      "id": 678,
+      "text": "Cassian: Conf. 6:3."
+    },
+    {
+      "id": 679,
+      "text": "Ep. 54:12; 52:10; 130:7."
+    },
+    {
+      "id": 680,
+      "text": "In Luc Ser. 109."
+    },
+    {
+      "id": 681,
+      "text": "Ep 22:31."
+    },
+    {
+      "id": 682,
+      "text": "In 1 Tim hom 5."
+    },
+    {
+      "id": 683,
+      "text": "Ep. 14:6."
+    },
+    {
+      "id": 684,
+      "text": "In Luc 16:1-13."
+    },
+    {
+      "id": 685,
+      "text": "In Luc Ser 109."
+    },
+    {
+      "id": 686,
+      "text": "In Ps. Hom 7."
+    },
+    {
+      "id": 687,
+      "text": "In Hebr. Hom 3:9."
+    },
+    {
+      "id": 688,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 689,
+      "text": "In Luc Ser 110."
+    },
+    {
+      "id": 690,
+      "text": "In Ioan 16:4."
+    },
+    {
+      "id": 691,
+      "text": "In Luc 16: 19-31."
+    },
+    {
+      "id": 692,
+      "text": "In Matt. hom 37."
+    },
+    {
+      "id": 693,
+      "text": "Reply to Faustus 19:8."
+    },
+    {
+      "id": 694,
+      "text": "In Luc 16: 16-18."
+    },
+    {
+      "id": 695,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 696,
+      "text": "من يقدر أن يؤذيك, 1965, ص 41 - 44."
+    },
+    {
+      "id": 697,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 698,
+      "text": "In Luc Ser 111."
+    },
+    {
+      "id": 699,
+      "text": "Moral 1:8."
+    },
+    {
+      "id": 700,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 701,
+      "text": "In Luc Ser 111."
+    },
+    {
+      "id": 702,
+      "text": "Conc. Lazaro 1."
+    },
+    {
+      "id": 703,
+      "text": "Ser. 165:1-3."
+    },
+    {
+      "id": 704,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 705,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 706,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 707,
+      "text": "Catena Aure"
+    },
+    {
+      "id": 708,
+      "text": "In Luc Ser. 111."
+    },
+    {
+      "id": 709,
+      "text": "Ep 77:6."
+    },
+    {
+      "id": 710,
+      "text": "Ep 48:21."
+    },
+    {
+      "id": 711,
+      "text": "In 2 Cor hom 6."
+    },
+    {
+      "id": 712,
+      "text": "Conc. Lazar. 2."
+    },
+    {
+      "id": 713,
+      "text": "Conc. Lazar. 2."
+    },
+    {
+      "id": 714,
+      "text": "Ser. 164:3."
+    },
+    {
+      "id": 715,
+      "text": "City of God, 21:10."
+    },
+    {
+      "id": 716,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 717,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 718,
+      "text": "Conc Lazar 2."
+    },
+    {
+      "id": 719,
+      "text": "Conc Lazar 2,3."
+    },
+    {
+      "id": 720,
+      "text": "In Luc Ser 112."
+    },
+    {
+      "id": 721,
+      "text": "Conc. Lazar. 2;3."
+    },
+    {
+      "id": 722,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 723,
+      "text": "Conc. Lazaro 4."
+    },
+    {
+      "id": 724,
+      "text": "In Ioan tr 55:2."
+    },
+    {
+      "id": 725,
+      "text": "Adv. Haer. 2:24:1."
+    },
+    {
+      "id": 726,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 727,
+      "text": "In Luc 17: 3, 4."
+    },
+    {
+      "id": 728,
+      "text": "Ser. On N.T. 64: 3, 5."
+    },
+    {
+      "id": 729,
+      "text": "On Luke Ser 113- 6."
+    },
+    {
+      "id": 730,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 731,
+      "text": "Quaest. Evang. 2: 39."
+    },
+    {
+      "id": 732,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 733,
+      "text": "المؤلف: الفيلوكاليا، 1966 ، ص 143، 136."
+    },
+    {
+      "id": 734,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 735,
+      "text": "In Luc 16: 7- 10."
+    },
+    {
+      "id": 736,
+      "text": "Quaest . Ev 2: 39."
+    },
+    {
+      "id": 737,
+      "text": "الإنجيل بحسب متى، ص193- 195."
+    },
+    {
+      "id": 738,
+      "text": "Quaest. Ev 2: 40."
+    },
+    {
+      "id": 739,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 740,
+      "text": "De Prop. Sec. Deum."
+    },
+    {
+      "id": 741,
+      "text": "Ep. 58: 3."
+    },
+    {
+      "id": 742,
+      "text": "Cassian: Conf 1: 13."
+    },
+    {
+      "id": 743,
+      "text": "Cassian: Conf 18: 16."
+    },
+    {
+      "id": 744,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 745,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 746,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 747,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 748,
+      "text": "On Luke hom 118."
+    },
+    {
+      "id": 749,
+      "text": "In Matt. Canon 25."
+    },
+    {
+      "id": 750,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 751,
+      "text": "Instit. 7: 27."
+    },
+    {
+      "id": 752,
+      "text": "On Luke hom 118."
+    },
+    {
+      "id": 753,
+      "text": "Quaest Ev. 2: 41."
+    },
+    {
+      "id": 754,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 755,
+      "text": "Quaest Ev. 2: 41"
+    },
+    {
+      "id": 756,
+      "text": "In Luke hom 118."
+    },
+    {
+      "id": 757,
+      "text": "In Luke hom 118."
+    },
+    {
+      "id": 758,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 759,
+      "text": "On Prayer 87, 88."
+    },
+    {
+      "id": 760,
+      "text": "In Matt. Hom 19: 4."
+    },
+    {
+      "id": 761,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 762,
+      "text": "Timothy Ware: The Art of Prayer, 1966, p 80-83."
+    },
+    {
+      "id": 763,
+      "text": "Ser. On N.T. Lessons 65 (115 Ben.)."
+    },
+    {
+      "id": 764,
+      "text": "On Luc hom 119."
+    },
+    {
+      "id": 765,
+      "text": "On Luc hom 119."
+    },
+    {
+      "id": 766,
+      "text": "Quaest. Ev 2: 45."
+    },
+    {
+      "id": 767,
+      "text": "اتضاع الفكر، طبعة 1966، ص 10-12 (ترجمة المؤلف)."
+    },
+    {
+      "id": 768,
+      "text": "توجيهات بخصوص التداريب الروحية 36 [راجع الفيلوكاليا، ترجمة المؤلف ]."
+    },
+    {
+      "id": 769,
+      "text": "Fest. Letters 1: 4."
+    },
+    {
+      "id": 770,
+      "text": "Ep 16, 12."
+    },
+    {
+      "id": 771,
+      "text": "Ser. On N.T. 65: 2,3."
+    },
+    {
+      "id": 772,
+      "text": "Ser. On N.T. 87: 4."
+    },
+    {
+      "id": 773,
+      "text": "In Hebr. Hom 21: 7,8."
+    },
+    {
+      "id": 774,
+      "text": "On Luke hom 120."
+    },
+    {
+      "id": 775,
+      "text": "In Easi 2."
+    },
+    {
+      "id": 776,
+      "text": "De Poen hom 2."
+    },
+    {
+      "id": 777,
+      "text": "In Easi 2:12."
+    },
+    {
+      "id": 778,
+      "text": "Ser. On N.T. 65: 4."
+    },
+    {
+      "id": 779,
+      "text": "In Matt. Hom 63."
+    },
+    {
+      "id": 780,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 781,
+      "text": "In Matt. Hom 74: 4."
+    },
+    {
+      "id": 782,
+      "text": "In 1 Cor. Hom 22."
+    },
+    {
+      "id": 783,
+      "text": "منشورات النور: إسحق السريانى: نسكيات 1983، ص 34."
+    },
+    {
+      "id": 784,
+      "text": "In Evang. hom 2."
+    },
+    {
+      "id": 785,
+      "text": "In Matt. Hom 65."
+    },
+    {
+      "id": 786,
+      "text": "منشورات النور: إسحق السرياني: نسكيات 1983، ص 28."
+    },
+    {
+      "id": 787,
+      "text": "In Evang. hom 2."
+    },
+    {
+      "id": 788,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 789,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 790,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 791,
+      "text": "Hom 127."
+    },
+    {
+      "id": 792,
+      "text": "Ep. 108: 12"
+    },
+    {
+      "id": 793,
+      "text": "Ep 71: 2."
+    },
+    {
+      "id": 794,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 795,
+      "text": "In 1 Cor. hom 24."
+    },
+    {
+      "id": 796,
+      "text": "Hom 127."
+    },
+    {
+      "id": 797,
+      "text": "Morals 27: 46"
+    },
+    {
+      "id": 798,
+      "text": "In Matt hom 30: 3."
+    },
+    {
+      "id": 799,
+      "text": "Ep. 54: 3."
+    },
+    {
+      "id": 800,
+      "text": "Hom 127."
+    },
+    {
+      "id": 801,
+      "text": "Ep. 54: 3."
+    },
+    {
+      "id": 802,
+      "text": "Resur. Of Flesh 34."
+    },
+    {
+      "id": 803,
+      "text": "On Marriage & Concus. 2: 9."
+    },
+    {
+      "id": 804,
+      "text": "Ser. On N.T. 39: 1."
+    },
+    {
+      "id": 805,
+      "text": "Hom 129"
+    },
+    {
+      "id": 806,
+      "text": "Esai 13: 13."
+    },
+    {
+      "id": 807,
+      "text": "Esai 13: 13."
+    },
+    {
+      "id": 808,
+      "text": "Quaest Ev 2: 40."
+    },
+    {
+      "id": 809,
+      "text": "Of the Chrishian Faith 5: 12."
+    },
+    {
+      "id": 810,
+      "text": "Hom 129."
+    },
+    {
+      "id": 811,
+      "text": "Hom 129."
+    },
+    {
+      "id": 812,
+      "text": "Quaest Ev 2: 40."
+    },
+    {
+      "id": 813,
+      "text": "In 1 Cor. hom 39"
+    },
+    {
+      "id": 814,
+      "text": "Quaest Ev 2: 40"
+    },
+    {
+      "id": 815,
+      "text": "Storm. 7:10."
+    },
+    {
+      "id": 816,
+      "text": "Orat. On Palms 1,"
+    },
+    {
+      "id": 817,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 818,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 819,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 820,
+      "text": "Hom 130."
+    },
+    {
+      "id": 821,
+      "text": "Ser. On N.T. 71:3."
+    },
+    {
+      "id": 822,
+      "text": "Hom 131."
+    },
+    {
+      "id": 823,
+      "text": "In Evang. Hom 39."
+    },
+    {
+      "id": 824,
+      "text": "In Evang. Hom 39."
+    },
+    {
+      "id": 825,
+      "text": "In Luc 19:45,46."
+    },
+    {
+      "id": 826,
+      "text": "Hom 131."
+    },
+    {
+      "id": 827,
+      "text": "In Ioan tr 4:4."
+    },
+    {
+      "id": 828,
+      "text": "Apology 1:17."
+    },
+    {
+      "id": 829,
+      "text": "In Idolat. 15."
+    },
+    {
+      "id": 830,
+      "text": "In Luc hom 39:4."
+    },
+    {
+      "id": 831,
+      "text": "On Resurr ، 3."
+    },
+    {
+      "id": 832,
+      "text": "On the Dress of Virgins 22."
+    },
+    {
+      "id": 833,
+      "text": "In Ioan 49:15."
+    },
+    {
+      "id": 834,
+      "text": "Enchiridion 63; On Catech. Of the Uninstructed 25:47."
+    },
+    {
+      "id": 835,
+      "text": "Ep 108:1."
+    },
+    {
+      "id": 836,
+      "text": "On Resur. Of the Flesh 62."
+    },
+    {
+      "id": 837,
+      "text": "On Catechising of the Uninstructed 27:54."
+    },
+    {
+      "id": 838,
+      "text": "In Luc 20:4144."
+    },
+    {
+      "id": 839,
+      "text": "Duties of Clergy 1: 30."
+    },
+    {
+      "id": 840,
+      "text": "Conc. Widows 5."
+    },
+    {
+      "id": 841,
+      "text": "Conc. Repent. 2: 9."
+    },
+    {
+      "id": 842,
+      "text": "On Works& Alms 15."
+    },
+    {
+      "id": 843,
+      "text": "Contra Arian , Orat.1."
+    },
+    {
+      "id": 844,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 845,
+      "text": "Ep. 76: 5."
+    },
+    {
+      "id": 846,
+      "text": "Ser. On N.T. 12: 15."
+    },
+    {
+      "id": 847,
+      "text": "On Patience 7."
+    },
+    {
+      "id": 848,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 849,
+      "text": "Ep 199."
+    },
+    {
+      "id": 850,
+      "text": "Ad Olymp. Ep 2."
+    },
+    {
+      "id": 851,
+      "text": "Ep 119."
+    },
+    {
+      "id": 852,
+      "text": "Ep 199."
+    },
+    {
+      "id": 853,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 854,
+      "text": "On Mortality 2."
+    },
+    {
+      "id": 855,
+      "text": "In Illud Attende 1."
+    },
+    {
+      "id": 856,
+      "text": "Cassian: Conf. 9: 4."
+    },
+    {
+      "id": 857,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 858,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 859,
+      "text": "In Matt. Hom.79."
+    },
+    {
+      "id": 860,
+      "text": "In Luc hom 140."
+    },
+    {
+      "id": 861,
+      "text": "Ser . on N.T. 62: 2."
+    },
+    {
+      "id": 862,
+      "text": "In Matt hom 80."
+    },
+    {
+      "id": 863,
+      "text": "In Luc hom 140."
+    },
+    {
+      "id": 864,
+      "text": "In Matt 26 ، 18."
+    },
+    {
+      "id": 865,
+      "text": "In Matt hom 81: 3 ، 82: 1."
+    },
+    {
+      "id": 866,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 867,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 868,
+      "text": "قدم جريجوري دكس في كتابه \"شكل الليتورجيا\" أمثلة من العهدين القديم والجديد تؤكد ذلك p. 161.)(Dix"
+    },
+    {
+      "id": 869,
+      "text": "Jean Danielou: The Bible& The LiTurgy ، p136-7."
+    },
+    {
+      "id": 870,
+      "text": "Ep. Ad Sym.6: 2."
+    },
+    {
+      "id": 871,
+      "text": "Adv. Hear 5: 2: 3."
+    },
+    {
+      "id": 872,
+      "text": "Orat. de Bapt. Christ."
+    },
+    {
+      "id": 873,
+      "text": "In Luc hom 142."
+    },
+    {
+      "id": 874,
+      "text": "In Loan hom 46."
+    },
+    {
+      "id": 875,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 876,
+      "text": "In Matt . hom 82."
+    },
+    {
+      "id": 877,
+      "text": "In Matt . hom 65."
+    },
+    {
+      "id": 878,
+      "text": "In Reg. Fus. Dis. Int 30 ، 31."
+    },
+    {
+      "id": 879,
+      "text": "إسحق السرياني: نسكيات، منشورات النور 1983، ص77،70-79."
+    },
+    {
+      "id": 880,
+      "text": "In Luc hom 143."
+    },
+    {
+      "id": 881,
+      "text": "On Prayer 139."
+    },
+    {
+      "id": 882,
+      "text": "On Rebuke& Grace 10."
+    },
+    {
+      "id": 883,
+      "text": "In loan . 53: 8."
+    },
+    {
+      "id": 884,
+      "text": "Ser. On N.T. Lessons 87: 3. ، In loan. Tr 11: 2."
+    },
+    {
+      "id": 885,
+      "text": "In loan. Hom 73: 1."
+    },
+    {
+      "id": 886,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 887,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 888,
+      "text": "On Rebuke & Grace 16."
+    },
+    {
+      "id": 889,
+      "text": "Grace& Freewill 9."
+    },
+    {
+      "id": 890,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 891,
+      "text": "In Luc 22: 14-38."
+    },
+    {
+      "id": 892,
+      "text": "Of Christian Faith 5."
+    },
+    {
+      "id": 893,
+      "text": "In Luc 22: 39: 53."
+    },
+    {
+      "id": 894,
+      "text": "Reply to Faustus 22: 76."
+    },
+    {
+      "id": 895,
+      "text": "In Matt . hom 78: 4."
+    },
+    {
+      "id": 896,
+      "text": "Conc. Lazer.1."
+    },
+    {
+      "id": 897,
+      "text": "Cassian: Conf. 16: 18."
+    },
+    {
+      "id": 898,
+      "text": "In Loan 112: 5."
+    },
+    {
+      "id": 899,
+      "text": "On Belief of Resur. 2: 27."
+    },
+    {
+      "id": 900,
+      "text": "On Rebbuke & Grace 24; On the Grace of Christ 1: 49."
+    },
+    {
+      "id": 901,
+      "text": "In Matt. Hom 85: 1."
+    },
+    {
+      "id": 902,
+      "text": "Enchiridion 82."
+    },
+    {
+      "id": 903,
+      "text": "In Luc 22: 54-62."
+    },
+    {
+      "id": 904,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 905,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 906,
+      "text": "In Ioan 116: 4."
+    },
+    {
+      "id": 907,
+      "text": "In Luc 23: 131."
+    },
+    {
+      "id": 908,
+      "text": "In Luc hom 23: 131."
+    },
+    {
+      "id": 909,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 910,
+      "text": "In Luc hom 152."
+    },
+    {
+      "id": 911,
+      "text": "الإنجيل حسب مرقس، ص 287."
+    },
+    {
+      "id": 912,
+      "text": "In Luc 23: 131."
+    },
+    {
+      "id": 913,
+      "text": "On Rep. 2."
+    },
+    {
+      "id": 914,
+      "text": "In Luc hom 152."
+    },
+    {
+      "id": 915,
+      "text": "Mor. 12: 4."
+    },
+    {
+      "id": 916,
+      "text": "Oration on Easter 2: 24."
+    },
+    {
+      "id": 917,
+      "text": "In Ioan tr 109: 4."
+    },
+    {
+      "id": 918,
+      "text": "Ep. 16: 1."
+    },
+    {
+      "id": 919,
+      "text": "المطران أبيفانيوس: الأماني الذهبية من مقالات إكليل في القديسين يوحنا الذهبي الفم، 1972، ص 6265."
+    },
+    {
+      "id": 920,
+      "text": "In Ioan tr. 31: 11."
+    },
+    {
+      "id": 921,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 922,
+      "text": "In Pass. Dom."
+    },
+    {
+      "id": 923,
+      "text": "In Ioan 31: 9."
+    },
+    {
+      "id": 924,
+      "text": "In Matt 60: 3."
+    },
+    {
+      "id": 925,
+      "text": "Ad Ephes 10: 13."
+    },
+    {
+      "id": 926,
+      "text": "الإنجيل بحسب مرقس ص 288."
+    },
+    {
+      "id": 927,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 928,
+      "text": "In Pass. Dom."
+    },
+    {
+      "id": 929,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 930,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 931,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 932,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 933,
+      "text": "In Matt. hom 88."
+    },
+    {
+      "id": 934,
+      "text": "On Easter 2: 24."
+    },
+    {
+      "id": 935,
+      "text": "In Matt hom 90."
+    },
+    {
+      "id": 936,
+      "text": "للمؤلف: الحب الإلهي, 1967، ص 674، 675."
+    },
+    {
+      "id": 937,
+      "text": "اعتمدت في ترجمة أغلب أقوال الآباء الواردة هنا على ما ورد في الكتيب: القمص متياس فريد: مع المسيح القائم, في الطريق إلى عمواس أبريل 1984."
+    },
+    {
+      "id": 938,
+      "text": "In Evang. Hom. 23."
+    },
+    {
+      "id": 939,
+      "text": "قاموس آباء الكنيسة وقديسيها للفتيان: آبوللو وآمون."
+    },
+    {
+      "id": 940,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 941,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 942,
+      "text": "In Evang. 22."
+    },
+    {
+      "id": 943,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 944,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 945,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 946,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 947,
+      "text": "Oration 22."
+    },
+    {
+      "id": 948,
+      "text": "الحب الإلهي, 1967، ص 964، 965."
+    },
+    {
+      "id": 949,
+      "text": "الحب الإلهي, 1967، ص 697، 698."
+    },
+    {
+      "id": 950,
+      "text": "Ser. on N.T. 66: 2."
+    },
+    {
+      "id": 951,
+      "text": "In Luc. 24:31-40."
+    },
+    {
+      "id": 952,
+      "text": "On Luke 24."
+    },
+    {
+      "id": 953,
+      "text": "Mor 14:55."
+    },
+    {
+      "id": 954,
+      "text": "Ser. on N.T. 66:3."
+    },
+    {
+      "id": 955,
+      "text": "الحب الإلهي, 1967، ص676."
+    },
+    {
+      "id": 956,
+      "text": "De Resur. Orat. 1."
+    },
+    {
+      "id": 957,
+      "text": "Ser. on N.T. 66: 4,6."
+    },
+    {
+      "id": 958,
+      "text": "In Acts hom 1."
+    },
+    {
+      "id": 959,
+      "text": "Catena Aurea (Luke Ch 1)."
+    },
+    {
+      "id": 960,
+      "text": "J. Strong: Greek Dick. Of the N. T., art 3065, 3066."
+    },
+    {
+      "id": 961,
+      "text": "New Westminster Dictionary of the Bible, p570."
+    },
+    {
+      "id": 962,
+      "text": "Oscar Cullmann: The N.T.., 1968, P 41."
+    },
+    {
+      "id": 963,
+      "text": "Jerome Bid. Comm.., p. 116, Oxford Dictionary. of the Christian Church , p. 844."
+    },
+    {
+      "id": 964,
+      "text": "Eusebius, H. E. 5:8 ."
+    },
+    {
+      "id": 965,
+      "text": "Eusebius, H. E. 3: 4: 7 , 8 ."
+    },
+    {
+      "id": 966,
+      "text": "Adv . Marc."
+    },
+    {
+      "id": 967,
+      "text": "The Interpreter ’ s one-volume Commentary , 1980, p. 672 ."
+    },
+    {
+      "id": 968,
+      "text": "J. McKenzie: Dictionary of the Bible , P 524."
+    },
+    {
+      "id": 969,
+      "text": "Eusebius. H . E . 6: 25: 6 ."
+    },
+    {
+      "id": 970,
+      "text": "McKenzie, P 526 ."
+    },
+    {
+      "id": 971,
+      "text": "Mckenzie, P 526 ."
+    },
+    {
+      "id": 972,
+      "text": "Jerome Bib. Com . 116."
+    },
+    {
+      "id": 973,
+      "text": "Mckenzie 526."
+    },
+    {
+      "id": 974,
+      "text": "Jerome Bible Com . 117 ."
+    },
+    {
+      "id": 975,
+      "text": "Jerome Bible Com . 117 ."
+    },
+    {
+      "id": 976,
+      "text": "Adv . Marc. 4: 2 ."
+    },
+    {
+      "id": 977,
+      "text": "راجع في شيء من التفصيل مقدمة الدكتور موريس تاوضروس ص10-13."
+    },
+    {
+      "id": 978,
+      "text": "In Luc. hom 1: 1."
+    },
+    {
+      "id": 979,
+      "text": "Fest. Iett.2: 7."
+    },
+    {
+      "id": 980,
+      "text": "تفسير لو 1 : 4 (ترجمة مدام عايدة حنا بسطا)."
+    },
+    {
+      "id": 981,
+      "text": "In Luc. hom 1: 3."
+    },
+    {
+      "id": 982,
+      "text": "In Luc. hom 1: 4."
+    },
+    {
+      "id": 983,
+      "text": "In Luc. hom 1: 5."
+    },
+    {
+      "id": 984,
+      "text": "عظة 1 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 985,
+      "text": "In Luc hom 1: 6."
+    },
+    {
+      "id": 986,
+      "text": "In Luc. hom 2: 3."
+    },
+    {
+      "id": 987,
+      "text": "In Luc. hom 2: 12."
+    },
+    {
+      "id": 988,
+      "text": "On Nature & Grace 74."
+    },
+    {
+      "id": 989,
+      "text": "St. Augustine: On man ’ s perfection in Righteousness."
+    },
+    {
+      "id": 990,
+      "text": "St. Augustine: On the Grace of Christ 54."
+    },
+    {
+      "id": 991,
+      "text": "In Luc. hom 3."
+    },
+    {
+      "id": 992,
+      "text": "للمؤلف: القدّيس يوحنا الذهبي الفم، 1980 ."
+    },
+    {
+      "id": 993,
+      "text": "منشورات النور: فصول في الصلاة والحياة الروحية: في الصلاة 81 (نُسبت للقدّيس نيلس السينائي )."
+    },
+    {
+      "id": 994,
+      "text": "للمؤلف: المسيح في سرّ الإفخارستيا، 1973 ، ص 441."
+    },
+    {
+      "id": 995,
+      "text": "Vita Antonii 35."
+    },
+    {
+      "id": 996,
+      "text": "Vita Antonii 36."
+    },
+    {
+      "id": 997,
+      "text": "Cassian: Confer. 6: 3."
+    },
+    {
+      "id": 998,
+      "text": "In Luc. Hom 4: 4."
+    },
+    {
+      "id": 999,
+      "text": "In Luc. hom 4: 6."
+    },
+    {
+      "id": 1000,
+      "text": "In Luc. hom 4: 5."
+    },
+    {
+      "id": 1001,
+      "text": "On the Trinity 5: 14: 5."
+    },
+    {
+      "id": 1002,
+      "text": "In Luc. hom 5: 1."
+    },
+    {
+      "id": 1003,
+      "text": "In Luc. hom 5: 3."
+    },
+    {
+      "id": 1004,
+      "text": "In Luc. Hom 6: 3."
+    },
+    {
+      "id": 1005,
+      "text": "للمؤلف: القدّيسة مريم في المفهوم الأرثوذكسي ، ص 20، 21."
+    },
+    {
+      "id": 1006,
+      "text": "In Luc. Hom 6: 4,5."
+    },
+    {
+      "id": 1007,
+      "text": "St. Igntius: Ep. Adephes 19: 1."
+    },
+    {
+      "id": 1008,
+      "text": "لحن أكاسيستوس، يقال في السبت الخامس من الصوم الكبير."
+    },
+    {
+      "id": 1009,
+      "text": "Ser. 25: 8."
+    },
+    {
+      "id": 1010,
+      "text": "Ser. 4, addressed at the Council of Ephesus. PG 77: 996."
+    },
+    {
+      "id": 1011,
+      "text": "New Westminster Dict. of the Bible, p 653."
+    },
+    {
+      "id": 1012,
+      "text": "المقدمة ، و تفسير زك 6: 12 - راجع كتابنا: زكريا ."
+    },
+    {
+      "id": 1013,
+      "text": "راجع: القدّيسة مريم في المفهوم الأرثوذكسي ، ص 40-41."
+    },
+    {
+      "id": 1014,
+      "text": "On Reduke & Grace 30."
+    },
+    {
+      "id": 1015,
+      "text": "On the Holy Nativity of Christ 11 PG 77: 1427."
+    },
+    {
+      "id": 1016,
+      "text": "In Luc. hom 6."
+    },
+    {
+      "id": 1017,
+      "text": "In Luc. hom 8."
+    },
+    {
+      "id": 1018,
+      "text": "Ep 22: 38."
+    },
+    {
+      "id": 1019,
+      "text": "De Sacr. Virg. 8."
+    },
+    {
+      "id": 1020,
+      "text": "In Matt. hom 2: 2."
+    },
+    {
+      "id": 1021,
+      "text": "Ser. 178: 4. PL 38: 1005."
+    },
+    {
+      "id": 1022,
+      "text": "In luc. hom 7: 1."
+    },
+    {
+      "id": 1023,
+      "text": "In Luc. hom 7: 2."
+    },
+    {
+      "id": 1024,
+      "text": "Oration on the Holy lights 17."
+    },
+    {
+      "id": 1025,
+      "text": "In Luc. hom 7: 3."
+    },
+    {
+      "id": 1026,
+      "text": "Cat. Iect. 17: 8,7."
+    },
+    {
+      "id": 1027,
+      "text": "القدّيسة مريم في المفهوم الأرثوذكسي ، ص24."
+    },
+    {
+      "id": 1028,
+      "text": "القدّيسة مريم في المفهوم الأرثوذكسي ، ، ص28."
+    },
+    {
+      "id": 1029,
+      "text": "In Luc. 7: 5."
+    },
+    {
+      "id": 1030,
+      "text": "In Luc. hom 8: 1."
+    },
+    {
+      "id": 1031,
+      "text": "In Luc. hom 8: 2."
+    },
+    {
+      "id": 1032,
+      "text": "Symposion 8: 8."
+    },
+    {
+      "id": 1033,
+      "text": "PL 15: 1810."
+    },
+    {
+      "id": 1034,
+      "text": "ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 1035,
+      "text": "In Luc. hom 9: 1,2."
+    },
+    {
+      "id": 1036,
+      "text": "In Luc. hom 10: 1."
+    },
+    {
+      "id": 1037,
+      "text": "In Ps. hom 25."
+    },
+    {
+      "id": 1038,
+      "text": "On the Great Athan."
+    },
+    {
+      "id": 1039,
+      "text": "In Luc. hom 10: 2."
+    },
+    {
+      "id": 1040,
+      "text": "In Luc. hom 10: 3."
+    },
+    {
+      "id": 1041,
+      "text": "In Luc. hom 10: 3."
+    },
+    {
+      "id": 1042,
+      "text": "ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 1043,
+      "text": "In Luc. Hom 10: 6,7."
+    },
+    {
+      "id": 1044,
+      "text": "عظة 1 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 1045,
+      "text": "In Luc. Hom 11: 6. (ترجمة السيدة تريز سعد)"
+    },
+    {
+      "id": 1046,
+      "text": "العذراء كل حين 12 (ترجمة القمص متياس فريد)."
+    },
+    {
+      "id": 1047,
+      "text": "عظة 1."
+    },
+    {
+      "id": 1048,
+      "text": "عظة 1."
+    },
+    {
+      "id": 1049,
+      "text": "Orat. on hom 11:6."
+    },
+    {
+      "id": 1050,
+      "text": "In Ps. hom 44."
+    },
+    {
+      "id": 1051,
+      "text": "عظة 2 (ترجمة المرحوم كامل جرجس)."
+    },
+    {
+      "id": 1052,
+      "text": "In Luc. hom 12:1,2 . (ترجمة مدام وديعة حنا)"
+    },
+    {
+      "id": 1053,
+      "text": "Sunday Sermons of the Great Fathers, vo.l 1, p 110."
+    },
+    {
+      "id": 1054,
+      "text": "On Nativity 1,14."
+    },
+    {
+      "id": 1055,
+      "text": "EP. 75:1."
+    },
+    {
+      "id": 1056,
+      "text": "On Ioan. hom 15:1."
+    },
+    {
+      "id": 1057,
+      "text": "Const. Apost. 7:5."
+    },
+    {
+      "id": 1058,
+      "text": "On Grace &Free will 4."
+    },
+    {
+      "id": 1059,
+      "text": "On Trinity 13:13:17."
+    },
+    {
+      "id": 1060,
+      "text": "On Nativity 5."
+    },
+    {
+      "id": 1061,
+      "text": "الحب الإلهي، 1967، ص269، 270."
+    },
+    {
+      "id": 1062,
+      "text": "عظة 3."
+    },
+    {
+      "id": 1063,
+      "text": "ميمر على دخول ربنا الهيكل."
+    },
+    {
+      "id": 1064,
+      "text": "In Luc. hom 15:2,3."
+    },
+    {
+      "id": 1065,
+      "text": "On mortality 3."
+    },
+    {
+      "id": 1066,
+      "text": "Funeral Oration on Meletius."
+    },
+    {
+      "id": 1067,
+      "text": "On Our Lord 48."
+    },
+    {
+      "id": 1068,
+      "text": "عظة 4."
+    },
+    {
+      "id": 1069,
+      "text": "Daniélou: A Hist. of Early Christian Doctrine, ch 19; Adv. Haer. 5:1."
+    },
+    {
+      "id": 1070,
+      "text": "In 2 Cor. hom 5:2."
+    },
+    {
+      "id": 1071,
+      "text": "Epistle, 260:7."
+    },
+    {
+      "id": 1072,
+      "text": "Epistle, 260:8."
+    },
+    {
+      "id": 1073,
+      "text": "Epistle, 260:8."
+    },
+    {
+      "id": 1074,
+      "text": "Fr. Malaty. St. Mary in the Orthodox Concept."
+    },
+    {
+      "id": 1075,
+      "text": "Ep. 54:16."
+    },
+    {
+      "id": 1076,
+      "text": "In Ioan. hom 21:1."
+    },
+    {
+      "id": 1077,
+      "text": "عظة 5."
+    },
+    {
+      "id": 1078,
+      "text": "Adv. Eunomius 6:4."
+    },
+    {
+      "id": 1079,
+      "text": "In Luc , hom. 19:2."
+    },
+    {
+      "id": 1080,
+      "text": "In Luc , hom. 20:6."
+    },
+    {
+      "id": 1081,
+      "text": "Disc. against Arians 3:52."
+    },
+    {
+      "id": 1082,
+      "text": "In Luc. Hom 18:3,4."
+    },
+    {
+      "id": 1083,
+      "text": "In Luc , hom. 19:4."
+    },
+    {
+      "id": 1084,
+      "text": "In Luc , hom. 19:3."
+    },
+    {
+      "id": 1085,
+      "text": "Cat. Lect.7:9."
+    },
+    {
+      "id": 1086,
+      "text": "On Marriage& Concupiscence 12."
+    },
+    {
+      "id": 1087,
+      "text": "Ser.5."
+    },
+    {
+      "id": 1088,
+      "text": "Ep. 22:17."
+    },
+    {
+      "id": 1089,
+      "text": "In Luc. Hom 20:5."
+    },
+    {
+      "id": 1090,
+      "text": "In Luc. hom 20:4."
+    },
+    {
+      "id": 1091,
+      "text": "Ep. 107:7."
+    },
+    {
+      "id": 1092,
+      "text": "On the Soul and its origin , 31."
+    },
+    {
+      "id": 1093,
+      "text": "On the Triniy 2:6:11."
+    },
+    {
+      "id": 1094,
+      "text": "عظة 6."
+    },
+    {
+      "id": 1095,
+      "text": "Cat .lect . 3:4 ."
+    },
+    {
+      "id": 1096,
+      "text": "Cat .lect . 3:2."
+    },
+    {
+      "id": 1097,
+      "text": "In Matt . hom 11."
+    },
+    {
+      "id": 1098,
+      "text": "عظة 6."
+    },
+    {
+      "id": 1099,
+      "text": "In Matt 3:9. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 1100,
+      "text": "عظة 7."
+    },
+    {
+      "id": 1101,
+      "text": "In Matt. hom 3:16."
+    },
+    {
+      "id": 1102,
+      "text": "Ep .169:5."
+    },
+    {
+      "id": 1103,
+      "text": "In Incan 5:2."
+    },
+    {
+      "id": 1104,
+      "text": "عظة 10."
+    },
+    {
+      "id": 1105,
+      "text": "Catena Aurea (John 1) ."
+    },
+    {
+      "id": 1106,
+      "text": "PL 74:1099-1103."
+    },
+    {
+      "id": 1107,
+      "text": "In Matt .8:11."
+    },
+    {
+      "id": 1108,
+      "text": "ميمر عن المعمودية المقدسة ، مخطوط بدير الأنبا انطونيوس ، نسخ عام 1488."
+    },
+    {
+      "id": 1109,
+      "text": "In Matt. 3:11."
+    },
+    {
+      "id": 1110,
+      "text": "عظة 10."
+    },
+    {
+      "id": 1111,
+      "text": "In Luc. 26:4. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 1112,
+      "text": "عظة 10."
+    },
+    {
+      "id": 1113,
+      "text": "Ep. 93: 33."
+    },
+    {
+      "id": 1114,
+      "text": "الإنجيل بحسب متى , ص 326، 327."
+    },
+    {
+      "id": 1115,
+      "text": "On the Trinity15:26:46."
+    },
+    {
+      "id": 1116,
+      "text": "On Ps. hom 1 ."
+    },
+    {
+      "id": 1117,
+      "text": "On the Holy Spirit, 29."
+    },
+    {
+      "id": 1118,
+      "text": "يشير إلى بدعة نسطور التي نادت بأن الذي أعتمد هو يسوع في طبيعته البشرية ولم يكن بعد قد حّل فيه اللاهوت ."
+    },
+    {
+      "id": 1119,
+      "text": "عظة 11."
+    },
+    {
+      "id": 1120,
+      "text": "Ep .169:5."
+    },
+    {
+      "id": 1121,
+      "text": "In Luc. Hom .28:1. (ترجمة الآنسة/ تريز سعد)"
+    },
+    {
+      "id": 1122,
+      "text": "In Luc. Hom .28:1."
+    },
+    {
+      "id": 1123,
+      "text": "In Matt. Hom4:1."
+    },
+    {
+      "id": 1124,
+      "text": "Sermons on N.T. Lessons 1."
+    },
+    {
+      "id": 1125,
+      "text": "In Luc. hom 29:3,4."
+    },
+    {
+      "id": 1126,
+      "text": "In Matt 4:2."
+    },
+    {
+      "id": 1127,
+      "text": "In Luc. Hom 30:1-4."
+    },
+    {
+      "id": 1128,
+      "text": "Adv . Haer 5:22:2."
+    },
+    {
+      "id": 1129,
+      "text": "Adv . Haer 5:24:1."
+    },
+    {
+      "id": 1130,
+      "text": "Adv . Haer 5:21:2."
+    },
+    {
+      "id": 1131,
+      "text": "In Luc hom 31:1-7."
+    },
+    {
+      "id": 1132,
+      "text": "In Matt 4:6."
+    },
+    {
+      "id": 1133,
+      "text": "In Luc hom 32:2."
+    },
+    {
+      "id": 1134,
+      "text": "In Luc hom 32:3,4."
+    },
+    {
+      "id": 1135,
+      "text": "In Luc hom 32:4."
+    },
+    {
+      "id": 1136,
+      "text": "In Luc hom 32:6."
+    },
+    {
+      "id": 1137,
+      "text": "In Matt. Hom 16."
+    },
+    {
+      "id": 1138,
+      "text": "In Luc. hom 33:3."
+    },
+    {
+      "id": 1139,
+      "text": "In 2Cor. Hom 19."
+    },
+    {
+      "id": 1140,
+      "text": "Conc. Widows 3."
+    },
+    {
+      "id": 1141,
+      "text": "In Ioan. Tr 11: 2."
+    },
+    {
+      "id": 1142,
+      "text": "Adv. Marcon 4:7."
+    },
+    {
+      "id": 1143,
+      "text": "Adv. Marccon 4:7."
+    },
+    {
+      "id": 1144,
+      "text": "Adv. Marcon 4:7."
+    },
+    {
+      "id": 1145,
+      "text": "Ser. on N.T. 3:11."
+    },
+    {
+      "id": 1146,
+      "text": "Conc. Widows 10."
+    },
+    {
+      "id": 1147,
+      "text": "See In Matt. Hom 27:3."
+    },
+    {
+      "id": 1148,
+      "text": "Ser. On N.T. 87: 6."
+    },
+    {
+      "id": 1149,
+      "text": "In Ioan. tr 122: 7."
+    },
+    {
+      "id": 1150,
+      "text": "راجع كتابنا: الكنيسة بيت الله- فصل: الرموز."
+    },
+    {
+      "id": 1151,
+      "text": "In Matt. hom 3: 8."
+    },
+    {
+      "id": 1152,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 1153,
+      "text": "Adv. Marc. 4: 9."
+    },
+    {
+      "id": 1154,
+      "text": "On Lord`s Prayer 29 ,30."
+    },
+    {
+      "id": 1155,
+      "text": "Ep.7: 6."
+    },
+    {
+      "id": 1156,
+      "text": "للمؤلف: يسوع والمفلوجان للقديس يوحنا الذهبي الفم, 1966, ص47- 49."
+    },
+    {
+      "id": 1157,
+      "text": "للمؤلف: يسوع والمفلوجان للقديس يوحنا الذهبي الفم, 1966, ص 52، 53."
+    },
+    {
+      "id": 1158,
+      "text": "In Matt9: 9. (ترجمة الأنسة تريز سعد)"
+    },
+    {
+      "id": 1159,
+      "text": "In Matt9: 9. (ترجمة الأنسة تريز سعد)"
+    },
+    {
+      "id": 1160,
+      "text": "Ep. Of Barnabas, 5."
+    },
+    {
+      "id": 1161,
+      "text": "On the Resurrection of the Flesh, 9."
+    },
+    {
+      "id": 1162,
+      "text": "Jerome Biblica Comm.p 135."
+    },
+    {
+      "id": 1163,
+      "text": "راجع الأعياد والأصوام عند اليهود في كتابنا: سفر اللاويين , 1984م, ص227- 229."
+    },
+    {
+      "id": 1164,
+      "text": "للمؤلف: الإنجيل بحسب متّى, 1983م ,ص270."
+    },
+    {
+      "id": 1165,
+      "text": "In Luc 6:1-6."
+    },
+    {
+      "id": 1166,
+      "text": "عظة 22 ترجمة المرحوم كامل جرجس."
+    },
+    {
+      "id": 1167,
+      "text": "عظة 22."
+    },
+    {
+      "id": 1168,
+      "text": "عظة 23."
+    },
+    {
+      "id": 1169,
+      "text": "In Luc 6:12-49. ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 1170,
+      "text": "City of God 18:49."
+    },
+    {
+      "id": 1171,
+      "text": "عظة 28."
+    },
+    {
+      "id": 1172,
+      "text": "In Luc 6:20."
+    },
+    {
+      "id": 1173,
+      "text": "دير السيدة العذراء- السريان: الآباء الحاذقون في العبادة، ح 2، 1952م، ص 184-185."
+    },
+    {
+      "id": 1174,
+      "text": "In Matt. hom 47:4."
+    },
+    {
+      "id": 1175,
+      "text": "Strom. 4:5:26."
+    },
+    {
+      "id": 1176,
+      "text": "Paed. 2:57:56."
+    },
+    {
+      "id": 1177,
+      "text": "In Luc Ser 28."
+    },
+    {
+      "id": 1178,
+      "text": "Conc. Virgins 3:5; Conc. Widows 6."
+    },
+    {
+      "id": 1179,
+      "text": "Comm. on Eccles. ch 3."
+    },
+    {
+      "id": 1180,
+      "text": "On Ps. hom 16, 18, 39."
+    },
+    {
+      "id": 1181,
+      "text": "In Jer. hom 3:49; In Luc. hom 18."
+    },
+    {
+      "id": 1182,
+      "text": "PG 49:829 D."
+    },
+    {
+      "id": 1183,
+      "text": "In Is. 26:10."
+    },
+    {
+      "id": 1184,
+      "text": "Short Rules 31."
+    },
+    {
+      "id": 1185,
+      "text": "PG 31:257 D."
+    },
+    {
+      "id": 1186,
+      "text": "In Ep. Ad Phil 3:4."
+    },
+    {
+      "id": 1187,
+      "text": "الآباء الحاذقون 2: 186."
+    },
+    {
+      "id": 1188,
+      "text": "In Ps. Hom 1."
+    },
+    {
+      "id": 1189,
+      "text": "عظة 28."
+    },
+    {
+      "id": 1190,
+      "text": "المطران ابيفانيوس: الأماني الذهبية من مقالات لأبينا الجليل في القديسين يوحنا الذهبي الفم، 1972م، ص47، 48."
+    },
+    {
+      "id": 1191,
+      "text": "In Ep. Ad Rom."
+    },
+    {
+      "id": 1192,
+      "text": "In Luc 6:24."
+    },
+    {
+      "id": 1193,
+      "text": "عظة 32."
+    },
+    {
+      "id": 1194,
+      "text": "In Ioan tr 87:4."
+    },
+    {
+      "id": 1195,
+      "text": "الآباء الحاذقون 199,198: 2."
+    },
+    {
+      "id": 1196,
+      "text": "On Rancor."
+    },
+    {
+      "id": 1197,
+      "text": "Ep 138:12."
+    },
+    {
+      "id": 1198,
+      "text": "Apol. 1:16."
+    },
+    {
+      "id": 1199,
+      "text": "Ep. Of Bern. 19."
+    },
+    {
+      "id": 1200,
+      "text": "Who is the rich man that shall be saved 31."
+    },
+    {
+      "id": 1201,
+      "text": "Enchiridion 78."
+    },
+    {
+      "id": 1202,
+      "text": "In Matt. hom 35:6; 49:4; 52:5."
+    },
+    {
+      "id": 1203,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 1204,
+      "text": "In Heb. hom 32:7."
+    },
+    {
+      "id": 1205,
+      "text": "PG 65:320 D; 65:289."
+    },
+    {
+      "id": 1206,
+      "text": "On Refusal to judge.."
+    },
+    {
+      "id": 1207,
+      "text": "عظة 32، 33."
+    },
+    {
+      "id": 1208,
+      "text": "Ser. On N.T. 8:10."
+    },
+    {
+      "id": 1209,
+      "text": "Ser. On N.T. 10:12."
+    },
+    {
+      "id": 1210,
+      "text": "On the Soul 22."
+    },
+    {
+      "id": 1211,
+      "text": "In Matt. Hom 26: 3."
+    },
+    {
+      "id": 1212,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 1213,
+      "text": "On Idolatry 19."
+    },
+    {
+      "id": 1214,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 1215,
+      "text": "In Luc 7: 1-10."
+    },
+    {
+      "id": 1216,
+      "text": "عظة 35 على إنجيل لوقا."
+    },
+    {
+      "id": 1217,
+      "text": "Greg. Naz. In Laudem Caesarii 15- P G 35: 755f."
+    },
+    {
+      "id": 1218,
+      "text": "Ser. on N.T. 48: 1."
+    },
+    {
+      "id": 1219,
+      "text": "Ser. on N.T. 48: 2."
+    },
+    {
+      "id": 1220,
+      "text": "عظة 36."
+    },
+    {
+      "id": 1221,
+      "text": "Ser. On N.T. 48: 5."
+    },
+    {
+      "id": 1222,
+      "text": "In Luc 7: 11- 17."
+    },
+    {
+      "id": 1223,
+      "text": "In Luc 7: 11- 17."
+    },
+    {
+      "id": 1224,
+      "text": "عظة 36."
+    },
+    {
+      "id": 1225,
+      "text": "عظة 37."
+    },
+    {
+      "id": 1226,
+      "text": "In Luc 7: 18 - 35."
+    },
+    {
+      "id": 1227,
+      "text": "In Matt. hom 36: 2."
+    },
+    {
+      "id": 1228,
+      "text": "عظة 38."
+    },
+    {
+      "id": 1229,
+      "text": "In Luc 7: 18-35."
+    },
+    {
+      "id": 1230,
+      "text": "On Repent. 2: 6."
+    },
+    {
+      "id": 1231,
+      "text": "In Luc 7: 18-35."
+    },
+    {
+      "id": 1232,
+      "text": "عظة 39."
+    },
+    {
+      "id": 1233,
+      "text": "Ser. on N.T. 49: 1"
+    },
+    {
+      "id": 1234,
+      "text": "Ep 41: 12."
+    },
+    {
+      "id": 1235,
+      "text": "On Repent. 2."
+    },
+    {
+      "id": 1236,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 1237,
+      "text": "Ep. 41: 13."
+    },
+    {
+      "id": 1238,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 1239,
+      "text": "Ep. 41: 14."
+    },
+    {
+      "id": 1240,
+      "text": "Ep. 41: 18."
+    },
+    {
+      "id": 1241,
+      "text": "Ep. 41: 16,17."
+    },
+    {
+      "id": 1242,
+      "text": "In Luc 7: 36-50."
+    },
+    {
+      "id": 1243,
+      "text": "Ser. on N.T. 12: 1."
+    },
+    {
+      "id": 1244,
+      "text": "In Luc 7: 36- 50."
+    },
+    {
+      "id": 1245,
+      "text": "عظة 40."
+    },
+    {
+      "id": 1246,
+      "text": "Adv. Haer. 3: 20: 2."
+    },
+    {
+      "id": 1247,
+      "text": "لم نستطيع هنا في موقع الأنبا تكلاهيمانوت التأكد من هذا التاريخ، وربما كان مأخوذًا عن طريق الخطأ من أحد المراجع.. حيث أن الأصح هو 1050-1107 م. تقريبًا ، وهو من سيرة الأنبا ثيوفيلاكتُس الأوخريدي ."
+    },
+    {
+      "id": 1248,
+      "text": "Catena Aurea Luc 8."
+    },
+    {
+      "id": 1249,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1250,
+      "text": "In Matt. hom 32:11."
+    },
+    {
+      "id": 1251,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 1252,
+      "text": "In Matt. hom 28:1."
+    },
+    {
+      "id": 1253,
+      "text": "In Loan tr 49:9."
+    },
+    {
+      "id": 1254,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 1255,
+      "text": "In Luc 8:19-36."
+    },
+    {
+      "id": 1256,
+      "text": "In Matt. hom 19: 10."
+    },
+    {
+      "id": 1257,
+      "text": "In Matt. hom 19: 10."
+    },
+    {
+      "id": 1258,
+      "text": "In Luc 9:1 etc."
+    },
+    {
+      "id": 1259,
+      "text": "In Luc 9:10-17."
+    },
+    {
+      "id": 1260,
+      "text": "In Luc 9:10-17."
+    },
+    {
+      "id": 1261,
+      "text": "In Ps. hom 23."
+    },
+    {
+      "id": 1262,
+      "text": "On theFlesh of Christ 5."
+    },
+    {
+      "id": 1263,
+      "text": "On Belief of the Resurrection 2:94."
+    },
+    {
+      "id": 1264,
+      "text": "In Luc 9:28-31."
+    },
+    {
+      "id": 1265,
+      "text": "Praktikos 13,14."
+    },
+    {
+      "id": 1266,
+      "text": "On Humility."
+    },
+    {
+      "id": 1267,
+      "text": "In Matt. hom 24:2."
+    },
+    {
+      "id": 1268,
+      "text": "Ser. on N.T. 50:1."
+    },
+    {
+      "id": 1269,
+      "text": "In Luc 9:57-62."
+    },
+    {
+      "id": 1270,
+      "text": "Ser. on N.T. 50:2."
+    },
+    {
+      "id": 1271,
+      "text": "Ser. on N.T. 50:2."
+    },
+    {
+      "id": 1272,
+      "text": "In Luc 9: 57-62."
+    },
+    {
+      "id": 1273,
+      "text": "Ep 39:4."
+    },
+    {
+      "id": 1274,
+      "text": "Inst. 4:36."
+    },
+    {
+      "id": 1275,
+      "text": "Inst. 9:15."
+    },
+    {
+      "id": 1276,
+      "text": "Edershiem: The Temple, p. 240."
+    },
+    {
+      "id": 1277,
+      "text": "Ser. On N.T. 51:3."
+    },
+    {
+      "id": 1278,
+      "text": "Ser. On N.T. 51:14."
+    },
+    {
+      "id": 1279,
+      "text": "In Matt. Hom 33:3."
+    },
+    {
+      "id": 1280,
+      "text": "In Luc 10:1-24."
+    },
+    {
+      "id": 1281,
+      "text": "In Luc 10: 1-24."
+    },
+    {
+      "id": 1282,
+      "text": "Ser. on N.T. 51:6."
+    },
+    {
+      "id": 1283,
+      "text": "Ser. on N.T. 51:7."
+    },
+    {
+      "id": 1284,
+      "text": "Instr. 3:7."
+    },
+    {
+      "id": 1285,
+      "text": "Ser. On N.T. 51:5."
+    },
+    {
+      "id": 1286,
+      "text": "Ser. on N.T. 51:8."
+    },
+    {
+      "id": 1287,
+      "text": "Ser. on N.T. 51:9."
+    },
+    {
+      "id": 1288,
+      "text": "In Ioan tr 89:2."
+    },
+    {
+      "id": 1289,
+      "text": "Adv. Haer 5:24:2:20:3."
+    },
+    {
+      "id": 1290,
+      "text": "In Matt. Hom. 56:6."
+    },
+    {
+      "id": 1291,
+      "text": "In Ioan Tr. 13:17."
+    },
+    {
+      "id": 1292,
+      "text": "Adv. Haer 7:36:4."
+    },
+    {
+      "id": 1293,
+      "text": "Myst. 3:11."
+    },
+    {
+      "id": 1294,
+      "text": "Cassian: Conf 15:6,7,9"
+    },
+    {
+      "id": 1295,
+      "text": "In Luc. 10."
+    },
+    {
+      "id": 1296,
+      "text": "In Ioan hom. 60:1."
+    },
+    {
+      "id": 1297,
+      "text": "Adv. Hear. 4:6:7."
+    },
+    {
+      "id": 1298,
+      "text": "In Gal. hom1:16."
+    },
+    {
+      "id": 1299,
+      "text": "Instr. 1:5."
+    },
+    {
+      "id": 1300,
+      "text": "Instr. 1:6."
+    },
+    {
+      "id": 1301,
+      "text": "On Ps. Hom 5."
+    },
+    {
+      "id": 1302,
+      "text": "In Luc hom 34:2 ."
+    },
+    {
+      "id": 1303,
+      "text": "قام Maurice Briere بترجمة عظات القديس ساويروس الانطاكي عن السريانية إلى الفرنسية وقد قام المتنيح الشماس يوسف حبيب مع الأستاذ مليكة حبيب بترجمة بعضها إلى العربية ونشرها ."
+    },
+    {
+      "id": 1304,
+      "text": "On Repen. 1."
+    },
+    {
+      "id": 1305,
+      "text": "In Luc. Hom 34:3."
+    },
+    {
+      "id": 1306,
+      "text": "In Luc. Hom 34:4."
+    },
+    {
+      "id": 1307,
+      "text": "In Luc. Hom 34:5."
+    },
+    {
+      "id": 1308,
+      "text": "Ep. 45:6."
+    },
+    {
+      "id": 1309,
+      "text": "In Ioan tr 43:2."
+    },
+    {
+      "id": 1310,
+      "text": "On Repent. 1."
+    },
+    {
+      "id": 1311,
+      "text": "Ser. On N.T. 69: 7."
+    },
+    {
+      "id": 1312,
+      "text": "Ep. 77:12."
+    },
+    {
+      "id": 1313,
+      "text": "In Luc. hom 34:7."
+    },
+    {
+      "id": 1314,
+      "text": "In Ioan tr 61:13"
+    },
+    {
+      "id": 1315,
+      "text": "In Luc. hom 34:8."
+    },
+    {
+      "id": 1316,
+      "text": "Adv. Haer. 3:17:3."
+    },
+    {
+      "id": 1317,
+      "text": "On the Good of Marriage 8."
+    },
+    {
+      "id": 1318,
+      "text": "Ser. on N.T. 53:2,3."
+    },
+    {
+      "id": 1319,
+      "text": "Ser. on N.T. 53:5."
+    },
+    {
+      "id": 1320,
+      "text": "Ser. on N.T. 54:1."
+    },
+    {
+      "id": 1321,
+      "text": "Ser. on N.T. 54:4."
+    },
+    {
+      "id": 1322,
+      "text": "Ep 22:24."
+    },
+    {
+      "id": 1323,
+      "text": "Who is the rich man.... 10"
+    },
+    {
+      "id": 1324,
+      "text": "Cassian: Conf. 1:8."
+    },
+    {
+      "id": 1325,
+      "text": "In Luc. 10:38-42."
+    },
+    {
+      "id": 1326,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1327,
+      "text": "الإنجيل بحسب متى ص140-158."
+    },
+    {
+      "id": 1328,
+      "text": "Cat. Lac. 23:11."
+    },
+    {
+      "id": 1329,
+      "text": "Monast. Cap 1."
+    },
+    {
+      "id": 1330,
+      "text": "Orat. Dom. 2."
+    },
+    {
+      "id": 1331,
+      "text": "On Prayer 2."
+    },
+    {
+      "id": 1332,
+      "text": "On Prayer 111 - 3, 54 (J.Bamberger: Evagrius Ponticus, Te Praktikos, Chapters on Prayer, 1981, P 74, 63)."
+    },
+    {
+      "id": 1333,
+      "text": "Cat. Aurea."
+    },
+    {
+      "id": 1334,
+      "text": "Cat. Lect. 23:12."
+    },
+    {
+      "id": 1335,
+      "text": "On Prayer 3."
+    },
+    {
+      "id": 1336,
+      "text": "Cat. Lect. 23:13."
+    },
+    {
+      "id": 1337,
+      "text": "On Prayer 5."
+    },
+    {
+      "id": 1338,
+      "text": "Cat. Lect. 23:14."
+    },
+    {
+      "id": 1339,
+      "text": "Orat. Dom. 4."
+    },
+    {
+      "id": 1340,
+      "text": "On Prayer 4."
+    },
+    {
+      "id": 1341,
+      "text": "On Prayer 6."
+    },
+    {
+      "id": 1342,
+      "text": "Cat. Lect 23:16."
+    },
+    {
+      "id": 1343,
+      "text": "On Prayer 7,11."
+    },
+    {
+      "id": 1344,
+      "text": "On Prayer 13 (Bamberger, P 57)."
+    },
+    {
+      "id": 1345,
+      "text": "I bid 21, 64."
+    },
+    {
+      "id": 1346,
+      "text": "Cat. Lect. 23:17."
+    },
+    {
+      "id": 1347,
+      "text": "In reg. Brev. Ad inter 221."
+    },
+    {
+      "id": 1348,
+      "text": "On Prayer 8."
+    },
+    {
+      "id": 1349,
+      "text": "Cat. Lect 23:18 ."
+    },
+    {
+      "id": 1350,
+      "text": "On Prayer 10."
+    },
+    {
+      "id": 1351,
+      "text": "On Prayer 9."
+    },
+    {
+      "id": 1352,
+      "text": "Cassian: Conf. 9:34."
+    },
+    {
+      "id": 1353,
+      "text": "Ser. On N. T. 11:6."
+    },
+    {
+      "id": 1354,
+      "text": "On Prayer 87."
+    },
+    {
+      "id": 1355,
+      "text": "In Luc 11:5-13."
+    },
+    {
+      "id": 1356,
+      "text": "Ser. On N. T. 55:2,3."
+    },
+    {
+      "id": 1357,
+      "text": "De Quaest. Ev. Lib 2 qu 21."
+    },
+    {
+      "id": 1358,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 1359,
+      "text": "Ser . on N. T. 55:4."
+    },
+    {
+      "id": 1360,
+      "text": "Ser . on N. T. 55:5."
+    },
+    {
+      "id": 1361,
+      "text": "Ep. 130:8."
+    },
+    {
+      "id": 1362,
+      "text": "In Luc 11:15 -13."
+    },
+    {
+      "id": 1363,
+      "text": "Ser. On N.T. 11: 6."
+    },
+    {
+      "id": 1364,
+      "text": "Ep. 130 - 8."
+    },
+    {
+      "id": 1365,
+      "text": "Const. Mon. 1."
+    },
+    {
+      "id": 1366,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 1367,
+      "text": "Const. Mon. 1."
+    },
+    {
+      "id": 1368,
+      "text": "De Quaest Evang. Lib 2 - Qu 22- (Ser. On N. T. 55)."
+    },
+    {
+      "id": 1369,
+      "text": "Ser. 105."
+    },
+    {
+      "id": 1370,
+      "text": "Ser. On N.T. 56:4."
+    },
+    {
+      "id": 1371,
+      "text": "Ser. On N.T. 55:11."
+    },
+    {
+      "id": 1372,
+      "text": "Ser. On N.T. 55:12."
+    },
+    {
+      "id": 1373,
+      "text": "Who is the Rich man.. 39."
+    },
+    {
+      "id": 1374,
+      "text": "In Ioan . hom 84: 3."
+    },
+    {
+      "id": 1375,
+      "text": "Catena Aurea (In Luc 81) ."
+    },
+    {
+      "id": 1376,
+      "text": "De Quaest Evang . 1: 2 ."
+    },
+    {
+      "id": 1377,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 1378,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 1379,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 1380,
+      "text": "In Matt. hom 41."
+    },
+    {
+      "id": 1381,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 1382,
+      "text": "In Luc. hom 81 ."
+    },
+    {
+      "id": 1383,
+      "text": "In Matt. hom 41."
+    },
+    {
+      "id": 1384,
+      "text": "In Luc 11:14- 26."
+    },
+    {
+      "id": 1385,
+      "text": "In Luc Ser 81."
+    },
+    {
+      "id": 1386,
+      "text": "Of Holy Virginity 3."
+    },
+    {
+      "id": 1387,
+      "text": "In Ioan tr 10:3 ."
+    },
+    {
+      "id": 1388,
+      "text": "In Luc Ser 82 ."
+    },
+    {
+      "id": 1389,
+      "text": "In Luc 11:29-32 ."
+    },
+    {
+      "id": 1390,
+      "text": "In Luc 11:33-36."
+    },
+    {
+      "id": 1391,
+      "text": "In Luc Ser 83."
+    },
+    {
+      "id": 1392,
+      "text": "Ser. 106."
+    },
+    {
+      "id": 1393,
+      "text": "In Matt. hom 50:5."
+    },
+    {
+      "id": 1394,
+      "text": "Ser. On N. T.56:4."
+    },
+    {
+      "id": 1395,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 1396,
+      "text": "In Luc Ser. 83."
+    },
+    {
+      "id": 1397,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1398,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 1399,
+      "text": "In Luc Ser. 84."
+    },
+    {
+      "id": 1400,
+      "text": "In Matt. hom 73."
+    },
+    {
+      "id": 1401,
+      "text": "In Luc Ser 84."
+    },
+    {
+      "id": 1402,
+      "text": "In Luc Ser 85."
+    },
+    {
+      "id": 1403,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1404,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1405,
+      "text": "In Luc Ser 85"
+    },
+    {
+      "id": 1406,
+      "text": "In Matt. Hom 74."
+    },
+    {
+      "id": 1407,
+      "text": "الإنجيل بحسب متى، 1983م، ص489."
+    },
+    {
+      "id": 1408,
+      "text": "Orat. In Diem Nat. Christi."
+    },
+    {
+      "id": 1409,
+      "text": "In Luc 11:37-54."
+    },
+    {
+      "id": 1410,
+      "text": "In Luc Ser 86."
+    },
+    {
+      "id": 1411,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1412,
+      "text": "In Luc Ser 86."
+    },
+    {
+      "id": 1413,
+      "text": "In Luc 12:1-7."
+    },
+    {
+      "id": 1414,
+      "text": "In Luc Ser 87."
+    },
+    {
+      "id": 1415,
+      "text": "In Matt. hom 22."
+    },
+    {
+      "id": 1416,
+      "text": "مقال [منشورات النور: إسحق السريانى: (نقله إلى العربية الأب اسحق عطالله)، بيروت]."
+    },
+    {
+      "id": 1417,
+      "text": "In Luc hom 87."
+    },
+    {
+      "id": 1418,
+      "text": "In Luc 12."
+    },
+    {
+      "id": 1419,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1420,
+      "text": "Catena Aurea"
+    },
+    {
+      "id": 1421,
+      "text": "In Matt. hom 34."
+    },
+    {
+      "id": 1422,
+      "text": "In Luc Ser 88."
+    },
+    {
+      "id": 1423,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1424,
+      "text": "راجع تفسير مت 12: 22-37 ."
+    },
+    {
+      "id": 1425,
+      "text": "Ep 55: 5; 76:5."
+    },
+    {
+      "id": 1426,
+      "text": "In Matt. Hom 33."
+    },
+    {
+      "id": 1427,
+      "text": "In Luc 12: 13-34."
+    },
+    {
+      "id": 1428,
+      "text": "In Luc Ser. 89."
+    },
+    {
+      "id": 1429,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1430,
+      "text": "Strom 4: 6."
+    },
+    {
+      "id": 1431,
+      "text": "In Luc Ser. 89."
+    },
+    {
+      "id": 1432,
+      "text": "Inst. 9: 30."
+    },
+    {
+      "id": 1433,
+      "text": "Ser on N.T. 57: 9."
+    },
+    {
+      "id": 1434,
+      "text": "Ep. 43: 2."
+    },
+    {
+      "id": 1435,
+      "text": "In Gen. Hom 23."
+    },
+    {
+      "id": 1436,
+      "text": "In Matt. Hom 21."
+    },
+    {
+      "id": 1437,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 1438,
+      "text": "In Luc 12: 13-48."
+    },
+    {
+      "id": 1439,
+      "text": "الإنجيل بحسب متى ، ص 169-172."
+    },
+    {
+      "id": 1440,
+      "text": "In Luc 12: 13-48."
+    },
+    {
+      "id": 1441,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 1442,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 1443,
+      "text": "In Luc Ser 90."
+    },
+    {
+      "id": 1444,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1445,
+      "text": "Inst. 4: 38."
+    },
+    {
+      "id": 1446,
+      "text": "In Matt. Hom 77: 5."
+    },
+    {
+      "id": 1447,
+      "text": "Ser. On N.T. 38:12."
+    },
+    {
+      "id": 1448,
+      "text": "In Luc Ser 91."
+    },
+    {
+      "id": 1449,
+      "text": "In Act. Hom 25."
+    },
+    {
+      "id": 1450,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1451,
+      "text": "Inst. 1: 11."
+    },
+    {
+      "id": 1452,
+      "text": "Ser. on N.T. 58: 2."
+    },
+    {
+      "id": 1453,
+      "text": "Ser. on N.T 43: 3."
+    },
+    {
+      "id": 1454,
+      "text": "On Continence 17."
+    },
+    {
+      "id": 1455,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1456,
+      "text": "Ep 22: 11."
+    },
+    {
+      "id": 1457,
+      "text": "In Luc hom 92."
+    },
+    {
+      "id": 1458,
+      "text": "In Luc hom 92."
+    },
+    {
+      "id": 1459,
+      "text": "In Evang. Hom 13."
+    },
+    {
+      "id": 1460,
+      "text": "In Hebr. Hom 10: 8."
+    },
+    {
+      "id": 1461,
+      "text": "In Evang. Hom 13."
+    },
+    {
+      "id": 1462,
+      "text": "In Ep. Ad Titus."
+    },
+    {
+      "id": 1463,
+      "text": "Banquet of 10 Virgins 5: 2."
+    },
+    {
+      "id": 1464,
+      "text": "In Luc Ser 92."
+    },
+    {
+      "id": 1465,
+      "text": "In Matt. Hom 77."
+    },
+    {
+      "id": 1466,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 1467,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 1468,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1469,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "id": 1470,
+      "text": "On Grace & Freewill 5."
+    },
+    {
+      "id": 1471,
+      "text": "In Ioan hom 34: 1."
+    },
+    {
+      "id": 1472,
+      "text": "In Ioan hom 84: 4."
+    },
+    {
+      "id": 1473,
+      "text": "In Matt. Hom 6: 7."
+    },
+    {
+      "id": 1474,
+      "text": "In Matt. Hom 35: 2."
+    },
+    {
+      "id": 1475,
+      "text": "In Matt. Hom 6: 7."
+    },
+    {
+      "id": 1476,
+      "text": "Fest. Lett. 3: 4."
+    },
+    {
+      "id": 1477,
+      "text": "Oration on Easter 2: 16."
+    },
+    {
+      "id": 1478,
+      "text": "Ser on N.T. 21: 19."
+    },
+    {
+      "id": 1479,
+      "text": "Ep. 52:3."
+    },
+    {
+      "id": 1480,
+      "text": "In Luc 12:49,50"
+    },
+    {
+      "id": 1481,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 1482,
+      "text": "On Baptism 16."
+    },
+    {
+      "id": 1483,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 1484,
+      "text": "In Luc 12:12-53."
+    },
+    {
+      "id": 1485,
+      "text": "In Luc Ser 94."
+    },
+    {
+      "id": 1486,
+      "text": "In Luc 12:12-53."
+    },
+    {
+      "id": 1487,
+      "text": "Ser. on N. T. 59:1 ."
+    },
+    {
+      "id": 1488,
+      "text": "In Luc Ser 95 ."
+    },
+    {
+      "id": 1489,
+      "text": "Ser. on N. T. 59:3-4 ."
+    },
+    {
+      "id": 1490,
+      "text": "De Lazer. Conc. 3."
+    },
+    {
+      "id": 1491,
+      "text": "Ser. on N.T.60:1."
+    },
+    {
+      "id": 1492,
+      "text": "Conc. Repent 2: 1."
+    },
+    {
+      "id": 1493,
+      "text": "In Luc 13: 6-9. ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 1494,
+      "text": "In Evang. Hom 31."
+    },
+    {
+      "id": 1495,
+      "text": "Oration 32."
+    },
+    {
+      "id": 1496,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 1497,
+      "text": "Ser on N.T. 60: 2."
+    },
+    {
+      "id": 1498,
+      "text": "On the Trinity 4: 4: 7."
+    },
+    {
+      "id": 1499,
+      "text": "In Luc 13: 10-17."
+    },
+    {
+      "id": 1500,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 1501,
+      "text": "In Ps. Hom 55,29,7."
+    },
+    {
+      "id": 1502,
+      "text": "Hexam. Hom 9."
+    },
+    {
+      "id": 1503,
+      "text": "In Luc 13: 10-17."
+    },
+    {
+      "id": 1504,
+      "text": "In Luc Ser 96."
+    },
+    {
+      "id": 1505,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 1506,
+      "text": "In Evang. Hom 31 ."
+    },
+    {
+      "id": 1507,
+      "text": "الإنجيل بحسب متى, ص 308-313."
+    },
+    {
+      "id": 1508,
+      "text": "الإنجيل بحسب مرقس, ص82-85."
+    },
+    {
+      "id": 1509,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 1510,
+      "text": "الإنجيل بحسب متى, ص313-315."
+    },
+    {
+      "id": 1511,
+      "text": "In Ioan tr 9:17 ."
+    },
+    {
+      "id": 1512,
+      "text": "In Ioan tr 61:1 ."
+    },
+    {
+      "id": 1513,
+      "text": "In Luc 13:20,21 ."
+    },
+    {
+      "id": 1514,
+      "text": "In Luc 13:20,21 ."
+    },
+    {
+      "id": 1515,
+      "text": "In Luc Ser 96 ."
+    },
+    {
+      "id": 1516,
+      "text": "الإنجيل بحسب متى 179-181 ."
+    },
+    {
+      "id": 1517,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 1518,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 1519,
+      "text": "In Luc Ser 99."
+    },
+    {
+      "id": 1520,
+      "text": "Ep. 234: 3."
+    },
+    {
+      "id": 1521,
+      "text": "In Ps. Hom 1."
+    },
+    {
+      "id": 1522,
+      "text": "Vita S. Antonii 38."
+    },
+    {
+      "id": 1523,
+      "text": "In Luc Ser 99."
+    },
+    {
+      "id": 1524,
+      "text": "In Luc Ser 100."
+    },
+    {
+      "id": 1525,
+      "text": "Strom. 4:6."
+    },
+    {
+      "id": 1526,
+      "text": "Contr. Julian 6: 19."
+    },
+    {
+      "id": 1527,
+      "text": "In Luc Ser 100."
+    },
+    {
+      "id": 1528,
+      "text": "In Ioan. hom 68: 2."
+    },
+    {
+      "id": 1529,
+      "text": "In Luc Ser 101."
+    },
+    {
+      "id": 1530,
+      "text": "Quaest Evang 2: 29."
+    },
+    {
+      "id": 1531,
+      "text": "In Luc Ser 102."
+    },
+    {
+      "id": 1532,
+      "text": "Ser. On N.T. 32: 6."
+    },
+    {
+      "id": 1533,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1534,
+      "text": "In 1 Thess. Hom.11."
+    },
+    {
+      "id": 1535,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 1536,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 1537,
+      "text": "In Acts hom 45."
+    },
+    {
+      "id": 1538,
+      "text": "In Luc. Ser.103."
+    },
+    {
+      "id": 1539,
+      "text": "Instr. 2: 1."
+    },
+    {
+      "id": 1540,
+      "text": "In Luc. Ser 104."
+    },
+    {
+      "id": 1541,
+      "text": "In Luc Ser. 104."
+    },
+    {
+      "id": 1542,
+      "text": "In Gal. hom 2: 20."
+    },
+    {
+      "id": 1543,
+      "text": "Ser. On N.T. 62: 6."
+    },
+    {
+      "id": 1544,
+      "text": "Ser. On N.T. 62: 6."
+    },
+    {
+      "id": 1545,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 1546,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 1547,
+      "text": "In Evang. hom 36."
+    },
+    {
+      "id": 1548,
+      "text": "Cassian: Conf 21: 9."
+    },
+    {
+      "id": 1549,
+      "text": "Who is the Rich man..22."
+    },
+    {
+      "id": 1550,
+      "text": "Ser. On N.T.62: 8."
+    },
+    {
+      "id": 1551,
+      "text": "In Evang. hom 36."
+    },
+    {
+      "id": 1552,
+      "text": "In Luc 14: 1- 24."
+    },
+    {
+      "id": 1553,
+      "text": "In Luc. Ser 104."
+    },
+    {
+      "id": 1554,
+      "text": "In Luc. Ser 105."
+    },
+    {
+      "id": 1555,
+      "text": "In Evang. hom 37."
+    },
+    {
+      "id": 1556,
+      "text": "In Evang. hom 37."
+    },
+    {
+      "id": 1557,
+      "text": "Cassian: Conf. 2: 9."
+    },
+    {
+      "id": 1558,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 1559,
+      "text": "In Evang hom 37"
+    },
+    {
+      "id": 1560,
+      "text": "In Esai 1."
+    },
+    {
+      "id": 1561,
+      "text": "De Virgin. 18."
+    },
+    {
+      "id": 1562,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 1563,
+      "text": "In Luc Ser 105."
+    },
+    {
+      "id": 1564,
+      "text": "الإنجيل بحسب متى (مت 5: 13)."
+    },
+    {
+      "id": 1565,
+      "text": "In Luc 15: 1-7."
+    },
+    {
+      "id": 1566,
+      "text": "In Luc 15: 1-7."
+    },
+    {
+      "id": 1567,
+      "text": "Ad Eutropius 2: 5."
+    },
+    {
+      "id": 1568,
+      "text": "To the Fallen Theodore 1: 7."
+    },
+    {
+      "id": 1569,
+      "text": "In Evang. hom 34."
+    },
+    {
+      "id": 1570,
+      "text": "In Luc Ser 106."
+    },
+    {
+      "id": 1571,
+      "text": "Ep. 2: 1."
+    },
+    {
+      "id": 1572,
+      "text": "On the Theophany or Birth of Christ, 14."
+    },
+    {
+      "id": 1573,
+      "text": "In Matt. Hom 59: 5."
+    },
+    {
+      "id": 1574,
+      "text": "De Mul. Pecc."
+    },
+    {
+      "id": 1575,
+      "text": "In Luc Ser. 106."
+    },
+    {
+      "id": 1576,
+      "text": "In Luc 12: 8- 10."
+    },
+    {
+      "id": 1577,
+      "text": "In Evangelia 34."
+    },
+    {
+      "id": 1578,
+      "text": "In Luc 12: 8-10."
+    },
+    {
+      "id": 1579,
+      "text": "Oration on Easter 2: 26."
+    },
+    {
+      "id": 1580,
+      "text": "Panegyric on S. Caeserius 23."
+    },
+    {
+      "id": 1581,
+      "text": "Who is the Rich Man that is saved? 39."
+    },
+    {
+      "id": 1582,
+      "text": "On Repentence 8."
+    },
+    {
+      "id": 1583,
+      "text": "De Petre et duob. Filiis."
+    },
+    {
+      "id": 1584,
+      "text": "In Luc Ser 107."
+    },
+    {
+      "id": 1585,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 1586,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 1587,
+      "text": "Ep 43 to Antonius."
+    },
+    {
+      "id": 1588,
+      "text": "Unity of Church 6."
+    },
+    {
+      "id": 1589,
+      "text": "De Patre et duob. Filiis."
+    },
+    {
+      "id": 1590,
+      "text": "On Ps 70; Quaest. Ev 2: 33."
+    },
+    {
+      "id": 1591,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1592,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1593,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1594,
+      "text": "Quaest Ev. 2: 33."
+    },
+    {
+      "id": 1595,
+      "text": "Ser on N. T. 46: 2."
+    },
+    {
+      "id": 1596,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 1597,
+      "text": "De Patre et duobus filiis."
+    },
+    {
+      "id": 1598,
+      "text": "In Luc 15: 11- 32."
+    },
+    {
+      "id": 1599,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 82."
+    },
+    {
+      "id": 1600,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 82."
+    },
+    {
+      "id": 1601,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 75."
+    },
+    {
+      "id": 1602,
+      "text": "للمؤلف:تلمذتي لأب اعترافي، 1974، ص 63."
+    },
+    {
+      "id": 1603,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1604,
+      "text": "Quaest Ev 2: 33."
+    },
+    {
+      "id": 1605,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1606,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 1607,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1608,
+      "text": "De Patre et duobuys Filiis."
+    },
+    {
+      "id": 1609,
+      "text": "Quaest. Evang. 2: 33."
+    },
+    {
+      "id": 1610,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1611,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1612,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1613,
+      "text": "Quaest Evang. 2: 33."
+    },
+    {
+      "id": 1614,
+      "text": "Fest. Lett. 9: 10."
+    },
+    {
+      "id": 1615,
+      "text": "To Eutropius 2."
+    },
+    {
+      "id": 1616,
+      "text": "De patre et duobus Filiis."
+    },
+    {
+      "id": 1617,
+      "text": "Quaest. Ev. 2: 33."
+    },
+    {
+      "id": 1618,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1619,
+      "text": "In Luc 15: 11-32."
+    },
+    {
+      "id": 1620,
+      "text": "Ser 163: 2, 3."
+    },
+    {
+      "id": 1621,
+      "text": "توضيح من الموقع: كلمة \"اغتصب\" في اللغة العربية -مثلها مثل آلاف الكلمات- تحمل أكثر من معنى.. والمعنى المقصود هنا وفي الآية هو \"الأخذ عنوة\" أو \"الاستحواذ على\"... أي محاربة كل ما يمنع النفس عن الفوز بالحياة الأبدية، والجهاد بقوة للدخول للملكوت everyone is trying hard to get in : CEV . على أي الأحوال تم تعديل كلمة \"لنغتصب\" هنا لكلمة أخرى لئلا يُساء فهمها عمدًا من أصحاب العقائد المنحرفة أخلاقيًّا."
+    },
+    {
+      "id": 1622,
+      "text": "In Luc. Ser. 108."
+    },
+    {
+      "id": 1623,
+      "text": "Quaest Evan. 2:34."
+    },
+    {
+      "id": 1624,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1625,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1626,
+      "text": "On Patience 7."
+    },
+    {
+      "id": 1627,
+      "text": "In 1 Tim. Hom. 11."
+    },
+    {
+      "id": 1628,
+      "text": "In Phil. Hom 1."
+    },
+    {
+      "id": 1629,
+      "text": "In Luc 16:1-13."
+    },
+    {
+      "id": 1630,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1631,
+      "text": "In Heber. 1:4."
+    },
+    {
+      "id": 1632,
+      "text": "Who is the Rich Man... 31."
+    },
+    {
+      "id": 1633,
+      "text": "Cassian: Conf. 6:3."
+    },
+    {
+      "id": 1634,
+      "text": "Ep. 54:12; 52:10; 130:7."
+    },
+    {
+      "id": 1635,
+      "text": "In Luc Ser. 109."
+    },
+    {
+      "id": 1636,
+      "text": "Ep 22:31."
+    },
+    {
+      "id": 1637,
+      "text": "In 1 Tim hom 5."
+    },
+    {
+      "id": 1638,
+      "text": "Ep. 14:6."
+    },
+    {
+      "id": 1639,
+      "text": "In Luc 16:1-13."
+    },
+    {
+      "id": 1640,
+      "text": "In Luc Ser 109."
+    },
+    {
+      "id": 1641,
+      "text": "In Ps. Hom 7."
+    },
+    {
+      "id": 1642,
+      "text": "In Hebr. Hom 3:9."
+    },
+    {
+      "id": 1643,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1644,
+      "text": "In Luc Ser 110."
+    },
+    {
+      "id": 1645,
+      "text": "In Ioan 16:4."
+    },
+    {
+      "id": 1646,
+      "text": "In Luc 16: 19-31."
+    },
+    {
+      "id": 1647,
+      "text": "In Matt. hom 37."
+    },
+    {
+      "id": 1648,
+      "text": "Reply to Faustus 19:8."
+    },
+    {
+      "id": 1649,
+      "text": "In Luc 16: 16-18."
+    },
+    {
+      "id": 1650,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 1651,
+      "text": "من يقدر أن يؤذيك, 1965, ص 41 - 44."
+    },
+    {
+      "id": 1652,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 1653,
+      "text": "In Luc Ser 111."
+    },
+    {
+      "id": 1654,
+      "text": "Moral 1:8."
+    },
+    {
+      "id": 1655,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1656,
+      "text": "In Luc Ser 111."
+    },
+    {
+      "id": 1657,
+      "text": "Conc. Lazaro 1."
+    },
+    {
+      "id": 1658,
+      "text": "Ser. 165:1-3."
+    },
+    {
+      "id": 1659,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 1660,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 1661,
+      "text": "In Luc 16:19-31."
+    },
+    {
+      "id": 1662,
+      "text": "Catena Aure"
+    },
+    {
+      "id": 1663,
+      "text": "In Luc Ser. 111."
+    },
+    {
+      "id": 1664,
+      "text": "Ep 77:6."
+    },
+    {
+      "id": 1665,
+      "text": "Ep 48:21."
+    },
+    {
+      "id": 1666,
+      "text": "In 2 Cor hom 6."
+    },
+    {
+      "id": 1667,
+      "text": "Conc. Lazar. 2."
+    },
+    {
+      "id": 1668,
+      "text": "Conc. Lazar. 2."
+    },
+    {
+      "id": 1669,
+      "text": "Ser. 164:3."
+    },
+    {
+      "id": 1670,
+      "text": "City of God, 21:10."
+    },
+    {
+      "id": 1671,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1672,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 1673,
+      "text": "Conc Lazar 2."
+    },
+    {
+      "id": 1674,
+      "text": "Conc Lazar 2,3."
+    },
+    {
+      "id": 1675,
+      "text": "In Luc Ser 112."
+    },
+    {
+      "id": 1676,
+      "text": "Conc. Lazar. 2;3."
+    },
+    {
+      "id": 1677,
+      "text": "In Evang. hom 40."
+    },
+    {
+      "id": 1678,
+      "text": "Conc. Lazaro 4."
+    },
+    {
+      "id": 1679,
+      "text": "In Ioan tr 55:2."
+    },
+    {
+      "id": 1680,
+      "text": "Adv. Haer. 2:24:1."
+    },
+    {
+      "id": 1681,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 1682,
+      "text": "In Luc 17: 3, 4."
+    },
+    {
+      "id": 1683,
+      "text": "Ser. On N.T. 64: 3, 5."
+    },
+    {
+      "id": 1684,
+      "text": "On Luke Ser 113- 6."
+    },
+    {
+      "id": 1685,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 1686,
+      "text": "Quaest. Evang. 2: 39."
+    },
+    {
+      "id": 1687,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 1688,
+      "text": "المؤلف: الفيلوكاليا، 1966 ، ص 143، 136."
+    },
+    {
+      "id": 1689,
+      "text": "On Luke hom 113- 6."
+    },
+    {
+      "id": 1690,
+      "text": "In Luc 16: 7- 10."
+    },
+    {
+      "id": 1691,
+      "text": "Quaest . Ev 2: 39."
+    },
+    {
+      "id": 1692,
+      "text": "الإنجيل بحسب متى، ص193- 195."
+    },
+    {
+      "id": 1693,
+      "text": "Quaest. Ev 2: 40."
+    },
+    {
+      "id": 1694,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 1695,
+      "text": "De Prop. Sec. Deum."
+    },
+    {
+      "id": 1696,
+      "text": "Ep. 58: 3."
+    },
+    {
+      "id": 1697,
+      "text": "Cassian: Conf 1: 13."
+    },
+    {
+      "id": 1698,
+      "text": "Cassian: Conf 18: 16."
+    },
+    {
+      "id": 1699,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 1700,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1701,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 1702,
+      "text": "On Luke hom 117."
+    },
+    {
+      "id": 1703,
+      "text": "On Luke hom 118."
+    },
+    {
+      "id": 1704,
+      "text": "In Matt. Canon 25."
+    },
+    {
+      "id": 1705,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 1706,
+      "text": "Instit. 7: 27."
+    },
+    {
+      "id": 1707,
+      "text": "On Luke hom 118."
+    },
+    {
+      "id": 1708,
+      "text": "Quaest Ev. 2: 41."
+    },
+    {
+      "id": 1709,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 1710,
+      "text": "Quaest Ev. 2: 41"
+    },
+    {
+      "id": 1711,
+      "text": "In Luke hom 118."
+    },
+    {
+      "id": 1712,
+      "text": "In Luke hom 118."
+    },
+    {
+      "id": 1713,
+      "text": "In Luc 17: 20- 37."
+    },
+    {
+      "id": 1714,
+      "text": "On Prayer 87, 88."
+    },
+    {
+      "id": 1715,
+      "text": "In Matt. Hom 19: 4."
+    },
+    {
+      "id": 1716,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1717,
+      "text": "Timothy Ware: The Art of Prayer, 1966, p 80-83."
+    },
+    {
+      "id": 1718,
+      "text": "Ser. On N.T. Lessons 65 (115 Ben.)."
+    },
+    {
+      "id": 1719,
+      "text": "On Luc hom 119."
+    },
+    {
+      "id": 1720,
+      "text": "On Luc hom 119."
+    },
+    {
+      "id": 1721,
+      "text": "Quaest. Ev 2: 45."
+    },
+    {
+      "id": 1722,
+      "text": "اتضاع الفكر، طبعة 1966، ص 10-12 (ترجمة المؤلف)."
+    },
+    {
+      "id": 1723,
+      "text": "توجيهات بخصوص التداريب الروحية 36 [راجع الفيلوكاليا، ترجمة المؤلف ]."
+    },
+    {
+      "id": 1724,
+      "text": "Fest. Letters 1: 4."
+    },
+    {
+      "id": 1725,
+      "text": "Ep 16, 12."
+    },
+    {
+      "id": 1726,
+      "text": "Ser. On N.T. 65: 2,3."
+    },
+    {
+      "id": 1727,
+      "text": "Ser. On N.T. 87: 4."
+    },
+    {
+      "id": 1728,
+      "text": "In Hebr. Hom 21: 7,8."
+    },
+    {
+      "id": 1729,
+      "text": "On Luke hom 120."
+    },
+    {
+      "id": 1730,
+      "text": "In Easi 2."
+    },
+    {
+      "id": 1731,
+      "text": "De Poen hom 2."
+    },
+    {
+      "id": 1732,
+      "text": "In Easi 2:12."
+    },
+    {
+      "id": 1733,
+      "text": "Ser. On N.T. 65: 4."
+    },
+    {
+      "id": 1734,
+      "text": "In Matt. Hom 63."
+    },
+    {
+      "id": 1735,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1736,
+      "text": "In Matt. Hom 74: 4."
+    },
+    {
+      "id": 1737,
+      "text": "In 1 Cor. Hom 22."
+    },
+    {
+      "id": 1738,
+      "text": "منشورات النور: إسحق السرياني: نسكيات 1983، ص 34."
+    },
+    {
+      "id": 1739,
+      "text": "In Evang. hom 2."
+    },
+    {
+      "id": 1740,
+      "text": "In Matt. Hom 65."
+    },
+    {
+      "id": 1741,
+      "text": "منشورات النور: إسحق السرياني: نسكيات 1983، ص 28."
+    },
+    {
+      "id": 1742,
+      "text": "In Evang. hom 2."
+    },
+    {
+      "id": 1743,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 1744,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1745,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 1746,
+      "text": "Hom 127."
+    },
+    {
+      "id": 1747,
+      "text": "Ep. 108: 12"
+    },
+    {
+      "id": 1748,
+      "text": "Ep 71: 2."
+    },
+    {
+      "id": 1749,
+      "text": "In Luc 19: 1-10."
+    },
+    {
+      "id": 1750,
+      "text": "In 1 Cor. hom 24."
+    },
+    {
+      "id": 1751,
+      "text": "Hom 127."
+    },
+    {
+      "id": 1752,
+      "text": "Morals 27: 46"
+    },
+    {
+      "id": 1753,
+      "text": "In Matt hom 30: 3."
+    },
+    {
+      "id": 1754,
+      "text": "Ep. 54: 3."
+    },
+    {
+      "id": 1755,
+      "text": "Hom 127."
+    },
+    {
+      "id": 1756,
+      "text": "Ep. 54: 3."
+    },
+    {
+      "id": 1757,
+      "text": "Resur. Of Flesh 34."
+    },
+    {
+      "id": 1758,
+      "text": "On Marriage & Concus. 2: 9."
+    },
+    {
+      "id": 1759,
+      "text": "Ser. On N.T. 39: 1."
+    },
+    {
+      "id": 1760,
+      "text": "Hom 129"
+    },
+    {
+      "id": 1761,
+      "text": "Esai 13: 13."
+    },
+    {
+      "id": 1762,
+      "text": "Esai 13: 13."
+    },
+    {
+      "id": 1763,
+      "text": "Quaest Ev 2: 40."
+    },
+    {
+      "id": 1764,
+      "text": "Of the Chrishian Faith 5: 12."
+    },
+    {
+      "id": 1765,
+      "text": "Hom 129."
+    },
+    {
+      "id": 1766,
+      "text": "Hom 129."
+    },
+    {
+      "id": 1767,
+      "text": "Quaest Ev 2: 40."
+    },
+    {
+      "id": 1768,
+      "text": "In 1 Cor. hom 39"
+    },
+    {
+      "id": 1769,
+      "text": "Quaest Ev 2: 40"
+    },
+    {
+      "id": 1770,
+      "text": "Storm. 7:10."
+    },
+    {
+      "id": 1771,
+      "text": "Orat. On Palms 1,"
+    },
+    {
+      "id": 1772,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1773,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 1774,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 1775,
+      "text": "Hom 130."
+    },
+    {
+      "id": 1776,
+      "text": "Ser. On N.T. 71:3."
+    },
+    {
+      "id": 1777,
+      "text": "Hom 131."
+    },
+    {
+      "id": 1778,
+      "text": "In Evang. Hom 39."
+    },
+    {
+      "id": 1779,
+      "text": "In Evang. Hom 39."
+    },
+    {
+      "id": 1780,
+      "text": "In Luc 19:45,46."
+    },
+    {
+      "id": 1781,
+      "text": "Hom 131."
+    },
+    {
+      "id": 1782,
+      "text": "In Ioan tr 4:4."
+    },
+    {
+      "id": 1783,
+      "text": "Apology 1:17."
+    },
+    {
+      "id": 1784,
+      "text": "In Idolat. 15."
+    },
+    {
+      "id": 1785,
+      "text": "In Luc hom 39:4."
+    },
+    {
+      "id": 1786,
+      "text": "On Resurr ، 3."
+    },
+    {
+      "id": 1787,
+      "text": "On the Dress of Virgins 22."
+    },
+    {
+      "id": 1788,
+      "text": "In Ioan 49:15."
+    },
+    {
+      "id": 1789,
+      "text": "Enchiridion 63; On Catech. Of the Uninstructed 25:47."
+    },
+    {
+      "id": 1790,
+      "text": "Ep 108:1."
+    },
+    {
+      "id": 1791,
+      "text": "On Resur. Of the Flesh 62."
+    },
+    {
+      "id": 1792,
+      "text": "On Catechising of the Uninstructed 27:54."
+    },
+    {
+      "id": 1793,
+      "text": "In Luc 20:4144."
+    },
+    {
+      "id": 1794,
+      "text": "Duties of Clergy 1: 30."
+    },
+    {
+      "id": 1795,
+      "text": "Conc. Widows 5."
+    },
+    {
+      "id": 1796,
+      "text": "Conc. Repent. 2: 9."
+    },
+    {
+      "id": 1797,
+      "text": "On Works& Alms 15."
+    },
+    {
+      "id": 1798,
+      "text": "Contra Arian , Orat.1."
+    },
+    {
+      "id": 1799,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 1800,
+      "text": "Ep. 76: 5."
+    },
+    {
+      "id": 1801,
+      "text": "Ser. On N.T. 12: 15."
+    },
+    {
+      "id": 1802,
+      "text": "On Patience 7."
+    },
+    {
+      "id": 1803,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 1804,
+      "text": "Ep 199."
+    },
+    {
+      "id": 1805,
+      "text": "Ad Olymp. Ep 2."
+    },
+    {
+      "id": 1806,
+      "text": "Ep 119."
+    },
+    {
+      "id": 1807,
+      "text": "Ep 199."
+    },
+    {
+      "id": 1808,
+      "text": "In Evang. hom 35."
+    },
+    {
+      "id": 1809,
+      "text": "On Mortality 2."
+    },
+    {
+      "id": 1810,
+      "text": "In Illud Attende 1."
+    },
+    {
+      "id": 1811,
+      "text": "Cassian: Conf. 9: 4."
+    },
+    {
+      "id": 1812,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1813,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1814,
+      "text": "In Matt. Hom.79."
+    },
+    {
+      "id": 1815,
+      "text": "In Luc hom 140."
+    },
+    {
+      "id": 1816,
+      "text": "Ser . on N.T. 62: 2."
+    },
+    {
+      "id": 1817,
+      "text": "In Matt hom 80."
+    },
+    {
+      "id": 1818,
+      "text": "In Luc hom 140."
+    },
+    {
+      "id": 1819,
+      "text": "In Matt 26 ، 18."
+    },
+    {
+      "id": 1820,
+      "text": "In Matt hom 81: 3 ، 82: 1."
+    },
+    {
+      "id": 1821,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1822,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1823,
+      "text": "قدم جريجوري دكس في كتابه \"شكل الليتورجيا\" أمثلة من العهدين القديم والجديد تؤكد ذلك p. 161.)(Dix"
+    },
+    {
+      "id": 1824,
+      "text": "Jean Danielou: The Bible& The LiTurgy ، p136-7."
+    },
+    {
+      "id": 1825,
+      "text": "Ep. Ad Sym.6: 2."
+    },
+    {
+      "id": 1826,
+      "text": "Adv. Hear 5: 2: 3."
+    },
+    {
+      "id": 1827,
+      "text": "Orat. de Bapt. Christ."
+    },
+    {
+      "id": 1828,
+      "text": "In Luc hom 142."
+    },
+    {
+      "id": 1829,
+      "text": "In Loan hom 46."
+    },
+    {
+      "id": 1830,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1831,
+      "text": "In Matt . hom 82."
+    },
+    {
+      "id": 1832,
+      "text": "In Matt . hom 65."
+    },
+    {
+      "id": 1833,
+      "text": "In Reg. Fus. Dis. Int 30 ، 31."
+    },
+    {
+      "id": 1834,
+      "text": "إسحق السرياني: نسكيات، منشورات النور 1983، ص77،70-79."
+    },
+    {
+      "id": 1835,
+      "text": "In Luc hom 143."
+    },
+    {
+      "id": 1836,
+      "text": "On Prayer 139."
+    },
+    {
+      "id": 1837,
+      "text": "On Rebuke& Grace 10."
+    },
+    {
+      "id": 1838,
+      "text": "In loan . 53: 8."
+    },
+    {
+      "id": 1839,
+      "text": "Ser. On N.T. Lessons 87: 3. ، In loan. Tr 11: 2."
+    },
+    {
+      "id": 1840,
+      "text": "In loan. Hom 73: 1."
+    },
+    {
+      "id": 1841,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 1842,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 1843,
+      "text": "On Rebuke & Grace 16."
+    },
+    {
+      "id": 1844,
+      "text": "Grace& Freewill 9."
+    },
+    {
+      "id": 1845,
+      "text": "In Luc hom 144."
+    },
+    {
+      "id": 1846,
+      "text": "In Luc 22: 14-38."
+    },
+    {
+      "id": 1847,
+      "text": "Of Christian Faith 5."
+    },
+    {
+      "id": 1848,
+      "text": "In Luc 22: 39: 53."
+    },
+    {
+      "id": 1849,
+      "text": "Reply to Faustus 22: 76."
+    },
+    {
+      "id": 1850,
+      "text": "In Matt . hom 78: 4."
+    },
+    {
+      "id": 1851,
+      "text": "Conc. Lazer.1."
+    },
+    {
+      "id": 1852,
+      "text": "Cassian: Conf. 16: 18."
+    },
+    {
+      "id": 1853,
+      "text": "In Loan 112: 5."
+    },
+    {
+      "id": 1854,
+      "text": "On Belief of Resur. 2: 27."
+    },
+    {
+      "id": 1855,
+      "text": "On Rebbuke & Grace 24; On the Grace of Christ 1: 49."
+    },
+    {
+      "id": 1856,
+      "text": "In Matt. Hom 85: 1."
+    },
+    {
+      "id": 1857,
+      "text": "Enchiridion 82."
+    },
+    {
+      "id": 1858,
+      "text": "In Luc 22: 54-62."
+    },
+    {
+      "id": 1859,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 1860,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 1861,
+      "text": "In Ioan 116: 4."
+    },
+    {
+      "id": 1862,
+      "text": "In Luc 23: 131."
+    },
+    {
+      "id": 1863,
+      "text": "In Luc hom 23: 131."
+    },
+    {
+      "id": 1864,
+      "text": "In Luc hom 151."
+    },
+    {
+      "id": 1865,
+      "text": "In Luc hom 152."
+    },
+    {
+      "id": 1866,
+      "text": "الإنجيل حسب مرقس، ص 287."
+    },
+    {
+      "id": 1867,
+      "text": "In Luc 23: 131."
+    },
+    {
+      "id": 1868,
+      "text": "On Rep. 2."
+    },
+    {
+      "id": 1869,
+      "text": "In Luc hom 152."
+    },
+    {
+      "id": 1870,
+      "text": "Mor. 12: 4."
+    },
+    {
+      "id": 1871,
+      "text": "Oration on Easter 2: 24."
+    },
+    {
+      "id": 1872,
+      "text": "In Ioan tr 109: 4."
+    },
+    {
+      "id": 1873,
+      "text": "Ep. 16: 1."
+    },
+    {
+      "id": 1874,
+      "text": "المطران أبيفانيوس: الأماني الذهبية من مقالات إكليل في القديسين يوحنا الذهبي الفم، 1972، ص 6265."
+    },
+    {
+      "id": 1875,
+      "text": "In Ioan tr. 31: 11."
+    },
+    {
+      "id": 1876,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 1877,
+      "text": "In Pass. Dom."
+    },
+    {
+      "id": 1878,
+      "text": "In Ioan 31: 9."
+    },
+    {
+      "id": 1879,
+      "text": "In Matt 60: 3."
+    },
+    {
+      "id": 1880,
+      "text": "Ad Ephes 10: 13."
+    },
+    {
+      "id": 1881,
+      "text": "الإنجيل بحسب مرقس ص 288."
+    },
+    {
+      "id": 1882,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 1883,
+      "text": "In Pass. Dom."
+    },
+    {
+      "id": 1884,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 1885,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 1886,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 1887,
+      "text": "In Luc 23: 3349."
+    },
+    {
+      "id": 1888,
+      "text": "In Matt. hom 88."
+    },
+    {
+      "id": 1889,
+      "text": "On Easter 2: 24."
+    },
+    {
+      "id": 1890,
+      "text": "In Matt hom 90."
+    },
+    {
+      "id": 1891,
+      "text": "للمؤلف: الحب الإلهي, 1967، ص 674، 675."
+    },
+    {
+      "id": 1892,
+      "text": "اعتمدت في ترجمة أغلب أقوال الآباء الواردة هنا على ما ورد في الكتيب: القمص متياس فريد: مع المسيح القائم, في الطريق إلى عمواس أبريل 1984."
+    },
+    {
+      "id": 1893,
+      "text": "In Evang. Hom. 23."
+    },
+    {
+      "id": 1894,
+      "text": "قاموس آباء الكنيسة وقديسيها للفتيان: آبوللو وآمون."
+    },
+    {
+      "id": 1895,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 1896,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 1897,
+      "text": "In Evang. 22."
+    },
+    {
+      "id": 1898,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 1899,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 1900,
+      "text": "Se r . 235 ."
+    },
+    {
+      "id": 1901,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 1902,
+      "text": "Oration 22."
+    },
+    {
+      "id": 1903,
+      "text": "الحب الإلهي, 1967، ص 964، 965."
+    },
+    {
+      "id": 1904,
+      "text": "الحب الإلهي, 1967، ص 697، 698."
+    },
+    {
+      "id": 1905,
+      "text": "Ser. on N.T. 66: 2."
+    },
+    {
+      "id": 1906,
+      "text": "In Luc. 24:31-40."
+    },
+    {
+      "id": 1907,
+      "text": "On Luke 24."
+    },
+    {
+      "id": 1908,
+      "text": "Mor 14:55."
+    },
+    {
+      "id": 1909,
+      "text": "Ser. on N.T. 66:3."
+    },
+    {
+      "id": 1910,
+      "text": "الحب الإلهي, 1967، ص676."
+    },
+    {
+      "id": 1911,
+      "text": "De Resur. Orat. 1."
+    },
+    {
+      "id": 1912,
+      "text": "Ser. on N.T. 66: 4,6."
+    },
+    {
+      "id": 1913,
+      "text": "In Acts hom 1."
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "book_id": 59,
+  "book_title": "تفسير الرسالة إلى تيطس",
+  "testament": "New Testament",
+  "chapters_count": 3,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "السلام الرسولي"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "تعاليم للشيوخ."
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الخضوع للهيئات الحاكمة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "(راجع 2 كو 2: 13؛ 7: 6، 13؛ 8: 3؛ 12: 18؛ 2 تي 4: 10) ."
+    },
+    {
+      "id": 2,
+      "text": "بالبحر الأبيض المتوسط على منتصف المسافة بين مصر وايطاليا، أ طوالها حوالي 140 ميل وعرضها حوالي 35 ميلًا ."
+    },
+    {
+      "id": 3,
+      "text": "\"نيكوبوليس\" تعني مدينة النصرة أو الغلبة. كان يوجد مدن كثيرة تحمل هذا الاسم ، 4 مدن في آسيا، وخمس مدن في أفريقيا ، ومدينة في أفريقيا، من هذه المدن:"
+    },
+    {
+      "id": 4,
+      "text": "أ. مدينة في Epirus ويرجح القديس إيرونيموس أنها هي المدينة التي يقصدها الرسول في رسالته هذه. بناها أوغسطس تذكارٌا لنصرته على أنطونيوس وكلوباترة في أ كتيوم سنة 31 ق.م. كان بها آثار من هياكل ، يقال أن الرسول استخدم أحد هذه الهياكل المهجورة للصلاة فيها ، وقد ق ُ بض عليه هناك حيث أ ُ قتيد للمحاكمة الأخيرة في روما."
+    },
+    {
+      "id": 5,
+      "text": "ب. مدينة في مكدونية ، ويرى البعض أنها هي التي يقصدها الرسول."
+    },
+    {
+      "id": 6,
+      "text": "ج. مدينة في تراس."
+    },
+    {
+      "id": 7,
+      "text": "د. مدينة في أرم ي نيا."
+    },
+    {
+      "id": 8,
+      "text": "ه. \" \" Cilica ."
+    },
+    {
+      "id": 9,
+      "text": "و. مدينة في مصر."
+    },
+    {
+      "id": 10,
+      "text": "ز. مدينة على نهر Nessus وتُدعى حاليًا نيكوبي."
+    },
+    {
+      "id": 11,
+      "text": "س. مدينتان في Moesia ."
+    },
+    {
+      "id": 12,
+      "text": "Cf. St Augustine: Faith, Hope and Love."
+    },
+    {
+      "id": 13,
+      "text": "St Chrysostom: The epistle to Titus."
+    },
+    {
+      "id": 14,
+      "text": "Cf. Augustine: City of God 12: 16."
+    },
+    {
+      "id": 15,
+      "text": "Paed. 2:61. Strom. 6:89, 7:57, 7:90, 7:95."
+    },
+    {
+      "id": 16,
+      "text": "Prot., 87."
+    },
+    {
+      "id": 17,
+      "text": "Strom. 1:80."
+    },
+    {
+      "id": 18,
+      "text": "Strom. 7:108."
+    },
+    {
+      "id": 19,
+      "text": "Euseb H. E 2:1."
+    },
+    {
+      "id": 20,
+      "text": "Strom. 6:7, Cf. Strom. 1:1, 1:12, 6:15."
+    },
+    {
+      "id": 21,
+      "text": "St. Jerome: Letters"
+    },
+    {
+      "id": 22,
+      "text": "St. Ambrose: duties of the clergy 2: 20."
+    },
+    {
+      "id": 23,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، ص 232."
+    },
+    {
+      "id": 24,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، \"الراعي المحب\" ."
+    },
+    {
+      "id": 25,
+      "text": "St. Hilary of Poitiers: De Trinite 8: 1."
+    },
+    {
+      "id": 26,
+      "text": "St. Jerome: Letters 52: 7"
+    },
+    {
+      "id": 27,
+      "text": "Cf. St. Augustine: On man’s Perfection in Righteousness 37; Against 2 letters of the Pelagians 1:28; On the Gospel of St. John 41:10."
+    },
+    {
+      "id": 28,
+      "text": "Constitution of the holy Apostles 3: 3: 17"
+    },
+    {
+      "id": 29,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، \"الراعي المحب\" ."
+    },
+    {
+      "id": 30,
+      "text": "St. Jerome: Letter No 53: 3"
+    },
+    {
+      "id": 31,
+      "text": "St. Clement of Alexandria: Stromata,1."
+    },
+    {
+      "id": 32,
+      "text": "A. N. Fathers Vol 10. P440/1"
+    },
+    {
+      "id": 33,
+      "text": "St. Jerome: Letter 22"
+    },
+    {
+      "id": 34,
+      "text": "St. Augustine: Enchiridion, 75."
+    },
+    {
+      "id": 35,
+      "text": "St. Jerome: Letters, 22: 29."
+    },
+    {
+      "id": 36,
+      "text": "St. Augustine: On the Morals of the Catholic Church, 17."
+    },
+    {
+      "id": 37,
+      "text": "St. Athanasius of Alexandria: Letter 48"
+    },
+    {
+      "id": 38,
+      "text": "St. Augustine: On Christian Doctrine 29"
+    },
+    {
+      "id": 39,
+      "text": "St. Augustine: On Baptism against the Donatists, 4: 2"
+    },
+    {
+      "id": 40,
+      "text": "راجع تفسير 1 بط 3: 6 ، 9 ."
+    },
+    {
+      "id": 41,
+      "text": "St Augustine: Sermons on New Testament Lessons, 44."
+    },
+    {
+      "id": 42,
+      "text": "راجع كتيب \"النعمة والإرادة الحرة\" للقديس أغسطينوس طبعة 1969."
+    },
+    {
+      "id": 43,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 27 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 44,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 10 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 45,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 12 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 46,
+      "text": "St. Clement of Alexandria: Exhortation to the Heathen, 1."
+    },
+    {
+      "id": 47,
+      "text": "Cyril of Jerusalem: Lect. 15: 2."
+    },
+    {
+      "id": 48,
+      "text": "للمؤلف: الحب الأخوي، الإسكندرية، 1964، ص 434-435، راجع فصل عدم الإدانة ص431-455."
+    },
+    {
+      "id": 49,
+      "text": "بستان الرهبان."
+    },
+    {
+      "id": 50,
+      "text": "الحب الأخوي، ص 446."
+    },
+    {
+      "id": 51,
+      "text": "فصل 12-13."
+    },
+    {
+      "id": 52,
+      "text": "St. Ambrose: On the Holy Spirit, 2:107."
+    },
+    {
+      "id": 53,
+      "text": "St. Ambrose: On the Holy Spirit, 3:64."
+    },
+    {
+      "id": 54,
+      "text": "St. Augustine: On the Psalms. Ps. 19: 80."
+    },
+    {
+      "id": 55,
+      "text": "Cf. St. Augustine: Of the Forgiveness of sins ; and Baptism ."
+    },
+    {
+      "id": 56,
+      "text": "Cf. St. Augustine: Of the Forgiveness of sins ; and Baptism."
+    },
+    {
+      "id": 57,
+      "text": "St. Augustine: Reply to Faustus the Manichaean."
+    },
+    {
+      "id": 58,
+      "text": "St. Augustine: Against 2 Letters of Pelagians 3: 5."
+    },
+    {
+      "id": 59,
+      "text": "St. Ambrose: Of the Christian Faith 1: 47."
+    },
+    {
+      "id": 60,
+      "text": "(راجع 2 كو 2: 13؛ 7: 6، 13؛ 8: 3؛ 12: 18؛ 2 تي 4: 10) ."
+    },
+    {
+      "id": 61,
+      "text": "بالبحر الأبيض المتوسط على منتصف المسافة بين مصر وايطاليا، أ طوالها حوالي 140 ميل وعرضها حوالي 35 ميلًا ."
+    },
+    {
+      "id": 62,
+      "text": "\"نيكوبوليس\" تعني مدينة النصرة أو الغلبة. كان يوجد مدن كثيرة تحمل هذا الاسم ، 4 مدن ف ي آسيا، وخمس مدن في أفريقيا ، ومدينة في أفريقيا، من هذه المدن:"
+    },
+    {
+      "id": 63,
+      "text": "Cf. St Augustine: Faith, Hope and Love."
+    },
+    {
+      "id": 64,
+      "text": "St Chrysostom: The epistle to Titus."
+    },
+    {
+      "id": 65,
+      "text": "Cf. Augustine: City of God 12: 16."
+    },
+    {
+      "id": 66,
+      "text": "Paed. 2:61. Strom. 6: 89 , 7:57, 7:90, 7:95."
+    },
+    {
+      "id": 67,
+      "text": "Prot., 87."
+    },
+    {
+      "id": 68,
+      "text": "Strom. 1:80."
+    },
+    {
+      "id": 69,
+      "text": "Strom. 7:108."
+    },
+    {
+      "id": 70,
+      "text": "Euseb H. E 2:1."
+    },
+    {
+      "id": 71,
+      "text": "Strom. 6:7, Cf. Strom. 1:1, 1:12, 6:15."
+    },
+    {
+      "id": 72,
+      "text": "St. Jerome: Letters"
+    },
+    {
+      "id": 73,
+      "text": "St. Ambrose: duties of the clergy 2: 20."
+    },
+    {
+      "id": 74,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، ص 232."
+    },
+    {
+      "id": 75,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، \"الراعي المحب\" ."
+    },
+    {
+      "id": 76,
+      "text": "St. Hilary of Poitiers: De Trinite 8: 1."
+    },
+    {
+      "id": 77,
+      "text": "St. Jerome: Letters 52: 7"
+    },
+    {
+      "id": 78,
+      "text": "Cf. St. Augustine: On man’s Perfection in Righteousness 37; Against 2 letters of the Pelagians 1:28; On the Gospel of St. John 41:10."
+    },
+    {
+      "id": 79,
+      "text": "Constitution of the holy Apostles 3: 3: 17"
+    },
+    {
+      "id": 80,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965، \"الراعي المحب\" ."
+    },
+    {
+      "id": 81,
+      "text": "St. Jerome: Letter No 53: 3"
+    },
+    {
+      "id": 82,
+      "text": "St. Clement of Alexandria: Stromata,1."
+    },
+    {
+      "id": 83,
+      "text": "A. N. Fathers Vol 10. P440/1"
+    },
+    {
+      "id": 84,
+      "text": "St. Jerome: Letter 22"
+    },
+    {
+      "id": 85,
+      "text": "St. Augustine: Enchiridion, 75."
+    },
+    {
+      "id": 86,
+      "text": "St. Jerome: Letters, 22: 29."
+    },
+    {
+      "id": 87,
+      "text": "St. Augustine: On the Morals of the Catholic Church, 17."
+    },
+    {
+      "id": 88,
+      "text": "St. Athanasius of Alexandria: Letter 48"
+    },
+    {
+      "id": 89,
+      "text": "St. Augustine: On Christian Doctrine 29"
+    },
+    {
+      "id": 90,
+      "text": "St. Augustine: On Baptism against the Donatists, 4: 2"
+    },
+    {
+      "id": 91,
+      "text": "راجع تفسير 1 بط 3: 6 ، 9 ."
+    },
+    {
+      "id": 92,
+      "text": "St Augustine: Sermons on New Testament Lessons, 44."
+    },
+    {
+      "id": 93,
+      "text": "راجع كتيب \"النعمة والإرادة الحرة\" للقديس أغسطينوس طبعة 1969."
+    },
+    {
+      "id": 94,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 27 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 95,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 10 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 96,
+      "text": "راجع كتيب: \"الروح والحرف\" للقديس أغسطينوس، 12 (ترجمة الآنسة جوليت - تحت الطبع)."
+    },
+    {
+      "id": 97,
+      "text": "St. Clement of Alexandria: Exhortation to the Heathen, 1."
+    },
+    {
+      "id": 98,
+      "text": "Cyril of Jerusalem: Lect. 15: 2."
+    },
+    {
+      "id": 99,
+      "text": "للمؤلف: الحب الأخوي، الإسكندرية، 1964، ص 434-435، راجع فصل عدم الإدانة ص431-455."
+    },
+    {
+      "id": 100,
+      "text": "بستان الرهبان."
+    },
+    {
+      "id": 101,
+      "text": "الحب الأخوي، ص 446."
+    },
+    {
+      "id": 102,
+      "text": "فصل 12-13."
+    },
+    {
+      "id": 103,
+      "text": "St. Ambrose: On the Holy Spirit, 2:107."
+    },
+    {
+      "id": 104,
+      "text": "St. Ambrose: On the Holy Spirit, 3:64."
+    },
+    {
+      "id": 105,
+      "text": "St. Augustine: On the Psalms. Ps. 19: 80."
+    },
+    {
+      "id": 106,
+      "text": "Cf. St. Augustine: Of the Forgiveness of sins ; and Baptism ."
+    },
+    {
+      "id": 107,
+      "text": "Cf. St. Augustine: Of the Forgiveness of sins ; and Baptism."
+    },
+    {
+      "id": 108,
+      "text": "St. Augustine: Reply to Faustus the Manichaean."
+    },
+    {
+      "id": 109,
+      "text": "St. Augustine: Against 2 Letters of Pelagians 3: 5."
+    },
+    {
+      "id": 110,
+      "text": "St. Ambrose: Of the Christian Faith 1: 47."
+    }
+  ]
+}

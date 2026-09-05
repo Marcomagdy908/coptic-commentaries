@@ -1,0 +1,83 @@
+{
+  "book_id": 43,
+  "book_title": "تفسير سفر حجي",
+  "testament": "Old Testament",
+  "chapters_count": 2,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "دعوة لبناء بيت الرب"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "نبوّات ثلاث متلاحقة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Ep. 53:8."
+    },
+    {
+      "id": 2,
+      "text": "Jerome Bibical Comm, P 388."
+    },
+    {
+      "id": 3,
+      "text": "J.H. Raven: Introd. to O.T., P 240."
+    },
+    {
+      "id": 4,
+      "text": "Jerome Bibical Comm, P 388."
+    },
+    {
+      "id": 5,
+      "text": "On Ps. 149."
+    },
+    {
+      "id": 6,
+      "text": "راجع تفسير هوشع أصحاح 3 ."
+    },
+    {
+      "id": 7,
+      "text": "Instr 2:3."
+    },
+    {
+      "id": 8,
+      "text": "Ep. 76:3."
+    },
+    {
+      "id": 9,
+      "text": "Conf. 24:13."
+    },
+    {
+      "id": 10,
+      "text": "In I cor. hom 34:9."
+    },
+    {
+      "id": 11,
+      "text": "Letters to The Fallen Theodore 1:13."
+    },
+    {
+      "id": 12,
+      "text": "Ep. 53:3."
+    },
+    {
+      "id": 13,
+      "text": "Ep. 53:8."
+    },
+    {
+      "id": 14,
+      "text": "Jerome Bibical Comm, P 388."
+    },
+    {
+      "id": 15,
+      "text": "J.H. Raven: Introd. to O.T., P 240."
+    },
+    {
+      "id": 16,
+      "text": "Jerome Bibical Comm, P 388."
+    }
+  ]
+}

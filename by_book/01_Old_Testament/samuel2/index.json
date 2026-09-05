@@ -1,0 +1,651 @@
+{
+  "book_id": 9,
+  "book_title": "تفسير سفر صموئيل الثاني",
+  "testament": "Old Testament",
+  "chapters_count": 24,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "داود يرثي شعبه"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "داود يملك على يهوذا"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "أبنير ينضم إلى داود"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "نهاية مملكة شاول"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "مسح داود ملكًا"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "إحضار تابوت العهد"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "اشتياق داود لبناء بيت الرب"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "انتصارات داود المستمرة"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "داود ومفيبوشث"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "تآمر الرؤساء على داود"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "أمنون وثامار"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "العفو عن أبشالوم"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "عقوق أبشالوم"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "داود الهارب"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "إحباط مشورة أخيتوفل"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "نهاية أبشالوم"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "عودة داود للمُلك"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "ثورة شبع بن بكري"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "In 2 Thes. Pg. 62: 498."
+    },
+    {
+      "id": 2,
+      "text": "St. Cassian: Conf. 17: 15."
+    },
+    {
+      "id": 3,
+      "text": "The Sayings of Desert Fathers, Anba Anoub"
+    },
+    {
+      "id": 4,
+      "text": "Duties of the Clergy 3: 9 ."
+    },
+    {
+      "id": 5,
+      "text": "Cf. Nelson: A New Catholic Commentary on Holy Scripture, 1969. p 318."
+    },
+    {
+      "id": 6,
+      "text": "راجع تعليقات على هذه المرثاة في كتاب \"السنن القويم في تفسير أسفار العهد القديم\": صموئيل الثاني ."
+    },
+    {
+      "id": 7,
+      "text": "The Jerome Biblical Commentary, p 174"
+    },
+    {
+      "id": 8,
+      "text": "In 2 Tim. hom. 7."
+    },
+    {
+      "id": 9,
+      "text": "Ibid"
+    },
+    {
+      "id": 10,
+      "text": "Eccl. Hist. 1: 3."
+    },
+    {
+      "id": 11,
+      "text": "In 2 Cor. hom.3."
+    },
+    {
+      "id": 12,
+      "text": "On Sacraments 4: 1."
+    },
+    {
+      "id": 13,
+      "text": "St Jerome: Dialogue against Luciferians."
+    },
+    {
+      "id": 14,
+      "text": "New Westmister Dict. of the Bible, p. 580."
+    },
+    {
+      "id": 15,
+      "text": "Ibid, p. 329."
+    },
+    {
+      "id": 16,
+      "text": "Ibid, p. 66."
+    },
+    {
+      "id": 17,
+      "text": "ِ Ep. 55 (Oxford ed. Ep. 28)."
+    },
+    {
+      "id": 18,
+      "text": "On Ps. hom. 55"
+    },
+    {
+      "id": 19,
+      "text": "On Heb. hom. 23:9."
+    },
+    {
+      "id": 20,
+      "text": "On Acts. hom. 3"
+    },
+    {
+      "id": 21,
+      "text": "New Westminster Dict. of the Bible, p. 89."
+    },
+    {
+      "id": 22,
+      "text": "J.L. Mckenzie: Dict. of the Bible, P. 77."
+    },
+    {
+      "id": 23,
+      "text": "Strong’s Exhaustive Concordance of the Bible, art. 1195"
+    },
+    {
+      "id": 24,
+      "text": "Ibid, art. 7394."
+    },
+    {
+      "id": 25,
+      "text": "Ibid, art. 7416."
+    },
+    {
+      "id": 26,
+      "text": "Westminster Dictionary of the Bible, p. 99."
+    },
+    {
+      "id": 27,
+      "text": "The New Westminster Dict. of the Bible, p. 449"
+    },
+    {
+      "id": 28,
+      "text": "Ibid."
+    },
+    {
+      "id": 29,
+      "text": "Antiq. 5: 2: 2."
+    },
+    {
+      "id": 30,
+      "text": "On Ps. 27."
+    },
+    {
+      "id": 31,
+      "text": "On Ps. 16."
+    },
+    {
+      "id": 32,
+      "text": "On Ps. hom. 16."
+    },
+    {
+      "id": 33,
+      "text": "The New Westminster Dict. of the Bible, p. 319."
+    },
+    {
+      "id": 34,
+      "text": "Ibid, p. 541-2."
+    },
+    {
+      "id": 35,
+      "text": "كتاب السنن القويم في تفسير العهد القديم- صموئيل الثاني 6."
+    },
+    {
+      "id": 36,
+      "text": "On Acts. hom. 12."
+    },
+    {
+      "id": 37,
+      "text": "Duties of the Clergy 1: 43: 23."
+    },
+    {
+      "id": 38,
+      "text": "On Ps. 30 ."
+    },
+    {
+      "id": 39,
+      "text": "Ibid."
+    },
+    {
+      "id": 40,
+      "text": "راجع: من تفسير وتأملات الآباء الأولين: هوشع (الأصحاح الأول) ."
+    },
+    {
+      "id": 41,
+      "text": "On Exod. hom. 13."
+    },
+    {
+      "id": 42,
+      "text": "Ibid hom. 9."
+    },
+    {
+      "id": 43,
+      "text": "City of God 17:8."
+    },
+    {
+      "id": 44,
+      "text": "Lactantius: The Divine Institutes 4:13."
+    },
+    {
+      "id": 45,
+      "text": "City of God: 17:9."
+    },
+    {
+      "id": 46,
+      "text": "The Westminster Dict. of the Bible, p. 57."
+    },
+    {
+      "id": 47,
+      "text": "Ibid, p. 105."
+    },
+    {
+      "id": 48,
+      "text": "قاموس الكتاب المقدس ، ص 207."
+    },
+    {
+      "id": 49,
+      "text": "On Ps. 60."
+    },
+    {
+      "id": 50,
+      "text": "The Westminster Dict. of the Bible, p. 1023."
+    },
+    {
+      "id": 51,
+      "text": "Joseph Antiq. 7: 5: 5."
+    },
+    {
+      "id": 52,
+      "text": "The Westminster Dict. of the Bible, p. 788."
+    },
+    {
+      "id": 53,
+      "text": "Ibid p. 111."
+    },
+    {
+      "id": 54,
+      "text": "Ibid p. 574."
+    },
+    {
+      "id": 55,
+      "text": "Ibid p. 954."
+    },
+    {
+      "id": 56,
+      "text": "The Ascetical homilies, hom. 22."
+    },
+    {
+      "id": 57,
+      "text": "hom . 37."
+    },
+    {
+      "id": 58,
+      "text": "hom . 48."
+    },
+    {
+      "id": 59,
+      "text": "hom . 62."
+    },
+    {
+      "id": 60,
+      "text": "On Ps. 50 ."
+    },
+    {
+      "id": 61,
+      "text": "Constit. Of The Holy Apostles 7: 1."
+    },
+    {
+      "id": 62,
+      "text": "The Ascetical homilies, hom. 48."
+    },
+    {
+      "id": 63,
+      "text": "On Matt. hom. 75."
+    },
+    {
+      "id": 64,
+      "text": "Iren. Ad Haer. 4: 27: 1."
+    },
+    {
+      "id": 65,
+      "text": "hom. 32."
+    },
+    {
+      "id": 66,
+      "text": "On Ps. 51"
+    },
+    {
+      "id": 67,
+      "text": "In 2 Cor. hom. 4."
+    },
+    {
+      "id": 68,
+      "text": "Institute 12: 11."
+    },
+    {
+      "id": 69,
+      "text": "Ad Marcion 2: 17."
+    },
+    {
+      "id": 70,
+      "text": "hom. 48."
+    },
+    {
+      "id": 71,
+      "text": "On Matt."
+    },
+    {
+      "id": 72,
+      "text": "On Colos. hom. 8."
+    },
+    {
+      "id": 73,
+      "text": "hom. 48."
+    },
+    {
+      "id": 74,
+      "text": "hom. 64."
+    },
+    {
+      "id": 75,
+      "text": "St. Augustine: On Ps. 127."
+    },
+    {
+      "id": 76,
+      "text": "راجع كتابنا: الحب، مفهومه ودرجاته (الحب والشهوة)."
+    },
+    {
+      "id": 77,
+      "text": "McKenzie: Dict. of the Bible, p. 26."
+    },
+    {
+      "id": 78,
+      "text": "Unger’s Bible Dictionary, Chicago 1966, p. 45."
+    },
+    {
+      "id": 79,
+      "text": "The Westminster Dict. of the Bible, p. 83."
+    },
+    {
+      "id": 80,
+      "text": "Origen’s Commentary on John. 33."
+    },
+    {
+      "id": 81,
+      "text": "hom. 64."
+    },
+    {
+      "id": 82,
+      "text": "The Ascetical Homilies of St. Isaac the Syrian, 1984, p. 395"
+    },
+    {
+      "id": 83,
+      "text": "Paed. 3:1."
+    },
+    {
+      "id": 84,
+      "text": "Ibid."
+    },
+    {
+      "id": 85,
+      "text": "Ibid . 3:2"
+    },
+    {
+      "id": 86,
+      "text": "hom. 5."
+    },
+    {
+      "id": 87,
+      "text": "On Humility."
+    },
+    {
+      "id": 88,
+      "text": "On Ephes., hom. 15."
+    },
+    {
+      "id": 89,
+      "text": "Unger’s Bible Dictionary, p. 407."
+    },
+    {
+      "id": 90,
+      "text": "On Ps. 3."
+    },
+    {
+      "id": 91,
+      "text": "hom. 48."
+    },
+    {
+      "id": 92,
+      "text": "On Grace & Free-will ch. 41."
+    },
+    {
+      "id": 93,
+      "text": "Ibid ."
+    },
+    {
+      "id": 94,
+      "text": "Institutes 8: 8."
+    },
+    {
+      "id": 95,
+      "text": "In Matt. hom. 3."
+    },
+    {
+      "id": 96,
+      "text": "Strong’s Exhaustive Concordance of the Bible, art. 302."
+    },
+    {
+      "id": 97,
+      "text": "من تفسير وتأملات الآباء الأولين: الإنجيل بحسب مرقص ، ص 251 ."
+    },
+    {
+      "id": 98,
+      "text": "On Ps. 12."
+    },
+    {
+      "id": 99,
+      "text": "Strong.., art. 2365."
+    },
+    {
+      "id": 100,
+      "text": "ر اجع أقوال الآباء في هذا الشأن في كتابنا: \"الحب الجامع أو دور الشعب كنسيًا\"."
+    },
+    {
+      "id": 101,
+      "text": "Strong, art 6659."
+    },
+    {
+      "id": 102,
+      "text": "Ibid . art 54."
+    },
+    {
+      "id": 103,
+      "text": "Ibid . art 3129"
+    },
+    {
+      "id": 104,
+      "text": "Ibid . art 290."
+    },
+    {
+      "id": 105,
+      "text": "Ibid . art 5883."
+    },
+    {
+      "id": 106,
+      "text": "راجع كتابنا: دعوني أنمو، 1988 ، باب 3، 6 ."
+    },
+    {
+      "id": 107,
+      "text": "Strong, art. 980."
+    },
+    {
+      "id": 108,
+      "text": "Ibid . hom. 48."
+    },
+    {
+      "id": 109,
+      "text": "Strong, art. 6021."
+    },
+    {
+      "id": 110,
+      "text": "Ibid . art 7629."
+    },
+    {
+      "id": 111,
+      "text": "Ibid . art 4353."
+    },
+    {
+      "id": 112,
+      "text": "Ibid . art 5988."
+    },
+    {
+      "id": 113,
+      "text": "Ibid . art 1271."
+    },
+    {
+      "id": 114,
+      "text": "Conc. Virgins 2:29."
+    },
+    {
+      "id": 115,
+      "text": "adv. Jovinianus 2:3."
+    },
+    {
+      "id": 116,
+      "text": "On Ps. 22."
+    },
+    {
+      "id": 117,
+      "text": "الحب الإلهي، ص 467، 468."
+    },
+    {
+      "id": 118,
+      "text": "الحب الإلهي، ص 469 ."
+    },
+    {
+      "id": 119,
+      "text": "الحب الإلهي، ص 469"
+    },
+    {
+      "id": 120,
+      "text": "الحب الرعوي، ص 147."
+    },
+    {
+      "id": 121,
+      "text": "The Westminster Dict. of the Bible, p. 860."
+    },
+    {
+      "id": 122,
+      "text": "قاموس الكتاب المقدس ، ص 1"
+    },
+    {
+      "id": 123,
+      "text": "The Westminster Dict. of the Bible, p. 3."
+    },
+    {
+      "id": 124,
+      "text": "In Jerome Biblical Commentary, p. 178."
+    },
+    {
+      "id": 125,
+      "text": "The Westminster Dict. of the Bible, p. 1020."
+    },
+    {
+      "id": 126,
+      "text": "In 2 Thess. hom. 4."
+    },
+    {
+      "id": 127,
+      "text": "On Ps. 90 ."
+    },
+    {
+      "id": 128,
+      "text": "On Ps. 18."
+    },
+    {
+      "id": 129,
+      "text": "Ibid."
+    },
+    {
+      "id": 130,
+      "text": "Ibid."
+    },
+    {
+      "id": 131,
+      "text": "Ibid."
+    },
+    {
+      "id": 132,
+      "text": "Ep. ad. serap. 1: 14."
+    },
+    {
+      "id": 133,
+      "text": "hom. 1: 1."
+    },
+    {
+      "id": 134,
+      "text": "hom. 1: 10."
+    },
+    {
+      "id": 135,
+      "text": "hom. 1: 21."
+    },
+    {
+      "id": 136,
+      "text": "hom. 46."
+    },
+    {
+      "id": 137,
+      "text": "Ibid ."
+    },
+    {
+      "id": 138,
+      "text": "On Ps. hom. 27."
+    },
+    {
+      "id": 139,
+      "text": "On Rom. hom. 29."
+    },
+    {
+      "id": 140,
+      "text": "On 1Cor. hom. 25."
+    },
+    {
+      "id": 141,
+      "text": "On 2Cor. hom. 11"
+    },
+    {
+      "id": 142,
+      "text": "In 2 Thes. Pg. 62: 498."
+    }
+  ]
+}

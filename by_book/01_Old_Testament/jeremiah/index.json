@@ -1,0 +1,3179 @@
+{
+  "book_id": 30,
+  "book_title": "تفسير سفر إرميا",
+  "testament": "Old Testament",
+  "chapters_count": 51,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الدعوة للخدمة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "سرّ الخصومة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الله يطلب عروسه"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "زينة العروس"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "سرّ التأديب"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "اقتراب التأديب"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "تقديس البيت الداخلي"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "شكلية في حفظ الشريعة"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "مرثاة على الجميع"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "العودة إلى الله"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "العهد المكسور"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "أعداء في الداخل"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "مثلا المنطقة والزق الممتلئ خمرًا"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "التأديب بالقحط"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "الشفاعة المرفوضة"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "منعه من الزواج"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "خطايا يهوذا"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "مثل الفخاري"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "مَثَلْ الإناء الخزفي"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "مقاومة فشحور له"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "In Jer. hom. 1: 4."
+    },
+    {
+      "id": 2,
+      "text": "New Westminster Dict. of the Bible, p. 457."
+    },
+    {
+      "id": 3,
+      "text": "NI V Bible Study, p. 1115."
+    },
+    {
+      "id": 4,
+      "text": "John Bright: The Anchor Bible, Jeremiah, 1986 p. XXXVI."
+    },
+    {
+      "id": 5,
+      "text": "Boyd's Bible Handbook, 1983, p. 286."
+    },
+    {
+      "id": 6,
+      "text": "John Guest: The Communicator's Commentary, Jeremiah, Lamentations, 1986, p.18."
+    },
+    {
+      "id": 7,
+      "text": "Unger's Survey of the Bible, 1981, p. 191."
+    },
+    {
+      "id": 8,
+      "text": "Interpreter's Concise Commentary, vol. 4 The major Prophets, 1983, p. 18."
+    },
+    {
+      "id": 9,
+      "text": "Peak's Comm. On the Bible, London 1920, p. 475"
+    },
+    {
+      "id": 10,
+      "text": "Collegeville Bible Comm., 1989, p. 453."
+    },
+    {
+      "id": 11,
+      "text": "Henerietta Mears: What the Bible is all about, 1987, p. 198."
+    },
+    {
+      "id": 12,
+      "text": "Hallay's Bible Handbook, 1992, p. 309."
+    },
+    {
+      "id": 13,
+      "text": "William Holladay: Jeremiah 1, Philadelphia 1986, p. 4."
+    },
+    {
+      "id": 14,
+      "text": "In Jer. hom 1: 1."
+    },
+    {
+      "id": 15,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 16,
+      "text": "See A New Catholic Comm., p. 602."
+    },
+    {
+      "id": 17,
+      "text": "Collegeville, p. 456-7."
+    },
+    {
+      "id": 18,
+      "text": "Ibid., 454."
+    },
+    {
+      "id": 19,
+      "text": "Boyd's Bible Handbook, p. 286."
+    },
+    {
+      "id": 20,
+      "text": "Cf. J.A. Thompson: The Book of Jeremiah, Michigan 1981, p. 81f. (New International Comm. on the NT.)."
+    },
+    {
+      "id": 21,
+      "text": "J. Muilenburg: A Study in Hebrew Rhetoric: Repetition and Style, VI, Supplement I, Copenhagen 1953, p. 98 f."
+    },
+    {
+      "id": 22,
+      "text": "Lundbom: Patterns of Poetic Balance in the Book of Jeremiah, Chicago 1967, p. 69 (Research)."
+    },
+    {
+      "id": 23,
+      "text": "The Jerome Biblical Comm. , 1970, p. 304."
+    },
+    {
+      "id": 24,
+      "text": "Exposition of the Christian Faith."
+    },
+    {
+      "id": 25,
+      "text": "Ep. 24: 2."
+    },
+    {
+      "id": 26,
+      "text": "Lect. 12: 26."
+    },
+    {
+      "id": 27,
+      "text": "In Jer. hom. 1: 5 ترجمة جاكلين سمير كوستى"
+    },
+    {
+      "id": 28,
+      "text": "In Jer. hom 1: 11."
+    },
+    {
+      "id": 29,
+      "text": "J.A. Thompson, p.145."
+    },
+    {
+      "id": 30,
+      "text": "In Jer. hom 1: 8. ترجمة جاكلين سمير كوستى"
+    },
+    {
+      "id": 31,
+      "text": "Ibid 1: 10."
+    },
+    {
+      "id": 32,
+      "text": "The Collegerille Bible Comm., P. 458."
+    },
+    {
+      "id": 33,
+      "text": "De Sacerdotis 6: 4."
+    },
+    {
+      "id": 34,
+      "text": "Oration 1: 1."
+    },
+    {
+      "id": 35,
+      "text": "Pastoral Rule 1:1 7."
+    },
+    {
+      "id": 36,
+      "text": "Duties of Clergy 1: 17."
+    },
+    {
+      "id": 37,
+      "text": "In Jerm. hom. 1: 7."
+    },
+    {
+      "id": 38,
+      "text": "R. Davidson: Jeremiah, vol 1, Philadelplia, 1983 p.12."
+    },
+    {
+      "id": 39,
+      "text": "In Jerm. hom. 1: 13."
+    },
+    {
+      "id": 40,
+      "text": "Ibid."
+    },
+    {
+      "id": 41,
+      "text": "St. Cassian: Confer. 18: 13."
+    },
+    {
+      "id": 42,
+      "text": "In 1 Cor. Hom. 19."
+    },
+    {
+      "id": 43,
+      "text": "الدسقولية ، باب 3."
+    },
+    {
+      "id": 44,
+      "text": "الحب الرعوي، 1965، ص 687."
+    },
+    {
+      "id": 45,
+      "text": "المرجع السابق، ص 700، 701."
+    },
+    {
+      "id": 46,
+      "text": "المرجع السابق، ص 689."
+    },
+    {
+      "id": 47,
+      "text": "In Jerm. hom 1: 14."
+    },
+    {
+      "id": 48,
+      "text": "On Ps. 51: 11."
+    },
+    {
+      "id": 49,
+      "text": "Conf. 14: 3."
+    },
+    {
+      "id": 50,
+      "text": "Cat. Myst. 2: 4."
+    },
+    {
+      "id": 51,
+      "text": "Oratione 40: 4."
+    },
+    {
+      "id": 52,
+      "text": "Adv. Luc. F. 6."
+    },
+    {
+      "id": 53,
+      "text": "In Jer. hom. 1: 6."
+    },
+    {
+      "id": 54,
+      "text": "In Jer. hom. 1: 7."
+    },
+    {
+      "id": 55,
+      "text": "In Jer. 1: 14."
+    },
+    {
+      "id": 56,
+      "text": "In Jer. hom. 1: 15."
+    },
+    {
+      "id": 57,
+      "text": "Ibid 1: 16."
+    },
+    {
+      "id": 58,
+      "text": "كلمة \"غنوسي\" مأخوذة عن اليونانية، وتعني \"صاحب معرفة\". للتعرف على البدع الغنوسية راجع كتابنا: آباء مدرسة الإسكندرية الأولون، 1980 ."
+    },
+    {
+      "id": 59,
+      "text": "المرجع السابق، ص 160."
+    },
+    {
+      "id": 60,
+      "text": "In Exod. hom. 9: 4."
+    },
+    {
+      "id": 61,
+      "text": "cf. Thompson, p. 154."
+    },
+    {
+      "id": 62,
+      "text": "On Ps. hom. 34"
+    },
+    {
+      "id": 63,
+      "text": "يرى بعض الدارسين أن النبي يتحدث في هذه الأصحاحات عن غزو السكيثيين ليهوذا، بينما يرى آخرون أنه يتحدث عن الكلدانيين."
+    },
+    {
+      "id": 64,
+      "text": "Robert Davidson: Jeremiah, vol 1, Philadelphia 1983, 21-23."
+    },
+    {
+      "id": 65,
+      "text": "John Guest: The Comunicator's Commnentary, Jeremiah, p.35."
+    },
+    {
+      "id": 66,
+      "text": "In Til. hom. 3."
+    },
+    {
+      "id": 67,
+      "text": "Adv. Haer., 3: 24: 1."
+    },
+    {
+      "id": 68,
+      "text": "Unity of the Church, 11."
+    },
+    {
+      "id": 69,
+      "text": "Ep 69: 1 (Oxford 70: 1)."
+    },
+    {
+      "id": 70,
+      "text": "On Ps. hom. 25."
+    },
+    {
+      "id": 71,
+      "text": "Of the Holy Spirit, 1: 7."
+    },
+    {
+      "id": 72,
+      "text": "Duties of the Clergy, 3: 18."
+    },
+    {
+      "id": 73,
+      "text": "In Ps. hom., 92."
+    },
+    {
+      "id": 74,
+      "text": "Ambrose: Flight from the world, 9: 52."
+    },
+    {
+      "id": 75,
+      "text": "Sermon 103: 2."
+    },
+    {
+      "id": 76,
+      "text": "Isaac or the soul, 1: 1."
+    },
+    {
+      "id": 77,
+      "text": "In Num. hom.12."
+    },
+    {
+      "id": 78,
+      "text": "Ep. 108: 14."
+    },
+    {
+      "id": 79,
+      "text": "Paschal Letter 7."
+    },
+    {
+      "id": 80,
+      "text": "Cassian: Conf. 23: 9."
+    },
+    {
+      "id": 81,
+      "text": "In Gen. hom. 2: 6."
+    },
+    {
+      "id": 82,
+      "text": "In Jer. hom., 2: 1."
+    },
+    {
+      "id": 83,
+      "text": "On Ps. 56."
+    },
+    {
+      "id": 84,
+      "text": "On John, tr 80: 1; In Ps.80."
+    },
+    {
+      "id": 85,
+      "text": "Cat. Lect. 13: 29."
+    },
+    {
+      "id": 86,
+      "text": "In Rom. hom. 14."
+    },
+    {
+      "id": 87,
+      "text": "In Jer. hom 2."
+    },
+    {
+      "id": 88,
+      "text": "Ibid 3 (modified)."
+    },
+    {
+      "id": 89,
+      "text": "In Jer. hom. 3."
+    },
+    {
+      "id": 90,
+      "text": "Source Christienne."
+    },
+    {
+      "id": 91,
+      "text": "Banquet of 10 Virgins 4: 6."
+    },
+    {
+      "id": 92,
+      "text": "In Exod. hom. 8: 5."
+    },
+    {
+      "id": 93,
+      "text": "Banquet of Ten Virgins 6: 1."
+    },
+    {
+      "id": 94,
+      "text": "In Hebr. hom. 15: 7."
+    },
+    {
+      "id": 95,
+      "text": "In Joan. hom. 74: 1."
+    },
+    {
+      "id": 96,
+      "text": "In Jer. hom. 4: 1."
+    },
+    {
+      "id": 97,
+      "text": "In Jer. hom. 4."
+    },
+    {
+      "id": 98,
+      "text": "Ibid 4: 2-6."
+    },
+    {
+      "id": 99,
+      "text": "Ep. to Theodore 1: 15."
+    },
+    {
+      "id": 100,
+      "text": "In Matt. hom. 67: 4."
+    },
+    {
+      "id": 101,
+      "text": "Ibid 3: 5."
+    },
+    {
+      "id": 102,
+      "text": "Against Pelagians: Prologue."
+    },
+    {
+      "id": 103,
+      "text": "للمؤلف: الحب الرعوي، 1965، ص 308."
+    },
+    {
+      "id": 104,
+      "text": "راجع: القديس كبريانوس: التوبة، ترجمة القمص تادرس يعقوب ملطى."
+    },
+    {
+      "id": 105,
+      "text": "Ep. 41: 3."
+    },
+    {
+      "id": 106,
+      "text": "In Jer. hom. 5: 1,2."
+    },
+    {
+      "id": 107,
+      "text": "جاء في (2 مك 2: 5) أن إرميا النبي خبأ تابوت العهد والمذبح في كهف لدى تدمير المدينة والهيكل."
+    },
+    {
+      "id": 108,
+      "text": "See In Jer. hom. 5: 3."
+    },
+    {
+      "id": 109,
+      "text": "In Jer. hom. 5: 5."
+    },
+    {
+      "id": 110,
+      "text": "Ibid 5: 6."
+    },
+    {
+      "id": 111,
+      "text": "Ibid 5: 7."
+    },
+    {
+      "id": 112,
+      "text": "Ibid 5: 8, 9."
+    },
+    {
+      "id": 113,
+      "text": "Ibid 10."
+    },
+    {
+      "id": 114,
+      "text": "Resisting the Temptation of the Deirl, hom. 2: 6."
+    },
+    {
+      "id": 115,
+      "text": "In 1 Cor., hom. 11."
+    },
+    {
+      "id": 116,
+      "text": "In Ps. 50 ."
+    },
+    {
+      "id": 117,
+      "text": "Cassian: Confer. 13:8."
+    },
+    {
+      "id": 118,
+      "text": "In Jer. hom. 5:11."
+    },
+    {
+      "id": 119,
+      "text": "Ibid 5:12."
+    },
+    {
+      "id": 120,
+      "text": "In Jerm.hom. 5:12."
+    },
+    {
+      "id": 121,
+      "text": "Sermons on N.T, hom. 23:3."
+    },
+    {
+      "id": 122,
+      "text": "On Statues 4:2."
+    },
+    {
+      "id": 123,
+      "text": "In Jer. hom.. 5:13."
+    },
+    {
+      "id": 124,
+      "text": "Paschal Letter, 3."
+    },
+    {
+      "id": 125,
+      "text": "Of the Work of Monks 12."
+    },
+    {
+      "id": 126,
+      "text": "In Jer. hom. 5:14."
+    },
+    {
+      "id": 127,
+      "text": "Ibid 5:14."
+    },
+    {
+      "id": 128,
+      "text": "In Jer. hom.5."
+    },
+    {
+      "id": 129,
+      "text": "Ibid."
+    },
+    {
+      "id": 130,
+      "text": "Cassian: Conf. 13:9."
+    },
+    {
+      "id": 131,
+      "text": "Ibid 7:5."
+    },
+    {
+      "id": 132,
+      "text": "In Joan Hom., 13:3."
+    },
+    {
+      "id": 133,
+      "text": "In John. hom. 73:3."
+    },
+    {
+      "id": 134,
+      "text": "Stromata 6:8."
+    },
+    {
+      "id": 135,
+      "text": "Ibid."
+    },
+    {
+      "id": 136,
+      "text": "Ibid. 7:1."
+    },
+    {
+      "id": 137,
+      "text": "In Jer. hom. 6:1."
+    },
+    {
+      "id": 138,
+      "text": "Ibid 6:2."
+    },
+    {
+      "id": 139,
+      "text": "Ibid."
+    },
+    {
+      "id": 140,
+      "text": "Ibid 6."
+    },
+    {
+      "id": 141,
+      "text": "Ibid 6:3."
+    },
+    {
+      "id": 142,
+      "text": "Ibid 6:3."
+    },
+    {
+      "id": 143,
+      "text": "In Gen. hom. 5:4."
+    },
+    {
+      "id": 144,
+      "text": "Paschal Letter, 2."
+    },
+    {
+      "id": 145,
+      "text": "In Jer. hom. 7:1."
+    },
+    {
+      "id": 146,
+      "text": "In Jer. hom. 7:1, 2."
+    },
+    {
+      "id": 147,
+      "text": "In Exod. hom. 13:4."
+    },
+    {
+      "id": 148,
+      "text": "Ibid 7:3."
+    },
+    {
+      "id": 149,
+      "text": "Adv. Haer. 3: 19:1."
+    },
+    {
+      "id": 150,
+      "text": "In Exod. hom. 8:6."
+    },
+    {
+      "id": 151,
+      "text": "In Gen. hom. 3:5."
+    },
+    {
+      "id": 152,
+      "text": "St. Jerome, On Ps, hom. 42."
+    },
+    {
+      "id": 153,
+      "text": "St. Jerome, Ep 54:11."
+    },
+    {
+      "id": 154,
+      "text": "Paschal Letters, 2."
+    },
+    {
+      "id": 155,
+      "text": "مناظرات كاسيان 11:6 ."
+    },
+    {
+      "id": 156,
+      "text": "Cf. John Guest: The Communicator's Commentary, vol. 17, Texas 1988, p. 72-3."
+    },
+    {
+      "id": 157,
+      "text": "St.Jerome: Epistle 58:3."
+    },
+    {
+      "id": 158,
+      "text": "St. John Chrysostom: Conc. Stat. 17:11."
+    },
+    {
+      "id": 159,
+      "text": "In Matt. hom. 5:7, 8."
+    },
+    {
+      "id": 160,
+      "text": "In 2 Thess, hom. 5."
+    },
+    {
+      "id": 161,
+      "text": "In 1 Cor. hom. 8:8."
+    },
+    {
+      "id": 162,
+      "text": "Paschal Letters, 12."
+    },
+    {
+      "id": 163,
+      "text": "Ibid."
+    },
+    {
+      "id": 164,
+      "text": "On Prayer, 8:3."
+    },
+    {
+      "id": 165,
+      "text": "Epis. of Barnabas, 2."
+    },
+    {
+      "id": 166,
+      "text": "St. John Chrysostom. In 1 Cor., hom. 8:8."
+    },
+    {
+      "id": 167,
+      "text": "cf. The New International Comm. on the Old Testament, The Book of Jeremiah, michigan 1981, p.293."
+    },
+    {
+      "id": 168,
+      "text": "Paschal Letters, 2, 3."
+    },
+    {
+      "id": 169,
+      "text": "Paschal Letters, 2."
+    },
+    {
+      "id": 170,
+      "text": "The New Bible Commentary, Michigan 1970, p. 634."
+    },
+    {
+      "id": 171,
+      "text": "The Old Testament Library: Jeremiah, by Robert P. Carrol, Philadelphia 1986, p. 225; William L. Holladay: Jeremiah 1, Philadelphia 1986, p. 271."
+    },
+    {
+      "id": 172,
+      "text": "cf. New International Commentary on the Old Testament, Jeremiah, p. 300."
+    },
+    {
+      "id": 173,
+      "text": "للمؤلف: مناظرات يوحنا كاسيان ، طبعة 1967، ص 315."
+    },
+    {
+      "id": 174,
+      "text": "St Chrys. On Exhort to Theodore 1:7."
+    },
+    {
+      "id": 175,
+      "text": "On Matt. hom., 26:7."
+    },
+    {
+      "id": 176,
+      "text": "In 1 Cor 23:6."
+    },
+    {
+      "id": 177,
+      "text": "In 1 Cor. hom. 23."
+    },
+    {
+      "id": 178,
+      "text": "Letters to the Fallen Theodore, 1:7."
+    },
+    {
+      "id": 179,
+      "text": "Ep 44:1."
+    },
+    {
+      "id": 180,
+      "text": "Cassian: Cof. 13:7."
+    },
+    {
+      "id": 181,
+      "text": "Tert. On Repentance 8."
+    },
+    {
+      "id": 182,
+      "text": "للمؤلف: الحب الإلهي، ص 730 إلخ."
+    },
+    {
+      "id": 183,
+      "text": "Concerning Statues 12:6."
+    },
+    {
+      "id": 184,
+      "text": "The New Bible Commentary, p. 634."
+    },
+    {
+      "id": 185,
+      "text": "اشتهرت جلعاد شرقي نهو الأردن بالبلسم الذي يستخدم كدواء (تك 25:37)."
+    },
+    {
+      "id": 186,
+      "text": "Ep. 46:5."
+    },
+    {
+      "id": 187,
+      "text": "St. Basil. Ep 243:4."
+    },
+    {
+      "id": 188,
+      "text": "St. Chrysostom: An Exh. to Theodore 1:1."
+    },
+    {
+      "id": 189,
+      "text": "Ep 122:2."
+    },
+    {
+      "id": 190,
+      "text": "Poem 31:407."
+    },
+    {
+      "id": 191,
+      "text": "John Guest: The Communicator's Connentary p.88."
+    },
+    {
+      "id": 192,
+      "text": "cf. R.C. Clements: Jeremiah, 1988, p.60."
+    },
+    {
+      "id": 193,
+      "text": "Paschal Letters 9."
+    },
+    {
+      "id": 194,
+      "text": "Pastoral Rule 3:11."
+    },
+    {
+      "id": 195,
+      "text": "Cassian: Conferences, 23:1."
+    },
+    {
+      "id": 196,
+      "text": "Ibid 16:18."
+    },
+    {
+      "id": 197,
+      "text": "In Eph. hom. 14."
+    },
+    {
+      "id": 198,
+      "text": "The Ascetic Homiles, 48."
+    },
+    {
+      "id": 199,
+      "text": "Ibid."
+    },
+    {
+      "id": 200,
+      "text": "In Loc. PL 24:744."
+    },
+    {
+      "id": 201,
+      "text": "On Psalm 122."
+    },
+    {
+      "id": 202,
+      "text": "St. John Chrysostom: Concerning Statues, 2."
+    },
+    {
+      "id": 203,
+      "text": "St. Jerome: On Psalms, hom., 51."
+    },
+    {
+      "id": 204,
+      "text": "St. Jerome: Epistle 22:26."
+    },
+    {
+      "id": 205,
+      "text": "Epistle 22:6."
+    },
+    {
+      "id": 206,
+      "text": "St. Gregory Naz.: Preliminary Disc. against Eunomious, 7"
+    },
+    {
+      "id": 207,
+      "text": "In Gen. hom. 3:2."
+    },
+    {
+      "id": 208,
+      "text": "ترشيش: هذا الاسم غالبًا مشتق من كلمة \"رشش\"، وُجدت في اللغة الأكادية مرتبطة بالمعادن البراقة ومنتجات المناجم، لهذا اشتهر هذا الاسم بمعنى تكرير المعادن."
+    },
+    {
+      "id": 209,
+      "text": "يرى العلامة أوريجينوس أن كلمة ترشيش تعني بحرًا أو تأملًا في الفرح أو جمالًا، وقد أراد يونان النبي أن ينزل إليها، أي إلى بحر حكمته البشرية وجمالها والفرح بها عوض الطاعة للوصية الإلهية الصعبة الخاصة بخلاص أهل نينوى ( راجع كتابنا عن سفر يونان )."
+    },
+    {
+      "id": 210,
+      "text": "شعب ترشيش جاء عن ياوان (تك 10: 4)، وُيعتقد أنها ترتيسوس الواقعة في جنوب أسبانيا قرب جبل طارق، ولعلها هي قرطاجنة المدينة الواقعة شمال غرب أفريقيا. كانت غنية جدًا بالمعادن كالفضة المطرقة، والمصنوعة ألواحًا (إر 10: 9) والحديد والقصدير والرصاص. إن كانت شبا وددان تمثلان التجارة في الشرق، فإن ترشيش تمثل التجارة في الغرب، لهذا جاء في حزقيال النبي: \"شبا وددان وتجار ترشيش وكل أشبالها يقولون لك: هل لسلبِ سلبٍ أنتَ جاءٍ؟! هل لغنم غنيمةٍ جمعت جماعتك لحمل الفضة والذهب؟! لأخذ الماشية والقنية لنهب نهبٍ عظيمٍ؟!\" (38: 13)."
+    },
+    {
+      "id": 211,
+      "text": "Cat. Lect., 3:5."
+    },
+    {
+      "id": 212,
+      "text": "De Baptismo, 2."
+    },
+    {
+      "id": 213,
+      "text": "ميمر عن المعمودية."
+    },
+    {
+      "id": 214,
+      "text": "أي أن موطن النفس كان في اللَّه، ثم بسقوطها جاءت في جسد الفساد."
+    },
+    {
+      "id": 215,
+      "text": "\"السماء المنبسطة\" بين الخير والشر تتمثل في كلمات الحكمة التي تمكن الإنسان من التمييز بين الخير والشر."
+    },
+    {
+      "id": 216,
+      "text": "In Jer. hom. 8:1,2."
+    },
+    {
+      "id": 217,
+      "text": "In Jer. hom. 8:3,4."
+    },
+    {
+      "id": 218,
+      "text": "جاء في الرسالة الأولى والثانية إلى أهل تسالونيكي: \"بولس وسلوانس وتيموثاوس إلى كنيسة التسالونيكيين\"."
+    },
+    {
+      "id": 219,
+      "text": "يرى العلامة أوريجينوس أن الحياة السماوية سوف تحمل درجات بحسب استحقاق كل واحد ومشاركته للسيد المسيح، وسيكون هناك تقدم مستمر من درجة إلى أخرى."
+    },
+    {
+      "id": 220,
+      "text": "Ibid 8:4-6."
+    },
+    {
+      "id": 221,
+      "text": "Ibid 8:7."
+    },
+    {
+      "id": 222,
+      "text": "Ibid."
+    },
+    {
+      "id": 223,
+      "text": "R.E. Clements: Jeremiah, Atlanta 1988, p.73."
+    },
+    {
+      "id": 224,
+      "text": "Ibid 73-75."
+    },
+    {
+      "id": 225,
+      "text": "In Jer. hom. 9: 1, 2."
+    },
+    {
+      "id": 226,
+      "text": "St. John Chrysostom: In Gal. ch. 3."
+    },
+    {
+      "id": 227,
+      "text": "Four Discources Against the Arians, 2: 4; Epist. 59 ad Epictetum; De Synodis, 45."
+    },
+    {
+      "id": 228,
+      "text": "Of the Christian Faith, 5, 14, 178."
+    },
+    {
+      "id": 229,
+      "text": "نحن نعلم أن \"مصر\" تمثل بالنسبة لأوريجينوس \"هذا العالم\" أو \"الحياة المظلمة في هذا العالم\"."
+    },
+    {
+      "id": 230,
+      "text": "In Jer. hom. 9: 2."
+    },
+    {
+      "id": 231,
+      "text": "تسبحة الثلاثة فتية 27 ."
+    },
+    {
+      "id": 232,
+      "text": "On Prayer, 3,: 14."
+    },
+    {
+      "id": 233,
+      "text": "In Jer. hom. 9: 2,3."
+    },
+    {
+      "id": 234,
+      "text": "Ibid 9: 4."
+    },
+    {
+      "id": 235,
+      "text": "In hom. hom 14."
+    },
+    {
+      "id": 236,
+      "text": "cf. William Holladay: Jeremiah, vol. 1, p. 358 ff."
+    },
+    {
+      "id": 237,
+      "text": "In Jer. hom. 10: 1"
+    },
+    {
+      "id": 238,
+      "text": "cf. William Holladay: Jeremiah, vol. 1, p. 372."
+    },
+    {
+      "id": 239,
+      "text": "In Jer. hom. 10: 1"
+    },
+    {
+      "id": 240,
+      "text": "Ibid 10: 2."
+    },
+    {
+      "id": 241,
+      "text": "Ibid 10: 3."
+    },
+    {
+      "id": 242,
+      "text": "On Prayer, 8: 2."
+    },
+    {
+      "id": 243,
+      "text": "In Jer. hom. 10: 4,5."
+    },
+    {
+      "id": 244,
+      "text": "In Jer. hom. 10: 5."
+    },
+    {
+      "id": 245,
+      "text": "In Jer. hom. 10: 6."
+    },
+    {
+      "id": 246,
+      "text": "In Jer. hom. 10: 7."
+    },
+    {
+      "id": 247,
+      "text": "In Jer. hom. 10: 8."
+    },
+    {
+      "id": 248,
+      "text": "In Jer. hom. 11: 1,2."
+    },
+    {
+      "id": 249,
+      "text": "In Jer. hom. 11: 3."
+    },
+    {
+      "id": 250,
+      "text": "William L Holladay: Jeremiah, vol. 1, p. 396."
+    },
+    {
+      "id": 251,
+      "text": "cf. J.A. Thompson: The Book of Jeremiah, Michgan 1981, p. 364-5."
+    },
+    {
+      "id": 252,
+      "text": "J. Bright: Jeremiah, N.Y. 1986, p. 94."
+    },
+    {
+      "id": 253,
+      "text": "Serm. on N. T. 28:2."
+    },
+    {
+      "id": 254,
+      "text": "In Matt. hom. 56:2."
+    },
+    {
+      "id": 255,
+      "text": "On Ps. hom 45."
+    },
+    {
+      "id": 256,
+      "text": "St. Jerome: On Ps. hom. 26. (see Com. on Jer. PL 24:769; Epist. 7:3 PL 22:340."
+    },
+    {
+      "id": 257,
+      "text": "In Jer. hom. 11:5."
+    },
+    {
+      "id": 258,
+      "text": "Simil. 9:16."
+    },
+    {
+      "id": 259,
+      "text": "De Baptismo 1."
+    },
+    {
+      "id": 260,
+      "text": "Ep. 1 ad Serap. 4."
+    },
+    {
+      "id": 261,
+      "text": "Adv. Eunom. 5."
+    },
+    {
+      "id": 262,
+      "text": "J. Bright: Jeremiah, N.Y. 1986, p. 94."
+    },
+    {
+      "id": 263,
+      "text": "Holladay, p.397."
+    },
+    {
+      "id": 264,
+      "text": "R. K. Harrison: Jeremiah and Lemantations (The Tyndale Old Testament Comm.), 1973, p. 99."
+    },
+    {
+      "id": 265,
+      "text": "cf. Thompson, p. 366."
+    },
+    {
+      "id": 266,
+      "text": "In Jer. hom. 12:1,2."
+    },
+    {
+      "id": 267,
+      "text": "Celements: Jeremiah, p. 86."
+    },
+    {
+      "id": 268,
+      "text": "In Jerem. 12:3,4."
+    },
+    {
+      "id": 269,
+      "text": "Ibid 12:5,6."
+    },
+    {
+      "id": 270,
+      "text": "In Jerem. 12:7,8."
+    },
+    {
+      "id": 271,
+      "text": "Ibid 12:9-12."
+    },
+    {
+      "id": 272,
+      "text": "In Num. hom. 15."
+    },
+    {
+      "id": 273,
+      "text": "In Jer. hom. 12:9-12."
+    },
+    {
+      "id": 274,
+      "text": "In Num. hom. 12."
+    },
+    {
+      "id": 275,
+      "text": "In Jer. hom. 12:13."
+    },
+    {
+      "id": 276,
+      "text": "In Exod. hom. 12:3."
+    },
+    {
+      "id": 277,
+      "text": "Holladay, p. 410."
+    },
+    {
+      "id": 278,
+      "text": "Holladay, p. 409."
+    },
+    {
+      "id": 279,
+      "text": "On Ps. hom. 3."
+    },
+    {
+      "id": 280,
+      "text": "John Guest: Jeremiah, p. 116-7."
+    },
+    {
+      "id": 281,
+      "text": "J. Bright: Jeremiah, 1965, p. 95."
+    },
+    {
+      "id": 282,
+      "text": "cf. John Bright: Jeremiah (The Anchor Bible, vol. 23), p. 102; Thompson: Jeremiah, p. 379."
+    },
+    {
+      "id": 283,
+      "text": "راجع كتابنا: حزقيال، 1993 ، تفسير الأصحاح 47 ، ص 426."
+    },
+    {
+      "id": 284,
+      "text": "Holladay: Jeremiah, vol.1, p. 431."
+    },
+    {
+      "id": 285,
+      "text": "PG 46:416 c."
+    },
+    {
+      "id": 286,
+      "text": "In Col. hom.6."
+    },
+    {
+      "id": 287,
+      "text": "In 1 Cor. hom., 7:2."
+    },
+    {
+      "id": 288,
+      "text": "In Matt. hom. 12:1."
+    },
+    {
+      "id": 289,
+      "text": "John Bright: Jeremiah, p. 101."
+    },
+    {
+      "id": 290,
+      "text": "St. Cassian: Conf. 21:14."
+    },
+    {
+      "id": 291,
+      "text": "Holladay, p. 634-5."
+    },
+    {
+      "id": 292,
+      "text": "Holladay, Jeremiah, vol.1, Philadelphia 1986, p. 439."
+    },
+    {
+      "id": 293,
+      "text": "Thompson: The Book of Jeremiah, p. 387."
+    },
+    {
+      "id": 294,
+      "text": "On Ps 49 ."
+    },
+    {
+      "id": 295,
+      "text": "On Ps 48, no. 4."
+    },
+    {
+      "id": 296,
+      "text": "On Lazarus and the Rich Man, Sermon 3."
+    },
+    {
+      "id": 297,
+      "text": "Ibid 4."
+    },
+    {
+      "id": 298,
+      "text": "On Prayer, 13:2."
+    },
+    {
+      "id": 299,
+      "text": "المؤلف: الحب الإلهي، الإسكندرية 1967، ص 43."
+    },
+    {
+      "id": 300,
+      "text": "R.E. Clements: Jeremiah, Atlanta 1988, p. 95."
+    },
+    {
+      "id": 301,
+      "text": "يتم هذا في المعمودية حيث تتخلص النفس من القوات الشريرة."
+    },
+    {
+      "id": 302,
+      "text": "In Jer. hom. 13:1,2."
+    },
+    {
+      "id": 303,
+      "text": "In Jer. hom. 13:3."
+    },
+    {
+      "id": 304,
+      "text": "In Jer. hom. 14:5."
+    },
+    {
+      "id": 305,
+      "text": "In Jer. hom. 14:1."
+    },
+    {
+      "id": 306,
+      "text": "In Jer. hom. 14:5."
+    },
+    {
+      "id": 307,
+      "text": "In Jer. hom. 14:1."
+    },
+    {
+      "id": 308,
+      "text": "In Jer. hom. 14:3, 4."
+    },
+    {
+      "id": 309,
+      "text": "In Jer. hom. 15:1-3."
+    },
+    {
+      "id": 310,
+      "text": "In Jer. hom. 14:6."
+    },
+    {
+      "id": 311,
+      "text": "In Jer. hom. 15:1-3."
+    },
+    {
+      "id": 312,
+      "text": "In Jer. hom.14:7."
+    },
+    {
+      "id": 313,
+      "text": "In Jer. hom. 14:8."
+    },
+    {
+      "id": 314,
+      "text": "In Jer. hom. 14:9,10."
+    },
+    {
+      "id": 315,
+      "text": "In Jer. hom. 14:11."
+    },
+    {
+      "id": 316,
+      "text": "In Jer. hom. 14:12,13."
+    },
+    {
+      "id": 317,
+      "text": "John Guest: Jeremiah, p 129."
+    },
+    {
+      "id": 318,
+      "text": "In Jer. hom. 14:14."
+    },
+    {
+      "id": 319,
+      "text": "In Jer. hom. 14:15."
+    },
+    {
+      "id": 320,
+      "text": "In Jer. hom. 14:16."
+    },
+    {
+      "id": 321,
+      "text": "In Jer. hom. 14:16."
+    },
+    {
+      "id": 322,
+      "text": "In Jer. hom. 14:17."
+    },
+    {
+      "id": 12,
+      "text": "المؤلف: الحب الرعوي ص 473، 474."
+    },
+    {
+      "id": 13,
+      "text": "In Jer. hom. 14:18."
+    },
+    {
+      "id": 14,
+      "text": "In Jer. hom. 14:18."
+    },
+    {
+      "id": 15,
+      "text": "In Gen. PG 53:36 D - 37A."
+    },
+    {
+      "id": 16,
+      "text": "In Matt. PG 58:715 A-B."
+    },
+    {
+      "id": 17,
+      "text": "The Sixth Instruction, 19."
+    },
+    {
+      "id": 18,
+      "text": "In 1 Cor. hom. 3:9."
+    },
+    {
+      "id": 19,
+      "text": "In Acts. hom. 18."
+    },
+    {
+      "id": 20,
+      "text": "In Matt. hom. 78:3."
+    },
+    {
+      "id": 21,
+      "text": "Journal of Biblical Literature 85, 401-435."
+    },
+    {
+      "id": 22,
+      "text": "Thomposon, Jeremiah, p. 404."
+    },
+    {
+      "id": 23,
+      "text": "Holladay, p. 469."
+    },
+    {
+      "id": 24,
+      "text": "المؤلف: حزقيال، 1993 ، ص 248-249."
+    },
+    {
+      "id": 25,
+      "text": "للمؤلف: إشعياء 1990 ، ص 120."
+    },
+    {
+      "id": 26,
+      "text": "St. Jerome: Ep. 22:20, 21."
+    },
+    {
+      "id": 27,
+      "text": "Thompson, p. 404."
+    },
+    {
+      "id": 28,
+      "text": "Holladay, p. 470."
+    },
+    {
+      "id": 29,
+      "text": "Ibid."
+    },
+    {
+      "id": 30,
+      "text": "Thompson, p. 405."
+    },
+    {
+      "id": 31,
+      "text": "De Vaux: Ancient Israel, p. 59-60; Holladay, p. 471."
+    },
+    {
+      "id": 32,
+      "text": "Thomposon, p. 408."
+    },
+    {
+      "id": 33,
+      "text": "In Jer. hom. 16:1."
+    },
+    {
+      "id": 34,
+      "text": "In Jer. hom. 16:2."
+    },
+    {
+      "id": 35,
+      "text": "In Jer. hom. 16:3-4."
+    },
+    {
+      "id": 36,
+      "text": "Thomposon, p. 411."
+    },
+    {
+      "id": 37,
+      "text": "In Jer. hom. 16:5."
+    },
+    {
+      "id": 38,
+      "text": "St. Aug. harm. of gospels 1:26."
+    },
+    {
+      "id": 39,
+      "text": "In Jer. hom. 16:8."
+    },
+    {
+      "id": 40,
+      "text": "In Jer. hom. 16 9."
+    },
+    {
+      "id": 41,
+      "text": "In Jer. hom. 16:10."
+    },
+    {
+      "id": 42,
+      "text": "Holladay: Jeremiah, vol. 1, p. 495."
+    },
+    {
+      "id": 43,
+      "text": "Holladay, p. 487-8."
+    },
+    {
+      "id": 44,
+      "text": "R.E. Clements: Interpretation, Jeremiah, Atlanta 1988, p.104."
+    },
+    {
+      "id": 45,
+      "text": "In Gen. hom. 2:3."
+    },
+    {
+      "id": 46,
+      "text": "Sermons on New Testaments Lessons, 46:2."
+    },
+    {
+      "id": 47,
+      "text": "In Jer. hom 15:5."
+    },
+    {
+      "id": 48,
+      "text": "On Continence, 10."
+    },
+    {
+      "id": 49,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 50,
+      "text": "City of God, 15:18."
+    },
+    {
+      "id": 51,
+      "text": "On Christian Doctrine, 1:22."
+    },
+    {
+      "id": 52,
+      "text": "Enchiridion 114."
+    },
+    {
+      "id": 53,
+      "text": "On the Lapsed, 17."
+    },
+    {
+      "id": 54,
+      "text": "Holladay: Jeremiah, vol. 1, p. 495."
+    },
+    {
+      "id": 55,
+      "text": "R.E. Clements, Jeremiah, p. 107."
+    },
+    {
+      "id": 56,
+      "text": "On Matt. hom. 29:2."
+    },
+    {
+      "id": 57,
+      "text": "In Matt. hom. 29:2."
+    },
+    {
+      "id": 58,
+      "text": "Paschal Letters, 6."
+    },
+    {
+      "id": 59,
+      "text": "قاموس الكتاب المقدس : (مجمع الكنائس في الشرق الأدنى)، ص 293،294 ."
+    },
+    {
+      "id": 60,
+      "text": "Holladay, p. 498-9."
+    },
+    {
+      "id": 61,
+      "text": "Cf. St. Hyppolutus: Treatise on Antichrist, 55."
+    },
+    {
+      "id": 62,
+      "text": "Against Eunomius, 12:1."
+    },
+    {
+      "id": 63,
+      "text": "In Exod. 1:5."
+    },
+    {
+      "id": 64,
+      "text": "In Jer. hom. 17."
+    },
+    {
+      "id": 65,
+      "text": "الحيوانات (أوريجينوس)."
+    },
+    {
+      "id": 66,
+      "text": "In Jer. hom 17:1."
+    },
+    {
+      "id": 67,
+      "text": "In Jer. hom. 17:2."
+    },
+    {
+      "id": 68,
+      "text": "In Jer. hom. 17."
+    },
+    {
+      "id": 69,
+      "text": "In Jer.hom. 17:3."
+    },
+    {
+      "id": 70,
+      "text": "In Jer. hom. 17:4."
+    },
+    {
+      "id": 71,
+      "text": "In Jer. hom 17:4."
+    },
+    {
+      "id": 72,
+      "text": "In Jer. hom.17."
+    },
+    {
+      "id": 73,
+      "text": "In Jer. hom. 17:5."
+    },
+    {
+      "id": 74,
+      "text": "Sermons on New Testaments Lessons, 11:2."
+    },
+    {
+      "id": 75,
+      "text": "In Jer. hom. 17:6."
+    },
+    {
+      "id": 76,
+      "text": "In Matt. hom. 11."
+    },
+    {
+      "id": 77,
+      "text": "On Ps. hom. 2."
+    },
+    {
+      "id": 78,
+      "text": "In Jer. hom. 17:6."
+    },
+    {
+      "id": 79,
+      "text": "St. John Cassian: Conferences."
+    },
+    {
+      "id": 80,
+      "text": "Ibid."
+    },
+    {
+      "id": 81,
+      "text": "Holladay, p. 510."
+    },
+    {
+      "id": 82,
+      "text": "رسالة برناباس 15: 6-7."
+    },
+    {
+      "id": 83,
+      "text": "De Principiis 4:3:2."
+    },
+    {
+      "id": 84,
+      "text": "City of God, 22:30."
+    },
+    {
+      "id": 85,
+      "text": "للمؤلف: المسيح في سر الأفخارستيا، 1973 ، ص225 ."
+    },
+    {
+      "id": 86,
+      "text": "On Ps. hom. 21."
+    },
+    {
+      "id": 87,
+      "text": "In Jer. hom. 18:2."
+    },
+    {
+      "id": 88,
+      "text": "In Jer. hom. 18:1."
+    },
+    {
+      "id": 89,
+      "text": "In Jer. hom. 18:3."
+    },
+    {
+      "id": 90,
+      "text": "Cassian: Confer. 4:5."
+    },
+    {
+      "id": 91,
+      "text": "Methoduis: Banquet of 10 Virgins, 3:5."
+    },
+    {
+      "id": 92,
+      "text": "On Resurrection, 1:6."
+    },
+    {
+      "id": 93,
+      "text": "Instructions to Catechumens, 4."
+    },
+    {
+      "id": 94,
+      "text": "In Jer. hom. 18:4."
+    },
+    {
+      "id": 95,
+      "text": "In Jer. hom. 18:5."
+    },
+    {
+      "id": 96,
+      "text": "Conc. Statues hom. 5:16."
+    },
+    {
+      "id": 97,
+      "text": "In Jer. hom. 18:6."
+    },
+    {
+      "id": 98,
+      "text": "De verb Habents."
+    },
+    {
+      "id": 99,
+      "text": "De mut. nom. PG 51:143."
+    },
+    {
+      "id": 100,
+      "text": "Ad pop. PG 49:66,67."
+    },
+    {
+      "id": 101,
+      "text": "On the Statues, hom. 5:16."
+    },
+    {
+      "id": 102,
+      "text": "Tertulian: Adv. Marcion, 2:24."
+    },
+    {
+      "id": 103,
+      "text": "In Jer. hom. 18:8."
+    },
+    {
+      "id": 104,
+      "text": "In Jer. hom. 18:8."
+    },
+    {
+      "id": 105,
+      "text": "None can injure a man unless he injures himself, 2."
+    },
+    {
+      "id": 106,
+      "text": "Epistle 46:3."
+    },
+    {
+      "id": 107,
+      "text": "Holladay, Jeremiah, p. 523."
+    },
+    {
+      "id": 108,
+      "text": "Conc. Virgin. 1:5."
+    },
+    {
+      "id": 109,
+      "text": "In Jer. hom. 18:9."
+    },
+    {
+      "id": 110,
+      "text": "Cassian: Conference 2:24."
+    },
+    {
+      "id": 111,
+      "text": "In Jer. hom. 18:10."
+    },
+    {
+      "id": 112,
+      "text": "Thompson, Jeremiah, p. 440."
+    },
+    {
+      "id": 113,
+      "text": "Thompson: Jeremiah, p. 448."
+    },
+    {
+      "id": 114,
+      "text": "The Ninth Instruction."
+    },
+    {
+      "id": 115,
+      "text": "John Guest: Jeremiah, p. 151."
+    },
+    {
+      "id": 116,
+      "text": "Holladay, Jeremiah, vol. 1, p. 539."
+    },
+    {
+      "id": 117,
+      "text": "Josephus: Wars of the Jews 6:3-4."
+    },
+    {
+      "id": 118,
+      "text": "Thompson, p. 452; J.A. Wilson: The Culture of Ancient Egypt, 1951, p. 56-58."
+    },
+    {
+      "id": 119,
+      "text": "In Jer. hom. 19:12."
+    },
+    {
+      "id": 120,
+      "text": "أي أن الذين لا يأخذون من نبوات إرميا سوى الجانب الحرفي، يفعلون مثل فشحور الذي ألقى النبي في الجب السفلى."
+    },
+    {
+      "id": 121,
+      "text": "In Jer. hom. 19:13."
+    },
+    {
+      "id": 122,
+      "text": "Cf. Holladay: Jeremiah, p. 543-4."
+    },
+    {
+      "id": 123,
+      "text": "City of God 16:26."
+    },
+    {
+      "id": 124,
+      "text": "Paschal letters, 2:3."
+    },
+    {
+      "id": 125,
+      "text": "Thompson: Jeremiah, p. 455."
+    },
+    {
+      "id": 126,
+      "text": "Holladay, p. 552-3."
+    },
+    {
+      "id": 127,
+      "text": "St. Chrysostom: In Colos., hom. 4."
+    },
+    {
+      "id": 128,
+      "text": "Duties of the Clergy, 3:18."
+    },
+    {
+      "id": 129,
+      "text": "Paschal Letters, 3."
+    },
+    {
+      "id": 130,
+      "text": "Letter 18 b:2."
+    },
+    {
+      "id": 131,
+      "text": "Paschal Letters, 10."
+    },
+    {
+      "id": 132,
+      "text": "Dialogue, 117."
+    },
+    {
+      "id": 133,
+      "text": "Apology, 1:13."
+    },
+    {
+      "id": 134,
+      "text": "Letter 18a:6."
+    },
+    {
+      "id": 135,
+      "text": "St. Ambrose: On belief in the Resurrection, 2:125."
+    },
+    {
+      "id": 136,
+      "text": "راجع قاموس الكتاب المقدس ، ص 540-541 ."
+    },
+    {
+      "id": 137,
+      "text": "R.C. Clements: Jeremiah, Atlanta Georgia, 1988, p. 125-6."
+    },
+    {
+      "id": 138,
+      "text": "Ibid, p.127."
+    },
+    {
+      "id": 139,
+      "text": "Josephus: Antiquities of the Jews, Grand Rapids, Mich., Baker Book House, 1984, vol. 3, p. 68."
+    },
+    {
+      "id": 140,
+      "text": "John Guest: Jeremiah, Texas 1988, p. 159."
+    },
+    {
+      "id": 141,
+      "text": "cf R.C. Clements, p 127 ; Holladay: Jeremiah, p. 570."
+    },
+    {
+      "id": 142,
+      "text": "Thompson: Jeremiah, p. 467."
+    },
+    {
+      "id": 143,
+      "text": "Holladay, p. 571."
+    },
+    {
+      "id": 144,
+      "text": "Ibid, p. 571."
+    },
+    {
+      "id": 145,
+      "text": "Works of Hyppolitus, 48."
+    },
+    {
+      "id": 146,
+      "text": "Ep. 54: 3 (Oxford 49."
+    },
+    {
+      "id": 147,
+      "text": "Select Demonstration 5: 2."
+    },
+    {
+      "id": 148,
+      "text": "R.C. Clements, p. 128."
+    },
+    {
+      "id": 149,
+      "text": "Holladay, p. 587."
+    },
+    {
+      "id": 150,
+      "text": "On Ps. 101, 1."
+    },
+    {
+      "id": 151,
+      "text": "الحب الرعوي، ص 326."
+    },
+    {
+      "id": 152,
+      "text": "Thompson, Jeremiah, p. 475."
+    },
+    {
+      "id": 153,
+      "text": "D.J. Wiseman: Chromicle of Chaldaean Kings, p. 63."
+    },
+    {
+      "id": 154,
+      "text": "See J. Bright: A History of Israel, p. 303, Thompson, p. 476."
+    },
+    {
+      "id": 155,
+      "text": "Thompson, Jeremiah, p. 478."
+    },
+    {
+      "id": 156,
+      "text": "Against Aruis, 16."
+    },
+    {
+      "id": 157,
+      "text": "Sermons on the N. T. Lessons, 19: 4."
+    },
+    {
+      "id": 158,
+      "text": "Holladay, Jeremiah, vol. 2, p. 595."
+    },
+    {
+      "id": 159,
+      "text": "Ibid, 597."
+    },
+    {
+      "id": 160,
+      "text": "John guest, p. 167."
+    },
+    {
+      "id": 161,
+      "text": "Ibid, 168."
+    },
+    {
+      "id": 162,
+      "text": "The Prayer of Job and David 5: 20."
+    },
+    {
+      "id": 163,
+      "text": "Strom. 4: 26."
+    },
+    {
+      "id": 164,
+      "text": "See Thompson: Jeremiah, p. 487."
+    },
+    {
+      "id": 165,
+      "text": "Institutes 4: 38."
+    },
+    {
+      "id": 166,
+      "text": "Thompson: Jeremiah, p. 489."
+    },
+    {
+      "id": 167,
+      "text": "Holladay, Jeremiah, vol. 1, p. 620; 4 Q Flor 1.11; Q Bless 1.3-4."
+    },
+    {
+      "id": 168,
+      "text": "George F. Moore, Judaism in the First Centuries of the Christian Era, The Age of Tannaim, Cambridge, Harvard University; 1950-59, 2: 325."
+    },
+    {
+      "id": 169,
+      "text": "Thompson: Jeremiah, p. 490."
+    },
+    {
+      "id": 170,
+      "text": "In Matt. hom. 54: 8."
+    },
+    {
+      "id": 171,
+      "text": "R. E. Clements: Jeremiah, Atlanta 1988, p. 140; Thompson, Jeremiah, p. 493."
+    },
+    {
+      "id": 172,
+      "text": "Holladay, Jeremiah, vol. 1, p. 628."
+    },
+    {
+      "id": 173,
+      "text": "St. Cyprian: Ep. 39 (Oxford 43: 5)."
+    },
+    {
+      "id": 174,
+      "text": "St. Cyprian on the lapsed, 27."
+    },
+    {
+      "id": 175,
+      "text": "John Bright: Jeremiah, p. 152; Thompson: Jeremiah, p. 498."
+    },
+    {
+      "id": 176,
+      "text": "St. Iraeneus: Adv. Haer."
+    },
+    {
+      "id": 177,
+      "text": "St. Chrysostom: In Matt. hom., 54: 8."
+    },
+    {
+      "id": 178,
+      "text": "Letter to the Fallen Theodore 1: 8."
+    },
+    {
+      "id": 179,
+      "text": "Stromata 2: 2."
+    },
+    {
+      "id": 180,
+      "text": "St. Augustine: in Joan. 36: 8."
+    },
+    {
+      "id": 181,
+      "text": "St. Gergory Naz.: On his father's silence, 16."
+    },
+    {
+      "id": 182,
+      "text": "On Prayer 10: 2."
+    },
+    {
+      "id": 183,
+      "text": "In Gen. hom. 1: 7."
+    },
+    {
+      "id": 184,
+      "text": "In Gen. hom. 12: 1."
+    },
+    {
+      "id": 185,
+      "text": "St. Jerome: Ep., 122: 3."
+    },
+    {
+      "id": 186,
+      "text": "The Collegeville Bible Comm., p. 466."
+    },
+    {
+      "id": 187,
+      "text": "C. F. Keil. Jeremiah, Lamentations (Comm. on the Old Testament, vol. 8, p. 369.)."
+    },
+    {
+      "id": 188,
+      "text": "Thompson: Jeremiah, p. 511."
+    },
+    {
+      "id": 189,
+      "text": "Paschal Letters 6."
+    },
+    {
+      "id": 190,
+      "text": "المؤلف: المسيح في سر الافخارستيا ، ص 379، 441."
+    },
+    {
+      "id": 191,
+      "text": "In Joan. hom. 46."
+    },
+    {
+      "id": 192,
+      "text": "In Heb. hom. 16: 7."
+    },
+    {
+      "id": 193,
+      "text": "On Ps. 126."
+    },
+    {
+      "id": 194,
+      "text": "Letter 18 a: 6."
+    },
+    {
+      "id": 195,
+      "text": "Keil, p. 381."
+    },
+    {
+      "id": 196,
+      "text": "Thompson: Jeremiah, p. 517."
+    },
+    {
+      "id": 197,
+      "text": "Keil, p. 390."
+    },
+    {
+      "id": 198,
+      "text": "Thompson: Jeremiah, p. 523."
+    },
+    {
+      "id": 199,
+      "text": "New Jerome Bililical Comm., p. 286."
+    },
+    {
+      "id": 200,
+      "text": "In Luc. Ser. 148."
+    },
+    {
+      "id": 201,
+      "text": "Thompson: Jeremiah, p. 525."
+    },
+    {
+      "id": 202,
+      "text": "للمؤلف: الإنجيل بحسب لوقا، 1985 ، ص 656."
+    },
+    {
+      "id": 203,
+      "text": "International Bible Comm., Zondervan Publishing House, 1986 , p. 780."
+    },
+    {
+      "id": 204,
+      "text": "In Matt. hom. 80: 4."
+    },
+    {
+      "id": 205,
+      "text": "Sermon 107: 4."
+    },
+    {
+      "id": 206,
+      "text": "Wiseman: Chronicles, 73-75."
+    },
+    {
+      "id": 207,
+      "text": "Cf. Keil, Jeremiah, p. 399."
+    },
+    {
+      "id": 208,
+      "text": "معناه \"إنسان الإله مردوخ\"."
+    },
+    {
+      "id": 209,
+      "text": "نرجل اسم سوميري معناه \"حامي الملك\" أو \"ملك المدينة العظيمة\"، وهو إله الشمس عند البابليين؛ كما أنه إله الحرب وسيد العالم الآخر. كان نرجل شراصر أحد أمراء نبوخذ نصر، تزوج ابنته، ثم قتل أخوها ليتولى العرش (560-556 ق.م)."
+    },
+    {
+      "id": 210,
+      "text": "The Bethany Parallel Comm. on the O.T., P.1591."
+    },
+    {
+      "id": 211,
+      "text": "Ep. 60: 17."
+    },
+    {
+      "id": 212,
+      "text": "In 1 Cor. hom. 83: 3."
+    },
+    {
+      "id": 213,
+      "text": "New Jerome Biblical Comm., p. 287."
+    },
+    {
+      "id": 214,
+      "text": "keil, p. 405."
+    },
+    {
+      "id": 215,
+      "text": "[i] St. Jerome: Ep. 31:3."
+    },
+    {
+      "id": 216,
+      "text": "[ii] The Bethany Parallel Comm. of the O.T., 1985, P. 1584."
+    },
+    {
+      "id": 217,
+      "text": "R.k. Harrison: zereemialr aiz lomentations, 1973, p. 131."
+    },
+    {
+      "id": 218,
+      "text": "ه.آ. ايرنسايد: النبي الباكي تعريب: س. ف. باز، الأردن."
+    },
+    {
+      "id": 219,
+      "text": "City of God 19: 26."
+    },
+    {
+      "id": 220,
+      "text": "On Idolotry 15."
+    },
+    {
+      "id": 221,
+      "text": "The Statues 12: 16."
+    },
+    {
+      "id": 222,
+      "text": "St. Jerome Ep 22: 4."
+    },
+    {
+      "id": 223,
+      "text": "Keil, vol. 2, p. 2."
+    },
+    {
+      "id": 224,
+      "text": "الكلمة se-but ترجع إلى swb وتعني \"عودة \" وليس إلى saba أي \"يسبي\" Thampson: Jeremiah, p. 554."
+    },
+    {
+      "id": 225,
+      "text": "In Matt. hom. 57: 1."
+    },
+    {
+      "id": 226,
+      "text": "In Matt. hom 2: 6."
+    },
+    {
+      "id": 227,
+      "text": "مناظرات كاسيان 11: 6 ."
+    },
+    {
+      "id": 228,
+      "text": "Sermon 130: 3."
+    },
+    {
+      "id": 229,
+      "text": "Keil, p.16."
+    },
+    {
+      "id": 230,
+      "text": "The Pastor, bok 1, vision 3."
+    },
+    {
+      "id": 231,
+      "text": "St. Gregory Thaum.: Four hom. 2."
+    },
+    {
+      "id": 232,
+      "text": "In Matt. hom 9: 2."
+    },
+    {
+      "id": 233,
+      "text": "Cassian: Confer. 20: 7."
+    },
+    {
+      "id": 234,
+      "text": "St. Ambrose: Conc. Repentance 2: 5."
+    },
+    {
+      "id": 235,
+      "text": "Thompson: Jeremiah, p. 576."
+    },
+    {
+      "id": 236,
+      "text": "Against Jovinianus 1: 32."
+    },
+    {
+      "id": 237,
+      "text": "St. Jerome, Aganist Javinions 1: 32."
+    },
+    {
+      "id": 238,
+      "text": "The Prayer of Job and David, 4: 3: 11."
+    },
+    {
+      "id": 239,
+      "text": "In Luc. Serm. 133."
+    },
+    {
+      "id": 240,
+      "text": "Tertullian: An Answer to the Jews 3."
+    },
+    {
+      "id": 241,
+      "text": "Tertullian: Adv. Marcion 4: 1."
+    },
+    {
+      "id": 242,
+      "text": "St. Clem. Alex: Exhort. 11."
+    },
+    {
+      "id": 243,
+      "text": "Stromata 6: 51."
+    },
+    {
+      "id": 244,
+      "text": "Funeral Oration on Meletuis"
+    },
+    {
+      "id": 245,
+      "text": "St. Chrysostom: In 2 Tim. hom. 2."
+    },
+    {
+      "id": 246,
+      "text": "E.W. Nicholas: Jeremiah 26-52, p.79."
+    },
+    {
+      "id": 247,
+      "text": "St. Chrysostom: Concerning Statues, 19: 11."
+    },
+    {
+      "id": 248,
+      "text": "Thompson: Jeremiah, 589."
+    },
+    {
+      "id": 249,
+      "text": "Thompson: Jeremiah, p.588."
+    },
+    {
+      "id": 250,
+      "text": "On Ps. hom 8"
+    },
+    {
+      "id": 251,
+      "text": "Cassian: Conference 3: 18."
+    },
+    {
+      "id": 252,
+      "text": "Thompson: Jermiah, p. 598"
+    },
+    {
+      "id": 253,
+      "text": "St. Augustine: On Ps. 9."
+    },
+    {
+      "id": 254,
+      "text": "On Ps. 9."
+    },
+    {
+      "id": 255,
+      "text": "T. Bethany Parallel Comm. on O.T., p. 1609 (Adam Clarke)."
+    },
+    {
+      "id": 170,
+      "text": "نصًا عن حياة القداسة: 37."
+    },
+    {
+      "id": 171,
+      "text": "توجيهات منتخبة عن أحاديثه الأخرى 8."
+    },
+    {
+      "id": 172,
+      "text": "مقالتان عن لناموس الروحي، 7."
+    },
+    {
+      "id": 173,
+      "text": "Paidagogos 1: 2: 6."
+    },
+    {
+      "id": 174,
+      "text": "Paidagogos 1: 2: 6"
+    },
+    {
+      "id": 175,
+      "text": "I lid 1: 6: 41."
+    },
+    {
+      "id": 176,
+      "text": "Ibid 1: 6: 41, 42."
+    },
+    {
+      "id": 177,
+      "text": "Thompson, Jeremiah, p. 601"
+    },
+    {
+      "id": 178,
+      "text": "Stromata 4: 25."
+    },
+    {
+      "id": 179,
+      "text": "Stromata 7: 7."
+    },
+    {
+      "id": 180,
+      "text": "R.K. Harrison: Jeremiah and Lamentations, Illinios 1973, p.145."
+    },
+    {
+      "id": 181,
+      "text": "New Westminster Dict. of the Bible, 1969, p. 546; Unger’s Bible Dict., 1966,p. 639."
+    },
+    {
+      "id": 182,
+      "text": "Thompson: Jeremiah, p.608."
+    },
+    {
+      "id": 183,
+      "text": "See J. Bright: A History of Israel, p. 329; M.Noth: The History of Israel, p. 284."
+    },
+    {
+      "id": 184,
+      "text": "Westminster Dict of the Bible, p 81; Unger’s Bible Dict. , p. 111."
+    },
+    {
+      "id": 185,
+      "text": "قدَّمنا تفسيرًا آخر للأصحاح الخامس عشر في كتاب: \"التكوين\" ."
+    },
+    {
+      "id": 186,
+      "text": "Thompson, p. 613; W.F. Albright: Archiology of Palestine, 1960, p. 160."
+    },
+    {
+      "id": 187,
+      "text": "Cassian: Conferences 21: 4."
+    },
+    {
+      "id": 188,
+      "text": "Thompson: Jeremiah, p. 620; D. Wiseman: Chronicles of Chaldaen Kings, p. 69."
+    },
+    {
+      "id": 189,
+      "text": "See Thompson, p. 620."
+    },
+    {
+      "id": 190,
+      "text": "Cf Thompson: Jeremiah, p. 623."
+    },
+    {
+      "id": 191,
+      "text": "المؤلف: مزمور 119 . [غنى كلمة اللَّه ولذتها]."
+    },
+    {
+      "id": 192,
+      "text": "المرجع السابق ."
+    },
+    {
+      "id": 193,
+      "text": "Antiq. 10: 9: 1."
+    },
+    {
+      "id": 194,
+      "text": "Josephus: Antiq. 10: 9: 1."
+    },
+    {
+      "id": 195,
+      "text": "St. Jerome: On Isa. 30: 6,7."
+    },
+    {
+      "id": 196,
+      "text": "Syriac Apoc. Baruch 2: 1: 5: 5."
+    },
+    {
+      "id": 197,
+      "text": "Ibid 6: 7."
+    },
+    {
+      "id": 198,
+      "text": "The Jewish Encyclopedia, vol 2, p. 548."
+    },
+    {
+      "id": 199,
+      "text": "Ep. 31: 2."
+    },
+    {
+      "id": 200,
+      "text": "المؤلف: مزمور 119. [غنى كلمة اللَّه ولذتها] ."
+    },
+    {
+      "id": 201,
+      "text": "للمؤلف: مز 119 [غنى كلمة اللَّه ولذتها] ."
+    },
+    {
+      "id": 202,
+      "text": "Cf. Buhm: Das Buch Jeremiah, 1910, p. 310."
+    },
+    {
+      "id": 203,
+      "text": "للمؤلف: مز 119 [غنى كلمة اللَّه ولذتها] ."
+    },
+    {
+      "id": 204,
+      "text": "Thompson, Jeremiah, p. 643."
+    },
+    {
+      "id": 205,
+      "text": "Cf. Thompson: Jeremiah, p. 636-7."
+    },
+    {
+      "id": 206,
+      "text": "Hom, 54 on Ps. 143 ."
+    },
+    {
+      "id": 207,
+      "text": "Comm. on Song, book 2: 1."
+    },
+    {
+      "id": 208,
+      "text": "الكلمة العبرية كالعربية تعني \"عبد للملك\" وليس للملوك."
+    },
+    {
+      "id": 209,
+      "text": "Comm. on Song. book 2: 1."
+    },
+    {
+      "id": 210,
+      "text": "نرجل اسم سوميري معناه \"ملك المدينة العظيمة\"، وهو إله الشمس عند البابليين، وكان يُوصف بالقوة والقدرة على التدمير مثل أشعة الشمس المحرقة (2 مل 17: 30). وكان نرجل أيضًا إله الحرب وسيد العالم الآخر، وهو مثل مارس في العالم الروماني."
+    },
+    {
+      "id": 211,
+      "text": "Pastoral Rule 3: 19"
+    },
+    {
+      "id": 212,
+      "text": "Letter 7."
+    },
+    {
+      "id": 213,
+      "text": "Against Jovinanus 1: 33."
+    },
+    {
+      "id": 214,
+      "text": "يرى Keil أنه ليس من الضروري أن يكون من دمٍ ملوكي، فقد يكون أحد الأشراف الملكيين، أي من طبقة الأشراف الذين كانوا في خدمة الملك ( Keil, p. 131.)."
+    },
+    {
+      "id": 215,
+      "text": "See K. kenyin: Archaehogy in the Holy land, London 1960, p. 390; Thompson, Jereniiah, p.653."
+    },
+    {
+      "id": 216,
+      "text": "W.F. Albright: Frim the Stone Age to chnistianity, 1946, p 246; g.e. Wright; Biblical Archaeo logy, lindin. 1962,p 177-9."
+    },
+    {
+      "id": 217,
+      "text": "Keil: Jeremiah, p. 130."
+    },
+    {
+      "id": 218,
+      "text": "Keil: Jeremiah, p. 136."
+    },
+    {
+      "id": 219,
+      "text": "المؤلف: الحب الأخوى 1964، ص 397."
+    },
+    {
+      "id": 220,
+      "text": "المرجع السابق ص 398، 399."
+    },
+    {
+      "id": 221,
+      "text": "المرجع السابق ص 401."
+    },
+    {
+      "id": 222,
+      "text": "المرجع السابق ص 404."
+    },
+    {
+      "id": 223,
+      "text": "المرجع السابق ص 407."
+    },
+    {
+      "id": 224,
+      "text": "Keil: Jeremiah, p. 136."
+    },
+    {
+      "id": 225,
+      "text": "Keil: Jeremiah, p. 136."
+    },
+    {
+      "id": 226,
+      "text": "Derek Kindner: The Message of Jeremiah, p. 131."
+    },
+    {
+      "id": 227,
+      "text": "Ibid 132."
+    },
+    {
+      "id": 228,
+      "text": "Unger’s Bible Dictionary, 1966, p. 1068"
+    },
+    {
+      "id": 229,
+      "text": "Ibid 132."
+    },
+    {
+      "id": 230,
+      "text": "Thompson, p. 672."
+    },
+    {
+      "id": 231,
+      "text": "A New Catholic Commentary on Holy Scripture, Nelson 1969, p. 621."
+    },
+    {
+      "id": 232,
+      "text": "Bethany Parallel Commentary on the Old Testament, p. 1628 (Adam Clarke)."
+    },
+    {
+      "id": 233,
+      "text": "E.G. Krealing (Buttrick: Interpreter’s Dictionary of the Bible, vol. 2, p. 83-5.)"
+    },
+    {
+      "id": 234,
+      "text": "In Rom. hom. 14."
+    },
+    {
+      "id": 235,
+      "text": "History 2: 161-63, 196; 4: 159."
+    },
+    {
+      "id": 236,
+      "text": "O. Eissfeldt: The Old Testament; An Intrdoduction, 1965, p. 354."
+    },
+    {
+      "id": 237,
+      "text": "R.K. Harrison: Jeremiah and Lamentation, Illinois 1973, p. 169."
+    },
+    {
+      "id": 238,
+      "text": "الحب الرعوي، ص 198، 199."
+    },
+    {
+      "id": 239,
+      "text": "Derek Kidner: The Message of Jeremiah, Illinois 1990, p. 137."
+    },
+    {
+      "id": 240,
+      "text": "In Num. Hom. 11: 14."
+    },
+    {
+      "id": 241,
+      "text": "On Ps. 83."
+    },
+    {
+      "id": 242,
+      "text": "Derek Kidner: The Message of Jeremiah, Illinois 1990, p. 137."
+    },
+    {
+      "id": 243,
+      "text": "راجع للمؤلف: إشعياء ، ص 139."
+    },
+    {
+      "id": 244,
+      "text": "راجع تفسير إرميا 22 : 8."
+    },
+    {
+      "id": 245,
+      "text": "Thompson: Jeremiah, p. 692."
+    },
+    {
+      "id": 246,
+      "text": "Thompson, p. 692."
+    },
+    {
+      "id": 247,
+      "text": "R.K. Harrison: Jeremiah and Lamentions, Illinois 1973, p. 173."
+    },
+    {
+      "id": 248,
+      "text": "Derek Kidner: The Message of Jeremiah, p. 140 - 1."
+    },
+    {
+      "id": 249,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم، 1980 ، ص 318-321."
+    },
+    {
+      "id": 250,
+      "text": "On Ps. Hom 15."
+    },
+    {
+      "id": 251,
+      "text": "PL. 25: 240."
+    },
+    {
+      "id": 252,
+      "text": "للمؤلف: حزقيال، 1993 ، ص 259."
+    },
+    {
+      "id": 253,
+      "text": "On Ps. hom. 34."
+    },
+    {
+      "id": 254,
+      "text": "بستان الرهبان، ص 441."
+    },
+    {
+      "id": 255,
+      "text": "Josephus: Antiquities 10: 9: 7."
+    },
+    {
+      "id": 256,
+      "text": "Bethany Parrallel Commentary on the Old Testament, p. 1634."
+    },
+    {
+      "id": 257,
+      "text": "Bethany, p. 1634."
+    },
+    {
+      "id": 258,
+      "text": "Paschal Letters, 3."
+    },
+    {
+      "id": 259,
+      "text": "The Detailed Canons, Question 41."
+    },
+    {
+      "id": 260,
+      "text": "Pastoral rule, 3: 25."
+    },
+    {
+      "id": 261,
+      "text": "Cassian: Conference, 20: 8"
+    },
+    {
+      "id": 262,
+      "text": "Sermon On N.T. Lessons, 6: 9."
+    },
+    {
+      "id": 263,
+      "text": "المطران أبيفانيوس: الأماني الذهبية من مقالات إكليل القديس يوحنا ذهبي الفم، 1972، ص49."
+    },
+    {
+      "id": 264,
+      "text": "Thompson: Jeremiah, P. 716."
+    },
+    {
+      "id": 265,
+      "text": "Thompson: Jeremiah, P. 716"
+    },
+    {
+      "id": 266,
+      "text": "Ep. 22: 8."
+    },
+    {
+      "id": 267,
+      "text": "Fawzi Zayadine: Recent Excavations on the Citadel of Amman (Annual of the Dept. of Jordan, 17, 1973, p. 17 -53)."
+    },
+    {
+      "id": 268,
+      "text": "للمؤلف: إشعيا، 1990 ، ص 308."
+    },
+    {
+      "id": 269,
+      "text": "Thompson: Jeremiah, P.721."
+    },
+    {
+      "id": 270,
+      "text": "R.K. Harrison: Jeremiah and Lamentations, p. 181."
+    },
+    {
+      "id": 271,
+      "text": "See Harrison, p.181."
+    },
+    {
+      "id": 272,
+      "text": "Hom. 30 on Ps. 103 ."
+    },
+    {
+      "id": 273,
+      "text": "للمؤلف: إشعياء، 1990 ، ص191، 192."
+    },
+    {
+      "id": 274,
+      "text": "In Josh. hom 14: 2."
+    },
+    {
+      "id": 275,
+      "text": "Thompson: Jeremiah, p. 731."
+    },
+    {
+      "id": 276,
+      "text": "Augustine: Homilies on Psalms: Ps 26."
+    },
+    {
+      "id": 277,
+      "text": "حاولت بعض الطوائف تأكيد أن بابل الزانية هي الباباوية الرومانية وأن هناك سيكون مركز الدجال، لكن كثيرًا منهم نفوا هذا الفكر. ونحن لا نجد لهذا الفكر مكانًا."
+    },
+    {
+      "id": 278,
+      "text": "See Comm. on Song of Songs: Prolog."
+    },
+    {
+      "id": 279,
+      "text": "Letter 21: 11"
+    },
+    {
+      "id": 280,
+      "text": "Sermon 132: 4."
+    },
+    {
+      "id": 281,
+      "text": "Sermon LI: 1. (translated by Jakline Samir Kosta)."
+    },
+    {
+      "id": 282,
+      "text": "Ibid."
+    },
+    {
+      "id": 283,
+      "text": "Ibid."
+    },
+    {
+      "id": 284,
+      "text": "Ibid"
+    },
+    {
+      "id": 285,
+      "text": "Ibid."
+    },
+    {
+      "id": 286,
+      "text": "Ibid."
+    },
+    {
+      "id": 287,
+      "text": "Ibid."
+    },
+    {
+      "id": 288,
+      "text": "Ibid."
+    },
+    {
+      "id": 289,
+      "text": "Ibid."
+    },
+    {
+      "id": 290,
+      "text": "Ibid,2."
+    },
+    {
+      "id": 291,
+      "text": "Ibid."
+    },
+    {
+      "id": 292,
+      "text": "Ibid."
+    },
+    {
+      "id": 293,
+      "text": "Ibid."
+    },
+    {
+      "id": 294,
+      "text": "Ibid."
+    },
+    {
+      "id": 295,
+      "text": "Ibid."
+    },
+    {
+      "id": 296,
+      "text": "Ibid, 2, 3."
+    },
+    {
+      "id": 297,
+      "text": "Ibid, 3."
+    },
+    {
+      "id": 298,
+      "text": "Ibid, 4."
+    },
+    {
+      "id": 299,
+      "text": "Ibid, 5,6."
+    },
+    {
+      "id": 300,
+      "text": "Thompson: Jeremiah, p.747."
+    },
+    {
+      "id": 301,
+      "text": "Sermon LII: 1."
+    },
+    {
+      "id": 302,
+      "text": "Sermon LII: 1."
+    },
+    {
+      "id": 303,
+      "text": "Sermon LII: 1."
+    },
+    {
+      "id": 304,
+      "text": "Sermon LII: 2."
+    },
+    {
+      "id": 305,
+      "text": "Ep. 108: 32."
+    },
+    {
+      "id": 306,
+      "text": "Sermon LII: 3."
+    },
+    {
+      "id": 307,
+      "text": "Sermon LII: 4."
+    },
+    {
+      "id": 308,
+      "text": "Sermon LII: 5."
+    },
+    {
+      "id": 309,
+      "text": "Sermon LII: 6."
+    },
+    {
+      "id": 310,
+      "text": "Hom. 11 on Ps. 77 ."
+    },
+    {
+      "id": 311,
+      "text": "St. Jerome: On Ps. hom. 11."
+    },
+    {
+      "id": 312,
+      "text": "Hom. 62 on Ps 82 ."
+    },
+    {
+      "id": 313,
+      "text": "Sermon LII: 7-11."
+    },
+    {
+      "id": 314,
+      "text": "مناظرات يوحنا كاسيان 31:7 ."
+    },
+    {
+      "id": 315,
+      "text": "Joseph 3: 17"
+    },
+    {
+      "id": 316,
+      "text": "Gregory the Great: Pastoral Care 3: 13."
+    },
+    {
+      "id": 317,
+      "text": "Sermon LII: 12."
+    },
+    {
+      "id": 318,
+      "text": "Hom. 73 on Ps. 96 ."
+    },
+    {
+      "id": 319,
+      "text": "Ibid"
+    },
+    {
+      "id": 320,
+      "text": "Dahe’s Annotated Reference Bible, p. 797."
+    },
+    {
+      "id": 321,
+      "text": "راجع تفسير إر 26 : 25."
+    },
+    {
+      "id": 322,
+      "text": "Bethany Parallel Comm. on Old Testament, p.1648."
+    },
+    {
+      "id": 323,
+      "text": "Keil: Jeremiah, p.322."
+    },
+    {
+      "id": 324,
+      "text": "Thompson: Jeremiah, p. 774."
+    },
+    {
+      "id": 325,
+      "text": "Keil, p. 324."
+    },
+    {
+      "id": 326,
+      "text": "History of the People of Israel III, p. 748, (edition2)."
+    },
+    {
+      "id": 327,
+      "text": "In Jer. hom. 1: 4."
+    },
+    {
+      "id": 328,
+      "text": "New Westminster Dict. of the Bible, p. 457."
+    },
+    {
+      "id": 329,
+      "text": "NI V Bible Study, p. 1115."
+    },
+    {
+      "id": 330,
+      "text": "John Bright: The Anchor Bible, Jeremiah, 1986 p. XXXVI."
+    },
+    {
+      "id": 331,
+      "text": "Boyd's Bible Handbook, 1983, p. 286."
+    },
+    {
+      "id": 332,
+      "text": "John Guest: The Communicator's Commentary, Jeremiah, Lamentations, 1986, p.18."
+    },
+    {
+      "id": 333,
+      "text": "Unger's Survey of the Bible, 1981, p. 191."
+    },
+    {
+      "id": 334,
+      "text": "Interpreter's Concise Commentary, vol. 4 The major Prophets, 1983, p. 18."
+    },
+    {
+      "id": 335,
+      "text": "Peak's Comm. On the Bible, London 1920, p. 475"
+    },
+    {
+      "id": 336,
+      "text": "Collegeville Bible Comm., 1989, p. 453."
+    },
+    {
+      "id": 337,
+      "text": "Henerietta Mears: What the Bible is all about, 1987, p. 198."
+    },
+    {
+      "id": 338,
+      "text": "Hallay's Bible Handbook, 1992, p. 309."
+    },
+    {
+      "id": 339,
+      "text": "William Holladay: Jeremiah 1, Philadelphia 1986, p. 4."
+    },
+    {
+      "id": 340,
+      "text": "In Jer. hom 1: 1."
+    },
+    {
+      "id": 341,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 342,
+      "text": "See A New Catholic Comm., p. 602."
+    },
+    {
+      "id": 343,
+      "text": "Collegeville, p. 456-7."
+    },
+    {
+      "id": 344,
+      "text": "Ibid., 454."
+    },
+    {
+      "id": 345,
+      "text": "Boyd's Bible Handbook, p. 286."
+    },
+    {
+      "id": 346,
+      "text": "Cf. J.A. Thompson: The Book of Jeremiah, Michigan 1981, p. 81f. (New International Comm. on the NT.)."
+    },
+    {
+      "id": 347,
+      "text": "J. Muilenburg: A Study in Hebrew Rhetoric: Repetition and Style, VI, Supplement I, Copenhagen 1953, p. 98 f."
+    },
+    {
+      "id": 348,
+      "text": "Lundbom: Patterns of Poetic Balance in the Book of Jeremiah, Chicago 1967, p. 69 (Research)."
+    },
+    {
+      "id": 349,
+      "text": "See Thompson: Jeremiah, p. 487."
+    },
+    {
+      "id": 350,
+      "text": "Institutes 4: 38."
+    },
+    {
+      "id": 351,
+      "text": "Thompson: Jeremiah, p. 489."
+    },
+    {
+      "id": 352,
+      "text": "Holladay, Jeremiah, vol. 1, p. 620; 4 Q Flor 1.11; Q Bless 1.3-4."
+    },
+    {
+      "id": 353,
+      "text": "George F. Moore, Judaism in the First Centuries of the Christian Era, The Age of Tannaim, Cambridge, Harvard University; 1950-59, 2: 325."
+    },
+    {
+      "id": 354,
+      "text": "Thompson: Jeremiah, p. 490."
+    },
+    {
+      "id": 355,
+      "text": "In Matt. hom. 54: 8."
+    },
+    {
+      "id": 356,
+      "text": "R. E. Clements: Jeremiah, Atlanta 1988, p. 140; Thompson, Jeremiah, p. 493."
+    },
+    {
+      "id": 357,
+      "text": "Holladay, Jeremiah, vol. 1, p. 628."
+    },
+    {
+      "id": 358,
+      "text": "St. Cyprian: Ep. 39 (Oxford 43: 5)."
+    },
+    {
+      "id": 359,
+      "text": "St. Cyprian on the lapsed, 27."
+    },
+    {
+      "id": 360,
+      "text": "John Bright: Jeremiah, p. 152; Thompson: Jeremiah, p. 498."
+    },
+    {
+      "id": 361,
+      "text": "St. Iraeneus: Adv. Haer."
+    },
+    {
+      "id": 362,
+      "text": "St. Chrysostom: In Matt. hom., 54: 8."
+    },
+    {
+      "id": 363,
+      "text": "Letter to the Fallen Theodore 1: 8."
+    },
+    {
+      "id": 364,
+      "text": "Stromata 2: 2."
+    },
+    {
+      "id": 365,
+      "text": "St. Augustine: in Joan. 36: 8."
+    },
+    {
+      "id": 366,
+      "text": "St. Gergory Naz.: On his father's silence, 16."
+    },
+    {
+      "id": 367,
+      "text": "On Prayer 10: 2."
+    },
+    {
+      "id": 368,
+      "text": "In Gen. hom. 1: 7."
+    },
+    {
+      "id": 369,
+      "text": "In Gen. hom. 12: 1."
+    },
+    {
+      "id": 370,
+      "text": "St. Jerome: Ep., 122: 3."
+    },
+    {
+      "id": 371,
+      "text": "Cassian: Conferences 21: 4."
+    },
+    {
+      "id": 372,
+      "text": "نرجل اسم سوميري معناه \"ملك المدينة العظيمة\"، وهو إله الشمس عند البابليين، وكان يُوصف بالقوة والقدرة على التدمير مثل أشعة الشمس المحرقة (2 مل 17: 30). وكان نرجل أيضًا إله الحرب وسيد العالم الآخر، وهو مثل مارس في العالم الروماني."
+    },
+    {
+      "id": 373,
+      "text": "Pastoral Rule 3: 19"
+    },
+    {
+      "id": 374,
+      "text": "Letter 7."
+    },
+    {
+      "id": 375,
+      "text": "Against Jovinanus 1: 33."
+    }
+  ]
+}

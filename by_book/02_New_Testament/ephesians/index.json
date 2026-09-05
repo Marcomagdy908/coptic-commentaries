@@ -1,0 +1,1939 @@
+{
+  "book_id": 51,
+  "book_title": "تفسير الرسالة إلى أفسس",
+  "testament": "New Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "البركة الرسولية"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "القيامة وسرّ المصالحة مع الله"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "سرّ المسيح ودعوة الأمم"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "المحبة ووحدانية الروح"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الامتثال بالله \"المحبة الباذلة\""
+    },
+    {
+      "chapter_id": 6,
+      "topic": "العلاقات الوالدية"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "New Westminster Dictionary of the Bible, p 271."
+    },
+    {
+      "id": 2,
+      "text": "Jos. Antiq. 14: 10, 11, 13."
+    },
+    {
+      "id": 3,
+      "text": "Donald Guthrie: The N.T. Introd., p 479 ff."
+    },
+    {
+      "id": 4,
+      "text": "G. Cullmann: N.T. Introd., 1968 (Ep. To Ep.)"
+    },
+    {
+      "id": 5,
+      "text": "الثمان نقاط الأولى مقتبسة من دونالد جاثري في كتابه \"مقدمات في العهد الجديد، بشيء من التصرف\"."
+    },
+    {
+      "id": 6,
+      "text": "Ep. ad Eph. 12."
+    },
+    {
+      "id": 7,
+      "text": "Ep. ad Phil 12: 1."
+    },
+    {
+      "id": 8,
+      "text": "SIm 13: 5."
+    },
+    {
+      "id": 9,
+      "text": "Line 51."
+    },
+    {
+      "id": 10,
+      "text": "Key to Ephes. 1956, VI."
+    },
+    {
+      "id": 11,
+      "text": "Adv. Marc. V: 17."
+    },
+    {
+      "id": 12,
+      "text": "Stromata 4: 6: 1."
+    },
+    {
+      "id": 13,
+      "text": "Adv. Haer. 5: 2: 36."
+    },
+    {
+      "id": 14,
+      "text": "راجع مذكرة الدكتور موريس تاوضروس: \"دراسات في الرسالة إلى أفسس\"، ص 9، 10."
+    },
+    {
+      "id": 15,
+      "text": "Oscar Cullmann: The New Testament Intr., 1968, p 78."
+    },
+    {
+      "id": 16,
+      "text": "The Anchor Bible, Ephesians, vol 1, p 6 (N.Y. 1980)"
+    },
+    {
+      "id": 17,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي...، 1985، ص 40."
+    },
+    {
+      "id": 18,
+      "text": "P.G. 52: 402."
+    },
+    {
+      "id": 19,
+      "text": "The Anchor Bible, p 12 - 18"
+    },
+    {
+      "id": 20,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي...، ص 30، 31."
+    },
+    {
+      "id": 21,
+      "text": "Jerome Biblical Commentary, p 343."
+    },
+    {
+      "id": 22,
+      "text": "The Anchor Bible, p 65."
+    },
+    {
+      "id": 23,
+      "text": "Jerome Bib. 343."
+    },
+    {
+      "id": 24,
+      "text": "الرسالة إلى أفسس، عظة 1، قام قداسة القمص مرقس داود بترجمة عشر عظات من تفسير القديس يوحنا الذهبي الفم لهذه الرسالة، وقد استعنت أحيانًا به مع الرجوع لنصوص أخرى. ."
+    },
+    {
+      "id": 25,
+      "text": "The Anchor Bible, p 67."
+    },
+    {
+      "id": 26,
+      "text": "Jerome Bib. 343."
+    },
+    {
+      "id": 27,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي ...، ص 30، 31.."
+    },
+    {
+      "id": 28,
+      "text": "Jerome Biblical Commentary, p 343."
+    },
+    {
+      "id": 29,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 30,
+      "text": "Stromata 2: 4; 3: 7."
+    },
+    {
+      "id": 31,
+      "text": "Strom. 2: 6."
+    },
+    {
+      "id": 32,
+      "text": "Comm. Rom 22 on 4: 4."
+    },
+    {
+      "id": 33,
+      "text": "Contra Celsus 4 : 3."
+    },
+    {
+      "id": 34,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 35,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 36,
+      "text": "Ibid."
+    },
+    {
+      "id": 37,
+      "text": "Ibid."
+    },
+    {
+      "id": 38,
+      "text": "Ser. on N.T. 67: 9."
+    },
+    {
+      "id": 39,
+      "text": "Ibid 89: 1."
+    },
+    {
+      "id": 40,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 41,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 42,
+      "text": "Ibid."
+    },
+    {
+      "id": 43,
+      "text": "Anchor Bible, p 92."
+    },
+    {
+      "id": 44,
+      "text": "In Eph. hom 2."
+    },
+    {
+      "id": 45,
+      "text": "Jerome Bible, p 344."
+    },
+    {
+      "id": 46,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، طبعة 1981 ، ص 62: 68.."
+    },
+    {
+      "id": 47,
+      "text": "Cat. Lect. 17: 15."
+    },
+    {
+      "id": 48,
+      "text": "Enchir. Patr. 712"
+    },
+    {
+      "id": 49,
+      "text": "P.G. 46: 424 C."
+    },
+    {
+      "id": 50,
+      "text": "P.G. 61: 418."
+    },
+    {
+      "id": 51,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 52,
+      "text": "Ibid."
+    },
+    {
+      "id": 53,
+      "text": "Ser. on N.T. 3: 6."
+    },
+    {
+      "id": 54,
+      "text": "للمؤلف: الحب الإلهي، الإسكندرية، 1967، ص 855 - 856."
+    },
+    {
+      "id": 55,
+      "text": "Adv. Hear 3: 16: 6."
+    },
+    {
+      "id": 56,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 57,
+      "text": "Dorotheos of Gaza: Comm.. on an Easter Hymn."
+    },
+    {
+      "id": 58,
+      "text": "Chaplet 3."
+    },
+    {
+      "id": 59,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 60,
+      "text": "Cassian: Conf. 3: 7."
+    },
+    {
+      "id": 61,
+      "text": "Comm. on Easter Hymn."
+    },
+    {
+      "id": 62,
+      "text": "Cassian: Conf. 5: 4."
+    },
+    {
+      "id": 63,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 64,
+      "text": "Ibid"
+    },
+    {
+      "id": 65,
+      "text": "Of the Christian Faith 5: 178, 180, 181."
+    },
+    {
+      "id": 66,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 67,
+      "text": "Ibid 4: De Gompunct. PG 47: 408."
+    },
+    {
+      "id": 68,
+      "text": "Ser. on N.T. 81: 5."
+    },
+    {
+      "id": 69,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 70,
+      "text": "Ibid 5."
+    },
+    {
+      "id": 71,
+      "text": "Josephus: Antiq. 15: 11, 5; Jew War. 5: 52; 6: 2: 4."
+    },
+    {
+      "id": 72,
+      "text": "In Eph. hom 5."
+    },
+    {
+      "id": 73,
+      "text": "Ibid."
+    },
+    {
+      "id": 74,
+      "text": "Ibid 6."
+    },
+    {
+      "id": 75,
+      "text": "Hom for Epiphany, Ser. 204, PL 38: 1037."
+    },
+    {
+      "id": 76,
+      "text": "Ser on N.T. 39: 4."
+    },
+    {
+      "id": 77,
+      "text": "In Eph. hom 6."
+    },
+    {
+      "id": 78,
+      "text": "In Eph. hom 6."
+    },
+    {
+      "id": 79,
+      "text": "Ibid."
+    },
+    {
+      "id": 80,
+      "text": "Ibid."
+    },
+    {
+      "id": 81,
+      "text": "Anchor Bible, p 331."
+    },
+    {
+      "id": 82,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 83,
+      "text": "Ibid."
+    },
+    {
+      "id": 84,
+      "text": "Against Joviniasus 2: 23."
+    },
+    {
+      "id": 85,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 86,
+      "text": "Ibid."
+    },
+    {
+      "id": 87,
+      "text": "Ibid."
+    },
+    {
+      "id": 88,
+      "text": "Institutes of Cassian 5: 21."
+    },
+    {
+      "id": 89,
+      "text": "Sermon on N.T. Lessons 31: 8; 53: 6"
+    },
+    {
+      "id": 90,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 91,
+      "text": "Ser. on N.T. 3: 15."
+    },
+    {
+      "id": 92,
+      "text": "Ibid 54: 24."
+    },
+    {
+      "id": 93,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 94,
+      "text": "In Eph. hom 8."
+    },
+    {
+      "id": 95,
+      "text": "In 1Cor. hom 1: 1, PG 61: 13."
+    },
+    {
+      "id": 96,
+      "text": "Unity of Church 5."
+    },
+    {
+      "id": 97,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 98,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 99,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 100,
+      "text": "On the advantage of Patience, 15."
+    },
+    {
+      "id": 101,
+      "text": "Unity of Church 8."
+    },
+    {
+      "id": 102,
+      "text": "للمؤلف: مقدمات في علم الباترولوچى، طبعة 1980، ص 136."
+    },
+    {
+      "id": 103,
+      "text": "In Eph. hom 10."
+    },
+    {
+      "id": 104,
+      "text": "Ser. on N.T. 21."
+    },
+    {
+      "id": 105,
+      "text": "Unity of Church 8."
+    },
+    {
+      "id": 106,
+      "text": "Adv. Haer 1: 10: 1."
+    },
+    {
+      "id": 107,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 108,
+      "text": "Ibid."
+    },
+    {
+      "id": 109,
+      "text": "Comm. on St. John 2: 2."
+    },
+    {
+      "id": 110,
+      "text": "Treat. on Christ and Antichrist 3."
+    },
+    {
+      "id": 111,
+      "text": "On Mortality 6."
+    },
+    {
+      "id": 112,
+      "text": "Adv. Haer 3: 3: 1."
+    },
+    {
+      "id": 113,
+      "text": "Source Chret. Vol 36, p 65."
+    },
+    {
+      "id": 114,
+      "text": "Ep. 73: 26."
+    },
+    {
+      "id": 115,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 116,
+      "text": "Against Jovinainus 2: 23 ."
+    },
+    {
+      "id": 117,
+      "text": "Comm..on Easter Hymn."
+    },
+    {
+      "id": 118,
+      "text": "In Eph. hom 11 ."
+    },
+    {
+      "id": 119,
+      "text": "Adv. Haer 3: 24."
+    },
+    {
+      "id": 120,
+      "text": "In 2Cor. PG 61: 417"
+    },
+    {
+      "id": 121,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 122,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 123,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 124,
+      "text": "Cassian: Conf. 7: 6."
+    },
+    {
+      "id": 125,
+      "text": "Ibid. 21: 5."
+    },
+    {
+      "id": 126,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 127,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 128,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 129,
+      "text": "Ibid 12."
+    },
+    {
+      "id": 130,
+      "text": "Ibid 13."
+    },
+    {
+      "id": 131,
+      "text": "Ibid."
+    },
+    {
+      "id": 132,
+      "text": "Ibid."
+    },
+    {
+      "id": 133,
+      "text": "Ibid."
+    },
+    {
+      "id": 134,
+      "text": "Ibid."
+    },
+    {
+      "id": 135,
+      "text": "Ibid."
+    },
+    {
+      "id": 136,
+      "text": "Ibid."
+    },
+    {
+      "id": 137,
+      "text": "Ibid."
+    },
+    {
+      "id": 138,
+      "text": "Ep. 69: 7."
+    },
+    {
+      "id": 139,
+      "text": "Cassian: Conf. 6: 14."
+    },
+    {
+      "id": 140,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 141,
+      "text": "Ibid."
+    },
+    {
+      "id": 142,
+      "text": "Ep 13; 130: 13."
+    },
+    {
+      "id": 143,
+      "text": "Cassian: Conf. 16: 7"
+    },
+    {
+      "id": 144,
+      "text": "المطران ابيفانيوس: الأماني الذهبية في مقالات لأبينا الجليل في القديسين يوحنا الذهبي الفم، 1972، ص 139، 140."
+    },
+    {
+      "id": 145,
+      "text": "Ser. on N.T. Lessons 8: 7."
+    },
+    {
+      "id": 146,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 147,
+      "text": "Ser. on N.T. 17: 4."
+    },
+    {
+      "id": 148,
+      "text": "Ep. 61: 2."
+    },
+    {
+      "id": 149,
+      "text": "In Eph. hom 14"
+    },
+    {
+      "id": 150,
+      "text": "المطران يبيفانيوس، ص 39."
+    },
+    {
+      "id": 151,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 152,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 153,
+      "text": "Ibid 15."
+    },
+    {
+      "id": 154,
+      "text": "In Eph. hom 16."
+    },
+    {
+      "id": 155,
+      "text": "Ser. on N.T. 33: 3."
+    },
+    {
+      "id": 156,
+      "text": "In Eph hom 17."
+    },
+    {
+      "id": 157,
+      "text": "Ep. 148: 5."
+    },
+    {
+      "id": 158,
+      "text": "Ser. on N.T. 64: 3."
+    },
+    {
+      "id": 159,
+      "text": "In Eph. Hom 17."
+    },
+    {
+      "id": 160,
+      "text": "Of the Christian Faith 17: 109."
+    },
+    {
+      "id": 161,
+      "text": "Cassian: Conf. 5: 11"
+    },
+    {
+      "id": 162,
+      "text": "In Eph. hom 17."
+    },
+    {
+      "id": 163,
+      "text": "In Eph. hom 17."
+    },
+    {
+      "id": 164,
+      "text": "Ibid 18."
+    },
+    {
+      "id": 165,
+      "text": "Ser. on N.T. 17: 5."
+    },
+    {
+      "id": 166,
+      "text": "Ibid 26: 5, 6."
+    },
+    {
+      "id": 167,
+      "text": "In Eph. hom 18."
+    },
+    {
+      "id": 168,
+      "text": "Ser. on N.T. 77: 7; 38: 3."
+    },
+    {
+      "id": 169,
+      "text": "In Eph. hom 18"
+    },
+    {
+      "id": 170,
+      "text": "حرف \"ث\"، الأم ثيؤدورا."
+    },
+    {
+      "id": 171,
+      "text": "Ser. on N.T. 34: 2."
+    },
+    {
+      "id": 172,
+      "text": "Ante Nicene Prs, vol 5, p 245."
+    },
+    {
+      "id": 173,
+      "text": "In Eph. hom 19."
+    },
+    {
+      "id": 174,
+      "text": "In Eph. hom 19."
+    },
+    {
+      "id": 175,
+      "text": "Ep. 108: 12."
+    },
+    {
+      "id": 176,
+      "text": "In Eph. Hom 19."
+    },
+    {
+      "id": 177,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 226 - 228.."
+    },
+    {
+      "id": 178,
+      "text": "In Eph. Hom 19."
+    },
+    {
+      "id": 179,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 12 - 16.."
+    },
+    {
+      "id": 180,
+      "text": "To his wife 2: 9."
+    },
+    {
+      "id": 181,
+      "text": "Ad. Polyc. 5."
+    },
+    {
+      "id": 182,
+      "text": "Ep. to Wegelius 19, 23: 7."
+    },
+    {
+      "id": 183,
+      "text": "Against the heresy of one Noetus 14."
+    },
+    {
+      "id": 184,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 39."
+    },
+    {
+      "id": 185,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 38 - 39."
+    },
+    {
+      "id": 186,
+      "text": "Ep. 63."
+    },
+    {
+      "id": 187,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 188,
+      "text": "On Paradise 11: 50."
+    },
+    {
+      "id": 189,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 190,
+      "text": "Ibid."
+    },
+    {
+      "id": 191,
+      "text": "Ep. 93: 34."
+    },
+    {
+      "id": 192,
+      "text": "Com. on an Easter Hymn."
+    },
+    {
+      "id": 193,
+      "text": "Ep. 74."
+    },
+    {
+      "id": 194,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 195,
+      "text": "Ep 130: 7."
+    },
+    {
+      "id": 196,
+      "text": "راجع للمؤلف: سفر التكوين، 1984، ص 65، 66."
+    },
+    {
+      "id": 197,
+      "text": "St. Augustin: Ser. On Nt Lessons, 41: 7 ."
+    },
+    {
+      "id": 198,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49)."
+    },
+    {
+      "id": 199,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49)."
+    },
+    {
+      "id": 200,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49)."
+    },
+    {
+      "id": 201,
+      "text": "Ser. On N.T. lessons 1."
+    },
+    {
+      "id": 202,
+      "text": "للمؤلف: الحب العائلي، 1970، ص 63، 64."
+    },
+    {
+      "id": 203,
+      "text": "للمؤلف: الحب العائلي، 1970، ص65 - 73."
+    },
+    {
+      "id": 204,
+      "text": "In Eph. hom 21."
+    },
+    {
+      "id": 205,
+      "text": "Ser. on N.T. lessons; on the Psalms 71: 1."
+    },
+    {
+      "id": 206,
+      "text": "Ep. to Heliodorus."
+    },
+    {
+      "id": 207,
+      "text": "In Eph. hom 21."
+    },
+    {
+      "id": 208,
+      "text": "الحب العائلي، 1970، ص 43."
+    },
+    {
+      "id": 209,
+      "text": "In 1Tim hom 9."
+    },
+    {
+      "id": 210,
+      "text": "Ser. on N.T. 44: 1."
+    },
+    {
+      "id": 211,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 212,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 213,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 214,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 215,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 216,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 217,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 218,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 219,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 220,
+      "text": "Ser. on N.T. 17: 4."
+    },
+    {
+      "id": 221,
+      "text": "Ep. 226: 12."
+    },
+    {
+      "id": 222,
+      "text": "Against Jovinianus 2: 3."
+    },
+    {
+      "id": 223,
+      "text": "On the Belief of Resurrection 2: 106."
+    },
+    {
+      "id": 224,
+      "text": "Conc. Virgins 2: 29."
+    },
+    {
+      "id": 225,
+      "text": "Ep. 75: 2."
+    },
+    {
+      "id": 226,
+      "text": "Cassian: Conf., 7: 20."
+    },
+    {
+      "id": 227,
+      "text": "Cassian: Conf., 7: 21."
+    },
+    {
+      "id": 228,
+      "text": "Sermon against Auxentius 6."
+    },
+    {
+      "id": 229,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 230,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 231,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 232,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 233,
+      "text": "Ep. 55: 8."
+    },
+    {
+      "id": 234,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 235,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 236,
+      "text": "Cassian: Conf. 20: 8."
+    },
+    {
+      "id": 237,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 238,
+      "text": "Ep. 3: 4, 5; 54: 7."
+    },
+    {
+      "id": 239,
+      "text": "In Eph. hom 24"
+    },
+    {
+      "id": 240,
+      "text": "New Westminster Dictionary of the Bible, p 271."
+    },
+    {
+      "id": 241,
+      "text": "Jos. Antiq. 14: 10, 11, 13."
+    },
+    {
+      "id": 242,
+      "text": "Donald Guthrie: The N.T. Introd., p 479 ff."
+    },
+    {
+      "id": 243,
+      "text": "الثمان نقاط الأولى مقتبسة من دونالد جاثري في كتابه \"مقدمات في العهد الجديد، بشيء من التصرف\"."
+    },
+    {
+      "id": 244,
+      "text": "Ep. ad Eph. 12."
+    },
+    {
+      "id": 245,
+      "text": "Ep. ad Phil 12: 1."
+    },
+    {
+      "id": 246,
+      "text": "SIm 13: 5."
+    },
+    {
+      "id": 247,
+      "text": "Line 51."
+    },
+    {
+      "id": 248,
+      "text": "Key to Ephes. 1956, VI."
+    },
+    {
+      "id": 249,
+      "text": "Adv. Marc. V: 17."
+    },
+    {
+      "id": 250,
+      "text": "Stromata 4: 6: 1."
+    },
+    {
+      "id": 251,
+      "text": "Adv. Haer. 5: 2: 36."
+    },
+    {
+      "id": 252,
+      "text": "راجع مذكرة الدكتور موريس تاوضروس: \"دراسات في الرسالة إلى أفسس\"، ص 9، 10."
+    },
+    {
+      "id": 253,
+      "text": "Oscar Cullmann: The New Testament Intr., 1968, p 78."
+    },
+    {
+      "id": 254,
+      "text": "The Anchor Bible, Ephesians, vol 1, p 6 (N.Y. 1980)"
+    },
+    {
+      "id": 255,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي...، 1985، ص 40."
+    },
+    {
+      "id": 256,
+      "text": "P.G. 52: 402."
+    },
+    {
+      "id": 257,
+      "text": "The Anchor Bible, p 12 - 18"
+    },
+    {
+      "id": 258,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي...، ص 30، 31."
+    },
+    {
+      "id": 259,
+      "text": "Jerome Biblical Commentary, p 343."
+    },
+    {
+      "id": 260,
+      "text": "The Anchor Bible, p 65."
+    },
+    {
+      "id": 261,
+      "text": "Jerome Bib. 343."
+    },
+    {
+      "id": 262,
+      "text": "الرسالة إلى أفسس، عظة 1، قام قداسة القمص مرقس داود بترجمة عشر عظات من تفسير القديس يوحنا الذهبي الفم لهذه الرسالة، وقد استعنت أحيانًا به مع الرجوع لنصوص أخرى. ."
+    },
+    {
+      "id": 263,
+      "text": "The Anchor Bible, p 67."
+    },
+    {
+      "id": 264,
+      "text": "Jerome Bib. 343."
+    },
+    {
+      "id": 265,
+      "text": "للمؤلف: القديس بولس الرسول ومنهجه الإنجيلي ...، ص 30، 31.."
+    },
+    {
+      "id": 266,
+      "text": "Jerome Biblical Commentary, p 343."
+    },
+    {
+      "id": 267,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 268,
+      "text": "Stromata 2: 4; 3: 7."
+    },
+    {
+      "id": 269,
+      "text": "Strom. 2: 6."
+    },
+    {
+      "id": 270,
+      "text": "Comm. Rom 22 on 4: 4."
+    },
+    {
+      "id": 271,
+      "text": "Contra Celsus 4 : 3."
+    },
+    {
+      "id": 272,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 273,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 274,
+      "text": "Ibid."
+    },
+    {
+      "id": 275,
+      "text": "Ibid."
+    },
+    {
+      "id": 276,
+      "text": "Ser. on N.T. 67: 9."
+    },
+    {
+      "id": 277,
+      "text": "Ibid 89: 1."
+    },
+    {
+      "id": 278,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 279,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 280,
+      "text": "Ibid."
+    },
+    {
+      "id": 281,
+      "text": "Anchor Bible, p 92."
+    },
+    {
+      "id": 282,
+      "text": "In Eph. hom 2."
+    },
+    {
+      "id": 283,
+      "text": "Jerome Bible, p 344."
+    },
+    {
+      "id": 284,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، طبعة 1981 ، ص 62: 68.."
+    },
+    {
+      "id": 285,
+      "text": "Cat. Lect. 17: 15."
+    },
+    {
+      "id": 286,
+      "text": "Enchir. Patr. 712"
+    },
+    {
+      "id": 287,
+      "text": "P.G. 46: 424 C."
+    },
+    {
+      "id": 288,
+      "text": "P.G. 61: 418."
+    },
+    {
+      "id": 289,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 290,
+      "text": "Ibid."
+    },
+    {
+      "id": 291,
+      "text": "Ser. on N.T. 3: 6."
+    },
+    {
+      "id": 292,
+      "text": "للمؤلف: الحب الإلهي، الإسكندرية، 1967، ص 855 - 856."
+    },
+    {
+      "id": 293,
+      "text": "Adv. Hear 3: 16: 6."
+    },
+    {
+      "id": 294,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 295,
+      "text": "Dorotheos of Gaza: Comm.. on an Easter Hymn."
+    },
+    {
+      "id": 296,
+      "text": "Chaplet 3."
+    },
+    {
+      "id": 297,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 298,
+      "text": "Cassian: Conf. 3: 7."
+    },
+    {
+      "id": 299,
+      "text": "Comm. on Easter Hymn."
+    },
+    {
+      "id": 300,
+      "text": "Cassian: Conf. 5: 4."
+    },
+    {
+      "id": 301,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 302,
+      "text": "Ibid"
+    },
+    {
+      "id": 303,
+      "text": "Of the Christian Faith 5: 178, 180, 181."
+    },
+    {
+      "id": 304,
+      "text": "In Eph. hom 3."
+    },
+    {
+      "id": 305,
+      "text": "Ibid 4: De Gompunct. PG 47: 408."
+    },
+    {
+      "id": 306,
+      "text": "Ser. on N.T. 81: 5."
+    },
+    {
+      "id": 307,
+      "text": "In Eph. hom 4."
+    },
+    {
+      "id": 308,
+      "text": "Ibid 5."
+    },
+    {
+      "id": 309,
+      "text": "Josephus: Antiq. 15: 11, 5; Jew War. 5: 52; 6: 2: 4."
+    },
+    {
+      "id": 310,
+      "text": "In Eph. hom 5."
+    },
+    {
+      "id": 311,
+      "text": "Ibid."
+    },
+    {
+      "id": 312,
+      "text": "Ibid 6."
+    },
+    {
+      "id": 313,
+      "text": "Hom for Epiphany, Ser. 204, PL 38: 1037."
+    },
+    {
+      "id": 314,
+      "text": "Ser on N.T. 39: 4."
+    },
+    {
+      "id": 315,
+      "text": "In Eph. hom 6."
+    },
+    {
+      "id": 316,
+      "text": "In Eph. hom 6."
+    },
+    {
+      "id": 317,
+      "text": "Ibid."
+    },
+    {
+      "id": 318,
+      "text": "Ibid."
+    },
+    {
+      "id": 319,
+      "text": "Anchor Bible, p 331."
+    },
+    {
+      "id": 320,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 321,
+      "text": "Ibid."
+    },
+    {
+      "id": 322,
+      "text": "Against Joviniasus 2: 23."
+    },
+    {
+      "id": 323,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 324,
+      "text": "Ibid."
+    },
+    {
+      "id": 325,
+      "text": "Ibid."
+    },
+    {
+      "id": 326,
+      "text": "Institutes of Cassian 5: 21."
+    },
+    {
+      "id": 327,
+      "text": "Sermon on N.T. Lessons 31: 8; 53: 6"
+    },
+    {
+      "id": 328,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 329,
+      "text": "Ser. on N.T. 3: 15."
+    },
+    {
+      "id": 330,
+      "text": "Ibid 54: 24."
+    },
+    {
+      "id": 331,
+      "text": "In Eph. hom 7."
+    },
+    {
+      "id": 332,
+      "text": "In Eph. hom 8."
+    },
+    {
+      "id": 333,
+      "text": "In 1Cor. hom 1: 1, PG 61: 13."
+    },
+    {
+      "id": 334,
+      "text": "Unity of Church 5."
+    },
+    {
+      "id": 335,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 336,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 337,
+      "text": "In Eph. hom 9."
+    },
+    {
+      "id": 338,
+      "text": "On the advantage of Patience, 15."
+    },
+    {
+      "id": 339,
+      "text": "Unity of Church 8."
+    },
+    {
+      "id": 340,
+      "text": "للمؤلف: مقدمات في علم الباترولوچى، طبعة 1980، ص 136."
+    },
+    {
+      "id": 341,
+      "text": "In Eph. hom 10."
+    },
+    {
+      "id": 342,
+      "text": "Ser. on N.T. 21."
+    },
+    {
+      "id": 343,
+      "text": "Unity of Church 8."
+    },
+    {
+      "id": 344,
+      "text": "Adv. Haer 1: 10: 1."
+    },
+    {
+      "id": 345,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 346,
+      "text": "Ibid."
+    },
+    {
+      "id": 347,
+      "text": "Comm. on St. John 2: 2."
+    },
+    {
+      "id": 348,
+      "text": "Treat. on Christ and Antichrist 3."
+    },
+    {
+      "id": 349,
+      "text": "On Mortality 6."
+    },
+    {
+      "id": 350,
+      "text": "Adv. Haer 3: 3: 1."
+    },
+    {
+      "id": 351,
+      "text": "Source Chret. Vol 36, p 65."
+    },
+    {
+      "id": 352,
+      "text": "Ep. 73: 26."
+    },
+    {
+      "id": 353,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 354,
+      "text": "Against Jovinainus 2: 23 ."
+    },
+    {
+      "id": 355,
+      "text": "Comm..on Easter Hymn."
+    },
+    {
+      "id": 356,
+      "text": "In Eph. hom 11 ."
+    },
+    {
+      "id": 357,
+      "text": "Adv. Haer 3: 24."
+    },
+    {
+      "id": 358,
+      "text": "In 2Cor. PG 61: 417"
+    },
+    {
+      "id": 359,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 360,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 361,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 362,
+      "text": "Cassian: Conf. 7: 6."
+    },
+    {
+      "id": 363,
+      "text": "Ibid. 21: 5."
+    },
+    {
+      "id": 364,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 365,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 366,
+      "text": "In Eph. hom 11."
+    },
+    {
+      "id": 367,
+      "text": "Ibid 12."
+    },
+    {
+      "id": 368,
+      "text": "Ibid 13."
+    },
+    {
+      "id": 369,
+      "text": "Ibid."
+    },
+    {
+      "id": 370,
+      "text": "Ibid."
+    },
+    {
+      "id": 371,
+      "text": "Ibid."
+    },
+    {
+      "id": 372,
+      "text": "Ibid."
+    },
+    {
+      "id": 373,
+      "text": "Ibid."
+    },
+    {
+      "id": 374,
+      "text": "Ibid."
+    },
+    {
+      "id": 375,
+      "text": "Ibid."
+    },
+    {
+      "id": 376,
+      "text": "Ep. 69: 7."
+    },
+    {
+      "id": 377,
+      "text": "Cassian: Conf. 6: 14."
+    },
+    {
+      "id": 378,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 379,
+      "text": "Ibid."
+    },
+    {
+      "id": 380,
+      "text": "Ep 13; 130: 13."
+    },
+    {
+      "id": 381,
+      "text": "Cassian: Conf. 16: 7"
+    },
+    {
+      "id": 382,
+      "text": "المطران ابيفانيوس: الأماني الذهبية في مقالات لأبينا الجليل في القديسين يوحنا الذهبي الفم، 1972، ص 139، 140."
+    },
+    {
+      "id": 383,
+      "text": "Ser. on N.T. Lessons 8: 7."
+    },
+    {
+      "id": 384,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 385,
+      "text": "Ser. on N.T. 17: 4."
+    },
+    {
+      "id": 386,
+      "text": "Ep. 61: 2."
+    },
+    {
+      "id": 387,
+      "text": "In Eph. hom 14"
+    },
+    {
+      "id": 388,
+      "text": "المطران يبيفانيوس، ص 39."
+    },
+    {
+      "id": 389,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 390,
+      "text": "In Eph. hom 14."
+    },
+    {
+      "id": 391,
+      "text": "Ibid 15."
+    },
+    {
+      "id": 392,
+      "text": "In Eph. hom 16."
+    },
+    {
+      "id": 393,
+      "text": "Ser. on N.T. 33: 3."
+    },
+    {
+      "id": 394,
+      "text": "In Eph hom 17."
+    },
+    {
+      "id": 395,
+      "text": "Ep. 148: 5."
+    },
+    {
+      "id": 396,
+      "text": "Ser. on N.T. 64: 3."
+    },
+    {
+      "id": 397,
+      "text": "In Eph. Hom 17."
+    },
+    {
+      "id": 398,
+      "text": "Of the Christian Faith 17: 109."
+    },
+    {
+      "id": 399,
+      "text": "Cassian: Conf. 5: 11"
+    },
+    {
+      "id": 400,
+      "text": "In Eph. hom 17."
+    },
+    {
+      "id": 401,
+      "text": "In Eph. hom 17."
+    },
+    {
+      "id": 402,
+      "text": "Ibid 18."
+    },
+    {
+      "id": 403,
+      "text": "Ser. on N.T. 17: 5."
+    },
+    {
+      "id": 404,
+      "text": "Ibid 26: 5, 6."
+    },
+    {
+      "id": 405,
+      "text": "In Eph. hom 18."
+    },
+    {
+      "id": 406,
+      "text": "Ser. on N.T. 77: 7; 38: 3."
+    },
+    {
+      "id": 407,
+      "text": "In Eph. hom 18"
+    },
+    {
+      "id": 408,
+      "text": "حرف \"ث\"، الأم ثيؤدورا."
+    },
+    {
+      "id": 409,
+      "text": "Ser. on N.T. 34: 2."
+    },
+    {
+      "id": 410,
+      "text": "Ante Nicene Prs, vol 5, p 245."
+    },
+    {
+      "id": 411,
+      "text": "In Eph. hom 19."
+    },
+    {
+      "id": 412,
+      "text": "In Eph. hom 19."
+    },
+    {
+      "id": 413,
+      "text": "Ep. 108: 12."
+    },
+    {
+      "id": 414,
+      "text": "In Eph. Hom 19."
+    },
+    {
+      "id": 415,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 226 - 228.."
+    },
+    {
+      "id": 416,
+      "text": "In Eph. Hom 19."
+    },
+    {
+      "id": 417,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 12 - 16.."
+    },
+    {
+      "id": 418,
+      "text": "To his wife 2: 9."
+    },
+    {
+      "id": 419,
+      "text": "Ad. Polyc. 5."
+    },
+    {
+      "id": 420,
+      "text": "Ep. to Wegelius 19, 23: 7."
+    },
+    {
+      "id": 421,
+      "text": "Against the heresy of one Noetus 14."
+    },
+    {
+      "id": 422,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 39."
+    },
+    {
+      "id": 423,
+      "text": "للمؤلف: الحب الزوجي، 1984، ص 38 - 39."
+    },
+    {
+      "id": 424,
+      "text": "Ep. 63."
+    },
+    {
+      "id": 425,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 426,
+      "text": "On Paradise 11: 50."
+    },
+    {
+      "id": 427,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 428,
+      "text": "Ibid."
+    },
+    {
+      "id": 429,
+      "text": "Ep. 93: 34."
+    },
+    {
+      "id": 430,
+      "text": "Com. on an Easter Hymn."
+    },
+    {
+      "id": 431,
+      "text": "Ep. 74."
+    },
+    {
+      "id": 432,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 433,
+      "text": "Ep 130: 7."
+    },
+    {
+      "id": 434,
+      "text": "راجع للمؤلف: سفر التكوين، 1984 ، ص 65، 66."
+    },
+    {
+      "id": 435,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49) ."
+    },
+    {
+      "id": 436,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49) ."
+    },
+    {
+      "id": 437,
+      "text": "راجع للمؤلف: إنجيل لوقا (تفسير 2: 49) ."
+    },
+    {
+      "id": 438,
+      "text": "Ser. On N.T. lessons 1."
+    },
+    {
+      "id": 439,
+      "text": "للمؤلف: الحب العائلي، 1970، ص 63، 64."
+    },
+    {
+      "id": 440,
+      "text": "للمؤلف: الحب العائلي، 1970، ص65 - 73."
+    },
+    {
+      "id": 441,
+      "text": "In Eph. hom 21."
+    },
+    {
+      "id": 442,
+      "text": "Ser. on N.T. lessons; on the Psalms 71: 1."
+    },
+    {
+      "id": 443,
+      "text": "Ep. to Heliodorus."
+    },
+    {
+      "id": 444,
+      "text": "In Eph. hom 21."
+    },
+    {
+      "id": 445,
+      "text": "الحب العائلي، 1970، ص 43."
+    },
+    {
+      "id": 446,
+      "text": "In 1Tim hom 9."
+    },
+    {
+      "id": 447,
+      "text": "Ser. on N.T. 44: 1."
+    },
+    {
+      "id": 448,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 449,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 450,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 451,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 452,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 453,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 454,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 455,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 456,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 457,
+      "text": "Ser. on N.T. 17: 4."
+    },
+    {
+      "id": 458,
+      "text": "Ep. 226: 12."
+    },
+    {
+      "id": 459,
+      "text": "Against Jovinianus 2: 3."
+    },
+    {
+      "id": 460,
+      "text": "On the Belief of Resurrection 2: 106."
+    },
+    {
+      "id": 461,
+      "text": "Conc. Virgins 2: 29."
+    },
+    {
+      "id": 462,
+      "text": "Ep. 75: 2."
+    },
+    {
+      "id": 463,
+      "text": "Cassian: Conf., 7: 20."
+    },
+    {
+      "id": 464,
+      "text": "Cassian: Conf., 7: 21."
+    },
+    {
+      "id": 465,
+      "text": "Sermon against Auxentius 6."
+    },
+    {
+      "id": 466,
+      "text": "In Eph. hom 22."
+    },
+    {
+      "id": 467,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 468,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 469,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 470,
+      "text": "Ep. 55: 8."
+    },
+    {
+      "id": 471,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 472,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 473,
+      "text": "Cassian: Conf. 20: 8."
+    },
+    {
+      "id": 474,
+      "text": "In Eph. hom 24."
+    },
+    {
+      "id": 475,
+      "text": "Ep. 3: 4, 5; 54: 7."
+    },
+    {
+      "id": 476,
+      "text": "In Eph. hom 24"
+    }
+  ]
+}

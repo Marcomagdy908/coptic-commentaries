@@ -1,0 +1,131 @@
+{
+  "book_id": 3,
+  "book_title": "تفسير سفر راعوث",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "العالم والفراغ"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "راعوث في حقل بوعز"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "راعوث في بيت بوعز"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "راعوث والعرس السماوي"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Talmud: Baba Bathra 14 b."
+    },
+    {
+      "id": 2,
+      "text": "On Ps. Hom 34."
+    },
+    {
+      "id": 3,
+      "text": "Jerome Biblical Commentary P 904."
+    },
+    {
+      "id": 4,
+      "text": "J. H. Raven: O.T. Introd. P 293."
+    },
+    {
+      "id": 5,
+      "text": "Ibid. P 292."
+    },
+    {
+      "id": 6,
+      "text": "On Nativity hymn 7."
+    },
+    {
+      "id": 7,
+      "text": "Jerome Biblical Comm. P 605."
+    },
+    {
+      "id": 8,
+      "text": "W.E. Staples: American Journal of Semitic Language and Literatures, 53 , P 150."
+    },
+    {
+      "id": 9,
+      "text": "Ep. 39: 5."
+    },
+    {
+      "id": 10,
+      "text": "Conc. Widows 6 ."
+    },
+    {
+      "id": 11,
+      "text": "My Lire in Christ, 1971, V. 1, P 15."
+    },
+    {
+      "id": 12,
+      "text": "Ibid, P 20."
+    },
+    {
+      "id": 13,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 14,
+      "text": "In Ter. Hom 17: 4."
+    },
+    {
+      "id": 15,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 16,
+      "text": "De Baptismo 1."
+    },
+    {
+      "id": 17,
+      "text": "In Acts hom 40: 2."
+    },
+    {
+      "id": 18,
+      "text": "تعليم الإيمان: 5 ."
+    },
+    {
+      "id": 19,
+      "text": "للمؤلف: الله مقدسي، ص 52 ."
+    },
+    {
+      "id": 20,
+      "text": "On Nativity hymn 7."
+    },
+    {
+      "id": 21,
+      "text": "Talmud: Baba Bathra 14 b."
+    },
+    {
+      "id": 22,
+      "text": "On Ps. Hom 34."
+    },
+    {
+      "id": 23,
+      "text": "Jerome Biblical Commentary P 904."
+    },
+    {
+      "id": 24,
+      "text": "J. H. Raven: O.T. Introd. P 293."
+    },
+    {
+      "id": 25,
+      "text": "Ibid. P 292."
+    },
+    {
+      "id": 26,
+      "text": "On Nativity hymn 7."
+    }
+  ]
+}

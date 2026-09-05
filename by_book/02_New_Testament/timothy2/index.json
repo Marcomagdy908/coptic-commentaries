@@ -1,0 +1,563 @@
+{
+  "book_id": 58,
+  "book_title": "تفسير الرسالة الثانية إلى تيموثاوس",
+  "testament": "New Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الافتتاحية"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الجهاد والنعمة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الهرطقات والشر"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "المثابرة على الكرازة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 2,
+      "text": "Ep. 2: 10 ( ترجمة مدام عايدة حنا بسطا )"
+    },
+    {
+      "id": 3,
+      "text": "in 2 Tim. hom 1."
+    },
+    {
+      "id": 4,
+      "text": "Ep. 2: 10."
+    },
+    {
+      "id": 5,
+      "text": "للمؤلف: الحب الأخوي، 1964، ص 287. ."
+    },
+    {
+      "id": 6,
+      "text": "In 2 Tim. hom 1."
+    },
+    {
+      "id": 7,
+      "text": "للمؤلف: رسالة بولس الرسول الأولى إلى تيموثاوس، 1982 ، ص 11 ."
+    },
+    {
+      "id": 8,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 9,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 10,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 11,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 12,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 13,
+      "text": "لدراسة سكنى الروح القدس فينا، وهل هو يهجرنا أم لا، راجع مقال: \"لا تطفئوا الروح\" للقديس مار فيلوكسينوس ."
+    },
+    {
+      "id": 14,
+      "text": "In 2 Tim. hom 3."
+    },
+    {
+      "id": 15,
+      "text": "In 2 Tim. hom 3."
+    },
+    {
+      "id": 16,
+      "text": "اسم يوناني يعني \"يجد راحة\"."
+    },
+    {
+      "id": 17,
+      "text": "القس مرقس داود: تفسير رسالتي بولس الرسول الأولى والثانية إلى تيموثاوس ( لمتى هنري )، 1975، ص 130 ."
+    },
+    {
+      "id": 18,
+      "text": "القس مرقس داود: تفسير رسالتي بولس الرسول الأولى والثانية إلى تيموثاوس ( لمتى هنري )، 1975، ص 130 ."
+    },
+    {
+      "id": 19,
+      "text": "Rev. Robertson: The Expostior’s Bible, p. 324-9."
+    },
+    {
+      "id": 20,
+      "text": "On Ps. hom 41"
+    },
+    {
+      "id": 21,
+      "text": "Duties of Clergy 1: 36."
+    },
+    {
+      "id": 22,
+      "text": "In 2 Tim. hom 4."
+    },
+    {
+      "id": 23,
+      "text": "In 2 Tim. hom 4."
+    },
+    {
+      "id": 24,
+      "text": "In 2 Tim. hom 5."
+    },
+    {
+      "id": 25,
+      "text": "In 2 Tim. hom 5."
+    },
+    {
+      "id": 26,
+      "text": "In 2 Tim. hom 5."
+    },
+    {
+      "id": 27,
+      "text": "In loan. tr 19: 14."
+    },
+    {
+      "id": 28,
+      "text": "In loan. tr 22: 12."
+    },
+    {
+      "id": 29,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 62- 68."
+    },
+    {
+      "id": 30,
+      "text": "De Trinitate 2:12."
+    },
+    {
+      "id": 31,
+      "text": "PG 36 :364."
+    },
+    {
+      "id": 32,
+      "text": "PG 33:428 A."
+    },
+    {
+      "id": 33,
+      "text": "تفسير يوحنا، مقال 16."
+    },
+    {
+      "id": 34,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 35,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 36,
+      "text": "Ep. 51:52."
+    },
+    {
+      "id": 37,
+      "text": "Ep. 50: 3."
+    },
+    {
+      "id": 38,
+      "text": "On Ps. 89."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 40,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 41,
+      "text": "De Principiis 3: 1."
+    },
+    {
+      "id": 42,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 43,
+      "text": "Duties of Clergy 1: 20 (68, 87) ترجمة القس موسى وهبة"
+    },
+    {
+      "id": 44,
+      "text": "الحب الرعوي، 1966، ص 667"
+    },
+    {
+      "id": 45,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 46,
+      "text": "Ibid."
+    },
+    {
+      "id": 47,
+      "text": "راجع أقوال الآباء في هذا الشأن (الحب الرعوي ص 681)."
+    },
+    {
+      "id": 48,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 49,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 50,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 51,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 52,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 53,
+      "text": "Treat. on the Unity of the Church, 16."
+    },
+    {
+      "id": 54,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 55,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 56,
+      "text": "On Prayer 19: 3."
+    },
+    {
+      "id": 57,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 58,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 59,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 60,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 61,
+      "text": "On Ps. 66."
+    },
+    {
+      "id": 62,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 63,
+      "text": "Ep. 73: 9."
+    },
+    {
+      "id": 64,
+      "text": "Exhortation to the Heathen."
+    },
+    {
+      "id": 65,
+      "text": "In Matt. hom 2: 9."
+    },
+    {
+      "id": 66,
+      "text": "De Stud. paes PG 63: 485."
+    },
+    {
+      "id": 67,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 68,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 69,
+      "text": "الحب الرعوي، 1966، ص 607 ."
+    },
+    {
+      "id": 70,
+      "text": "الحب الرعوي، 1966، ص 607 ."
+    },
+    {
+      "id": 71,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 72,
+      "text": "الحب الرعوي، 1966، ص 674 - 676."
+    },
+    {
+      "id": 73,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 74,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 75,
+      "text": "Ep. 8."
+    },
+    {
+      "id": 76,
+      "text": "Duties of Clergy 1: 15."
+    },
+    {
+      "id": 77,
+      "text": "الحب الرعوي، 1966، ص 674 - 676."
+    },
+    {
+      "id": 78,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 79,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 80,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 81,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 82,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 83,
+      "text": "Ep. 2: 10 ( ترجمة مدام عايدة حنا بسطا )"
+    },
+    {
+      "id": 84,
+      "text": "in 2 Tim. hom 1."
+    },
+    {
+      "id": 85,
+      "text": "Ep. 2: 10."
+    },
+    {
+      "id": 86,
+      "text": "للمؤلف: الحب الأخوي، 1964، ص 287. ."
+    },
+    {
+      "id": 87,
+      "text": "In 2 Tim. hom 1."
+    },
+    {
+      "id": 88,
+      "text": "للمؤلف: رسالة بولس الرسول الأولى إلى تيموثاوس، 1982 ، ص 11 ."
+    },
+    {
+      "id": 89,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 90,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 91,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 92,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 93,
+      "text": "In 2 Tim. hom 2."
+    },
+    {
+      "id": 94,
+      "text": "لدراسة سكنى الروح القدس فينا، وهل هو يهجرنا أم لا، راجع مقال: \"لا تطفئوا الروح\" للقديس مار فيلوكسينوس ."
+    },
+    {
+      "id": 95,
+      "text": "In 2 Tim. hom 3."
+    },
+    {
+      "id": 96,
+      "text": "In 2 Tim. hom 3."
+    },
+    {
+      "id": 97,
+      "text": "اسم يوناني يعني \"يجد راحة\"."
+    },
+    {
+      "id": 98,
+      "text": "القس مرقس داود: تفسير رسالتي بولس الرسول الأولى والثانية إلى تيموثاوس ( لمتى هنري )، 1975، ص 130 ."
+    },
+    {
+      "id": 99,
+      "text": "القس مرقس داود: تفسير رسالتي بولس الرسول الأولى والثانية إلى تيموثاوس ( لمتى هنري )، 1975، ص 130 ."
+    },
+    {
+      "id": 100,
+      "text": "Rev. Robertson: The Expostior’s Bible, p. 324-9."
+    },
+    {
+      "id": 101,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 102,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 103,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 104,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 105,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 106,
+      "text": "Treat. on the Unity of the Church, 16."
+    },
+    {
+      "id": 107,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 108,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 109,
+      "text": "On Prayer 19: 3."
+    },
+    {
+      "id": 110,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 111,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 112,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 113,
+      "text": "In 2 Tim. hom 8."
+    },
+    {
+      "id": 114,
+      "text": "On Ps. 66."
+    },
+    {
+      "id": 115,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 116,
+      "text": "Ep. 73: 9."
+    },
+    {
+      "id": 117,
+      "text": "Exhortation to the Heathen."
+    },
+    {
+      "id": 118,
+      "text": "In Matt. hom 2: 9."
+    },
+    {
+      "id": 119,
+      "text": "De Stud. paes PG 63: 485."
+    },
+    {
+      "id": 120,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 121,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 122,
+      "text": "الحب الرعوي، 1966، ص 607 ."
+    },
+    {
+      "id": 123,
+      "text": "الحب الرعوي، 1966، ص 607 ."
+    },
+    {
+      "id": 124,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 125,
+      "text": "الحب الرعوي، 1966، ص 674 - 676."
+    },
+    {
+      "id": 126,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 127,
+      "text": "In 2 Tim. hom 9."
+    },
+    {
+      "id": 128,
+      "text": "Ep. 8."
+    },
+    {
+      "id": 129,
+      "text": "Duties of Clergy 1: 15."
+    },
+    {
+      "id": 130,
+      "text": "الحب الرعوي، 1966، ص 674 - 676."
+    },
+    {
+      "id": 131,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 132,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 133,
+      "text": "In 2 Tim. hom 10."
+    },
+    {
+      "id": 134,
+      "text": "In 2 Tim. hom 10."
+    }
+  ]
+}

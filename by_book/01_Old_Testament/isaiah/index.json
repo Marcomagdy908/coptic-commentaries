@@ -1,0 +1,3155 @@
+{
+  "book_id": 27,
+  "book_title": "تفسير سفر إشعياء",
+  "testament": "Old Testament",
+  "chapters_count": 64,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "المحاكمة العظمى"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "جبل بيت الرب"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "مجاعة مهلكة"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "غصن الرب هو العلاج"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "نشيد الكرمة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "رؤيا إشعياء ودعوته"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "خلاص آحاز والخلاص المسياني"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "مهير شلال حاش بز"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "المولود العجيب"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "هجوم آشور على يهوذا"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "المسيا والعصر المسياني"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "تسبحة المفديين"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "وحي من جهة بابل"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "سقوط بابل"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "وحي من جهة موآب"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "خضوع موآب ليهوذا"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "وحي من جهة دمشق وأفرايم"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "كوش تقدم هدية لله"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "مبارك شعبي مصر"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "خضوع مصر لآشور"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "J. Vernon McGee: Isaiah, 1982, p. 7."
+    },
+    {
+      "id": 2,
+      "text": "أنطون يعقوب: تفسير نبوات إشعياء، 1949، ص 8 ."
+    },
+    {
+      "id": 3,
+      "text": "H. A. Ironaide: Expositary notes on the Prophet Isaiah, 1985, p. 3."
+    },
+    {
+      "id": 4,
+      "text": "See: Epistle of Barnabas; St. Justin: Apology 1, dial. With Trypho."
+    },
+    {
+      "id": 5,
+      "text": "Harry Bultema: Commentary on Isaiah, Michigan 1981, p. 19."
+    },
+    {
+      "id": 6,
+      "text": "Ibid, 1."
+    },
+    {
+      "id": 7,
+      "text": "Origen: Comm. On Is. 3:6-12; St. Justin: Dial with Trypho."
+    },
+    {
+      "id": 8,
+      "text": "J. Bultema, p. 12-15."
+    },
+    {
+      "id": 9,
+      "text": "The New Century Bible Comm.: R. E. Clements, Isaiah 1-39, 1988, p. 9-11."
+    },
+    {
+      "id": 10,
+      "text": "H. Bultema, p. 3."
+    },
+    {
+      "id": 11,
+      "text": "Ibid, p. 10-11."
+    },
+    {
+      "id": 12,
+      "text": "The New international Comm. On the O.T., Book of Isaiah 1-39, John N. Oswalt, 1986, p. 28."
+    },
+    {
+      "id": 13,
+      "text": "H. Bultema, p. 4."
+    },
+    {
+      "id": 14,
+      "text": "Ibid, p. 5-6."
+    },
+    {
+      "id": 15,
+      "text": "القس لوقا سيداروس: تأملات في سفر إشعياء، ج 1، مقدمة للقمص بيشوي كامل، ص 5."
+    },
+    {
+      "id": 16,
+      "text": "Oswalt, p. 29."
+    },
+    {
+      "id": 17,
+      "text": "Ibid, p. 53."
+    },
+    {
+      "id": 18,
+      "text": "H. Bultema, p.20."
+    },
+    {
+      "id": 19,
+      "text": "Oswalt, p. 33."
+    },
+    {
+      "id": 20,
+      "text": "Ibid, p. 39."
+    },
+    {
+      "id": 21,
+      "text": "C. R. North: Isaiah 40-55, 1981, p. 29-30."
+    },
+    {
+      "id": 22,
+      "text": "C. R. North: The Suffering Servant in Deutro-Isaiah:"
+    },
+    {
+      "id": 23,
+      "text": "An Historical and Critical Study, 1956, p. 192-219."
+    },
+    {
+      "id": 24,
+      "text": "Oswalt, p. 51."
+    },
+    {
+      "id": 25,
+      "text": "Ironside, p. 8."
+    },
+    {
+      "id": 26,
+      "text": "Cf. Augustine: Sermons on the Liturgical Seasons, trans. By M. S. Muldowney: The Fathers of the Church, vol. 38 (N. Y. 1959), p. 80-81."
+    },
+    {
+      "id": 27,
+      "text": "Bultema, p. 363."
+    },
+    {
+      "id": 28,
+      "text": "Antiq. 11:1:2."
+    },
+    {
+      "id": 29,
+      "text": "Oswalt, p. 21."
+    },
+    {
+      "id": 30,
+      "text": "The Unity of Isaiah in the Light of Statistical Linguistics, Hildeshein 1973, p. 274-7."
+    },
+    {
+      "id": 31,
+      "text": "Cf. E. G. Young: Who wrote Isaiah?1958, p. 58-60."
+    },
+    {
+      "id": 32,
+      "text": "L. L. Adam& A. C. Rincher: The popular Critical View of the Isaiah Problem in the Light of Statistical Style Analysis, Computer Studies 4, 1973, 149-157."
+    },
+    {
+      "id": 33,
+      "text": "للاستفاضة في هذا الشأن (في الكتب العربية) راجع انطون يعقوب: تفسير نبوات إشعياء/ ص 25، 26، وبالإنجليزية H. Bultema, p. 368/371. ."
+    },
+    {
+      "id": 34,
+      "text": "In Hebr. Hom. 23:8."
+    },
+    {
+      "id": 35,
+      "text": "Stromata 4:26."
+    },
+    {
+      "id": 36,
+      "text": "The Coptic Liturge of St. Gregory."
+    },
+    {
+      "id": 37,
+      "text": "On Jealousy and Enby 14."
+    },
+    {
+      "id": 38,
+      "text": "Adv. Haer."
+    },
+    {
+      "id": 39,
+      "text": "Fest. Letters 8."
+    },
+    {
+      "id": 40,
+      "text": "On the Ascension of Christ."
+    },
+    {
+      "id": 41,
+      "text": "In John hom. 50:2."
+    },
+    {
+      "id": 42,
+      "text": "Ibid, p. 80-1."
+    },
+    {
+      "id": 43,
+      "text": "On Ps. 78."
+    },
+    {
+      "id": 44,
+      "text": "Paed. 19."
+    },
+    {
+      "id": 45,
+      "text": "Ibid, p. 2:8."
+    },
+    {
+      "id": 46,
+      "text": "On Virginity 18."
+    },
+    {
+      "id": 47,
+      "text": "In Exod. Hom. 6."
+    },
+    {
+      "id": 48,
+      "text": "Cat. Lect. 12:7 ."
+    },
+    {
+      "id": 49,
+      "text": "Cat. Lect ."
+    },
+    {
+      "id": 50,
+      "text": "Comm. On John, Book 10-18."
+    },
+    {
+      "id": 51,
+      "text": "Comm. On Matt. Book 14:19."
+    },
+    {
+      "id": 52,
+      "text": "Institutes 4:38."
+    },
+    {
+      "id": 53,
+      "text": "Adv. Haer. 4:17:1."
+    },
+    {
+      "id": 54,
+      "text": "Frag. 38."
+    },
+    {
+      "id": 55,
+      "text": "Stromata 2:16."
+    },
+    {
+      "id": 56,
+      "text": "Fest. Letters 6."
+    },
+    {
+      "id": 57,
+      "text": "Ep. Of Barnabas 2."
+    },
+    {
+      "id": 58,
+      "text": "In John Book 10:11."
+    },
+    {
+      "id": 59,
+      "text": "Fest. Letters 12."
+    },
+    {
+      "id": 60,
+      "text": "Dial. With Trypho 32."
+    },
+    {
+      "id": 61,
+      "text": "Fest . Letters 12."
+    },
+    {
+      "id": 62,
+      "text": "Dial with Trypho 12."
+    },
+    {
+      "id": 63,
+      "text": "Justin: Apology 1:61: Greg. Naz. Oration on the Holy Lights 20: Cyril of Jerusalem: Cat. Lect. 1:1 etc."
+    },
+    {
+      "id": 64,
+      "text": "In John Hom. 70:2."
+    },
+    {
+      "id": 65,
+      "text": "Cat. Lect. 1:1."
+    },
+    {
+      "id": 66,
+      "text": "The Great Catechism 40."
+    },
+    {
+      "id": 67,
+      "text": "Cassian: Conf. 7:4."
+    },
+    {
+      "id": 68,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 69,
+      "text": "Ep. 1:8,9."
+    },
+    {
+      "id": 70,
+      "text": "In John hom. 70:3."
+    },
+    {
+      "id": 71,
+      "text": "In Heb. Hom 12:7."
+    },
+    {
+      "id": 72,
+      "text": "Ibid."
+    },
+    {
+      "id": 73,
+      "text": "Exhort. To Heath 10."
+    },
+    {
+      "id": 74,
+      "text": "Who is the rich that shall be saved? 39."
+    },
+    {
+      "id": 75,
+      "text": "In Hebr. Hom 12:7."
+    },
+    {
+      "id": 76,
+      "text": "Ad pop. P.G. 49:66,67."
+    },
+    {
+      "id": 77,
+      "text": "In John 1:5."
+    },
+    {
+      "id": 78,
+      "text": "Stromata 1:19."
+    },
+    {
+      "id": 79,
+      "text": "Comm. On Matt. Book 12:4."
+    },
+    {
+      "id": 80,
+      "text": "Adv. Haer 4:12:1."
+    },
+    {
+      "id": 81,
+      "text": "In Defense of His Flight to Pontus 46."
+    },
+    {
+      "id": 82,
+      "text": "Adv. Haer. 4:1:6."
+    },
+    {
+      "id": 83,
+      "text": "On Ps. Hom 51."
+    },
+    {
+      "id": 84,
+      "text": "Ep. 118:1P 22:39."
+    },
+    {
+      "id": 85,
+      "text": "Ep. 7:5."
+    },
+    {
+      "id": 86,
+      "text": "Comm. On John Book, 1 2:1."
+    },
+    {
+      "id": 87,
+      "text": "Ironside, p. 18,19. Bultema, p. 50,51."
+    },
+    {
+      "id": 88,
+      "text": "Sermons On N.T. Lessons, 39:2 ."
+    },
+    {
+      "id": 89,
+      "text": "In 1John, hom, 1:13."
+    },
+    {
+      "id": 90,
+      "text": "City of God 10:22."
+    },
+    {
+      "id": 91,
+      "text": "In John tr. 6:9."
+    },
+    {
+      "id": 92,
+      "text": "City of God 18:54."
+    },
+    {
+      "id": 93,
+      "text": "In Num. Hom 3."
+    },
+    {
+      "id": 94,
+      "text": "Apology 1:39."
+    },
+    {
+      "id": 95,
+      "text": "Dial, with Trypho 135."
+    },
+    {
+      "id": 96,
+      "text": "In Matt. Hom 2:10."
+    },
+    {
+      "id": 97,
+      "text": "In Num. Hom 1."
+    },
+    {
+      "id": 98,
+      "text": "Dial. With Trypho 133."
+    },
+    {
+      "id": 99,
+      "text": "Cat. Lect, 13:12."
+    },
+    {
+      "id": 100,
+      "text": "In 1 Tim. Hom. 8:3."
+    },
+    {
+      "id": 101,
+      "text": "In 1 Tim. Hom 8."
+    },
+    {
+      "id": 102,
+      "text": "Ibid."
+    },
+    {
+      "id": 103,
+      "text": "Bultema, p. 70."
+    },
+    {
+      "id": 104,
+      "text": "Oration on the Holy Baptism 38."
+    },
+    {
+      "id": 105,
+      "text": "Adv. Haer. 4:22:1"
+    },
+    {
+      "id": 106,
+      "text": "Paed. 3:9"
+    },
+    {
+      "id": 107,
+      "text": "Ibid"
+    },
+    {
+      "id": 108,
+      "text": "In Heb. Hom. 28:3"
+    },
+    {
+      "id": 109,
+      "text": "In Eph. Hom. 5."
+    },
+    {
+      "id": 110,
+      "text": "In Lue.20:9-19."
+    },
+    {
+      "id": 111,
+      "text": "Catena Aurea. St. Mark Ch. 12."
+    },
+    {
+      "id": 112,
+      "text": "Ep. 74:5."
+    },
+    {
+      "id": 113,
+      "text": "In Luc. 20:9-19."
+    },
+    {
+      "id": 114,
+      "text": "Adv. Haer. 4:36:2."
+    },
+    {
+      "id": 115,
+      "text": "On John tr. 80:1."
+    },
+    {
+      "id": 116,
+      "text": "In Ps. 80."
+    },
+    {
+      "id": 117,
+      "text": "Cat. Lect. 13:29."
+    },
+    {
+      "id": 118,
+      "text": "Stromata 4:12."
+    },
+    {
+      "id": 119,
+      "text": "See St. Iren. Adv Haer. 3:17:3."
+    },
+    {
+      "id": 120,
+      "text": "In Heb. Hom. 10:2."
+    },
+    {
+      "id": 121,
+      "text": "Serm. On N.T. Lessons 1."
+    },
+    {
+      "id": 122,
+      "text": "In Ps. 77."
+    },
+    {
+      "id": 123,
+      "text": "In Matt. Hom. 48:8."
+    },
+    {
+      "id": 124,
+      "text": "In John tr. 80:1."
+    },
+    {
+      "id": 125,
+      "text": "On Ps. 119."
+    },
+    {
+      "id": 126,
+      "text": "On the Trinity 11:6."
+    },
+    {
+      "id": 127,
+      "text": "Paed. 3:12."
+    },
+    {
+      "id": 128,
+      "text": "In Gal. Hom. 1."
+    },
+    {
+      "id": 129,
+      "text": "In John hom 15:1."
+    },
+    {
+      "id": 130,
+      "text": "In Isai. Hom. 2:2."
+    },
+    {
+      "id": 131,
+      "text": "راجع للمؤلف: القديس يوحنا الذهبي الفم، 1988 ، ص 299."
+    },
+    {
+      "id": 132,
+      "text": "المرجع السابق، ص 32."
+    },
+    {
+      "id": 133,
+      "text": "The author: Church, House of God, 1982, p. 333."
+    },
+    {
+      "id": 134,
+      "text": "Gregory Dix: The Shape of the Liturgy, p. 237."
+    },
+    {
+      "id": 135,
+      "text": "Greg. Nyssa: Adv. Eunomius 2:14."
+    },
+    {
+      "id": 136,
+      "text": "Ibid 1:23."
+    },
+    {
+      "id": 137,
+      "text": "Bultema, p. 93."
+    },
+    {
+      "id": 138,
+      "text": "Ep. 1:34."
+    },
+    {
+      "id": 139,
+      "text": "Conc. The Statues, hom. 7:9."
+    },
+    {
+      "id": 140,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 141,
+      "text": "St. Cassian: Conf. 23:17."
+    },
+    {
+      "id": 142,
+      "text": "Ibid."
+    },
+    {
+      "id": 143,
+      "text": "In John tr. 53:6."
+    },
+    {
+      "id": 144,
+      "text": "Adv. Haer. 3:19:1."
+    },
+    {
+      "id": 145,
+      "text": "للمؤلف: ستعود بقوة أعظم، 1967 ، ص 5."
+    },
+    {
+      "id": 146,
+      "text": "On the Trinity 7:6:12."
+    },
+    {
+      "id": 147,
+      "text": "Ibid 15:2."
+    },
+    {
+      "id": 148,
+      "text": "Reply to Faustus and Manichacan 12:46."
+    },
+    {
+      "id": 149,
+      "text": "Ibid 4:2."
+    },
+    {
+      "id": 150,
+      "text": "Sermons on the N.T. Lessons 39:4."
+    },
+    {
+      "id": 151,
+      "text": "Stromata 4:21."
+    },
+    {
+      "id": 152,
+      "text": "Adv. Haer. 3:21:6."
+    },
+    {
+      "id": 153,
+      "text": "Against Marcionists and Manichaeans 3."
+    },
+    {
+      "id": 154,
+      "text": "Apology 1:33."
+    },
+    {
+      "id": 155,
+      "text": "J.B. Carol: Mariology, 1955, vol. 1, p. 51."
+    },
+    {
+      "id": 156,
+      "text": "Cf. Fr. T. Malaty: St. Mary in the Orthodox Concept, ch. 1."
+    },
+    {
+      "id": 157,
+      "text": "Adv. Haer 4:33:12."
+    },
+    {
+      "id": 158,
+      "text": "Comm. on Luke 2:57."
+    },
+    {
+      "id": 159,
+      "text": "Hymn 3 on Nativity."
+    },
+    {
+      "id": 160,
+      "text": "PG. 76:15-18."
+    },
+    {
+      "id": 161,
+      "text": "Bultema, p. 112."
+    },
+    {
+      "id": 162,
+      "text": "Ep. 164:7."
+    },
+    {
+      "id": 163,
+      "text": "Instructuions to Catechumens 2:2."
+    },
+    {
+      "id": 164,
+      "text": "In Heb. Hom. 4:5."
+    },
+    {
+      "id": 165,
+      "text": "Cat. Lect. 1:6."
+    },
+    {
+      "id": 166,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 167,
+      "text": "On the Words of the Gospel, Or. 37:2."
+    },
+    {
+      "id": 168,
+      "text": "On the Theophany, Or, 38:2."
+    },
+    {
+      "id": 169,
+      "text": "On Ps. 88."
+    },
+    {
+      "id": 170,
+      "text": "Comm, on John, Book 2:21."
+    },
+    {
+      "id": 171,
+      "text": "Ep. 61:3."
+    },
+    {
+      "id": 172,
+      "text": "Of Christian Faith 3:84."
+    },
+    {
+      "id": 173,
+      "text": "Comm, on John, Book 1:42."
+    },
+    {
+      "id": 174,
+      "text": "Apology 1:35"
+    },
+    {
+      "id": 175,
+      "text": "Ccontra Celsus 1."
+    },
+    {
+      "id": 176,
+      "text": "Comm, in Rom. 5:6."
+    },
+    {
+      "id": 177,
+      "text": "In John hom, 81:1."
+    },
+    {
+      "id": 178,
+      "text": "Stromata 5:1."
+    },
+    {
+      "id": 179,
+      "text": "Contra Celsus 6:67."
+    },
+    {
+      "id": 180,
+      "text": "Cat. Lect. 12:24."
+    },
+    {
+      "id": 181,
+      "text": "راجع للمؤلف: رسالة بولس الرسول إلى أهل رومية، 1985 ، 205"
+    },
+    {
+      "id": 182,
+      "text": "In Rom. Hom. 17."
+    },
+    {
+      "id": 183,
+      "text": "In 2 Cor,2."
+    },
+    {
+      "id": 184,
+      "text": "City of God 18:33."
+    },
+    {
+      "id": 185,
+      "text": "Apology 1:32."
+    },
+    {
+      "id": 186,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 215."
+    },
+    {
+      "id": 187,
+      "text": "De Bapt. Christii."
+    },
+    {
+      "id": 188,
+      "text": "Oration 5 on the Holy Spirit, 29."
+    },
+    {
+      "id": 189,
+      "text": "Strom. 4:6."
+    },
+    {
+      "id": 190,
+      "text": "Hom. 18:10."
+    },
+    {
+      "id": 191,
+      "text": "Bultema, p. 149."
+    },
+    {
+      "id": 192,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 130."
+    },
+    {
+      "id": 193,
+      "text": "للمؤلف: قاموس آباء الكنيسة وقديسيها ، ج 1 1986، ص113"
+    },
+    {
+      "id": 194,
+      "text": "On Repentance 1."
+    },
+    {
+      "id": 195,
+      "text": "PG. 33:333A, 428 A.."
+    },
+    {
+      "id": 196,
+      "text": "PG. 61:418."
+    },
+    {
+      "id": 197,
+      "text": "PG. 46. 429C."
+    },
+    {
+      "id": 198,
+      "text": "On Eutropius, hom 2."
+    },
+    {
+      "id": 199,
+      "text": "Ep. To the fallen Theodore, 2."
+    },
+    {
+      "id": 200,
+      "text": "القمص سمعان السرياني: سيرة وأقوال مار آفرام السرياني، 1988، ص 123."
+    },
+    {
+      "id": 201,
+      "text": "Cassian: Conf. 7:32."
+    },
+    {
+      "id": 202,
+      "text": "Bultema, p. 158."
+    },
+    {
+      "id": 203,
+      "text": "Institutionss 5:2."
+    },
+    {
+      "id": 204,
+      "text": "Whitaker: Documents of the Baptismal Liturgy, p. 37, 40."
+    },
+    {
+      "id": 205,
+      "text": "للمؤلف: الكنيسة تحبك، للقديس يوحنا الذهبي الفم، 1968 المقدمة."
+    },
+    {
+      "id": 206,
+      "text": "Bultema, ch. 14."
+    },
+    {
+      "id": 207,
+      "text": "On Eutropius, hom. 2."
+    },
+    {
+      "id": 208,
+      "text": "PG. 33:333A."
+    },
+    {
+      "id": 209,
+      "text": "PG. 33:357A."
+    },
+    {
+      "id": 210,
+      "text": "هل للشيطان سلطان عليك؟ للقديس يوحنا الذهبي الفم ، ص62."
+    },
+    {
+      "id": 211,
+      "text": "Institutions 12:4."
+    },
+    {
+      "id": 212,
+      "text": "Ibid 12:8."
+    },
+    {
+      "id": 213,
+      "text": "القمص سمعان السرياني: سيرة وأقوال مار آفرام السرياني، 1988، ص 132-133."
+    },
+    {
+      "id": 214,
+      "text": "On Nativity, hymn 1."
+    },
+    {
+      "id": 215,
+      "text": "On Virginity 11."
+    },
+    {
+      "id": 216,
+      "text": "Cf. R.E. Clements: The New Century Bible Commentary, Isaiah 1-39, 1987, p. 152."
+    },
+    {
+      "id": 217,
+      "text": "Ibid 152."
+    },
+    {
+      "id": 218,
+      "text": "Ser. On N.T. Lessons 6:9."
+    },
+    {
+      "id": 219,
+      "text": "المطران أبيفانيوس: الأماني الذهبية من مقالات إكليل القديسين يوحنا الذهبي الفم، 1972، ص 49."
+    },
+    {
+      "id": 220,
+      "text": "New International Comm, on the O.T., Isaiah 1-39, p. 338-9."
+    },
+    {
+      "id": 221,
+      "text": "Cf. Bultema, p. 177."
+    },
+    {
+      "id": 222,
+      "text": "In Rom, hom 20."
+    },
+    {
+      "id": 223,
+      "text": "On Ps, hom, 23."
+    },
+    {
+      "id": 224,
+      "text": "Ironside: The Prophet Isaiah, 1985, p. 99; The New Westminster Dict, of the Bible: Arcor."
+    },
+    {
+      "id": 225,
+      "text": "قاموس الكتاب المقدس : عروعير ."
+    },
+    {
+      "id": 226,
+      "text": "On Nativity, hymn 2."
+    },
+    {
+      "id": 227,
+      "text": "للمؤلف: الحب الرعوي، ص 45."
+    },
+    {
+      "id": 228,
+      "text": "In Matt. In Gen. PG. 57:30; 53:228."
+    },
+    {
+      "id": 229,
+      "text": "In Paralyt. PG. 51:51."
+    },
+    {
+      "id": 230,
+      "text": "In Act. PG. 60:124."
+    },
+    {
+      "id": 231,
+      "text": "C.F. Keil: Comm, on the O.T., vol 7, p. 343."
+    },
+    {
+      "id": 232,
+      "text": "J.N. Oswalt: The Book of Isaiah, p. 352."
+    },
+    {
+      "id": 233,
+      "text": "Cf. Oswalt, p. 353."
+    },
+    {
+      "id": 234,
+      "text": "Ibid 351, n. 1."
+    },
+    {
+      "id": 235,
+      "text": "Ironside: The Prophet Isaiah, p. 103/4."
+    },
+    {
+      "id": 236,
+      "text": "Oswalt, p. 359."
+    },
+    {
+      "id": 237,
+      "text": "Ibid."
+    },
+    {
+      "id": 238,
+      "text": "Ibid."
+    },
+    {
+      "id": 239,
+      "text": "Cassian: Conf 5:5,6."
+    },
+    {
+      "id": 240,
+      "text": "Serm, on N.T. Lessons 1; On the Holy Trinity 4:13."
+    },
+    {
+      "id": 241,
+      "text": "Fr. T. Malaty: Introduction to the Coptic Orthodox Church, Ottawa 1088, ch 1."
+    },
+    {
+      "id": 242,
+      "text": "للمؤلف: الكنيسة القبطية الأرثوذكسية والروحانية ، أتاوا، كندا، ص 5-6."
+    },
+    {
+      "id": 243,
+      "text": "Bultema, p. 195."
+    },
+    {
+      "id": 244,
+      "text": "للمؤلف: آباء مدرسة الإسكندرية الأولون."
+    },
+    {
+      "id": 245,
+      "text": "للمؤلف: الكنيسة القبطية الأرثوذكسية، 1986 ا، ص 14."
+    },
+    {
+      "id": 246,
+      "text": "On Nativity, hymn 2."
+    },
+    {
+      "id": 247,
+      "text": "Bultema, p. 204."
+    },
+    {
+      "id": 248,
+      "text": "Ibid."
+    },
+    {
+      "id": 249,
+      "text": "In Hebr. Hom 23:9."
+    },
+    {
+      "id": 250,
+      "text": "Ibid."
+    },
+    {
+      "id": 251,
+      "text": "On Ps. 65."
+    },
+    {
+      "id": 252,
+      "text": "On Ps. 126."
+    },
+    {
+      "id": 253,
+      "text": "H. Bultema, p. 216."
+    },
+    {
+      "id": 254,
+      "text": "Ibid 216-7."
+    },
+    {
+      "id": 255,
+      "text": "الإنجيل بحسب لوقا، 1985 ، ص 589- 590."
+    },
+    {
+      "id": 256,
+      "text": "Comm, on Luke, hom 131."
+    },
+    {
+      "id": 257,
+      "text": "In Evang, hom 39."
+    },
+    {
+      "id": 258,
+      "text": "Fest. Ep. 7."
+    },
+    {
+      "id": 259,
+      "text": "Bultema p. 221-2."
+    },
+    {
+      "id": 260,
+      "text": "راجع تفسيرنا رؤيا يوحنا اللاهوتي، 1979 ، ص 42-43."
+    },
+    {
+      "id": 261,
+      "text": "In Joan, book 5:4."
+    },
+    {
+      "id": 262,
+      "text": "للمؤلف: حزقيال، 1981 ، ص 176-180."
+    },
+    {
+      "id": 263,
+      "text": "PL. 25:24,."
+    },
+    {
+      "id": 264,
+      "text": "H. Bultema, p. 226."
+    },
+    {
+      "id": 265,
+      "text": "Ibid 227."
+    },
+    {
+      "id": 266,
+      "text": "Cassian: Conf. 6:6."
+    },
+    {
+      "id": 267,
+      "text": "Against Arians 1:14."
+    },
+    {
+      "id": 268,
+      "text": "In Defense of His Flight to Pontus."
+    },
+    {
+      "id": 269,
+      "text": "Adv. Haer. 3:20:3."
+    },
+    {
+      "id": 270,
+      "text": "De Sacram. 5:12,13."
+    },
+    {
+      "id": 271,
+      "text": "De Trinit. PG. 39:708C."
+    },
+    {
+      "id": 272,
+      "text": "In 1Cor. Hom 24."
+    },
+    {
+      "id": 273,
+      "text": "Ep. 63:11."
+    },
+    {
+      "id": 274,
+      "text": "Myst. 43."
+    },
+    {
+      "id": 275,
+      "text": "Cat. Hom 15:20."
+    },
+    {
+      "id": 276,
+      "text": "Ibid 13:12; 16:30."
+    },
+    {
+      "id": 277,
+      "text": "Fr. Malaty: Christ in the Eucharist, 1985, book 1, ch. 6."
+    },
+    {
+      "id": 278,
+      "text": "PG. 33:841C."
+    },
+    {
+      "id": 279,
+      "text": "J.J. Collins: Collegeville Bible comm.. 13, Isaia p. 59."
+    },
+    {
+      "id": 280,
+      "text": "On Ps. 55."
+    },
+    {
+      "id": 281,
+      "text": "City of God 11:1."
+    },
+    {
+      "id": 282,
+      "text": "On Ps. 24."
+    },
+    {
+      "id": 283,
+      "text": "للمؤلف: الحب الإلهي، 727-729."
+    },
+    {
+      "id": 284,
+      "text": "City of God 19:26,27."
+    },
+    {
+      "id": 285,
+      "text": "الحب الإلهي، ص965."
+    },
+    {
+      "id": 286,
+      "text": "On Ps. 16."
+    },
+    {
+      "id": 287,
+      "text": "On Ps. 16."
+    },
+    {
+      "id": 288,
+      "text": "In Loan, hom 12."
+    },
+    {
+      "id": 289,
+      "text": "On the Holy Trinity 14:19:25."
+    },
+    {
+      "id": 290,
+      "text": "On the Spirit and the letter, ch. 37."
+    },
+    {
+      "id": 291,
+      "text": "St. Chrysostom: In Heb. Hom 5:5; the Paralytic let down through the roof 6."
+    },
+    {
+      "id": 292,
+      "text": "On Ps. 48."
+    },
+    {
+      "id": 293,
+      "text": "On the Holy Virginity 39."
+    },
+    {
+      "id": 294,
+      "text": "Ep. 36:31."
+    },
+    {
+      "id": 295,
+      "text": "Incar, of the Word 31."
+    },
+    {
+      "id": 296,
+      "text": "الحب الإلهي، ص467-468"
+    },
+    {
+      "id": 297,
+      "text": "الحب الإلهي، ص469."
+    },
+    {
+      "id": 298,
+      "text": "Whitacker: Documents of the Baptismal Liturgy, p. 37, 39."
+    },
+    {
+      "id": 299,
+      "text": "الحب الإلهي، ص480."
+    },
+    {
+      "id": 300,
+      "text": "Paed. 1;9."
+    },
+    {
+      "id": 301,
+      "text": "Contra Arians 2:42; 3:24."
+    },
+    {
+      "id": 302,
+      "text": "R.E. Clements: The New Century Bible comm.., Isaiah, p. 220."
+    },
+    {
+      "id": 303,
+      "text": "الحب الإلهي، ص432-433."
+    },
+    {
+      "id": 304,
+      "text": "الحب الإلهي، ص366."
+    },
+    {
+      "id": 305,
+      "text": "Adv. Haer. 4:4:1."
+    },
+    {
+      "id": 306,
+      "text": "Ironside: The Prophet Isaiah, p. 167."
+    },
+    {
+      "id": 307,
+      "text": "الحب الإلهي، ص378-380."
+    },
+    {
+      "id": 308,
+      "text": "Demonstration 4 on Prayer, 4."
+    },
+    {
+      "id": 309,
+      "text": "St. Augustine: Sermons on N.T. Lessons 1:14,15."
+    },
+    {
+      "id": 310,
+      "text": "In Luc. Serm. 134."
+    },
+    {
+      "id": 311,
+      "text": "On Ps. 118."
+    },
+    {
+      "id": 312,
+      "text": "Jamieson, Fausset and Brown: Comm. On the Whole Bible, p. 543."
+    },
+    {
+      "id": 313,
+      "text": "قاموس الكتاب المقدس ، ص530."
+    },
+    {
+      "id": 314,
+      "text": "Ironside: The Prophet Isaiah, ch, 29."
+    },
+    {
+      "id": 315,
+      "text": "Jamieson, p. 544."
+    },
+    {
+      "id": 316,
+      "text": "للمؤلف: هل للشيطان سلطان عليك؟ ليوحنا ذهبي الفم - ص62."
+    },
+    {
+      "id": 317,
+      "text": "In Matt. Hom 55."
+    },
+    {
+      "id": 318,
+      "text": "In Rom. Hom. 19."
+    },
+    {
+      "id": 319,
+      "text": "In Matt. Book 11:11."
+    },
+    {
+      "id": 320,
+      "text": "Instr. 1:9."
+    },
+    {
+      "id": 321,
+      "text": "On Ps, 49."
+    },
+    {
+      "id": 322,
+      "text": "Ibid 38."
+    },
+    {
+      "id": 323,
+      "text": "Ep. 1:15."
+    },
+    {
+      "id": 324,
+      "text": "Ad v Eumon 1:37."
+    },
+    {
+      "id": 325,
+      "text": "Martyrius: Book of Perfection 5."
+    },
+    {
+      "id": 326,
+      "text": "قاموس الكتاب المقدس ، ص285."
+    },
+    {
+      "id": 327,
+      "text": "Dialogue sur l' ame et les passions 4; trans. I. Hausherr, Orientalia Christiana Analecta 120, Rome 1938, 99"
+    },
+    {
+      "id": 328,
+      "text": "Ep. to Olympias 10:2."
+    },
+    {
+      "id": 329,
+      "text": "In Jer. Hom.6:3."
+    },
+    {
+      "id": 330,
+      "text": "Sel. Ps. 119:85."
+    },
+    {
+      "id": 331,
+      "text": "De Baptismo 2."
+    },
+    {
+      "id": 332,
+      "text": "PG. 46:416C."
+    },
+    {
+      "id": 333,
+      "text": "De Mortuis. PG. 46:529A."
+    },
+    {
+      "id": 334,
+      "text": "De hominis opificio. PG. 44:237B."
+    },
+    {
+      "id": 335,
+      "text": "Ibid 161AB; In Christ; resurrectionem 3."
+    },
+    {
+      "id": 336,
+      "text": "Contra Eunom. 4. PG. 45:637A.B."
+    },
+    {
+      "id": 337,
+      "text": "On Ps. 146."
+    },
+    {
+      "id": 338,
+      "text": "سفر التكوين، 1988م ، ص377."
+    },
+    {
+      "id": 339,
+      "text": "To Eutropius, hom.2."
+    },
+    {
+      "id": 340,
+      "text": "الحب الإلهي، ص50."
+    },
+    {
+      "id": 341,
+      "text": "الحب الإلهي، ص70-75."
+    },
+    {
+      "id": 342,
+      "text": "الحب الإلهي، ص38-40."
+    },
+    {
+      "id": 343,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 344,
+      "text": "الحب الإلهي، ص80-83."
+    },
+    {
+      "id": 345,
+      "text": "On the Holy Baptism 27."
+    },
+    {
+      "id": 346,
+      "text": "J.J. Collins, p. 73."
+    },
+    {
+      "id": 347,
+      "text": "للمؤلف: هل للشيطان سلطان عليك؟ ليوحنا ذهبي الفم ، ص73 إلخ."
+    },
+    {
+      "id": 348,
+      "text": "In Matt. PG. 58:592."
+    },
+    {
+      "id": 349,
+      "text": "In Gen. PG. 53:76, 77."
+    },
+    {
+      "id": 350,
+      "text": "In Rom. PG. 60:499."
+    },
+    {
+      "id": 351,
+      "text": "Cf. St. Cassian: Conf. 11:13."
+    },
+    {
+      "id": 352,
+      "text": "De verb Habents."
+    },
+    {
+      "id": 353,
+      "text": "Apology 2:11:2."
+    },
+    {
+      "id": 354,
+      "text": "Oratio 42:12."
+    },
+    {
+      "id": 355,
+      "text": "Origen: Fragmenta in Joannem, IX."
+    },
+    {
+      "id": 356,
+      "text": "Cf. Henri Crouzel: Theologie de l'image de Dieu chez Origene, Paris 1,956,239ff."
+    },
+    {
+      "id": 357,
+      "text": "Cf. Ironside: The Prophet Isaiah, ch 34."
+    },
+    {
+      "id": 358,
+      "text": "On Ps. 8."
+    },
+    {
+      "id": 359,
+      "text": "De Principiis, Pref. 8."
+    },
+    {
+      "id": 360,
+      "text": "Bultema, ch 34."
+    },
+    {
+      "id": 361,
+      "text": "Bultema, p. 318."
+    },
+    {
+      "id": 362,
+      "text": "On the Baptism of Christ."
+    },
+    {
+      "id": 363,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981م ، ص131."
+    },
+    {
+      "id": 364,
+      "text": "المرجع السابق ، ص131."
+    },
+    {
+      "id": 365,
+      "text": "Sermon 5."
+    },
+    {
+      "id": 366,
+      "text": "In Heb. Hom. 30:2."
+    },
+    {
+      "id": 367,
+      "text": "Serm. on N.T. Lessons 16:3,4."
+    },
+    {
+      "id": 368,
+      "text": "On Matt. Book 11:18."
+    },
+    {
+      "id": 369,
+      "text": "On Ps. 46."
+    },
+    {
+      "id": 370,
+      "text": "Cat. Lect. 5:4."
+    },
+    {
+      "id": 371,
+      "text": "In Hebr. Hom.6:10."
+    },
+    {
+      "id": 372,
+      "text": "Ibid 23:9."
+    },
+    {
+      "id": 373,
+      "text": "للمؤلف: هل للشيطان سلطان عليك؟ للقديس يوحنا الذهبي الفم، مقال 3 ."
+    },
+    {
+      "id": 374,
+      "text": "In 2 Tim. Hom. 8."
+    },
+    {
+      "id": 375,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 376,
+      "text": "De Anno Sermo 4; PG. 54:666."
+    },
+    {
+      "id": 377,
+      "text": "Cf. Tomas' Spidlik: The Spirituality of the Christian East, 1986, P.307. Nacertanye christianskago nravoucenija (Christian Moral Teaching), Moscow 1895, p. 122."
+    },
+    {
+      "id": 378,
+      "text": "Ibid. 406."
+    },
+    {
+      "id": 379,
+      "text": "Cf. Spidlik: Theophane la Recluse, p. 240."
+    },
+    {
+      "id": 380,
+      "text": "Ibid 241."
+    },
+    {
+      "id": 381,
+      "text": "The histories of the Monks who lived in the Desert of Egypt."
+    },
+    {
+      "id": 382,
+      "text": "للمؤلف: قاموس آباء الكنيسة وقديسيها، العهد الجديد 1 1986 ، ص40."
+    },
+    {
+      "id": 383,
+      "text": "In Librum Jesu Neve, hom. 8:4."
+    },
+    {
+      "id": 384,
+      "text": "De Principiis 3:21."
+    },
+    {
+      "id": 385,
+      "text": "Bultema, p. 344/5."
+    },
+    {
+      "id": 386,
+      "text": "R.E. Clements, p. 291."
+    },
+    {
+      "id": 387,
+      "text": "The Literal meaning of Genesis 6:17."
+    },
+    {
+      "id": 388,
+      "text": "Expos. In Ps. 4:4; PG. 55:44 ff."
+    },
+    {
+      "id": 389,
+      "text": "Demonstration 4, on Prayer 1,8,9."
+    },
+    {
+      "id": 390,
+      "text": "The Syriac Fathers on Prayer and the Spiritual life, p. 36."
+    },
+    {
+      "id": 391,
+      "text": "Ibid p. 219."
+    },
+    {
+      "id": 392,
+      "text": "In Joan. Hom 12:3."
+    },
+    {
+      "id": 393,
+      "text": "Ad Autolyeus 1:1-7; PG. 66:1024-36."
+    },
+    {
+      "id": 394,
+      "text": "Dwar. Ep. 7."
+    },
+    {
+      "id": 395,
+      "text": "Ibid 8."
+    },
+    {
+      "id": 396,
+      "text": "The Syriac Fathers p.249."
+    },
+    {
+      "id": 397,
+      "text": "Ibid p. 229."
+    },
+    {
+      "id": 398,
+      "text": "Fragments from Comm. On the prophet Isaiah, 1."
+    },
+    {
+      "id": 399,
+      "text": "In John hom. 3,5."
+    },
+    {
+      "id": 400,
+      "text": "In Ezech. 9:2 PG. 13:734 CD."
+    },
+    {
+      "id": 401,
+      "text": "In John hom 16:4."
+    },
+    {
+      "id": 402,
+      "text": "Comm. On John, book 2:26."
+    },
+    {
+      "id": 403,
+      "text": "On St. Luke, Serm. 6."
+    },
+    {
+      "id": 404,
+      "text": "To whom who had invited Him, 8."
+    },
+    {
+      "id": 405,
+      "text": "Comm. On Luke 3:1-5. ترجمة مدام عايدة حنا بسطا"
+    },
+    {
+      "id": 406,
+      "text": "In Luke hom 21."
+    },
+    {
+      "id": 407,
+      "text": "On the Soul and its origin."
+    },
+    {
+      "id": 408,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 409,
+      "text": "Ibid 103."
+    },
+    {
+      "id": 410,
+      "text": "Ibid 62."
+    },
+    {
+      "id": 411,
+      "text": "On the Catechising of the Uninstructed 16:24."
+    },
+    {
+      "id": 412,
+      "text": "Ep. To Olympias 1:1."
+    },
+    {
+      "id": 413,
+      "text": "Adv. Haer. 5:33:4."
+    },
+    {
+      "id": 414,
+      "text": "Against Eunom. 2:12."
+    },
+    {
+      "id": 415,
+      "text": "Institutes 8:3."
+    },
+    {
+      "id": 416,
+      "text": "العناية الإلهية للقديس يوحنا الذهبي الفم، ترجمة عايدة حنا بسطا ، ص19."
+    },
+    {
+      "id": 417,
+      "text": "المرجع السابق، ص8-9."
+    },
+    {
+      "id": 418,
+      "text": "Against Eunom. 2:11."
+    },
+    {
+      "id": 419,
+      "text": "للمؤلف: الحب الإلهي، ص836-837."
+    },
+    {
+      "id": 420,
+      "text": "Demon. 4 on Prayer, 7."
+    },
+    {
+      "id": 421,
+      "text": "Hymn of Faith 20:9."
+    },
+    {
+      "id": 422,
+      "text": "The book of Perfection 43,45,82."
+    },
+    {
+      "id": 423,
+      "text": "Ibid 46:47."
+    },
+    {
+      "id": 424,
+      "text": "Bultema, p. 390."
+    },
+    {
+      "id": 425,
+      "text": "R.N. Whybray: New Century Bible Comm., Isaiah 40-60; p. 61."
+    },
+    {
+      "id": 426,
+      "text": "Ep. 1:10."
+    },
+    {
+      "id": 427,
+      "text": "Theolog. Orations 4:3."
+    },
+    {
+      "id": 428,
+      "text": "Bultema, p. 396."
+    },
+    {
+      "id": 429,
+      "text": "On Ps. 22."
+    },
+    {
+      "id": 430,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981م ، ص13."
+    },
+    {
+      "id": 431,
+      "text": "In Matt. PG. 58:79C."
+    },
+    {
+      "id": 432,
+      "text": "راجع للمؤلف: الإنجيل بحسب متى، 1987م ، ص273-275."
+    },
+    {
+      "id": 433,
+      "text": "City of God 20:30."
+    },
+    {
+      "id": 434,
+      "text": "الحب الإلهي، ص866."
+    },
+    {
+      "id": 435,
+      "text": "De Spirit. Sanct. 15 ."
+    },
+    {
+      "id": 436,
+      "text": "On Ps. 4."
+    },
+    {
+      "id": 437,
+      "text": "On Ps. 43."
+    },
+    {
+      "id": 438,
+      "text": "الحب الإلهي، ص62."
+    },
+    {
+      "id": 439,
+      "text": "Apophthegmanta. Poemen. 84."
+    },
+    {
+      "id": 440,
+      "text": "On Repentance."
+    },
+    {
+      "id": 441,
+      "text": "Bultema. P. 404."
+    },
+    {
+      "id": 442,
+      "text": "Justin: Dial. with Trypho 122."
+    },
+    {
+      "id": 443,
+      "text": "Ibid 65."
+    },
+    {
+      "id": 444,
+      "text": "Fr. Malaty: Christ in the Eucharist, book 1 (The Mystery of the New Testament)."
+    },
+    {
+      "id": 445,
+      "text": "PG. 81:128B."
+    },
+    {
+      "id": 446,
+      "text": ". On Ps. 43."
+    },
+    {
+      "id": 447,
+      "text": "الحب الإلهي، ص70-71."
+    },
+    {
+      "id": 448,
+      "text": "الحب الإلهي، ص75."
+    },
+    {
+      "id": 449,
+      "text": "De Incarn. 8,9."
+    },
+    {
+      "id": 450,
+      "text": "Ibid 54."
+    },
+    {
+      "id": 451,
+      "text": "Orat. Against Arians, Disc, 3:19."
+    },
+    {
+      "id": 452,
+      "text": "(See our book: The Coptic Orthodox Church as a church as a church of Erudition and Theology, 1986, p. 82-83.)"
+    },
+    {
+      "id": 453,
+      "text": "In joan; in Rom,; PG. 59:79; 60:466."
+    },
+    {
+      "id": 454,
+      "text": "In 2 Cor; 1 Tim.; PG. 61:477-480; 62:536-7."
+    },
+    {
+      "id": 455,
+      "text": "In Rom.; PG. 60:477."
+    },
+    {
+      "id": 456,
+      "text": "الحب الإلهي، ص15-18."
+    },
+    {
+      "id": 457,
+      "text": "الحب الإلهي، ص467."
+    },
+    {
+      "id": 458,
+      "text": "On Modesty 16."
+    },
+    {
+      "id": 459,
+      "text": "Ep. 63."
+    },
+    {
+      "id": 460,
+      "text": "Bultemore, ch. 43."
+    },
+    {
+      "id": 461,
+      "text": "In John hom 19:2."
+    },
+    {
+      "id": 462,
+      "text": "Adv. Haer. 4:5:1."
+    },
+    {
+      "id": 463,
+      "text": "Fr. M.F. Wahba: The Doctrine of Sanctification in St. Athanasius' Paschal letters, 1988, 77;"
+    },
+    {
+      "id": 464,
+      "text": "Fl Syr 14:4; p. 543; cf De Inc. 1:4 p. 36: 20:1, p. 47 Con. Gen. 1:5, p. 4."
+    },
+    {
+      "id": 465,
+      "text": "Fl Syr 10:4, p. 528; cf 1:1, p. 506."
+    },
+    {
+      "id": 466,
+      "text": "الروح القدس بين الميلاد الجديد والتجديد المستمر ، س13."
+    },
+    {
+      "id": 467,
+      "text": "Book of Perfection, 40."
+    },
+    {
+      "id": 468,
+      "text": "Adv. Haer 4:17:3."
+    },
+    {
+      "id": 469,
+      "text": "Resisting the Temptation of the Devil, hom 2,6."
+    },
+    {
+      "id": 470,
+      "text": "Letters to the Fallen Theodore. 1:15."
+    },
+    {
+      "id": 471,
+      "text": "In 1 Cor. Hom. 11."
+    },
+    {
+      "id": 472,
+      "text": "In 2 Cor. Hom 5."
+    },
+    {
+      "id": 473,
+      "text": "In Heb. Hom 14:7."
+    },
+    {
+      "id": 474,
+      "text": "In Zek. Hom 6:5."
+    },
+    {
+      "id": 475,
+      "text": "In Joan 5:2."
+    },
+    {
+      "id": 476,
+      "text": "ميمر عن المعمودية."
+    },
+    {
+      "id": 477,
+      "text": "Comm. On Cant. 3:1."
+    },
+    {
+      "id": 478,
+      "text": "Ep. To Furia 54."
+    },
+    {
+      "id": 479,
+      "text": "In Matt. PG. 57:99,80."
+    },
+    {
+      "id": 480,
+      "text": "On the Holy Spirit 9:22."
+    },
+    {
+      "id": 481,
+      "text": "Cat. Lect: Pref., 1:4."
+    },
+    {
+      "id": 482,
+      "text": "R.N. Whybray: The New Century Bible Comm., Isaiah 40-46, p. 104."
+    },
+    {
+      "id": 483,
+      "text": "قاموس الكتاب المقدس ، ص795-796."
+    },
+    {
+      "id": 484,
+      "text": "On Ps. 110."
+    },
+    {
+      "id": 485,
+      "text": "In John hom 9:1 (St. Chrysostom)."
+    },
+    {
+      "id": 486,
+      "text": "That Demons do not govern the World, hom 1:15."
+    },
+    {
+      "id": 487,
+      "text": "Conf. 6:6."
+    },
+    {
+      "id": 488,
+      "text": "On Ps.85."
+    },
+    {
+      "id": 489,
+      "text": "Ibid."
+    },
+    {
+      "id": 490,
+      "text": "الحب الإلهي، ص233-234."
+    },
+    {
+      "id": 491,
+      "text": "In Hebr. Hom 17:4."
+    },
+    {
+      "id": 492,
+      "text": "In John hom 17:1."
+    },
+    {
+      "id": 493,
+      "text": "Ibid 18:1."
+    },
+    {
+      "id": 494,
+      "text": "الحب الإلهي، ص421."
+    },
+    {
+      "id": 495,
+      "text": "الحب الإلهي، ص429."
+    },
+    {
+      "id": 496,
+      "text": "الحب الإلهي، ص167، 170."
+    },
+    {
+      "id": 497,
+      "text": "A.J. Wensinck: Mystical Treatises, St.Isaac Syrian, p. 219."
+    },
+    {
+      "id": 498,
+      "text": "الحب الإلهي، ص730 إلخ."
+    },
+    {
+      "id": 499,
+      "text": "الحب الإلهي، ص432."
+    },
+    {
+      "id": 500,
+      "text": "الحب الإلهي، ص70، 74."
+    },
+    {
+      "id": 501,
+      "text": "In Hebr. 29:33."
+    },
+    {
+      "id": 502,
+      "text": "Ep. 118:1."
+    },
+    {
+      "id": 503,
+      "text": "On Ps. 89."
+    },
+    {
+      "id": 504,
+      "text": "On Ps. 116."
+    },
+    {
+      "id": 505,
+      "text": "On Ps. Hom. 51."
+    },
+    {
+      "id": 506,
+      "text": "Pasch. Ep. 2,3."
+    },
+    {
+      "id": 507,
+      "text": "On Ps. 138."
+    },
+    {
+      "id": 508,
+      "text": "Comm. On Cant., Serm 4."
+    },
+    {
+      "id": 509,
+      "text": "In John, book 1:36."
+    },
+    {
+      "id": 510,
+      "text": "Comm. On Cant. 3;8."
+    },
+    {
+      "id": 511,
+      "text": "On Pa. 38.."
+    },
+    {
+      "id": 512,
+      "text": "On Ps. 144."
+    },
+    {
+      "id": 513,
+      "text": "In John 1:37."
+    },
+    {
+      "id": 514,
+      "text": "In John, Book 1:37."
+    },
+    {
+      "id": 515,
+      "text": "الحب الإلهي، ص71، 74-75."
+    },
+    {
+      "id": 516,
+      "text": "On Ps. 118."
+    },
+    {
+      "id": 517,
+      "text": "On Ps. 166."
+    },
+    {
+      "id": 518,
+      "text": "Letter to Hesychius, 25."
+    },
+    {
+      "id": 519,
+      "text": "Ibid 26."
+    },
+    {
+      "id": 520,
+      "text": "Ibid 27."
+    },
+    {
+      "id": 521,
+      "text": "Ibid 29."
+    },
+    {
+      "id": 522,
+      "text": "Ibid 30."
+    },
+    {
+      "id": 523,
+      "text": "Ibid 22."
+    },
+    {
+      "id": 524,
+      "text": "Pasch. Letters 6."
+    },
+    {
+      "id": 525,
+      "text": "Cassian: Conf. 13:17."
+    },
+    {
+      "id": 526,
+      "text": "On Providence. 6. ترجمة مدام عايدة حنا بسطا"
+    },
+    {
+      "id": 527,
+      "text": "Cassian: Conf. 24:24."
+    },
+    {
+      "id": 528,
+      "text": "In Matt. Book 14:17."
+    },
+    {
+      "id": 529,
+      "text": "In John hom. 68:2."
+    },
+    {
+      "id": 530,
+      "text": "On Providence, 6."
+    },
+    {
+      "id": 531,
+      "text": "In 1 Cor. Hom 7."
+    },
+    {
+      "id": 532,
+      "text": "In 2 Cor. Hom 2."
+    },
+    {
+      "id": 533,
+      "text": "Pasc. Letters 8."
+    },
+    {
+      "id": 534,
+      "text": "To Olympias, 1:2."
+    },
+    {
+      "id": 535,
+      "text": "On Ps. 92."
+    },
+    {
+      "id": 536,
+      "text": "الحب الإلهي، 424."
+    },
+    {
+      "id": 537,
+      "text": "الحب الإلهي، ص424-425."
+    },
+    {
+      "id": 538,
+      "text": "Oration on the Holy Baptism 40:36."
+    },
+    {
+      "id": 539,
+      "text": "In Hebr. Hom 24:8."
+    },
+    {
+      "id": 540,
+      "text": "In Matt. Hom 11:3."
+    },
+    {
+      "id": 541,
+      "text": "In Matt. 3:9."
+    },
+    {
+      "id": 542,
+      "text": "الكنيسة تحبك، ص42."
+    },
+    {
+      "id": 543,
+      "text": "De poen PG. 49-336."
+    },
+    {
+      "id": 544,
+      "text": "Strom. 4:8:66."
+    },
+    {
+      "id": 545,
+      "text": "Prot, 10:108."
+    },
+    {
+      "id": 546,
+      "text": "An Acts hom 20:4 PG. 60:162."
+    },
+    {
+      "id": 547,
+      "text": "In MRR. HOM 18:1."
+    },
+    {
+      "id": 548,
+      "text": "الحب الإلهي، ص644."
+    },
+    {
+      "id": 549,
+      "text": "الحب الإلهي، ص638."
+    },
+    {
+      "id": 550,
+      "text": "الحب الإلهي، ص654- 657."
+    },
+    {
+      "id": 551,
+      "text": "الحب الإلهي، ص643-644."
+    },
+    {
+      "id": 552,
+      "text": "On John 1:11."
+    },
+    {
+      "id": 553,
+      "text": "On Rebuke and Grace, St. John Chrysostom 46."
+    },
+    {
+      "id": 554,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 555,
+      "text": "On Ps.68."
+    },
+    {
+      "id": 556,
+      "text": "In John hom 57:3."
+    },
+    {
+      "id": 557,
+      "text": "Ep. 1:16."
+    },
+    {
+      "id": 558,
+      "text": "Cat, Lect, 13:13."
+    },
+    {
+      "id": 559,
+      "text": "الحب الإلهي، ص341-342."
+    },
+    {
+      "id": 560,
+      "text": "الحب الإلهي، ص244."
+    },
+    {
+      "id": 561,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 562,
+      "text": "On Ps 86."
+    },
+    {
+      "id": 563,
+      "text": "On Ps 104."
+    },
+    {
+      "id": 564,
+      "text": "On the Son, 19."
+    },
+    {
+      "id": 565,
+      "text": "On the Good, Widowhood, 23."
+    },
+    {
+      "id": 566,
+      "text": "Orat. On Easter, 2:13."
+    },
+    {
+      "id": 567,
+      "text": "Orat, On the Son, 20."
+    },
+    {
+      "id": 568,
+      "text": "Cat. Lect. 13:34."
+    },
+    {
+      "id": 569,
+      "text": "Ep. To Barnabas, ch5."
+    },
+    {
+      "id": 570,
+      "text": "Pasch. Ep. 1."
+    },
+    {
+      "id": 571,
+      "text": "الحب الإلهي، ص421-422."
+    },
+    {
+      "id": 572,
+      "text": "الحب الإلهي، ص423."
+    },
+    {
+      "id": 573,
+      "text": "الحب الإلهي، ص426."
+    },
+    {
+      "id": 574,
+      "text": "In John hom 13:3."
+    },
+    {
+      "id": 575,
+      "text": "On the Catechizing of the Uninstructed."
+    },
+    {
+      "id": 576,
+      "text": "On Ps. 38."
+    },
+    {
+      "id": 577,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 578,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 579,
+      "text": "الحب الإلهي، ص246."
+    },
+    {
+      "id": 580,
+      "text": "On the Creed, 8."
+    },
+    {
+      "id": 581,
+      "text": "In John hom 85:1."
+    },
+    {
+      "id": 582,
+      "text": "On Ps. 38."
+    },
+    {
+      "id": 583,
+      "text": "Orat. On Easter, 34."
+    },
+    {
+      "id": 584,
+      "text": "In Joan tr. 56:4"
+    },
+    {
+      "id": 585,
+      "text": "Comm. On Matt. 10:23."
+    },
+    {
+      "id": 586,
+      "text": "Against 2 Letters of the Palagians 3:13."
+    },
+    {
+      "id": 587,
+      "text": "In Matt. Hom 16."
+    },
+    {
+      "id": 588,
+      "text": "On Ps. 89."
+    },
+    {
+      "id": 589,
+      "text": "On Ps. 102."
+    },
+    {
+      "id": 590,
+      "text": "On Ps. 59."
+    },
+    {
+      "id": 591,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم، 1988 ، ص 211."
+    },
+    {
+      "id": 592,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم، 1988 ، ص 215."
+    },
+    {
+      "id": 593,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم، 1988 ، ص 213."
+    },
+    {
+      "id": 594,
+      "text": "In John hom 46:1"
+    },
+    {
+      "id": 595,
+      "text": "On the Grace of Christ 13."
+    },
+    {
+      "id": 596,
+      "text": "Vita Antonii 14"
+    },
+    {
+      "id": 597,
+      "text": "الحب الإلهي، ص 960."
+    },
+    {
+      "id": 598,
+      "text": "On Holy Baptism 28."
+    },
+    {
+      "id": 599,
+      "text": "الحب الإلهي، ص 45-46."
+    },
+    {
+      "id": 600,
+      "text": "الحب الإلهي، ص 51."
+    },
+    {
+      "id": 601,
+      "text": "الحب الإلهي، ص 46-47."
+    },
+    {
+      "id": 602,
+      "text": "On Ps. 70."
+    },
+    {
+      "id": 603,
+      "text": "City of God 16:41."
+    },
+    {
+      "id": 604,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 605,
+      "text": "On Ps. 135."
+    },
+    {
+      "id": 606,
+      "text": "Hymns on Nativity 4."
+    },
+    {
+      "id": 607,
+      "text": "Collationes 1:13."
+    },
+    {
+      "id": 608,
+      "text": "Fragm. In Joan 1X."
+    },
+    {
+      "id": 609,
+      "text": "See Henri Crouzel: Théologie de I’image de Dieu chez Origène. Paris 1956, p. 239 ff."
+    },
+    {
+      "id": 610,
+      "text": "{See T. Spidik: The Spirituality of the Christian East, p. 291}."
+    },
+    {
+      "id": 611,
+      "text": "Carminum Liber 1.11.9, r 19ff; PG. 37:668."
+    },
+    {
+      "id": 612,
+      "text": "{See T. Spidik, p. 291}."
+    },
+    {
+      "id": 613,
+      "text": "In Eph. Hom 1."
+    },
+    {
+      "id": 614,
+      "text": "In Matt., In Gen. PG. 57:30; 53:228."
+    },
+    {
+      "id": 615,
+      "text": "In Paralyt. PG. 51:51."
+    },
+    {
+      "id": 616,
+      "text": "City of God 17:4."
+    },
+    {
+      "id": 617,
+      "text": "City of God 22:30."
+    },
+    {
+      "id": 618,
+      "text": "Treat. On Christ and Antichrist, 3."
+    },
+    {
+      "id": 619,
+      "text": "On Prayer, 28."
+    },
+    {
+      "id": 620,
+      "text": "للمؤلف: رسالة إلى أرملة شابة، للقديس يوحنا الذهبي الفم ."
+    },
+    {
+      "id": 621,
+      "text": "الحب الإلهي، ص 519."
+    },
+    {
+      "id": 622,
+      "text": "الحب الإلهي، ص 521 ."
+    },
+    {
+      "id": 623,
+      "text": "الحب الإلهي، ص 522 ."
+    },
+    {
+      "id": 624,
+      "text": "On Ps. 82."
+    },
+    {
+      "id": 625,
+      "text": "للمؤلف: الكنيسة تحبك، للقديس يوحنا الذهبي الفم، 1968، ص 61 إلخ."
+    },
+    {
+      "id": 626,
+      "text": "On Ps. 40."
+    },
+    {
+      "id": 627,
+      "text": "Lowliness of Mind."
+    },
+    {
+      "id": 628,
+      "text": "On Ps. 77."
+    },
+    {
+      "id": 629,
+      "text": "In 1 Cor. Hom 23."
+    },
+    {
+      "id": 630,
+      "text": "Letters to the Fallen Theodore. 1:6."
+    },
+    {
+      "id": 631,
+      "text": "Ep. 130:3."
+    },
+    {
+      "id": 632,
+      "text": "On Ps. 97."
+    },
+    {
+      "id": 633,
+      "text": "Cassian: Conf. 21:14."
+    },
+    {
+      "id": 634,
+      "text": "On His Father’s Silence, 20."
+    },
+    {
+      "id": 635,
+      "text": "On Ps. 43."
+    },
+    {
+      "id": 636,
+      "text": "Ibid."
+    },
+    {
+      "id": 637,
+      "text": "Ibid 138."
+    },
+    {
+      "id": 638,
+      "text": "To the Fallen Theodore, 1:8."
+    },
+    {
+      "id": 639,
+      "text": "Tomas Spidlik: The Spirituality of the Christian East, p. 187."
+    },
+    {
+      "id": 640,
+      "text": "Treat. 5:11."
+    },
+    {
+      "id": 641,
+      "text": "On Ps. 140."
+    },
+    {
+      "id": 642,
+      "text": "الحب الإلهي، ص 169."
+    },
+    {
+      "id": 643,
+      "text": "الحب الإلهي، ص 171."
+    },
+    {
+      "id": 644,
+      "text": "الحب الإلهي، ص 167."
+    },
+    {
+      "id": 645,
+      "text": "الحب الإلهي، ص 71."
+    },
+    {
+      "id": 646,
+      "text": "Against 2 Letters of the Pelagians 4.8."
+    },
+    {
+      "id": 647,
+      "text": "The Coptic Liturgy of St. Gregory the Theologian."
+    },
+    {
+      "id": 648,
+      "text": "On Repentance 1."
+    },
+    {
+      "id": 649,
+      "text": "Ibid 2."
+    },
+    {
+      "id": 650,
+      "text": "Kay’s Writings of Clement of Alexandria, p. 437."
+    },
+    {
+      "id": 651,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981م ، ص 83."
+    },
+    {
+      "id": 652,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 653,
+      "text": "City of God 5:14."
+    },
+    {
+      "id": 654,
+      "text": "للمؤلف: الكنيسة بيت الله، 1979م، ص 311-314."
+    },
+    {
+      "id": 655,
+      "text": "On Ps. Hom 23."
+    },
+    {
+      "id": 656,
+      "text": "On the Baptism of Christ."
+    },
+    {
+      "id": 657,
+      "text": ". On Virginity 18."
+    },
+    {
+      "id": 658,
+      "text": "القمص متياس فريد: التجسد والروح القدس، 1981، ص 10."
+    },
+    {
+      "id": 659,
+      "text": "Adv. Haer 3:18:3."
+    },
+    {
+      "id": 660,
+      "text": "On Myst. 3:1."
+    },
+    {
+      "id": 661,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981م ، ص 14."
+    },
+    {
+      "id": 662,
+      "text": "The Eialogue against Luciferians."
+    },
+    {
+      "id": 663,
+      "text": "الحب الإلهي، ص 683."
+    },
+    {
+      "id": 664,
+      "text": "On the Baptism of Christ."
+    },
+    {
+      "id": 665,
+      "text": "On the Myst. 4:8."
+    },
+    {
+      "id": 666,
+      "text": ". Ibid 5:10."
+    },
+    {
+      "id": 667,
+      "text": "De Virginibus 1:5:22. PL. 19:195."
+    },
+    {
+      "id": 668,
+      "text": "On the Nativity of our Saviour 2."
+    },
+    {
+      "id": 669,
+      "text": "Strom 4:26."
+    },
+    {
+      "id": 670,
+      "text": "Orat. On Easter 35."
+    },
+    {
+      "id": 671,
+      "text": "Book of Perfection 77."
+    },
+    {
+      "id": 672,
+      "text": "On Nativity hymn 2."
+    },
+    {
+      "id": 673,
+      "text": "للمؤلف: هل للشيطان سلطان عليك؟ ليوحنا ذهبي الفم ، ص61."
+    },
+    {
+      "id": 674,
+      "text": "Anti-Niciene Frs, bol 5, p. 253."
+    },
+    {
+      "id": 675,
+      "text": "On Repentance, 2."
+    },
+    {
+      "id": 676,
+      "text": "Ladder 5; PG. 88:764B."
+    },
+    {
+      "id": 677,
+      "text": "De Paenitentia 2:2, PG 49:285."
+    },
+    {
+      "id": 678,
+      "text": "Book of perfection, 10."
+    },
+    {
+      "id": 679,
+      "text": "St. Cassian: Conf. 23:4."
+    },
+    {
+      "id": 680,
+      "text": "Ep. 44."
+    },
+    {
+      "id": 681,
+      "text": "In Rom. Hom 18."
+    },
+    {
+      "id": 682,
+      "text": "Ibid."
+    },
+    {
+      "id": 683,
+      "text": "Against the Heresy of One Noetus 12."
+    },
+    {
+      "id": 684,
+      "text": "See Ep. Of Barnabas 12; St. Justin Apol. 1:35."
+    },
+    {
+      "id": 685,
+      "text": "St. Sassian Conf, 3:22."
+    },
+    {
+      "id": 686,
+      "text": "On Ps. 88."
+    },
+    {
+      "id": 687,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981م ، ص 14-15."
+    },
+    {
+      "id": 688,
+      "text": "Dial with Trypho, 32."
+    },
+    {
+      "id": 689,
+      "text": "In Exod. Hom 9."
+    },
+    {
+      "id": 690,
+      "text": "Serm. On N.T. Lessons 7:6."
+    },
+    {
+      "id": 691,
+      "text": "On Ps. 122."
+    },
+    {
+      "id": 692,
+      "text": "On Ps. 99.."
+    },
+    {
+      "id": 693,
+      "text": "On Ps. 132."
+    },
+    {
+      "id": 694,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 695,
+      "text": "In John hom 7:1."
+    },
+    {
+      "id": 696,
+      "text": "Ep. 6:3."
+    },
+    {
+      "id": 697,
+      "text": "Adv. Haer. 4:18:3."
+    },
+    {
+      "id": 698,
+      "text": "Hugo Rahner: our Lady and the Church, p. 72."
+    },
+    {
+      "id": 699,
+      "text": "In Exod. Hom. 10:4."
+    },
+    {
+      "id": 700,
+      "text": "De Sargiusga 8:2."
+    },
+    {
+      "id": 701,
+      "text": "De Virginitate 2:13; PG. 46:324, 380."
+    },
+    {
+      "id": 702,
+      "text": "Sermon 181:4."
+    },
+    {
+      "id": 703,
+      "text": "De Virginitate 4:20 PL. 16:271."
+    },
+    {
+      "id": 704,
+      "text": "Comm. On Luke 10:25 Pl. 15:1810."
+    },
+    {
+      "id": 705,
+      "text": "City of God 20:21."
+    },
+    {
+      "id": 706,
+      "text": "J. Vernon McGee: Isaiah, 1982, p. 7."
+    },
+    {
+      "id": 707,
+      "text": "أنطون يعقوب: تفسير نبوات إشعياء، 1949، ص 8 ."
+    },
+    {
+      "id": 708,
+      "text": "H. A. Ironaide: Expositary notes on the Prophet Isaiah, 1985, p. 3."
+    },
+    {
+      "id": 709,
+      "text": "See: Epistle of Barnabas; St. Justin: Apology 1, dial. With Trypho."
+    },
+    {
+      "id": 710,
+      "text": "Harry Bultema: Commentary on Isaiah, Michigan 1981, p. 19."
+    },
+    {
+      "id": 711,
+      "text": "Ibid, 1."
+    },
+    {
+      "id": 712,
+      "text": "Origen: Comm. On Is. 3:6-12; St. Justin: Dial with Trypho."
+    },
+    {
+      "id": 713,
+      "text": "J. Bultema, p. 12-15."
+    },
+    {
+      "id": 714,
+      "text": "H. Bultema, p. 3."
+    },
+    {
+      "id": 715,
+      "text": "Ibid, p. 10-11."
+    },
+    {
+      "id": 716,
+      "text": "The New international Comm. On the O.T., Book of Isaiah 1-39, John N. Oswalt, 1986, p. 28."
+    },
+    {
+      "id": 717,
+      "text": "H. Bultema, p. 4."
+    },
+    {
+      "id": 718,
+      "text": "Ibid, p. 5-6."
+    },
+    {
+      "id": 719,
+      "text": "القس لوقا سيداروس: تأملات في سفر إشعياء، ج 1، مقدمة للقمص بيشوي كامل، ص 5."
+    },
+    {
+      "id": 720,
+      "text": "Oswalt, p. 29."
+    },
+    {
+      "id": 721,
+      "text": "Ibid, p. 53."
+    },
+    {
+      "id": 722,
+      "text": "H. Bultema, p.20."
+    },
+    {
+      "id": 723,
+      "text": "Oswalt, p. 33."
+    },
+    {
+      "id": 724,
+      "text": "Ibid, p. 39."
+    },
+    {
+      "id": 725,
+      "text": "C. R. North: Isaiah 40-55, 1981, p. 29-30."
+    },
+    {
+      "id": 726,
+      "text": "C. R. North: The Suffering Servant in Deutro-Isaiah:"
+    },
+    {
+      "id": 727,
+      "text": "Oswalt, p. 51."
+    },
+    {
+      "id": 728,
+      "text": "Ironside, p. 8."
+    },
+    {
+      "id": 729,
+      "text": "Cf. Augustine: Sermons on the Liturgical Seasons, trans. By M. S. Muldowney: The Fathers of the Church, vol. 38 (N. Y. 1959), p. 80-81."
+    },
+    {
+      "id": 730,
+      "text": "Bultema, p. 363."
+    },
+    {
+      "id": 731,
+      "text": "Antiq. 11:1:2."
+    },
+    {
+      "id": 732,
+      "text": "Oswalt, p. 21."
+    },
+    {
+      "id": 733,
+      "text": "The Unity of Isaiah in the Light of Statistical Linguistics, Hildeshein 1973, p. 274-7."
+    },
+    {
+      "id": 734,
+      "text": "Cf. E. G. Young: Who wrote Isaiah?1958, p. 58-60."
+    },
+    {
+      "id": 735,
+      "text": "L. L. Adam& A. C. Rincher: The popular Critical View of the Isaiah Problem in the Light of Statistical Style Analysis, Computer Studies 4, 1973, 149-157."
+    },
+    {
+      "id": 736,
+      "text": "للاستفاضة في هذا الشأن (في الكتب العربية) راجع انطون يعقوب: تفسير نبوات إشعياء/ ص 25، 26، وبالإنجليزية H. Bultema, p. 368/371. ."
+    },
+    {
+      "id": 737,
+      "text": "للمؤلف: ستعود بقوة أعظم ، 1967، ص 5."
+    },
+    {
+      "id": 738,
+      "text": "On the Trinity 7:6:12."
+    },
+    {
+      "id": 739,
+      "text": "Ibid 15:2."
+    },
+    {
+      "id": 740,
+      "text": "Reply to Faustus and Manichacan 12:46."
+    },
+    {
+      "id": 741,
+      "text": "Ibid 4:2."
+    },
+    {
+      "id": 742,
+      "text": "Sermons on the N.T. Lessons 39:4."
+    },
+    {
+      "id": 743,
+      "text": "Stromata 4:21."
+    },
+    {
+      "id": 744,
+      "text": "Adv. Haer. 3:21:6."
+    },
+    {
+      "id": 745,
+      "text": "Against Marcionists and Manichaeans 3."
+    },
+    {
+      "id": 746,
+      "text": "Apology 1:33."
+    },
+    {
+      "id": 747,
+      "text": "J.B. Carol: Mariology, 1955, vol. 1, p. 51."
+    },
+    {
+      "id": 748,
+      "text": "Adv. Haer 4:33:12."
+    },
+    {
+      "id": 749,
+      "text": "Comm. on Luke 2:57."
+    },
+    {
+      "id": 750,
+      "text": "Hymn 3 on Nativity."
+    },
+    {
+      "id": 751,
+      "text": "PG. 76:15-18."
+    },
+    {
+      "id": 752,
+      "text": "To Eutropius, hom.2."
+    },
+    {
+      "id": 753,
+      "text": "الحب الإلهي، ص50."
+    },
+    {
+      "id": 754,
+      "text": "الحب الإلهي، ص70-75."
+    },
+    {
+      "id": 755,
+      "text": "الحب الإلهي، ص38-40."
+    },
+    {
+      "id": 756,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 757,
+      "text": "الحب الإلهي، ص80-83."
+    },
+    {
+      "id": 758,
+      "text": "On the Holy Baptism 27."
+    },
+    {
+      "id": 759,
+      "text": "الحب الإلهي، ص638."
+    },
+    {
+      "id": 760,
+      "text": "الحب الإلهي، ص654- 657."
+    },
+    {
+      "id": 761,
+      "text": "الحب الإلهي، ص643-644."
+    },
+    {
+      "id": 762,
+      "text": "On John 1:11."
+    },
+    {
+      "id": 763,
+      "text": "On Rebuke and Grace, St. John Chrysostom 46."
+    },
+    {
+      "id": 764,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 765,
+      "text": "On Ps.68."
+    },
+    {
+      "id": 766,
+      "text": "In John hom 57:3."
+    }
+  ]
+}

@@ -1,0 +1,1443 @@
+{
+  "book_id": 62,
+  "book_title": "تفسير الرسالة إلى \n                    العبرانيين",
+  "testament": "New Testament",
+  "chapters_count": 13,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "المسيح والأنبياء"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "المسيح والملائكة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "المسيح وموسى"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "المسيح ويشوع"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "المسيح وهرون"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "المسيح رئيس الكهنة السماوي"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "الخدمة السمائية"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "الدخول إلى الأقداس السمائية"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الإيمان"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "الجهاد"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "وصايا ختامية"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Tert. De. Pud. c 20."
+    },
+    {
+      "id": 2,
+      "text": "Eus. H.E. 6: 14."
+    },
+    {
+      "id": 3,
+      "text": "St. Chrysostom: In Hebr., Argum. 1."
+    },
+    {
+      "id": 4,
+      "text": "Ibid."
+    },
+    {
+      "id": 5,
+      "text": "In Hebr, hom 1: 1."
+    },
+    {
+      "id": 6,
+      "text": "In Joan. hom 15: 3."
+    },
+    {
+      "id": 7,
+      "text": "On Ps 62."
+    },
+    {
+      "id": 8,
+      "text": "Ibid 49 ."
+    },
+    {
+      "id": 9,
+      "text": "In Hebr. hom 1: 2."
+    },
+    {
+      "id": 10,
+      "text": "Serm. on N.T. 6 - 9."
+    },
+    {
+      "id": 11,
+      "text": "Disc. against Arians. 1: 4."
+    },
+    {
+      "id": 12,
+      "text": "De sent. Dionysii 8."
+    },
+    {
+      "id": 13,
+      "text": "Ad. Episcopos. Egypti 13."
+    },
+    {
+      "id": 14,
+      "text": "Depositi Arii 3."
+    },
+    {
+      "id": 15,
+      "text": "In Hebr. hom 2: 1."
+    },
+    {
+      "id": 16,
+      "text": "In Joan. hom 4: 2."
+    },
+    {
+      "id": 17,
+      "text": "In Hebr. hom 2: 2."
+    },
+    {
+      "id": 18,
+      "text": "In Joan. hom 4.2."
+    },
+    {
+      "id": 19,
+      "text": "In Hebr. hom 1: 2, 3."
+    },
+    {
+      "id": 20,
+      "text": "العناية الإلهية 84: 5 (ترجمة عايدة حنا بسطا)."
+    },
+    {
+      "id": 21,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 22,
+      "text": "In Hebr. hom 1:3."
+    },
+    {
+      "id": 23,
+      "text": "العناية الإلهية 8: 6."
+    },
+    {
+      "id": 24,
+      "text": "In Hebr. hom 1: 3."
+    },
+    {
+      "id": 25,
+      "text": "Ibid 2: 4., 5."
+    },
+    {
+      "id": 26,
+      "text": "Against Arians,Disc. 1: 40."
+    },
+    {
+      "id": 27,
+      "text": "In Hebr. hom 3: 1."
+    },
+    {
+      "id": 28,
+      "text": "Against Arians,Disc. 1: 57, 58"
+    },
+    {
+      "id": 29,
+      "text": ". Ibid 1: 35."
+    },
+    {
+      "id": 30,
+      "text": "In Hebr. hom 3: 4."
+    },
+    {
+      "id": 31,
+      "text": "Ibid."
+    },
+    {
+      "id": 32,
+      "text": "راجع كتابنا: آباء مدرسة الاسكندرية الأولون، 1980، صفحة 225 - 231."
+    },
+    {
+      "id": 33,
+      "text": "Comm. Matt. 26."
+    },
+    {
+      "id": 34,
+      "text": "In Luc. hom 35."
+    },
+    {
+      "id": 35,
+      "text": "Against Arians,Disc. 3: 14."
+    },
+    {
+      "id": 36,
+      "text": "On Ps. 8."
+    },
+    {
+      "id": 37,
+      "text": "للمؤلف: آباء مدرسة الاسكندرية الأولون"
+    },
+    {
+      "id": 38,
+      "text": "In Hebr. hom 4: 2."
+    },
+    {
+      "id": 39,
+      "text": "Of Christian Faith, Book 5, Ch 13."
+    },
+    {
+      "id": 40,
+      "text": "Ibid 5: 168."
+    },
+    {
+      "id": 41,
+      "text": "In Hebr. hom 4: 3."
+    },
+    {
+      "id": 42,
+      "text": "Ibid."
+    },
+    {
+      "id": 43,
+      "text": "Ibid."
+    },
+    {
+      "id": 44,
+      "text": "Ibid."
+    },
+    {
+      "id": 45,
+      "text": "Ibid."
+    },
+    {
+      "id": 46,
+      "text": "Ibid."
+    },
+    {
+      "id": 47,
+      "text": "Ibid 4: 5."
+    },
+    {
+      "id": 48,
+      "text": "Ibid."
+    },
+    {
+      "id": 49,
+      "text": "De Sententia Dionysii 11."
+    },
+    {
+      "id": 50,
+      "text": "In Hebr. hom 4: 5."
+    },
+    {
+      "id": 51,
+      "text": "Ibid 4: 6."
+    },
+    {
+      "id": 52,
+      "text": "Ep. 61: 3."
+    },
+    {
+      "id": 53,
+      "text": "Of Christian Faith 3: 84."
+    },
+    {
+      "id": 54,
+      "text": "Fest. Ep. 2: 7."
+    },
+    {
+      "id": 55,
+      "text": ".Incar. of the Word 10"
+    },
+    {
+      "id": 56,
+      "text": "In Hebr. hom 4: 6."
+    },
+    {
+      "id": 57,
+      "text": "Ibid 5: 1"
+    },
+    {
+      "id": 58,
+      "text": "Ibid"
+    },
+    {
+      "id": 59,
+      "text": "Ibid 5: 2."
+    },
+    {
+      "id": 60,
+      "text": "Against Arians 2: 8."
+    },
+    {
+      "id": 61,
+      "text": "Comm. John Frag. 144."
+    },
+    {
+      "id": 62,
+      "text": "St. Chrysostom: In Hebr. hom 5: 4."
+    },
+    {
+      "id": 63,
+      "text": "Against Arians, 3: 6."
+    },
+    {
+      "id": 64,
+      "text": "On Christian Faith 3: 86."
+    },
+    {
+      "id": 65,
+      "text": "In Hebr. hom 5: 5."
+    },
+    {
+      "id": 66,
+      "text": "Ibid 5: 4."
+    },
+    {
+      "id": 67,
+      "text": "Ibid 6: 3."
+    },
+    {
+      "id": 68,
+      "text": "Ibid."
+    },
+    {
+      "id": 69,
+      "text": "Ibid 6: 4."
+    },
+    {
+      "id": 70,
+      "text": "Of Holy Virginity 39"
+    },
+    {
+      "id": 71,
+      "text": "Strom. 6: 16."
+    },
+    {
+      "id": 72,
+      "text": "راجع للمؤلف: المسيح في سرّ الأفخارستيا، 1973 ، ص 115: 136، سفر الخروج، 1981، ص 207."
+    },
+    {
+      "id": 73,
+      "text": "Ep. of barnabas 15."
+    },
+    {
+      "id": 74,
+      "text": "In Joan, hom 36: 2."
+    },
+    {
+      "id": 75,
+      "text": "In Hebr. hom 7: 1."
+    },
+    {
+      "id": 76,
+      "text": "Ibid."
+    },
+    {
+      "id": 77,
+      "text": "Adv. Jovin. 1: 38."
+    },
+    {
+      "id": 78,
+      "text": "Incar. Of the Word 31."
+    },
+    {
+      "id": 79,
+      "text": "Adv. Arians 2: 35."
+    },
+    {
+      "id": 80,
+      "text": "In Hebr. hom 7: 5."
+    },
+    {
+      "id": 81,
+      "text": "In Hebr. hom 23: 9."
+    },
+    {
+      "id": 82,
+      "text": "للمؤلف: الحب الرعوي، ص 673."
+    },
+    {
+      "id": 83,
+      "text": "In Hebr. hom 8: 3."
+    },
+    {
+      "id": 84,
+      "text": "Ibid"
+    },
+    {
+      "id": 85,
+      "text": "In Joan. 2: 10."
+    },
+    {
+      "id": 86,
+      "text": "In Acts. hom 55."
+    },
+    {
+      "id": 87,
+      "text": "In Hebr. hom 8: 7."
+    },
+    {
+      "id": 88,
+      "text": "Fest. Ep. 10: 4."
+    },
+    {
+      "id": 89,
+      "text": "In Hebr. hom 9: 4."
+    },
+    {
+      "id": 90,
+      "text": "Ibid 9: 5."
+    },
+    {
+      "id": 91,
+      "text": "Ibid 10: 2."
+    },
+    {
+      "id": 92,
+      "text": "Ibid."
+    },
+    {
+      "id": 93,
+      "text": "Ibid 10: 4."
+    },
+    {
+      "id": 94,
+      "text": "Ibid."
+    },
+    {
+      "id": 95,
+      "text": "Ibid 10: 5."
+    },
+    {
+      "id": 96,
+      "text": "Ibid 10: 7."
+    },
+    {
+      "id": 97,
+      "text": "Ep. 130: 14."
+    },
+    {
+      "id": 98,
+      "text": "On Ps. 95."
+    },
+    {
+      "id": 99,
+      "text": "للمؤلف: التجسد الإلهي، حب وعمل! 1975، ص 14."
+    },
+    {
+      "id": 100,
+      "text": "Against Arians, Disc. 1: 41."
+    },
+    {
+      "id": 101,
+      "text": "In Hebr. hom 12: 4."
+    },
+    {
+      "id": 102,
+      "text": "In Joan. tr. 104: 1."
+    },
+    {
+      "id": 103,
+      "text": "Ibid, tr. 78: 3."
+    },
+    {
+      "id": 104,
+      "text": "On Ps. hom 36."
+    },
+    {
+      "id": 105,
+      "text": "Against Arians 1: 60."
+    },
+    {
+      "id": 106,
+      "text": "In Hebr. hom 14: 3."
+    },
+    {
+      "id": 107,
+      "text": "Ibid 14: 4."
+    },
+    {
+      "id": 108,
+      "text": "Ibid 16: 7."
+    },
+    {
+      "id": 109,
+      "text": "Against Arians 2: 56."
+    },
+    {
+      "id": 110,
+      "text": "للمؤلف: سفر الخروج، 1981"
+    },
+    {
+      "id": 111,
+      "text": "المرجع السابق"
+    },
+    {
+      "id": 112,
+      "text": "In Hebr. hom 15: 2."
+    },
+    {
+      "id": 113,
+      "text": "On Ps. 65."
+    },
+    {
+      "id": 114,
+      "text": "Ep. Ad. Adelphius 7, 8."
+    },
+    {
+      "id": 115,
+      "text": "In Hebr. hom 16: 3."
+    },
+    {
+      "id": 116,
+      "text": "Ibid 16: 5."
+    },
+    {
+      "id": 117,
+      "text": "Ibid."
+    },
+    {
+      "id": 118,
+      "text": "المسيح في سرّ الأفخارستيا ، ص 43 - 63."
+    },
+    {
+      "id": 119,
+      "text": "In Hebr. hom 17: 4."
+    },
+    {
+      "id": 120,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 121,
+      "text": "In Hebr. Hom 17: 5."
+    },
+    {
+      "id": 122,
+      "text": "Ibid."
+    },
+    {
+      "id": 123,
+      "text": "Ibid 17: 6."
+    },
+    {
+      "id": 124,
+      "text": "المسيح في سرّ الأفخارستيا ، ص 42 - 63."
+    },
+    {
+      "id": 125,
+      "text": "In Hebr. hom 18: 3."
+    },
+    {
+      "id": 126,
+      "text": "Ep. to Adelphius 8."
+    },
+    {
+      "id": 127,
+      "text": "In Hebr. hom 19: 2."
+    },
+    {
+      "id": 128,
+      "text": "In Num. hom 3."
+    },
+    {
+      "id": 129,
+      "text": "De Incar. 25."
+    },
+    {
+      "id": 130,
+      "text": "Ep. to Adelphius 5."
+    },
+    {
+      "id": 131,
+      "text": "In Acts. hom 37."
+    },
+    {
+      "id": 132,
+      "text": "In Joan 78: 41."
+    },
+    {
+      "id": 133,
+      "text": "In Hebr. hom 20: 3."
+    },
+    {
+      "id": 134,
+      "text": "In Joan 28: 1."
+    },
+    {
+      "id": 135,
+      "text": "In Num. hom 11."
+    },
+    {
+      "id": 136,
+      "text": ".In Hebr. hom 21: 4."
+    },
+    {
+      "id": 137,
+      "text": "Ibid 21: 5."
+    },
+    {
+      "id": 138,
+      "text": "Ibid 22: 10"
+    },
+    {
+      "id": 139,
+      "text": "De Incar. 3."
+    },
+    {
+      "id": 140,
+      "text": "De Decretis 18."
+    },
+    {
+      "id": 141,
+      "text": "Ad. Epic. Egypti 21."
+    },
+    {
+      "id": 142,
+      "text": "Ibid."
+    },
+    {
+      "id": 143,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر ."
+    },
+    {
+      "id": 144,
+      "text": "للمؤلف: المسيح في سرّ الأفخارستيا، 1983 ."
+    },
+    {
+      "id": 145,
+      "text": "In Hebr. hom 23: 2."
+    },
+    {
+      "id": 146,
+      "text": "Ibid. 24: 5."
+    },
+    {
+      "id": 147,
+      "text": "راجع سفر الخروج 32: 7."
+    },
+    {
+      "id": 148,
+      "text": "In Hebr. hom 25: 2."
+    },
+    {
+      "id": 149,
+      "text": "Pasch. Ep. 6: 8, 9."
+    },
+    {
+      "id": 150,
+      "text": ". القداس الإلهي: قسمة ذبح إسحق."
+    },
+    {
+      "id": 151,
+      "text": "سفر الخروج، 1981، أصحاح 13 ."
+    },
+    {
+      "id": 152,
+      "text": "In Hebr. hom 26: 4."
+    },
+    {
+      "id": 153,
+      "text": "سفر الخروج، أصحاح 12"
+    },
+    {
+      "id": 154,
+      "text": "In Hebr. hom. 27: 2."
+    },
+    {
+      "id": 155,
+      "text": "Ibid 27: 3."
+    },
+    {
+      "id": 156,
+      "text": "Ibid 27: 5"
+    },
+    {
+      "id": 157,
+      "text": "Apol. De Fuga 21."
+    },
+    {
+      "id": 158,
+      "text": "On Ps. hom 16."
+    },
+    {
+      "id": 159,
+      "text": "In Hebr. hom 28: 6, 7."
+    },
+    {
+      "id": 160,
+      "text": "Ibid. 29: 1."
+    },
+    {
+      "id": 161,
+      "text": "On Ps. hom 51."
+    },
+    {
+      "id": 162,
+      "text": "Ep. 7: 5."
+    },
+    {
+      "id": 163,
+      "text": "On Ps. 9: 41."
+    },
+    {
+      "id": 164,
+      "text": "Ep. 118: 1, 22: 39."
+    },
+    {
+      "id": 165,
+      "text": "In Hebr. hom 29: 2."
+    },
+    {
+      "id": 166,
+      "text": "Ibid 29: 1."
+    },
+    {
+      "id": 167,
+      "text": "Ibid 30: 1."
+    },
+    {
+      "id": 168,
+      "text": "Ibid 30: 2."
+    },
+    {
+      "id": 169,
+      "text": "Ibid."
+    },
+    {
+      "id": 170,
+      "text": "Ep. 116: 8."
+    },
+    {
+      "id": 171,
+      "text": "In Hebr. hom 32: 1."
+    },
+    {
+      "id": 172,
+      "text": "In Num. hom 3."
+    },
+    {
+      "id": 173,
+      "text": "Fest Ep. 43."
+    },
+    {
+      "id": 174,
+      "text": "In Num. hom 3: 1."
+    },
+    {
+      "id": 175,
+      "text": "آباء مدرسه الاسكندرية الأولون، ص 78، 106، 228."
+    },
+    {
+      "id": 176,
+      "text": "القديس يوحنا الذهبي الفم ، 1980، ص 211، 212."
+    },
+    {
+      "id": 177,
+      "text": "Fest. Ep. 3: 3."
+    },
+    {
+      "id": 178,
+      "text": "In Hebr. hom 33: 1."
+    },
+    {
+      "id": 179,
+      "text": "In Acts, hom 3."
+    },
+    {
+      "id": 180,
+      "text": "Ep. 48"
+    },
+    {
+      "id": 181,
+      "text": "Ep. 98: 2, 3."
+    },
+    {
+      "id": 182,
+      "text": "الحب الرعوي"
+    },
+    {
+      "id": 183,
+      "text": "In Hebr. hom 33: 3"
+    },
+    {
+      "id": 184,
+      "text": "الحب الرعوي"
+    },
+    {
+      "id": 185,
+      "text": "In Hebr. hom 33: 4."
+    },
+    {
+      "id": 186,
+      "text": "تفسير العبرانيين، مقال 34 (مخطوط بدير البراموس العامر)"
+    },
+    {
+      "id": 187,
+      "text": "Tert. De. Pud. c 20."
+    },
+    {
+      "id": 188,
+      "text": "Eus. H.E. 6: 14."
+    },
+    {
+      "id": 189,
+      "text": "St. Chrysostom: In Hebr., Argum. 1."
+    },
+    {
+      "id": 190,
+      "text": "Ibid."
+    },
+    {
+      "id": 191,
+      "text": "In Hebr, hom 1: 1."
+    },
+    {
+      "id": 192,
+      "text": "In Joan. hom 15: 3."
+    },
+    {
+      "id": 193,
+      "text": "On Ps 62."
+    },
+    {
+      "id": 194,
+      "text": "Ibid 49 ."
+    },
+    {
+      "id": 195,
+      "text": "In Hebr. hom 1: 2."
+    },
+    {
+      "id": 196,
+      "text": "Serm. on N.T. 6 - 9."
+    },
+    {
+      "id": 197,
+      "text": "Disc. against Arians. 1: 4."
+    },
+    {
+      "id": 198,
+      "text": "De sent. Dionysii 8."
+    },
+    {
+      "id": 199,
+      "text": "Ad. Episcopos. Egypti 13."
+    },
+    {
+      "id": 200,
+      "text": "Depositi Arii 3."
+    },
+    {
+      "id": 201,
+      "text": "In Hebr. hom 2: 1."
+    },
+    {
+      "id": 202,
+      "text": "In Joan. hom 4: 2."
+    },
+    {
+      "id": 203,
+      "text": "In Hebr. hom 2: 2."
+    },
+    {
+      "id": 204,
+      "text": "In Joan. hom 4.2."
+    },
+    {
+      "id": 205,
+      "text": "In Hebr. hom 1: 2, 3."
+    },
+    {
+      "id": 206,
+      "text": "العناية الإلهية 84: 5 (ترجمة عايدة حنا بسطا)."
+    },
+    {
+      "id": 207,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 208,
+      "text": "In Hebr. hom 1:3."
+    },
+    {
+      "id": 209,
+      "text": "العناية الإلهية 8: 6."
+    },
+    {
+      "id": 210,
+      "text": "In Hebr. hom 1: 3."
+    },
+    {
+      "id": 211,
+      "text": "Ibid 2: 4., 5."
+    },
+    {
+      "id": 212,
+      "text": "Against Arians,Disc. 1: 40."
+    },
+    {
+      "id": 213,
+      "text": "In Hebr. hom 3: 1."
+    },
+    {
+      "id": 214,
+      "text": "Against Arians,Disc. 1: 57, 58"
+    },
+    {
+      "id": 215,
+      "text": ". Ibid 1: 35."
+    },
+    {
+      "id": 216,
+      "text": "In Hebr. hom 3: 4."
+    },
+    {
+      "id": 217,
+      "text": "Ibid."
+    },
+    {
+      "id": 218,
+      "text": "راجع كتابنا: آباء مدرسة الاسكندرية الأولون، 1980، صفحة 225 - 231."
+    },
+    {
+      "id": 219,
+      "text": "Comm. Matt. 26."
+    },
+    {
+      "id": 220,
+      "text": "In Luc. hom 35."
+    },
+    {
+      "id": 221,
+      "text": "Against Arians,Disc. 3: 14."
+    },
+    {
+      "id": 222,
+      "text": "Comm. John Frag. 144."
+    },
+    {
+      "id": 223,
+      "text": "St. Chrysostom: In Hebr. hom 5: 4."
+    },
+    {
+      "id": 224,
+      "text": "Against Arians, 3: 6."
+    },
+    {
+      "id": 225,
+      "text": "On Christian Faith 3: 86."
+    },
+    {
+      "id": 226,
+      "text": "In Hebr. hom 5: 5."
+    },
+    {
+      "id": 227,
+      "text": "Ibid 5: 4."
+    },
+    {
+      "id": 228,
+      "text": "Ibid 6: 3."
+    },
+    {
+      "id": 229,
+      "text": "Ibid."
+    },
+    {
+      "id": 230,
+      "text": "Ibid 6: 4."
+    },
+    {
+      "id": 231,
+      "text": "Of Holy Virginity 39"
+    },
+    {
+      "id": 232,
+      "text": "Strom. 6: 16."
+    },
+    {
+      "id": 233,
+      "text": "راجع للمؤلف: المسيح في سرّ الأفخارستيا، 1973 ، ص 115: 136، سفر الخروج، 1981 ، ص 207."
+    },
+    {
+      "id": 234,
+      "text": "Ep. of barnabas 15."
+    },
+    {
+      "id": 235,
+      "text": "In Joan, hom 36: 2."
+    },
+    {
+      "id": 236,
+      "text": "In Hebr. hom 7: 1."
+    },
+    {
+      "id": 237,
+      "text": "Ibid."
+    },
+    {
+      "id": 238,
+      "text": "Adv. Jovin. 1: 38."
+    },
+    {
+      "id": 239,
+      "text": "Incar. Of the Word 31."
+    },
+    {
+      "id": 240,
+      "text": "Adv. Arians 2: 35."
+    },
+    {
+      "id": 241,
+      "text": "In Hebr. hom 7: 5."
+    },
+    {
+      "id": 242,
+      "text": "In Hebr. hom 23: 9."
+    },
+    {
+      "id": 243,
+      "text": "للمؤلف: الحب الرعوي، ص 673."
+    },
+    {
+      "id": 244,
+      "text": "In Hebr. hom 8: 3."
+    },
+    {
+      "id": 245,
+      "text": "Ibid"
+    },
+    {
+      "id": 246,
+      "text": "In Joan. 2: 10."
+    },
+    {
+      "id": 247,
+      "text": "In Acts. hom 55."
+    },
+    {
+      "id": 248,
+      "text": "In Hebr. hom 8: 7."
+    },
+    {
+      "id": 249,
+      "text": "Fest. Ep. 10: 4."
+    },
+    {
+      "id": 250,
+      "text": "In Hebr. hom 9: 4."
+    },
+    {
+      "id": 251,
+      "text": "Ibid 9: 5."
+    },
+    {
+      "id": 252,
+      "text": "Ibid 10: 2."
+    },
+    {
+      "id": 253,
+      "text": "Ibid."
+    },
+    {
+      "id": 254,
+      "text": "Ibid 10: 4."
+    },
+    {
+      "id": 255,
+      "text": "Ibid."
+    },
+    {
+      "id": 256,
+      "text": "Ibid 10: 5."
+    },
+    {
+      "id": 257,
+      "text": "Ibid 10: 7."
+    },
+    {
+      "id": 258,
+      "text": "Ep. 130: 14."
+    },
+    {
+      "id": 259,
+      "text": "On Ps. 95."
+    },
+    {
+      "id": 260,
+      "text": "للمؤلف: التجسد الإلهي، حب وعمل! 1975، ص 14."
+    },
+    {
+      "id": 261,
+      "text": "Against Arians, Disc. 1: 41."
+    },
+    {
+      "id": 262,
+      "text": "In Hebr. hom 12: 4."
+    },
+    {
+      "id": 263,
+      "text": "In Joan. tr. 104: 1."
+    },
+    {
+      "id": 264,
+      "text": "Ibid, tr. 78: 3."
+    },
+    {
+      "id": 265,
+      "text": "On Ps. hom 36."
+    },
+    {
+      "id": 266,
+      "text": "Against Arians 1: 60."
+    },
+    {
+      "id": 267,
+      "text": "In Hebr. hom 14: 3."
+    },
+    {
+      "id": 268,
+      "text": "Ibid 14: 4."
+    },
+    {
+      "id": 269,
+      "text": "Ibid 16: 7."
+    },
+    {
+      "id": 270,
+      "text": "Against Arians 2: 56."
+    },
+    {
+      "id": 271,
+      "text": "للمؤلف: سفر الخروج، 1981"
+    },
+    {
+      "id": 272,
+      "text": "المرجع السابق"
+    },
+    {
+      "id": 273,
+      "text": "In Hebr. hom 15: 2."
+    },
+    {
+      "id": 274,
+      "text": "On Ps. 65."
+    },
+    {
+      "id": 275,
+      "text": "Ep. Ad. Adelphius 7, 8."
+    },
+    {
+      "id": 276,
+      "text": "In Hebr. hom 16: 3."
+    },
+    {
+      "id": 277,
+      "text": "Ibid 16: 5."
+    },
+    {
+      "id": 278,
+      "text": "Ibid."
+    },
+    {
+      "id": 279,
+      "text": "المسيح في سرّ الأفخارستيا ، ص 43 - 63."
+    },
+    {
+      "id": 280,
+      "text": "In Hebr. hom 17: 4."
+    },
+    {
+      "id": 281,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 282,
+      "text": "In Hebr. Hom 17: 5."
+    },
+    {
+      "id": 283,
+      "text": "Ibid."
+    },
+    {
+      "id": 284,
+      "text": "Ibid 17: 6."
+    },
+    {
+      "id": 285,
+      "text": "المسيح في سرّ الأفخارستيا ، ص 42 - 63."
+    },
+    {
+      "id": 286,
+      "text": "In Hebr. hom 18: 3."
+    },
+    {
+      "id": 287,
+      "text": "Ep. to Adelphius 8."
+    },
+    {
+      "id": 288,
+      "text": "In Hebr. hom 19: 2."
+    },
+    {
+      "id": 289,
+      "text": "In Num. hom 3."
+    },
+    {
+      "id": 290,
+      "text": "De Incar. 25."
+    },
+    {
+      "id": 291,
+      "text": "Ep. to Adelphius 5."
+    },
+    {
+      "id": 292,
+      "text": "In Acts. hom 37."
+    },
+    {
+      "id": 293,
+      "text": "In Joan 78: 41."
+    },
+    {
+      "id": 294,
+      "text": "In Hebr. hom 20: 3."
+    },
+    {
+      "id": 295,
+      "text": "In Joan 28: 1."
+    },
+    {
+      "id": 296,
+      "text": "In Num. hom 11."
+    },
+    {
+      "id": 297,
+      "text": ".In Hebr. hom 21: 4."
+    },
+    {
+      "id": 298,
+      "text": "Ibid 21: 5."
+    },
+    {
+      "id": 299,
+      "text": "Ibid 22: 10"
+    },
+    {
+      "id": 300,
+      "text": "De Incar. 3."
+    },
+    {
+      "id": 301,
+      "text": "De Decretis 18."
+    },
+    {
+      "id": 302,
+      "text": "Ad. Epic. Egypti 21."
+    },
+    {
+      "id": 303,
+      "text": "Ibid."
+    },
+    {
+      "id": 304,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر ."
+    },
+    {
+      "id": 305,
+      "text": "للمؤلف: المسيح في سرّ الأفخارستيا، 1983 ."
+    },
+    {
+      "id": 306,
+      "text": "In Hebr. hom 23: 2."
+    },
+    {
+      "id": 307,
+      "text": "Ibid. 24: 5."
+    },
+    {
+      "id": 308,
+      "text": "(راجع سفر الخروج 32: 7)."
+    },
+    {
+      "id": 309,
+      "text": "In Hebr. hom 25: 2."
+    },
+    {
+      "id": 310,
+      "text": "Pasch. Ep. 6: 8, 9."
+    },
+    {
+      "id": 311,
+      "text": ". القداس الإلهي: قسمة ذبح إسحق."
+    },
+    {
+      "id": 312,
+      "text": "سفر الخروج، 1981، أصحاح 13 ."
+    },
+    {
+      "id": 313,
+      "text": "In Hebr. hom 26: 4."
+    },
+    {
+      "id": 314,
+      "text": "سفر الخروج، أصحاح 12"
+    },
+    {
+      "id": 315,
+      "text": "In Hebr. hom. 27: 2."
+    },
+    {
+      "id": 316,
+      "text": "Ibid 27: 3."
+    },
+    {
+      "id": 317,
+      "text": "Ibid 27: 5"
+    },
+    {
+      "id": 318,
+      "text": "Apol. De Fuga 21."
+    },
+    {
+      "id": 319,
+      "text": "On Ps. hom 16."
+    },
+    {
+      "id": 320,
+      "text": "In Hebr. hom 28: 6, 7."
+    },
+    {
+      "id": 321,
+      "text": "Ibid. 29: 1."
+    },
+    {
+      "id": 322,
+      "text": "On Ps. hom 51."
+    },
+    {
+      "id": 323,
+      "text": "Ep. 7: 5."
+    },
+    {
+      "id": 324,
+      "text": "On Ps. 9: 41."
+    },
+    {
+      "id": 325,
+      "text": "Ep. 118: 1, 22: 39."
+    },
+    {
+      "id": 326,
+      "text": "In Hebr. hom 29: 2."
+    },
+    {
+      "id": 327,
+      "text": "Ibid 29: 1."
+    },
+    {
+      "id": 328,
+      "text": "Ibid 30: 1."
+    },
+    {
+      "id": 329,
+      "text": "Ibid 30: 2."
+    },
+    {
+      "id": 330,
+      "text": "Ibid."
+    },
+    {
+      "id": 331,
+      "text": "Ep. 116: 8."
+    },
+    {
+      "id": 332,
+      "text": "In Hebr. hom 32: 1."
+    },
+    {
+      "id": 333,
+      "text": "In Num. hom 3."
+    },
+    {
+      "id": 334,
+      "text": "Fest Ep. 43."
+    },
+    {
+      "id": 335,
+      "text": "إضافة من الموقع: (عب 12: 24)."
+    },
+    {
+      "id": 336,
+      "text": "In Num. hom 3: 1."
+    },
+    {
+      "id": 337,
+      "text": "آباء مدرسه الاسكندرية الأولون، ص 78، 106، 228."
+    },
+    {
+      "id": 338,
+      "text": "Fest. Ep. 3: 3."
+    },
+    {
+      "id": 339,
+      "text": "In Hebr. hom 33: 1."
+    },
+    {
+      "id": 340,
+      "text": "In Acts, hom 3."
+    },
+    {
+      "id": 341,
+      "text": "Ep. 48"
+    },
+    {
+      "id": 342,
+      "text": "Ep. 98: 2, 3."
+    },
+    {
+      "id": 343,
+      "text": "الحب الرعوي"
+    },
+    {
+      "id": 344,
+      "text": "In Hebr. hom 33: 3"
+    },
+    {
+      "id": 345,
+      "text": "الحب الرعوي"
+    },
+    {
+      "id": 346,
+      "text": "In Hebr. hom 33: 4."
+    },
+    {
+      "id": 347,
+      "text": "تفسير العبرانيين، مقال 34 (مخطوط بدير البراموس العامر)"
+    }
+  ]
+}

@@ -1,0 +1,1071 @@
+{
+  "book_id": 11,
+  "book_title": "تفسير سفر صموئيل الأول",
+  "testament": "Old Testament",
+  "chapters_count": 30,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "ميلاد صموئيل"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "نشأة صموئيل"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "دعوة صموئيل"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "فقدان تابوت العهد"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "سقوط داجون أمام التابوت"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "عودة تابوت العهد"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "التوبة طريق النصرة"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "طلب ملك"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "لقاء شاول مع صموئيل"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "مسح شاول ملكًا"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "محاربة العمونيين"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "حديث صموئيل الوداعي"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "شاول يغتصب العمل الكهنوتي"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "نصرة يوناثان"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "رفض شاول"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "مسح داود ملكًا"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "داود وجليات"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "شاول يخاف داود"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "ميكال تنقذ داود"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "يوناثان ينقذ داود"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Nelson: A New Catholic Commentary on Holy Scripture, 1969, p. 308."
+    },
+    {
+      "id": 2,
+      "text": "The New Westminster Dictionary of the Bible, 1969, p. 828. J.L. Mckenzie: Dictionary of the Bible, 1972, p. 767."
+    },
+    {
+      "id": 3,
+      "text": "Oesterley and Robinson: An Introduction to the Books of the Old Testament, SPCK 1961, P. 85."
+    },
+    {
+      "id": 4,
+      "text": "The Talmud (Baba Bathra 15 a)."
+    },
+    {
+      "id": 5,
+      "text": "J. Hastings: Dictionary of the Bible, N.Y. 1963, p. 884."
+    },
+    {
+      "id": 6,
+      "text": "قاموس الكتاب المقدس، 1971 ، ص 544 ."
+    },
+    {
+      "id": 7,
+      "text": "Layman: Interpreter's One Volume Commentary on the Bible, 1980, p. 1085."
+    },
+    {
+      "id": 8,
+      "text": "New Westminister Dict. Of the Bible, p. 831."
+    },
+    {
+      "id": 9,
+      "text": "Welhausen, Cornill, Budde, Kittel and Sellin."
+    },
+    {
+      "id": 10,
+      "text": "Interpreter's One Volume Commentary, p 1082."
+    },
+    {
+      "id": 11,
+      "text": "Eissfeldt."
+    },
+    {
+      "id": 12,
+      "text": "Introduction to the Old Testament, p. 87-88."
+    },
+    {
+      "id": 13,
+      "text": "Cf. J. H. Raven: Old Testament Introduction, 1910, p. 166."
+    },
+    {
+      "id": 14,
+      "text": "Driver: Notes on the Test of Samuel, Oxford 1890, p. 173."
+    },
+    {
+      "id": 15,
+      "text": "د. فرنسيس داندس: تفسير الكتاب المقدس، ج 2، ص 154."
+    },
+    {
+      "id": 16,
+      "text": "Raven, p. 167."
+    },
+    {
+      "id": 17,
+      "text": "The Westminster Dict. Of the Bible, p. 792, 791."
+    },
+    {
+      "id": 18,
+      "text": "Nelson: New Catholic Commentary.., p. 308."
+    },
+    {
+      "id": 19,
+      "text": "Stromata 6: 12, 7: 7."
+    },
+    {
+      "id": 20,
+      "text": "Treatise 4: 5."
+    },
+    {
+      "id": 21,
+      "text": "In Matt. Hom 19."
+    },
+    {
+      "id": 22,
+      "text": "In Eph. Hom 24."
+    },
+    {
+      "id": 23,
+      "text": "In Matt hom 6."
+    },
+    {
+      "id": 24,
+      "text": "In Eph. Ho 24."
+    },
+    {
+      "id": 25,
+      "text": "On Prayer 13: 3."
+    },
+    {
+      "id": 26,
+      "text": "Scripture Union: Bible Study Books, books 2, p. 48."
+    },
+    {
+      "id": 27,
+      "text": "In Eph. Hom 21, 24."
+    },
+    {
+      "id": 28,
+      "text": "J. H. Raven: O. T. Introd., 1910, p/ 168."
+    },
+    {
+      "id": 29,
+      "text": "Nelson: New Catholic Commentary, p. 309."
+    },
+    {
+      "id": 30,
+      "text": "Ibid."
+    },
+    {
+      "id": 31,
+      "text": "St. Chrysostom: In Matt. Hom 61."
+    },
+    {
+      "id": 32,
+      "text": "Treatise 12: 19."
+    },
+    {
+      "id": 33,
+      "text": "On Ps. Hom 20."
+    },
+    {
+      "id": 34,
+      "text": "On Ps. 21."
+    },
+    {
+      "id": 35,
+      "text": "St. Cassian: Conf. 3:15."
+    },
+    {
+      "id": 36,
+      "text": "Against Eunomius 3: 6."
+    },
+    {
+      "id": 37,
+      "text": "On John. Hom. 50:1."
+    },
+    {
+      "id": 38,
+      "text": "Concerning Repentance 1: 40."
+    },
+    {
+      "id": 39,
+      "text": "Treatise 10-15."
+    },
+    {
+      "id": 40,
+      "text": "In Rom. Hom. 8."
+    },
+    {
+      "id": 41,
+      "text": "In 1 Tim. Hom. 4."
+    },
+    {
+      "id": 42,
+      "text": "In 2 Tim. Hom. 2."
+    },
+    {
+      "id": 43,
+      "text": "Frag. From Comm. On Daniel 2: 14."
+    },
+    {
+      "id": 44,
+      "text": "Nelson: A New Catholic Commentary, p. 309."
+    },
+    {
+      "id": 45,
+      "text": "Stromata 2: 10; 7: 10."
+    },
+    {
+      "id": 46,
+      "text": "Ibid 6: 8."
+    },
+    {
+      "id": 47,
+      "text": "Ladder, Step 4."
+    },
+    {
+      "id": 48,
+      "text": "الحب الرعوي، 1965، ص 68 ."
+    },
+    {
+      "id": 49,
+      "text": "المرجع السابق، ص 70 ."
+    },
+    {
+      "id": 50,
+      "text": "Cassian: Conf. 2: 14."
+    },
+    {
+      "id": 51,
+      "text": "Apo. Poemen 54. PG 65: 333-6."
+    },
+    {
+      "id": 52,
+      "text": "On the need for Consultation."
+    },
+    {
+      "id": 53,
+      "text": "الحب الرعوي، ص 68 ."
+    },
+    {
+      "id": 54,
+      "text": "الحب الرعوي، ص 71 ."
+    },
+    {
+      "id": 55,
+      "text": "الحب الرعوي، ص 15 ."
+    },
+    {
+      "id": 56,
+      "text": "الحب الرعوي، ص 17 ."
+    },
+    {
+      "id": 57,
+      "text": "McKenzie: Dict. Of the Bible, p. 38."
+    },
+    {
+      "id": 58,
+      "text": "On Ps. 78 ."
+    },
+    {
+      "id": 59,
+      "text": "Ibid 78 ."
+    },
+    {
+      "id": 60,
+      "text": "On Ps. 66."
+    },
+    {
+      "id": 61,
+      "text": "Nelson: A New Catholic Comm., p. 310."
+    },
+    {
+      "id": 62,
+      "text": "Serm. On the N. T. Lessons 3: 7."
+    },
+    {
+      "id": 63,
+      "text": "Strong's Exhaustive Concordance of the Bible, article 1712."
+    },
+    {
+      "id": 64,
+      "text": "McKenzie: Dict. Of the Bible, p. 168."
+    },
+    {
+      "id": 65,
+      "text": "Strong's Exh. Concordance of the Bible, art. 795."
+    },
+    {
+      "id": 66,
+      "text": "Ibid, art. 1660."
+    },
+    {
+      "id": 67,
+      "text": "McKenzie. P. 224."
+    },
+    {
+      "id": 68,
+      "text": "In Matt. Hom. 6."
+    },
+    {
+      "id": 69,
+      "text": "On Prayer 25:3."
+    },
+    {
+      "id": 70,
+      "text": "Dial. With Trypho."
+    },
+    {
+      "id": 71,
+      "text": "Nelson: A New Catholic Comm. P. 310."
+    },
+    {
+      "id": 72,
+      "text": "Strong's Exh. Concordance.., art. 7157."
+    },
+    {
+      "id": 73,
+      "text": "Nelson: A New Catholic Comm. P. 310."
+    },
+    {
+      "id": 74,
+      "text": "Strong's Exh. Concordance.., art. 41."
+    },
+    {
+      "id": 75,
+      "text": "In Ep. Rom. Hom. 19."
+    },
+    {
+      "id": 76,
+      "text": "الحب والعطاء، 1970، ص 27."
+    },
+    {
+      "id": 77,
+      "text": "Strong's Exh. Concordance.., art. 499."
+    },
+    {
+      "id": 78,
+      "text": "McKenzie: Dict. Of the Bible, p. 72."
+    },
+    {
+      "id": 79,
+      "text": "Strong's Exh. Concordance.., art. 4709."
+    },
+    {
+      "id": 80,
+      "text": "On Priesthood 6: 4."
+    },
+    {
+      "id": 81,
+      "text": "الحب الرعوي، 1965، ص 30."
+    },
+    {
+      "id": 82,
+      "text": "المرجع السابق، ص 53 ."
+    },
+    {
+      "id": 83,
+      "text": "On Ps. 18 ."
+    },
+    {
+      "id": 84,
+      "text": "Ep. 159: 1."
+    },
+    {
+      "id": 85,
+      "text": "Strom. 7: 13."
+    },
+    {
+      "id": 86,
+      "text": "Strong's Exh. Concordance, artic. 8031."
+    },
+    {
+      "id": 87,
+      "text": "Ibid, 8171."
+    },
+    {
+      "id": 88,
+      "text": "Nelson: A New Catholic Comm. P. 311."
+    },
+    {
+      "id": 89,
+      "text": "A. N. Frs, vol 7, p. 531."
+    },
+    {
+      "id": 90,
+      "text": "De Principiis 1: 1: 3; Comm. Rom 1: 5; 9: 24; Comm. John 32: 7."
+    },
+    {
+      "id": 91,
+      "text": "Paed, 1: 6."
+    },
+    {
+      "id": 92,
+      "text": "De Prin. 2: 6."
+    },
+    {
+      "id": 93,
+      "text": "The Ascetical Homilies, 64."
+    },
+    {
+      "id": 94,
+      "text": "Nelson: A New Catholic Comm., p 312."
+    },
+    {
+      "id": 95,
+      "text": "Cf. Our Lord's Sermon on the Mount, 1: 13 ."
+    },
+    {
+      "id": 96,
+      "text": "Strong's Exh. Concordance, art. 1568."
+    },
+    {
+      "id": 97,
+      "text": "قاموس الكتاب المقدس ، ص 264."
+    },
+    {
+      "id": 98,
+      "text": "Strong's Exh. Concordance, art. 3002."
+    },
+    {
+      "id": 99,
+      "text": "الحب الرعوي، ص 218-221."
+    },
+    {
+      "id": 100,
+      "text": "In 2 Cor. Hom 24."
+    },
+    {
+      "id": 101,
+      "text": "الحب الرعوي، ص 170؛ In Eph. PG 62: 150 ."
+    },
+    {
+      "id": 102,
+      "text": "On Priesthood 6: 4."
+    },
+    {
+      "id": 103,
+      "text": "للمؤلف - القديس يوحنا الذهبي الفم، 1981 ، ص 3-182."
+    },
+    {
+      "id": 104,
+      "text": "Strong's Exh. Concordance, art. 4363."
+    },
+    {
+      "id": 105,
+      "text": "Ascetical hom. 51, 62."
+    },
+    {
+      "id": 106,
+      "text": "Const. of the Holy Apostles 2: 4: 27."
+    },
+    {
+      "id": 107,
+      "text": "Ibid 8: 5."
+    },
+    {
+      "id": 108,
+      "text": "Commentary on an Easter Hymn of St. Greg. Nazian."
+    },
+    {
+      "id": 109,
+      "text": "Treat. 9: 13."
+    },
+    {
+      "id": 110,
+      "text": "On self-accusation."
+    },
+    {
+      "id": 111,
+      "text": "City of God 17: 6."
+    },
+    {
+      "id": 112,
+      "text": "Ibid 17: 7."
+    },
+    {
+      "id": 113,
+      "text": "On Ps. 137."
+    },
+    {
+      "id": 114,
+      "text": "Ascetic Hom. 64"
+    },
+    {
+      "id": 115,
+      "text": "Unger's Bible., 1966, p. 1074."
+    },
+    {
+      "id": 116,
+      "text": "Ibid 627."
+    },
+    {
+      "id": 117,
+      "text": "Ibid 459."
+    },
+    {
+      "id": 118,
+      "text": "Ibid 1022."
+    },
+    {
+      "id": 119,
+      "text": "الحب الرعوي، ص 607."
+    },
+    {
+      "id": 120,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 121,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 122,
+      "text": "In Acts hom. 3, 44."
+    },
+    {
+      "id": 123,
+      "text": "Ad Haer. 4: 17:1."
+    },
+    {
+      "id": 124,
+      "text": "St. Cassian: Conf. 2:2, 3."
+    },
+    {
+      "id": 125,
+      "text": "Answer to Eunomius' second book. N.P. Frs, series 2, vol 5, p 293."
+    },
+    {
+      "id": 126,
+      "text": "In Matt. Hom 5."
+    },
+    {
+      "id": 127,
+      "text": "Paed. 3: 2."
+    },
+    {
+      "id": 128,
+      "text": "Cf. St. Jerome: Om Ps. Hom. 3."
+    },
+    {
+      "id": 129,
+      "text": "Nelson: A New Catholic Comm., p 314."
+    },
+    {
+      "id": 130,
+      "text": "On Ps. 78 ."
+    },
+    {
+      "id": 131,
+      "text": "On John, book 10: 5."
+    },
+    {
+      "id": 132,
+      "text": "Ad Serapion 1: 22, 23."
+    },
+    {
+      "id": 133,
+      "text": "On the Spirit, ch 26"
+    },
+    {
+      "id": 134,
+      "text": "In Matt. Book 2."
+    },
+    {
+      "id": 135,
+      "text": "Unger's Bible Dict., p 315"
+    },
+    {
+      "id": 136,
+      "text": "Caesarius of Arles: Serm. 121: 1, 2."
+    },
+    {
+      "id": 137,
+      "text": "Ibid 121: 3-8."
+    },
+    {
+      "id": 138,
+      "text": "Duties of the Clergy 1: 35: 177."
+    },
+    {
+      "id": 139,
+      "text": "Ibid 2: 78: 32, 33."
+    },
+    {
+      "id": 140,
+      "text": "On Ps. 125."
+    },
+    {
+      "id": 141,
+      "text": "للمؤلف: الحب الأخوي، 1964، ص 465."
+    },
+    {
+      "id": 142,
+      "text": "المرجع السابق، ص 467."
+    },
+    {
+      "id": 143,
+      "text": "المرجع السابق، ص 467."
+    },
+    {
+      "id": 144,
+      "text": "المرجع السابق، ص 468."
+    },
+    {
+      "id": 145,
+      "text": "Const. of the Holy Apostles 7: 1."
+    },
+    {
+      "id": 146,
+      "text": "الحب الأخوي، ص 397-398."
+    },
+    {
+      "id": 147,
+      "text": "الحب الأخوي، ص 399."
+    },
+    {
+      "id": 148,
+      "text": "الحب الأخوي، ص 400."
+    },
+    {
+      "id": 149,
+      "text": "Serm. On N. T. Lessons 27: 3; In 1 Tim. Rom."
+    },
+    {
+      "id": 150,
+      "text": "In 1 John hom 7."
+    },
+    {
+      "id": 151,
+      "text": "On Ps. 59 ."
+    },
+    {
+      "id": 152,
+      "text": "القمص بيشوي كامل: تأملات في المزامير، مز 7."
+    },
+    {
+      "id": 153,
+      "text": "On Ps. 7."
+    },
+    {
+      "id": 154,
+      "text": "On Ps. 7."
+    },
+    {
+      "id": 155,
+      "text": "In 1 Cor. Hom 33."
+    },
+    {
+      "id": 156,
+      "text": "الحب الأخوي، 1964، ص 315."
+    },
+    {
+      "id": 157,
+      "text": "الحب الأخوي، ص 317."
+    },
+    {
+      "id": 158,
+      "text": "الحب الأخوي، ص 320."
+    },
+    {
+      "id": 159,
+      "text": "عظة 22 على إنجيل لوقا."
+    },
+    {
+      "id": 160,
+      "text": "راجع تفسيرنا إنجيل متى ، ص 268 ."
+    },
+    {
+      "id": 161,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 162,
+      "text": "On Ps 56."
+    },
+    {
+      "id": 163,
+      "text": "On Ps 34."
+    },
+    {
+      "id": 164,
+      "text": "Westminster Dict. Of the Bible, p 18."
+    },
+    {
+      "id": 165,
+      "text": "On Ps. 57."
+    },
+    {
+      "id": 166,
+      "text": "On Ps. Hom. 52."
+    },
+    {
+      "id": 167,
+      "text": "In Acts. PG 60: 302."
+    },
+    {
+      "id": 168,
+      "text": "In ps. PG 55: 317."
+    },
+    {
+      "id": 169,
+      "text": "الحب الرعوي، ص 678."
+    },
+    {
+      "id": 170,
+      "text": "On Renunciation."
+    },
+    {
+      "id": 171,
+      "text": "Westminster Dict. Of the Bible, p. 534."
+    },
+    {
+      "id": 172,
+      "text": "Strong/s Exh. Concordance of the Bible, article 7084."
+    },
+    {
+      "id": 173,
+      "text": "On Priesthood 6: 4."
+    },
+    {
+      "id": 174,
+      "text": "Westminster Dict. Of the Bible, p. 1025."
+    },
+    {
+      "id": 175,
+      "text": "On Ps. 54."
+    },
+    {
+      "id": 176,
+      "text": "كتاب السنن القويم في تفسير أسفار العهد القديم، سفر صموئيل الأول، ص 110."
+    },
+    {
+      "id": 177,
+      "text": "قاموس الكتاب المقدس ، ص 652."
+    },
+    {
+      "id": 178,
+      "text": "كتاب السنن القويم في تفسير أسفار العهد القديم، سفر صموئيل الأول، ص 113."
+    },
+    {
+      "id": 179,
+      "text": "City of God 17: 6."
+    },
+    {
+      "id": 180,
+      "text": "On Humility."
+    },
+    {
+      "id": 181,
+      "text": "In Matt. Hom 3."
+    },
+    {
+      "id": 182,
+      "text": "Duties of the Clergy 3: 9 ."
+    },
+    {
+      "id": 183,
+      "text": "De Principiis 2: 7: 3."
+    },
+    {
+      "id": 184,
+      "text": "De Principiis 2: 7: 4."
+    },
+    {
+      "id": 185,
+      "text": "Sel Ps. 43: 3."
+    },
+    {
+      "id": 186,
+      "text": "Stromata 5:1."
+    },
+    {
+      "id": 187,
+      "text": "On Refusal to Judge our Neighbor."
+    },
+    {
+      "id": 188,
+      "text": "Cassian: Conf. 17: 25."
+    },
+    {
+      "id": 189,
+      "text": "Maxims on the Spiritual Life, 1, 12, 19."
+    },
+    {
+      "id": 190,
+      "text": "Duties of the Clergy 1: 21: 94."
+    },
+    {
+      "id": 191,
+      "text": "كتاب السنن القويم في تفسير أسفار العهد القديم، ، ص 122."
+    },
+    {
+      "id": 192,
+      "text": "Westminster Dict. Of the Bible, p. 6."
+    },
+    {
+      "id": 193,
+      "text": "PG 45: 1017 D."
+    },
+    {
+      "id": 194,
+      "text": "In Acts hom 17."
+    },
+    {
+      "id": 195,
+      "text": "Hymns on the Nativity 1."
+    },
+    {
+      "id": 196,
+      "text": "On Ps. Hom 3."
+    },
+    {
+      "id": 197,
+      "text": "On Ps. 56."
+    },
+    {
+      "id": 198,
+      "text": "From Glory to Glory, N. Y. 1977. ch. 1: 10."
+    },
+    {
+      "id": 199,
+      "text": "New Westminster Dict. Of the Bible, p. 1024."
+    },
+    {
+      "id": 200,
+      "text": "Matthew Henery: Comm. On the Whole Bible, 1963, p. 321."
+    },
+    {
+      "id": 201,
+      "text": "New Westminster Dict., p. 456."
+    },
+    {
+      "id": 202,
+      "text": "Ibid, p. 534."
+    },
+    {
+      "id": 203,
+      "text": "كتاب السنن القويم في تفسير أسفار العهد القديم، ص 128."
+    },
+    {
+      "id": 204,
+      "text": "قاموس الكتاب المقدس ، ص 262."
+    },
+    {
+      "id": 205,
+      "text": "Westminster Dict. Of the Bible, p. 877."
+    },
+    {
+      "id": 206,
+      "text": "Ibid, art. Gilboa,."
+    },
+    {
+      "id": 207,
+      "text": "In Matt. Hom. 86."
+    },
+    {
+      "id": 208,
+      "text": "Ibid 62."
+    },
+    {
+      "id": 209,
+      "text": "Frag. From Comm. A N Frs. Vol. 5, p. 169."
+    },
+    {
+      "id": 210,
+      "text": "A Treatise on the Soul, 57."
+    },
+    {
+      "id": 211,
+      "text": "Strong's Exh. Concordance, art 293. قاموس الكتاب المقدس ، ص 36"
+    },
+    {
+      "id": 212,
+      "text": "Ibis art. 26. قاموس الكتاب المقدس، ص 201"
+    },
+    {
+      "id": 213,
+      "text": "Westminster Dict. Of the Bible, p 113. قاموس الكتاب المقدس ، ص 392"
+    },
+    {
+      "id": 214,
+      "text": "Ibid 791. قاموس الكتاب المقدس ، ص 1053"
+    },
+    {
+      "id": 215,
+      "text": "Ibid 448. قاموس الكتاب المقدس ، ص 619"
+    },
+    {
+      "id": 216,
+      "text": "Ibid p. 65. قاموس الكتاب المقدس ، ص 470"
+    },
+    {
+      "id": 217,
+      "text": "Ibid, p. 887. قاموس الكتاب المقدس ، ص 390"
+    },
+    {
+      "id": 218,
+      "text": "Ibid, p 277."
+    },
+    {
+      "id": 219,
+      "text": "Ibid , p 789."
+    },
+    {
+      "id": 220,
+      "text": "Ibid , p 40."
+    },
+    {
+      "id": 221,
+      "text": "Ibid 68."
+    },
+    {
+      "id": 222,
+      "text": "Nelson: A New Catholic Commentary on Holy Scripture, 1969, p. 308."
+    },
+    {
+      "id": 223,
+      "text": "The New Westminster Dictionary of the Bible, 1969, p. 828. J.L. Mckenzie: Dictionary of the Bible, 1972, p. 767."
+    },
+    {
+      "id": 224,
+      "text": "Oesterley and Robinson: An Introduction to the Books of the Old Testament, SPCK 1961, P. 85."
+    },
+    {
+      "id": 225,
+      "text": "The Talmud (Baba Bathra 15 a)."
+    },
+    {
+      "id": 226,
+      "text": "J. Hastings: Dictionary of the Bible, N.Y. 1963, p. 884."
+    },
+    {
+      "id": 227,
+      "text": "قاموس الكتاب المقدس، 1971 ، ص 544 ."
+    },
+    {
+      "id": 228,
+      "text": "Layman: Interpreter's One Volume Commentary on the Bible, 1980, p. 1085."
+    },
+    {
+      "id": 229,
+      "text": "New Westminister Dict. Of the Bible, p. 831."
+    },
+    {
+      "id": 230,
+      "text": "Welhausen, Cornill, Budde, Kittel and Sellin."
+    },
+    {
+      "id": 231,
+      "text": "Interpreter's One Volume Commentary, p 1082."
+    },
+    {
+      "id": 232,
+      "text": "Eissfeldt."
+    },
+    {
+      "id": 233,
+      "text": "Introduction to the Old Testament, p. 87-88."
+    },
+    {
+      "id": 234,
+      "text": "Cf. J. H. Raven: Old Testament Introduction, 1910, p. 166."
+    },
+    {
+      "id": 235,
+      "text": "د. فرنسيس داندس: تفسير الكتاب المقدس، ج 2، ص 154."
+    },
+    {
+      "id": 236,
+      "text": "Raven, p. 167."
+    },
+    {
+      "id": 237,
+      "text": "إضافة من الموقع : (1 صم 3: 17؛ 14: 44؛ 20: 13؛ 25: 22)."
+    },
+    {
+      "id": 238,
+      "text": "إضافة من الموقع : (1 صم 23: 21)."
+    },
+    {
+      "id": 239,
+      "text": "Westminster Dict. Of the Bible, p. 534."
+    },
+    {
+      "id": 240,
+      "text": "Strong/s Exh. Concordance of the Bible, article 7084."
+    },
+    {
+      "id": 241,
+      "text": "On Priesthood 6: 4."
+    },
+    {
+      "id": 242,
+      "text": "Westminster Dict. Of the Bible, p. 1025."
+    },
+    {
+      "id": 243,
+      "text": "On Ps. 54."
+    },
+    {
+      "id": 244,
+      "text": "كتاب السنن القويم في تفسير أسفار العهد القديم، سفر صموئيل الأول، ص 110."
+    },
+    {
+      "id": 245,
+      "text": "قاموس الكتاب المقدس ، ص 652."
+    }
+  ]
+}

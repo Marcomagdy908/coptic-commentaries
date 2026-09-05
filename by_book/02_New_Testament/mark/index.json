@@ -1,0 +1,3175 @@
+{
+  "book_id": 45,
+  "book_title": "تفسير إنجيل مرقس",
+  "testament": "New Testament",
+  "chapters_count": 16,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "بدء الخدمة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الخدمة المقَاومة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "العمل غير المنقطع"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "البذور والزرع"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "سلطانه على الأرواح النجسة والموت"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "اتجاهات نحو شخص المسيح"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الحياة الداخلية"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "الملكوت العملي"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "الطريق الصعب"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "دخول أورشليم"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "مقاومته في أورشليم"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "علامات المنتهى"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "الإعداد للصليب"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "أحداث الصليب"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "أحداث القيامة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "لدراسة حياة القديس مارمرقس الرسول بتوسع راجع كتاب قداسة البابا شنودة الثالث في هذا الشأن."
+    },
+    {
+      "id": 2,
+      "text": "تاريخ البطاركة لساويرس بن المقفع ك 13، ص 13."
+    },
+    {
+      "id": 3,
+      "text": "J. D. Douglas: Dict. of Christian Church, p. 632 ."
+    },
+    {
+      "id": 4,
+      "text": "القول الإبريزي للعلامة المقريزي، طبعة 1898، ص 18. مصباح الظلمة لابن كبر، ك 4."
+    },
+    {
+      "id": 5,
+      "text": "De Reta in Deum Fide ."
+    },
+    {
+      "id": 6,
+      "text": "Adv. Haer. 51:5 ."
+    },
+    {
+      "id": 7,
+      "text": "ابن المقفع ص 15 R ، ابن كبر 40 B ، 41 A ."
+    },
+    {
+      "id": 8,
+      "text": "In Luc. Praef ."
+    },
+    {
+      "id": 9,
+      "text": "Wycliffe: Bible Encyclopedia, 1979, v.2, p 1078 ."
+    },
+    {
+      "id": 10,
+      "text": "In Matt. hom 1 ."
+    },
+    {
+      "id": 11,
+      "text": "راجع للمؤلف: الإنجيل بحسب متى، المقدمة ."
+    },
+    {
+      "id": 12,
+      "text": "R.P. Martin: Mark, Evangelist and Theologian, 1972, p. 24-36 ."
+    },
+    {
+      "id": 13,
+      "text": "Sherman E. Johnson: The Gospel according to St. Mark, 1977, p 4 ."
+    },
+    {
+      "id": 14,
+      "text": "J.A. Findlay: Jesus as they Saw, 1934, p 107 ."
+    },
+    {
+      "id": 15,
+      "text": "R.P. Martin: Mark, p. 111 ."
+    },
+    {
+      "id": 16,
+      "text": "U.W. Mauser: Christ in the Wilderness, 1963, p 100 ."
+    },
+    {
+      "id": 17,
+      "text": "D.E. Nineham: Saint Mark, 1983, p 33."
+    },
+    {
+      "id": 18,
+      "text": "A. Richardson: The Miracle Stories of the Gospels, 1941, p. 47f ."
+    },
+    {
+      "id": 19,
+      "text": "M.E. Glasswell: The use of Miracles in Marken Gospel, in Miracles, ed C.F.D. Moule 1965, p. 161f."
+    },
+    {
+      "id": 20,
+      "text": "W. Wrede: The Messianic Secret, Cambridge 1971, p. 9, 81, 209 (English Translation by J.C.G. Greig)."
+    },
+    {
+      "id": 21,
+      "text": "Sherman E. Johnson: The Gospel according to St. Mark, p. 10."
+    },
+    {
+      "id": 22,
+      "text": "H. Anderson: The Gospel of Mark 1981, p. 44 f."
+    },
+    {
+      "id": 23,
+      "text": "C.F. Evans: The Beginning of the Gospel, 1968, p. 47."
+    },
+    {
+      "id": 24,
+      "text": "Jerome Biblical Commentary, p. 23."
+    },
+    {
+      "id": 25,
+      "text": "Nineham: Saint Mark, p 34."
+    },
+    {
+      "id": 26,
+      "text": "De Trinit. 3:11."
+    },
+    {
+      "id": 27,
+      "text": "In Ioan. 2:17-25."
+    },
+    {
+      "id": 28,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 29,
+      "text": "An Answer to Jews 9."
+    },
+    {
+      "id": 30,
+      "text": "إنجيل القديس لوقا (ترجمة المرحوم كامل جرجس)، عظة 6."
+    },
+    {
+      "id": 31,
+      "text": "تفسير لوقا 3: 1 - 5 ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 32,
+      "text": "Dial. ad Lucif. 7 ."
+    },
+    {
+      "id": 33,
+      "text": "Ep. 125:7 ."
+    },
+    {
+      "id": 34,
+      "text": "تفسير لوقا 3 : 1- 5."
+    },
+    {
+      "id": 35,
+      "text": "تفسير لوقا 3 : 1- 5."
+    },
+    {
+      "id": 36,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 73، الأب غريغوريوس (الكبير) PL 74:1099- 1103 ."
+    },
+    {
+      "id": 37,
+      "text": "In Matt. hom. 38."
+    },
+    {
+      "id": 38,
+      "text": "Jerome Bib. Comm. p.24."
+    },
+    {
+      "id": 39,
+      "text": "On Baptism 9 ."
+    },
+    {
+      "id": 40,
+      "text": "In Luc. hom 11 ."
+    },
+    {
+      "id": 41,
+      "text": "In Luc. hom 11 ."
+    },
+    {
+      "id": 42,
+      "text": "In Luc. hom 11."
+    },
+    {
+      "id": 43,
+      "text": "In Luc. hom 11."
+    },
+    {
+      "id": 44,
+      "text": "Ser. On N.T. Lessons 2:2."
+    },
+    {
+      "id": 45,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 77 إلخ."
+    },
+    {
+      "id": 46,
+      "text": "القمص بفنوتيوس السرياني، مار يوحنا سابا 1977، ص 38، 39."
+    },
+    {
+      "id": 47,
+      "text": "تفسير لوقا، عظة 12- 21 (المرحوم كامل جرجس)."
+    },
+    {
+      "id": 48,
+      "text": "تفسير لوقا 4 : 1."
+    },
+    {
+      "id": 49,
+      "text": "راجع الإنجيل بحسب متى، 1983 ، ص 249 ."
+    },
+    {
+      "id": 50,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 51,
+      "text": "القمص بفنوتيوس السرياني، ص 48، 52."
+    },
+    {
+      "id": 52,
+      "text": "القمص بفنوتيوس السرياني، ص 47."
+    },
+    {
+      "id": 53,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 90."
+    },
+    {
+      "id": 54,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 55,
+      "text": "In Luce. hom 12-21 ."
+    },
+    {
+      "id": 56,
+      "text": "رسالة 26."
+    },
+    {
+      "id": 57,
+      "text": "Instr. To Catech .2: 4 ."
+    },
+    {
+      "id": 58,
+      "text": "In Ioan. hom 10: 1 ."
+    },
+    {
+      "id": 59,
+      "text": "In Ioan. hom 6:2 ."
+    },
+    {
+      "id": 60,
+      "text": "City of God ."
+    },
+    {
+      "id": 61,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 62,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 63,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 64,
+      "text": "In Luc. hom 12-21 ."
+    },
+    {
+      "id": 65,
+      "text": "In Luc.4 ."
+    },
+    {
+      "id": 66,
+      "text": "In Matt. hom 27 ."
+    },
+    {
+      "id": 67,
+      "text": "In Matt. hom 27."
+    },
+    {
+      "id": 68,
+      "text": "In Matt. hom 27 ."
+    },
+    {
+      "id": 69,
+      "text": "In Ioan. tr 91: 3 ."
+    },
+    {
+      "id": 70,
+      "text": "In Luc. 12-21."
+    },
+    {
+      "id": 71,
+      "text": "Jerome Bib. Comm. p 26 ."
+    },
+    {
+      "id": 72,
+      "text": "In Matt. Hom., 25 ."
+    },
+    {
+      "id": 73,
+      "text": "الإنجيل بحسب متى، 1983، ص 210."
+    },
+    {
+      "id": 74,
+      "text": "مقال 2."
+    },
+    {
+      "id": 75,
+      "text": "رسالة 40."
+    },
+    {
+      "id": 76,
+      "text": "تفسير لوقا 5: 17-26."
+    },
+    {
+      "id": 77,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 78,
+      "text": "In Matt. hom 9 ."
+    },
+    {
+      "id": 79,
+      "text": "The Paralytic let down through the Roof 6."
+    },
+    {
+      "id": 80,
+      "text": "Ser. on N.T. 76:10 ."
+    },
+    {
+      "id": 81,
+      "text": "مقال 4."
+    },
+    {
+      "id": 82,
+      "text": "In Luc. 5:7-26."
+    },
+    {
+      "id": 83,
+      "text": "القمص بفنوتيوس السرياني، ص 44."
+    },
+    {
+      "id": 84,
+      "text": "Ep. of Barnabas 5 ."
+    },
+    {
+      "id": 85,
+      "text": "In Luc. hom 20 ."
+    },
+    {
+      "id": 86,
+      "text": "In Luc. 5:27-39 ."
+    },
+    {
+      "id": 87,
+      "text": "In Luc. hom 21."
+    },
+    {
+      "id": 88,
+      "text": "On the Resur. 8."
+    },
+    {
+      "id": 89,
+      "text": "In Luc. hom 21 ."
+    },
+    {
+      "id": 90,
+      "text": "In Luc. hom 21 ."
+    },
+    {
+      "id": 91,
+      "text": "In Luc 5:27-39 ."
+    },
+    {
+      "id": 92,
+      "text": "In Luc 6:1-5 ."
+    },
+    {
+      "id": 93,
+      "text": "In Luc. 6:6-11."
+    },
+    {
+      "id": 94,
+      "text": "إنجيل لوقا: عظة 23-25. ترجمة المرحوم كامل جرجس، راجع أيضًا أقوال القديس يوحنا الذهبي الفم: في إنجيل متى عظة 40."
+    },
+    {
+      "id": 95,
+      "text": "إنجيل لوقا: عظة 23-25."
+    },
+    {
+      "id": 96,
+      "text": "In Luc. 6: 6-11 ."
+    },
+    {
+      "id": 97,
+      "text": "New Westminster Dict. of the Bible, p 384 ."
+    },
+    {
+      "id": 98,
+      "text": "J. Mckenzie: Dict. of the Bible, p 356 ."
+    },
+    {
+      "id": 99,
+      "text": "On Ps. 50 ."
+    },
+    {
+      "id": 100,
+      "text": "In loan 19:2 ."
+    },
+    {
+      "id": 101,
+      "text": "Ep. 22:5 ."
+    },
+    {
+      "id": 102,
+      "text": "On Death of his Father 24 ."
+    },
+    {
+      "id": 103,
+      "text": "In Luc 6:12-49 ."
+    },
+    {
+      "id": 104,
+      "text": "In Luc hom 23-24 ."
+    },
+    {
+      "id": 105,
+      "text": "In Luc hom 21 ."
+    },
+    {
+      "id": 106,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 107,
+      "text": "Ibid ."
+    },
+    {
+      "id": 108,
+      "text": "In Matt. hom 32:11 ."
+    },
+    {
+      "id": 109,
+      "text": "De Virginitate 4:20, Comm on Luke 10:25 ."
+    },
+    {
+      "id": 110,
+      "text": "Symposion 8:8 ."
+    },
+    {
+      "id": 111,
+      "text": "On Gosp. hom 3 ."
+    },
+    {
+      "id": 112,
+      "text": "In Matt. hom 41."
+    },
+    {
+      "id": 113,
+      "text": "PG 57:467-472."
+    },
+    {
+      "id": 114,
+      "text": "الإنجيل بحسب متى ، ص 294-301."
+    },
+    {
+      "id": 115,
+      "text": "D.E. Nineham: Saint Mark, p 134, 135."
+    },
+    {
+      "id": 116,
+      "text": "Sherman E.Johnson: The Gospel According to St Mark, 1977, p 88."
+    },
+    {
+      "id": 117,
+      "text": "D.E. Nineham: Saint Mark, p 136-7."
+    },
+    {
+      "id": 118,
+      "text": "De Spir. Sanc. 9 ."
+    },
+    {
+      "id": 119,
+      "text": "مقال 2."
+    },
+    {
+      "id": 120,
+      "text": "S.E. Johnson: The Gospel According to St. Mark, 94."
+    },
+    {
+      "id": 121,
+      "text": "In Ezek. Hom 2:3."
+    },
+    {
+      "id": 122,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 308-313."
+    },
+    {
+      "id": 123,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 308-315."
+    },
+    {
+      "id": 124,
+      "text": "In Luc. hom 96 ."
+    },
+    {
+      "id": 125,
+      "text": "الإنجيل بحسب متى 201-205."
+    },
+    {
+      "id": 126,
+      "text": "القمص بقنوتيوس السرياني 32."
+    },
+    {
+      "id": 127,
+      "text": "In Matt. hom 79."
+    },
+    {
+      "id": 128,
+      "text": "On Ps. 12."
+    },
+    {
+      "id": 129,
+      "text": "Conc. Evang, 2:24."
+    },
+    {
+      "id": 130,
+      "text": "Nineham, p 151."
+    },
+    {
+      "id": 131,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 132,
+      "text": "In Matt. hom 28 ."
+    },
+    {
+      "id": 133,
+      "text": "رسالة 17."
+    },
+    {
+      "id": 134,
+      "text": "Nineham, p. 154."
+    },
+    {
+      "id": 135,
+      "text": "In Luc. 8."
+    },
+    {
+      "id": 136,
+      "text": "In Luc. 8."
+    },
+    {
+      "id": 137,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 221-222."
+    },
+    {
+      "id": 138,
+      "text": "In Luc 8:40-56 ."
+    },
+    {
+      "id": 139,
+      "text": "In Matt. hom 31."
+    },
+    {
+      "id": 140,
+      "text": "In Luc 8:40-56."
+    },
+    {
+      "id": 141,
+      "text": "On Ps. hom33."
+    },
+    {
+      "id": 142,
+      "text": "In Matt hom31 ."
+    },
+    {
+      "id": 143,
+      "text": "In Luc 8:40-56 ."
+    },
+    {
+      "id": 144,
+      "text": "Adv. Jovin.2:16 ."
+    },
+    {
+      "id": 145,
+      "text": "On Belief of Res.2:82."
+    },
+    {
+      "id": 146,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 219، 220 (راجع أيضًا تفسيره يوحنا مقال 3:49)."
+    },
+    {
+      "id": 147,
+      "text": "Nineham, p.163-164 ."
+    },
+    {
+      "id": 148,
+      "text": "المؤلف: القديسة مريم في المفهوم الأرثوذكسي، 1983 ، ص 22، 23 ."
+    },
+    {
+      "id": 149,
+      "text": "In Matt. hom 48."
+    },
+    {
+      "id": 150,
+      "text": "Fourth Theol. Orat. 10."
+    },
+    {
+      "id": 151,
+      "text": "Cassian: Conf 13: 15."
+    },
+    {
+      "id": 152,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 153,
+      "text": "In Evang. hom 17."
+    },
+    {
+      "id": 154,
+      "text": "In Luc. 9:1-10."
+    },
+    {
+      "id": 155,
+      "text": "مقال 3 ."
+    },
+    {
+      "id": 156,
+      "text": "رسالة 43 ."
+    },
+    {
+      "id": 157,
+      "text": "In Acts hom 30."
+    },
+    {
+      "id": 158,
+      "text": "Nineham. p 170."
+    },
+    {
+      "id": 159,
+      "text": "Ibid 171."
+    },
+    {
+      "id": 160,
+      "text": "New Westminster Dict. of the Bible, p 380."
+    },
+    {
+      "id": 161,
+      "text": "Joseph.: Antiq 17, 1, 3; War; 28: 4."
+    },
+    {
+      "id": 162,
+      "text": "Josephus: Antiq 18, 5, 2."
+    },
+    {
+      "id": 163,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 164,
+      "text": "In Matt. hom 48."
+    },
+    {
+      "id": 165,
+      "text": "Conc. Virgins 3: 5."
+    },
+    {
+      "id": 166,
+      "text": "الإنجيل بحسب متى، 1983، ص 326 ."
+    },
+    {
+      "id": 167,
+      "text": "Joseph: Sntiq 18:7."
+    },
+    {
+      "id": 168,
+      "text": "Josephus: War 2:9:6."
+    },
+    {
+      "id": 169,
+      "text": "مقال 4 ."
+    },
+    {
+      "id": 170,
+      "text": "In Matt. hom 50:1."
+    },
+    {
+      "id": 171,
+      "text": "In Matt. hom 50:1."
+    },
+    {
+      "id": 172,
+      "text": "القمص بفنوتيوس السرياني 35، 36 ."
+    },
+    {
+      "id": 173,
+      "text": "In Matt. hom 50."
+    },
+    {
+      "id": 174,
+      "text": "مقال 2 ."
+    },
+    {
+      "id": 175,
+      "text": "رسالة 35 ."
+    },
+    {
+      "id": 176,
+      "text": "لمعرفة \"الشناة\" راجع كتابنا: الأرثوذكسية والتقليد."
+    },
+    {
+      "id": 177,
+      "text": "In Matt. hom 7:9."
+    },
+    {
+      "id": 178,
+      "text": "Nineham, p. 202."
+    },
+    {
+      "id": 179,
+      "text": "Jerome Biblical Commentary, p 35 ."
+    },
+    {
+      "id": 180,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 331-335 ."
+    },
+    {
+      "id": 181,
+      "text": "Ser. on N.T. 45: 1,2."
+    },
+    {
+      "id": 182,
+      "text": "Mor 1: 9."
+    },
+    {
+      "id": 183,
+      "text": "Nineham, p 207."
+    },
+    {
+      "id": 184,
+      "text": "Ser. on N.T. 45: 2."
+    },
+    {
+      "id": 185,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 186,
+      "text": "In Luc. 6: 73."
+    },
+    {
+      "id": 187,
+      "text": "Ser. on N.T. 45: 3."
+    },
+    {
+      "id": 188,
+      "text": "Nineham, p 207-8, Jerome Bib. Comm. p 39."
+    },
+    {
+      "id": 189,
+      "text": "In Matt. Hom., 53."
+    },
+    {
+      "id": 190,
+      "text": "رسالة 33 ."
+    },
+    {
+      "id": 191,
+      "text": "رسالة 6 ."
+    },
+    {
+      "id": 192,
+      "text": "الإنجيل بحسب متى، 1983 ، ص353-355 ."
+    },
+    {
+      "id": 193,
+      "text": "In Luc, Ser 86 ."
+    },
+    {
+      "id": 194,
+      "text": "رسالة 34 ."
+    },
+    {
+      "id": 195,
+      "text": "In Matt. hom 54."
+    },
+    {
+      "id": 196,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 355 ."
+    },
+    {
+      "id": 197,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 198,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 199,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 200,
+      "text": "Ser. on N.T. 46: 1,2."
+    },
+    {
+      "id": 201,
+      "text": "On Ps hom 1."
+    },
+    {
+      "id": 202,
+      "text": "In Luc. 9: 27."
+    },
+    {
+      "id": 203,
+      "text": "مقال 1."
+    },
+    {
+      "id": 204,
+      "text": "In Luc 9: 27."
+    },
+    {
+      "id": 205,
+      "text": "To Etrop. 2: 10."
+    },
+    {
+      "id": 206,
+      "text": "الإنجيل بحسب متى، 1983 ، 367-369."
+    },
+    {
+      "id": 207,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 208,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 209,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 210,
+      "text": "Ser. on N.T. 28: 2."
+    },
+    {
+      "id": 211,
+      "text": "Mor. 32: 6."
+    },
+    {
+      "id": 212,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 213,
+      "text": "الإنجيل بحسب متى، 1983 ، 372- 374."
+    },
+    {
+      "id": 214,
+      "text": "In Matt. hom 56."
+    },
+    {
+      "id": 215,
+      "text": "In luc 9."
+    },
+    {
+      "id": 216,
+      "text": "In luc 9."
+    },
+    {
+      "id": 217,
+      "text": "In luc 9."
+    },
+    {
+      "id": 218,
+      "text": "In luc 1: 7."
+    },
+    {
+      "id": 219,
+      "text": "رسالة 43."
+    },
+    {
+      "id": 220,
+      "text": "St. Irenaeus: Adv. Hear. 4: 27:6."
+    },
+    {
+      "id": 221,
+      "text": "Mor 10: 30."
+    },
+    {
+      "id": 222,
+      "text": "رسالة 11."
+    },
+    {
+      "id": 223,
+      "text": "رسالة 12."
+    },
+    {
+      "id": 224,
+      "text": "رسالة 18."
+    },
+    {
+      "id": 225,
+      "text": "الحب الإلهي، 1967، ص 467، 468."
+    },
+    {
+      "id": 226,
+      "text": "الحب الإلهي، 1967، ص 469."
+    },
+    {
+      "id": 227,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 228,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 229,
+      "text": "In Matt. hom 58."
+    },
+    {
+      "id": 230,
+      "text": "مقال 7، رسالة 8، القمص بفنوتيوس السرياني، ص42، 53، 55."
+    },
+    {
+      "id": 231,
+      "text": "De cura past. c 2."
+    },
+    {
+      "id": 232,
+      "text": "الإنجيل بحسب متى، 1983 ، 125، 126."
+    },
+    {
+      "id": 233,
+      "text": "In Matt. hom 59."
+    },
+    {
+      "id": 234,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 235,
+      "text": "In Luc. Sermon 121."
+    },
+    {
+      "id": 236,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 237,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 238,
+      "text": "In Luc Ser 121."
+    },
+    {
+      "id": 239,
+      "text": "In Luc Ser 121."
+    },
+    {
+      "id": 240,
+      "text": "In Luc 18: 18-30."
+    },
+    {
+      "id": 241,
+      "text": "In Luc Ser. 122."
+    },
+    {
+      "id": 242,
+      "text": "In Luc Ser. 123."
+    },
+    {
+      "id": 243,
+      "text": "In Evan. t. 15: 14."
+    },
+    {
+      "id": 244,
+      "text": "In Matt. hom 64."
+    },
+    {
+      "id": 245,
+      "text": "Ep. 22: 21."
+    },
+    {
+      "id": 246,
+      "text": "In Luc Ser. 124."
+    },
+    {
+      "id": 247,
+      "text": "Cassian: Conf. 24: 26."
+    },
+    {
+      "id": 248,
+      "text": "In Luc Ser. 125."
+    },
+    {
+      "id": 249,
+      "text": "In Matt. hom 65."
+    },
+    {
+      "id": 250,
+      "text": "In loan hom 67: 1."
+    },
+    {
+      "id": 251,
+      "text": "On Ps. hom 2."
+    },
+    {
+      "id": 252,
+      "text": "In Luc. Ser. 126."
+    },
+    {
+      "id": 253,
+      "text": "In Luc. Ser. 126."
+    },
+    {
+      "id": 254,
+      "text": "رسالة 30."
+    },
+    {
+      "id": 255,
+      "text": "Ep. 147: 9."
+    },
+    {
+      "id": 256,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 434."
+    },
+    {
+      "id": 257,
+      "text": "Joseph.:Antiquities 20:8:6, Jewish war 2:13:5."
+    },
+    {
+      "id": 258,
+      "text": "Nineham: St, Mark, p 292."
+    },
+    {
+      "id": 259,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 435-440."
+    },
+    {
+      "id": 260,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 261,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 262,
+      "text": "In Luc 96."
+    },
+    {
+      "id": 263,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 264,
+      "text": "In Luc 9:6."
+    },
+    {
+      "id": 265,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 266,
+      "text": "St. Jerome. PL 26."
+    },
+    {
+      "id": 267,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 268,
+      "text": "Nineham, p 293."
+    },
+    {
+      "id": 269,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 270,
+      "text": "قراءات الساعة الثالثة من اثنين البصخة."
+    },
+    {
+      "id": 271,
+      "text": "قراءات الساعة السادسة من نفس اليوم (خر 32)."
+    },
+    {
+      "id": 272,
+      "text": "قراءات الساعة الأولى من ليلة ثلاثاء البصخة."
+    },
+    {
+      "id": 273,
+      "text": "قراءات الساعة الثالثة من يوم الاثنين."
+    },
+    {
+      "id": 274,
+      "text": "قراءات الساعة الثالثة من ليلة الثلاثاء."
+    },
+    {
+      "id": 275,
+      "text": "قراءات الساعة التاسعة من ليلة الثلاثاء."
+    },
+    {
+      "id": 276,
+      "text": "قراءات الساعة التاسعة من يوم الاثنين."
+    },
+    {
+      "id": 277,
+      "text": "قراءات الساعة الحادية عشر من يوم الاثنين."
+    },
+    {
+      "id": 278,
+      "text": "On Ps. 35."
+    },
+    {
+      "id": 279,
+      "text": "Cat. Lect. 13:18."
+    },
+    {
+      "id": 280,
+      "text": "In Matt. hom 67."
+    },
+    {
+      "id": 281,
+      "text": "الساعة الأولى من ليلة الاثنين."
+    },
+    {
+      "id": 282,
+      "text": "See: In Luc. Ser. 132."
+    },
+    {
+      "id": 283,
+      "text": "In Luc 19: 45 etc."
+    },
+    {
+      "id": 284,
+      "text": "Nineham, p. 305."
+    },
+    {
+      "id": 285,
+      "text": "Cat. Lect. 5: 11."
+    },
+    {
+      "id": 286,
+      "text": "On Lord’s Prayer 23."
+    },
+    {
+      "id": 287,
+      "text": "In 1 Tim. hom 8."
+    },
+    {
+      "id": 288,
+      "text": "In Luc. Ser. 133."
+    },
+    {
+      "id": 289,
+      "text": "See: On Ps 41."
+    },
+    {
+      "id": 290,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 291,
+      "text": "In Luc 20: 9-19."
+    },
+    {
+      "id": 292,
+      "text": "In Luc 20: 9-19."
+    },
+    {
+      "id": 293,
+      "text": "In Luc 20: 21-26."
+    },
+    {
+      "id": 294,
+      "text": "In Luc 20: 21-26."
+    },
+    {
+      "id": 295,
+      "text": "New Westminster Dict. of Bible, p. 817."
+    },
+    {
+      "id": 296,
+      "text": "Antiq. 13: 10: 6."
+    },
+    {
+      "id": 297,
+      "text": "Antiq. 18: 1: 4."
+    },
+    {
+      "id": 298,
+      "text": "In Luc. Ser. 136."
+    },
+    {
+      "id": 299,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 300,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 301,
+      "text": "In Luc 20: 41-44."
+    },
+    {
+      "id": 302,
+      "text": "In Luc. Ser. 137."
+    },
+    {
+      "id": 303,
+      "text": "رسالة 14."
+    },
+    {
+      "id": 304,
+      "text": "رسالة 35."
+    },
+    {
+      "id": 305,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 306,
+      "text": "In Luc. Ser. 148."
+    },
+    {
+      "id": 307,
+      "text": "In Heb. hom 31: 8."
+    },
+    {
+      "id": 308,
+      "text": "On Ps. 50, 112, 129."
+    },
+    {
+      "id": 309,
+      "text": "Ep. 53: 11, 54: 17, 118: 5."
+    },
+    {
+      "id": 310,
+      "text": "قراءات الساعة الأولى من يوم الثلاثاء من البصخة المقدسة."
+    },
+    {
+      "id": 311,
+      "text": "نبوات الساعة السادسة من يوم الثلاثاء من البصخة المقدسة."
+    },
+    {
+      "id": 312,
+      "text": "Jewish War 5:5:1-6, Antiq 15:11:1-3."
+    },
+    {
+      "id": 313,
+      "text": "In Luc. Ser. 149."
+    },
+    {
+      "id": 314,
+      "text": "In Luc 21:5-36."
+    },
+    {
+      "id": 315,
+      "text": "راجع تفسير مر 1: 16."
+    },
+    {
+      "id": 316,
+      "text": "In Luc 21: 5-36."
+    },
+    {
+      "id": 317,
+      "text": "Jerom Bib. Comm. 51."
+    },
+    {
+      "id": 318,
+      "text": "City of God 29:19."
+    },
+    {
+      "id": 319,
+      "text": "In Ezek. lib. 1: 9."
+    },
+    {
+      "id": 320,
+      "text": "Ep. 199:11."
+    },
+    {
+      "id": 321,
+      "text": "In loan tr 10:12."
+    },
+    {
+      "id": 322,
+      "text": "Ep. 199:11."
+    },
+    {
+      "id": 323,
+      "text": "De trin. 1:13."
+    },
+    {
+      "id": 324,
+      "text": "In Luc. Ser. 139."
+    },
+    {
+      "id": 325,
+      "text": "Of Christian Faith 5:4."
+    },
+    {
+      "id": 326,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 327,
+      "text": "On Ps. 36."
+    },
+    {
+      "id": 328,
+      "text": "In Matt. hom 77."
+    },
+    {
+      "id": 329,
+      "text": "De Trinit. 9."
+    },
+    {
+      "id": 330,
+      "text": "Jerome Bib. Comm. P52."
+    },
+    {
+      "id": 331,
+      "text": "De Prod. Jud. hom 1."
+    },
+    {
+      "id": 332,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 333,
+      "text": "In Luc. Ser. 148."
+    },
+    {
+      "id": 334,
+      "text": "In Luc. Ser. 141."
+    },
+    {
+      "id": 335,
+      "text": "In Luc. Ser. 141."
+    },
+    {
+      "id": 336,
+      "text": "In Luc. 22: 7-13."
+    },
+    {
+      "id": 337,
+      "text": "In Luc. 22: 7-13."
+    },
+    {
+      "id": 338,
+      "text": "In Pord. Jud. hom `e."
+    },
+    {
+      "id": 339,
+      "text": "In Luc. Ser. 142."
+    },
+    {
+      "id": 340,
+      "text": "A. Hamman: The Paschal Mystery, 1969, p 26-39."
+    },
+    {
+      "id": 341,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 342,
+      "text": "De Myster. 9."
+    },
+    {
+      "id": 343,
+      "text": "In Luc. Ser. 144."
+    },
+    {
+      "id": 344,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 345,
+      "text": "الحب الإلهي، 1967، ص367-392."
+    },
+    {
+      "id": 346,
+      "text": "In Luc 22: 39-53."
+    },
+    {
+      "id": 347,
+      "text": "القديس أغسطينوس: اتفاق البشائر 3: 4. [راجع أيضًا أقوال بعض الآباء مثل القديس كيرلس الكبير في سرّ حزن السيد المسيح، في كتابنا: الإنجيل بحسب متى، ص536-537.]"
+    },
+    {
+      "id": 348,
+      "text": "Ep 133:10."
+    },
+    {
+      "id": 349,
+      "text": "In Luc 22:39-53."
+    },
+    {
+      "id": 350,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 351,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 352,
+      "text": "In Luc 22: 39-53."
+    },
+    {
+      "id": 353,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 354,
+      "text": "In loan. tr 116:4."
+    },
+    {
+      "id": 355,
+      "text": "In Matt. hom 85."
+    },
+    {
+      "id": 356,
+      "text": "In Luc. hom 150."
+    },
+    {
+      "id": 357,
+      "text": "In Luc 22:54-62."
+    },
+    {
+      "id": 358,
+      "text": "On the Grace of Christ 49."
+    },
+    {
+      "id": 359,
+      "text": "In Luc 22: 54-62."
+    },
+    {
+      "id": 360,
+      "text": "In Luc 22: 63."
+    },
+    {
+      "id": 361,
+      "text": "Adv. Celsus pref 1."
+    },
+    {
+      "id": 362,
+      "text": "In Lev. hom 9: 3."
+    },
+    {
+      "id": 363,
+      "text": "In Luc 23."
+    },
+    {
+      "id": 364,
+      "text": "الحب الإلهي، 1967، ص 432، 434."
+    },
+    {
+      "id": 365,
+      "text": "عظة 23:13."
+    },
+    {
+      "id": 366,
+      "text": "آلام المسيح وقيامته في إنجيل القديس يوحنا [تفسير يو 23:19، 24]."
+    },
+    {
+      "id": 367,
+      "text": "St. Augustine: In Ioan tr 117:1."
+    },
+    {
+      "id": 368,
+      "text": "In Luc 23:33-49."
+    },
+    {
+      "id": 369,
+      "text": "عظة 13: 31."
+    },
+    {
+      "id": 370,
+      "text": "In Luc Ser. 153."
+    },
+    {
+      "id": 371,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 372,
+      "text": "An Answer to Jesus 10."
+    },
+    {
+      "id": 373,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 374,
+      "text": "In Matt. hom 88."
+    },
+    {
+      "id": 375,
+      "text": "In Luc 23:33-49."
+    },
+    {
+      "id": 376,
+      "text": "De Trinit 4:13."
+    },
+    {
+      "id": 377,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 378,
+      "text": "In Luc 23:50-56."
+    },
+    {
+      "id": 379,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 380,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 381,
+      "text": "الحب الإلهي، 1967، ص 623."
+    },
+    {
+      "id": 382,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 383,
+      "text": "الحب الإلهي، 1967، ص 674."
+    },
+    {
+      "id": 384,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 385,
+      "text": "Hermony of the Gospels 3: 25:86."
+    },
+    {
+      "id": 386,
+      "text": "PL 17: 671 Ser 34."
+    },
+    {
+      "id": 387,
+      "text": "القمص متياس فريد: مع المسيح القائم، أبريل 84، ص 27 (عظة 235)."
+    },
+    {
+      "id": 388,
+      "text": "Catena aurea."
+    },
+    {
+      "id": 389,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 390,
+      "text": "De Sacerdotis 6:4."
+    },
+    {
+      "id": 391,
+      "text": "PL 76 In Evan. hom 29."
+    },
+    {
+      "id": 392,
+      "text": "الله مقدسي، 1967، ص 48."
+    },
+    {
+      "id": 393,
+      "text": "In loan. hom 25."
+    },
+    {
+      "id": 394,
+      "text": "On Forgiveness of Sins & Baptism 3."
+    },
+    {
+      "id": 395,
+      "text": "Conc. Repent. 1:8."
+    },
+    {
+      "id": 396,
+      "text": "PL 76 In Evan hom 29."
+    },
+    {
+      "id": 397,
+      "text": "On the Creed."
+    },
+    {
+      "id": 398,
+      "text": "لدراسة حياة القديس مارمرقس الرسول بتوسع راجع كتاب قداسة البابا شنودة الثالث في هذا الشأن."
+    },
+    {
+      "id": 399,
+      "text": "تاريخ البطاركة لساويرس بن المقفع ك 13، ص 13."
+    },
+    {
+      "id": 400,
+      "text": "J. D. Douglas: Dict. of Christian Church, p. 632 ."
+    },
+    {
+      "id": 401,
+      "text": "القول الإبريزي للعلامة المقريزي، طبعة 1898، ص 18. مصباح الظلمة لابن كبر، ك 4."
+    },
+    {
+      "id": 402,
+      "text": "De Reta in Deum Fide ."
+    },
+    {
+      "id": 403,
+      "text": "Adv. Haer. 51:5 ."
+    },
+    {
+      "id": 404,
+      "text": "ابن المقفع ص 15 R ، ابن كبر 40 B ، 41 A ."
+    },
+    {
+      "id": 405,
+      "text": "In Luc. Praef ."
+    },
+    {
+      "id": 406,
+      "text": "Wycliffe: Bible Encyclopedia, 1979, v.2, p 1078 ."
+    },
+    {
+      "id": 407,
+      "text": "In Matt. hom 1 ."
+    },
+    {
+      "id": 408,
+      "text": "راجع للمؤلف: الإنجيل بحسب متى، المقدمة ."
+    },
+    {
+      "id": 409,
+      "text": "R.P. Martin: Mark, Evangelist and Theologian, 1972, p. 24-36 ."
+    },
+    {
+      "id": 410,
+      "text": "Sherman E. Johnson: The Gospel according to St. Mark, 1977, p 4 ."
+    },
+    {
+      "id": 411,
+      "text": "J.A. Findlay: Jesus as they Saw, 1934, p 107 ."
+    },
+    {
+      "id": 412,
+      "text": "R.P. Martin: Mark, p. 111 ."
+    },
+    {
+      "id": 413,
+      "text": "U.W. Mauser: Christ in the Wilderness, 1963, p 100 ."
+    },
+    {
+      "id": 414,
+      "text": "D.E. Nineham: Saint Mark, 1983, p 33."
+    },
+    {
+      "id": 415,
+      "text": "A. Richardson: The Miracle Stories of the Gospels, 1941, p. 47f ."
+    },
+    {
+      "id": 416,
+      "text": "M.E. Glasswell: The use of Miracles in Marken Gospel, in Miracles, ed C.F.D. Moule 1965, p. 161f."
+    },
+    {
+      "id": 417,
+      "text": "W. Wrede: The Messianic Secret, Cambridge 1971, p. 9, 81, 209 (English Translation by J.C.G. Greig)."
+    },
+    {
+      "id": 418,
+      "text": "Sherman E. Johnson: The Gospel according to St. Mark, p. 10."
+    },
+    {
+      "id": 419,
+      "text": "C.F. Evans: The Beginning of the Gospel, 1968, p. 47."
+    },
+    {
+      "id": 420,
+      "text": "Jerome Biblical Commentary, p. 23."
+    },
+    {
+      "id": 421,
+      "text": "Nineham: Saint Mark, p 34."
+    },
+    {
+      "id": 422,
+      "text": "لم نستطيع هنا في موقع الأنبا تكلاهيمانوت التأكد من هذا التاريخ، وربما كان مأخوذًا عن طريق الخطأ من أحد المراجع.. حيث أن الأصح هو 1050-1107 م. تقريبًا ، وهو من سيرة الأنبا ثيوفيلاكتُس الأوخريدي ."
+    },
+    {
+      "id": 423,
+      "text": "De Trinit. 3:11."
+    },
+    {
+      "id": 424,
+      "text": "In Ioan. 2:17-25."
+    },
+    {
+      "id": 425,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 426,
+      "text": "An Answer to Jews 9."
+    },
+    {
+      "id": 427,
+      "text": "إنجيل القديس لوقا (ترجمة المرحوم كامل جرجس)، عظة 6."
+    },
+    {
+      "id": 428,
+      "text": "تفسير لوقا 3: 1 - 5 ترجمة مدام عايدة حنا."
+    },
+    {
+      "id": 429,
+      "text": "Dial. ad Lucif. 7 ."
+    },
+    {
+      "id": 430,
+      "text": "Ep. 125:7 ."
+    },
+    {
+      "id": 431,
+      "text": "تفسير لوقا 3 : 1- 5."
+    },
+    {
+      "id": 432,
+      "text": "تفسير لوقا 3 : 1- 5."
+    },
+    {
+      "id": 433,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 73، الأب غريغوريوس (الكبير) PL 74:1099- 1103 ."
+    },
+    {
+      "id": 434,
+      "text": "In Matt. hom. 38."
+    },
+    {
+      "id": 435,
+      "text": "Jerome Bib. Comm. p.24."
+    },
+    {
+      "id": 436,
+      "text": "On Baptism 9 ."
+    },
+    {
+      "id": 437,
+      "text": "In Luc. hom 11 ."
+    },
+    {
+      "id": 438,
+      "text": "In Luc. hom 11 ."
+    },
+    {
+      "id": 439,
+      "text": "In Luc. hom 11."
+    },
+    {
+      "id": 440,
+      "text": "In Luc. hom 11."
+    },
+    {
+      "id": 441,
+      "text": "Ser. On N.T. Lessons 2:2."
+    },
+    {
+      "id": 442,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 77 إلخ."
+    },
+    {
+      "id": 443,
+      "text": "القمص بفنوتيوس السرياني، مار يوحنا سابا 1977، ص 38، 39."
+    },
+    {
+      "id": 444,
+      "text": "تفسير لوقا، عظة 12- 21 (المرحوم كامل جرجس)."
+    },
+    {
+      "id": 445,
+      "text": "تفسير لوقا 4 : 1."
+    },
+    {
+      "id": 446,
+      "text": "راجع الإنجيل بحسب متى، 1983 ، ص 249 ."
+    },
+    {
+      "id": 447,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 448,
+      "text": "القمص بفنوتيوس السرياني، ص 48، 52."
+    },
+    {
+      "id": 449,
+      "text": "القمص بفنوتيوس السرياني، ص 47."
+    },
+    {
+      "id": 450,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 90."
+    },
+    {
+      "id": 451,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 452,
+      "text": "In Luce. hom 12-21 ."
+    },
+    {
+      "id": 453,
+      "text": "رسالة 26."
+    },
+    {
+      "id": 454,
+      "text": "Instr. To Catech .2: 4 ."
+    },
+    {
+      "id": 455,
+      "text": "In Ioan. hom 10: 1 ."
+    },
+    {
+      "id": 456,
+      "text": "In Ioan. hom 6:2 ."
+    },
+    {
+      "id": 457,
+      "text": "City of God ."
+    },
+    {
+      "id": 458,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 459,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 460,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 461,
+      "text": "In Luc. hom 12-21 ."
+    },
+    {
+      "id": 462,
+      "text": "In Luc.4 ."
+    },
+    {
+      "id": 463,
+      "text": "In Matt. hom 27 ."
+    },
+    {
+      "id": 464,
+      "text": "In Matt. hom 27."
+    },
+    {
+      "id": 465,
+      "text": "In Matt. hom 27 ."
+    },
+    {
+      "id": 466,
+      "text": "In Ioan. tr 91: 3 ."
+    },
+    {
+      "id": 467,
+      "text": "In Luc. 12-21."
+    },
+    {
+      "id": 468,
+      "text": "Jerome Bib. Comm. p 26 ."
+    },
+    {
+      "id": 469,
+      "text": "In Matt. Hom., 25 ."
+    },
+    {
+      "id": 470,
+      "text": "الإنجيل بحسب متى، 1983، ص 210."
+    },
+    {
+      "id": 471,
+      "text": "مقال 2."
+    },
+    {
+      "id": 472,
+      "text": "رسالة 40."
+    },
+    {
+      "id": 473,
+      "text": "تفسير لوقا 5: 17-26."
+    },
+    {
+      "id": 474,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 475,
+      "text": "In Matt. hom 9 ."
+    },
+    {
+      "id": 476,
+      "text": "The Paralytic let down through the Roof 6."
+    },
+    {
+      "id": 477,
+      "text": "Ser. on N.T. 76:10 ."
+    },
+    {
+      "id": 478,
+      "text": "مقال 4."
+    },
+    {
+      "id": 479,
+      "text": "In Luc. 5:7-26."
+    },
+    {
+      "id": 480,
+      "text": "القمص بفنوتيوس السرياني، ص 44."
+    },
+    {
+      "id": 481,
+      "text": "Ep. of Barnabas 5 ."
+    },
+    {
+      "id": 482,
+      "text": "In Luc. hom 20 ."
+    },
+    {
+      "id": 483,
+      "text": "In Luc. 5:27-39 ."
+    },
+    {
+      "id": 484,
+      "text": "In Luc. hom 21."
+    },
+    {
+      "id": 485,
+      "text": "On the Resur. 8."
+    },
+    {
+      "id": 486,
+      "text": "In Luc. hom 21 ."
+    },
+    {
+      "id": 487,
+      "text": "In Luc. hom 21 ."
+    },
+    {
+      "id": 488,
+      "text": "In Luc 5:27-39 ."
+    },
+    {
+      "id": 489,
+      "text": "In Luc 6:1-5 ."
+    },
+    {
+      "id": 490,
+      "text": "In Luc. 6:6-11."
+    },
+    {
+      "id": 491,
+      "text": "إنجيل لوقا: عظة 23-25. ترجمة المرحوم كامل جرجس، راجع أيضًا أقوال القديس يوحنا الذهبي الفم: في إنجيل متى عظة 40."
+    },
+    {
+      "id": 492,
+      "text": "إنجيل لوقا: عظة 23-25."
+    },
+    {
+      "id": 493,
+      "text": "In Luc. 6: 6-11 ."
+    },
+    {
+      "id": 494,
+      "text": "New Westminster Dict. of the Bible, p 384 ."
+    },
+    {
+      "id": 495,
+      "text": "J. Mckenzie: Dict. of the Bible, p 356 ."
+    },
+    {
+      "id": 496,
+      "text": "On Ps. 50 ."
+    },
+    {
+      "id": 497,
+      "text": "In loan 19:2 ."
+    },
+    {
+      "id": 498,
+      "text": "Ep. 22:5 ."
+    },
+    {
+      "id": 499,
+      "text": "On Death of his Father 24 ."
+    },
+    {
+      "id": 500,
+      "text": "In Luc 6:12-49 ."
+    },
+    {
+      "id": 501,
+      "text": "In Luc hom 23-24 ."
+    },
+    {
+      "id": 502,
+      "text": "In Luc hom 21 ."
+    },
+    {
+      "id": 503,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 504,
+      "text": "Ibid ."
+    },
+    {
+      "id": 505,
+      "text": "In Matt. hom 32:11 ."
+    },
+    {
+      "id": 506,
+      "text": "De Virginitate 4:20, Comm on Luke 10:25 ."
+    },
+    {
+      "id": 507,
+      "text": "Symposion 8:8 ."
+    },
+    {
+      "id": 508,
+      "text": "On Gosp. hom 3 ."
+    },
+    {
+      "id": 509,
+      "text": "Conc. Evang, 2:24."
+    },
+    {
+      "id": 510,
+      "text": "Nineham, p 151."
+    },
+    {
+      "id": 511,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 512,
+      "text": "In Matt. hom 28 ."
+    },
+    {
+      "id": 513,
+      "text": "رسالة 17."
+    },
+    {
+      "id": 514,
+      "text": "Nineham, p. 154."
+    },
+    {
+      "id": 515,
+      "text": "In Luc. 8."
+    },
+    {
+      "id": 516,
+      "text": "In Luc. 8."
+    },
+    {
+      "id": 517,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 221-222."
+    },
+    {
+      "id": 518,
+      "text": "In Luc 8:40-56 ."
+    },
+    {
+      "id": 519,
+      "text": "In Matt. hom 31."
+    },
+    {
+      "id": 520,
+      "text": "In Luc 8:40-56."
+    },
+    {
+      "id": 521,
+      "text": "On Ps. hom33."
+    },
+    {
+      "id": 522,
+      "text": "In Matt hom31 ."
+    },
+    {
+      "id": 523,
+      "text": "In Luc 8:40-56 ."
+    },
+    {
+      "id": 524,
+      "text": "Adv. Jovin.2:16 ."
+    },
+    {
+      "id": 525,
+      "text": "On Belief of Res.2:82."
+    },
+    {
+      "id": 526,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 219، 220 (راجع أيضًا تفسيره يوحنا مقال 3:49)."
+    },
+    {
+      "id": 527,
+      "text": "Nineham, p.163-164 ."
+    },
+    {
+      "id": 528,
+      "text": "المؤلف: القديسة مريم في المفهوم الأرثوذكسي، 1983 ، ص 22، 23 ."
+    },
+    {
+      "id": 529,
+      "text": "In Matt. hom 48."
+    },
+    {
+      "id": 530,
+      "text": "Fourth Theol. Orat. 10."
+    },
+    {
+      "id": 531,
+      "text": "Cassian: Conf 13: 15."
+    },
+    {
+      "id": 532,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 533,
+      "text": "In Evang. hom 17."
+    },
+    {
+      "id": 534,
+      "text": "In Luc. 9:1-10."
+    },
+    {
+      "id": 535,
+      "text": "مقال 3 ."
+    },
+    {
+      "id": 536,
+      "text": "رسالة 43 ."
+    },
+    {
+      "id": 537,
+      "text": "In Acts hom 30."
+    },
+    {
+      "id": 538,
+      "text": "Nineham. p 170."
+    },
+    {
+      "id": 539,
+      "text": "Ibid 171."
+    },
+    {
+      "id": 540,
+      "text": "New Westminster Dict. of the Bible, p 380."
+    },
+    {
+      "id": 541,
+      "text": "Josephus: Antiq 18, 5, 2."
+    },
+    {
+      "id": 542,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 543,
+      "text": "In Matt. hom 48."
+    },
+    {
+      "id": 544,
+      "text": "Conc. Virgins 3: 5."
+    },
+    {
+      "id": 545,
+      "text": "الإنجيل بحسب متى، 1983، ص 326 ."
+    },
+    {
+      "id": 546,
+      "text": "Joseph: Sntiq 18:7."
+    },
+    {
+      "id": 547,
+      "text": "Josephus: War 2:9:6."
+    },
+    {
+      "id": 548,
+      "text": "مقال 4 ."
+    },
+    {
+      "id": 549,
+      "text": "In Matt. hom 50:1."
+    },
+    {
+      "id": 550,
+      "text": "In Matt. hom 50:1."
+    },
+    {
+      "id": 551,
+      "text": "القمص بفنوتيوس السرياني 35، 36 ."
+    },
+    {
+      "id": 552,
+      "text": "In Matt. hom 50."
+    },
+    {
+      "id": 553,
+      "text": "مقال 2 ."
+    },
+    {
+      "id": 554,
+      "text": "رسالة 35 ."
+    },
+    {
+      "id": 555,
+      "text": "لمعرفة \"الشناة\" راجع كتابنا: الأرثوذكسية والتقليد."
+    },
+    {
+      "id": 556,
+      "text": "In Matt. hom 7:9."
+    },
+    {
+      "id": 557,
+      "text": "Nineham, p. 202."
+    },
+    {
+      "id": 558,
+      "text": "Jerome Biblical Commentary, p 35 ."
+    },
+    {
+      "id": 559,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 331-335 ."
+    },
+    {
+      "id": 560,
+      "text": "Ser. on N.T. 45: 1,2."
+    },
+    {
+      "id": 561,
+      "text": "Mor 1: 9."
+    },
+    {
+      "id": 562,
+      "text": "Nineham, p 207."
+    },
+    {
+      "id": 563,
+      "text": "Ser. on N.T. 45: 2."
+    },
+    {
+      "id": 564,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 565,
+      "text": "In Luc. 6: 73."
+    },
+    {
+      "id": 566,
+      "text": "Ser. on N.T. 45: 3."
+    },
+    {
+      "id": 567,
+      "text": "Nineham, p 207-8, Jerome Bib. Comm. p 39."
+    },
+    {
+      "id": 568,
+      "text": "In Matt. Hom., 53."
+    },
+    {
+      "id": 569,
+      "text": "رسالة 33 ."
+    },
+    {
+      "id": 570,
+      "text": "رسالة 6 ."
+    },
+    {
+      "id": 571,
+      "text": "الإنجيل بحسب متى، 1983 ، ص353-355 ."
+    },
+    {
+      "id": 572,
+      "text": "In Luc, Ser 86 ."
+    },
+    {
+      "id": 573,
+      "text": "رسالة 34 ."
+    },
+    {
+      "id": 574,
+      "text": "In Matt. hom 54."
+    },
+    {
+      "id": 575,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 355 ."
+    },
+    {
+      "id": 576,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 577,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 578,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 579,
+      "text": "Ser. on N.T. 46: 1,2."
+    },
+    {
+      "id": 580,
+      "text": "On Ps hom 1."
+    },
+    {
+      "id": 581,
+      "text": "In Luc. 9: 27."
+    },
+    {
+      "id": 582,
+      "text": "مقال 1."
+    },
+    {
+      "id": 583,
+      "text": "In Luc 9: 27."
+    },
+    {
+      "id": 584,
+      "text": "To Etrop. 2: 10."
+    },
+    {
+      "id": 585,
+      "text": "الإنجيل بحسب متى، 1983 ، 367-369."
+    },
+    {
+      "id": 586,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 587,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 588,
+      "text": "In Luc 9: 28-31."
+    },
+    {
+      "id": 589,
+      "text": "Ser. on N.T. 28: 2."
+    },
+    {
+      "id": 590,
+      "text": "Mor. 32: 6."
+    },
+    {
+      "id": 591,
+      "text": "In Luc 9."
+    },
+    {
+      "id": 592,
+      "text": "الإنجيل بحسب متى، 1983 ، 372- 374."
+    },
+    {
+      "id": 593,
+      "text": "In Matt. hom 56."
+    },
+    {
+      "id": 594,
+      "text": "In luc 9."
+    },
+    {
+      "id": 595,
+      "text": "In luc 9."
+    },
+    {
+      "id": 596,
+      "text": "In luc 9."
+    },
+    {
+      "id": 597,
+      "text": "In luc 1: 7."
+    },
+    {
+      "id": 598,
+      "text": "رسالة 43."
+    },
+    {
+      "id": 599,
+      "text": "St. Irenaeus: Adv. Hear. 4: 27:6."
+    },
+    {
+      "id": 600,
+      "text": "Mor 10: 30."
+    },
+    {
+      "id": 601,
+      "text": "رسالة 11."
+    },
+    {
+      "id": 602,
+      "text": "رسالة 12."
+    },
+    {
+      "id": 603,
+      "text": "رسالة 18."
+    },
+    {
+      "id": 604,
+      "text": "الحب الإلهي، 1967، ص 467، 468."
+    },
+    {
+      "id": 605,
+      "text": "الحب الإلهي، 1967، ص 469."
+    },
+    {
+      "id": 606,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 607,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 608,
+      "text": "In Matt. hom 58."
+    },
+    {
+      "id": 609,
+      "text": "مقال 7، رسالة 8، القمص بفنوتيوس السرياني، ص42، 53، 55."
+    },
+    {
+      "id": 610,
+      "text": "De cura past. c 2."
+    },
+    {
+      "id": 611,
+      "text": "الإنجيل بحسب متى، 1983 ، 125، 126."
+    },
+    {
+      "id": 612,
+      "text": "In Matt. hom 59."
+    },
+    {
+      "id": 613,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 614,
+      "text": "In Luc. Sermon 121."
+    },
+    {
+      "id": 615,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 616,
+      "text": "In Luc 18: 17."
+    },
+    {
+      "id": 617,
+      "text": "In Luc Ser 121."
+    },
+    {
+      "id": 618,
+      "text": "In Luc Ser 121."
+    },
+    {
+      "id": 619,
+      "text": "In Luc 18: 18-30."
+    },
+    {
+      "id": 620,
+      "text": "In Luc Ser. 122."
+    },
+    {
+      "id": 621,
+      "text": "In Luc Ser. 123."
+    },
+    {
+      "id": 622,
+      "text": "In Evan. t. 15: 14."
+    },
+    {
+      "id": 623,
+      "text": "In Matt. hom 64."
+    },
+    {
+      "id": 624,
+      "text": "Ep. 22: 21."
+    },
+    {
+      "id": 625,
+      "text": "In Luc Ser. 124."
+    },
+    {
+      "id": 626,
+      "text": "Cassian: Conf. 24: 26."
+    },
+    {
+      "id": 627,
+      "text": "In Luc Ser. 125."
+    },
+    {
+      "id": 628,
+      "text": "In Matt. hom 65."
+    },
+    {
+      "id": 629,
+      "text": "In loan hom 67: 1."
+    },
+    {
+      "id": 630,
+      "text": "On Ps. hom 2."
+    },
+    {
+      "id": 631,
+      "text": "In Luc. Ser. 126."
+    },
+    {
+      "id": 632,
+      "text": "In Luc. Ser. 126."
+    },
+    {
+      "id": 633,
+      "text": "رسالة 30."
+    },
+    {
+      "id": 634,
+      "text": "Ep. 147: 9."
+    },
+    {
+      "id": 635,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 434."
+    },
+    {
+      "id": 636,
+      "text": "Joseph.:Antiquities 20:8:6, Jewish war 2:13:5."
+    },
+    {
+      "id": 637,
+      "text": "Nineham: St, Mark, p 292."
+    },
+    {
+      "id": 638,
+      "text": "الإنجيل بحسب متى، 1983 ، ص 435-440."
+    },
+    {
+      "id": 639,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 640,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 641,
+      "text": "In Luc 96."
+    },
+    {
+      "id": 642,
+      "text": "مخطوط 59 طقس المتحف القطبي (نشره الشماس يوسف حبيب في كتابه: تأملات القديس أبيفانيوس حول أسبوع الآلام مع ميمر للقديس أثناسيوس الرسولي، 1965."
+    },
+    {
+      "id": 643,
+      "text": "In Luc 9:6."
+    },
+    {
+      "id": 644,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 645,
+      "text": "St. Jerome. PL 26."
+    },
+    {
+      "id": 646,
+      "text": "In Luc 19:28-38."
+    },
+    {
+      "id": 647,
+      "text": "Nineham, p 293."
+    },
+    {
+      "id": 648,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 649,
+      "text": "قراءات الساعة الثالثة من اثنين البصخة."
+    },
+    {
+      "id": 650,
+      "text": "قراءات الساعة السادسة من نفس اليوم (خر 32)."
+    },
+    {
+      "id": 651,
+      "text": "قراءات الساعة الأولى من ليلة ثلاثاء البصخة."
+    },
+    {
+      "id": 652,
+      "text": "قراءات الساعة الثالثة من يوم الاثنين."
+    },
+    {
+      "id": 653,
+      "text": "قراءات الساعة الثالثة من ليلة الثلاثاء."
+    },
+    {
+      "id": 654,
+      "text": "قراءات الساعة التاسعة من ليلة الثلاثاء."
+    },
+    {
+      "id": 655,
+      "text": "قراءات الساعة التاسعة من يوم الاثنين."
+    },
+    {
+      "id": 656,
+      "text": "قراءات الساعة الحادية عشر من يوم الاثنين."
+    },
+    {
+      "id": 657,
+      "text": "On Ps. 35."
+    },
+    {
+      "id": 658,
+      "text": "Cat. Lect. 13:18."
+    },
+    {
+      "id": 659,
+      "text": "In Matt. hom 67."
+    },
+    {
+      "id": 660,
+      "text": "الساعة الأولى من ليلة الاثنين."
+    },
+    {
+      "id": 661,
+      "text": "See: In Luc. Ser. 132."
+    },
+    {
+      "id": 662,
+      "text": "In Luc 19: 45 etc."
+    },
+    {
+      "id": 663,
+      "text": "Nineham, p. 305."
+    },
+    {
+      "id": 664,
+      "text": "Cat. Lect. 5: 11."
+    },
+    {
+      "id": 665,
+      "text": "On Lord’s Prayer 23."
+    },
+    {
+      "id": 666,
+      "text": "In 1 Tim. hom 8."
+    },
+    {
+      "id": 667,
+      "text": "In Luc. Ser. 133."
+    },
+    {
+      "id": 668,
+      "text": "See: On Ps 41."
+    },
+    {
+      "id": 669,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 670,
+      "text": "In Luc 20: 9-19."
+    },
+    {
+      "id": 671,
+      "text": "In Luc 20: 9-19."
+    },
+    {
+      "id": 672,
+      "text": "In Luc 20: 21-26."
+    },
+    {
+      "id": 673,
+      "text": "In Luc 20: 21-26."
+    },
+    {
+      "id": 674,
+      "text": "New Westminster Dict. of Bible, p. 817."
+    },
+    {
+      "id": 675,
+      "text": "Antiq. 13: 10: 6."
+    },
+    {
+      "id": 676,
+      "text": "Antiq. 18: 1: 4."
+    },
+    {
+      "id": 677,
+      "text": "In Luc. Ser. 136."
+    },
+    {
+      "id": 678,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 679,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 680,
+      "text": "In Luc 20: 41-44."
+    },
+    {
+      "id": 681,
+      "text": "In Luc. Ser. 137."
+    },
+    {
+      "id": 682,
+      "text": "رسالة 14."
+    },
+    {
+      "id": 683,
+      "text": "رسالة 35."
+    },
+    {
+      "id": 684,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 685,
+      "text": "In Luc. Ser. 148."
+    },
+    {
+      "id": 686,
+      "text": "In Heb. hom 31: 8."
+    },
+    {
+      "id": 687,
+      "text": "On Ps. 50, 112, 129."
+    },
+    {
+      "id": 688,
+      "text": "Ep. 53: 11, 54: 17, 118: 5."
+    },
+    {
+      "id": 689,
+      "text": "قراءات الساعة الأولى من يوم الثلاثاء من البصخة المقدسة ."
+    },
+    {
+      "id": 690,
+      "text": "نبوات الساعة السادسة من يوم الثلاثاء من البصخة المقدسة ."
+    },
+    {
+      "id": 691,
+      "text": "Jewish War 5:5:1-6, Antiq 15:11:1-3."
+    },
+    {
+      "id": 692,
+      "text": "In Luc. Ser. 149."
+    },
+    {
+      "id": 693,
+      "text": "In Luc 21:5-36."
+    },
+    {
+      "id": 694,
+      "text": "راجع تفسير مر 1: 16 ."
+    },
+    {
+      "id": 695,
+      "text": "In Luc 21: 5-36."
+    },
+    {
+      "id": 696,
+      "text": "Jerom Bib. Comm. 51."
+    },
+    {
+      "id": 697,
+      "text": "City of God 29:19."
+    },
+    {
+      "id": 698,
+      "text": "In Ezek. lib. 1: 9."
+    },
+    {
+      "id": 699,
+      "text": "Ep. 199:11."
+    },
+    {
+      "id": 700,
+      "text": "In loan tr 10:12."
+    },
+    {
+      "id": 701,
+      "text": "Ep. 199:11."
+    },
+    {
+      "id": 702,
+      "text": "De trin. 1:13."
+    },
+    {
+      "id": 703,
+      "text": "In Luc. Ser. 139."
+    },
+    {
+      "id": 704,
+      "text": "Of Christian Faith 5:4."
+    },
+    {
+      "id": 705,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 706,
+      "text": "On Ps. 36."
+    },
+    {
+      "id": 707,
+      "text": "In Matt. hom 77."
+    },
+    {
+      "id": 708,
+      "text": "De Trinit. 9."
+    },
+    {
+      "id": 709,
+      "text": "Jerome Bib. Comm. P52."
+    },
+    {
+      "id": 710,
+      "text": "De Prod. Jud. hom 1."
+    },
+    {
+      "id": 711,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 712,
+      "text": "In Luc. Ser. 148."
+    },
+    {
+      "id": 713,
+      "text": "In Luc. Ser. 141."
+    },
+    {
+      "id": 714,
+      "text": "In Luc. Ser. 141."
+    },
+    {
+      "id": 715,
+      "text": "In Luc. 22: 7-13."
+    },
+    {
+      "id": 716,
+      "text": "In Luc. 22: 7-13."
+    },
+    {
+      "id": 717,
+      "text": "In Pord. Jud. hom `e."
+    },
+    {
+      "id": 718,
+      "text": "In Luc. Ser. 142."
+    },
+    {
+      "id": 719,
+      "text": "A. Hamman: The Paschal Mystery, 1969, p 26-39."
+    },
+    {
+      "id": 720,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 721,
+      "text": "De Myster. 9."
+    },
+    {
+      "id": 722,
+      "text": "In Luc. Ser. 144."
+    },
+    {
+      "id": 723,
+      "text": "Cf. Catena Aurea."
+    },
+    {
+      "id": 724,
+      "text": "الحب الإلهي، 1967، ص367-392."
+    },
+    {
+      "id": 725,
+      "text": "In Luc 22: 39-53."
+    },
+    {
+      "id": 726,
+      "text": "القديس أغسطينوس: اتفاق البشائر 3: 4. [راجع أيضًا أقوال بعض الآباء مثل القديس كيرلس الكبير في سرّ حزن السيد المسيح، في كتابنا: الإنجيل بحسب متى ، ص536-537.]"
+    },
+    {
+      "id": 727,
+      "text": "Ep 133:10."
+    },
+    {
+      "id": 728,
+      "text": "In Luc 22:39-53."
+    },
+    {
+      "id": 729,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 730,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 731,
+      "text": "In Luc 22: 39-53."
+    },
+    {
+      "id": 732,
+      "text": "In Luc Ser. 148."
+    },
+    {
+      "id": 733,
+      "text": "In loan. tr 116:4."
+    },
+    {
+      "id": 734,
+      "text": "In Matt. hom 85."
+    },
+    {
+      "id": 735,
+      "text": "In Luc. hom 150."
+    },
+    {
+      "id": 736,
+      "text": "In Luc 22:54-62."
+    },
+    {
+      "id": 737,
+      "text": "On the Grace of Christ 49."
+    },
+    {
+      "id": 738,
+      "text": "In Luc 22: 54-62."
+    },
+    {
+      "id": 739,
+      "text": "In Luc 22: 63."
+    },
+    {
+      "id": 740,
+      "text": "Adv. Celsus pref 1."
+    },
+    {
+      "id": 741,
+      "text": "In Lev. hom 9: 3."
+    },
+    {
+      "id": 742,
+      "text": "In Luc 23."
+    },
+    {
+      "id": 743,
+      "text": "الحب الإلهي، 1967، ص 432، 434."
+    },
+    {
+      "id": 744,
+      "text": "عظة 23:13."
+    },
+    {
+      "id": 745,
+      "text": "آلام المسيح وقيامته في إنجيل القديس يوحنا [تفسير يو 23:19، 24]."
+    },
+    {
+      "id": 746,
+      "text": "St. Augustine: In Ioan tr 117:1."
+    },
+    {
+      "id": 747,
+      "text": "In Luc 23:33-49."
+    },
+    {
+      "id": 748,
+      "text": "عظة 13: 31."
+    },
+    {
+      "id": 749,
+      "text": "In Luc Ser. 153."
+    },
+    {
+      "id": 750,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 751,
+      "text": "An Answer to Jesus 10."
+    },
+    {
+      "id": 752,
+      "text": "In Luc hom 153."
+    },
+    {
+      "id": 753,
+      "text": "In Matt. hom 88."
+    },
+    {
+      "id": 754,
+      "text": "In Luc 23:33-49."
+    },
+    {
+      "id": 755,
+      "text": "De Trinit 4:13."
+    },
+    {
+      "id": 756,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 757,
+      "text": "In Luc 23:50-56."
+    },
+    {
+      "id": 758,
+      "text": "In Luc 24."
+    },
+    {
+      "id": 759,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 760,
+      "text": "الحب الإلهي، 1967، ص 623."
+    },
+    {
+      "id": 761,
+      "text": "Catena Aurea ."
+    },
+    {
+      "id": 762,
+      "text": "الحب الإلهي، 1967، ص 674."
+    },
+    {
+      "id": 763,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 764,
+      "text": "Hermony of the Gospels 3: 25:86."
+    },
+    {
+      "id": 765,
+      "text": "PL 17: 671 Ser 34."
+    },
+    {
+      "id": 766,
+      "text": "القمص متياس فريد: مع المسيح القائم، أبريل 84، ص 27 (عظة 235)."
+    },
+    {
+      "id": 767,
+      "text": "Catena aurea."
+    },
+    {
+      "id": 768,
+      "text": "In Eph. hom 1."
+    },
+    {
+      "id": 769,
+      "text": "De Sacerdotis 6:4."
+    },
+    {
+      "id": 770,
+      "text": "PL 76 In Evan. hom 29."
+    },
+    {
+      "id": 771,
+      "text": "الله مقدسي، 1967، ص 48."
+    },
+    {
+      "id": 772,
+      "text": "In loan. hom 25."
+    },
+    {
+      "id": 773,
+      "text": "On Forgiveness of Sins & Baptism 3."
+    },
+    {
+      "id": 774,
+      "text": "Conc. Repent. 1:8."
+    },
+    {
+      "id": 775,
+      "text": "PL 76 In Evan hom 29."
+    },
+    {
+      "id": 776,
+      "text": "On the Creed."
+    }
+  ]
+}

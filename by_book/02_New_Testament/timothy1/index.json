@@ -1,0 +1,1303 @@
+{
+  "book_id": 60,
+  "book_title": "تفسير الرسالة الأولى إلى تيموثاوس",
+  "testament": "New Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "البركة الرسولية"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الصلاة من أجل كل البشرية"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "سمات الأسقف"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الارتداد عن الإيمان"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "توجيه كل فئة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "وصايا للعبيد"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "أول من استخدم تعبير \"الرسائل الرعوية\" هو: D. N. Berdot ، عام 1703 م.، وإن كان Paul Anton هو الذي أعطاه شهرته عام 1766 ."
+    },
+    {
+      "id": 2,
+      "text": "H. E.3: 3: 5."
+    },
+    {
+      "id": 3,
+      "text": "Ep. to Corinth 2: 4."
+    },
+    {
+      "id": 4,
+      "text": "AD Autol. 3: 14."
+    },
+    {
+      "id": 5,
+      "text": "Adv. Haer."
+    },
+    {
+      "id": 6,
+      "text": "De Praescript 25."
+    },
+    {
+      "id": 7,
+      "text": "Stromata, 2: 31"
+    },
+    {
+      "id": 8,
+      "text": "أول من بدأ في التشكك هو J. E. Schmidt عام 1807 م.، تبعه فريق كبير من الدارسين يدافعون عن أصالتها ونسبتها للرسول منهم Zahn, Weis, Cedet, Berth,.. ."
+    },
+    {
+      "id": 9,
+      "text": "H. E. 2: 22."
+    },
+    {
+      "id": 10,
+      "text": "L. E. Berkhof: N. T. Introduction, 1915, p 239."
+    },
+    {
+      "id": 11,
+      "text": "N. J. White: Exp. Greek. Testament, 6, p 63."
+    },
+    {
+      "id": 12,
+      "text": "المؤلف: آباء مدرسة الإسكندرية، 1980، ص 7، 8 ."
+    },
+    {
+      "id": 13,
+      "text": "J. L. Mckenzie, Dict. of the Bible, 1972, p 892."
+    },
+    {
+      "id": 14,
+      "text": "The Jerome Biblical Comm., 1970, vol. 2, p 350."
+    },
+    {
+      "id": 15,
+      "text": "In 1Tim., hom. 1."
+    },
+    {
+      "id": 16,
+      "text": "On Christian Faith 3: 12."
+    },
+    {
+      "id": 17,
+      "text": "In 1Tim., hom. 1."
+    },
+    {
+      "id": 18,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم ، 1980، ص 17 ."
+    },
+    {
+      "id": 19,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 20,
+      "text": "Ad. Eph."
+    },
+    {
+      "id": 21,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 22,
+      "text": "Pulpit Comm. v. 21, p2."
+    },
+    {
+      "id": 23,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 24,
+      "text": "Adv. Haer. lib. 1."
+    },
+    {
+      "id": 25,
+      "text": "Adv. Valentinus 3."
+    },
+    {
+      "id": 26,
+      "text": "راجع في هذا الكتاب المقدمة عن الرسائل الرعوية (الهرطقات المعاصرة: 4)."
+    },
+    {
+      "id": 27,
+      "text": "Adv. Haer. 1: 1."
+    },
+    {
+      "id": 28,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 29,
+      "text": "للمؤلف: آباء مدرسة الإسكندرية الأولون، 1980، ص 14، 15."
+    },
+    {
+      "id": 30,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 31,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 32,
+      "text": "In Joan, Tr. 87: 1."
+    },
+    {
+      "id": 33,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 34,
+      "text": "On Ps. 6."
+    },
+    {
+      "id": 35,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 36,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 37,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 38,
+      "text": "cf. Duties of Clergy 3: 5."
+    },
+    {
+      "id": 39,
+      "text": "In. Ps. 85."
+    },
+    {
+      "id": 40,
+      "text": "In Joan. tr. 3: 10."
+    },
+    {
+      "id": 41,
+      "text": "In 1Tim, hom 3."
+    },
+    {
+      "id": 42,
+      "text": "In 1Tim, hom 3."
+    },
+    {
+      "id": 43,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 44,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 45,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 46,
+      "text": "In 1Tim , hom 5."
+    },
+    {
+      "id": 47,
+      "text": "In 1Tim , hom 5."
+    },
+    {
+      "id": 48,
+      "text": "للمؤلف: الحب الرعوي، 1966، ص 700."
+    },
+    {
+      "id": 49,
+      "text": "In 1Tim, hom 5."
+    },
+    {
+      "id": 50,
+      "text": "In 1Tim, hom 5."
+    },
+    {
+      "id": 51,
+      "text": "De Fuga in Persecutione 2."
+    },
+    {
+      "id": 52,
+      "text": "In Ps. Hom.34."
+    },
+    {
+      "id": 53,
+      "text": "مناظرات يوحنا كاسيان، مناظرة 9 ."
+    },
+    {
+      "id": 54,
+      "text": "On prayer 14: 2 - 5."
+    },
+    {
+      "id": 55,
+      "text": "In 1 Tim, hom. 6."
+    },
+    {
+      "id": 56,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 57,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 58,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 59,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 60,
+      "text": "راجع المقدمة: الهرطقات المعاصرة (رقم 3) ."
+    },
+    {
+      "id": 61,
+      "text": "Adv. Eunomius 2: 12."
+    },
+    {
+      "id": 62,
+      "text": "Adv. Eunomius 3: 4."
+    },
+    {
+      "id": 63,
+      "text": "On Trinity 3: 11, 4: 8."
+    },
+    {
+      "id": 64,
+      "text": "In Joan tr. 41: 5, 47: 3."
+    },
+    {
+      "id": 65,
+      "text": "In Ps. 105."
+    },
+    {
+      "id": 66,
+      "text": "Adv. Haer 5: 17: 1."
+    },
+    {
+      "id": 67,
+      "text": "On the Resur. Of the Flesh 63."
+    },
+    {
+      "id": 68,
+      "text": "On the Resur. Of the Flesh 51."
+    },
+    {
+      "id": 69,
+      "text": "Adv. Eunom 2: 8."
+    },
+    {
+      "id": 70,
+      "text": "In Joan. 66: 2."
+    },
+    {
+      "id": 71,
+      "text": "In 1 Tim. hom. 7."
+    },
+    {
+      "id": 72,
+      "text": "In 1 Tim. Hom 8."
+    },
+    {
+      "id": 73,
+      "text": "On Ps. 21."
+    },
+    {
+      "id": 74,
+      "text": "On prayer 8."
+    },
+    {
+      "id": 75,
+      "text": "On prayer 8."
+    },
+    {
+      "id": 76,
+      "text": "In 1 Tim. hom. 8.."
+    },
+    {
+      "id": 77,
+      "text": "In 1 Tim. hom. 8."
+    },
+    {
+      "id": 78,
+      "text": "Ibid, Roger Gryson: The ministry of Women in the Early Church, Minnesota, 1976, p. 128."
+    },
+    {
+      "id": 79,
+      "text": "De Paraescriptione 41: 5."
+    },
+    {
+      "id": 80,
+      "text": "De Resurr. Carins 11 : 2 De Exhort. Castitalis 10 : 5."
+    },
+    {
+      "id": 81,
+      "text": "On Veiling of Virgins 9: 1."
+    },
+    {
+      "id": 82,
+      "text": "Adv. Mare. 5 : 8 : 11 De Anima 9 : 4."
+    },
+    {
+      "id": 83,
+      "text": "In 1Tim, hom 10."
+    },
+    {
+      "id": 84,
+      "text": "كلمة \"ابسكوبوس\" أو \"أسقف\" في البونانية معناها \"ناظر\"."
+    },
+    {
+      "id": 85,
+      "text": "De Sacr. 3: 10: 11."
+    },
+    {
+      "id": 86,
+      "text": "يمكن دراسة هذه الشهوة للسلطة في كتاب \"الكهنوت المسيحي\" للقديس، ك 3، ف 10 - 12 (ترجمة كنيسة السيدة العذراء بالفجالة سنة 1974)."
+    },
+    {
+      "id": 87,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 88,
+      "text": "الحب الرعوي: 1966، ص 656."
+    },
+    {
+      "id": 89,
+      "text": "راجع التفسير الرمزي لهذه العيوب في كتاب الأب غريغوريوس (الكبير) عن الرعاية، أو كتابنا: الحب الرعوي، 1966، ص 657 - 662."
+    },
+    {
+      "id": 90,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 91,
+      "text": "In 1Tim, hom 10 ."
+    },
+    {
+      "id": 92,
+      "text": "الحب الرعوي، 1966، ص 727 - 759."
+    },
+    {
+      "id": 93,
+      "text": "الحب الرعوي، 1966، ص 663 - 668."
+    },
+    {
+      "id": 94,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 95,
+      "text": "الدسقولية ، باب 3."
+    },
+    {
+      "id": 96,
+      "text": "الحب الرعوي، ص 668."
+    },
+    {
+      "id": 97,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 98,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 99,
+      "text": "الحب الرعوي، 1966، ص 655."
+    },
+    {
+      "id": 100,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 101,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 102,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 103,
+      "text": "On Ps. 46."
+    },
+    {
+      "id": 104,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 105,
+      "text": "In Joan. tr 9: 2."
+    },
+    {
+      "id": 106,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 107,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 108,
+      "text": "الإيمان والرجاء والمحبة 12."
+    },
+    {
+      "id": 109,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 110,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 111,
+      "text": "In 1Tim. hom 13."
+    },
+    {
+      "id": 112,
+      "text": "In 1Tim. hom 13."
+    },
+    {
+      "id": 113,
+      "text": "الحب الرعوي، 1966، ص 736، 737."
+    },
+    {
+      "id": 114,
+      "text": "In 1Tim. Hom., 13."
+    },
+    {
+      "id": 115,
+      "text": "In 1Tim. Hom., 13."
+    },
+    {
+      "id": 116,
+      "text": "للمؤلف:القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 5 ."
+    },
+    {
+      "id": 117,
+      "text": "Ep. to Polyc. 4: 1."
+    },
+    {
+      "id": 118,
+      "text": "Ep. to Phil. 6."
+    },
+    {
+      "id": 1,
+      "text": "Apology, 67: 6."
+    },
+    {
+      "id": 2,
+      "text": "Shepherd, 56: 7."
+    },
+    {
+      "id": 3,
+      "text": "In 1 Tim. hom 13."
+    },
+    {
+      "id": 4,
+      "text": "In 1 Tim. hom 13."
+    },
+    {
+      "id": 5,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 6,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 7,
+      "text": "In Ps. 132."
+    },
+    {
+      "id": 8,
+      "text": "The Ministry of Women in the Early Church, 1976, p 25."
+    },
+    {
+      "id": 9,
+      "text": "Paedagogus, 3: 12: 97: 1."
+    },
+    {
+      "id": 10,
+      "text": "راجع أيضًا العلامة أوريجانوس ف الصلاة 38: 4، عظات على لوقا 17، وتعليقات على متى 4 : 22."
+    },
+    {
+      "id": 11,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 12,
+      "text": "المؤلف:القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 11، 12."
+    },
+    {
+      "id": 13,
+      "text": "Conc. Widows 2."
+    },
+    {
+      "id": 14,
+      "text": "Conc. Widows 2."
+    },
+    {
+      "id": 15,
+      "text": "In 1Tim. hom 14."
+    },
+    {
+      "id": 16,
+      "text": "In 1Tim. hom 14."
+    },
+    {
+      "id": 17,
+      "text": "Comm. on John 32: 12."
+    },
+    {
+      "id": 18,
+      "text": "Comm. on John 32: 12."
+    },
+    {
+      "id": 19,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 20,
+      "text": "للمؤلف:القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 14 ."
+    },
+    {
+      "id": 21,
+      "text": "In Joan. tr. 62: 5."
+    },
+    {
+      "id": 22,
+      "text": "In 1Tim. hom 15."
+    },
+    {
+      "id": 23,
+      "text": "الحب الرعوي، 1966، ص 232."
+    },
+    {
+      "id": 24,
+      "text": "Paedagogus, 2: 2."
+    },
+    {
+      "id": 25,
+      "text": "In 1Tim. Hom., 16."
+    },
+    {
+      "id": 26,
+      "text": "Duties of the clergy 2: 17."
+    },
+    {
+      "id": 27,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 28,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 29,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 30,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 31,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 32,
+      "text": "Ep. 39: 6."
+    },
+    {
+      "id": 33,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 34,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 35,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 36,
+      "text": "Treat. on the lapsed 12."
+    },
+    {
+      "id": 37,
+      "text": "On Patience"
+    },
+    {
+      "id": 38,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 39,
+      "text": "In 1Tim. hom 18."
+    },
+    {
+      "id": 40,
+      "text": "In 1Tim. hom 18."
+    },
+    {
+      "id": 41,
+      "text": "الحب الأخوي، 1964، العطاء."
+    },
+    {
+      "id": 42,
+      "text": "In 1Tim. hom 20."
+    },
+    {
+      "id": 43,
+      "text": "أول من استخدم تعبير \"الرسائل الرعوية\" هو: D. N. Berdot ، عام 1703 م.، وإن كان Paul Anton هو الذي أعطاه شهرته عام 1766 ."
+    },
+    {
+      "id": 44,
+      "text": "H. E.3: 3: 5."
+    },
+    {
+      "id": 45,
+      "text": "Ep. to Corinth 2: 4."
+    },
+    {
+      "id": 46,
+      "text": "AD Autol. 3: 14."
+    },
+    {
+      "id": 47,
+      "text": "Adv. Haer."
+    },
+    {
+      "id": 48,
+      "text": "De Praescript 25."
+    },
+    {
+      "id": 49,
+      "text": "Stromata, 2: 31"
+    },
+    {
+      "id": 50,
+      "text": "أول من بدأ في التشكك هو J. E. Schmidt عام 1807 م.، تبعه فريق كبير من الدارسين يدافعون عن أصالتها ونسبتها للرسول منهم Zahn, Weis, Cedet, Berth,.. ."
+    },
+    {
+      "id": 51,
+      "text": "H. E. 2: 22."
+    },
+    {
+      "id": 52,
+      "text": "L. E. Berkhof: N. T. Introduction, 1915, p 239."
+    },
+    {
+      "id": 53,
+      "text": "N. J. White: Exp. Greek. Testament, 6, p 63."
+    },
+    {
+      "id": 54,
+      "text": "المؤلف: آباء مدرسة الإسكندرية، 1980، ص 7، 8 ."
+    },
+    {
+      "id": 55,
+      "text": "J. L. Mckenzie, Dict. of the Bible, 1972, p 892."
+    },
+    {
+      "id": 56,
+      "text": "The Jerome Biblical Comm., 1970, vol. 2, p 350."
+    },
+    {
+      "id": 57,
+      "text": "In 1Tim., hom. 1."
+    },
+    {
+      "id": 58,
+      "text": "On Christian Faith 3: 12."
+    },
+    {
+      "id": 59,
+      "text": "In 1Tim., hom. 1."
+    },
+    {
+      "id": 60,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم ، 1980، ص 17 ."
+    },
+    {
+      "id": 61,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 62,
+      "text": "Ad. Eph."
+    },
+    {
+      "id": 63,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 64,
+      "text": "Pulpit Comm. v. 21, p2."
+    },
+    {
+      "id": 65,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 66,
+      "text": "Adv. Haer. lib. 1."
+    },
+    {
+      "id": 67,
+      "text": "Adv. Valentinus 3."
+    },
+    {
+      "id": 68,
+      "text": "راجع في هذا الكتاب المقدمة عن الرسائل الرعوية (الهرطقات المعاصرة: 4)."
+    },
+    {
+      "id": 69,
+      "text": "Adv. Haer. 1: 1."
+    },
+    {
+      "id": 70,
+      "text": "In 1Tim, hom 1."
+    },
+    {
+      "id": 71,
+      "text": "للمؤلف: آباء مدرسة الإسكندرية الأولون، 1980، ص 14، 15."
+    },
+    {
+      "id": 72,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 73,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 74,
+      "text": "In Joan, Tr. 87: 1."
+    },
+    {
+      "id": 75,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 76,
+      "text": "On Ps. 6."
+    },
+    {
+      "id": 77,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 78,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 79,
+      "text": "In 1Tim, hom 2."
+    },
+    {
+      "id": 80,
+      "text": "cf. Duties of Clergy 3: 5."
+    },
+    {
+      "id": 81,
+      "text": "In. Ps. 85."
+    },
+    {
+      "id": 82,
+      "text": "In Joan. tr. 3: 10."
+    },
+    {
+      "id": 83,
+      "text": "In 1Tim, hom 3."
+    },
+    {
+      "id": 84,
+      "text": "In 1Tim, hom 3."
+    },
+    {
+      "id": 85,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 86,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 87,
+      "text": "In 1Tim, hom 4."
+    },
+    {
+      "id": 88,
+      "text": "In 1Tim , hom 5."
+    },
+    {
+      "id": 89,
+      "text": "In 1Tim , hom 5."
+    },
+    {
+      "id": 90,
+      "text": "للمؤلف: الحب الرعوي، 1966، ص 700."
+    },
+    {
+      "id": 91,
+      "text": "In 1Tim, hom 5."
+    },
+    {
+      "id": 92,
+      "text": "In 1Tim, hom 5."
+    },
+    {
+      "id": 93,
+      "text": "De Fuga in Persecutione 2."
+    },
+    {
+      "id": 94,
+      "text": "In Ps. Hom.34."
+    },
+    {
+      "id": 95,
+      "text": "مناظرات يوحنا كاسيان، مناظرة 9 ."
+    },
+    {
+      "id": 96,
+      "text": "On prayer 14: 2 - 5."
+    },
+    {
+      "id": 97,
+      "text": "In 1 Tim, hom. 6."
+    },
+    {
+      "id": 98,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 99,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 100,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 101,
+      "text": "In 1 Tim, hom. 7."
+    },
+    {
+      "id": 102,
+      "text": "راجع المقدمة: الهرطقات المعاصرة (رقم 3) ."
+    },
+    {
+      "id": 103,
+      "text": "Adv. Eunomius 2: 12."
+    },
+    {
+      "id": 104,
+      "text": "Adv. Eunomius 3: 4."
+    },
+    {
+      "id": 105,
+      "text": "On Trinity 3: 11, 4: 8."
+    },
+    {
+      "id": 106,
+      "text": "In Joan tr. 41: 5, 47: 3."
+    },
+    {
+      "id": 107,
+      "text": "In Ps. 105."
+    },
+    {
+      "id": 108,
+      "text": "Adv. Haer 5: 17: 1."
+    },
+    {
+      "id": 109,
+      "text": "On the Resur. Of the Flesh 63."
+    },
+    {
+      "id": 110,
+      "text": "On the Resur. Of the Flesh 51."
+    },
+    {
+      "id": 111,
+      "text": "Adv. Eunom 2: 8."
+    },
+    {
+      "id": 112,
+      "text": "In Joan. 66: 2."
+    },
+    {
+      "id": 113,
+      "text": "In 1 Tim. hom. 7."
+    },
+    {
+      "id": 114,
+      "text": "In 1 Tim. Hom 8."
+    },
+    {
+      "id": 115,
+      "text": "On Ps. 21."
+    },
+    {
+      "id": 116,
+      "text": "On prayer 8."
+    },
+    {
+      "id": 117,
+      "text": "On prayer 8."
+    },
+    {
+      "id": 118,
+      "text": "In 1 Tim. hom. 8.."
+    },
+    {
+      "id": 119,
+      "text": "In 1 Tim. hom. 8."
+    },
+    {
+      "id": 120,
+      "text": "Ibid, Roger Gryson: The ministry of Women in the Early Church, Minnesota, 1976, p. 128."
+    },
+    {
+      "id": 121,
+      "text": "De Paraescriptione 41: 5."
+    },
+    {
+      "id": 122,
+      "text": "De Resurr. Carins 11 : 2 De Exhort. Castitalis 10 : 5."
+    },
+    {
+      "id": 123,
+      "text": "On Veiling of Virgins 9: 1."
+    },
+    {
+      "id": 124,
+      "text": "Adv. Mare. 5 : 8 : 11 De Anima 9 : 4."
+    },
+    {
+      "id": 125,
+      "text": "In 1Tim, hom 10."
+    },
+    {
+      "id": 126,
+      "text": "De Sacr. 3: 10: 11."
+    },
+    {
+      "id": 127,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 128,
+      "text": "الحب الرعوي: 1966، ص 656."
+    },
+    {
+      "id": 129,
+      "text": "راجع التفسير الرمزي لهذه العيوب في كتاب الأب غريغوريوس (الكبير) عن الرعاية، أو كتابنا: الحب الرعوي، 1966، ص 657 - 662."
+    },
+    {
+      "id": 130,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 131,
+      "text": "In 1Tim, hom 10 ."
+    },
+    {
+      "id": 132,
+      "text": "الحب الرعوي، 1966، ص 727 - 759."
+    },
+    {
+      "id": 133,
+      "text": "الحب الرعوي، 1966، ص 663 - 668."
+    },
+    {
+      "id": 134,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 135,
+      "text": "الدسقولية ، باب 3."
+    },
+    {
+      "id": 136,
+      "text": "الحب الرعوي، ص 668."
+    },
+    {
+      "id": 137,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 138,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 139,
+      "text": "الحب الرعوي، 1966، ص 655."
+    },
+    {
+      "id": 140,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 141,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 142,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 143,
+      "text": "On Ps. 46."
+    },
+    {
+      "id": 144,
+      "text": "In 1Tim. hom 11."
+    },
+    {
+      "id": 145,
+      "text": "In Joan. tr 9: 2."
+    },
+    {
+      "id": 146,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 147,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 148,
+      "text": "الإيمان والرجاء والمحبة 12."
+    },
+    {
+      "id": 149,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 150,
+      "text": "In 1Tim. hom 12."
+    },
+    {
+      "id": 151,
+      "text": "In 1Tim. hom 13."
+    },
+    {
+      "id": 152,
+      "text": "In 1Tim. hom 13."
+    },
+    {
+      "id": 153,
+      "text": "الحب الرعوي، 1966، ص 736، 737."
+    },
+    {
+      "id": 154,
+      "text": "In 1Tim. Hom., 13."
+    },
+    {
+      "id": 155,
+      "text": "In 1Tim. Hom., 13."
+    },
+    {
+      "id": 156,
+      "text": "للمؤلف:القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 5 ."
+    },
+    {
+      "id": 157,
+      "text": "Ep. to Polyc. 4: 1."
+    },
+    {
+      "id": 158,
+      "text": "Ep. to Phil. 6."
+    },
+    {
+      "id": 1,
+      "text": "Apology, 67: 6."
+    },
+    {
+      "id": 2,
+      "text": "Shepherd, 56: 7."
+    },
+    {
+      "id": 3,
+      "text": "In 1 Tim. hom 13."
+    },
+    {
+      "id": 4,
+      "text": "In 1 Tim. hom 13."
+    },
+    {
+      "id": 5,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 6,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 7,
+      "text": "In Ps. 132."
+    },
+    {
+      "id": 8,
+      "text": "The Ministry of Women in the Early Church, 1976, p 25."
+    },
+    {
+      "id": 9,
+      "text": "Paedagogus, 3: 12: 97: 1."
+    },
+    {
+      "id": 10,
+      "text": "In 1 Tim. hom 14."
+    },
+    {
+      "id": 11,
+      "text": "المؤلف: القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 11، 12."
+    },
+    {
+      "id": 12,
+      "text": "Conc. Widows 2."
+    },
+    {
+      "id": 13,
+      "text": "Conc. Widows 2."
+    },
+    {
+      "id": 14,
+      "text": "In 1Tim. hom 14."
+    },
+    {
+      "id": 15,
+      "text": "In 1Tim. hom 14."
+    },
+    {
+      "id": 16,
+      "text": "Comm. on John 32: 12."
+    },
+    {
+      "id": 17,
+      "text": "Comm. on John 32: 12."
+    },
+    {
+      "id": 18,
+      "text": "In 1Tim. hom 10."
+    },
+    {
+      "id": 19,
+      "text": "للمؤلف:القديس يوحنا الذهبي الفم رسالة تعزية لأرملة شابة ، ص 14 ."
+    },
+    {
+      "id": 20,
+      "text": "In Joan. tr. 62: 5."
+    },
+    {
+      "id": 21,
+      "text": "In 1Tim. hom 15."
+    },
+    {
+      "id": 22,
+      "text": "الحب الرعوي، 1966، ص 232."
+    },
+    {
+      "id": 23,
+      "text": "Paedagogus, 2: 2."
+    },
+    {
+      "id": 24,
+      "text": "In 1Tim. Hom., 16."
+    },
+    {
+      "id": 25,
+      "text": "Duties of the clergy 2: 17."
+    },
+    {
+      "id": 26,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 27,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 28,
+      "text": "In 1Tim. hom 16."
+    },
+    {
+      "id": 29,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 30,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 31,
+      "text": "Ep. 39: 6."
+    },
+    {
+      "id": 32,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 33,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 34,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 35,
+      "text": "Treat. on the lapsed 12."
+    },
+    {
+      "id": 36,
+      "text": "On Patience"
+    },
+    {
+      "id": 37,
+      "text": "In 1Tim. hom 17."
+    },
+    {
+      "id": 38,
+      "text": "In 1Tim. hom 18."
+    },
+    {
+      "id": 39,
+      "text": "In 1Tim. hom 18."
+    },
+    {
+      "id": 40,
+      "text": "الحب الأخوي، 1964، العطاء."
+    },
+    {
+      "id": 41,
+      "text": "In 1Tim. hom 20."
+    }
+  ]
+}

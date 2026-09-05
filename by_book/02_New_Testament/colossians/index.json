@@ -1,0 +1,2367 @@
+{
+  "book_id": 55,
+  "book_title": "تفسير الرسالة إلى كولوسي",
+  "testament": "New Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "بولس وأهل كولوسي"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الحب هو الدافع، وغنى المعرفة هو الغاية"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الحياة مع السماوي"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "وصية للسادة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "مراجع شرح الرسالة إلى أهل كولوسي"
+    },
+    {
+      "id": 2,
+      "text": "John l. McKenzie: Dictionary of the Bible, 1972,p.145."
+    },
+    {
+      "id": 3,
+      "text": "Josephus: Antiq. 12: 147."
+    },
+    {
+      "id": 4,
+      "text": "The Wycliffe Bible Commentary, p.1333."
+    },
+    {
+      "id": 5,
+      "text": "Donald Guthrie: New Testament Introduction, 1975, p. 545."
+    },
+    {
+      "id": 6,
+      "text": "The Wycliffe Bible Commentary, p.1333."
+    },
+    {
+      "id": 7,
+      "text": "Richard Sturz: Studies in Colossians, the Pre-eminent Christ, Chicago, 1955, p. 13."
+    },
+    {
+      "id": 8,
+      "text": "Richard Sturz: Studies in Colossians, the Pre-eminent Christ, Chicago, 1955, p. 9."
+    },
+    {
+      "id": 9,
+      "text": "Henerietta C. Mears: What The Bible Is All About, 1987,P.453."
+    },
+    {
+      "id": 10,
+      "text": "In Colos. Homily 1."
+    },
+    {
+      "id": 11,
+      "text": "The Wycliffe Bible Commentary, p. 1333."
+    },
+    {
+      "id": 12,
+      "text": "R. McL. Wilson: The Gnostic Problem;"
+    },
+    {
+      "id": 13,
+      "text": "C. H. Dodd: The Interpretation of the Fourth Gospel, p. 97ff; Rudolf Bultmann:"
+    },
+    {
+      "id": 14,
+      "text": "\"Gnosis.\" Bible Keywords, II.)"
+    },
+    {
+      "id": 15,
+      "text": "The Wycliffe Bible Commentary, p. 1333."
+    },
+    {
+      "id": 16,
+      "text": "The Author: school of Alexandria, N.J, 1994, P. 122-155."
+    },
+    {
+      "id": 17,
+      "text": "E.E. Elias: Paul’s use of the old Testament, p. 92."
+    },
+    {
+      "id": 18,
+      "text": "cf William S. Deal: Bakers Pictorial Introduction to the Bible, 1967,p.366."
+    },
+    {
+      "id": 19,
+      "text": "Cf. The Collegeville Bible Commentary, 1989, p.1180."
+    },
+    {
+      "id": 20,
+      "text": "G. Campbell Morgan: An Exposition of the whole Bible, 1959, p. 496."
+    },
+    {
+      "id": 21,
+      "text": "In Hebr. hom 10: 7."
+    },
+    {
+      "id": 22,
+      "text": "Hom. On Ephes. Hom 1"
+    },
+    {
+      "id": 23,
+      "text": "Ep. to Ephess. 1:1:4."
+    },
+    {
+      "id": 24,
+      "text": "Comm. On 1Cor. 1:2 [1:15]."
+    },
+    {
+      "id": 25,
+      "text": "Marius Victorinus: Ep. to Eph., 1. راجع سيرته في قاموس سير القدّيسين."
+    },
+    {
+      "id": 26,
+      "text": "Ep. to Ephess. 1:1:4, 18."
+    },
+    {
+      "id": 27,
+      "text": "Commentary on Colossians C f. Ancient Christian Commentary on Scriptures (ACCS)."
+    },
+    {
+      "id": 28,
+      "text": "Ep. to Ephess. 1:1:4, 18.On his brother Satyrus, 2:124."
+    },
+    {
+      "id": 29,
+      "text": "Severian of Gabala: Pauline Commentary from the Creek Church.(ACCS)"
+    },
+    {
+      "id": 30,
+      "text": "Interpretation of the letter to the Colossians.(ACCS)"
+    },
+    {
+      "id": 31,
+      "text": "Homilies, 43.(ACCS)"
+    },
+    {
+      "id": 32,
+      "text": "Maximus of Turin; Sermon 96:1.(ACCS)"
+    },
+    {
+      "id": 33,
+      "text": "ACCS."
+    },
+    {
+      "id": 34,
+      "text": "ACCS."
+    },
+    {
+      "id": 35,
+      "text": "Letters, 199:12-51."
+    },
+    {
+      "id": 36,
+      "text": "Against Marcion, 5:19."
+    },
+    {
+      "id": 37,
+      "text": "Letters, 185: 1-5."
+    },
+    {
+      "id": 38,
+      "text": "Sermons, 214:11."
+    },
+    {
+      "id": 39,
+      "text": "راجع الدكتور يوسف سلامة: كولوسي."
+    },
+    {
+      "id": 40,
+      "text": "Marius Victorianus, On . Ephes. 1:3:14"
+    },
+    {
+      "id": 41,
+      "text": "ACCS."
+    },
+    {
+      "id": 42,
+      "text": "Of the Holy Spirit, 1:7:89."
+    },
+    {
+      "id": 43,
+      "text": "Letters, 177:1-5."
+    },
+    {
+      "id": 44,
+      "text": "cf. City of God 15:6."
+    },
+    {
+      "id": 45,
+      "text": "Hom on 2 Tim, 4."
+    },
+    {
+      "id": 46,
+      "text": "Comm. On John 6:32."
+    },
+    {
+      "id": 47,
+      "text": "Letters, 217:1:3."
+    },
+    {
+      "id": 48,
+      "text": "Exhortation to Martyrdom, 18."
+    },
+    {
+      "id": 49,
+      "text": "Explanatory notes for the Ep. To Colossians, hom. 2. PG 62: 337."
+    },
+    {
+      "id": 50,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 51,
+      "text": "On the Psalms, 77:30."
+    },
+    {
+      "id": 52,
+      "text": "St. Augustine: Tractates on John, 55:1."
+    },
+    {
+      "id": 53,
+      "text": "Sermons on N.T. Lessons, 59 :1."
+    },
+    {
+      "id": 54,
+      "text": "Commentary on Rom. 3:24."
+    },
+    {
+      "id": 55,
+      "text": "On Perfection."
+    },
+    {
+      "id": 56,
+      "text": "Hom. On Corinth., 5:4."
+    },
+    {
+      "id": 57,
+      "text": "Ep. To Ephes. 1 [1:7]."
+    },
+    {
+      "id": 58,
+      "text": "Three Different Questions, 74."
+    },
+    {
+      "id": 59,
+      "text": "De principiis, 1:2:6."
+    },
+    {
+      "id": 60,
+      "text": "Orations, 30:20."
+    },
+    {
+      "id": 61,
+      "text": "On The Trinity, 8:49."
+    },
+    {
+      "id": 62,
+      "text": "Letters, 20."
+    },
+    {
+      "id": 63,
+      "text": "Discourses Against Arians, 2:21 ."
+    },
+    {
+      "id": 64,
+      "text": "Adv. Haer. 22:1."
+    },
+    {
+      "id": 65,
+      "text": "Of the Christian Faith, 4:100."
+    },
+    {
+      "id": 66,
+      "text": "On the Trinity, 5:4."
+    },
+    {
+      "id": 67,
+      "text": "مقالات لطالبي العماد 11: 24."
+    },
+    {
+      "id": 68,
+      "text": "St. Athanasius: Discourses Against Arians, Book 2,:18:31. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 69,
+      "text": "Letters, 20."
+    },
+    {
+      "id": 70,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 71,
+      "text": "St. Athanasius: Discourses Against Arians, Book 2 . ، ص 79 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 72,
+      "text": "Dionysius the Areopagite Celestial Hierarchy, 6."
+    },
+    {
+      "id": 73,
+      "text": "ركن 5، الباب 2، فصل 1، مقصد 1،2."
+    },
+    {
+      "id": 74,
+      "text": "Adv. Arian. 1:4:12. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 75,
+      "text": "Adv. Arian. 2:21:62. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 76,
+      "text": "Adv. Arian. 2:21:71. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 77,
+      "text": "ACCS."
+    },
+    {
+      "id": 78,
+      "text": "ACCS."
+    },
+    {
+      "id": 79,
+      "text": "Commentary on the Psalms, 66:1."
+    },
+    {
+      "id": 80,
+      "text": "Letters, 55:2-3."
+    },
+    {
+      "id": 81,
+      "text": "Demonstrations by Syllogisms, Proof that the Divinity of the Savior is impassible."
+    },
+    {
+      "id": 82,
+      "text": "On Perfection."
+    },
+    {
+      "id": 83,
+      "text": "Homilies on Song of Songs, 13. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 84,
+      "text": "Rufinius of Aquileia: Apology for Origen, 1:6-7."
+    },
+    {
+      "id": 85,
+      "text": "Homilies, 27:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 86,
+      "text": "Comm. on The Gospel of Saint Luke, Sermon 1 ترجمة: دكتور نصحي عبد الشهيد"
+    },
+    {
+      "id": 87,
+      "text": "مقالات لطالبي العماد 13: 23."
+    },
+    {
+      "id": 88,
+      "text": "راجع للمؤلف: الاصطلاحان طبيعة وأقنوم في الكنيسة الأولى، 1987؛ طبيعة المسيح حسب مفهوم الكنيسة الأرثوذكسية غير الخلقدونية."
+    },
+    {
+      "id": 89,
+      "text": "ACCS."
+    },
+    {
+      "id": 90,
+      "text": "Of the Christian Faith, 2:9:82."
+    },
+    {
+      "id": 91,
+      "text": "Homilies on Leviticus, 9:4."
+    },
+    {
+      "id": 92,
+      "text": "Commentary on Tatian’s Diatessaron, 14."
+    },
+    {
+      "id": 93,
+      "text": "Homilies. 16:10."
+    },
+    {
+      "id": 94,
+      "text": "مقالات لطالبي العماد 13: 33."
+    },
+    {
+      "id": 95,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 96,
+      "text": "Commentary on the Letter to the Colossians."
+    },
+    {
+      "id": 97,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 98,
+      "text": "Letter to Pamachius against John of Jerusalem, 27."
+    },
+    {
+      "id": 99,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 100,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 101,
+      "text": "St. Chrysostom: In Colos., hom 4."
+    },
+    {
+      "id": 102,
+      "text": "Sermon on N.T. lessons, 12:5."
+    },
+    {
+      "id": 103,
+      "text": "St. Chrysostom: In Colos., hom 4."
+    },
+    {
+      "id": 104,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 105,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 106,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 107,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 108,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 109,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 110,
+      "text": "Letters, 1:5."
+    },
+    {
+      "id": 111,
+      "text": "In Colos hom. 5"
+    },
+    {
+      "id": 112,
+      "text": "In Colos, hom, 5"
+    },
+    {
+      "id": 113,
+      "text": "In Colos, home. 5"
+    },
+    {
+      "id": 114,
+      "text": "Sromata, 5: 12"
+    },
+    {
+      "id": 115,
+      "text": "On Ps. 12."
+    },
+    {
+      "id": 116,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 117,
+      "text": "On Ps. 119."
+    },
+    {
+      "id": 118,
+      "text": "Cassian: Conferences, 14:16."
+    },
+    {
+      "id": 119,
+      "text": "On the Trinity, 9:67."
+    },
+    {
+      "id": 120,
+      "text": "Of the Christian Faith, 42:1 ."
+    },
+    {
+      "id": 121,
+      "text": "Letters, 41:25."
+    },
+    {
+      "id": 122,
+      "text": "الإنجيل بحسب متى، 1982، ص 503."
+    },
+    {
+      "id": 123,
+      "text": "Stromata 1:11."
+    },
+    {
+      "id": 124,
+      "text": "Sermon on the Mount, 25."
+    },
+    {
+      "id": 125,
+      "text": "Homilies on Colossians, homily 5."
+    },
+    {
+      "id": 126,
+      "text": "مقالات لطالبي العماد 14: 30."
+    },
+    {
+      "id": 127,
+      "text": "Homilies on Colossians, homily, 6."
+    },
+    {
+      "id": 128,
+      "text": "Sermons on N.T. Lessons, 1:5."
+    },
+    {
+      "id": 129,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 130,
+      "text": "Sermons on N.T. Lessons, 1:5."
+    },
+    {
+      "id": 131,
+      "text": "Sermons on Song of Songs, 13."
+    },
+    {
+      "id": 132,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 133,
+      "text": "Stromata 1 :11.."
+    },
+    {
+      "id": 134,
+      "text": "On the Trinity, 8:53."
+    },
+    {
+      "id": 135,
+      "text": "On the Trinity, 1:13."
+    },
+    {
+      "id": 136,
+      "text": "Stromata 1:11."
+    },
+    {
+      "id": 137,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 138,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 139,
+      "text": "Stromata, 6:15."
+    },
+    {
+      "id": 140,
+      "text": "Concerning Virgins, 3:1 ."
+    },
+    {
+      "id": 141,
+      "text": "PG 75:1400."
+    },
+    {
+      "id": 142,
+      "text": "Letters, 17:9."
+    },
+    {
+      "id": 143,
+      "text": "Homilies, 1:2. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 144,
+      "text": "On the Trinity, 9:1-2."
+    },
+    {
+      "id": 145,
+      "text": "On the Trinity, 2:8."
+    },
+    {
+      "id": 146,
+      "text": "On the Trinity, 9:8."
+    },
+    {
+      "id": 147,
+      "text": "On our Lord, 11."
+    },
+    {
+      "id": 148,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 149,
+      "text": "Comm. on Luke, Sermon 2."
+    },
+    {
+      "id": 150,
+      "text": "الأب سليم دكاش اليسوعي: الشيخ الروحاني - مجموعة الرسائل الروحية، بيروت 1992، ص83."
+    },
+    {
+      "id": 151,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 152,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 153,
+      "text": "On the Trinity, 1:9."
+    },
+    {
+      "id": 154,
+      "text": "Letters, 69:7."
+    },
+    {
+      "id": 155,
+      "text": "مقالات لطالبي العماد 5: 6."
+    },
+    {
+      "id": 156,
+      "text": "Isaac or the Soul, 6:53."
+    },
+    {
+      "id": 157,
+      "text": "Death is Good, 4:15."
+    },
+    {
+      "id": 158,
+      "text": "Escape from the World, 9:55."
+    },
+    {
+      "id": 159,
+      "text": "Homilies, 1:7. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 160,
+      "text": "On the Trinity, 10: 48."
+    },
+    {
+      "id": 161,
+      "text": "Letters, 41:8."
+    },
+    {
+      "id": 162,
+      "text": "On Joseph, 4:19"
+    },
+    {
+      "id": 163,
+      "text": "Hymns on Nativity, 4."
+    },
+    {
+      "id": 164,
+      "text": "Sermons On John, Book 2, 17."
+    },
+    {
+      "id": 165,
+      "text": "Sermons On John, Book 6, 10."
+    },
+    {
+      "id": 166,
+      "text": "Hom. On 1 John, 1:5."
+    },
+    {
+      "id": 167,
+      "text": "Demonstrations 4 on Monks, 6."
+    },
+    {
+      "id": 168,
+      "text": "Against Heresies, 5:17:2."
+    },
+    {
+      "id": 169,
+      "text": "On Ps., 89."
+    },
+    {
+      "id": 170,
+      "text": "Fragments on his Lost Works, 37."
+    },
+    {
+      "id": 171,
+      "text": "Hom. On John, 12:19."
+    },
+    {
+      "id": 172,
+      "text": "Homilies on 1 Cor., homily 24:7."
+    },
+    {
+      "id": 173,
+      "text": "De. Incarn. 45"
+    },
+    {
+      "id": 174,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 175,
+      "text": "Hom. on Matt., 12:18."
+    },
+    {
+      "id": 176,
+      "text": "On Resurrection, 2:108."
+    },
+    {
+      "id": 177,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 178,
+      "text": "Fragments on his Lost Works, 38."
+    },
+    {
+      "id": 179,
+      "text": "Homilies on New Testament Lessons, 86:3."
+    },
+    {
+      "id": 180,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 181,
+      "text": "Homilies, 32:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 182,
+      "text": "Sermons on N.T. Lessons, 86:3."
+    },
+    {
+      "id": 183,
+      "text": "F.C. Bruce: The Epistle of Colossians, 1988, p. 119."
+    },
+    {
+      "id": 184,
+      "text": "On Repentance, 1:6."
+    },
+    {
+      "id": 185,
+      "text": "On Ps. 11."
+    },
+    {
+      "id": 186,
+      "text": "Death is Good, 3:10"
+    },
+    {
+      "id": 187,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 188,
+      "text": "Stromata 3:51.1-3."
+    },
+    {
+      "id": 189,
+      "text": "Commentary on John, 32:57-59."
+    },
+    {
+      "id": 190,
+      "text": "Homilies on Colas, hom. 7."
+    },
+    {
+      "id": 191,
+      "text": "Interpretation to Colossians 2:23."
+    },
+    {
+      "id": 192,
+      "text": "On Virginity, 77:2."
+    },
+    {
+      "id": 193,
+      "text": "Demonstrations 6 on Monks, 1."
+    },
+    {
+      "id": 194,
+      "text": "Escape from the World 7:44."
+    },
+    {
+      "id": 195,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 196,
+      "text": "City of God, 20:10."
+    },
+    {
+      "id": 197,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 198,
+      "text": "On Ps. 97."
+    },
+    {
+      "id": 199,
+      "text": "City of God, 20:9."
+    },
+    {
+      "id": 200,
+      "text": "Sermons on N.T. Lessons, 3 :14."
+    },
+    {
+      "id": 201,
+      "text": "Hexmarion, Hom. 9:2."
+    },
+    {
+      "id": 202,
+      "text": "Homilies on Song of Songs, 9. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 203,
+      "text": "الأب سليم دكاش اليسوعي: الشيخ الروحاني- مجموعة الرسائل الروحية، بيروت 1992، رسالة 49: 9."
+    },
+    {
+      "id": 204,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 205,
+      "text": "On Creation of Man, 5."
+    },
+    {
+      "id": 206,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 207,
+      "text": "On Christian Faith 2:12 ."
+    },
+    {
+      "id": 208,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 209,
+      "text": "الرسالة 43 عن التوبة ومواساة الخطاة، 24."
+    },
+    {
+      "id": 210,
+      "text": "On Ps. 124."
+    },
+    {
+      "id": 211,
+      "text": "Death is Good, 12:56."
+    },
+    {
+      "id": 212,
+      "text": "On Ps. 123."
+    },
+    {
+      "id": 213,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 214,
+      "text": "Duties of Clergies, 3:5 ."
+    },
+    {
+      "id": 215,
+      "text": "Homilies on 2 Cor., Hom. 5:15."
+    },
+    {
+      "id": 216,
+      "text": "Sermons on John, 4:7."
+    },
+    {
+      "id": 217,
+      "text": "Sermons on N.T. Lessons, 66 :2."
+    },
+    {
+      "id": 218,
+      "text": "Homilies on 1 Cor., Hom. 7:20."
+    },
+    {
+      "id": 219,
+      "text": "Letters, 53:2."
+    },
+    {
+      "id": 10,
+      "text": "Homilies on Epistles of John, 9:2."
+    },
+    {
+      "id": 11,
+      "text": "Comm. on Luke, Sermon 118."
+    },
+    {
+      "id": 12,
+      "text": "Sermons on John, 1:16."
+    },
+    {
+      "id": 13,
+      "text": "Sermons on John, 11:7, 17"
+    },
+    {
+      "id": 14,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 15,
+      "text": "Homilies on Song of Songs, 6. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 16,
+      "text": "تأملات في مديحه للقديس غريغوريوس النزيانزي (ترجمة القمص إشعياء ميخائيل)."
+    },
+    {
+      "id": 17,
+      "text": "Letters, 22:17."
+    },
+    {
+      "id": 18,
+      "text": "Adv. Haer. 5:12;3."
+    },
+    {
+      "id": 19,
+      "text": "Letters, 14:5."
+    },
+    {
+      "id": 20,
+      "text": "الدساتير، كتاب 7، فصل 21."
+    },
+    {
+      "id": 21,
+      "text": "الدساتير، كتاب 7، فصل 22."
+    },
+    {
+      "id": 22,
+      "text": "الدساتير، كتاب 7، فصل 27."
+    },
+    {
+      "id": 23,
+      "text": "On Ps. 62."
+    },
+    {
+      "id": 24,
+      "text": "De institutis caenoborum, Book 8:1."
+    },
+    {
+      "id": 25,
+      "text": "De institutis caenoborum, Book 8:2."
+    },
+    {
+      "id": 26,
+      "text": "De institutis caenoborum, Book 8:4."
+    },
+    {
+      "id": 27,
+      "text": "Adv. Haer. 3:5:1."
+    },
+    {
+      "id": 28,
+      "text": "Introductory Commentary on 1 John."
+    },
+    {
+      "id": 29,
+      "text": "في سفر النشيد (نش 3:5) يشير النص إلى الانتظار إلى عدم القيام من السرير للسير مع الرب، لكن القديس يستخدمه هنا بمعنى مُغاير."
+    },
+    {
+      "id": 30,
+      "text": "مقالات لطالبي العماد 3:7."
+    },
+    {
+      "id": 31,
+      "text": "Sermons on N.T. Lessons, 14 :3."
+    },
+    {
+      "id": 32,
+      "text": "Homilies, 2:2 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 33,
+      "text": "Against Eunomius, 4:3."
+    },
+    {
+      "id": 34,
+      "text": "In Creation of Man, 33."
+    },
+    {
+      "id": 35,
+      "text": "Against Jovinianus 1:16."
+    },
+    {
+      "id": 36,
+      "text": "On Trinity 11:49."
+    },
+    {
+      "id": 37,
+      "text": "Against Eunomius, 2:1."
+    },
+    {
+      "id": 38,
+      "text": "مقالات لطالبي العماد 1:2."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 6."
+    },
+    {
+      "id": 40,
+      "text": "Sermons on John, 9:14."
+    },
+    {
+      "id": 41,
+      "text": "الوجودي هو الذي يتبع المذهب القائل بأن الله والوجود أو الإنسان والطبيعة كيان واحد."
+    },
+    {
+      "id": 42,
+      "text": "Letters, 63:36."
+    },
+    {
+      "id": 43,
+      "text": "On Virgins 3:5 ."
+    },
+    {
+      "id": 44,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 45,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 46,
+      "text": "Sermons on N.T. Lessons, 33:3."
+    },
+    {
+      "id": 47,
+      "text": "Sermons on N.T. Lessons, 64:3."
+    },
+    {
+      "id": 48,
+      "text": "Letters, 82:11."
+    },
+    {
+      "id": 49,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 50,
+      "text": "Ladder, 26:67."
+    },
+    {
+      "id": 51,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 52,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 53,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 54,
+      "text": "Isaac or the Soul, 8:70."
+    },
+    {
+      "id": 55,
+      "text": "Paedagogus, 2:4."
+    },
+    {
+      "id": 56,
+      "text": "Homilies on Col., Hom. 9."
+    },
+    {
+      "id": 57,
+      "text": "Homilies on Col., Hom. 9."
+    },
+    {
+      "id": 58,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 59,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 60,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 61,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 62,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 63,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 64,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 65,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 66,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 67,
+      "text": "Stromata, 5:10."
+    },
+    {
+      "id": 68,
+      "text": "Letters, 109:3."
+    },
+    {
+      "id": 69,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 70,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 71,
+      "text": "Letters, 125:1."
+    },
+    {
+      "id": 72,
+      "text": "Letters, 125:1."
+    },
+    {
+      "id": 73,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 74,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 75,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 76,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 77,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 78,
+      "text": "Homilies on Col., Hom. 11."
+    },
+    {
+      "id": 79,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 80,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 81,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 82,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 83,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 84,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 85,
+      "text": "John l. McKenzie: Dictionary of the Bible, 1972,p.145."
+    },
+    {
+      "id": 86,
+      "text": "Josephus: Antiq. 12: 147."
+    },
+    {
+      "id": 87,
+      "text": "The Wycliffe Bible Commentary, p.1333."
+    },
+    {
+      "id": 88,
+      "text": "Donald Guthrie: New Testament Introduction, 1975, p. 545."
+    },
+    {
+      "id": 89,
+      "text": "The Wycliffe Bible Commentary, p.1333."
+    },
+    {
+      "id": 90,
+      "text": "Richard Sturz: Studies in Colossians, the Pre-eminent Christ, Chicago, 1955, p. 13."
+    },
+    {
+      "id": 91,
+      "text": "Richard Sturz: Studies in Colossians, the Pre-eminent Christ, Chicago, 1955, p. 9."
+    },
+    {
+      "id": 92,
+      "text": "Henerietta C. Mears: What The Bible Is All About, 1987,P.453."
+    },
+    {
+      "id": 93,
+      "text": "In Colos. Homily 1."
+    },
+    {
+      "id": 94,
+      "text": "The Wycliffe Bible Commentary, p. 1333."
+    },
+    {
+      "id": 95,
+      "text": "R. McL. Wilson: The Gnostic Problem;"
+    },
+    {
+      "id": 96,
+      "text": "The Wycliffe Bible Commentary, p. 1333."
+    },
+    {
+      "id": 97,
+      "text": "The Author: school of Alexandria, N.J, 1994, P. 122-155."
+    },
+    {
+      "id": 98,
+      "text": "E.E. Elias: Paul’s use of the old Testament, p. 92."
+    },
+    {
+      "id": 99,
+      "text": "cf William S. Deal: Bakers Pictorial Introduction to the Bible, 1967,p.366."
+    },
+    {
+      "id": 100,
+      "text": "Cf. The Collegeville Bible Commentary, 1989, p.1180."
+    },
+    {
+      "id": 101,
+      "text": "G. Campbell Morgan: An Exposition of the whole Bible, 1959, p. 496."
+    },
+    {
+      "id": 102,
+      "text": "In Hebr. hom 10: 7."
+    },
+    {
+      "id": 103,
+      "text": "Hom. On Ephes. Hom 1"
+    },
+    {
+      "id": 104,
+      "text": "Ep. to Ephess. 1:1:4."
+    },
+    {
+      "id": 105,
+      "text": "Comm. On 1Cor. 1:2 [1:15]."
+    },
+    {
+      "id": 106,
+      "text": "Marius Victorinus: Ep. to Eph., 1. راجع سيرته في قاموس سير القدّيسين."
+    },
+    {
+      "id": 107,
+      "text": "Ep. to Ephess. 1:1:4, 18."
+    },
+    {
+      "id": 108,
+      "text": "Commentary on Colossians C f. Ancient Christian Commentary on Scriptures (ACCS)."
+    },
+    {
+      "id": 109,
+      "text": "Ep. to Ephess. 1:1:4, 18.On his brother Satyrus, 2:124."
+    },
+    {
+      "id": 110,
+      "text": "Severian of Gabala: Pauline Commentary from the Creek Church.(ACCS)"
+    },
+    {
+      "id": 111,
+      "text": "Interpretation of the letter to the Colossians.(ACCS)"
+    },
+    {
+      "id": 112,
+      "text": "Homilies, 43.(ACCS)"
+    },
+    {
+      "id": 113,
+      "text": "Maximus of Turin; Sermon 96:1.(ACCS)"
+    },
+    {
+      "id": 114,
+      "text": "ACCS."
+    },
+    {
+      "id": 115,
+      "text": "ACCS."
+    },
+    {
+      "id": 116,
+      "text": "Letters, 199:12-51."
+    },
+    {
+      "id": 117,
+      "text": "Against Marcion, 5:19."
+    },
+    {
+      "id": 118,
+      "text": "Letters, 185: 1-5."
+    },
+    {
+      "id": 119,
+      "text": "Sermons, 214:11."
+    },
+    {
+      "id": 120,
+      "text": "راجع الدكتور يوسف سلامة: كولوسي."
+    },
+    {
+      "id": 121,
+      "text": "Marius Victorianus, On . Ephes. 1:3:14"
+    },
+    {
+      "id": 122,
+      "text": "ACCS."
+    },
+    {
+      "id": 123,
+      "text": "Of the Holy Spirit, 1:7:89."
+    },
+    {
+      "id": 124,
+      "text": "Letters, 177:1-5."
+    },
+    {
+      "id": 125,
+      "text": "cf. City of God 15:6."
+    },
+    {
+      "id": 126,
+      "text": "Hom on 2 Tim, 4."
+    },
+    {
+      "id": 127,
+      "text": "Comm. On John 6:32."
+    },
+    {
+      "id": 128,
+      "text": "Letters, 217:1:3."
+    },
+    {
+      "id": 129,
+      "text": "Exhortation to Martyrdom, 18."
+    },
+    {
+      "id": 130,
+      "text": "Explanatory notes for the Ep. To Colossians, hom. 2. PG 62: 337."
+    },
+    {
+      "id": 131,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 132,
+      "text": "On the Psalms, 77:30."
+    },
+    {
+      "id": 133,
+      "text": "St. Augustine: Tractates on John, 55:1."
+    },
+    {
+      "id": 134,
+      "text": "Sermons on N.T. Lessons, 59 :1."
+    },
+    {
+      "id": 135,
+      "text": "Commentary on Rom. 3:24."
+    },
+    {
+      "id": 136,
+      "text": "On Perfection."
+    },
+    {
+      "id": 137,
+      "text": "Hom. On Corinth., 5:4."
+    },
+    {
+      "id": 138,
+      "text": "Ep. To Ephes. 1 [1:7]."
+    },
+    {
+      "id": 139,
+      "text": "Three Different Questions, 74."
+    },
+    {
+      "id": 140,
+      "text": "De principiis, 1:2:6."
+    },
+    {
+      "id": 141,
+      "text": "Orations, 30:20."
+    },
+    {
+      "id": 142,
+      "text": "On The Trinity, 8:49."
+    },
+    {
+      "id": 143,
+      "text": "Letters, 20."
+    },
+    {
+      "id": 144,
+      "text": "Discourses Against Arians, 2:21 ."
+    },
+    {
+      "id": 145,
+      "text": "Adv. Haer. 22:1."
+    },
+    {
+      "id": 146,
+      "text": "Of the Christian Faith, 4:100."
+    },
+    {
+      "id": 147,
+      "text": "On the Trinity, 5:4."
+    },
+    {
+      "id": 148,
+      "text": "مقالات لطالبي العماد 11: 24."
+    },
+    {
+      "id": 149,
+      "text": "St. Athanasius: Discourses Against Arians, Book 2,:18:31. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 150,
+      "text": "Letters, 20."
+    },
+    {
+      "id": 151,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 152,
+      "text": "St. Athanasius: Discourses Against Arians, Book 2 . ، ص 79 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 153,
+      "text": "Dionysius the Areopagite Celestial Hierarchy, 6."
+    },
+    {
+      "id": 154,
+      "text": "ركن 5، الباب 2، فصل 1، مقصد 1،2."
+    },
+    {
+      "id": 155,
+      "text": "Adv. Arian. 1:4:12. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 156,
+      "text": "Adv. Arian. 2:21:62. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 157,
+      "text": "Adv. Arian. 2:21:71. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 158,
+      "text": "ACCS."
+    },
+    {
+      "id": 159,
+      "text": "ACCS."
+    },
+    {
+      "id": 160,
+      "text": "Commentary on the Psalms, 66:1."
+    },
+    {
+      "id": 161,
+      "text": "Letters, 55:2-3."
+    },
+    {
+      "id": 162,
+      "text": "Demonstrations by Syllogisms, Proof that the Divinity of the Savior is impassible."
+    },
+    {
+      "id": 163,
+      "text": "On Perfection."
+    },
+    {
+      "id": 164,
+      "text": "Homilies on Song of Songs, 13. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 165,
+      "text": "Rufinius of Aquileia: Apology for Origen, 1:6-7."
+    },
+    {
+      "id": 166,
+      "text": "Homilies, 27:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 167,
+      "text": "Comm. on The Gospel of Saint Luke, Sermon 1 ترجمة: دكتور نصحي عبد الشهيد"
+    },
+    {
+      "id": 168,
+      "text": "مقالات لطالبي العماد 13: 23."
+    },
+    {
+      "id": 169,
+      "text": "راجع للمؤلف: الاصطلاحان طبيعة وأقنوم في الكنيسة الأولى، 1987؛ طبيعة المسيح حسب مفهوم الكنيسة الأرثوذكسية غير الخلقدونية."
+    },
+    {
+      "id": 170,
+      "text": "ACCS."
+    },
+    {
+      "id": 171,
+      "text": "Of the Christian Faith, 2:9:82."
+    },
+    {
+      "id": 172,
+      "text": "Homilies on Leviticus, 9:4."
+    },
+    {
+      "id": 173,
+      "text": "Commentary on Tatian’s Diatessaron, 14."
+    },
+    {
+      "id": 174,
+      "text": "Homilies. 16:10."
+    },
+    {
+      "id": 175,
+      "text": "مقالات لطالبي العماد 13: 33."
+    },
+    {
+      "id": 176,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 177,
+      "text": "Commentary on the Letter to the Colossians."
+    },
+    {
+      "id": 178,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 179,
+      "text": "Letter to Pamachius against John of Jerusalem, 27."
+    },
+    {
+      "id": 180,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 181,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 182,
+      "text": "St. Chrysostom: In Colos., hom 4."
+    },
+    {
+      "id": 183,
+      "text": "Sermon on N.T. lessons, 12:5."
+    },
+    {
+      "id": 184,
+      "text": "St. Chrysostom: In Colos., hom 4."
+    },
+    {
+      "id": 185,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 186,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 187,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 188,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 189,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 190,
+      "text": "St. Chrysostom: In Colos., hom 5."
+    },
+    {
+      "id": 191,
+      "text": "Letters, 1:5."
+    },
+    {
+      "id": 192,
+      "text": "In Colos hom. 5"
+    },
+    {
+      "id": 193,
+      "text": "In Colos, hom, 5"
+    },
+    {
+      "id": 194,
+      "text": "In Colos, home. 5"
+    },
+    {
+      "id": 195,
+      "text": "Sromata, 5: 12"
+    },
+    {
+      "id": 196,
+      "text": "On Ps. 12."
+    },
+    {
+      "id": 197,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 198,
+      "text": "On Ps. 119."
+    },
+    {
+      "id": 199,
+      "text": "Cassian: Conferences, 14:16."
+    },
+    {
+      "id": 200,
+      "text": "On the Trinity, 9:67."
+    },
+    {
+      "id": 201,
+      "text": "Of the Christian Faith, 42:1 ."
+    },
+    {
+      "id": 202,
+      "text": "Letters, 41:25."
+    },
+    {
+      "id": 203,
+      "text": "الإنجيل بحسب متى، 1982، ص 503."
+    },
+    {
+      "id": 204,
+      "text": "Stromata 1:11."
+    },
+    {
+      "id": 205,
+      "text": "Sermon on the Mount, 25."
+    },
+    {
+      "id": 206,
+      "text": "Homilies on Colossians, homily 5."
+    },
+    {
+      "id": 207,
+      "text": "مقالات لطالبي العماد 14: 30."
+    },
+    {
+      "id": 208,
+      "text": "Homilies on Colossians, homily, 6."
+    },
+    {
+      "id": 209,
+      "text": "Sermons on N.T. Lessons, 1:5."
+    },
+    {
+      "id": 210,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 211,
+      "text": "Sermons on N.T. Lessons, 1:5."
+    },
+    {
+      "id": 212,
+      "text": "Sermons on Song of Songs, 13."
+    },
+    {
+      "id": 213,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 214,
+      "text": "Stromata 1 :11.."
+    },
+    {
+      "id": 215,
+      "text": "On the Trinity, 8:53."
+    },
+    {
+      "id": 216,
+      "text": "On the Trinity, 1:13."
+    },
+    {
+      "id": 217,
+      "text": "Stromata 1:11."
+    },
+    {
+      "id": 218,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 219,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 220,
+      "text": "Stromata, 6:15."
+    },
+    {
+      "id": 221,
+      "text": "Concerning Virgins, 3:1 ."
+    },
+    {
+      "id": 222,
+      "text": "PG 75:1400."
+    },
+    {
+      "id": 223,
+      "text": "Letters, 17:9."
+    },
+    {
+      "id": 224,
+      "text": "Homilies, 1:2. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 225,
+      "text": "On the Trinity, 9:1-2."
+    },
+    {
+      "id": 226,
+      "text": "On the Trinity, 2:8."
+    },
+    {
+      "id": 227,
+      "text": "On the Trinity, 9:8."
+    },
+    {
+      "id": 228,
+      "text": "On our Lord, 11."
+    },
+    {
+      "id": 229,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 230,
+      "text": "Comm. on Luke, Sermon 2."
+    },
+    {
+      "id": 231,
+      "text": "الأب سليم دكاش اليسوعي: الشيخ الروحاني - مجموعة الرسائل الروحية، بيروت 1992، ص83."
+    },
+    {
+      "id": 232,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 233,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 234,
+      "text": "On the Trinity, 1:9."
+    },
+    {
+      "id": 235,
+      "text": "Letters, 69:7."
+    },
+    {
+      "id": 236,
+      "text": "مقالات لطالبي العماد 5: 6."
+    },
+    {
+      "id": 237,
+      "text": "Isaac or the Soul, 6:53."
+    },
+    {
+      "id": 238,
+      "text": "Death is Good, 4:15."
+    },
+    {
+      "id": 239,
+      "text": "Escape from the World, 9:55."
+    },
+    {
+      "id": 240,
+      "text": "Homilies, 1:7. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 241,
+      "text": "On the Trinity, 10: 48."
+    },
+    {
+      "id": 242,
+      "text": "Letters, 41:8."
+    },
+    {
+      "id": 243,
+      "text": "On Joseph, 4:19"
+    },
+    {
+      "id": 244,
+      "text": "Hymns on Nativity, 4."
+    },
+    {
+      "id": 245,
+      "text": "Sermons On John, Book 2, 17."
+    },
+    {
+      "id": 246,
+      "text": "Sermons On John, Book 6, 10."
+    },
+    {
+      "id": 247,
+      "text": "Hom. On 1 John, 1:5."
+    },
+    {
+      "id": 248,
+      "text": "Demonstrations 4 on Monks, 6."
+    },
+    {
+      "id": 249,
+      "text": "Against Heresies, 5:17:2."
+    },
+    {
+      "id": 250,
+      "text": "On Ps., 89."
+    },
+    {
+      "id": 251,
+      "text": "Fragments on his Lost Works, 37."
+    },
+    {
+      "id": 252,
+      "text": "Hom. On John, 12:19."
+    },
+    {
+      "id": 253,
+      "text": "Homilies on 1 Cor., homily 24:7."
+    },
+    {
+      "id": 254,
+      "text": "De. Incarn. 45"
+    },
+    {
+      "id": 255,
+      "text": "Homilies on Colossians, homily 6."
+    },
+    {
+      "id": 256,
+      "text": "Hom. on Matt., 12:18."
+    },
+    {
+      "id": 257,
+      "text": "On Resurrection, 2:108."
+    },
+    {
+      "id": 258,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 259,
+      "text": "Fragments on his Lost Works, 38."
+    },
+    {
+      "id": 260,
+      "text": "Homilies on New Testament Lessons, 86:3."
+    },
+    {
+      "id": 261,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 262,
+      "text": "Homilies, 32:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 263,
+      "text": "Sermons on N.T. Lessons, 86:3."
+    },
+    {
+      "id": 264,
+      "text": "F.C. Bruce: The Epistle of Colossians, 1988, p. 119."
+    },
+    {
+      "id": 265,
+      "text": "On Repentance, 1:6."
+    },
+    {
+      "id": 266,
+      "text": "On Ps. 11."
+    },
+    {
+      "id": 267,
+      "text": "Death is Good, 3:10"
+    },
+    {
+      "id": 268,
+      "text": "Homilies on Colossians, homily 7."
+    },
+    {
+      "id": 269,
+      "text": "Stromata 3:51.1-3."
+    },
+    {
+      "id": 270,
+      "text": "Commentary on John, 32:57-59."
+    },
+    {
+      "id": 271,
+      "text": "Homilies on Colas, hom. 7."
+    },
+    {
+      "id": 272,
+      "text": "Interpretation to Colossians 2:23."
+    },
+    {
+      "id": 273,
+      "text": "On Virginity, 77:2."
+    },
+    {
+      "id": 274,
+      "text": "Demonstrations 6 on Monks, 1."
+    },
+    {
+      "id": 275,
+      "text": "Escape from the World 7:44."
+    },
+    {
+      "id": 276,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 277,
+      "text": "City of God, 20:10."
+    },
+    {
+      "id": 278,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 279,
+      "text": "On Ps. 97."
+    },
+    {
+      "id": 280,
+      "text": "City of God, 20:9."
+    },
+    {
+      "id": 281,
+      "text": "Sermons on N.T. Lessons, 3 :14."
+    },
+    {
+      "id": 282,
+      "text": "Hexmarion, Hom. 9:2."
+    },
+    {
+      "id": 283,
+      "text": "Homilies on Song of Songs, 9. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 284,
+      "text": "الأب سليم دكاش اليسوعي: الشيخ الروحاني- مجموعة الرسائل الروحية، بيروت 1992، رسالة 49: 9."
+    },
+    {
+      "id": 285,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 286,
+      "text": "On Creation of Man, 5."
+    },
+    {
+      "id": 287,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 288,
+      "text": "On Christian Faith 2:12 ."
+    },
+    {
+      "id": 289,
+      "text": "Homilies on Col., Hom. 7."
+    },
+    {
+      "id": 290,
+      "text": "الرسالة 43 عن التوبة ومواساة الخطاة، 24."
+    },
+    {
+      "id": 291,
+      "text": "On Ps. 124."
+    },
+    {
+      "id": 292,
+      "text": "Death is Good, 12:56."
+    },
+    {
+      "id": 293,
+      "text": "On Ps. 123."
+    },
+    {
+      "id": 294,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 295,
+      "text": "Duties of Clergies, 3:5 ."
+    },
+    {
+      "id": 296,
+      "text": "Homilies on 2 Cor., Hom. 5:15."
+    },
+    {
+      "id": 297,
+      "text": "Sermons on John, 4:7."
+    },
+    {
+      "id": 298,
+      "text": "Sermons on N.T. Lessons, 66 :2."
+    },
+    {
+      "id": 299,
+      "text": "Homilies on 1 Cor., Hom. 7:20."
+    },
+    {
+      "id": 300,
+      "text": "Letters, 53:2."
+    },
+    {
+      "id": 10,
+      "text": "Homilies on Epistles of John, 9:2."
+    },
+    {
+      "id": 11,
+      "text": "Comm. on Luke, Sermon 118."
+    },
+    {
+      "id": 12,
+      "text": "Sermons on John, 1:16."
+    },
+    {
+      "id": 13,
+      "text": "Sermons on John, 11:7, 17"
+    },
+    {
+      "id": 14,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 15,
+      "text": "Homilies on Song of Songs, 6. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 16,
+      "text": "تأملات في مديحه للقديس غريغوريوس النزيانزي (ترجمة القمص إشعياء ميخائيل)."
+    },
+    {
+      "id": 17,
+      "text": "Letters, 22:17."
+    },
+    {
+      "id": 18,
+      "text": "Adv. Haer. 5:12;3."
+    },
+    {
+      "id": 19,
+      "text": "Letters, 14:5."
+    },
+    {
+      "id": 20,
+      "text": "الدساتير، كتاب 7، فصل 21 ."
+    },
+    {
+      "id": 21,
+      "text": "الدساتير، كتاب 7، فصل 22 ."
+    },
+    {
+      "id": 22,
+      "text": "الدساتير، كتاب 7، فصل 27 ."
+    },
+    {
+      "id": 23,
+      "text": "On Ps. 62."
+    },
+    {
+      "id": 24,
+      "text": "De institutis caenoborum, Book 8:1."
+    },
+    {
+      "id": 25,
+      "text": "De institutis caenoborum, Book 8:2."
+    },
+    {
+      "id": 26,
+      "text": "De institutis caenoborum, Book 8:4."
+    },
+    {
+      "id": 27,
+      "text": "Adv. Haer. 3:5:1."
+    },
+    {
+      "id": 28,
+      "text": "Introductory Commentary on 1 John."
+    },
+    {
+      "id": 29,
+      "text": "في سفر النشيد (نش 3:5) يشير النص إلى الانتظار إلى عدم القيام من السرير للسير مع الرب، لكن القديس يستخدمه هنا بمعنى مُغاير."
+    },
+    {
+      "id": 30,
+      "text": "مقالات لطالبي العماد 3:7."
+    },
+    {
+      "id": 31,
+      "text": "Sermons on N.T. Lessons, 14 :3."
+    },
+    {
+      "id": 32,
+      "text": "Homilies, 2:2 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 33,
+      "text": "Against Eunomius, 4:3."
+    },
+    {
+      "id": 34,
+      "text": "In Creation of Man, 33."
+    },
+    {
+      "id": 35,
+      "text": "Against Jovinianus 1:16."
+    },
+    {
+      "id": 36,
+      "text": "On Trinity 11:49."
+    },
+    {
+      "id": 37,
+      "text": "Against Eunomius, 2:1."
+    },
+    {
+      "id": 38,
+      "text": "مقالات لطالبي العماد 1:2."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 6."
+    },
+    {
+      "id": 40,
+      "text": "Sermons on John, 9:14."
+    },
+    {
+      "id": 41,
+      "text": "الوجودي هو الذي يتبع المذهب القائل بأن الله والوجود أو الإنسان والطبيعة كيان واحد."
+    },
+    {
+      "id": 42,
+      "text": "Letters, 63:36."
+    },
+    {
+      "id": 43,
+      "text": "On Virgins 3:5 ."
+    },
+    {
+      "id": 44,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 45,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 46,
+      "text": "Sermons on N.T. Lessons, 33:3."
+    },
+    {
+      "id": 47,
+      "text": "Sermons on N.T. Lessons, 64:3."
+    },
+    {
+      "id": 48,
+      "text": "Letters, 82:11."
+    },
+    {
+      "id": 49,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 50,
+      "text": "Ladder, 26:67."
+    },
+    {
+      "id": 51,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 52,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 53,
+      "text": "Homilies on Col., Hom. 8."
+    },
+    {
+      "id": 54,
+      "text": "Isaac or the Soul, 8:70."
+    },
+    {
+      "id": 55,
+      "text": "Paedagogus, 2:4."
+    },
+    {
+      "id": 56,
+      "text": "Homilies on Col., Hom. 9."
+    },
+    {
+      "id": 57,
+      "text": "Homilies on Col., Hom. 9."
+    },
+    {
+      "id": 58,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 59,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 60,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 61,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 62,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 63,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 64,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 65,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 66,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 67,
+      "text": "Stromata, 5:10."
+    },
+    {
+      "id": 68,
+      "text": "Letters, 109:3."
+    },
+    {
+      "id": 69,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 70,
+      "text": "Homilies on Col., Hom. 10."
+    },
+    {
+      "id": 71,
+      "text": "Letters, 125:1."
+    },
+    {
+      "id": 72,
+      "text": "Letters, 125:1."
+    },
+    {
+      "id": 73,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 74,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 75,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 76,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 77,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 78,
+      "text": "Homilies on Col., Hom. 11."
+    },
+    {
+      "id": 79,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 80,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 81,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 82,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 83,
+      "text": "Homilies on Col., Hom. 12."
+    },
+    {
+      "id": 84,
+      "text": "Homilies on Col., Hom. 12."
+    }
+  ]
+}

@@ -1,0 +1,2223 @@
+{
+  "book_id": 7,
+  "book_title": "تفسير سفر التكوين",
+  "testament": "Old Testament",
+  "chapters_count": 50,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "خلقة العالم"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "آدم في الفردوس"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "سقوط الإنسان"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "هابيل وقايين"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الموت"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "فلك نوح"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الطوفان"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "خلاص نوح بالفلك"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "تجديد العهد"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "تعمير الأرض الجديدة"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "برج بابل"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "دعوة إبرام"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "اعتزال إبرام لوطًا"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "موقعة كدرلعومر"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "الميثاق الإلهي"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "إبرام وهاجر"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "عهد الختان"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "الوليمة الفريدة"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "حرق سدوم"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "ساراى وأبيمالك"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "ربما يستصعب البعض هذا الفصل لأنه دراسي بحت، لذا يمك ن للقارئ العادي تجاهله إن أراد ."
+    },
+    {
+      "id": 2,
+      "text": "La Genèse, Paris 1951, P23."
+    },
+    {
+      "id": 3,
+      "text": "Jos Antiq. Preface 4; Apion 8."
+    },
+    {
+      "id": 4,
+      "text": "McKenzie: Dict. of the Bible, P 947."
+    },
+    {
+      "id": 5,
+      "text": "New Westminster Dict. of the Bible, P 1012."
+    },
+    {
+      "id": 6,
+      "text": "Ibid 67."
+    },
+    {
+      "id": 7,
+      "text": "Lex Mosica, P 21- 26."
+    },
+    {
+      "id": 8,
+      "text": "Ancient Law, P 16."
+    },
+    {
+      "id": 9,
+      "text": "سفر الخروج، 1981، أصحاح 3 ."
+    },
+    {
+      "id": 10,
+      "text": "Green: General Introduction, N.Y. 1899, P 9."
+    },
+    {
+      "id": 11,
+      "text": "J.H. Raven: O. T. Introduction, 1910, P 93."
+    },
+    {
+      "id": 12,
+      "text": "Strack: Elinlétung in das Alte Testament, munich, 1898. P 25."
+    },
+    {
+      "id": 13,
+      "text": "Ibid."
+    },
+    {
+      "id": 14,
+      "text": "Green: Unity of Genesis, N. Y. 1897, P 425 - 9."
+    },
+    {
+      "id": 15,
+      "text": "Jerome Boblical Comm., P 8."
+    },
+    {
+      "id": 16,
+      "text": "Hexaemeron hom 1: 8."
+    },
+    {
+      "id": 17,
+      "text": "Ibid. 1: 2."
+    },
+    {
+      "id": 18,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 19,
+      "text": "On Ps. 102."
+    },
+    {
+      "id": 20,
+      "text": "Hom. 1."
+    },
+    {
+      "id": 21,
+      "text": "Hexaemeron 1: 6."
+    },
+    {
+      "id": 22,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 23,
+      "text": "Ibid."
+    },
+    {
+      "id": 24,
+      "text": "راجع د. فوزي إ لياس: ستة أيام الخليقة ص 11: 14."
+    },
+    {
+      "id": 25,
+      "text": "Pl 46: 821."
+    },
+    {
+      "id": 26,
+      "text": "In Gen. hom 1: 1."
+    },
+    {
+      "id": 27,
+      "text": "In Gen. hom 1."
+    },
+    {
+      "id": 28,
+      "text": "التوافق بين العلم الحديث والكتاب المقدس، ص 8 - 19."
+    },
+    {
+      "id": 29,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 27."
+    },
+    {
+      "id": 30,
+      "text": "Hexaem. 2: 1."
+    },
+    {
+      "id": 31,
+      "text": "De Baptismo 2."
+    },
+    {
+      "id": 32,
+      "text": "Ecol Proph 7."
+    },
+    {
+      "id": 33,
+      "text": "Cat. Lect. 3: 5."
+    },
+    {
+      "id": 34,
+      "text": "On Ps. hom 10."
+    },
+    {
+      "id": 35,
+      "text": "Hexaem. 2: 6."
+    },
+    {
+      "id": 36,
+      "text": "Of the Holy Spirit 2: 5."
+    },
+    {
+      "id": 37,
+      "text": "د. فوزي إ لياس، ص 18، 19."
+    },
+    {
+      "id": 38,
+      "text": "City of God 11: 7."
+    },
+    {
+      "id": 39,
+      "text": "Ibid."
+    },
+    {
+      "id": 40,
+      "text": "On Ps. 10."
+    },
+    {
+      "id": 41,
+      "text": "In Gen. 1: 6."
+    },
+    {
+      "id": 42,
+      "text": "Of the Holy Spirit 2: 148."
+    },
+    {
+      "id": 43,
+      "text": "Hexaem. 2: 6."
+    },
+    {
+      "id": 44,
+      "text": "Ibid 3: 10."
+    },
+    {
+      "id": 45,
+      "text": "In 1 Tim. hom 12."
+    },
+    {
+      "id": 46,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 47,
+      "text": "City of God 11: 23."
+    },
+    {
+      "id": 48,
+      "text": "راجع دراسات في سفر التكوين للدكتور راغب عبد النور (مجلة مدارس الأحد سنة 1، 2)."
+    },
+    {
+      "id": 49,
+      "text": "In Gen. hom 1: 2."
+    },
+    {
+      "id": 50,
+      "text": "City of God 11: 23."
+    },
+    {
+      "id": 51,
+      "text": "التوافق بين العلم الحديث والكتاب المقدس، ص 21، 22."
+    },
+    {
+      "id": 52,
+      "text": "In Gen. hom 1: 3."
+    },
+    {
+      "id": 53,
+      "text": "Ibid."
+    },
+    {
+      "id": 54,
+      "text": "On Belief of Resur. 2: 74."
+    },
+    {
+      "id": 55,
+      "text": "In Gen 1: 5."
+    },
+    {
+      "id": 56,
+      "text": "Ibid."
+    },
+    {
+      "id": 57,
+      "text": "To Autolycus 2: 15."
+    },
+    {
+      "id": 58,
+      "text": "On Ps. 81."
+    },
+    {
+      "id": 59,
+      "text": "Ibid."
+    },
+    {
+      "id": 60,
+      "text": "In Gen. hom 1: 8."
+    },
+    {
+      "id": 61,
+      "text": "Ibid. 1: 10."
+    },
+    {
+      "id": 62,
+      "text": "To Autolycus 2: 16, 17."
+    },
+    {
+      "id": 63,
+      "text": "Ibid."
+    },
+    {
+      "id": 64,
+      "text": "الإله الإلحاد المعاصر، بيروت 1986."
+    },
+    {
+      "id": 65,
+      "text": "المرجع السابق، ص 19."
+    },
+    {
+      "id": 66,
+      "text": "المرجع السابق، ص 51."
+    },
+    {
+      "id": 67,
+      "text": "In Gen. hom 1: 13."
+    },
+    {
+      "id": 68,
+      "text": "On Ps. 67."
+    },
+    {
+      "id": 69,
+      "text": "Ibid."
+    },
+    {
+      "id": 70,
+      "text": "Ibid 103."
+    },
+    {
+      "id": 71,
+      "text": "In Gen. hom 1: 16."
+    },
+    {
+      "id": 72,
+      "text": "On Ps. 93."
+    },
+    {
+      "id": 73,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 74,
+      "text": "City of God 14: 22."
+    },
+    {
+      "id": 75,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 76,
+      "text": "City of God 14: 21."
+    },
+    {
+      "id": 77,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 78,
+      "text": "Ep. 48: 2."
+    },
+    {
+      "id": 79,
+      "text": "City of God 11: 8."
+    },
+    {
+      "id": 80,
+      "text": "On Ps. 93."
+    },
+    {
+      "id": 81,
+      "text": "للمؤلف: المسيح في سر الأفخارستيا، ك 1، \"سر السبت\" ."
+    },
+    {
+      "id": 82,
+      "text": "City of God 22: 30."
+    },
+    {
+      "id": 83,
+      "text": "On Ps. 93."
+    },
+    {
+      "id": 84,
+      "text": "See St. Jerome: Ep 51."
+    },
+    {
+      "id": 85,
+      "text": "On Ps. hom 1."
+    },
+    {
+      "id": 86,
+      "text": "To Autolycus 2:25."
+    },
+    {
+      "id": 87,
+      "text": "ممكن الرجوع لملخص النظريات الخاصة بموقع جنة عدن في كتاب:"
+    },
+    {
+      "id": 88,
+      "text": "New Westminster Sict. Of the Bible, P. 238, 239"
+    },
+    {
+      "id": 89,
+      "text": "To Autolycus 2: 25."
+    },
+    {
+      "id": 90,
+      "text": "On Ps. 41 (See on Ps 127)."
+    },
+    {
+      "id": 91,
+      "text": "In Ioan, tr 9: 10."
+    },
+    {
+      "id": 92,
+      "text": "On Ps. 55."
+    },
+    {
+      "id": 93,
+      "text": "Ibid 41."
+    },
+    {
+      "id": 94,
+      "text": "Duties of clergy 1: 32."
+    },
+    {
+      "id": 95,
+      "text": "من يقدر أن يؤذيك؟ 1965، ص 12."
+    },
+    {
+      "id": 96,
+      "text": "هل للشيطان سلطان عليك؟ (مقال 2: لماذا لم يُنزع الشيطان عن العالم؟)"
+    },
+    {
+      "id": 97,
+      "text": "المرجع السابق، مقال 2."
+    },
+    {
+      "id": 98,
+      "text": "المرجع السابق، مقال 3."
+    },
+    {
+      "id": 99,
+      "text": "المرجع السابق، مقال 3."
+    },
+    {
+      "id": 100,
+      "text": "In 2 Tim, hom 8."
+    },
+    {
+      "id": 101,
+      "text": "هل للشيطان سلطان عليك؟ مقال 3 ."
+    },
+    {
+      "id": 102,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 103,
+      "text": "Cassian: Conf. 5: 6."
+    },
+    {
+      "id": 104,
+      "text": "City of God 22: 30."
+    },
+    {
+      "id": 105,
+      "text": "On Ps. 36."
+    },
+    {
+      "id": 106,
+      "text": "City of God 13: 13."
+    },
+    {
+      "id": 107,
+      "text": "Ibid 14: 17."
+    },
+    {
+      "id": 108,
+      "text": "Ibid."
+    },
+    {
+      "id": 109,
+      "text": "Ep 20: 7."
+    },
+    {
+      "id": 110,
+      "text": "In Gen. 85."
+    },
+    {
+      "id": 111,
+      "text": "Conc. Repent. 2: 103"
+    },
+    {
+      "id": 112,
+      "text": "In Gen. 92."
+    },
+    {
+      "id": 113,
+      "text": "In Gen. 93."
+    },
+    {
+      "id": 114,
+      "text": "In Gen. 95."
+    },
+    {
+      "id": 115,
+      "text": "On Ps. 62."
+    },
+    {
+      "id": 116,
+      "text": "On Ps. 7."
+    },
+    {
+      "id": 117,
+      "text": "On Ps. 104."
+    },
+    {
+      "id": 118,
+      "text": "On Ps. 37."
+    },
+    {
+      "id": 119,
+      "text": "On Ps. 49."
+    },
+    {
+      "id": 120,
+      "text": "On Ps. 127."
+    },
+    {
+      "id": 121,
+      "text": "In Gen. 102."
+    },
+    {
+      "id": 122,
+      "text": "On Ps. hom 6."
+    },
+    {
+      "id": 123,
+      "text": "On Ps. hom 46."
+    },
+    {
+      "id": 124,
+      "text": "In Gen. 106."
+    },
+    {
+      "id": 125,
+      "text": "Ep 123: 12."
+    },
+    {
+      "id": 126,
+      "text": "Conc. Repent. 2: 11 ."
+    },
+    {
+      "id": 127,
+      "text": "هل للشيطان سلطان عليك؟ 1972، ص 19."
+    },
+    {
+      "id": 128,
+      "text": "To Aytolycus 2: 26."
+    },
+    {
+      "id": 129,
+      "text": "On Belief of Resur. 2: 38"
+    },
+    {
+      "id": 130,
+      "text": "هل للشيطان سلطان عليك؟ 1972، ص 19، 22، 23."
+    },
+    {
+      "id": 131,
+      "text": "Cassian: Conf. 13: 12."
+    },
+    {
+      "id": 132,
+      "text": "قامت بترجمة هذه المقال الابنة المباركة.... نبيل (1: 1)."
+    },
+    {
+      "id": 133,
+      "text": "City of God 15: 1."
+    },
+    {
+      "id": 134,
+      "text": "سفر العدد، 1981 ."
+    },
+    {
+      "id": 135,
+      "text": "قايين وهابيل 1: 2."
+    },
+    {
+      "id": 136,
+      "text": "قايين وهابيل 1: 3."
+    },
+    {
+      "id": 137,
+      "text": "In Gen. 119, 120."
+    },
+    {
+      "id": 138,
+      "text": "Ibid 121."
+    },
+    {
+      "id": 139,
+      "text": "Cain & Abel 1: 7."
+    },
+    {
+      "id": 140,
+      "text": "In Gen. 121."
+    },
+    {
+      "id": 141,
+      "text": "In Gen. 129."
+    },
+    {
+      "id": 142,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 143,
+      "text": "Ep. 22: 23."
+    },
+    {
+      "id": 144,
+      "text": "Instr. 1: 6."
+    },
+    {
+      "id": 145,
+      "text": "In Matt. Hom 19: 4."
+    },
+    {
+      "id": 146,
+      "text": "In 2 Tim. hom 7."
+    },
+    {
+      "id": 147,
+      "text": "In Gen. 129."
+    },
+    {
+      "id": 148,
+      "text": "In Gen. 136."
+    },
+    {
+      "id": 149,
+      "text": "On Ps. hom 35."
+    },
+    {
+      "id": 150,
+      "text": "In Gen. 135."
+    },
+    {
+      "id": 151,
+      "text": "Ep. 260: 4."
+    },
+    {
+      "id": 152,
+      "text": "Ep. 260."
+    },
+    {
+      "id": 153,
+      "text": "On Ps. 49."
+    },
+    {
+      "id": 154,
+      "text": "Ep. 46: 7."
+    },
+    {
+      "id": 155,
+      "text": "City of God 15: 1."
+    },
+    {
+      "id": 123,
+      "text": ": 2."
+    },
+    {
+      "id": 124,
+      "text": "Edersheim: The Bible History, V.I. P. 30. adv."
+    },
+    {
+      "id": 125,
+      "text": "Ibid 34."
+    },
+    {
+      "id": 126,
+      "text": "On Belief of Resur. 2: 94"
+    },
+    {
+      "id": 127,
+      "text": "On Mortality 23."
+    },
+    {
+      "id": 128,
+      "text": "In Heb. Hom 22"
+    },
+    {
+      "id": 129,
+      "text": "Ep. 60: 14."
+    },
+    {
+      "id": 130,
+      "text": "City of God 15: 23. [قامت الدكتورة أمنية كمال متري بترجمة الكتاب الخامس عشر]"
+    },
+    {
+      "id": 131,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 132,
+      "text": "In 1 Tim. hom 13."
+    },
+    {
+      "id": 133,
+      "text": "City of God 15: 25."
+    },
+    {
+      "id": 134,
+      "text": "Ibid."
+    },
+    {
+      "id": 135,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 29-32."
+    },
+    {
+      "id": 136,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 137,
+      "text": "Insdtr. 1: 7."
+    },
+    {
+      "id": 138,
+      "text": "Duties of the Clergy 3: 18 ."
+    },
+    {
+      "id": 139,
+      "text": "On Ps. 87."
+    },
+    {
+      "id": 140,
+      "text": "City of God15: 26."
+    },
+    {
+      "id": 141,
+      "text": "On Myster. 3: 11."
+    },
+    {
+      "id": 142,
+      "text": "In Gen. hom 2: 6."
+    },
+    {
+      "id": 143,
+      "text": "Ibid"
+    },
+    {
+      "id": 144,
+      "text": "الخروج ، 1981، ص 182؛ العدد 1981، ص 33، 34."
+    },
+    {
+      "id": 145,
+      "text": "City of God 15: 26."
+    },
+    {
+      "id": 146,
+      "text": "In Gen. hom 2: 4."
+    },
+    {
+      "id": 147,
+      "text": "City of God 15: 26."
+    },
+    {
+      "id": 148,
+      "text": "Ibid."
+    },
+    {
+      "id": 149,
+      "text": "In Gen. hom 2: 6."
+    },
+    {
+      "id": 150,
+      "text": "Ibid. 2: 3."
+    },
+    {
+      "id": 151,
+      "text": "Cf. City of God 15: 27"
+    },
+    {
+      "id": 152,
+      "text": "Ibid."
+    },
+    {
+      "id": 153,
+      "text": "الإنجيل بحسب متى 1983 ."
+    },
+    {
+      "id": 154,
+      "text": "Edersheim, P. 45."
+    },
+    {
+      "id": 155,
+      "text": "للمؤلف: الحب الإلهي، ص 866."
+    },
+    {
+      "id": 156,
+      "text": "In Ioan. Tr. 6: 2."
+    },
+    {
+      "id": 157,
+      "text": "In Mystr. 3."
+    },
+    {
+      "id": 158,
+      "text": "Dial. adv. Lucif 22."
+    },
+    {
+      "id": 159,
+      "text": "Ep. 96: 6."
+    },
+    {
+      "id": 160,
+      "text": "In 1 Cor. hom 34: 2."
+    },
+    {
+      "id": 161,
+      "text": "رفع البخور (القداس الإلهي)."
+    },
+    {
+      "id": 162,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 163,
+      "text": "In Ioan. hom 19."
+    },
+    {
+      "id": 164,
+      "text": "للمؤلف: حزقيال، 1981 ، ص 37، 38."
+    },
+    {
+      "id": 165,
+      "text": "Edersheim, V 1, P. 55."
+    },
+    {
+      "id": 166,
+      "text": "من هؤلاء الآباء القديس يوحنا الذهبي الفم و القديس چيروم (رسالة 22)."
+    },
+    {
+      "id": 167,
+      "text": "On Forgiveness of Sins and Baptism 12."
+    },
+    {
+      "id": 168,
+      "text": "Ep. 69: 6."
+    },
+    {
+      "id": 169,
+      "text": "Ep. 22."
+    },
+    {
+      "id": 170,
+      "text": "Conc. Virgins 1: 9 ."
+    },
+    {
+      "id": 171,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 172,
+      "text": "On Ps. hom 13."
+    },
+    {
+      "id": 173,
+      "text": "City of God 16: 2."
+    },
+    {
+      "id": 174,
+      "text": "الأرش ي دياكون نجيب جرجس: سفر التكوين، 1973، ص 161."
+    },
+    {
+      "id": 175,
+      "text": "New Westminster Dict. of the Bible, P 446; Mckenzie: Dict. of the Bible, P 413."
+    },
+    {
+      "id": 176,
+      "text": "New Westminster Dict. of the Bible, P 446."
+    },
+    {
+      "id": 177,
+      "text": "هوشع ، صفحة 20."
+    },
+    {
+      "id": 178,
+      "text": "Odyssey 11: 14."
+    },
+    {
+      "id": 179,
+      "text": "Herod. 4: 11-12."
+    },
+    {
+      "id": 180,
+      "text": "راجع حزقيال، 1981 ، ص 260، 261."
+    },
+    {
+      "id": 181,
+      "text": "Herod. 1: 16."
+    },
+    {
+      "id": 182,
+      "text": "New Westminster Dict. of the Bible, P 951"
+    },
+    {
+      "id": 183,
+      "text": "الأرش ي دياكون نجيب جرجس: سفر التكوين، 1973، ص 166، 167."
+    },
+    {
+      "id": 184,
+      "text": "On Ps. 26."
+    },
+    {
+      "id": 185,
+      "text": "راجع سفر رؤيا يوحنا اللاهوتي 1979 ، ص 163، 164."
+    },
+    {
+      "id": 186,
+      "text": "On Ps. hom 20."
+    },
+    {
+      "id": 187,
+      "text": "يشوع، 1982 ، ص 23-30."
+    },
+    {
+      "id": 188,
+      "text": "City of God 16: 10, 11."
+    },
+    {
+      "id": 189,
+      "text": "الأرش ي دياكون نجيب جرجس: سفر التكوين، 1973، ص 181، 182."
+    },
+    {
+      "id": 190,
+      "text": "City of God 16: 4."
+    },
+    {
+      "id": 191,
+      "text": "On Ps. 55."
+    },
+    {
+      "id": 192,
+      "text": "City of God 16: 5."
+    },
+    {
+      "id": 193,
+      "text": "Ibid."
+    },
+    {
+      "id": 194,
+      "text": "Ibid."
+    },
+    {
+      "id": 195,
+      "text": "Ibid 16: 10."
+    },
+    {
+      "id": 196,
+      "text": "Ibid 16: 11"
+    },
+    {
+      "id": 197,
+      "text": "Ep. 71: 2."
+    },
+    {
+      "id": 46,
+      "text": ": 2."
+    },
+    {
+      "id": 47,
+      "text": "Cassian Conf. 3."
+    },
+    {
+      "id": 48,
+      "text": "Serm. 81: 1-4."
+    },
+    {
+      "id": 49,
+      "text": "Duties of the Clergy 1: 24."
+    },
+    {
+      "id": 50,
+      "text": "Cassian Conf. 3: 10."
+    },
+    {
+      "id": 51,
+      "text": "Answer to Eunomius 2."
+    },
+    {
+      "id": 52,
+      "text": "In Gen. hom 3: 3."
+    },
+    {
+      "id": 53,
+      "text": "City of God 16: 16"
+    },
+    {
+      "id": 54,
+      "text": "Hastings: Dictionary of the Hebrew Words.. (Ur)."
+    },
+    {
+      "id": 55,
+      "text": "Ibid (Haran)."
+    },
+    {
+      "id": 56,
+      "text": "New Westminster Dict. of the Bible, P 861; Jos. Antiq. 11: 8, 6."
+    },
+    {
+      "id": 57,
+      "text": "In Gen. hom 16: 3."
+    },
+    {
+      "id": 58,
+      "text": "City of God 16: 19."
+    },
+    {
+      "id": 59,
+      "text": "ستعود بقوة أعظم، 1967 ، ص 5، 6."
+    },
+    {
+      "id": 60,
+      "text": "المرجع السابق ص 41."
+    },
+    {
+      "id": 61,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 62,
+      "text": "J. Strong., article 3876."
+    },
+    {
+      "id": 63,
+      "text": "City of God 16: 20."
+    },
+    {
+      "id": 64,
+      "text": "In 1 Cor. hom 35."
+    },
+    {
+      "id": 65,
+      "text": "Ibid 25."
+    },
+    {
+      "id": 66,
+      "text": "Cain & Abel 1: 4 ."
+    },
+    {
+      "id": 67,
+      "text": "راجع تفسير أصحاح 10 (بنو سام)."
+    },
+    {
+      "id": 68,
+      "text": "Strom. 6: 11."
+    },
+    {
+      "id": 69,
+      "text": "Ep. 62: 4."
+    },
+    {
+      "id": 70,
+      "text": "On Ps. hom 36."
+    },
+    {
+      "id": 71,
+      "text": "On Christian Faith 3: 88."
+    },
+    {
+      "id": 72,
+      "text": "Cassian: Conf. 21: 4."
+    },
+    {
+      "id": 73,
+      "text": "On Belief of Resur. 2: 96."
+    },
+    {
+      "id": 74,
+      "text": "Ser. 82: 1, 2."
+    },
+    {
+      "id": 75,
+      "text": "Ibid 82: 3."
+    },
+    {
+      "id": 76,
+      "text": "Ibid."
+    },
+    {
+      "id": 77,
+      "text": "Cassian: Conf. 5: 22."
+    },
+    {
+      "id": 78,
+      "text": "In Gol. hom 4: 23."
+    },
+    {
+      "id": 79,
+      "text": "كنيسة العذراء بالفجالة: رسالة غلاطية، أصحاح 4."
+    },
+    {
+      "id": 80,
+      "text": "City of God 16: 25."
+    },
+    {
+      "id": 81,
+      "text": "On Ps. 83."
+    },
+    {
+      "id": 82,
+      "text": "مخطوط بدير الأبنا أنطونيوس، نسخ عام 1488 ش."
+    },
+    {
+      "id": 83,
+      "text": "On Ep. of St. John, hom 10: 10."
+    },
+    {
+      "id": 84,
+      "text": "Strom. 1: 29."
+    },
+    {
+      "id": 85,
+      "text": "On Ps. hom 56."
+    },
+    {
+      "id": 86,
+      "text": "City of God 16: 26."
+    },
+    {
+      "id": 87,
+      "text": "Adv. Marc 5: 14."
+    },
+    {
+      "id": 88,
+      "text": "In Gen. hom 3: 5, 6."
+    },
+    {
+      "id": 89,
+      "text": "Ibid 3: 7."
+    },
+    {
+      "id": 90,
+      "text": "Ibid 3: 6, 7."
+    },
+    {
+      "id": 91,
+      "text": "راجع الإنجيل بحسب متى، 1983، أصحاح 3 ."
+    },
+    {
+      "id": 92,
+      "text": "City of God 16: 26."
+    },
+    {
+      "id": 93,
+      "text": "Ser. 83: 5."
+    },
+    {
+      "id": 94,
+      "text": "Hom 15."
+    },
+    {
+      "id": 95,
+      "text": "Comm. on Cant. Ser. 10."
+    },
+    {
+      "id": 96,
+      "text": "Duties of the Clergy 2: 21 ."
+    },
+    {
+      "id": 97,
+      "text": "Ep. 58: 7."
+    },
+    {
+      "id": 98,
+      "text": "In Gen. hom 4: 2."
+    },
+    {
+      "id": 99,
+      "text": "Duties of the Clergy 1: 1 ."
+    },
+    {
+      "id": 100,
+      "text": "In Gen. hom 4: 1."
+    },
+    {
+      "id": 101,
+      "text": "In Acts hom. 45."
+    },
+    {
+      "id": 102,
+      "text": "In Jos. hom 16: 1."
+    },
+    {
+      "id": 103,
+      "text": "Strom. 6: 7."
+    },
+    {
+      "id": 104,
+      "text": "City of God 16: 31."
+    },
+    {
+      "id": 105,
+      "text": "New Westminster Dic. P 339."
+    },
+    {
+      "id": 106,
+      "text": "In Gen. hom 4: 5."
+    },
+    {
+      "id": 107,
+      "text": "In Rom hom 29."
+    },
+    {
+      "id": 108,
+      "text": "On Ps. 147."
+    },
+    {
+      "id": 109,
+      "text": "In Matt hom 65: 6."
+    },
+    {
+      "id": 110,
+      "text": "Conc. Repent. 2: 1 ."
+    },
+    {
+      "id": 111,
+      "text": "In Gen. hom 4: 1."
+    },
+    {
+      "id": 112,
+      "text": "Ser. 83: 2."
+    },
+    {
+      "id": 113,
+      "text": "Duties of the Clergy 2: 21 ."
+    },
+    {
+      "id": 114,
+      "text": "In Col. hom 3."
+    },
+    {
+      "id": 115,
+      "text": "Ep. 122: 1."
+    },
+    {
+      "id": 116,
+      "text": "Ibid."
+    },
+    {
+      "id": 117,
+      "text": "Conc. Virgins 2: 4 ."
+    },
+    {
+      "id": 118,
+      "text": "On Ps. 76."
+    },
+    {
+      "id": 119,
+      "text": "Ep. 7: 7."
+    },
+    {
+      "id": 120,
+      "text": "On Ps. 60."
+    },
+    {
+      "id": 121,
+      "text": "Ep. 22: 8."
+    },
+    {
+      "id": 122,
+      "text": "New Westminster Dict. of the Bible, P. 324."
+    },
+    {
+      "id": 123,
+      "text": "In Gen. hom 6."
+    },
+    {
+      "id": 124,
+      "text": "Ep. 62: 4."
+    },
+    {
+      "id": 125,
+      "text": "In Gen. hom 7: 1."
+    },
+    {
+      "id": 126,
+      "text": "Ibid 7: 2."
+    },
+    {
+      "id": 127,
+      "text": "Ibid 7: 5."
+    },
+    {
+      "id": 128,
+      "text": "Ibid."
+    },
+    {
+      "id": 129,
+      "text": "City of God 16: 32."
+    },
+    {
+      "id": 130,
+      "text": "In Gen. hom 8: 1."
+    },
+    {
+      "id": 131,
+      "text": "City of God 16: 32."
+    },
+    {
+      "id": 132,
+      "text": "Ser. 83: 5."
+    },
+    {
+      "id": 133,
+      "text": "In 1 Tim hom 14."
+    },
+    {
+      "id": 134,
+      "text": "Dutuies of the Clergy 1: 17."
+    },
+    {
+      "id": 135,
+      "text": "سفر الخروج ، 1981، ص 36 - 38."
+    },
+    {
+      "id": 136,
+      "text": "Strome 5: 11."
+    },
+    {
+      "id": 137,
+      "text": "Ser. 84: 3."
+    },
+    {
+      "id": 138,
+      "text": "Ibid 84: 5."
+    },
+    {
+      "id": 139,
+      "text": "City of God 16: 32."
+    },
+    {
+      "id": 140,
+      "text": "In Gen. hom 8."
+    },
+    {
+      "id": 141,
+      "text": "On Belief of Resur. 2: 98."
+    },
+    {
+      "id": 142,
+      "text": "Ep. 66: 7."
+    },
+    {
+      "id": 143,
+      "text": "On Ps. 44."
+    },
+    {
+      "id": 144,
+      "text": "In Gen. hom 9: 1."
+    },
+    {
+      "id": 145,
+      "text": "Ibid 9: 2."
+    },
+    {
+      "id": 146,
+      "text": "In 1 Cor. hom 35: 10."
+    },
+    {
+      "id": 147,
+      "text": "Adv. Haer. 32."
+    },
+    {
+      "id": 148,
+      "text": "In Ioan tr 43: 16."
+    },
+    {
+      "id": 149,
+      "text": "J. Mckenzie: Dict. of the Bible, P. 602."
+    },
+    {
+      "id": 150,
+      "text": "الكنيسة تحبك، 1986، ص 61 - 66."
+    },
+    {
+      "id": 151,
+      "text": "Ser. 85: 3."
+    },
+    {
+      "id": 152,
+      "text": "Ibid 85: 4."
+    },
+    {
+      "id": 153,
+      "text": "In Gen. hom 10: 2."
+    },
+    {
+      "id": 154,
+      "text": "Ibid."
+    },
+    {
+      "id": 155,
+      "text": "Strong’s Dictionary of the Hebrew."
+    },
+    {
+      "id": 156,
+      "text": "Strom 4: 26."
+    },
+    {
+      "id": 157,
+      "text": "Ser. 85: 3."
+    },
+    {
+      "id": 158,
+      "text": "In Gen. hom 10: 4."
+    },
+    {
+      "id": 159,
+      "text": "Ser. 85: 5."
+    },
+    {
+      "id": 160,
+      "text": "In Gen. hom 11."
+    },
+    {
+      "id": 161,
+      "text": "Ibid 11: 3."
+    },
+    {
+      "id": 162,
+      "text": "On Ps. hom 21."
+    },
+    {
+      "id": 163,
+      "text": "In Gen. 11: 3."
+    },
+    {
+      "id": 164,
+      "text": "Ser. 86: 2."
+    },
+    {
+      "id": 165,
+      "text": "In Gen. hom 12: 2."
+    },
+    {
+      "id": 166,
+      "text": "Ser. 86: 3."
+    },
+    {
+      "id": 167,
+      "text": "On Ps. 81."
+    },
+    {
+      "id": 168,
+      "text": "Ibid 41."
+    },
+    {
+      "id": 169,
+      "text": "In Gen. hom 12: 3."
+    },
+    {
+      "id": 170,
+      "text": "On Ps. hom 7."
+    },
+    {
+      "id": 171,
+      "text": "In Ioan. tr 73: 1."
+    },
+    {
+      "id": 172,
+      "text": "راجع تفسير تك 10: 19 ؛ 20: 1 ."
+    },
+    {
+      "id": 173,
+      "text": "In Gen. hom 12: 5."
+    },
+    {
+      "id": 174,
+      "text": "Ibid."
+    },
+    {
+      "id": 175,
+      "text": "Ibid."
+    },
+    {
+      "id": 176,
+      "text": "Ibid 13: 2."
+    },
+    {
+      "id": 177,
+      "text": "Ibid."
+    },
+    {
+      "id": 178,
+      "text": "Ibid 13: 3."
+    },
+    {
+      "id": 179,
+      "text": "Ibid 14: 3"
+    },
+    {
+      "id": 180,
+      "text": "City of God 16: 37."
+    },
+    {
+      "id": 181,
+      "text": "Ibid."
+    },
+    {
+      "id": 182,
+      "text": "Adv. hear. 33: 3."
+    },
+    {
+      "id": 183,
+      "text": "City of God 16: 37."
+    },
+    {
+      "id": 184,
+      "text": "Ser. 10."
+    },
+    {
+      "id": 185,
+      "text": "Duties of the Clergy 1: 24."
+    },
+    {
+      "id": 186,
+      "text": "On Ps. hom 46."
+    },
+    {
+      "id": 187,
+      "text": "Ser. 83: 2."
+    },
+    {
+      "id": 188,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 189,
+      "text": "On Ps. hom 21."
+    },
+    {
+      "id": 190,
+      "text": "Ibid 41."
+    },
+    {
+      "id": 191,
+      "text": "Ibid."
+    },
+    {
+      "id": 192,
+      "text": "Ibid."
+    },
+    {
+      "id": 193,
+      "text": "Ep. 132: 5."
+    },
+    {
+      "id": 194,
+      "text": "Ser. 87: 3."
+    },
+    {
+      "id": 195,
+      "text": "Church, House of God, P 20-22."
+    },
+    {
+      "id": 196,
+      "text": "Sunday Sermons of the Great Frs. Vol. 1, P. 113."
+    },
+    {
+      "id": 197,
+      "text": "الكنيسة بيت الله، 1982، الباب الثاني."
+    },
+    {
+      "id": 198,
+      "text": "Ep. 22: 40."
+    },
+    {
+      "id": 199,
+      "text": "Ser. 88: 2."
+    },
+    {
+      "id": 200,
+      "text": "سفر العدد، 1981 ، ص 16."
+    },
+    {
+      "id": 201,
+      "text": "راجع تفسير تك 22 : 4."
+    },
+    {
+      "id": 202,
+      "text": "Ser. 88: 4."
+    },
+    {
+      "id": 203,
+      "text": "Ibid."
+    },
+    {
+      "id": 204,
+      "text": "In Hebr. - hom 23: 9."
+    },
+    {
+      "id": 205,
+      "text": "للمؤلف: المسيح في سر الأفخارستيا 1973، ص 66 - 84."
+    },
+    {
+      "id": 206,
+      "text": "Ser. 87: 2."
+    },
+    {
+      "id": 207,
+      "text": "On Ps. 148."
+    },
+    {
+      "id": 208,
+      "text": "Ibid 80."
+    },
+    {
+      "id": 209,
+      "text": "On Belief of Resur 2: 100."
+    },
+    {
+      "id": 210,
+      "text": "Instr. 1: 7."
+    },
+    {
+      "id": 211,
+      "text": "نجيب جرجس: سفر التكوين، ص 334."
+    },
+    {
+      "id": 212,
+      "text": "راجع تفسير تك 28 : 16- 21."
+    },
+    {
+      "id": 213,
+      "text": ".Ser. 98: 1."
+    },
+    {
+      "id": 214,
+      "text": "On Ps. hom 19."
+    },
+    {
+      "id": 215,
+      "text": "Ser. 89: 1."
+    },
+    {
+      "id": 216,
+      "text": "Cassian.18: 16."
+    },
+    {
+      "id": 217,
+      "text": "On Ps. hom 19."
+    },
+    {
+      "id": 218,
+      "text": "Ser. 89: 1."
+    },
+    {
+      "id": 219,
+      "text": "Ibid ."
+    },
+    {
+      "id": 220,
+      "text": "Ibid 93: 4."
+    },
+    {
+      "id": 221,
+      "text": "On Ps. hom 34."
+    },
+    {
+      "id": 222,
+      "text": "Ep. 79: 2."
+    },
+    {
+      "id": 223,
+      "text": "New Westminster Dict. of the Bible, P. 948."
+    },
+    {
+      "id": 224,
+      "text": "ترفقوا بالخطاة !! ... للقديس أمبروسيوس 1968، ص 60، 61."
+    },
+    {
+      "id": 225,
+      "text": "للمؤلف: الإنجيل بحسب متى 1983 ، ص 43."
+    },
+    {
+      "id": 226,
+      "text": "Ser . 98: 1."
+    },
+    {
+      "id": 227,
+      "text": "Duties of the Clergy 2: 17."
+    },
+    {
+      "id": 228,
+      "text": "Ser. 93: 3."
+    },
+    {
+      "id": 229,
+      "text": "Ibid 90: 2."
+    },
+    {
+      "id": 230,
+      "text": "In Matt. Hom 18: 2."
+    },
+    {
+      "id": 231,
+      "text": "Ibid 37: 8."
+    },
+    {
+      "id": 232,
+      "text": "Duties of the Clergy 1: 18."
+    },
+    {
+      "id": 233,
+      "text": "Ep. 145."
+    },
+    {
+      "id": 234,
+      "text": "Ep. 118: 4."
+    },
+    {
+      "id": 235,
+      "text": "On Ps. 5. hom 19."
+    },
+    {
+      "id": 236,
+      "text": "In Matt. Hom 84: 4."
+    },
+    {
+      "id": 237,
+      "text": "In Acts hom 49."
+    },
+    {
+      "id": 238,
+      "text": "In Tit. hom 4."
+    },
+    {
+      "id": 239,
+      "text": "Asterius of Amasea: On Ps. 5 hom 19."
+    },
+    {
+      "id": 240,
+      "text": "St. Augustine: Ser. On N.T. Hessons 43: 1-5."
+    },
+    {
+      "id": 241,
+      "text": "راجع تفسير خر 2 : 2؛ 5 : 3؛ يش 1 : 31."
+    },
+    {
+      "id": 242,
+      "text": "In Tit. hom 6."
+    },
+    {
+      "id": 243,
+      "text": "للمؤلف: الإنجيل بحسب متى 1983 ، ص 491- 523."
+    },
+    {
+      "id": 244,
+      "text": "راجع مقالة عن: \" المسيح وضد المسيح\"."
+    },
+    {
+      "id": 245,
+      "text": "للمؤلف: الفيلوكاليا 1966، ج1 ، ص 58، 59."
+    },
+    {
+      "id": 246,
+      "text": "للمؤلف: القديس يوحنا الذهبي الفم ، 1980 ، ص 374، 375."
+    },
+    {
+      "id": 247,
+      "text": "الحب الأخوي 1964، ص 73."
+    },
+    {
+      "id": 248,
+      "text": "In Acts hom 12."
+    },
+    {
+      "id": 249,
+      "text": "القديس يوحنا الذهبي الفم ، ص 169 إلخ."
+    },
+    {
+      "id": 250,
+      "text": "In 1 Thess. hom 4."
+    },
+    {
+      "id": 251,
+      "text": "للمؤلف: الحب الإلهي، ص 855، 856."
+    },
+    {
+      "id": 252,
+      "text": "راجع تفسير القضاة أصحاح 7 ."
+    },
+    {
+      "id": 253,
+      "text": "In Gen. hom 15: 1."
+    },
+    {
+      "id": 254,
+      "text": "Ibid 15: 2."
+    },
+    {
+      "id": 255,
+      "text": "Ibid 15: 3."
+    },
+    {
+      "id": 256,
+      "text": "In Gen. hom 15: 5."
+    },
+    {
+      "id": 257,
+      "text": "Ibid 15: 5, 6."
+    },
+    {
+      "id": 258,
+      "text": "Ibid 15: 7."
+    },
+    {
+      "id": 259,
+      "text": "Ibid 16: 1."
+    },
+    {
+      "id": 260,
+      "text": "Ibid 16: 2."
+    },
+    {
+      "id": 261,
+      "text": "Ibid."
+    },
+    {
+      "id": 262,
+      "text": "Ibid 16: 7."
+    },
+    {
+      "id": 263,
+      "text": "راجع تفسير تك 24 : 2."
+    },
+    {
+      "id": 264,
+      "text": "راجع تفسير تك 50 : 1- 6."
+    },
+    {
+      "id": 265,
+      "text": "الإنجيل بحسب متى، 1983 ."
+    },
+    {
+      "id": 266,
+      "text": "On Ps. 78."
+    },
+    {
+      "id": 267,
+      "text": "City of God 16: 42."
+    },
+    {
+      "id": 268,
+      "text": "City of God 16: 41."
+    },
+    {
+      "id": 269,
+      "text": "On Ps. 76."
+    },
+    {
+      "id": 270,
+      "text": "Treat on Christ & Antichrist. 10."
+    },
+    {
+      "id": 271,
+      "text": "Ep. 62: 6."
+    },
+    {
+      "id": 272,
+      "text": "Instr. 1: 5."
+    },
+    {
+      "id": 273,
+      "text": "City of God 16: 41."
+    },
+    {
+      "id": 274,
+      "text": "Ibid."
+    },
+    {
+      "id": 275,
+      "text": "Treat on Christ & Antichrist. 12, 13."
+    },
+    {
+      "id": 276,
+      "text": "راجع تفسير حبقوق 3 : 8."
+    },
+    {
+      "id": 277,
+      "text": "Treat on Christ and Antichrist 14, 15."
+    },
+    {
+      "id": 278,
+      "text": "Ep. 69: 6."
+    },
+    {
+      "id": 279,
+      "text": "Ep. 60: 8."
+    },
+    {
+      "id": 280,
+      "text": "De Lapsis 13."
+    },
+    {
+      "id": 281,
+      "text": "PG 61: 48."
+    },
+    {
+      "id": 282,
+      "text": "PG 33: 333 A."
+    },
+    {
+      "id": 283,
+      "text": "PG 46: 429 C."
+    },
+    {
+      "id": 284,
+      "text": "Jerome Boblical Comm., P 8."
+    },
+    {
+      "id": 285,
+      "text": "Hexaemeron hom 1: 8."
+    },
+    {
+      "id": 286,
+      "text": "Ibid. 1: 2."
+    },
+    {
+      "id": 287,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 288,
+      "text": "تعليق من الموقع: لا يُقْصَد بهذا أنه يوجد إلحاد يؤمن بوجود إله ولكنه يرفضه، حيث أن الإلحاد يعني عدم الإيمان بوجود قوة إلهية عُليا من الأساس. ولكن ربما يكون المقصود هو أن فكرة وجود إله يضع قوانين أو مبادئ يسير عليها الإنسان هي فكرة مرفوضة لبعض الملحدين، حيث أنها تحد من حرية الإنسان حسبما يرون.."
+    },
+    {
+      "id": 289,
+      "text": "On Ps. 102."
+    },
+    {
+      "id": 290,
+      "text": "Hom. 1."
+    },
+    {
+      "id": 291,
+      "text": "Hexaemeron 1: 6."
+    },
+    {
+      "id": 292,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 293,
+      "text": "Ibid."
+    },
+    {
+      "id": 294,
+      "text": "راجع د. فوزي إ لياس: ستة أيام الخليقة ص 11: 14."
+    },
+    {
+      "id": 295,
+      "text": "Pl 46: 821."
+    },
+    {
+      "id": 296,
+      "text": "In Gen. hom 1: 1."
+    },
+    {
+      "id": 297,
+      "text": "In Gen. hom 1."
+    },
+    {
+      "id": 298,
+      "text": "التوافق بين العلم الحديث والكتاب المقدس، ص 8 - 19."
+    },
+    {
+      "id": 299,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 27."
+    },
+    {
+      "id": 300,
+      "text": "Hexaem. 2: 1."
+    },
+    {
+      "id": 301,
+      "text": "De Baptismo 2."
+    },
+    {
+      "id": 302,
+      "text": "Ecol Proph 7."
+    },
+    {
+      "id": 303,
+      "text": "Cat. Lect. 3: 5."
+    },
+    {
+      "id": 304,
+      "text": "On Ps. hom 10."
+    },
+    {
+      "id": 305,
+      "text": "Hexaem. 2: 6."
+    },
+    {
+      "id": 306,
+      "text": "Of the Holy Spirit 2: 5."
+    },
+    {
+      "id": 307,
+      "text": "د. فوزي إ لياس، ص 18، 19."
+    },
+    {
+      "id": 308,
+      "text": "City of God 11: 7."
+    },
+    {
+      "id": 309,
+      "text": "Ibid."
+    },
+    {
+      "id": 310,
+      "text": "On Ps. 10."
+    },
+    {
+      "id": 311,
+      "text": "In Gen. 1: 6."
+    },
+    {
+      "id": 312,
+      "text": "Of the Holy Spirit 2: 148."
+    },
+    {
+      "id": 313,
+      "text": "Hexaem. 2: 6."
+    },
+    {
+      "id": 314,
+      "text": "Ibid 3: 10."
+    },
+    {
+      "id": 315,
+      "text": "In 1 Tim. hom 12."
+    },
+    {
+      "id": 316,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 317,
+      "text": "City of God 11: 23."
+    },
+    {
+      "id": 318,
+      "text": "راجع دراسات في سفر التكوين للدكتور راغب عبد النور (مجلة مدارس الأحد سنة 1-2)."
+    },
+    {
+      "id": 319,
+      "text": "In Gen. hom 1: 2."
+    },
+    {
+      "id": 320,
+      "text": "City of God 11: 23."
+    },
+    {
+      "id": 321,
+      "text": "التوافق بين العلم الحديث والكتاب المقدس، ص 21، 22."
+    },
+    {
+      "id": 322,
+      "text": "In Gen. hom 1: 3."
+    },
+    {
+      "id": 323,
+      "text": "Ibid."
+    },
+    {
+      "id": 324,
+      "text": "On Belief of Resur. 2: 74."
+    },
+    {
+      "id": 325,
+      "text": "In Gen 1: 5."
+    },
+    {
+      "id": 326,
+      "text": "Ibid."
+    },
+    {
+      "id": 327,
+      "text": "To Autolycus 2: 15."
+    },
+    {
+      "id": 328,
+      "text": "On Ps. 81."
+    },
+    {
+      "id": 329,
+      "text": "Ibid."
+    },
+    {
+      "id": 330,
+      "text": "In Gen. hom 1: 8."
+    },
+    {
+      "id": 331,
+      "text": "Ibid. 1: 10."
+    },
+    {
+      "id": 332,
+      "text": "To Autolycus 2: 16, 17."
+    },
+    {
+      "id": 333,
+      "text": "Ibid."
+    },
+    {
+      "id": 334,
+      "text": "الإله الإلحاد المعاصر، بيروت 1986."
+    },
+    {
+      "id": 335,
+      "text": "المرجع السابق، ص 19."
+    },
+    {
+      "id": 336,
+      "text": "المرجع السابق، ص 51."
+    },
+    {
+      "id": 337,
+      "text": "In Gen. hom 1: 13."
+    },
+    {
+      "id": 338,
+      "text": "On Ps. 67."
+    },
+    {
+      "id": 339,
+      "text": "Ibid."
+    },
+    {
+      "id": 340,
+      "text": "Ibid 103."
+    },
+    {
+      "id": 341,
+      "text": "In Gen. hom 1: 16."
+    },
+    {
+      "id": 342,
+      "text": "On Ps. 93."
+    },
+    {
+      "id": 343,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 344,
+      "text": "City of God 14: 22."
+    },
+    {
+      "id": 345,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 346,
+      "text": "City of God 14: 21."
+    },
+    {
+      "id": 347,
+      "text": "In Gen. hom 1: 14."
+    },
+    {
+      "id": 348,
+      "text": "Ep. 48: 2."
+    }
+  ]
+}

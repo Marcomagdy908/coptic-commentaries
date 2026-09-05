@@ -1,0 +1,5479 @@
+{
+  "book_id": 24,
+  "book_title": "تفسير سفرالمزامير",
+  "testament": "Old Testament",
+  "chapters_count": 154,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الإنسان المطوّب"
+    },
+    {
+      "chapter_id": 1,
+      "topic": "مز 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "عش ملكًا"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الله مخلصي"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الله برّي"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "ضد المسيح"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "أول مزامير التوبة"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "أنشودة القديس المفترى عليه"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "سلطان ابن الإنسان"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "تسبحة الغلبة"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "لا تنس المساكين يا رب!"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الإيمان أعظم من الهروب"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "كلام الأشرار وكلام الأبرار"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "إلى متى يا رب....؟"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "الجاهل"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "الحياة على قمم الجبال"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "الله كفايتي وفرحي"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "التأديب يقود إلى رؤية الله"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "نعمة الملوكية"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "الله يعلن عن ذاته"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "الله يخلص الملك"
+    },
+    {
+      "chapter_id": 51,
+      "topic": "مز 51"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "[1] J.H. Raven: Old Testament Introduction, 1910, p. 256."
+    },
+    {
+      "id": 2,
+      "text": "[2] Robert T. Boyd: Boyd’s Bible Handbook, 1983, 232."
+    },
+    {
+      "id": 3,
+      "text": "[3] Cosmos and History: The Myth of the Eternal Return. N.Y., 1954, p. 104."
+    },
+    {
+      "id": 4,
+      "text": "[4] B. W. Anderson: Understanding the Old Testament, 1986, p. 541."
+    },
+    {
+      "id": 5,
+      "text": "[5] Ralph P. Martin: Worship in the Early Church, 1976, ch. 4."
+    },
+    {
+      "id": 6,
+      "text": "[6] Ibid."
+    },
+    {
+      "id": 7,
+      "text": "[7] Ep. 3 to Gregory."
+    },
+    {
+      "id": 8,
+      "text": "[8] R. E.Prothero: The Psalms in Human Life, 1904, p. 1."
+    },
+    {
+      "id": 9,
+      "text": "[9] St. Bisa (the disciple of St. She-noute): An Ascetic Treatise. (British Museum Or. 6007)."
+    },
+    {
+      "id": 10,
+      "text": "[10] R. E. Prothero, p. 14."
+    },
+    {
+      "id": 11,
+      "text": "[11] Ibid, p. 14."
+    },
+    {
+      "id": 12,
+      "text": "[12] Book of Perfection, 59; See St. Nilus, Ep. 1: 239 (PG 79: 169D); and E.Budge, The Wit and Wisdom of the Christian Fathers of Egypt, London 1934, p. 31 (nos. 106, 107)."
+    },
+    {
+      "id": 13,
+      "text": "[13] P. 545-546."
+    },
+    {
+      "id": 14,
+      "text": "[14] Anderson, p. 546."
+    },
+    {
+      "id": 15,
+      "text": "[15] Leopold Sabourin: The Psalms, their origin and meaning, 1969, v. 1, p. 18."
+    },
+    {
+      "id": 16,
+      "text": "[16] B. Chids: Introduction to the Old Testament as Scripture, 1986, p. 508."
+    },
+    {
+      "id": 17,
+      "text": "[17] P. 544, 543."
+    },
+    {
+      "id": 18,
+      "text": "[18] Artur Weiser: The Psalms, 1962, p. 19."
+    },
+    {
+      "id": 19,
+      "text": "[19] Book of Praises, p. 19."
+    },
+    {
+      "id": 20,
+      "text": "[20] Book of Perfection, 79."
+    },
+    {
+      "id": 21,
+      "text": "[21] Demonstration 4, On Prayer, 17. See The Syriac Fathers on Prayer and the Spiritual Life, Cistercian Publications Inc, Michigan, 1987, p. 22."
+    },
+    {
+      "id": 22,
+      "text": "[22] On Prayer, chapter 14: 2."
+    },
+    {
+      "id": 23,
+      "text": "[23] Old Testament Message: Psalms 1, Delaware 1985, P. 40-41."
+    },
+    {
+      "id": 24,
+      "text": "[24] On Prayer 2: 5."
+    },
+    {
+      "id": 25,
+      "text": "[25] St. Hipp.: On the Psalms."
+    },
+    {
+      "id": 26,
+      "text": "[26] See The Collegeville Bible Commentary, Liturgical Press, 1989, p. 754."
+    },
+    {
+      "id": 27,
+      "text": "[27] Edward p. Blair: The Illustrated Bible Handbook, 1975, p. 150."
+    },
+    {
+      "id": 28,
+      "text": "[28] R. E. Prothero, p. 18."
+    },
+    {
+      "id": 29,
+      "text": "[29] The Collegeville Bible Commentary, p. 755."
+    },
+    {
+      "id": 30,
+      "text": "[30] See Anderson, p."
+    },
+    {
+      "id": 31,
+      "text": "[31] Dial., 117 (cf. Apology 1: 13)."
+    },
+    {
+      "id": 32,
+      "text": "[32] W. S. Deal: Baker's Pictorial Introduction to the Bible, 1967, 147."
+    },
+    {
+      "id": 33,
+      "text": "[33] Boyd's Bible Handbook, p. 230-231."
+    },
+    {
+      "id": 34,
+      "text": "[34] Ibid 231."
+    },
+    {
+      "id": 35,
+      "text": "[35] Enarrat. In Psalm 40."
+    },
+    {
+      "id": 36,
+      "text": "[36] The Psalms, School of Spirituality, Challoner Publishing, London. 1962, p. 119."
+    },
+    {
+      "id": 37,
+      "text": "[37] J. Mckenzie: Dictonary of the bible, p. 705; Collegeville Bible Commentary, p. 755."
+    },
+    {
+      "id": 38,
+      "text": "[38] 1987, p. 48."
+    },
+    {
+      "id": 39,
+      "text": "[39] Names of God, Moody Press, 1944, p. 9."
+    },
+    {
+      "id": 40,
+      "text": "[40] Reader' Digest: Mysteries of the Bible, p. 20)."
+    },
+    {
+      "id": 41,
+      "text": "[41] William S. Plumer: psalms, A critical and Expositary Commentary with Doctrinal and PracticalRemarks, 1978, p. 7; L. Sabourin: The Psalms, v. 1, p. 2."
+    },
+    {
+      "id": 42,
+      "text": "[42] The Fourth Gospel and Jewish Worship, Oxford, 1960, p. 6."
+    },
+    {
+      "id": 43,
+      "text": "[43] Boyd's Bible Handbook, p. 231-232."
+    },
+    {
+      "id": 44,
+      "text": "[44] The Jerome Biblical Commentary, 1970, p. 570."
+    },
+    {
+      "id": 45,
+      "text": "[45] Sabourin, p. 11."
+    },
+    {
+      "id": 46,
+      "text": "[46] L. Sabourin p. 12."
+    },
+    {
+      "id": 47,
+      "text": "[47] William S. Plumer: Psalms, Pennsylvania, 1987, p. 5, 6."
+    },
+    {
+      "id": 48,
+      "text": "[48] Ibid. 6."
+    },
+    {
+      "id": 49,
+      "text": "[49] Ibid."
+    },
+    {
+      "id": 50,
+      "text": "[50] The Jerome biblical comm.. p. 571."
+    },
+    {
+      "id": 51,
+      "text": "[51] P. 50-51."
+    },
+    {
+      "id": 52,
+      "text": "[52] Summerische und akkadische Hymnen und Gebete, Zurich, 1953, p. 56; Jerome Bin. Comm. P. 571-2."
+    },
+    {
+      "id": 53,
+      "text": "* قام بترجمة المقدمة الأب الراهب برنابا."
+    },
+    {
+      "id": 54,
+      "text": "[53] B. Anderson: Understanding the Old Testament, 1986, p. 545."
+    },
+    {
+      "id": 55,
+      "text": "[54] Artur Weiser: The Psalms, 1962, p. 109."
+    },
+    {
+      "id": 56,
+      "text": "[55] The Collegeville Bible Commentary, p. 756."
+    },
+    {
+      "id": 57,
+      "text": "[56] Leopold Sabourin: The Psalms, their origin and meaning, 1969, Vol. 2, p. 258."
+    },
+    {
+      "id": 58,
+      "text": "[57] C. Stuhlmueller, p. 61."
+    },
+    {
+      "id": 59,
+      "text": "[58] On Ps. 2, p. 15."
+    },
+    {
+      "id": 60,
+      "text": "[59] Concerning the Statues, 18: 10."
+    },
+    {
+      "id": 61,
+      "text": "[60] Cassian, Conf. 11: 15."
+    },
+    {
+      "id": 62,
+      "text": "[61] In Ps. Hom. 55."
+    },
+    {
+      "id": 63,
+      "text": "[62] Childs: Introduction to the O. T. as Scriptures, p. 513."
+    },
+    {
+      "id": 64,
+      "text": "[63] Comm.. on Songs 3: 5."
+    },
+    {
+      "id": 65,
+      "text": "[64] In Ps. Hom. 1."
+    },
+    {
+      "id": 66,
+      "text": "[65] In John hom. 18: 4."
+    },
+    {
+      "id": 67,
+      "text": "[66] An Exod. Hom. 9: 4."
+    },
+    {
+      "id": 68,
+      "text": "[67] Serm. 116: 2."
+    },
+    {
+      "id": 69,
+      "text": "[68] Comm.. on Canticle, Serm. 3."
+    },
+    {
+      "id": 70,
+      "text": "[69] On Lev., hom. 6: 1."
+    },
+    {
+      "id": 71,
+      "text": "[70] Oration 27: 4 (PG 36: 16 B-C and 20 B)."
+    },
+    {
+      "id": 72,
+      "text": "[71] Book of Perfection, 60."
+    },
+    {
+      "id": 73,
+      "text": "[72] Hom. 1."
+    },
+    {
+      "id": 74,
+      "text": "[73] On Ps. 1: 18 ."
+    },
+    {
+      "id": 75,
+      "text": "[74] Serm. 112: 3."
+    },
+    {
+      "id": 76,
+      "text": "[75] Letter to the Magnesians, 13."
+    },
+    {
+      "id": 77,
+      "text": "[76] Scripture Union: The Psalms, p. 4."
+    },
+    {
+      "id": 78,
+      "text": "[77] Weiser, p. 107."
+    },
+    {
+      "id": 79,
+      "text": "[78] Comcerning the Statues, 8: 4."
+    },
+    {
+      "id": 80,
+      "text": "[79] Nelson: A New Catholic Comm. On Holy scripture, p/ 443."
+    },
+    {
+      "id": 81,
+      "text": "[80] Hom. 1."
+    },
+    {
+      "id": 82,
+      "text": "[81] In Ioan. 49: 20."
+    },
+    {
+      "id": 83,
+      "text": "[82] See Rabbi Avrohom Feuer tehillim, Psalms-A New Translation with a Commentary Anthologiaed from Talmud, Midrashic and Rabbinic Sources, (Brooklyn, N. Y.: Messorah Public. Ltd. 1985, p. 51)."
+    },
+    {
+      "id": 84,
+      "text": "قام بترجمة تفسير المزمور الأول المهندس أمجد نعمة الله نجيب."
+    },
+    {
+      "id": 85,
+      "text": "[83] The Psalms, their origin and meaning. Vol. 2, p. 209-210."
+    },
+    {
+      "id": 86,
+      "text": "[84] Ibid, p. 209."
+    },
+    {
+      "id": 87,
+      "text": "[85] The NI V Study Bible, 1985, p. 787."
+    },
+    {
+      "id": 88,
+      "text": "[86] Sabourin, Vol. 2, p. 213."
+    },
+    {
+      "id": 89,
+      "text": "[87] Arno C. Gaebelein: The Book of Psa;ms, 1982, p. 21."
+    },
+    {
+      "id": 90,
+      "text": "[88] Matthew Henery, Psalm II."
+    },
+    {
+      "id": 91,
+      "text": "[89] In Cor. Hom. 39: 11."
+    },
+    {
+      "id": 92,
+      "text": "[90] C. Stuhlmueller, p. 62."
+    },
+    {
+      "id": 93,
+      "text": "[91] Nelson: A New Catholic Comm. On Holy Sripture, p. 444."
+    },
+    {
+      "id": 94,
+      "text": "[92] Weiser, p. 112."
+    },
+    {
+      "id": 95,
+      "text": "[93] Comm. On Luke, hom. 134."
+    },
+    {
+      "id": 96,
+      "text": "[94] In Joan, hom, 53."
+    },
+    {
+      "id": 97,
+      "text": "[95] Of the Christian Faith, 5: 10 ."
+    },
+    {
+      "id": 98,
+      "text": "[96] Ibid, 5: 1 ."
+    },
+    {
+      "id": 99,
+      "text": "[97] Four Discourese against the Arians, 2: 23."
+    },
+    {
+      "id": 100,
+      "text": "[98] Weiser, p. 109."
+    },
+    {
+      "id": 101,
+      "text": "[99] Comm.. On Luke hom 148."
+    },
+    {
+      "id": 102,
+      "text": "[100] Paschal letters, 11: 5."
+    },
+    {
+      "id": 103,
+      "text": "[101] Ibid, 11: 14."
+    },
+    {
+      "id": 104,
+      "text": "[102] Sermon 107: 4."
+    },
+    {
+      "id": 105,
+      "text": "[103] Nelson, p. 444."
+    },
+    {
+      "id": 106,
+      "text": "[104] Paed. 1: 7."
+    },
+    {
+      "id": 107,
+      "text": "[105] Treatise 2: 1."
+    },
+    {
+      "id": 108,
+      "text": "[106] Disc. On Ps. 2."
+    },
+    {
+      "id": 109,
+      "text": "[107] In Eph. Hom. 17."
+    },
+    {
+      "id": 110,
+      "text": "[108] Letter 2: 19."
+    },
+    {
+      "id": 111,
+      "text": "[109] Cassian, Conf. 11: 12."
+    },
+    {
+      "id": 112,
+      "text": "[110] Book of Perfection, 2."
+    },
+    {
+      "id": 113,
+      "text": "[111] Chapters on Prayer, 143."
+    },
+    {
+      "id": 114,
+      "text": "[112] Sermon, 134: 3."
+    },
+    {
+      "id": 115,
+      "text": "[113] Discourse 18: On the Tears of Prayer, 1."
+    },
+    {
+      "id": 116,
+      "text": "[114] Stromata, 5: 13."
+    },
+    {
+      "id": 117,
+      "text": "قام بترجمة هذا المزمور المهندس أمجد نعمة الله والدكتورة نورا العجمي."
+    },
+    {
+      "id": 118,
+      "text": "[115] The Jerome Biblical Comm., p/ 576."
+    },
+    {
+      "id": 119,
+      "text": "[116] See Weiser, p. 117."
+    },
+    {
+      "id": 120,
+      "text": "[117] Against Praxeas, 11."
+    },
+    {
+      "id": 121,
+      "text": "[118] Matthew Henry, Psalm III ."
+    },
+    {
+      "id": 122,
+      "text": "[119] Ep. 76: 5."
+    },
+    {
+      "id": 123,
+      "text": "[120] NI V Study Bible, p. 788."
+    },
+    {
+      "id": 124,
+      "text": "[121] Against Marcion 4: 13."
+    },
+    {
+      "id": 125,
+      "text": "[122] Dialogue with Trypho, 97."
+    },
+    {
+      "id": 126,
+      "text": "[123] Demonstration 8 of the Resurrection of the dead, 18. (See also the First Epistle of St. Clement \"of Rome\", 26)."
+    },
+    {
+      "id": 127,
+      "text": "[124] Apology 1: 38."
+    },
+    {
+      "id": 128,
+      "text": "[125] Stromata 5: 14."
+    },
+    {
+      "id": 129,
+      "text": "[126] City of God. 14: 24."
+    },
+    {
+      "id": 130,
+      "text": "[127] In Joshua, hom, 15:1."
+    },
+    {
+      "id": 131,
+      "text": "[128] Collegevill Bible Commen., p. 756."
+    },
+    {
+      "id": 132,
+      "text": "[129] Kinder: The Psalms, p. 55."
+    },
+    {
+      "id": 133,
+      "text": "[130] Ibid."
+    },
+    {
+      "id": 134,
+      "text": "[131] Sermon 137: 1."
+    },
+    {
+      "id": 135,
+      "text": "[132] William S. Plumer: Psalms, A Critical and Expository Commentary with Doctrinal and Practical Remarks, Pennsylvania, 1978, p. 62-63."
+    },
+    {
+      "id": 136,
+      "text": "[133] On Prayer 30: 1."
+    },
+    {
+      "id": 137,
+      "text": "[134] Fest. Letters 11: 1."
+    },
+    {
+      "id": 138,
+      "text": "[135] Weiser, p. 120."
+    },
+    {
+      "id": 139,
+      "text": "[136] NI V Study Bible, p. 789."
+    },
+    {
+      "id": 140,
+      "text": "[137] Against Anger."
+    },
+    {
+      "id": 141,
+      "text": "[138] In Matt. Hom. 16: 9."
+    },
+    {
+      "id": 142,
+      "text": "[139] Duties of the Clergy, 1: 3 ."
+    },
+    {
+      "id": 143,
+      "text": "[140] Against Marcion 2: 19."
+    },
+    {
+      "id": 144,
+      "text": "[141] The Institutes, 8: 9."
+    },
+    {
+      "id": 145,
+      "text": "[142] Sabourin, Vol. 2, p. 93."
+    },
+    {
+      "id": 146,
+      "text": "[143] In Hebr. 14: 9."
+    },
+    {
+      "id": 147,
+      "text": "[144] In Matt. Hom 42: 2."
+    },
+    {
+      "id": 148,
+      "text": "[145] In Non ag grat. Vonc. PG. 50: 660 D."
+    },
+    {
+      "id": 149,
+      "text": "[146] Sermon 58: 3."
+    },
+    {
+      "id": 150,
+      "text": "[147] In Hebr. 11: 6."
+    },
+    {
+      "id": 151,
+      "text": "[148] Fest. Letters 19: 4."
+    },
+    {
+      "id": 152,
+      "text": "[149] 1: 12: 7."
+    },
+    {
+      "id": 153,
+      "text": "[150] NI V Study Bib l e, p. 790"
+    },
+    {
+      "id": 154,
+      "text": "[151] Collegeville Bible Comm., p. 756."
+    },
+    {
+      "id": 155,
+      "text": "* قام بترجمة هذا المزمور الدكتور يوسف عزيز نخلة."
+    },
+    {
+      "id": 156,
+      "text": "[152] Kidner, p. 57."
+    },
+    {
+      "id": 157,
+      "text": "[153] Weiser, p. 123; Sabourin, vol. 2, p. 6."
+    },
+    {
+      "id": 158,
+      "text": "[154] William S. Plumer: Psal,s, p. 77."
+    },
+    {
+      "id": 159,
+      "text": "[155] Ibid."
+    },
+    {
+      "id": 160,
+      "text": "[156] Expos. In Ps. 5. PG. 55: 63 B-C."
+    },
+    {
+      "id": 161,
+      "text": "[157] Expos. In Ps. 5. PG. 55: 63 D."
+    },
+    {
+      "id": 162,
+      "text": "[158] Hom. 2."
+    },
+    {
+      "id": 163,
+      "text": "[159] Plumer, p. 77."
+    },
+    {
+      "id": 164,
+      "text": "[160] Hom. 2."
+    },
+    {
+      "id": 165,
+      "text": "[161] See Saburin, vol. 2, p. 7."
+    },
+    {
+      "id": 166,
+      "text": "[162] The Long Rules, Q. 37."
+    },
+    {
+      "id": 167,
+      "text": "[163] Hom. 2."
+    },
+    {
+      "id": 168,
+      "text": "[164] On Divine providence, Disc. 10: 17."
+    },
+    {
+      "id": 169,
+      "text": "[165] Dorotheos of Gaza: On Falsehood."
+    },
+    {
+      "id": 170,
+      "text": "[166] Hom. 2."
+    },
+    {
+      "id": 171,
+      "text": "[167] Against the Palagians, 3: 8."
+    },
+    {
+      "id": 172,
+      "text": "[168] Ibid 3: 1."
+    },
+    {
+      "id": 173,
+      "text": "[169] Hom. 2."
+    },
+    {
+      "id": 174,
+      "text": "[170] Paed. 1: 5."
+    },
+    {
+      "id": 175,
+      "text": "[171] Hom. 2."
+    },
+    {
+      "id": 176,
+      "text": "[172] Concerning the Statues, 4: 10."
+    },
+    {
+      "id": 177,
+      "text": "[173] Hom. On St. John 66: 3."
+    },
+    {
+      "id": 178,
+      "text": "[174] Hom. 2."
+    },
+    {
+      "id": 179,
+      "text": "[175] In Matt. Hom. 73."
+    },
+    {
+      "id": 180,
+      "text": "[176] Comm.. on Songs 3: 5."
+    },
+    {
+      "id": 181,
+      "text": "* اشترك في الترجمة الدكتور جرجس كامل يوسف والمهنسة حنان سمير."
+    },
+    {
+      "id": 182,
+      "text": "[177] Youssef Mankarius & Habib Girgis: El-Roud El-Nadier Fi Tafseer El-Maxzamir, p. 98, 99 (in Arabic)."
+    },
+    {
+      "id": 183,
+      "text": "[178] Plumer, p. 93."
+    },
+    {
+      "id": 184,
+      "text": "[179] Feuer, Tehillim, p. 100."
+    },
+    {
+      "id": 185,
+      "text": "[180] Ep. Ti the Magnesians, 9."
+    },
+    {
+      "id": 186,
+      "text": "[181] Matthew Henry Comm. In one volume , p. 583."
+    },
+    {
+      "id": 187,
+      "text": "[182] Plumer, 97."
+    },
+    {
+      "id": 188,
+      "text": "[183] Cassian: Conf. 1: 14."
+    },
+    {
+      "id": 189,
+      "text": "[184] In Matt. Hom. 36."
+    },
+    {
+      "id": 190,
+      "text": "[185] In Eph. Hom. 24."
+    },
+    {
+      "id": 191,
+      "text": "[186] Hom. On St. John 34: 3."
+    },
+    {
+      "id": 192,
+      "text": "[187] The New American Bible, p. 546."
+    },
+    {
+      "id": 193,
+      "text": "[188] In Hebr. Hom. 31."
+    },
+    {
+      "id": 194,
+      "text": "[189] In Hebr. Hom 9: 9."
+    },
+    {
+      "id": 195,
+      "text": "[190] On Lazarus and the rich man, serm. 1."
+    },
+    {
+      "id": 196,
+      "text": "[191] In I Tim. Hom 14."
+    },
+    {
+      "id": 197,
+      "text": "[192] Cassian: Conf. 20: 8."
+    },
+    {
+      "id": 198,
+      "text": "[193] Cassian: Conf. 9: 29."
+    },
+    {
+      "id": 199,
+      "text": "[194] On Vigils."
+    },
+    {
+      "id": 200,
+      "text": "[195] Six Treatises on the Behavior of Excellence, 4."
+    },
+    {
+      "id": 201,
+      "text": "[196] A Treatise in Questions and Answer."
+    },
+    {
+      "id": 202,
+      "text": "[197] A Treatise in Questions and Answer."
+    },
+    {
+      "id": 203,
+      "text": "[198] Sermon 149: 2."
+    },
+    {
+      "id": 204,
+      "text": "[199] In Hebr. Hom. 17: 9."
+    },
+    {
+      "id": 205,
+      "text": "* يوسف منقريوس وحبيب جرس: الروض النضير في تفسير المزامير، الجزء الأول، ص 98، 99."
+    },
+    {
+      "id": 206,
+      "text": "[200] Gaebelein: Psalms, p. 40."
+    },
+    {
+      "id": 207,
+      "text": "[201] W. Plumer: Psalms, p. 106."
+    },
+    {
+      "id": 208,
+      "text": "[202] Ibid."
+    },
+    {
+      "id": 209,
+      "text": "[203] Weiser, p. 136."
+    },
+    {
+      "id": 210,
+      "text": "[204] Onsemius of Jerusalem, Psalm 7."
+    },
+    {
+      "id": 211,
+      "text": "[205] W. Plumer: Psalms, p. 108."
+    },
+    {
+      "id": 212,
+      "text": "[206] Duties of the Clergy, 3: 9: 59."
+    },
+    {
+      "id": 213,
+      "text": "[207] Ep. To the Ephesians, 10."
+    },
+    {
+      "id": 214,
+      "text": "[208] On Rancor or Animosity."
+    },
+    {
+      "id": 215,
+      "text": "[209] Sermon 36: 3; 75: 3."
+    },
+    {
+      "id": 216,
+      "text": "[210] The NI V Study Bible, p. 792."
+    },
+    {
+      "id": 217,
+      "text": "[211] Erling C. Olsen: Meditation in the Book of Psalms, N.J., 1985, p. 41."
+    },
+    {
+      "id": 218,
+      "text": "[212] Hom. 3."
+    },
+    {
+      "id": 219,
+      "text": "[213] Ibid."
+    },
+    {
+      "id": 220,
+      "text": "[214] Against Marcion 5: 7."
+    },
+    {
+      "id": 221,
+      "text": "[215] In Cor., Hom. 9: 4."
+    },
+    {
+      "id": 222,
+      "text": "[216] In 2 Tim., Hom. 3."
+    },
+    {
+      "id": 223,
+      "text": "[217] Sermon 154: 3."
+    },
+    {
+      "id": 224,
+      "text": "[218] Of the Holy Spirit, 2: 183."
+    },
+    {
+      "id": 225,
+      "text": "[219] Cassian: Conf. 7: 21."
+    },
+    {
+      "id": 226,
+      "text": "[220] Plumer, p. 115-116."
+    },
+    {
+      "id": 227,
+      "text": "* اشترك في الترجمة الدكتور جرجس كامل يوسف وميرفت يوحنا بطرس."
+    },
+    {
+      "id": 228,
+      "text": "[221] Plumer: Psalms, p. 121; Weiser, p. 141."
+    },
+    {
+      "id": 229,
+      "text": "[222] Exhort. To the Heathen, 4."
+    },
+    {
+      "id": 230,
+      "text": "[223] Comm.. on Luke, hom. 96."
+    },
+    {
+      "id": 231,
+      "text": "[224] Comm.. on Canticle, sermon 12."
+    },
+    {
+      "id": 232,
+      "text": "[225] Exposition of the Orthodox Faith, 7."
+    },
+    {
+      "id": 233,
+      "text": "[226] Adv. Haer. 4: 11: 3."
+    },
+    {
+      "id": 234,
+      "text": "[227] Paed. 1:5."
+    },
+    {
+      "id": 235,
+      "text": "[228] A Treatise on the Soul, 19."
+    },
+    {
+      "id": 236,
+      "text": "[229] Stuhmueller, p. 90."
+    },
+    {
+      "id": 237,
+      "text": "[230] Weiser, p. 142-3."
+    },
+    {
+      "id": 238,
+      "text": "[231] Collegeville Bible Comm., p. 757."
+    },
+    {
+      "id": 239,
+      "text": "[232] The Lord's Prayer, serm. 5."
+    },
+    {
+      "id": 240,
+      "text": "[233] Weiser, p. 144."
+    },
+    {
+      "id": 241,
+      "text": "[234] Of Patience, 5."
+    },
+    {
+      "id": 242,
+      "text": "[235] Duties of the Clergy, 1: 28: 139."
+    },
+    {
+      "id": 243,
+      "text": "[236] On the Flesh of Christ, 14."
+    },
+    {
+      "id": 244,
+      "text": "[237] Against Marcion 3. 7; 2: 27; 4: 21."
+    },
+    {
+      "id": 245,
+      "text": "[238] Comm.. on luke, hom. 99."
+    },
+    {
+      "id": 246,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف."
+    },
+    {
+      "id": 247,
+      "text": "[239] Onsemius of Jerusalm, Ps. 9."
+    },
+    {
+      "id": 248,
+      "text": "[240] Plumer: Psalms, p. 132."
+    },
+    {
+      "id": 249,
+      "text": "[241] Fr. T. Malaty: Isaiah, 1990, p. 155-156 (in Arabic)."
+    },
+    {
+      "id": 250,
+      "text": "[242] Comm.. on Eccles., sermon 7: 44."
+    },
+    {
+      "id": 251,
+      "text": "[243] Plumer, p. 133."
+    },
+    {
+      "id": 252,
+      "text": "[244] M. Henry Comm. In one volume , p. 586."
+    },
+    {
+      "id": 253,
+      "text": "[245] In John, hom. 65: 1."
+    },
+    {
+      "id": 254,
+      "text": "[246] Comm.. on Luke, hom. 12."
+    },
+    {
+      "id": 255,
+      "text": "[247] Plumer, p. 138."
+    },
+    {
+      "id": 256,
+      "text": "[248] Adv. Haer. 3: 18: 5."
+    },
+    {
+      "id": 257,
+      "text": "[249] Plumer, psalm 9."
+    },
+    {
+      "id": 258,
+      "text": "[250] Comm.. on Luke, hom. 152"
+    },
+    {
+      "id": 259,
+      "text": "[251] In Acts, hom. 12."
+    },
+    {
+      "id": 260,
+      "text": "[252] Demonstration 2 on Deathe and the Latter Times, 17."
+    },
+    {
+      "id": 261,
+      "text": "[253] Plumer, p. 150."
+    },
+    {
+      "id": 262,
+      "text": "[254] Ibid, 151."
+    },
+    {
+      "id": 263,
+      "text": "[255] Sermon 59:7."
+    },
+    {
+      "id": 264,
+      "text": "[256] Plumer, p. 154."
+    },
+    {
+      "id": 265,
+      "text": "[257] In Acts hom. 39."
+    },
+    {
+      "id": 266,
+      "text": "[258] In Acts hom. 7."
+    },
+    {
+      "id": 267,
+      "text": "[259] Comm.. on the Canticle serm."
+    },
+    {
+      "id": 268,
+      "text": "[260] Plumer, p. 155."
+    },
+    {
+      "id": 269,
+      "text": "[261] In John hom 39: 1."
+    },
+    {
+      "id": 270,
+      "text": "[262] In John hom 45: 3."
+    },
+    {
+      "id": 271,
+      "text": "[263] Comm.. on Canticle, serm."
+    },
+    {
+      "id": 272,
+      "text": "[264] In Epn. Hom. 24."
+    },
+    {
+      "id": 273,
+      "text": "[265] Plumer: The Psalms, p. 173."
+    },
+    {
+      "id": 274,
+      "text": "[266] Ibid, 165."
+    },
+    {
+      "id": 275,
+      "text": "[267] In Matt. hom. 18:2."
+    },
+    {
+      "id": 276,
+      "text": "[268] Ep. 145."
+    },
+    {
+      "id": 277,
+      "text": "[269] In Luc. 12."
+    },
+    {
+      "id": 278,
+      "text": "[270] Plumer, p. 171."
+    },
+    {
+      "id": 279,
+      "text": "[271] Ibid, 167."
+    },
+    {
+      "id": 280,
+      "text": "[272] Comm. on Songs 3:8."
+    },
+    {
+      "id": 281,
+      "text": "[273] Plumer, p. 167."
+    },
+    {
+      "id": 282,
+      "text": "[274] Hom. on St. John 49:3."
+    },
+    {
+      "id": 283,
+      "text": "[275] Sermon 145: 1; 173:2; 173:5."
+    },
+    {
+      "id": 284,
+      "text": "[276] Comm. on Luke, Hom. 95."
+    },
+    {
+      "id": 285,
+      "text": "* قام بترجمة النص الدكتور جرجس كامل يوسف."
+    },
+    {
+      "id": 286,
+      "text": "[277] Interpreter's Cocise Commentary, Psalms, p. 80."
+    },
+    {
+      "id": 287,
+      "text": "[278] Hom. on Eph. 14."
+    },
+    {
+      "id": 288,
+      "text": "[279] Ibid."
+    },
+    {
+      "id": 289,
+      "text": "[280] Stromata 6:7."
+    },
+    {
+      "id": 290,
+      "text": "قام بترجمة التفسير الدكتور جرجس كامل يوسف."
+    },
+    {
+      "id": 291,
+      "text": "[281] Plumer, p. 183."
+    },
+    {
+      "id": 292,
+      "text": "[282] Ibid 187."
+    },
+    {
+      "id": 293,
+      "text": "[283] Comm. on Luke, hom. 92."
+    },
+    {
+      "id": 294,
+      "text": "[284] Sermon 137:3."
+    },
+    {
+      "id": 295,
+      "text": "[285] Plumer, p. 188."
+    },
+    {
+      "id": 296,
+      "text": "اشترك في ترجمة التفسير الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 297,
+      "text": "[286] A new Catholic Comm., Nelson, 1969, p. 447."
+    },
+    {
+      "id": 298,
+      "text": "[287] The Collegeville Bible Comm., 758."
+    },
+    {
+      "id": 299,
+      "text": "[288] Stuhlmueller, p. 109."
+    },
+    {
+      "id": 300,
+      "text": "[289] Ibid."
+    },
+    {
+      "id": 301,
+      "text": "[290] Plumer, p. 192."
+    },
+    {
+      "id": 302,
+      "text": "[291] Paschal letters, 19:6."
+    },
+    {
+      "id": 303,
+      "text": "[292] Duties of the Clergy 1:24: 117."
+    },
+    {
+      "id": 304,
+      "text": "[293] In 2 Cor. Hom. 3:6."
+    },
+    {
+      "id": 305,
+      "text": "[294] Plumer, p. 192, 193."
+    },
+    {
+      "id": 306,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 307,
+      "text": "[295] A New Catholic Comm. 447."
+    },
+    {
+      "id": 308,
+      "text": "[296] Plummer, p. 199."
+    },
+    {
+      "id": 309,
+      "text": "[297] Hom. 5."
+    },
+    {
+      "id": 310,
+      "text": "[298] Hom. 5."
+    },
+    {
+      "id": 311,
+      "text": "[299] Stuhlmueller, p. 113."
+    },
+    {
+      "id": 312,
+      "text": "[300] Plumer, p. 200."
+    },
+    {
+      "id": 313,
+      "text": "[301] Hom. 5."
+    },
+    {
+      "id": 314,
+      "text": "[302] Hom. 5."
+    },
+    {
+      "id": 315,
+      "text": "[303] Plumer, p. 205."
+    },
+    {
+      "id": 316,
+      "text": "[304] In 1 Cor. Hom. 29:5."
+    },
+    {
+      "id": 317,
+      "text": "[305] Hom. 5."
+    },
+    {
+      "id": 318,
+      "text": "[306] Cassion: Conf. 14:17."
+    },
+    {
+      "id": 319,
+      "text": "[307] Ep. 19 to vigilius,."
+    },
+    {
+      "id": 320,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 321,
+      "text": "[308] Plumer, p. 209."
+    },
+    {
+      "id": 322,
+      "text": "[309] Gaebelein: Psalms, p. 72."
+    },
+    {
+      "id": 323,
+      "text": "[310] St. Hippolytus of Rome: Expository Treatise against the Jews,3."
+    },
+    {
+      "id": 324,
+      "text": "[311] The istitutes, 3:3."
+    },
+    {
+      "id": 325,
+      "text": "[312] Select Demonstration, 21:19."
+    },
+    {
+      "id": 326,
+      "text": "[313] Four Discourses against the Arians, 3:57."
+    },
+    {
+      "id": 327,
+      "text": "[314] Adv. Haer. 3:12:2."
+    },
+    {
+      "id": 328,
+      "text": "[315] Weiser, p. 173."
+    },
+    {
+      "id": 329,
+      "text": "[316] Comm. on Canticle, serm. 4."
+    },
+    {
+      "id": 330,
+      "text": "[317] In 1 Tim. hom., 16"
+    },
+    {
+      "id": 331,
+      "text": "[318] In 2 Tim. hom., 3."
+    },
+    {
+      "id": 332,
+      "text": "[319] See Weiser, p. 174"
+    },
+    {
+      "id": 333,
+      "text": "[320] Against the Pelagians, 3:2."
+    },
+    {
+      "id": 334,
+      "text": "[321] Comm. on Luke, hom. 36."
+    },
+    {
+      "id": 335,
+      "text": "[322] Plumer, p. 212."
+    },
+    {
+      "id": 336,
+      "text": "[323] Weiser, p. 175."
+    },
+    {
+      "id": 337,
+      "text": "[324] Ep. 118:4."
+    },
+    {
+      "id": 338,
+      "text": "[325] Ep. 52:5."
+    },
+    {
+      "id": 339,
+      "text": "[326] Hymns on the Nativity, 3."
+    },
+    {
+      "id": 340,
+      "text": "[327] Duties of the Clergy 1:50: 255."
+    },
+    {
+      "id": 341,
+      "text": "[328] للملف: آباء مدرسة إسكندرية الأولون، 1980، ص 77."
+    },
+    {
+      "id": 342,
+      "text": "[329] Stromata 6:7."
+    },
+    {
+      "id": 343,
+      "text": "[330] Ibid."
+    },
+    {
+      "id": 344,
+      "text": "[331] Ibid. 4:21"
+    },
+    {
+      "id": 345,
+      "text": "[332] Ep. 133:3."
+    },
+    {
+      "id": 346,
+      "text": "[333] Stromata 7:9."
+    },
+    {
+      "id": 347,
+      "text": "[334] Ibid 7:11."
+    },
+    {
+      "id": 348,
+      "text": "[335] The Long Rules Q. 5."
+    },
+    {
+      "id": 349,
+      "text": "[336] Cf. August. de Fid. et Symb. 14. does this passage of Athan.'s show that that the Anthropomorphites werestirring in Egypt already?"
+    },
+    {
+      "id": 350,
+      "text": "[337] Four Discourses against the Arians, 1:61."
+    },
+    {
+      "id": 351,
+      "text": "[338] Plumer, p. 214."
+    },
+    {
+      "id": 352,
+      "text": "[339] Weiser, p. 178."
+    },
+    {
+      "id": 353,
+      "text": "اشترك في الترجمة الدكتور جورج كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 354,
+      "text": "[340] The Collegville Bible Comm., p. 58 ."
+    },
+    {
+      "id": 355,
+      "text": "[341] C. Stuhlmeueller: The Psalms, p. 123 ."
+    },
+    {
+      "id": 356,
+      "text": "[342] Gaeblein: Psalms, p. 220 ."
+    },
+    {
+      "id": 357,
+      "text": "[343] W. Plumer, p. 220 ."
+    },
+    {
+      "id": 358,
+      "text": "[344] Weiser, p. 180 ."
+    },
+    {
+      "id": 359,
+      "text": "[345] Epistle 41:2 ."
+    },
+    {
+      "id": 360,
+      "text": "[346] Epistle 244:7 ."
+    },
+    {
+      "id": 361,
+      "text": "[347] From the six century: Letter to Cyriacus, 55 ."
+    },
+    {
+      "id": 362,
+      "text": "[348] In acts, hom 3 ."
+    },
+    {
+      "id": 363,
+      "text": "[349] Comm. On Canticle, 15 ."
+    },
+    {
+      "id": 364,
+      "text": "[350] Pascal Letters 7:6 ."
+    },
+    {
+      "id": 365,
+      "text": "اشترك في الترجمة الدكتور جورج كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 366,
+      "text": "[351] Plumer: Psalms; p. 247 ."
+    },
+    {
+      "id": 367,
+      "text": "[352] C. Stuhlmeueller , p. 127 ."
+    },
+    {
+      "id": 368,
+      "text": "[353] Weiser, p. 186-187 ."
+    },
+    {
+      "id": 369,
+      "text": "[354] Plumer, p. 235 ."
+    },
+    {
+      "id": 370,
+      "text": "[355] Four Discourses against the Arians, 3:13 ."
+    },
+    {
+      "id": 371,
+      "text": "[356] Weiser, p. 188 ."
+    },
+    {
+      "id": 372,
+      "text": "[357] Scripture Union: Bibls Study Books, The Psalms, p. 18 ."
+    },
+    {
+      "id": 373,
+      "text": "[358] On the Acts, hom 2 ."
+    },
+    {
+      "id": 374,
+      "text": "[359] Life of Moses, 163, 164 ."
+    },
+    {
+      "id": 375,
+      "text": "[360] Plumer, p. 239 ."
+    },
+    {
+      "id": 376,
+      "text": "[361] Ibid, 249 ."
+    },
+    {
+      "id": 377,
+      "text": "[362] Ibid, 241 ."
+    },
+    {
+      "id": 378,
+      "text": "[363] Hom. On Eph. Hom. 1 ."
+    },
+    {
+      "id": 379,
+      "text": "[364] Stromata, 5:8 ."
+    },
+    {
+      "id": 380,
+      "text": "[365] Weiser, p. 194 ."
+    },
+    {
+      "id": 381,
+      "text": "[366] Weiser, p. 194 ."
+    },
+    {
+      "id": 382,
+      "text": "[367] Paschal Letters, 19:7 ."
+    },
+    {
+      "id": 383,
+      "text": "[368] Pascal Letters 3:5 ."
+    },
+    {
+      "id": 384,
+      "text": "[369] On Consultation"
+    },
+    {
+      "id": 385,
+      "text": "[370] Plumer, p. 243 ."
+    },
+    {
+      "id": 386,
+      "text": "[371] The Institutes, 12:17 ."
+    },
+    {
+      "id": 387,
+      "text": "[372] The Beatitudes, serm. 2 ."
+    },
+    {
+      "id": 388,
+      "text": "[373] Ep. 122:1 ."
+    },
+    {
+      "id": 389,
+      "text": "[374] Praktikos, 73 ."
+    },
+    {
+      "id": 390,
+      "text": "[375] Chapters on Prayer, 135 ."
+    },
+    {
+      "id": 391,
+      "text": "[376] Hom. on John 9:1 ."
+    },
+    {
+      "id": 392,
+      "text": "[377] An Answer to the Jews, 3 ."
+    },
+    {
+      "id": 393,
+      "text": "[378] Adv. Haer. 4:41:2 ."
+    },
+    {
+      "id": 394,
+      "text": "اشترك في الترجمة تاسوني بوتامينا والدكتورة نورا العجمي ."
+    },
+    {
+      "id": 395,
+      "text": "[379] Sabourin: The Psalms, Vol. 1, p. 185."
+    },
+    {
+      "id": 396,
+      "text": "[380] C. Stuhlmeuller: Psalms, p. 137."
+    },
+    {
+      "id": 397,
+      "text": "[381] Plumer, p. 254."
+    },
+    {
+      "id": 398,
+      "text": "[382] Matthew, Henry, Ps. 19 ."
+    },
+    {
+      "id": 399,
+      "text": "[383] Scripture Union: Bible Study Books, The Psalms, p. 18-19."
+    },
+    {
+      "id": 400,
+      "text": "[384] Weiser, p. 197-198."
+    },
+    {
+      "id": 401,
+      "text": "[385] Contra Gentes."
+    },
+    {
+      "id": 402,
+      "text": "[386] Concerning the Statues, 9:4."
+    },
+    {
+      "id": 403,
+      "text": "[387] C. Stuhlmueller, p. 89."
+    },
+    {
+      "id": 404,
+      "text": "[388] In. Rom. hom. 3."
+    },
+    {
+      "id": 405,
+      "text": "[389] Life of Moses, 168."
+    },
+    {
+      "id": 406,
+      "text": "[390] On Divine Providence, disc. 4:3."
+    },
+    {
+      "id": 407,
+      "text": "[391] العناية الإلهية للقديس يوحنا الذهبي الفم، ترجمة مدام عايدة حنا بسطا، ص 19."
+    },
+    {
+      "id": 408,
+      "text": "[392] Concerning the Statues, 9:5."
+    },
+    {
+      "id": 409,
+      "text": "[393] On Divinr Providence, disc. 4:4."
+    },
+    {
+      "id": 410,
+      "text": "[394] De Sententia Dionysii, 11."
+    },
+    {
+      "id": 411,
+      "text": "[395] Ep. 125: 11; 58:3."
+    },
+    {
+      "id": 412,
+      "text": "[396] In 1 Tim. hom., 9."
+    },
+    {
+      "id": 413,
+      "text": "[397] Ibid 5."
+    },
+    {
+      "id": 414,
+      "text": "[398] Against Marcion, 22."
+    },
+    {
+      "id": 415,
+      "text": "[399] In Eph., hom 8."
+    },
+    {
+      "id": 416,
+      "text": "[400] Comm. on Canticle, ser. 11."
+    },
+    {
+      "id": 417,
+      "text": "[401] Hom. on St. John. 26:1."
+    },
+    {
+      "id": 418,
+      "text": "[402] Adv. Haer. 4:33:13."
+    },
+    {
+      "id": 419,
+      "text": "[403] Sermon 101:3."
+    },
+    {
+      "id": 420,
+      "text": "[404] On Renouncation."
+    },
+    {
+      "id": 421,
+      "text": "[405] Stromata 7:12."
+    },
+    {
+      "id": 422,
+      "text": "[406] Sermon 102:3, 6."
+    },
+    {
+      "id": 423,
+      "text": "[407] Paed. 1:6."
+    },
+    {
+      "id": 424,
+      "text": "[408] Exhortation to the heathen, 11."
+    },
+    {
+      "id": 425,
+      "text": "[409] Sermon 75.2."
+    },
+    {
+      "id": 426,
+      "text": "[410] Stromata: 5:12."
+    },
+    {
+      "id": 427,
+      "text": "[411] De Principiis, pref. 1."
+    },
+    {
+      "id": 428,
+      "text": "[412] Ibid, 1:2:6."
+    },
+    {
+      "id": 429,
+      "text": "[413] Ep. 8:8."
+    },
+    {
+      "id": 430,
+      "text": "[414] On Ascetical Discipline."
+    },
+    {
+      "id": 431,
+      "text": "[415] Casssian: Conf. 23:17."
+    },
+    {
+      "id": 432,
+      "text": "[416] Comm. On Luke, Hom. 76"
+    },
+    {
+      "id": 433,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 434,
+      "text": "[417] Plumer, p. 267 ."
+    },
+    {
+      "id": 435,
+      "text": "[418] Leopold Sabourin: The Psalms , vol. 2, p. 226 ."
+    },
+    {
+      "id": 436,
+      "text": "[419] Leopold Sabourin, p. 226 ."
+    },
+    {
+      "id": 437,
+      "text": "[420] Boyd's Bible Handbook, p. 234-235 ."
+    },
+    {
+      "id": 438,
+      "text": "[421] Fr. Lazarius: The Psalter, p.20 ."
+    },
+    {
+      "id": 439,
+      "text": "[422] Vita S. Antoni, 39 ."
+    },
+    {
+      "id": 440,
+      "text": "[423] De Corona, 8 ."
+    },
+    {
+      "id": 441,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي ."
+    },
+    {
+      "id": 442,
+      "text": "[424] W. Plumer: The Psalms, p. 275."
+    },
+    {
+      "id": 443,
+      "text": "[425] L. Sabourin: The Psalms, vol. 2, p. 228."
+    },
+    {
+      "id": 444,
+      "text": "[426] The Collegeville Bible Comm., p. 759."
+    },
+    {
+      "id": 445,
+      "text": "[427] Scripture Union: Bible Study Books, The Psalms, p. 20."
+    },
+    {
+      "id": 446,
+      "text": "[428] Nelson: A New Comm. In the Holy Scripture, 1969, p. 449."
+    },
+    {
+      "id": 447,
+      "text": "[429] المؤلف: الحب الإلهي، ص 468. (دير السريان العامر: الآباء الحاذقون في العبادة، ج 1 )."
+    },
+    {
+      "id": 448,
+      "text": "[430] Paschal Ep. 4."
+    },
+    {
+      "id": 449,
+      "text": "[431] المؤلف: آباء مدرسة الإسكندرية الأولون، 1980، ص 194 ."
+    },
+    {
+      "id": 450,
+      "text": "[432] Plumer, p. 281."
+    },
+    {
+      "id": 451,
+      "text": "[433] In Ascensione PG 50."
+    },
+    {
+      "id": 452,
+      "text": "[434] PG 73: 885 A"
+    },
+    {
+      "id": 453,
+      "text": "[435] PG 75: 1088."
+    },
+    {
+      "id": 454,
+      "text": "[436] PG 70: 936-937."
+    },
+    {
+      "id": 455,
+      "text": "[437] L. Sabourin, vol. 2, p. 228."
+    },
+    {
+      "id": 456,
+      "text": "[438] Plumer, p. 279."
+    },
+    {
+      "id": 457,
+      "text": "[439] L. Sabourin, vol. 2, p. 228."
+    },
+    {
+      "id": 458,
+      "text": "[440] Sermon 142: 7."
+    },
+    {
+      "id": 459,
+      "text": "[441] Plumer, p. 281."
+    },
+    {
+      "id": 460,
+      "text": "[442] Collegeville Bible Commentary, p. 759."
+    },
+    {
+      "id": 461,
+      "text": "[443] A New Catholic Commentary, 1969, p. 449."
+    },
+    {
+      "id": 462,
+      "text": "[444] Weiser: The Psalms. 1962, p. 219."
+    },
+    {
+      "id": 463,
+      "text": "[445] Leopold Sabourin: The Psalms, 1971, v. 2, p. 19."
+    },
+    {
+      "id": 464,
+      "text": "[446] Stuhlmueller, p. 146."
+    },
+    {
+      "id": 465,
+      "text": "[447] Gaebelein, p. 103."
+    },
+    {
+      "id": 466,
+      "text": "[448] The Fourth Theological Oration, 5."
+    },
+    {
+      "id": 467,
+      "text": "[449] Of the Christian Faith, 2: 7: 56."
+    },
+    {
+      "id": 468,
+      "text": "[450] In Matt. Hom. 88."
+    },
+    {
+      "id": 469,
+      "text": "[451] On the Flesh of Christ. 15."
+    },
+    {
+      "id": 470,
+      "text": "[452] Against Anger."
+    },
+    {
+      "id": 471,
+      "text": "[453] Catech, Lect. 12: 25."
+    },
+    {
+      "id": 472,
+      "text": "[454] Comm.. on John, book 10: 20."
+    },
+    {
+      "id": 473,
+      "text": "[455] De Incarnatione Verbi Dei, 35."
+    },
+    {
+      "id": 474,
+      "text": "[456] Comm.. on Ysa., hom. 14: 53: 5."
+    },
+    {
+      "id": 475,
+      "text": "[457] See our book \"Christ in the Eucharist\", Alex., 1986, p. 8-14."
+    },
+    {
+      "id": 476,
+      "text": "[458] De Sententia Dionysii, 10."
+    },
+    {
+      "id": 477,
+      "text": "[459] A New Catholic Comm. P. 450."
+    },
+    {
+      "id": 478,
+      "text": "[460] Stromata 5:1."
+    },
+    {
+      "id": 479,
+      "text": "[461] See: Sabourin, The Psalms, Vol. 2, p. 99-100: Thecollegeville Bible Comm., p. 759."
+    },
+    {
+      "id": 480,
+      "text": "[462] R.E. Prothero:The Psalms in Human Life, 1904, p. 12."
+    },
+    {
+      "id": 481,
+      "text": "[463] Plumer, p. 308."
+    },
+    {
+      "id": 482,
+      "text": "[464] Prothero, p. 12."
+    },
+    {
+      "id": 483,
+      "text": "[465] De Myst. 5: 13."
+    },
+    {
+      "id": 484,
+      "text": "[466] Comm. on Canticle, Serm. 2."
+    },
+    {
+      "id": 485,
+      "text": "[467] Sel Ps. 144: 1."
+    },
+    {
+      "id": 486,
+      "text": "[468] In Gen. Hom 3: 2."
+    },
+    {
+      "id": 487,
+      "text": "[469] Contra Celsus 4: 74."
+    },
+    {
+      "id": 488,
+      "text": "[470] Pinc. 2: 11: 5."
+    },
+    {
+      "id": 489,
+      "text": "[471] Contra Celsus 8: 70."
+    },
+    {
+      "id": 490,
+      "text": "[472] PG 96: 692 B."
+    },
+    {
+      "id": 491,
+      "text": "[473] Of the Holy Spirit, 1: 16."
+    },
+    {
+      "id": 492,
+      "text": "[474] Anti-Nicene Frs., Vol. 9, p. 360."
+    },
+    {
+      "id": 493,
+      "text": "[475] Ibid."
+    },
+    {
+      "id": 494,
+      "text": "[476] Cf. Plumer, p. 318."
+    },
+    {
+      "id": 495,
+      "text": "[477] Adv. Haer. 5: 31: 2."
+    },
+    {
+      "id": 496,
+      "text": "[478] Anti-Nicene Frs., Vol. 9, p. 312."
+    },
+    {
+      "id": 497,
+      "text": "[479] Paed. 1: 7."
+    },
+    {
+      "id": 498,
+      "text": "[480] De Myst. 5: 3."
+    },
+    {
+      "id": 499,
+      "text": "[481] De Myst. 4: 7."
+    },
+    {
+      "id": 500,
+      "text": "[482] Boyld's Bible Handbook, p. 237."
+    },
+    {
+      "id": 501,
+      "text": "[483] Ep. 113: 11."
+    },
+    {
+      "id": 502,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا كامل العجمي."
+    },
+    {
+      "id": 503,
+      "text": "[484] Plumer, p. 320-1."
+    },
+    {
+      "id": 504,
+      "text": "[485] Ibid., 321."
+    },
+    {
+      "id": 505,
+      "text": "[486] Ibid."
+    },
+    {
+      "id": 506,
+      "text": "[487] Sabourin, Vol. 2, p. 328."
+    },
+    {
+      "id": 507,
+      "text": "[488] Stromata, 6: 17."
+    },
+    {
+      "id": 508,
+      "text": "[489] Adv. Haer. 4: 36-6."
+    },
+    {
+      "id": 509,
+      "text": "[490] Ep. 82-10."
+    },
+    {
+      "id": 510,
+      "text": "[491] Ep. 85-10."
+    },
+    {
+      "id": 511,
+      "text": "[492] Plumer, p. 328."
+    },
+    {
+      "id": 512,
+      "text": "[493] Stromata, 7-10."
+    },
+    {
+      "id": 513,
+      "text": "[494] Plumer, p. 324."
+    },
+    {
+      "id": 514,
+      "text": "[495] Four Discources against the Arians, 1: 41."
+    },
+    {
+      "id": 515,
+      "text": "[496] On Luke 10: 22."
+    },
+    {
+      "id": 516,
+      "text": "[497] De Incarnatione Verbi Dei, 25."
+    },
+    {
+      "id": 517,
+      "text": "[498] Adv, Haer. 4: 33: 13."
+    },
+    {
+      "id": 518,
+      "text": "[499] راجع: مقدمة سفر المزامير ."
+    },
+    {
+      "id": 519,
+      "text": "[500] Plumer, p. 329."
+    },
+    {
+      "id": 520,
+      "text": "[501] Matthew Henry, Ps. 25 ."
+    },
+    {
+      "id": 521,
+      "text": "[502] The Jerome Biblica; Comm., p. 580."
+    },
+    {
+      "id": 522,
+      "text": "[503] Sermon 227 (Frs. Of the Churcg, vol. 38, p. 195)."
+    },
+    {
+      "id": 523,
+      "text": "[504] Cassian: Cobf. 3: 13."
+    },
+    {
+      "id": 524,
+      "text": "[505] Stromata 6: 8."
+    },
+    {
+      "id": 525,
+      "text": "[506] Ibid."
+    },
+    {
+      "id": 526,
+      "text": "[507] Didache: The Prayer of the \"Sanctification of the Bread\"."
+    },
+    {
+      "id": 527,
+      "text": "[508] Prayer of Breakking the Bread."
+    },
+    {
+      "id": 528,
+      "text": "[509] Comm.. on Luke Hom. 77."
+    },
+    {
+      "id": 529,
+      "text": "[510] Ibid., Hom. 119."
+    },
+    {
+      "id": 530,
+      "text": "[511] How Much Honor Humility Possesses.."
+    },
+    {
+      "id": 531,
+      "text": "[512] On Humility."
+    },
+    {
+      "id": 532,
+      "text": "[513] S. Mowinckel: Psalmenstudien, Oslo 1921, vol. 1, p. 207."
+    },
+    {
+      "id": 533,
+      "text": "[514] L. Sabourin: The Psalms, v. 2, p. 26"
+    },
+    {
+      "id": 534,
+      "text": "[515] The Collegeville Bible Comm., p. 760."
+    },
+    {
+      "id": 535,
+      "text": "[516] Collegeville Bible Comm., p. 760."
+    },
+    {
+      "id": 536,
+      "text": "[517] Scripture Union: Bible Study Books, Psalms, p. 24."
+    },
+    {
+      "id": 537,
+      "text": "[518] Weiser, p. 243."
+    },
+    {
+      "id": 538,
+      "text": "[519] Plumer, p. 343."
+    },
+    {
+      "id": 539,
+      "text": "[520] Weser, p. 243."
+    },
+    {
+      "id": 540,
+      "text": "[521] Plumer, p. 343."
+    },
+    {
+      "id": 541,
+      "text": "[522] Cassian: Conf. 6: 11."
+    },
+    {
+      "id": 542,
+      "text": "[523] Plumer, p. 343."
+    },
+    {
+      "id": 543,
+      "text": "[524] M. Henry's Comm. In one volume , p. 603."
+    },
+    {
+      "id": 544,
+      "text": "[525] Plumer, p. 344-5."
+    },
+    {
+      "id": 545,
+      "text": "[526] Mystagogic 5: 2."
+    },
+    {
+      "id": 546,
+      "text": "[527] Lazarius: Thr Holy Psalter, p. 27."
+    },
+    {
+      "id": 547,
+      "text": "[528] Fr. Lazarius, p. 27."
+    },
+    {
+      "id": 548,
+      "text": "[529] Cassian: Conf. 24: 6."
+    },
+    {
+      "id": 549,
+      "text": "[530] In Exod. Hom. 9."
+    },
+    {
+      "id": 550,
+      "text": "[531] Weiser, p. 244."
+    },
+    {
+      "id": 551,
+      "text": "[532] Plumer, p. 346."
+    },
+    {
+      "id": 552,
+      "text": "[533] Concerning the Statues, 4: 11."
+    },
+    {
+      "id": 553,
+      "text": "[534] Plumer, p. 352."
+    },
+    {
+      "id": 554,
+      "text": "[535] Weiser, p. 247."
+    },
+    {
+      "id": 555,
+      "text": "[536] Comm.. on Luke, Hom. 105."
+    },
+    {
+      "id": 556,
+      "text": "[537] Sermon 105: 6."
+    },
+    {
+      "id": 557,
+      "text": "[538] In 2 Cor. Hom. 1."
+    },
+    {
+      "id": 558,
+      "text": "[539] Plumer, p. 353."
+    },
+    {
+      "id": 559,
+      "text": "[540] Plumer, p. 354."
+    },
+    {
+      "id": 560,
+      "text": "[541] Weiser, p. 248."
+    },
+    {
+      "id": 561,
+      "text": "[542] Ep. 130: 19."
+    },
+    {
+      "id": 562,
+      "text": "[543] On Ps 52 =16."
+    },
+    {
+      "id": 563,
+      "text": "[544] Weiser, p. 251."
+    },
+    {
+      "id": 564,
+      "text": "[545] Plumer, p. 357."
+    },
+    {
+      "id": 565,
+      "text": "[546] The Beatitudes, serm. 2."
+    },
+    {
+      "id": 566,
+      "text": "[547] Sermon 81: 1."
+    },
+    {
+      "id": 567,
+      "text": "[548] Sermon 216: 5."
+    },
+    {
+      "id": 568,
+      "text": "[549] Death as a Good, 12; 55."
+    },
+    {
+      "id": 569,
+      "text": "اشترك في لترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 570,
+      "text": "[550] Nelson: A New Catholic Commentary on Holy Scripture, 1969, p. 451."
+    },
+    {
+      "id": 571,
+      "text": "[551] Leon Sabourin, vol. 2, p. 28."
+    },
+    {
+      "id": 572,
+      "text": "[552] Plumer, p. 364."
+    },
+    {
+      "id": 573,
+      "text": "[553] In John Hom. 57: 3."
+    },
+    {
+      "id": 574,
+      "text": "[554] يوحنا السُلمي: السلم إلى الله - تعريب رهبنة دير مارجرجس الحرف، مقال 24: 15، 16، 19، 27."
+    },
+    {
+      "id": 575,
+      "text": "[555] The Ascetic Homilies, 3."
+    },
+    {
+      "id": 576,
+      "text": "[556] Scripture Union: Bible Study Books, The Psalms, p. 26."
+    },
+    {
+      "id": 577,
+      "text": "[557] The ascetical Homilies, 8."
+    },
+    {
+      "id": 578,
+      "text": "[558] Jerome Biblical Commentary, p. 580."
+    },
+    {
+      "id": 579,
+      "text": "[559] Tract \"Sopherim\"."
+    },
+    {
+      "id": 580,
+      "text": "[560] القمص بيشوي كامل: تأملات في المزامير لآباء الكنيسة القديسين، مز 29."
+    },
+    {
+      "id": 581,
+      "text": "[561] تفسير المزامير لأنثيموس أسقف أورشليم، مز 28."
+    },
+    {
+      "id": 582,
+      "text": "[562] المرجع السابق."
+    },
+    {
+      "id": 583,
+      "text": "[563] Hom. 89 for Epiphany."
+    },
+    {
+      "id": 584,
+      "text": "[564] تفسير المزامير لأنثيموس أسقف أورشليم، مز 28."
+    },
+    {
+      "id": 585,
+      "text": "[565] Discourse on the Holy Theophany, 7."
+    },
+    {
+      "id": 586,
+      "text": "[566] Hom. 89 for Epiphany."
+    },
+    {
+      "id": 587,
+      "text": "[567] Ad. Eunom. 5."
+    },
+    {
+      "id": 588,
+      "text": "[568] In Lucam 22:8."
+    },
+    {
+      "id": 589,
+      "text": "[569] Hom. 89 for Epiphany."
+    },
+    {
+      "id": 590,
+      "text": "[570] الدرر الثمين في إيضاح الدين، 1952، ص 121."
+    },
+    {
+      "id": 591,
+      "text": "[571] المؤلف: اللّه مقدسي، ص 52."
+    },
+    {
+      "id": 592,
+      "text": "[572] The patriarchs, 11:56."
+    },
+    {
+      "id": 593,
+      "text": "[573] On Ps. 28, no. 6."
+    },
+    {
+      "id": 594,
+      "text": "[574] Hom. 89 for Epiphany."
+    },
+    {
+      "id": 595,
+      "text": "[575] Stuhlmueller, p. 175."
+    },
+    {
+      "id": 596,
+      "text": "[576] Ibid."
+    },
+    {
+      "id": 597,
+      "text": "[577] Onesimus of Jerusalem: Commentary on Psalms."
+    },
+    {
+      "id": 598,
+      "text": "[578] W. S. Plumer: psalms, p. 376."
+    },
+    {
+      "id": 599,
+      "text": "[579] Ibid."
+    },
+    {
+      "id": 600,
+      "text": "[580] On Prayer, 24: 5."
+    },
+    {
+      "id": 601,
+      "text": "[581] Weiser, p. 269-270."
+    },
+    {
+      "id": 602,
+      "text": "[582] Plumer. P. 379."
+    },
+    {
+      "id": 603,
+      "text": "[583] Erling C. Olsen: Meditation in the Book of Psalms,. N. J., 1967, p. 218."
+    },
+    {
+      "id": 604,
+      "text": "[584] In Acts hom. 16."
+    },
+    {
+      "id": 605,
+      "text": "[585] Fr. Lazarus: The Holy Psalter, 1966, p. 31."
+    },
+    {
+      "id": 606,
+      "text": "[586] Comm. On an Easter Hymn."
+    },
+    {
+      "id": 607,
+      "text": "[587] Paschal letters, 6: 4."
+    },
+    {
+      "id": 608,
+      "text": "[588] Pfeiffer and Harrison: The Wycliffe Bible Commentary, 1966, ps. 30."
+    },
+    {
+      "id": 609,
+      "text": "[589] Weiser, p. 272."
+    },
+    {
+      "id": 610,
+      "text": "[590] In Rom. Hom. 19."
+    },
+    {
+      "id": 611,
+      "text": "[591] Concerning Repentance, 1: 5 ."
+    },
+    {
+      "id": 612,
+      "text": "[592] Letter 20: 21."
+    },
+    {
+      "id": 613,
+      "text": "[593] Claude Peifer: The Bible Today, April 1974."
+    },
+    {
+      "id": 614,
+      "text": "[594] Weiser: The Psalms, p. 275."
+    },
+    {
+      "id": 615,
+      "text": "[595] Plumer: The Psalms, p. 385."
+    },
+    {
+      "id": 616,
+      "text": "[596] Wycliffe Bible Commentary, Ps. 31."
+    },
+    {
+      "id": 617,
+      "text": "[597] Plumer, p. 385."
+    },
+    {
+      "id": 618,
+      "text": "[598] The Ascetic Homilies, 5."
+    },
+    {
+      "id": 619,
+      "text": "[599] Two centuries on Spiritual Law, 2."
+    },
+    {
+      "id": 620,
+      "text": "[600] Weiser, p. 276."
+    },
+    {
+      "id": 621,
+      "text": "[601] The Ascetic Homilies, 5."
+    },
+    {
+      "id": 622,
+      "text": "[602] Two centuries on Spiritual Law, 4."
+    },
+    {
+      "id": 623,
+      "text": "[603] Weiser, p. 276."
+    },
+    {
+      "id": 624,
+      "text": "[604] The Ascetic Homilies, 62."
+    },
+    {
+      "id": 625,
+      "text": "[605] The Ascetic Homilies, 57."
+    },
+    {
+      "id": 626,
+      "text": "[606] The Ascetic Homilies, 15."
+    },
+    {
+      "id": 627,
+      "text": "[607] Institutes, 8: 1."
+    },
+    {
+      "id": 628,
+      "text": "[608] St. John Chrysostom: Acts of the Apostles, hom 50."
+    },
+    {
+      "id": 629,
+      "text": "[609] Ibid, 15."
+    },
+    {
+      "id": 630,
+      "text": "[610] Of the Christian Faith, 5: 108, 109."
+    },
+    {
+      "id": 631,
+      "text": "[611] The Ascetic Homilies, 5."
+    },
+    {
+      "id": 632,
+      "text": "[612] 153- texts on Prayer (attributed to St. Nilus of Sinai), 113."
+    },
+    {
+      "id": 633,
+      "text": "[613] The ascetic Homilies, 48."
+    },
+    {
+      "id": 634,
+      "text": "[614] The Ascetic Homilies, 51."
+    },
+    {
+      "id": 635,
+      "text": "[615] The Ascetic Homilies, 1:1, 10."
+    },
+    {
+      "id": 636,
+      "text": "[616] Plumer, p. 398."
+    },
+    {
+      "id": 637,
+      "text": "[617] Baptismal Instructions, 1: 25; 2: 26 (ACW)."
+    },
+    {
+      "id": 638,
+      "text": "[618] See Ancient Christian Writers, No. 31. p. 228."
+    },
+    {
+      "id": 639,
+      "text": "[619] Sermon 38: 1."
+    },
+    {
+      "id": 640,
+      "text": "[620] Dial. With Trypho, 141."
+    },
+    {
+      "id": 641,
+      "text": "[621] First Epistle, 50."
+    },
+    {
+      "id": 642,
+      "text": "[622] Scorpiace, 6."
+    },
+    {
+      "id": 643,
+      "text": "[623] Adv. Haer. 5: 17: 2."
+    },
+    {
+      "id": 644,
+      "text": "[624] Comm.. on Luke, Hom. 120."
+    },
+    {
+      "id": 645,
+      "text": "[625] Hom. On St. John 7: 1."
+    },
+    {
+      "id": 646,
+      "text": "[626] Cassian: Conf. 2: 10."
+    },
+    {
+      "id": 647,
+      "text": "[627] In Hebr. Hom. 10: 3."
+    },
+    {
+      "id": 648,
+      "text": "[628] The auther: The Pastoral Love (in Arabic), p. 270-1."
+    },
+    {
+      "id": 649,
+      "text": "[629] Comm.. on John, hom 17."
+    },
+    {
+      "id": 650,
+      "text": "[630] That demons do not govern the world, 2: 5."
+    },
+    {
+      "id": 651,
+      "text": "[631] Jacob and the Happy Life, 1: 6: 21."
+    },
+    {
+      "id": 652,
+      "text": "[632] Comm.. on Luke, Hom. 45."
+    },
+    {
+      "id": 653,
+      "text": "[633] Sermon 120: 3."
+    },
+    {
+      "id": 654,
+      "text": "[634] Cf. Sthlumeller: The Psalms, p. 187 ."
+    },
+    {
+      "id": 655,
+      "text": "[635] Plumer, p. 407 ."
+    },
+    {
+      "id": 656,
+      "text": "[636] Plumer, p. 412 ."
+    },
+    {
+      "id": 657,
+      "text": "[637] Paed. 2:2 ."
+    },
+    {
+      "id": 658,
+      "text": "[638] On Ps. 32. no. 3 ."
+    },
+    {
+      "id": 659,
+      "text": "[639] The Long Rules ."
+    },
+    {
+      "id": 660,
+      "text": "[640] On the Spirit, 16 ."
+    },
+    {
+      "id": 661,
+      "text": "[641] Four Discourses against the Arians, 2. 31 ."
+    },
+    {
+      "id": 662,
+      "text": "[642] Contra Gentes, 46 ."
+    },
+    {
+      "id": 663,
+      "text": "[643] Of the Holy Spirit, 3:83 ."
+    },
+    {
+      "id": 664,
+      "text": "[644] Of the Holy Spirit, 1:52 ."
+    },
+    {
+      "id": 665,
+      "text": "[645] Adv. Haer. 1:22: 1 ."
+    },
+    {
+      "id": 666,
+      "text": "[646] Adv. Haer. 3: 8: 3 ."
+    },
+    {
+      "id": 667,
+      "text": "[647] Ep. 8:11 ."
+    },
+    {
+      "id": 668,
+      "text": "[648] Fr. Lazarus, p. 36 ."
+    },
+    {
+      "id": 669,
+      "text": "Fr. Malaty: God, My Sanctifier, p. 48 (in Arabic)."
+    },
+    {
+      "id": 670,
+      "text": "[649] Against Heresies, 2: 2: 5 ."
+    },
+    {
+      "id": 671,
+      "text": "[650] Weiser, p. 292 ."
+    },
+    {
+      "id": 672,
+      "text": "[651] Fr. Malaty: 1 Sameul, 1988, p.150 (in Arabic) ."
+    },
+    {
+      "id": 673,
+      "text": "[652] Ibid, p. 188 ."
+    },
+    {
+      "id": 674,
+      "text": "[653] Stuhlmeuller, p. 193 ."
+    },
+    {
+      "id": 675,
+      "text": "[654] Paschal Letters, 5: 3 ."
+    },
+    {
+      "id": 676,
+      "text": "[655] Sermon 80: 3 ."
+    },
+    {
+      "id": 677,
+      "text": "[656] Ibid 166: 4 ."
+    },
+    {
+      "id": 678,
+      "text": "[657] Theological Oration 27: 32: 8"
+    },
+    {
+      "id": 679,
+      "text": "[658] Sermon 137: 2 ."
+    },
+    {
+      "id": 680,
+      "text": "[659] Ep. 22: 25 ."
+    },
+    {
+      "id": 681,
+      "text": "[660] Plumer, p. 425 ."
+    },
+    {
+      "id": 682,
+      "text": "[661] Haexaemeron 5: 6 ."
+    },
+    {
+      "id": 683,
+      "text": "[662] Comm. in Cant. 1 ."
+    },
+    {
+      "id": 684,
+      "text": "[663] Ibid 2 ."
+    },
+    {
+      "id": 685,
+      "text": "[664] In Ez., hom. 1: 7 ."
+    },
+    {
+      "id": 686,
+      "text": "[665] Fr. Malaty: Church, House of God, p. 332 ."
+    },
+    {
+      "id": 687,
+      "text": "[666] Comm. on Cant., sem. 8 ."
+    },
+    {
+      "id": 688,
+      "text": "[667] The beatitude, serm. 4 ."
+    },
+    {
+      "id": 689,
+      "text": "[668] Sermon 167: 1 ."
+    },
+    {
+      "id": 690,
+      "text": "[669] Ep. 133: 6 ."
+    },
+    {
+      "id": 691,
+      "text": "[670] Comm. on Cant., serm. 8 ."
+    },
+    {
+      "id": 692,
+      "text": "[671] On the Fear of God ."
+    },
+    {
+      "id": 693,
+      "text": "[672] Cassian. Conf. 3: 9 ."
+    },
+    {
+      "id": 694,
+      "text": "[673] In John. hom 58: 5 ."
+    },
+    {
+      "id": 695,
+      "text": "[674] In Hebr. hom 8: 10 ."
+    },
+    {
+      "id": 696,
+      "text": "[675] Stromata 7: 13 ."
+    },
+    {
+      "id": 697,
+      "text": "[676] In Hebr. 1: 4 ."
+    },
+    {
+      "id": 698,
+      "text": "[677] Duties of the Clergy 1: 21: 91 ."
+    },
+    {
+      "id": 699,
+      "text": "[678] On the Fear of God"
+    },
+    {
+      "id": 700,
+      "text": "[679] Stromata 7: 13 ."
+    },
+    {
+      "id": 701,
+      "text": "[680] Treat. 1: 24 ."
+    },
+    {
+      "id": 702,
+      "text": "[681] Ep. 150: 2 ."
+    },
+    {
+      "id": 703,
+      "text": "[682] Six Treatis on the Behaviour of Excellence ."
+    },
+    {
+      "id": 704,
+      "text": "[683] Paed. 3: 12 ."
+    },
+    {
+      "id": 705,
+      "text": "[684] Plumer, p. 4 ."
+    },
+    {
+      "id": 706,
+      "text": "[685] Duties of the Clergy 2: 17: 90 ."
+    },
+    {
+      "id": 707,
+      "text": "[686] Ad Rom. 5 ."
+    },
+    {
+      "id": 708,
+      "text": "[687] Ad Ephes 5: 2; Tral. 7: 2; Philad. 4 ."
+    },
+    {
+      "id": 709,
+      "text": "[688] Concerning the Statues 5: 2 ."
+    },
+    {
+      "id": 710,
+      "text": "[689] Paschal Epistles 7: 2 ."
+    },
+    {
+      "id": 711,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل جرجس كامل يوسف والدكتور نورا العجمي."
+    },
+    {
+      "id": 712,
+      "text": "[690] القس أغسطينوس البراموسي: مار اسحق السرياني، 1990، ص 70."
+    },
+    {
+      "id": 713,
+      "text": "[691] In Paralyt. PG 51: 51 ."
+    },
+    {
+      "id": 714,
+      "text": "[692] In Act. PG 60: 124 ."
+    },
+    {
+      "id": 715,
+      "text": "[693] Comm. on Luke , hom. 135 ."
+    },
+    {
+      "id": 716,
+      "text": "[694] The Lord's Prayer, sermon 1 ."
+    },
+    {
+      "id": 717,
+      "text": "[695] Paschal Letters 6: 7 ."
+    },
+    {
+      "id": 718,
+      "text": "[696] Plumer, p. 432 ."
+    },
+    {
+      "id": 719,
+      "text": "[697] Paschal Letters 2. 7 ."
+    },
+    {
+      "id": 720,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا العجمي."
+    },
+    {
+      "id": 721,
+      "text": "[698] Plumer, p. 439 ."
+    },
+    {
+      "id": 722,
+      "text": "[699] Ep. Against Jovinianus 1 : 13 ."
+    },
+    {
+      "id": 723,
+      "text": "[700] Sermon 25 : 1 ."
+    },
+    {
+      "id": 724,
+      "text": "[701] Stromata 5 : 14 ."
+    },
+    {
+      "id": 725,
+      "text": "[702] Hom. 88 on the Nativity of the Lord ."
+    },
+    {
+      "id": 726,
+      "text": "[703] Sermon 233 : 1,2 ."
+    },
+    {
+      "id": 727,
+      "text": "[704] On Ps 36 ."
+    },
+    {
+      "id": 728,
+      "text": "[705] Sermon 255 : 5 ."
+    },
+    {
+      "id": 729,
+      "text": "[706] Sermon 170 : 3 ."
+    },
+    {
+      "id": 730,
+      "text": "[707] Comm. on Canticle, sermon 10 ."
+    },
+    {
+      "id": 731,
+      "text": "[708] Comm. on Luke, hom. 72 ."
+    },
+    {
+      "id": 732,
+      "text": "[709] On the Spirit 18 ."
+    },
+    {
+      "id": 733,
+      "text": "[710] Book of Perfection, 50 ."
+    },
+    {
+      "id": 734,
+      "text": "[711] Of the Holy Spirit, 1 : 162, 163 ."
+    },
+    {
+      "id": 735,
+      "text": "[712] Sermon 225 : 4 ."
+    },
+    {
+      "id": 736,
+      "text": "[713] Sermon 216 : 10 ."
+    },
+    {
+      "id": 737,
+      "text": "[714] In 1 Cor., hom. 15 ."
+    },
+    {
+      "id": 738,
+      "text": "[715] Plumer, p. 448 ."
+    },
+    {
+      "id": 739,
+      "text": "[716] In John, hom. 22 : 3 ."
+    },
+    {
+      "id": 740,
+      "text": "[717] Duties of the Clergy 1 : 31 ."
+    },
+    {
+      "id": 741,
+      "text": "[718] Plumer, p. 450 ."
+    },
+    {
+      "id": 742,
+      "text": "[719] Joseph 10 : 52 ."
+    },
+    {
+      "id": 743,
+      "text": "[720] Isaac or the Soul 4 : 14 ."
+    },
+    {
+      "id": 744,
+      "text": "[721] In Matt., hom. 15 : 5 ."
+    },
+    {
+      "id": 745,
+      "text": "[722] Paschal Letters 11 : 4 ."
+    },
+    {
+      "id": 746,
+      "text": "[723] On Vigilance and Sobriety ."
+    },
+    {
+      "id": 747,
+      "text": "[724] In 1 Cor. hom 39 ."
+    },
+    {
+      "id": 748,
+      "text": "[725] Plumer, p. 453 ."
+    },
+    {
+      "id": 749,
+      "text": "[726] Treatise 4 : 21 ."
+    },
+    {
+      "id": 750,
+      "text": "[727] Prayer of Reconciliation ."
+    },
+    {
+      "id": 751,
+      "text": "[728] Duties of the Clergy 1 : 36 : 185 ."
+    },
+    {
+      "id": 752,
+      "text": "[729] Treatise 8 : 19 on Almsgiving ."
+    },
+    {
+      "id": 753,
+      "text": "[730] I bid 8 : 18 ."
+    },
+    {
+      "id": 754,
+      "text": "[731] On the Fear of Punishment."
+    },
+    {
+      "id": 755,
+      "text": "[732] Plumer, p. 456-7 ."
+    },
+    {
+      "id": 756,
+      "text": "[733] Ep. 54 : 3 (Oxford 49 (."
+    },
+    {
+      "id": 757,
+      "text": "[734] Flight from the world 5 : 25 ."
+    },
+    {
+      "id": 758,
+      "text": "[735] Select Demonstration 5 : 2 ."
+    },
+    {
+      "id": 759,
+      "text": "[736] Weiser: The Psalms, p. 325."
+    },
+    {
+      "id": 760,
+      "text": "[737] The Collegville Bible Comm., p. 762."
+    },
+    {
+      "id": 761,
+      "text": "[738] Leopold Sabourin: The Psalms, vol 2, p. 40."
+    },
+    {
+      "id": 762,
+      "text": "[739] In Hebr. Hom. 31: 6."
+    },
+    {
+      "id": 763,
+      "text": "[740] The Gospel of St. Matthew, hom. 38: 3."
+    },
+    {
+      "id": 764,
+      "text": "[741] Plumer, p. 463."
+    },
+    {
+      "id": 765,
+      "text": "[742] Hom. On St. John 73: 3."
+    },
+    {
+      "id": 766,
+      "text": "[743] Baptismal Instructuon 6: 22 (ACW)."
+    },
+    {
+      "id": 767,
+      "text": "[744] IN John hom. 42: 2, 4."
+    },
+    {
+      "id": 768,
+      "text": "[745] In 1 Tim. Hom., 2."
+    },
+    {
+      "id": 769,
+      "text": "[746] Cassian: Conference 3: 8."
+    },
+    {
+      "id": 770,
+      "text": "[747] Hom. On Songs 1: 2."
+    },
+    {
+      "id": 771,
+      "text": "[748] Ibid 2: 2."
+    },
+    {
+      "id": 772,
+      "text": "[749] Selected Sermons (Frs. Of the Church), 3."
+    },
+    {
+      "id": 773,
+      "text": "[750] In John, hom. 41: 1."
+    },
+    {
+      "id": 774,
+      "text": "[751] Sermon 72: 2."
+    },
+    {
+      "id": 775,
+      "text": "[752] Sermon 189: 3 (see Sermos 197: 3)."
+    },
+    {
+      "id": 776,
+      "text": "[753] Plumer, p. 465."
+    },
+    {
+      "id": 777,
+      "text": "[754] Duties of the Clergy, 1: 10 ."
+    },
+    {
+      "id": 778,
+      "text": "[755] Vita S. Antoni, 39."
+    },
+    {
+      "id": 779,
+      "text": "[756] Institutes, 4: 41."
+    },
+    {
+      "id": 780,
+      "text": "[757] Cassian: Conf. 20: 7."
+    },
+    {
+      "id": 781,
+      "text": "[758] On Ps. 37 ; hom. 2: 6."
+    },
+    {
+      "id": 782,
+      "text": "[759] Plumer, p. 466, 469."
+    },
+    {
+      "id": 783,
+      "text": "[760] Plumer, p. 470."
+    },
+    {
+      "id": 784,
+      "text": "[761] Strong's Exhaustive Concordance of the Bible; art 3038."
+    },
+    {
+      "id": 785,
+      "text": "[762] Duties of the Clergy 3: 1: 1."
+    },
+    {
+      "id": 786,
+      "text": "[763] Sermon 238: 2."
+    },
+    {
+      "id": 787,
+      "text": "[764] Duties of the Clergy, 1. 6 ; 1: 5 ."
+    },
+    {
+      "id": 788,
+      "text": "[765] Plumer, p. 471, 474."
+    },
+    {
+      "id": 789,
+      "text": "[766] Duties of the Clergy 1: 48: 247."
+    },
+    {
+      "id": 790,
+      "text": "[767] Ep. 144: 8."
+    },
+    {
+      "id": 791,
+      "text": "[768] In 2 Cor. Hom. 29."
+    },
+    {
+      "id": 792,
+      "text": "[769] Hom. On Eph. Hom. 12."
+    },
+    {
+      "id": 793,
+      "text": "[770] In John Hom. 65: 3."
+    },
+    {
+      "id": 794,
+      "text": "[771] In Hebr. 24: 4; 24: 7."
+    },
+    {
+      "id": 795,
+      "text": "[772] The Gospel of St. Matt., hom 64: 5."
+    },
+    {
+      "id": 796,
+      "text": "[773] Death as a Good, 2: 5."
+    },
+    {
+      "id": 797,
+      "text": "[774] In 2 Tim., hom. 9."
+    },
+    {
+      "id": 798,
+      "text": "[775] Comm.. on Canticle, sermon 11."
+    },
+    {
+      "id": 799,
+      "text": "[776] Flight from the world 1: 4."
+    },
+    {
+      "id": 800,
+      "text": "[777] قداسة البابا شنودة: تأملات في الصلاة الربانية (الكرازة 22) فبراير 1991، ص 14، 15."
+    },
+    {
+      "id": 801,
+      "text": "[778] Sermon 251: 2."
+    },
+    {
+      "id": 802,
+      "text": "[779] Sermon 253."
+    },
+    {
+      "id": 803,
+      "text": "[780] Adv. Haer. 4: 17: 1."
+    },
+    {
+      "id": 804,
+      "text": "[781] Comm.. on Luke, hom. 96."
+    },
+    {
+      "id": 805,
+      "text": "[782] Ibid 64."
+    },
+    {
+      "id": 806,
+      "text": "[783] On Ps 53 ± 12."
+    },
+    {
+      "id": 807,
+      "text": "[784] St. Cassian: Conf. 10: 11."
+    },
+    {
+      "id": 808,
+      "text": "[785] Plumer, p. 486."
+    },
+    {
+      "id": 809,
+      "text": "[786] المؤلف: الحب الأخوي، 1964، ص 177، 178."
+    },
+    {
+      "id": 810,
+      "text": "[787] القمص بيشوي كامل: تأملات في المزامير، 1982، ص 355."
+    },
+    {
+      "id": 811,
+      "text": "[788] الحب الأخوي، ص 150."
+    },
+    {
+      "id": 812,
+      "text": "[789] المرجع السابق، ص 150-153."
+    },
+    {
+      "id": 813,
+      "text": "[790] Treatise 8: 5."
+    },
+    {
+      "id": 814,
+      "text": "[791] الحب الأخوي، ص 164."
+    },
+    {
+      "id": 815,
+      "text": "[792] المرجع السابق، ص 168."
+    },
+    {
+      "id": 816,
+      "text": "[793] المرجع السابق، ص 160."
+    },
+    {
+      "id": 817,
+      "text": "[794] Sermon 59: 5."
+    },
+    {
+      "id": 818,
+      "text": "[795] راجع ص ."
+    },
+    {
+      "id": 819,
+      "text": "[796] راجع ص ."
+    },
+    {
+      "id": 820,
+      "text": "[797] John L. Mckenzie: Dictionary of the Bible, 1972, p. 488."
+    },
+    {
+      "id": 821,
+      "text": "[798] On Ps. 42"
+    },
+    {
+      "id": 822,
+      "text": "[799] راجع ص ."
+    },
+    {
+      "id": 823,
+      "text": "[800] Kidner, p. 165."
+    },
+    {
+      "id": 824,
+      "text": "[801] Isaac or the, Soul, 1: 1."
+    },
+    {
+      "id": 825,
+      "text": "[802] In Ps. Hom. 92."
+    },
+    {
+      "id": 826,
+      "text": "[803] Flight from the World 9: 52."
+    },
+    {
+      "id": 827,
+      "text": "[804] Sermon 256: 1."
+    },
+    {
+      "id": 828,
+      "text": "[805] Sermon 103: 2."
+    },
+    {
+      "id": 829,
+      "text": "[806] Hom. 19."
+    },
+    {
+      "id": 830,
+      "text": "[807] Hom. 92"
+    },
+    {
+      "id": 831,
+      "text": "[808] The Long Rules."
+    },
+    {
+      "id": 832,
+      "text": "[809] The prayer of Job and David 1: 3."
+    },
+    {
+      "id": 833,
+      "text": "[810] In Hebr. Hom 26: 7."
+    },
+    {
+      "id": 834,
+      "text": "[811] Comm.. on Song of Songs, prologue 4."
+    },
+    {
+      "id": 835,
+      "text": "[812] In Ps. Hom. 92."
+    },
+    {
+      "id": 836,
+      "text": "[813] راجع: تفسير المزامير لأنثيموس أسقف أورشليم، الناشر: الراهب القس صموائيل السرياني، 1988، ص 172."
+    },
+    {
+      "id": 837,
+      "text": "[814] المرجع السابق."
+    },
+    {
+      "id": 838,
+      "text": "[815] Plumer: The Psalms, p. 503."
+    },
+    {
+      "id": 839,
+      "text": "[816] M. Henery: Ps. 43."
+    },
+    {
+      "id": 840,
+      "text": "[817] Against Celsus 8: 17."
+    },
+    {
+      "id": 841,
+      "text": "[818] Sermon on the Mount 10: 72."
+    },
+    {
+      "id": 842,
+      "text": "[819] Stromata 7."
+    },
+    {
+      "id": 843,
+      "text": "[820] Ephes. 5: 2; Tral. 7: 2; Philad. 4."
+    },
+    {
+      "id": 844,
+      "text": "[821] City of God 10: 6: 23 Serm. 829, 2: 2 to the Newly-baptized."
+    },
+    {
+      "id": 845,
+      "text": "[822] In 1 Cor. Hom., 2: 2."
+    },
+    {
+      "id": 846,
+      "text": "[823] Eusebius 3; 39: 11-3."
+    },
+    {
+      "id": 847,
+      "text": "[824] أنثيموس أسقف أورشليم؛ المزامير، مز 43."
+    },
+    {
+      "id": 848,
+      "text": "[825] راجع للمؤلف: إشعياء: 1990 ، ص 134-135."
+    },
+    {
+      "id": 849,
+      "text": "[826] للاستفاضة راجع كتابنا: الله ، إسكندرية 1991."
+    },
+    {
+      "id": 850,
+      "text": "[827] Sermon 88: 4."
+    },
+    {
+      "id": 851,
+      "text": "[828] راجع تفسيرنا: عوبديا ."
+    },
+    {
+      "id": 852,
+      "text": "[829] Paschal Letters 11: 12."
+    },
+    {
+      "id": 853,
+      "text": "[830] His dialogue with Tarajan."
+    },
+    {
+      "id": 854,
+      "text": "[831] Rom 5."
+    },
+    {
+      "id": 855,
+      "text": "[832] Rom 6."
+    },
+    {
+      "id": 856,
+      "text": "[833] In John. Hom 82: 1."
+    },
+    {
+      "id": 857,
+      "text": "[834] Comm.. on an Easter Hymn."
+    },
+    {
+      "id": 858,
+      "text": "[835] On the Incomprehensible Nature of God, hom. 8: 5."
+    },
+    {
+      "id": 859,
+      "text": "[836] Ep. 108: 3."
+    },
+    {
+      "id": 860,
+      "text": "[837] للمؤلف: إنجيل متى ، ص 204."
+    },
+    {
+      "id": 861,
+      "text": "[838] المرجع السابق ، ص 205."
+    },
+    {
+      "id": 862,
+      "text": "[839] See Plumer: The Psalms, p. 513."
+    },
+    {
+      "id": 863,
+      "text": "[840] راجع كتابنا: الروح الناري، 1992، الفصل 8."
+    },
+    {
+      "id": 864,
+      "text": "[841] Four Discourses against the Arians, 4: 26."
+    },
+    {
+      "id": 865,
+      "text": "[842] Ibid 2: 24."
+    },
+    {
+      "id": 866,
+      "text": "[843] أنظر ص ."
+    },
+    {
+      "id": 867,
+      "text": "[844] The Faith 4: 10: 132."
+    },
+    {
+      "id": 868,
+      "text": "[845] Against Praxeas 7: 1."
+    },
+    {
+      "id": 869,
+      "text": "[846] Ibid, 7."
+    },
+    {
+      "id": 870,
+      "text": "[847] Ibid, 11."
+    },
+    {
+      "id": 871,
+      "text": "[848] Defence of the Nicene Definition, 5: 21; See: Four Disc. Against Arians, 2: 21 ; On the Opinino of Dionysius, 23."
+    },
+    {
+      "id": 872,
+      "text": "[849] Baptismal Instructions 3: 21 (A C W)."
+    },
+    {
+      "id": 873,
+      "text": "[850] In De Stat. 4. PG 49: 46 D 67A."
+    },
+    {
+      "id": 874,
+      "text": "[851] IN Matt. Hom. 79 (PG. 58: 715 A-B)."
+    },
+    {
+      "id": 875,
+      "text": "[852] FR. Lazarus: The Psalms, p. 53."
+    },
+    {
+      "id": 876,
+      "text": "[853] Sermon 254: 5."
+    },
+    {
+      "id": 877,
+      "text": "[854] Ibid 195: 2."
+    },
+    {
+      "id": 878,
+      "text": "[855] Exp. In Ps. 44."
+    },
+    {
+      "id": 879,
+      "text": "[856] In Matt. 1: 8."
+    },
+    {
+      "id": 880,
+      "text": "[857] Sermon 85: 5."
+    },
+    {
+      "id": 881,
+      "text": "[858] نقلًا عن الأب أنثيموس أسقف أورشليم: تفسير المزامير مز 44."
+    },
+    {
+      "id": 882,
+      "text": "[859] Comm.. on Songs, 1: 3."
+    },
+    {
+      "id": 883,
+      "text": "[860] On Ps. 44; no, 2."
+    },
+    {
+      "id": 884,
+      "text": "[861] Sermon 254: 5."
+    },
+    {
+      "id": 885,
+      "text": "[862] The Patriarchs 11: 55."
+    },
+    {
+      "id": 886,
+      "text": "[863] راجع الأب أنثيموس أسقف أورشليم ."
+    },
+    {
+      "id": 887,
+      "text": "[864] An answer to the Jwes, 9."
+    },
+    {
+      "id": 888,
+      "text": "[865] Four Discourses against the Arians 2: 15 ."
+    },
+    {
+      "id": 889,
+      "text": "[866] Of the Holy Spirit, 1: 80."
+    },
+    {
+      "id": 890,
+      "text": "[867] Dia;. With Tepho, 86."
+    },
+    {
+      "id": 891,
+      "text": "[868] Orthodox Faith, 4: 9."
+    },
+    {
+      "id": 892,
+      "text": "[869] Orthodox Faith, 4: 9. (See also St. Athanasius, Against Apollinaris 2: 1-2. PG 26: 1133 B.)."
+    },
+    {
+      "id": 893,
+      "text": "[870] The Divine Institutes, 4: 13."
+    },
+    {
+      "id": 894,
+      "text": "[871] Four Discourses against the Arians, 1: 12."
+    },
+    {
+      "id": 895,
+      "text": "[872] Of the Holy Spirit, 1: 101."
+    },
+    {
+      "id": 896,
+      "text": "[873] John:. McKenzie: Dict. Of the Bible, 1972, p. 21."
+    },
+    {
+      "id": 897,
+      "text": "[874] Exp. In ps. 44 Pg. 55: 199 D."
+    },
+    {
+      "id": 898,
+      "text": "[875] Comm.. on Songs 2: 10."
+    },
+    {
+      "id": 899,
+      "text": "[876] Joseph, 9: 46."
+    },
+    {
+      "id": 900,
+      "text": "[877] Four Discourses against the Arians, 2: 12 ."
+    },
+    {
+      "id": 901,
+      "text": "[878] Baptismal Instructions 11: 7 (See ACW, p. 161)."
+    },
+    {
+      "id": 902,
+      "text": "[879] Exp. In Ps. 44."
+    },
+    {
+      "id": 903,
+      "text": "[880] Epistle 22; 1."
+    },
+    {
+      "id": 904,
+      "text": "[881] In Hebr. Hom. 14: 8."
+    },
+    {
+      "id": 905,
+      "text": "[882] Sermon 81: 3."
+    },
+    {
+      "id": 906,
+      "text": "[883] Cassian: Conf. 3: 6."
+    },
+    {
+      "id": 907,
+      "text": "[884] Hom. 76 on Psalms."
+    },
+    {
+      "id": 908,
+      "text": "[885] The Gospel of St. Matthew, hom. 52: 1."
+    },
+    {
+      "id": 909,
+      "text": "[886] Ibid 3: 5."
+    },
+    {
+      "id": 910,
+      "text": "[887] للمؤلف: الكنيسة تحبك، للقديس يوحنا الذهبي الفم."
+    },
+    {
+      "id": 911,
+      "text": "[888] The Gospel of St. Matthew, hom. 30. 6."
+    },
+    {
+      "id": 912,
+      "text": "[889] Eutropius, and Vanity of Riches, 2: 9."
+    },
+    {
+      "id": 913,
+      "text": "[890] On the Incomprehensible Nature of God, hom. 12: 58."
+    },
+    {
+      "id": 914,
+      "text": "[891] للمؤلف: حزقيال، 1981 ، ص 176-180."
+    },
+    {
+      "id": 915,
+      "text": "[892] للمؤلف: إشعياء ، 1990، ص 228."
+    },
+    {
+      "id": 916,
+      "text": "[893] PL 25: 240."
+    },
+    {
+      "id": 917,
+      "text": "[894] Sermon 8 on Song of Songs."
+    },
+    {
+      "id": 918,
+      "text": "[895] Epistle 63: 63."
+    },
+    {
+      "id": 919,
+      "text": "[896] In Exod. Hom. 9: 4."
+    },
+    {
+      "id": 920,
+      "text": "[897] Cf. Caesarius Arles: Sermon 115: 3."
+    },
+    {
+      "id": 921,
+      "text": "[898] Comm.. on Luke, hom. 24."
+    },
+    {
+      "id": 922,
+      "text": "[899] Sch., p. 243."
+    },
+    {
+      "id": 923,
+      "text": "[900] Defend of the Nicene Definition, 5: 20."
+    },
+    {
+      "id": 924,
+      "text": "[901] Plumer: The Psalms, p. 522."
+    },
+    {
+      "id": 925,
+      "text": "[902] أنظر 99، 112، 130، 176، 177."
+    },
+    {
+      "id": 926,
+      "text": "[903] أنظر مقدمة الباب الثاني: الكنيسة والخلاص."
+    },
+    {
+      "id": 927,
+      "text": "[904] In Lev. Hm. 17."
+    },
+    {
+      "id": 928,
+      "text": "[905] Of the Holy Spirit 1: 16."
+    },
+    {
+      "id": 929,
+      "text": "[906] Ibid 1: 178."
+    },
+    {
+      "id": 930,
+      "text": "[907] Epistle 113: 77."
+    },
+    {
+      "id": 931,
+      "text": "[908] Comm.. on Song of Songs 3: 13."
+    },
+    {
+      "id": 932,
+      "text": "[909] Epistle 15."
+    },
+    {
+      "id": 933,
+      "text": "[910] In Joan 5: 2."
+    },
+    {
+      "id": 934,
+      "text": "[911] Aeneid: Bood 8, Line 560; Plumer: The Psalms, p. 325."
+    },
+    {
+      "id": 935,
+      "text": "[912] Kinder., p. 177."
+    },
+    {
+      "id": 936,
+      "text": "[913] Sch., p. 246."
+    },
+    {
+      "id": 937,
+      "text": "[914] Weiser: The Psalms, p. 374-5."
+    },
+    {
+      "id": 938,
+      "text": "[915] W. Plumer: Psalms, p. 528."
+    },
+    {
+      "id": 939,
+      "text": "[916] In Luke 7: 18-35."
+    },
+    {
+      "id": 940,
+      "text": "[917] Comm.. on Luke, hom. 129."
+    },
+    {
+      "id": 941,
+      "text": "[918] Sermon 80: 2."
+    },
+    {
+      "id": 942,
+      "text": "[919] Lazarus: The Psalter, p. 55."
+    },
+    {
+      "id": 943,
+      "text": "[920] Wycliffe Bible Commentary, Ps. 48."
+    },
+    {
+      "id": 944,
+      "text": "[921] Stuhmueller: The Psalms, p. 246."
+    },
+    {
+      "id": 945,
+      "text": "[922] تفسير المزامير لأنثيموس أسقف أورشليم، مزمور 47."
+    },
+    {
+      "id": 946,
+      "text": "[923] W. Plumer: The Psalms, p. 534."
+    },
+    {
+      "id": 947,
+      "text": "[924] The Prayer of Job and David, 5: 15."
+    },
+    {
+      "id": 948,
+      "text": "[925] Ibid."
+    },
+    {
+      "id": 949,
+      "text": "[926] Lazarus: The Psalter, p. 56."
+    },
+    {
+      "id": 950,
+      "text": "[927] Stromata 7: 13."
+    },
+    {
+      "id": 951,
+      "text": "[928] An Exhortation to Theodore after his fall, 2:3."
+    },
+    {
+      "id": 952,
+      "text": "[929] In John. Hom. 21: 3."
+    },
+    {
+      "id": 953,
+      "text": "[930] On Ps. 48, no. 4."
+    },
+    {
+      "id": 954,
+      "text": "[931] In John. Hom. 12: 3."
+    },
+    {
+      "id": 955,
+      "text": "[932] Ibid."
+    },
+    {
+      "id": 956,
+      "text": "[933] In Matt. Hom. 5: 7."
+    },
+    {
+      "id": 957,
+      "text": "[934] On Lazarus and the Rich Man, Sermon 3."
+    },
+    {
+      "id": 958,
+      "text": "[935] Ibid 4."
+    },
+    {
+      "id": 959,
+      "text": "[936] Orthodox Faith, 4: 5."
+    },
+    {
+      "id": 960,
+      "text": "[937] Sermon 198: 4."
+    },
+    {
+      "id": 961,
+      "text": "[938] Sermon 100-6."
+    },
+    {
+      "id": 962,
+      "text": "[939] Adv. Haer. 15: 8: 3."
+    },
+    {
+      "id": 963,
+      "text": "[940] Ibid 4: 4: 3."
+    },
+    {
+      "id": 964,
+      "text": "[941] Orthodox Faith 2: 30."
+    },
+    {
+      "id": 965,
+      "text": "[942] Hexaemeron 9: 2."
+    },
+    {
+      "id": 966,
+      "text": "[943] Ascetic Homilies, 47."
+    },
+    {
+      "id": 967,
+      "text": "[944] Paedagogus 1: 13."
+    },
+    {
+      "id": 968,
+      "text": "[945] On the Holy Lenten Fast, see also Origen PG 13: 130 D; St. Gregory of Nyssa PG 44: 813, 820-821."
+    },
+    {
+      "id": 969,
+      "text": "[946] In Luc., Sermon 130."
+    },
+    {
+      "id": 970,
+      "text": "[947] Ascetic Hom. 64."
+    },
+    {
+      "id": 971,
+      "text": "[948] In 1 Tim; hom. 2."
+    },
+    {
+      "id": 972,
+      "text": "[949] Loepold Sabourin: The Psalms, vol. 2, p. 313."
+    },
+    {
+      "id": 973,
+      "text": "[950] W. Plumer: The Psalms, p. 552."
+    },
+    {
+      "id": 974,
+      "text": "[951] On Ps. 49. See also Sermon 263: 1."
+    },
+    {
+      "id": 975,
+      "text": "[952] Epistle 46: 5."
+    },
+    {
+      "id": 976,
+      "text": "[953] Treatise 9. 23."
+    },
+    {
+      "id": 977,
+      "text": "[954] Sermon 133."
+    },
+    {
+      "id": 978,
+      "text": "[955] عن أنثيموس أسقف أورشليم."
+    },
+    {
+      "id": 979,
+      "text": "[956] Comm.. on Luke, hom. 74."
+    },
+    {
+      "id": 980,
+      "text": "[957] Dial. With Trypho, 22."
+    },
+    {
+      "id": 981,
+      "text": "[958] On the Holy Spirit, 26 ."
+    },
+    {
+      "id": 982,
+      "text": "[959] راجع أنثيموس أسقف أورشليم."
+    },
+    {
+      "id": 983,
+      "text": "[960] Paschal Letters, 7. 14."
+    },
+    {
+      "id": 984,
+      "text": "[961] Cf. Councils of Aminum and Seleucia, 39."
+    },
+    {
+      "id": 985,
+      "text": "[962] Cf. Life of Antony, 26."
+    },
+    {
+      "id": 986,
+      "text": "[963] Epistle 62. 18."
+    },
+    {
+      "id": 987,
+      "text": "[964] De Spectaculis, 15."
+    },
+    {
+      "id": 988,
+      "text": "[965] Epistle 52 to Nepotian 14."
+    },
+    {
+      "id": 989,
+      "text": "[966] Sermon 133."
+    },
+    {
+      "id": 990,
+      "text": "[1] On Ps 50 , 4."
+    },
+    {
+      "id": 991,
+      "text": "[2] Plumer: The Psalms, p, 555."
+    },
+    {
+      "id": 992,
+      "text": "[3] Ibid 561."
+    },
+    {
+      "id": 993,
+      "text": "[4] Epistle 122: 3."
+    },
+    {
+      "id": 994,
+      "text": "[5] Sermon 184: 6."
+    },
+    {
+      "id": 995,
+      "text": "[6] Sermon 134: 5."
+    },
+    {
+      "id": 996,
+      "text": "[7] راجع أنثيموس الأورشليمي: تفسير المزامير، مزمور 50."
+    },
+    {
+      "id": 997,
+      "text": "[8] St. Augustine: On the Gospel of St. John, tractate 12:13."
+    },
+    {
+      "id": 998,
+      "text": "[9] Sermon 134: 6."
+    },
+    {
+      "id": 999,
+      "text": "[10] Resisting the Temptation of the Devil, hom. 2: 6."
+    },
+    {
+      "id": 1000,
+      "text": "[11] In 1 Cor., hom 11."
+    },
+    {
+      "id": 1001,
+      "text": "[12] المرجع السابق، ص 267."
+    },
+    {
+      "id": 1002,
+      "text": "[13] للمؤلف: الحب الرعوي، 1965، ص 266."
+    },
+    {
+      "id": 1003,
+      "text": "[14] St. Cassian. Conf. 2."
+    },
+    {
+      "id": 1004,
+      "text": "[15] المرجع السابق، ص 268."
+    },
+    {
+      "id": 1005,
+      "text": "[16] المرجع السابق، ص 284."
+    },
+    {
+      "id": 1006,
+      "text": "[17] Cassian, Conferences 20:7."
+    },
+    {
+      "id": 1007,
+      "text": "[18] In Exod., hom. 11. 5."
+    },
+    {
+      "id": 1008,
+      "text": "[19] In John, hom 56: 1."
+    },
+    {
+      "id": 1009,
+      "text": "[20] Homilies on Rom. Hom 7."
+    },
+    {
+      "id": 1010,
+      "text": "[21] Fr. Maximus of Turin: Sermon 57: 1."
+    },
+    {
+      "id": 1011,
+      "text": "[22] Explanation of David the Prophet, 1: 11: 56."
+    },
+    {
+      "id": 1012,
+      "text": "[23] Sermons, 351: 2."
+    },
+    {
+      "id": 1013,
+      "text": "[24] Concerning Baptism, Book 1, chapter 2."
+    },
+    {
+      "id": 1014,
+      "text": "[25] Homilies on Leviticus, homily 12: 4: 1."
+    },
+    {
+      "id": 1015,
+      "text": "[26] Sermon 124: 1."
+    },
+    {
+      "id": 1016,
+      "text": "[27] Fr. Peter Chrystologus: Selected Sermons, 44."
+    },
+    {
+      "id": 1017,
+      "text": "[28] Homilies on Penance 3: 4."
+    },
+    {
+      "id": 1018,
+      "text": "[29] راجع أنثيموس الأورشليمي: تفسير المزامير، مزمور 50."
+    },
+    {
+      "id": 1019,
+      "text": "[30] On Christian Doctrine 2. 41."
+    },
+    {
+      "id": 1020,
+      "text": "[31] On the Spirit 15 ."
+    },
+    {
+      "id": 1021,
+      "text": "[32] Homilies on Numbers 27: 12."
+    },
+    {
+      "id": 1022,
+      "text": "[33] The Prayer of Job and David, Book 1, 6:19."
+    },
+    {
+      "id": 1023,
+      "text": "[34] الأسرار 7."
+    },
+    {
+      "id": 1024,
+      "text": "[35] Sermon on NT Lessons, 2:22."
+    },
+    {
+      "id": 1025,
+      "text": "[36] On Christian Doctrine 41."
+    },
+    {
+      "id": 1026,
+      "text": "[37] Pastoral Care, 3:29."
+    },
+    {
+      "id": 1027,
+      "text": "[38] Grace & Freewill, 20."
+    },
+    {
+      "id": 1028,
+      "text": "[39] Commentary on the Proverbs of Solomon, Fragment 8: 22."
+    },
+    {
+      "id": 1029,
+      "text": "[40] Homilies on 2 Timothy, 6."
+    },
+    {
+      "id": 1030,
+      "text": "[41] Tractate on Matt hem 17: 6: 3-4."
+    },
+    {
+      "id": 1031,
+      "text": "[42] Fr. Caesariun of Arles, Sermon 211:1."
+    },
+    {
+      "id": 1032,
+      "text": "[43] Four Discourses against the Arians, 1: 12."
+    },
+    {
+      "id": 1033,
+      "text": "[44] In Lev., hom. 6."
+    },
+    {
+      "id": 1034,
+      "text": "[45] للمؤلف: الحب الرعوي، 1965، ص 266."
+    },
+    {
+      "id": 1035,
+      "text": "[46] On Ps. Hom. 76."
+    },
+    {
+      "id": 1036,
+      "text": "[47] راجع تفسير مز 50 : 7-15."
+    },
+    {
+      "id": 1037,
+      "text": "[48] Ascetic Homilies 8."
+    },
+    {
+      "id": 1038,
+      "text": "[49] Comm.. on Luke, hom. 27."
+    },
+    {
+      "id": 1039,
+      "text": "[50] Comm.. on Luke, hom. 102."
+    },
+    {
+      "id": 1040,
+      "text": "[51] A. J. Wensinck: Mystic Treatises by Isaac of Nineveh, 1923, p. 70"
+    },
+    {
+      "id": 1041,
+      "text": "Dana Miller: The Ascetical Homilies of St. Isaac the Syrian, 1984, p. 67."
+    },
+    {
+      "id": 1042,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 31."
+    },
+    {
+      "id": 1043,
+      "text": "[52] On the Epistle to the Hebrew, Hom. 9: 8."
+    },
+    {
+      "id": 1044,
+      "text": "[53] In Matt. Hom. 47: 4."
+    },
+    {
+      "id": 1045,
+      "text": "[54] عظة ربنا يسوع المسيح على الجبل."
+    },
+    {
+      "id": 1046,
+      "text": "[55] Stromata 7: 3."
+    },
+    {
+      "id": 1047,
+      "text": "[56] Epist. 77: 4."
+    },
+    {
+      "id": 1048,
+      "text": "[57] Pastoral Care, 3:30."
+    },
+    {
+      "id": 1049,
+      "text": "[58] الرسالة الخامسة ."
+    },
+    {
+      "id": 1050,
+      "text": "[59] الرسالة الثامنة والثلاثون ."
+    },
+    {
+      "id": 1051,
+      "text": "[60] الرسالة الثانية والثلاثون ."
+    },
+    {
+      "id": 1052,
+      "text": "[61] The Epistle of Bernabas, 12."
+    },
+    {
+      "id": 1053,
+      "text": "[62] كتاب الكمال، 75 ."
+    },
+    {
+      "id": 1054,
+      "text": "[63] Fr. Peter Chrystologus, Selected Sermons, 1093"
+    },
+    {
+      "id": 1055,
+      "text": "[64] Selected Sermon."
+    },
+    {
+      "id": 1056,
+      "text": "[65] عظة 9 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1057,
+      "text": "[66] Adv. Haer. 4:17:1."
+    },
+    {
+      "id": 1058,
+      "text": "[67] W. Plumer: Psalms, p. 556."
+    },
+    {
+      "id": 1059,
+      "text": "[69] Cf. W. Plumer: The Psalms. 567."
+    },
+    {
+      "id": 1060,
+      "text": "[70] Cf. W. Plumer: The Psalms. 567."
+    },
+    {
+      "id": 1061,
+      "text": "[71] Commentary on Matt 32."
+    },
+    {
+      "id": 1062,
+      "text": "[72] In Hebr., hom, 32:8."
+    },
+    {
+      "id": 1063,
+      "text": "[73] Homilies on Ephessians, 24."
+    },
+    {
+      "id": 1064,
+      "text": "[74] Hexameron 5:6."
+    },
+    {
+      "id": 1065,
+      "text": "[75] Exposition of Luke 9:2."
+    },
+    {
+      "id": 1066,
+      "text": "[76] راجع المقدمة في المزامير : مزامير إلوهيم."
+    },
+    {
+      "id": 1067,
+      "text": "[77] Cf. The NI V Study Bible, 1985, p. 840."
+    },
+    {
+      "id": 1068,
+      "text": "[78] Cf. Adam Clarke on ps 14:1."
+    },
+    {
+      "id": 1069,
+      "text": "[79] On Ps. 52 : 2."
+    },
+    {
+      "id": 1070,
+      "text": "[80] تفسير التكوين 1: 3-5 ."
+    },
+    {
+      "id": 1071,
+      "text": "[81] On Ps. 86: 7."
+    },
+    {
+      "id": 1072,
+      "text": "[82] Comm. on Luke, hom. 70."
+    },
+    {
+      "id": 1073,
+      "text": "[83] Comm. on Luke, hom 110."
+    },
+    {
+      "id": 1074,
+      "text": "[84] A Discourse on Ascetical Discipline, (Frs. Of the Church, volume 9, p. 35)."
+    },
+    {
+      "id": 1075,
+      "text": "[85] De institutis caenoborum, Book 11:12."
+    },
+    {
+      "id": 1076,
+      "text": "[86] De institutis caenoborum, Book 11:19."
+    },
+    {
+      "id": 1077,
+      "text": "[87] رسالة القديس أنبا ثيئوفيلس إلى الرهبان، 16 (فردوس الآباء)."
+    },
+    {
+      "id": 1078,
+      "text": "[88] Sermon on Mount, 1:7:18."
+    },
+    {
+      "id": 1079,
+      "text": "[89] W. Plumer: The Psalms, p. 574."
+    },
+    {
+      "id": 1080,
+      "text": "[90] للمؤلف: صموئيل الأول، 1988 م. ، ص 164."
+    },
+    {
+      "id": 1081,
+      "text": "[91] للمؤلف: صموئيل الأول، 1988 م. ، ص 166."
+    },
+    {
+      "id": 1082,
+      "text": "[92] Stromata 7:7."
+    },
+    {
+      "id": 1083,
+      "text": "[93] On Ps. 36 ."
+    },
+    {
+      "id": 1084,
+      "text": "[94] يستخدم الأب غريغوريوس هذه الصورة الاستعارية للجب والينابيع لتشير للعلاقة ما بين الزوج وزوجته، وهو هنا يطبق هذه الفقرة على تعليم المرشدين."
+    },
+    {
+      "id": 1085,
+      "text": "[95] Pastoral Care, 3:24."
+    },
+    {
+      "id": 1086,
+      "text": "[96] Fr. Valerian: Homilies 3."
+    },
+    {
+      "id": 1087,
+      "text": "[97] St. Jerome, Letter 79: 3."
+    },
+    {
+      "id": 1088,
+      "text": "[98] Letter to 122 Rusticus, 4.r"
+    },
+    {
+      "id": 1089,
+      "text": "[99] Sermon 82: 2."
+    },
+    {
+      "id": 1090,
+      "text": "[100] Exposition of Luke, 2: 92.."
+    },
+    {
+      "id": 1091,
+      "text": "[101] Prayer of David 4:2:6."
+    },
+    {
+      "id": 1092,
+      "text": "[102] On Virginity PG 46:364 A - 369 B."
+    },
+    {
+      "id": 1093,
+      "text": "[103] Sermons 305 A:5."
+    },
+    {
+      "id": 1094,
+      "text": "[104] Sermons 305 A: 5."
+    },
+    {
+      "id": 1095,
+      "text": "[105] عظة 2: 3."
+    },
+    {
+      "id": 1096,
+      "text": "[106] عظة 2: 3."
+    },
+    {
+      "id": 1097,
+      "text": "[107] عظة 30: 6؛ 1: 5."
+    },
+    {
+      "id": 1098,
+      "text": "[108] De institutis caenoborum 9:8."
+    },
+    {
+      "id": 1099,
+      "text": "[109] Cassian: Conferences 24:1."
+    },
+    {
+      "id": 1100,
+      "text": "[110] Cassian: Conferences 24:13."
+    },
+    {
+      "id": 1101,
+      "text": "[111] Letter 71 to Luciniusm, 1."
+    },
+    {
+      "id": 1102,
+      "text": "[112] Letter 58 to Paulinus of Nola, 1."
+    },
+    {
+      "id": 1103,
+      "text": "[113] تشير كلمة \"أحياء\" إلى السرعة والمفاجأة التي تحل بها اللعنة."
+    },
+    {
+      "id": 1104,
+      "text": "[114] Pastoral Care, 3:31."
+    },
+    {
+      "id": 1105,
+      "text": "[115] Commentary on Matthew, Book 12 :35 (Cf. ANF)."
+    },
+    {
+      "id": 1106,
+      "text": "[116] The Book of Perfection."
+    },
+    {
+      "id": 1107,
+      "text": "[117] مرتيريوس أو Sahdona (الاسم السرياني) ولد على مقربة من كركوك في العراق الحديثة، بالقرب من نهاية القرن السادس."
+    },
+    {
+      "id": 1108,
+      "text": "[118] العظة اللاهوتية الأولى: عظة رقم 27 عظة تمهيدية ضد أتباع يونيموس، 4."
+    },
+    {
+      "id": 1109,
+      "text": "[119] An Ascetical Discourse, (Frs. Of the Church, volume 9, p. 212-213)."
+    },
+    {
+      "id": 1110,
+      "text": "[120] Rog. Fus. 37:2."
+    },
+    {
+      "id": 1111,
+      "text": "[121] Rog. Fus. 37:2."
+    },
+    {
+      "id": 1112,
+      "text": "[122] كتاب الكمال، 60."
+    },
+    {
+      "id": 1113,
+      "text": "[123] Fragments on Hebrews, 1:2:3"
+    },
+    {
+      "id": 1114,
+      "text": "[124] Commentary on Luke, homily 135."
+    },
+    {
+      "id": 1115,
+      "text": "[125] Cassian: Conferences, 16: 18."
+    },
+    {
+      "id": 1116,
+      "text": "[126] Exposition of Luke 8: 28-30."
+    },
+    {
+      "id": 1117,
+      "text": "[127] Ascetical Homilies, 5."
+    },
+    {
+      "id": 1118,
+      "text": "[128] Ascetical Homilies, 5:31"
+    },
+    {
+      "id": 1119,
+      "text": "[129] Beautiful Consideration concerning the Life of Men."
+    },
+    {
+      "id": 1120,
+      "text": "[130] الرسالة الثانية والثلاثون عن التجارب التي لحقت به، 3 (ترجمة الرب سليم دكاش اليسوعي)."
+    },
+    {
+      "id": 1121,
+      "text": "[131] رسالة تعزية إلى أرملة شابة."
+    },
+    {
+      "id": 1122,
+      "text": "[132] The Orthodox Faith, 2: 11."
+    },
+    {
+      "id": 1123,
+      "text": "[133] Commentary on Isaiah 11: 38: 12-13."
+    },
+    {
+      "id": 1124,
+      "text": "[134] Com. On 1 John, 4: 3."
+    },
+    {
+      "id": 1125,
+      "text": "[135] Boyld's Bible Handbook, p. 239."
+    },
+    {
+      "id": 1126,
+      "text": "[136] عظة 8: 25."
+    },
+    {
+      "id": 1127,
+      "text": "[137] Sermon on N.T. Lessons, 67:4."
+    },
+    {
+      "id": 1128,
+      "text": "[138] رسالة القديس أنبا ثيؤفيلس إلى الرهبان، 18 (فردوس الآباء)."
+    },
+    {
+      "id": 1129,
+      "text": "[139] Sermon 137: 2."
+    },
+    {
+      "id": 1130,
+      "text": "[140] Cassidorus: Exposition of Ps. 5: 13."
+    },
+    {
+      "id": 1131,
+      "text": "[141] Cf. W. Plumer: The Psalms, p. 598."
+    },
+    {
+      "id": 1132,
+      "text": "[142] Sermon 218: 7; see sermon 201: 2."
+    },
+    {
+      "id": 1133,
+      "text": "[143] Commentary on Songs, 3: 5."
+    },
+    {
+      "id": 1134,
+      "text": "[144] Mamer 201 on Nativity of our Lord (see Dr .Behnam Sony)."
+    },
+    {
+      "id": 1135,
+      "text": "[145] الرسالة الأولى (د. بهنام سوني) ."
+    },
+    {
+      "id": 1136,
+      "text": "[146] Demonstrations, 7: 1."
+    },
+    {
+      "id": 1137,
+      "text": "[147] Letter 125 to Rusticus, 19."
+    },
+    {
+      "id": 1138,
+      "text": "[148] Mamer 53 on Eve Holy Thursday (see Dr .Behnam Sony)."
+    },
+    {
+      "id": 1139,
+      "text": "[149] On Matthew, homily 81."
+    },
+    {
+      "id": 1140,
+      "text": "[150] In Ascensione PG 50."
+    },
+    {
+      "id": 1141,
+      "text": "[151] Mamer 204 on Ascension of our Lord Jesus (see Dr .Behnam Sony)."
+    },
+    {
+      "id": 1142,
+      "text": "[152] Plmer, P 597-598."
+    },
+    {
+      "id": 1143,
+      "text": "[153] Sermon 162B."
+    },
+    {
+      "id": 1144,
+      "text": "[154] The Ascension, 263."
+    },
+    {
+      "id": 1145,
+      "text": "[155] In Luc. Sermon 1:40."
+    },
+    {
+      "id": 1146,
+      "text": "[156] On Joshua, homily 16: 4."
+    },
+    {
+      "id": 1147,
+      "text": "[157] Sermon on Mount, 1:19:58."
+    },
+    {
+      "id": 1148,
+      "text": "[158] Sermon 226: 1."
+    },
+    {
+      "id": 1149,
+      "text": "[159] The Fathers of the Church, vol. 57, on Ps 15 ("
+    },
+    {
+      "id": 1150,
+      "text": "[160] Letter 75: 2."
+    },
+    {
+      "id": 1151,
+      "text": "[161] Mamer 212 Against the Jews 6 (see Dr .Behnam Sony)."
+    },
+    {
+      "id": 1152,
+      "text": "[162] Sermon 262: 4."
+    },
+    {
+      "id": 1153,
+      "text": "[163] Sermon 147 A. 4."
+    },
+    {
+      "id": 1154,
+      "text": "[164] Sermon 262: 4."
+    },
+    {
+      "id": 1155,
+      "text": "[165] The Collegeville Bible Commentary, p. 767."
+    },
+    {
+      "id": 1156,
+      "text": "[166] Plumer, Ps. 58."
+    },
+    {
+      "id": 1157,
+      "text": "[167] In Luc 9:57-62."
+    },
+    {
+      "id": 1158,
+      "text": "[168] Cf. homilies on Numbers, homily 3"
+    },
+    {
+      "id": 1159,
+      "text": "[169] Commentary on Rom. [1: 1] ."
+    },
+    {
+      "id": 1160,
+      "text": "[170] On Perfection."
+    },
+    {
+      "id": 1161,
+      "text": "[171] Animals of Bible Lands, Paternoster, 1970, P. 206."
+    },
+    {
+      "id": 1162,
+      "text": "[172] الأب إلياس، ص 330."
+    },
+    {
+      "id": 1163,
+      "text": "[173] Homilies on St. John, 2L 11."
+    },
+    {
+      "id": 1164,
+      "text": "[174] Adv. Haer. 4: 41: 2."
+    },
+    {
+      "id": 1165,
+      "text": "[175] On Ps. 3."
+    },
+    {
+      "id": 1166,
+      "text": "[176] In Epis, ad Phil. 3:4."
+    },
+    {
+      "id": 1167,
+      "text": "[177] Cf. Barnes, vote 5."
+    },
+    {
+      "id": 1168,
+      "text": "[178] Origen: Homilies on Leviticus, 5: 2"
+    },
+    {
+      "id": 1169,
+      "text": "[179] Plumer, Ps. 58."
+    },
+    {
+      "id": 1170,
+      "text": "[180] Homilies on Philemon, 3."
+    },
+    {
+      "id": 1171,
+      "text": "[181] Sermon 18:1,2."
+    },
+    {
+      "id": 1172,
+      "text": "[182] Commentary on Job 9: 25- 26."
+    },
+    {
+      "id": 1173,
+      "text": "[183] مقال 13: 9 ."
+    },
+    {
+      "id": 1174,
+      "text": "[184] On Joseph 7: 41."
+    },
+    {
+      "id": 1175,
+      "text": "[185] An Answer to the Jews, 13."
+    },
+    {
+      "id": 1176,
+      "text": "[186] Commentary on Luke, homily 15."
+    },
+    {
+      "id": 1177,
+      "text": "[187] Jamieson, Fousset, and Brown Commentary, Electronic Database."
+    },
+    {
+      "id": 1178,
+      "text": "[188] راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 311. عظة 3:3."
+    },
+    {
+      "id": 1179,
+      "text": "[189] Barnes, Nares."
+    },
+    {
+      "id": 1180,
+      "text": "[190] Plumer, Ps. 60."
+    },
+    {
+      "id": 1181,
+      "text": "[191] Cassian: De institutis caenoboum, 8:2-4."
+    },
+    {
+      "id": 1182,
+      "text": "[192] In Rom. hom 5."
+    },
+    {
+      "id": 1183,
+      "text": "[193] Sermon 167: 10"
+    },
+    {
+      "id": 1184,
+      "text": "[194] Lactantius: Divine Institutes 4: 26."
+    },
+    {
+      "id": 1185,
+      "text": "[195] مقال 13: 3."
+    },
+    {
+      "id": 1186,
+      "text": "[196] Pasch Hist."
+    },
+    {
+      "id": 1187,
+      "text": "[197] In Ccolos, Hom 8."
+    },
+    {
+      "id": 1188,
+      "text": "[198] St. Augustine: Sermon on N.T. Lessons 57: 7."
+    },
+    {
+      "id": 1189,
+      "text": "[199] Sermon 169: 9."
+    },
+    {
+      "id": 1190,
+      "text": "[200] Prayer of David, Book 3: 10:27."
+    },
+    {
+      "id": 1191,
+      "text": "[201] On Ps. hom. 20."
+    },
+    {
+      "id": 1192,
+      "text": "[202] Prayer of David 4:4:15-16."
+    },
+    {
+      "id": 1193,
+      "text": "[203] Adam Clarke."
+    },
+    {
+      "id": 1194,
+      "text": "[204] Barnes' Notes."
+    },
+    {
+      "id": 1195,
+      "text": "[205] Barnes' Notes."
+    },
+    {
+      "id": 1196,
+      "text": "[206] Chromatius: Tractate on Matt hom 11: 4."
+    },
+    {
+      "id": 1197,
+      "text": "[207] Barnes' Notes."
+    },
+    {
+      "id": 1198,
+      "text": "[208] In Luc Ser 105."
+    },
+    {
+      "id": 1199,
+      "text": "[1] Sermon 95: 2."
+    },
+    {
+      "id": 1200,
+      "text": "[2] Sermon 21: 6."
+    },
+    {
+      "id": 1201,
+      "text": "[3] Hymns on the Nativity, 2."
+    },
+    {
+      "id": 1202,
+      "text": "[4] Explanation of Psalms 61: 4."
+    },
+    {
+      "id": 1203,
+      "text": "[5] Plumer, Ps. 61."
+    },
+    {
+      "id": 1204,
+      "text": "[6] On Divine Providence, Disc, 9: 11."
+    },
+    {
+      "id": 1205,
+      "text": "[7] Fr. Valerian: Homilies, 4 (Frs of the Church)."
+    },
+    {
+      "id": 1206,
+      "text": "[8] عظة 4 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1207,
+      "text": "[9] Homilies on Psalm 61 : 2."
+    },
+    {
+      "id": 1208,
+      "text": "[10] First Epistle, 15."
+    },
+    {
+      "id": 1209,
+      "text": "[11] Orations on Psalms 1."
+    },
+    {
+      "id": 1210,
+      "text": "[12] Cassian, Conferences 21:22."
+    },
+    {
+      "id": 1211,
+      "text": "[13] Sermon on NT Lessons, 10: 3."
+    },
+    {
+      "id": 1212,
+      "text": "[14] إسحق أو النفس ، 2: 4."
+    },
+    {
+      "id": 1213,
+      "text": "[15] The Institutes, 3: 3."
+    },
+    {
+      "id": 1214,
+      "text": "[16] Palmer, P. 630."
+    },
+    {
+      "id": 1215,
+      "text": "[17] Commentary on Galatians (Gal. 2: 20)."
+    },
+    {
+      "id": 1216,
+      "text": "[18] Commentary on Rom. 1: 8."
+    },
+    {
+      "id": 1217,
+      "text": "[19] Epistles, 122.1."
+    },
+    {
+      "id": 1218,
+      "text": "[20] Glaphyra on Genesis, 5: 3."
+    },
+    {
+      "id": 1219,
+      "text": "[21] رسالة6:51."
+    },
+    {
+      "id": 1220,
+      "text": "[22] إسحق أو النفس ، 1: 1."
+    },
+    {
+      "id": 1221,
+      "text": "[23] The Prayer of Job and David, 3: 4: 10."
+    },
+    {
+      "id": 1222,
+      "text": "[24] On the Epistle to the Hebrews, 14:9."
+    },
+    {
+      "id": 1223,
+      "text": "[25] Homilies on the Acts if the Apostles, homily 26."
+    },
+    {
+      "id": 1224,
+      "text": "[26] الرسالة الحادية عشر:6 (ترجمة الأب سليم دكاش اليسوعي)."
+    },
+    {
+      "id": 1225,
+      "text": "[27] St. Jerome: Letter 130 to Demetrias, 7."
+    },
+    {
+      "id": 1226,
+      "text": "[28] إسحق أو النفس ، 3: 6."
+    },
+    {
+      "id": 1227,
+      "text": "[29] Cassian: Conferences, 7:4-6."
+    },
+    {
+      "id": 1228,
+      "text": "[30] حياة موسى، 250."
+    },
+    {
+      "id": 1229,
+      "text": "[31] Lettres des Pères du Dèsert, p. 133, traduit de P. G. 40, 925 D - 941 B."
+    },
+    {
+      "id": 1230,
+      "text": "عن: فردوس الآباء ج 1."
+    },
+    {
+      "id": 1231,
+      "text": "[32] Plumer, P. 633."
+    },
+    {
+      "id": 1232,
+      "text": "[33] In Lev. 11."
+    },
+    {
+      "id": 1233,
+      "text": "[34] الرسالة الفصيحة الأولى، ترجمة د. ميشيل بديع عبد الملك، مايو 2004، ص 15."
+    },
+    {
+      "id": 1234,
+      "text": "[35] رسالة رقم 101، 11 الرسالة الأولى إلى كليدونيوس الكاهن."
+    },
+    {
+      "id": 1235,
+      "text": "[36] Continence,11."
+    },
+    {
+      "id": 1236,
+      "text": "[37] Forty Gospel Homilies 11: 4."
+    },
+    {
+      "id": 1237,
+      "text": "[38] Fr Dorotheos of Gaza: On Fear of Punishment."
+    },
+    {
+      "id": 1238,
+      "text": "[39] Homilies on Statues, homily 9: 9."
+    },
+    {
+      "id": 1239,
+      "text": "[40] Hexaemeron, homily 4: 3."
+    },
+    {
+      "id": 1240,
+      "text": "[41] القداس الإلهي."
+    },
+    {
+      "id": 1241,
+      "text": "[42] Sermon on NT Lessons, 3:14."
+    },
+    {
+      "id": 1242,
+      "text": "[43] On Ps. 66;10."
+    },
+    {
+      "id": 1243,
+      "text": "[44] المؤلف: رؤيا يوحنا اللاهوتي، 1979 ، ص62-66 ."
+    },
+    {
+      "id": 1244,
+      "text": "[45] On Prayer 2: 29: 16."
+    },
+    {
+      "id": 1245,
+      "text": "[46] الأسرار 5، 17 ."
+    },
+    {
+      "id": 1246,
+      "text": "[47] The Lord's Prayer, Sermon 2."
+    },
+    {
+      "id": 1247,
+      "text": "[48] Plumer on Ps 67."
+    },
+    {
+      "id": 1248,
+      "text": "[49] Hom. 6."
+    },
+    {
+      "id": 1249,
+      "text": "[50] Hom. 6."
+    },
+    {
+      "id": 1250,
+      "text": "[51] Homily 6."
+    },
+    {
+      "id": 1251,
+      "text": "[52] Homily 6."
+    },
+    {
+      "id": 1252,
+      "text": "[53] Homily 6."
+    },
+    {
+      "id": 1253,
+      "text": "[54] Plumer, Ps. 68."
+    },
+    {
+      "id": 1254,
+      "text": "[55] Commentary on Rom. 12: 15.."
+    },
+    {
+      "id": 1255,
+      "text": "[56] Eutropius and the Vanity of Riches, Hom."
+    },
+    {
+      "id": 1256,
+      "text": "[57] رسالة تعزية إلى أرملة شابة."
+    },
+    {
+      "id": 1257,
+      "text": "[58] مقال 7: 10 ."
+    },
+    {
+      "id": 1258,
+      "text": "[59] Homilies on Job 9: 6: 27."
+    },
+    {
+      "id": 1259,
+      "text": "[60] Homilies on 1 Timothy, hom 15."
+    },
+    {
+      "id": 1260,
+      "text": "[61] The Unity of the Catholic Church, 8."
+    },
+    {
+      "id": 1261,
+      "text": "[62] Cf. Homilies on Ecclesiastes, 1."
+    },
+    {
+      "id": 1262,
+      "text": "[63] Homilies on Hebr., 32: 7."
+    },
+    {
+      "id": 1263,
+      "text": "[64] Origen: Comm. on the Songs of Songs, book 3:1 (ACW)."
+    },
+    {
+      "id": 1264,
+      "text": "[65] Prayer of David 4:4:14."
+    },
+    {
+      "id": 1265,
+      "text": "[66] عظة 3 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1266,
+      "text": "[67] عظة 7 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1267,
+      "text": "[68] جاء في حزقيال 8: 3 \"ومد شبه يد وأخذني بناصية رأسي ورفعني روح بين الأرض والسماء فأتى بي في رؤى الله\"."
+    },
+    {
+      "id": 1268,
+      "text": "[69] مقال 14: 25 ."
+    },
+    {
+      "id": 1269,
+      "text": "[70] Adam Clarke Comm."
+    },
+    {
+      "id": 1270,
+      "text": "[71] Grace & Freewill, 15."
+    },
+    {
+      "id": 1271,
+      "text": "[72] عا 9: 6 \"الذي بني في السماء علالية\"."
+    },
+    {
+      "id": 1272,
+      "text": "[73] مقال 14: 24 ."
+    },
+    {
+      "id": 1273,
+      "text": "[74] Adv. Haer 5:24:2:20:3."
+    },
+    {
+      "id": 1274,
+      "text": "[75] Theological Oration 3 : 20 (On the Son)."
+    },
+    {
+      "id": 1275,
+      "text": "[76] العظة اللاهوتية الرابعة رقم 30 عن الابن، 19."
+    },
+    {
+      "id": 1276,
+      "text": "[77] Exposition of Luke 5: 105-106."
+    },
+    {
+      "id": 1277,
+      "text": "[78] Commentary on Isaiah. 4: 12: 3."
+    },
+    {
+      "id": 1278,
+      "text": "[79] The Institutes, 12:14."
+    },
+    {
+      "id": 1279,
+      "text": "[80] On Abraham 2: 10: 77."
+    },
+    {
+      "id": 1280,
+      "text": "[81] Letter 108 to Eustochium, 23."
+    },
+    {
+      "id": 1281,
+      "text": "[82] On the Holy Spirit 2: 10: 112."
+    },
+    {
+      "id": 1282,
+      "text": "[83] يقصد بتعبير \"ملء الأمم\" الجزء الذي من الأمم والذي وصل إلى درجة \"الامتلاء\" أي إلى درجة الكمال."
+    },
+    {
+      "id": 1283,
+      "text": "[84] عظات للعلامة أوريجينوس على سفر إرميا ترجمة جاكلين سمير كوستي، 5:4."
+    },
+    {
+      "id": 1284,
+      "text": "[85] مقال 17: 25 ."
+    },
+    {
+      "id": 1285,
+      "text": "[86] عظة 5 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1286,
+      "text": "[87] تفسير تك 2: 7-8."
+    },
+    {
+      "id": 1287,
+      "text": "[88] Homilies on 2 Tim., 9."
+    },
+    {
+      "id": 1288,
+      "text": "[89] Sermon 112: 1."
+    },
+    {
+      "id": 1289,
+      "text": "[90] مقتطف عن التسبحة الثانية من تسابيح الميلاد بتصرف."
+    },
+    {
+      "id": 1290,
+      "text": "[91] التسبحة الثانية."
+    },
+    {
+      "id": 1291,
+      "text": "[92] Sermon 120: 2."
+    },
+    {
+      "id": 1292,
+      "text": "[93] City of God 20: 12."
+    },
+    {
+      "id": 1293,
+      "text": "[94] Homilies on St. John, 15: 3."
+    },
+    {
+      "id": 1294,
+      "text": "[95] Commentary on Paul’s Epistles Rom [15:3]."
+    },
+    {
+      "id": 1295,
+      "text": "[96] Letter 44."
+    },
+    {
+      "id": 1296,
+      "text": "[97] Letter 130 to Demetrias, 10."
+    },
+    {
+      "id": 1297,
+      "text": "[98] عظة 14 على نشيد الأناشيد ترجمة الدكتور جورج نوّار ."
+    },
+    {
+      "id": 1298,
+      "text": "[99] Sermon 206: 3."
+    },
+    {
+      "id": 1299,
+      "text": "[100] Epistle 8 ad Olympias PG 25: 607 - 608."
+    },
+    {
+      "id": 1300,
+      "text": "[101] مقال 13: 29 ."
+    },
+    {
+      "id": 1301,
+      "text": "[102] Exposition of Luke 10: 63: 64."
+    },
+    {
+      "id": 1302,
+      "text": "[103] Tractates on John, 37: 9."
+    },
+    {
+      "id": 1303,
+      "text": "[104] Sermon on Mount, 1:21:71."
+    },
+    {
+      "id": 1304,
+      "text": "[105] In Rom, homily 19."
+    },
+    {
+      "id": 1305,
+      "text": "[106] In Luc. Ser. 153."
+    },
+    {
+      "id": 1306,
+      "text": "[107] Pastoral Care, 1:1."
+    },
+    {
+      "id": 1307,
+      "text": "[108] Prayer of David 3:3: 7."
+    },
+    {
+      "id": 1308,
+      "text": "[109] Plumer, Ps. 69."
+    },
+    {
+      "id": 1309,
+      "text": "[110] Fragment (on Matt.) 292."
+    },
+    {
+      "id": 1310,
+      "text": "[111] Plumer, Ps. 69."
+    },
+    {
+      "id": 1311,
+      "text": "[112] The Prayer of Job and David, 3: 3: 6."
+    },
+    {
+      "id": 1312,
+      "text": "[113] Life of Pachomius (Bohairic), 108."
+    },
+    {
+      "id": 1313,
+      "text": "[114] Tractates ob John, 63: 1."
+    },
+    {
+      "id": 1314,
+      "text": "[115] يتطلع القديس أغسطينوس إلى يوم استشهاد الشهداء أنه يوم ميلادهم الجديد."
+    },
+    {
+      "id": 1315,
+      "text": "[116] Cassian, Conferences 10:10."
+    },
+    {
+      "id": 1316,
+      "text": "In 1 Cor., hom. 15 ."
+    },
+    {
+      "id": 1317,
+      "text": "Plumer, p. 448 ."
+    },
+    {
+      "id": 1318,
+      "text": "In John, hom. 22 : 3 ."
+    },
+    {
+      "id": 1319,
+      "text": "Duties of the Clergy 1 : 31 ."
+    },
+    {
+      "id": 1320,
+      "text": "Plumer, p. 450 ."
+    },
+    {
+      "id": 1321,
+      "text": "Joseph 10 : 52 ."
+    },
+    {
+      "id": 1322,
+      "text": "Isaac or the Soul 4 : 14 ."
+    },
+    {
+      "id": 1323,
+      "text": "In Matt., hom. 15 : 5 ."
+    },
+    {
+      "id": 1324,
+      "text": "Paschal Letters 11 : 4 ."
+    },
+    {
+      "id": 1325,
+      "text": "On Vigilance and Sobriety ."
+    },
+    {
+      "id": 1326,
+      "text": "In 1 Cor. hom 39 ."
+    },
+    {
+      "id": 1327,
+      "text": "Plumer, p. 453 ."
+    },
+    {
+      "id": 1328,
+      "text": "Treatise 4 : 21 ."
+    },
+    {
+      "id": 1329,
+      "text": "Prayer of Reconciliation ."
+    },
+    {
+      "id": 1330,
+      "text": "Duties of the Clergy 1 : 36 : 185 ."
+    },
+    {
+      "id": 1331,
+      "text": "Treatise 8 : 19 on Almsgiving ."
+    },
+    {
+      "id": 1332,
+      "text": "I bid 8 : 18 ."
+    },
+    {
+      "id": 1333,
+      "text": "On the Fear of Punishment."
+    },
+    {
+      "id": 1334,
+      "text": "Plumer, p. 456-7 ."
+    },
+    {
+      "id": 1335,
+      "text": "Ep. 54 : 3 (Oxford 49 ) ."
+    },
+    {
+      "id": 1336,
+      "text": "Flight from the world 5 : 25 ."
+    },
+    {
+      "id": 1337,
+      "text": "Select Demonstration 5 : 2 ."
+    },
+    {
+      "id": 1338,
+      "text": "Kinder., p. 177."
+    },
+    {
+      "id": 1339,
+      "text": "Sch., p. 246."
+    },
+    {
+      "id": 1340,
+      "text": "Weiser: The Psalms, p. 374-5."
+    },
+    {
+      "id": 1341,
+      "text": "W. Plumer: Psalms, p. 528."
+    },
+    {
+      "id": 1342,
+      "text": "In Luke 7: 18-35."
+    },
+    {
+      "id": 1343,
+      "text": "Comm.. on Luke, hom. 129."
+    },
+    {
+      "id": 1344,
+      "text": "Sermon 80: 2."
+    },
+    {
+      "id": 1345,
+      "text": "Lazarus: The Psalter, p. 55."
+    }
+  ]
+}

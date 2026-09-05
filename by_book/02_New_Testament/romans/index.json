@@ -1,0 +1,3259 @@
+{
+  "book_id": 49,
+  "book_title": "تفسير الرسالة إلى رومية",
+  "testament": "New Testament",
+  "chapters_count": 16,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "مقدمة الرسالة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "حاجة اليهودي للخلاص"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "حاجة الكل للخلاص"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "إبراهيم دعي في الغُرْلة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "بنوّتنا لآدم الواحد"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "بنوّة المؤمنين لله"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الناموس فاضح الخطيّة"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "ناموس الروح وبرّ المسيح"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "اختيار الأمم أيضًا"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "سرّ الجحود"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "اختيار الأمم أيضًا"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "المؤمن والحياة اليومية"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "المؤمن والحياة اليومية"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "المؤمن والإخوة"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "المؤمن والضعفاء"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "أصحاح ختامي"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "مقدمة الرسالة:"
+    },
+    {
+      "id": 2,
+      "text": "Strong: Greek Dictionary of the N.T., article 4517."
+    },
+    {
+      "id": 3,
+      "text": "J. Hastings: Dictionary of the Bible, N.Y. 1963, p 862."
+    },
+    {
+      "id": 4,
+      "text": "مذكرات القس مينا إسكندر على الرسالة، بالإكليريكية الإسكندرية."
+    },
+    {
+      "id": 5,
+      "text": "Donald Guthrie: N.T. Introduction, 1975, p 393-4."
+    },
+    {
+      "id": 6,
+      "text": "اسم لاتيني معناه\"الثالث\"."
+    },
+    {
+      "id": 7,
+      "text": "اسم يوناني معناه\"دخن\"، وتسمى حاليٌا \"كخريس\"."
+    },
+    {
+      "id": 8,
+      "text": "Jerome Biblical Comm., p 292; Guthrie p 395."
+    },
+    {
+      "id": 9,
+      "text": "Guthrie, P 400-404."
+    },
+    {
+      "id": 10,
+      "text": "Origen & the Doctrine of Grace, London 1960, p. 48."
+    },
+    {
+      "id": 11,
+      "text": "Incar. 3."
+    },
+    {
+      "id": 12,
+      "text": "Against Arians 2: 67."
+    },
+    {
+      "id": 13,
+      "text": "J. Hastings: Dictionary of the Apostolic Church, v., p 370-371."
+    },
+    {
+      "id": 14,
+      "text": "الأصحاح الأول:"
+    },
+    {
+      "id": 15,
+      "text": "In Rom, hom 1."
+    },
+    {
+      "id": 16,
+      "text": "In Rom, hom 1."
+    },
+    {
+      "id": 17,
+      "text": "Of the Christian Faith, 5: 9 ."
+    },
+    {
+      "id": 18,
+      "text": "Of the Christian Faith, 1: 16 ."
+    },
+    {
+      "id": 19,
+      "text": "In Rom. hom 1"
+    },
+    {
+      "id": 20,
+      "text": "Cat. Lect., 12: 23."
+    },
+    {
+      "id": 21,
+      "text": "City of God, 17: 8."
+    },
+    {
+      "id": 22,
+      "text": "In Rom. hom 1."
+    },
+    {
+      "id": 23,
+      "text": "In Rom. hom 1."
+    },
+    {
+      "id": 24,
+      "text": "Of Christian Faith, 3: 5 ."
+    },
+    {
+      "id": 25,
+      "text": "Oration. 37: 7."
+    },
+    {
+      "id": 26,
+      "text": "للمؤلف: آباء مدرسة إسكندرية الأولون، العلامة أوريجينوس، النعمة."
+    },
+    {
+      "id": 27,
+      "text": "In Rom. hom. 1."
+    },
+    {
+      "id": 28,
+      "text": "In Rom. hom. 1."
+    },
+    {
+      "id": 29,
+      "text": "Erdman: The Epistle to Romans, p 25."
+    },
+    {
+      "id": 30,
+      "text": "In Rom. hom., 1."
+    },
+    {
+      "id": 31,
+      "text": "Of the Holy Spirit 1: 12 ."
+    },
+    {
+      "id": 32,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 33,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 34,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 35,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 36,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 37,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 38,
+      "text": "Strom. 5: 1."
+    },
+    {
+      "id": 39,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 40,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 41,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 42,
+      "text": "Adv. Marc. 5: 13."
+    },
+    {
+      "id": 43,
+      "text": "Strom 2.6."
+    },
+    {
+      "id": 44,
+      "text": "City of God 20: 26."
+    },
+    {
+      "id": 45,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 46,
+      "text": "On Christian Doctrine 1: 4."
+    },
+    {
+      "id": 47,
+      "text": "OfChrist. Faith 1: 10 ."
+    },
+    {
+      "id": 48,
+      "text": "In Ioan . tr 14: 3."
+    },
+    {
+      "id": 49,
+      "text": "In Ioan . Tr 2: 4."
+    },
+    {
+      "id": 50,
+      "text": "City of God 8. 10."
+    },
+    {
+      "id": 51,
+      "text": "Instit. 12: 21."
+    },
+    {
+      "id": 52,
+      "text": "Conf. 3: 20."
+    },
+    {
+      "id": 53,
+      "text": "Conf. 3: 20."
+    },
+    {
+      "id": 54,
+      "text": "In Rom. hom 3."
+    },
+    {
+      "id": 55,
+      "text": "In Rom. Hom. 4."
+    },
+    {
+      "id": 56,
+      "text": "In Rom. Hom. 4."
+    },
+    {
+      "id": 57,
+      "text": "In Rom. Hom. 5."
+    },
+    {
+      "id": 58,
+      "text": "De Corona 6."
+    },
+    {
+      "id": 59,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 60,
+      "text": "الأصحاح الثاني:"
+    },
+    {
+      "id": 61,
+      "text": "Cassian: Conf. 7: 31."
+    },
+    {
+      "id": 62,
+      "text": "In Ioan.tr 33: 7."
+    },
+    {
+      "id": 63,
+      "text": "In Eph. hom 4; In Matt. hom 75."
+    },
+    {
+      "id": 64,
+      "text": "City of God 1: 8."
+    },
+    {
+      "id": 65,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 66,
+      "text": "Adv. Haer 4: 37: 1."
+    },
+    {
+      "id": 67,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 68,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 69,
+      "text": "In Ioan tr 54: 6."
+    },
+    {
+      "id": 70,
+      "text": "n Ioan tr 89: 3."
+    },
+    {
+      "id": 71,
+      "text": "In Matt. hom 75."
+    },
+    {
+      "id": 72,
+      "text": "In Matt. hom 5."
+    },
+    {
+      "id": 73,
+      "text": "In Matt. hom."
+    },
+    {
+      "id": 74,
+      "text": "Cassian: Conf. 7: 5."
+    },
+    {
+      "id": 75,
+      "text": "Comm. On John, book 1: 6."
+    },
+    {
+      "id": 76,
+      "text": "In Matt. hom 6."
+    },
+    {
+      "id": 77,
+      "text": "In Matt. hom 6."
+    },
+    {
+      "id": 78,
+      "text": "Cat. Lect. 12: 1."
+    },
+    {
+      "id": 79,
+      "text": "In Matt hom 6."
+    },
+    {
+      "id": 80,
+      "text": "Cat. Lect.23: 13."
+    },
+    {
+      "id": 81,
+      "text": "In Matt hom 6."
+    },
+    {
+      "id": 82,
+      "text": "On lying 8."
+    },
+    {
+      "id": 83,
+      "text": "Of the work of Monks 12."
+    },
+    {
+      "id": 84,
+      "text": "Com. On Matt. book 11: 12."
+    },
+    {
+      "id": 85,
+      "text": "On the Trinity 5: 28."
+    },
+    {
+      "id": 86,
+      "text": "In Titus hom 2."
+    },
+    {
+      "id": 87,
+      "text": "In Rom. hom 6."
+    },
+    {
+      "id": 88,
+      "text": "الأصحاح الثالث:"
+    },
+    {
+      "id": 89,
+      "text": "In Rom. hom 6."
+    },
+    {
+      "id": 90,
+      "text": "On Ps. hom 20."
+    },
+    {
+      "id": 91,
+      "text": "Ep.67: 8."
+    },
+    {
+      "id": 92,
+      "text": "Unity of the Church 22."
+    },
+    {
+      "id": 93,
+      "text": "Ep. 54: 6, 7."
+    },
+    {
+      "id": 94,
+      "text": "Seventh Council of Carthage under Cyprian."
+    },
+    {
+      "id": 95,
+      "text": "Ser.on N.T. Lessons 83: 6."
+    },
+    {
+      "id": 96,
+      "text": "City of God 14: 4."
+    },
+    {
+      "id": 97,
+      "text": "Paedagogus, 1: 8."
+    },
+    {
+      "id": 98,
+      "text": "In Rom hom 7."
+    },
+    {
+      "id": 99,
+      "text": "In 1 Tim. hom 4."
+    },
+    {
+      "id": 100,
+      "text": "Ser. 0n N.T. lessons 30: 4."
+    },
+    {
+      "id": 101,
+      "text": "In Rom. hom. 7."
+    },
+    {
+      "id": 102,
+      "text": "City ofGod 17: 4."
+    },
+    {
+      "id": 103,
+      "text": "In Rom. hom. 7."
+    },
+    {
+      "id": 104,
+      "text": "In Ioan tr 25: 12."
+    },
+    {
+      "id": 105,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 106,
+      "text": "Strom 5: 3."
+    },
+    {
+      "id": 107,
+      "text": "الأصحاح الرابع:"
+    },
+    {
+      "id": 108,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 109,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 110,
+      "text": "Strom 2: 15."
+    },
+    {
+      "id": 111,
+      "text": "In Ioan. Tr. 29: 6; 53: 10; 72: 2; 19: 11."
+    },
+    {
+      "id": 112,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 113,
+      "text": "Ser.on N.T.lessons 75: 2."
+    },
+    {
+      "id": 114,
+      "text": "Sermons On N.T. 19: 3."
+    },
+    {
+      "id": 115,
+      "text": "Scorpiace 7."
+    },
+    {
+      "id": 116,
+      "text": "الأصحاح الخامس:"
+    },
+    {
+      "id": 117,
+      "text": "Ep.60: 3."
+    },
+    {
+      "id": 118,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 119,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 120,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 121,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 122,
+      "text": "On Ps. hom 39."
+    },
+    {
+      "id": 123,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 124,
+      "text": "Cassian: Conf 16: 13."
+    },
+    {
+      "id": 125,
+      "text": "Of the Holy Spirit 1: 8."
+    },
+    {
+      "id": 126,
+      "text": "In Ioan. Tr 9: 8; 39: 5; 27: 9; 32: 8."
+    },
+    {
+      "id": 127,
+      "text": "Ibid 94: 2."
+    },
+    {
+      "id": 128,
+      "text": "Ser. On N.T. lessons 78: 4; Harm. Of the Gospel 1: 34."
+    },
+    {
+      "id": 129,
+      "text": "Cassian: Conf 21: 33."
+    },
+    {
+      "id": 130,
+      "text": "الكنز الجليل في تفسير الإنجيل- رسالة رومية، ص 72."
+    },
+    {
+      "id": 131,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 132,
+      "text": "In Ioan. Tr. 110: 6."
+    },
+    {
+      "id": 133,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 134,
+      "text": "Ep. 51: 19."
+    },
+    {
+      "id": 135,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 136,
+      "text": "On Belief of Resur. 2: 6."
+    },
+    {
+      "id": 12,
+      "text": "Topics of Faith 12."
+    },
+    {
+      "id": 13,
+      "text": "City of God 16: 27."
+    },
+    {
+      "id": 14,
+      "text": "Adv Haer 3: 18: 7."
+    },
+    {
+      "id": 15,
+      "text": "Against Arians, Dise 1: 59."
+    },
+    {
+      "id": 16,
+      "text": "Pasch. Ep. 5: 3."
+    },
+    {
+      "id": 17,
+      "text": "On luke 10: 22."
+    },
+    {
+      "id": 18,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 19,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 20,
+      "text": "Ser. Against Auxentius 36."
+    },
+    {
+      "id": 21,
+      "text": "Ep. 39: 4."
+    },
+    {
+      "id": 22,
+      "text": "On Continence."
+    },
+    {
+      "id": 23,
+      "text": "الأصحاح السادس:"
+    },
+    {
+      "id": 24,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 25,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 26,
+      "text": "Concerning Repentance, 2: 3."
+    },
+    {
+      "id": 27,
+      "text": "Oration on Holy Baptism 9."
+    },
+    {
+      "id": 28,
+      "text": "On Baptism of Christ."
+    },
+    {
+      "id": 29,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 30,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 31,
+      "text": "Strom. 4: 7."
+    },
+    {
+      "id": 32,
+      "text": "Ep. 69: 7."
+    },
+    {
+      "id": 33,
+      "text": "On Resurrection of the Flesh 46."
+    },
+    {
+      "id": 34,
+      "text": "On Resurrection of the Flesh, 47."
+    },
+    {
+      "id": 35,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 36,
+      "text": "Paschal Ep.,10: 8."
+    },
+    {
+      "id": 37,
+      "text": "Sermon. Against Auxentius 13."
+    },
+    {
+      "id": 38,
+      "text": "On Ps. hom 5."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. Hom, 40."
+    },
+    {
+      "id": 40,
+      "text": "On Ps. Hom, 55."
+    },
+    {
+      "id": 41,
+      "text": "On Continence 8; In Ioan.tr 41: 12."
+    },
+    {
+      "id": 42,
+      "text": "Serm on N.T. 78: 8, 12."
+    },
+    {
+      "id": 43,
+      "text": "Adv. Haer 5: 14: 4."
+    },
+    {
+      "id": 44,
+      "text": "In Ioan tr. 41: 8."
+    },
+    {
+      "id": 45,
+      "text": "Cassian: Conf 1: 5."
+    },
+    {
+      "id": 46,
+      "text": "للمؤلف: النعمة والإرادة الحرة، طبعة 1969 ص 38-42 ."
+    },
+    {
+      "id": 47,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 48,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 49,
+      "text": "In Ioan tr., 112: 5."
+    },
+    {
+      "id": 50,
+      "text": "الأصحاح السابع:"
+    },
+    {
+      "id": 51,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 52,
+      "text": "In Ioan tr 86: 5; Ser. On N. T. lessons 95: 3."
+    },
+    {
+      "id": 53,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 54,
+      "text": "In Ioan.tr 62: 1."
+    },
+    {
+      "id": 55,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 56,
+      "text": "Cassian: Conf 23: 13."
+    },
+    {
+      "id": 57,
+      "text": "On Resurrection."
+    },
+    {
+      "id": 58,
+      "text": "Cassian, Conf 23."
+    },
+    {
+      "id": 59,
+      "text": "In Ioan. Tr., 41: 10."
+    },
+    {
+      "id": 60,
+      "text": "On Continence 20."
+    },
+    {
+      "id": 61,
+      "text": "On Resurrection."
+    },
+    {
+      "id": 62,
+      "text": "Cassian: Conf. 20:12."
+    },
+    {
+      "id": 63,
+      "text": "On Ps. hom 41,51."
+    },
+    {
+      "id": 64,
+      "text": "Ep. 130: 9; 22:5."
+    },
+    {
+      "id": 65,
+      "text": "On Belief in Resurrection, 41."
+    },
+    {
+      "id": 66,
+      "text": "In Ioan. tr 41: 11."
+    },
+    {
+      "id": 67,
+      "text": "Cassian: Conf., 23: 10, 11."
+    },
+    {
+      "id": 68,
+      "text": "Cassian: Conf., 23: 16-18."
+    },
+    {
+      "id": 69,
+      "text": "Cassian: Conf., 4: 11."
+    },
+    {
+      "id": 70,
+      "text": "On Continence 19."
+    },
+    {
+      "id": 71,
+      "text": "In Ioan. tr 77: 4."
+    },
+    {
+      "id": 72,
+      "text": "In Ioan. Tr., 41: 10."
+    },
+    {
+      "id": 73,
+      "text": "Ser. On N. T. lessons 95: 3."
+    },
+    {
+      "id": 74,
+      "text": "الأصحاح الثامن:"
+    },
+    {
+      "id": 75,
+      "text": "Cassian: conf. 23: 13."
+    },
+    {
+      "id": 76,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 77,
+      "text": "On Ps. hom 7."
+    },
+    {
+      "id": 78,
+      "text": "In Matt. hom 16."
+    },
+    {
+      "id": 79,
+      "text": "In Ioan. tr 41: 6; 108: 4."
+    },
+    {
+      "id": 80,
+      "text": "Conc. Repentance, 1: 3."
+    },
+    {
+      "id": 81,
+      "text": "Sermons on N. T. 19: 4."
+    },
+    {
+      "id": 82,
+      "text": "Ep.10 ad Adelphium; against Arians, discourse. 1: 51."
+    },
+    {
+      "id": 83,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 84,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 85,
+      "text": "Adv. Haer.5: 10: 2."
+    },
+    {
+      "id": 86,
+      "text": "Adv. Haer 5: 8: 1."
+    },
+    {
+      "id": 87,
+      "text": "Stromata, 2: 22."
+    },
+    {
+      "id": 88,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 89,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 90,
+      "text": "Of the Holy Spirit 3: 19."
+    },
+    {
+      "id": 91,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 92,
+      "text": "Ser. On N.T. 78: 9."
+    },
+    {
+      "id": 93,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 94,
+      "text": "In Ioan. Tract., 85: 3."
+    },
+    {
+      "id": 95,
+      "text": "On Ps.hom 59."
+    },
+    {
+      "id": 96,
+      "text": "Reproach & Grace 4; Grace& Free- will 23."
+    },
+    {
+      "id": 97,
+      "text": "On Jealousy & Envy 14."
+    },
+    {
+      "id": 98,
+      "text": "Adv. Eunomius 10: 4."
+    },
+    {
+      "id": 99,
+      "text": "Harmony. Of Gospels, 3: 4."
+    },
+    {
+      "id": 100,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 101,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 102,
+      "text": "Ep 22: 40; 14: 16, 10."
+    },
+    {
+      "id": 103,
+      "text": "Ep 76: 7."
+    },
+    {
+      "id": 104,
+      "text": "Ser. On N.T. 20: 3."
+    },
+    {
+      "id": 105,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 106,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 107,
+      "text": "Adv. Eunomius 4: 3."
+    },
+    {
+      "id": 108,
+      "text": "Adv. Haer 5: 32: 1."
+    },
+    {
+      "id": 109,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 110,
+      "text": "In Ioan. Tr 86: 1."
+    },
+    {
+      "id": 111,
+      "text": "Ser On N.T.55: 7."
+    },
+    {
+      "id": 112,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 113,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 114,
+      "text": "Cassian: Conf. 9: 34."
+    },
+    {
+      "id": 115,
+      "text": "In Ioan. Tr 6: 1."
+    },
+    {
+      "id": 116,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 117,
+      "text": "Cassian: Conf. 6: 8."
+    },
+    {
+      "id": 118,
+      "text": "Grace& Free- will 33."
+    },
+    {
+      "id": 119,
+      "text": "On Ps. hom 6."
+    },
+    {
+      "id": 120,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 121,
+      "text": "Reproach & Grece 22."
+    },
+    {
+      "id": 122,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 123,
+      "text": "Adv.Eunomius 2: 8."
+    },
+    {
+      "id": 124,
+      "text": "City of God 22: 16."
+    },
+    {
+      "id": 125,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 126,
+      "text": "Reproach &Grace 23."
+    },
+    {
+      "id": 127,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 128,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 129,
+      "text": "In Ioan. tr 112: 5."
+    },
+    {
+      "id": 130,
+      "text": "Of the Holy Spirit 1: 12 ."
+    },
+    {
+      "id": 131,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 132,
+      "text": "In Ioan. tr 56: 4."
+    },
+    {
+      "id": 133,
+      "text": "In Ioan. tr.58: 5."
+    },
+    {
+      "id": 134,
+      "text": "Conc. Repent. 1: 3 ."
+    },
+    {
+      "id": 135,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 136,
+      "text": "Fragments from Comm. on Prov 9: 1."
+    },
+    {
+      "id": 137,
+      "text": "Ep. 7: 5."
+    },
+    {
+      "id": 138,
+      "text": "Adv. Haer 2: 22: 2."
+    },
+    {
+      "id": 139,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 140,
+      "text": "Of the Christian faith 5: 16 ."
+    },
+    {
+      "id": 141,
+      "text": "الأصحاح التاسع:"
+    },
+    {
+      "id": 142,
+      "text": "Cassian:Conf. 9: 18."
+    },
+    {
+      "id": 143,
+      "text": "Strong: Hebrew& Chaldee Dict., article 3478"
+    },
+    {
+      "id": 144,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 145,
+      "text": "Against heresy of Noetius 6."
+    },
+    {
+      "id": 146,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 147,
+      "text": "In Ioan. tr 117: 5."
+    },
+    {
+      "id": 148,
+      "text": "City of God 16: 32."
+    },
+    {
+      "id": 149,
+      "text": "City of God 16: 34."
+    },
+    {
+      "id": 150,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 151,
+      "text": "Adv. Haer 4: 21: 2."
+    },
+    {
+      "id": 152,
+      "text": "In Ioan. tr 11: 10."
+    },
+    {
+      "id": 153,
+      "text": "طبعة 1984، ص 242، 243."
+    },
+    {
+      "id": 154,
+      "text": "City of God 16: 35."
+    },
+    {
+      "id": 155,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 156,
+      "text": "Ep. 133: 6."
+    },
+    {
+      "id": 157,
+      "text": "Ep. 130: 12."
+    },
+    {
+      "id": 158,
+      "text": "Cassian: Conf 4: 5."
+    },
+    {
+      "id": 159,
+      "text": "Instit. 12: 9."
+    },
+    {
+      "id": 160,
+      "text": "On Ps. hom 34."
+    },
+    {
+      "id": 161,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 162,
+      "text": "In Rom. hom 16"
+    },
+    {
+      "id": 163,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 164,
+      "text": "Adv. Haer. 4: 20, 21."
+    },
+    {
+      "id": 165,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 166,
+      "text": "الأصحاح العاشر:"
+    },
+    {
+      "id": 167,
+      "text": "In Ioan. tr. 93: 4."
+    },
+    {
+      "id": 168,
+      "text": "In Ioan. tr 26: 1."
+    },
+    {
+      "id": 169,
+      "text": "City of God 17: 4."
+    },
+    {
+      "id": 170,
+      "text": "Grace & Freewill, 24."
+    },
+    {
+      "id": 171,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 172,
+      "text": "Strom 2: 9."
+    },
+    {
+      "id": 173,
+      "text": "In Ioan. tr. 3: 2."
+    },
+    {
+      "id": 174,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 175,
+      "text": "In Ioan tr 26: 1."
+    },
+    {
+      "id": 176,
+      "text": "Ep. 41: 15."
+    },
+    {
+      "id": 177,
+      "text": "On Belief in Resurrection. 2: 112."
+    },
+    {
+      "id": 178,
+      "text": "Ser. On N. T. 4: 4."
+    },
+    {
+      "id": 179,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 180,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 181,
+      "text": "Dial. with Trypho 97."
+    },
+    {
+      "id": 182,
+      "text": "الأصحاح الحادي عشر:"
+    },
+    {
+      "id": 183,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 184,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 185,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 186,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 187,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 188,
+      "text": "In Ioan. tr. 53: 6."
+    },
+    {
+      "id": 189,
+      "text": "Of the Holy Spirit 2: Intr. ."
+    },
+    {
+      "id": 190,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 191,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 192,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 193,
+      "text": "Adv. Haer. 1: 8: 4."
+    },
+    {
+      "id": 194,
+      "text": "Adv. Eunomius 2. 8."
+    },
+    {
+      "id": 195,
+      "text": "Adv. Eunomius 4: 3."
+    },
+    {
+      "id": 196,
+      "text": "Adv. Eunomius 12: 1."
+    },
+    {
+      "id": 197,
+      "text": "Adv. Haer. 4: 24: 1."
+    },
+    {
+      "id": 198,
+      "text": "Ep. 22: 3."
+    },
+    {
+      "id": 199,
+      "text": "On Ps. hom 33."
+    },
+    {
+      "id": 200,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 201,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 202,
+      "text": "الأصحاح الثاني عشر:"
+    },
+    {
+      "id": 203,
+      "text": "In Rom. hom 20."
+    },
+    {
+      "id": 204,
+      "text": "On Ps. hom 23."
+    },
+    {
+      "id": 205,
+      "text": "On Virginity."
+    },
+    {
+      "id": 206,
+      "text": "Ep. 76: 3."
+    },
+    {
+      "id": 207,
+      "text": "In Rom. hom 20."
+    },
+    {
+      "id": 208,
+      "text": "In Ioan. tr 74: 3."
+    },
+    {
+      "id": 209,
+      "text": "In Rom. hom. 21."
+    },
+    {
+      "id": 210,
+      "text": "In Rom. hom. 21."
+    },
+    {
+      "id": 211,
+      "text": "In Rom. hom. 21."
+    },
+    {
+      "id": 212,
+      "text": "In Rom. hom. 21."
+    },
+    {
+      "id": 213,
+      "text": "Ep. 22: 2."
+    },
+    {
+      "id": 214,
+      "text": "Ep. 52: 4."
+    },
+    {
+      "id": 215,
+      "text": "On Ps. hom 57."
+    },
+    {
+      "id": 216,
+      "text": "Ep. 49 ad Dracontium."
+    },
+    {
+      "id": 217,
+      "text": "In Ioan. tr 111: 1."
+    },
+    {
+      "id": 218,
+      "text": "In Rom. hom 21."
+    },
+    {
+      "id": 219,
+      "text": "In Rom. hom. 21."
+    },
+    {
+      "id": 220,
+      "text": "Ep. 59."
+    },
+    {
+      "id": 221,
+      "text": "In Rom. hom 22."
+    },
+    {
+      "id": 222,
+      "text": "In Rom. hom. 22."
+    },
+    {
+      "id": 223,
+      "text": "In Rom. hom. 22."
+    },
+    {
+      "id": 224,
+      "text": "On Ps. hom 57."
+    },
+    {
+      "id": 225,
+      "text": "Ep. 63: 100."
+    },
+    {
+      "id": 226,
+      "text": "Duties of Clergy 1: 21 ."
+    },
+    {
+      "id": 227,
+      "text": "On Ps. hom 22, 41; adv. pelag. 1: 30 (See st. Aug: On Christian Doctrine 3: 16)."
+    },
+    {
+      "id": 228,
+      "text": "Cassian: Conf. 16: 22, 23."
+    },
+    {
+      "id": 229,
+      "text": "الأصحاح الثالث عشر:"
+    },
+    {
+      "id": 230,
+      "text": "In Rom. hom 23."
+    },
+    {
+      "id": 231,
+      "text": "In Ioan. tr 57: 1."
+    },
+    {
+      "id": 232,
+      "text": "In Ioan. tr 83: 3."
+    },
+    {
+      "id": 233,
+      "text": "Strom. 4: 19."
+    },
+    {
+      "id": 234,
+      "text": "In Rom hom 23."
+    },
+    {
+      "id": 235,
+      "text": "In Rom hom 24."
+    },
+    {
+      "id": 236,
+      "text": "Pastoral Rule 3: 39."
+    },
+    {
+      "id": 237,
+      "text": "On Ps. hom 46."
+    },
+    {
+      "id": 238,
+      "text": "On Jealous y& Envy 10."
+    },
+    {
+      "id": 239,
+      "text": "Strom.4: 26."
+    },
+    {
+      "id": 240,
+      "text": "Pasch. Ep.4: 3."
+    },
+    {
+      "id": 241,
+      "text": "In Rom. hom 24."
+    },
+    {
+      "id": 242,
+      "text": "الأصحاح الرابع عشر:"
+    },
+    {
+      "id": 243,
+      "text": "In Rom. hom 25."
+    },
+    {
+      "id": 244,
+      "text": "Cassian: Conf. 17: 20."
+    },
+    {
+      "id": 245,
+      "text": "Conc. Virgins 1: 6."
+    },
+    {
+      "id": 246,
+      "text": "Paedagogus. 2: 1."
+    },
+    {
+      "id": 247,
+      "text": "In Rom. hom 25."
+    },
+    {
+      "id": 248,
+      "text": "Cassian: Conf. 21: 13."
+    },
+    {
+      "id": 249,
+      "text": "In Rom. hom 26."
+    },
+    {
+      "id": 250,
+      "text": "Paedagogus.2: 1;"
+    },
+    {
+      "id": 251,
+      "text": "Cassian: Conf. 1: 13."
+    },
+    {
+      "id": 252,
+      "text": "Cassian: Conf. 1: 13."
+    },
+    {
+      "id": 253,
+      "text": "الأصحاح الخامس عشر:"
+    },
+    {
+      "id": 254,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 255,
+      "text": "Ser. On N. T. 26: 4."
+    },
+    {
+      "id": 256,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 257,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 258,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 259,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 260,
+      "text": "In Rom. hom 28."
+    },
+    {
+      "id": 261,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 262,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 263,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 264,
+      "text": "Ep. 159: 2."
+    },
+    {
+      "id": 265,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 266,
+      "text": "الليريكون هي إحدى ولايات المملكة الرومانية شمال غربي مكدونية ."
+    },
+    {
+      "id": 267,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 268,
+      "text": "On Ps. hom 14."
+    },
+    {
+      "id": 269,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 270,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 271,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 272,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 273,
+      "text": "الأصحاح السادس عشر:"
+    },
+    {
+      "id": 274,
+      "text": "Strong: Greek Dict. of the N. T., articles 5402; 5457."
+    },
+    {
+      "id": 275,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 276,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 277,
+      "text": "New Westminster Dict. of the Bible, p 269."
+    },
+    {
+      "id": 278,
+      "text": "In Rom. hom 31."
+    },
+    {
+      "id": 279,
+      "text": "Ibid."
+    },
+    {
+      "id": 280,
+      "text": "New Westminster Dict. p 43."
+    },
+    {
+      "id": 281,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 282,
+      "text": "New Westminster Dict. p 40."
+    },
+    {
+      "id": 283,
+      "text": "Mckenzie: Dict. Of the Bible, p 909."
+    },
+    {
+      "id": 284,
+      "text": "New Westminster Dict. p 904."
+    },
+    {
+      "id": 285,
+      "text": "Mckenzie, 38."
+    },
+    {
+      "id": 286,
+      "text": "New Westminster, p 62."
+    },
+    {
+      "id": 287,
+      "text": "In Rom, hom 31."
+    },
+    {
+      "id": 288,
+      "text": "Gregory Dix: The shape of Liturgy, p 110."
+    },
+    {
+      "id": 289,
+      "text": "للمؤلف:المسيح في سرّ الإفخارستيا، 1973 ، ص 411."
+    },
+    {
+      "id": 290,
+      "text": "PL 38: 1101 A."
+    },
+    {
+      "id": 291,
+      "text": "In Rom. hom 32."
+    },
+    {
+      "id": 292,
+      "text": "Ibid."
+    },
+    {
+      "id": 293,
+      "text": "On Ps. hom 20."
+    },
+    {
+      "id": 294,
+      "text": "Strong: Greek Dictionary of the N.T., article 4517."
+    },
+    {
+      "id": 295,
+      "text": "J. Hastings: Dictionary of the Bible, N.Y. 1963, p 862."
+    },
+    {
+      "id": 296,
+      "text": "مذكرات القس مينا إسكندر على الرسالة، بالإكليريكية الإسكندرية."
+    },
+    {
+      "id": 297,
+      "text": "Donald Guthrie: N.T. Introduction, 1975, p 393-4."
+    },
+    {
+      "id": 298,
+      "text": "اسم لاتيني معناه\"الثالث\"."
+    },
+    {
+      "id": 299,
+      "text": "اسم يوناني معناه\"دخن\"، وتسمى حاليٌا \"كخريس\"."
+    },
+    {
+      "id": 300,
+      "text": "Jerome Biblical Comm., p 292; Guthrie p 395."
+    },
+    {
+      "id": 301,
+      "text": "Guthrie, P 400-404."
+    },
+    {
+      "id": 302,
+      "text": "Origen & the Doctrine of Grace, London 1960, p. 48."
+    },
+    {
+      "id": 303,
+      "text": "Incar. 3."
+    },
+    {
+      "id": 304,
+      "text": "Against Arians 2: 67."
+    },
+    {
+      "id": 305,
+      "text": "J. Hastings: Dictionary of the Apostolic Church, v., p 370-371."
+    },
+    {
+      "id": 306,
+      "text": "In Rom, hom 1."
+    },
+    {
+      "id": 307,
+      "text": "In Rom, hom 1."
+    },
+    {
+      "id": 308,
+      "text": "Of the Christian Faith, 5: 9 ."
+    },
+    {
+      "id": 309,
+      "text": "Of the Christian Faith, 1: 16 ."
+    },
+    {
+      "id": 310,
+      "text": "In Rom. hom 1"
+    },
+    {
+      "id": 311,
+      "text": "Cat. Lect., 12: 23."
+    },
+    {
+      "id": 312,
+      "text": "City of God, 17: 8."
+    },
+    {
+      "id": 313,
+      "text": "In Rom. hom 1."
+    },
+    {
+      "id": 314,
+      "text": "In Rom. hom 1."
+    },
+    {
+      "id": 315,
+      "text": "Of Christian Faith, 3: 5 ."
+    },
+    {
+      "id": 316,
+      "text": "Oration. 37: 7."
+    },
+    {
+      "id": 317,
+      "text": "للمؤلف: آباء مدرسة إسكندرية الأولون، العلامة أوريجينوس، النعمة."
+    },
+    {
+      "id": 318,
+      "text": "In Rom. hom. 1."
+    },
+    {
+      "id": 319,
+      "text": "In Rom. hom. 1."
+    },
+    {
+      "id": 320,
+      "text": "Erdman: The Epistle to Romans, p 25."
+    },
+    {
+      "id": 321,
+      "text": "In Rom. hom., 1."
+    },
+    {
+      "id": 322,
+      "text": "Of the Holy Spirit 1: 12 ."
+    },
+    {
+      "id": 323,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 324,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 325,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 326,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 327,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 328,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 329,
+      "text": "Strom. 5: 1."
+    },
+    {
+      "id": 330,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 331,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 332,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 333,
+      "text": "Adv. Marc. 5: 13."
+    },
+    {
+      "id": 334,
+      "text": "Strom 2.6."
+    },
+    {
+      "id": 335,
+      "text": "City of God 20: 26."
+    },
+    {
+      "id": 336,
+      "text": "In Rom. hom 2."
+    },
+    {
+      "id": 337,
+      "text": "On Christian Doctrine 1: 4."
+    },
+    {
+      "id": 338,
+      "text": "OfChrist. Faith 1: 10 ."
+    },
+    {
+      "id": 339,
+      "text": "In Ioan . tr 14: 3."
+    },
+    {
+      "id": 340,
+      "text": "In Ioan . Tr 2: 4."
+    },
+    {
+      "id": 341,
+      "text": "City of God 8. 10."
+    },
+    {
+      "id": 342,
+      "text": "Instit. 12: 21."
+    },
+    {
+      "id": 343,
+      "text": "Conf. 3: 20."
+    },
+    {
+      "id": 344,
+      "text": "Conf. 3: 20."
+    },
+    {
+      "id": 345,
+      "text": "In Rom. hom 3."
+    },
+    {
+      "id": 346,
+      "text": "In Rom. Hom. 4."
+    },
+    {
+      "id": 347,
+      "text": "In Rom. Hom. 4."
+    },
+    {
+      "id": 348,
+      "text": "In Rom. Hom. 5."
+    },
+    {
+      "id": 349,
+      "text": "De Corona 6."
+    },
+    {
+      "id": 350,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 351,
+      "text": "Cassian: Conf. 7: 31."
+    },
+    {
+      "id": 352,
+      "text": "In Ioan.tr 33: 7."
+    },
+    {
+      "id": 353,
+      "text": "In Eph. hom 4; In Matt. hom 75."
+    },
+    {
+      "id": 354,
+      "text": "City of God 1: 8."
+    },
+    {
+      "id": 355,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 356,
+      "text": "Adv. Haer 4: 37: 1."
+    },
+    {
+      "id": 357,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 358,
+      "text": "In Rom. hom 5."
+    },
+    {
+      "id": 359,
+      "text": "In Ioan tr 54: 6."
+    },
+    {
+      "id": 360,
+      "text": "n Ioan tr 89: 3."
+    },
+    {
+      "id": 361,
+      "text": "In Matt. hom 75."
+    },
+    {
+      "id": 362,
+      "text": "In Matt. hom 5."
+    },
+    {
+      "id": 363,
+      "text": "In Matt. hom."
+    },
+    {
+      "id": 364,
+      "text": "Cassian: Conf. 7: 5."
+    },
+    {
+      "id": 365,
+      "text": "Cassian: Conf 17: 14."
+    },
+    {
+      "id": 366,
+      "text": "Comm. On John, book 1: 6."
+    },
+    {
+      "id": 367,
+      "text": "In Matt. hom 6."
+    },
+    {
+      "id": 368,
+      "text": "In Matt. hom 6."
+    },
+    {
+      "id": 369,
+      "text": "Cat. Lect. 12: 1."
+    },
+    {
+      "id": 370,
+      "text": "In Matt hom 6."
+    },
+    {
+      "id": 371,
+      "text": "Cat. Lect.23: 13."
+    },
+    {
+      "id": 372,
+      "text": "In Matt hom 6."
+    },
+    {
+      "id": 373,
+      "text": "On lying 8."
+    },
+    {
+      "id": 374,
+      "text": "Of the work of Monks 12."
+    },
+    {
+      "id": 375,
+      "text": "Com. On Matt. book 11: 12."
+    },
+    {
+      "id": 376,
+      "text": "On the Trinity 5: 28."
+    },
+    {
+      "id": 377,
+      "text": "In Titus hom 2."
+    },
+    {
+      "id": 378,
+      "text": "In Rom. hom 6."
+    },
+    {
+      "id": 379,
+      "text": "In Rom. hom 6."
+    },
+    {
+      "id": 380,
+      "text": "On Ps. hom 20."
+    },
+    {
+      "id": 381,
+      "text": "Ep.67: 8."
+    },
+    {
+      "id": 382,
+      "text": "Unity of the Church 22."
+    },
+    {
+      "id": 383,
+      "text": "Ep. 54: 6, 7."
+    },
+    {
+      "id": 384,
+      "text": "Seventh Council of Carthage under Cyprian."
+    },
+    {
+      "id": 385,
+      "text": "Ser.on N.T. Lessons 83: 6."
+    },
+    {
+      "id": 386,
+      "text": "City of God 14: 4."
+    },
+    {
+      "id": 387,
+      "text": "Paedagogus, 1: 8."
+    },
+    {
+      "id": 388,
+      "text": "In Rom hom 7."
+    },
+    {
+      "id": 389,
+      "text": "In 1 Tim. hom 4."
+    },
+    {
+      "id": 390,
+      "text": "Ser. 0n N.T. lessons 30: 4."
+    },
+    {
+      "id": 391,
+      "text": "In Rom. hom. 7."
+    },
+    {
+      "id": 392,
+      "text": "City ofGod 17: 4."
+    },
+    {
+      "id": 393,
+      "text": "In Rom. hom. 7."
+    },
+    {
+      "id": 394,
+      "text": "In Ioan tr 25: 12."
+    },
+    {
+      "id": 395,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 396,
+      "text": "Strom 5: 3."
+    },
+    {
+      "id": 397,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 398,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 399,
+      "text": "Strom 2: 15."
+    },
+    {
+      "id": 400,
+      "text": "In Ioan. Tr. 29: 6; 53: 10; 72: 2; 19: 11."
+    },
+    {
+      "id": 401,
+      "text": "In Rom. hom 8."
+    },
+    {
+      "id": 402,
+      "text": "Ser.on N.T.lessons 75: 2."
+    },
+    {
+      "id": 403,
+      "text": "Sermons On N.T. 19: 3."
+    },
+    {
+      "id": 404,
+      "text": "Scorpiace 7."
+    },
+    {
+      "id": 405,
+      "text": "Ep.60: 3."
+    },
+    {
+      "id": 406,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 407,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 408,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 409,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 410,
+      "text": "On Ps. hom 39."
+    },
+    {
+      "id": 411,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 412,
+      "text": "Cassian: Conf 16: 13."
+    },
+    {
+      "id": 413,
+      "text": "Of the Holy Spirit 1: 8."
+    },
+    {
+      "id": 414,
+      "text": "In Ioan. Tr 9: 8; 39: 5; 27: 9; 32: 8."
+    },
+    {
+      "id": 415,
+      "text": "Ibid 94: 2."
+    },
+    {
+      "id": 416,
+      "text": "Ser. On N.T. lessons 78: 4; Harm. Of the Gospel 1: 34."
+    },
+    {
+      "id": 417,
+      "text": "Cassian: Conf 21: 33."
+    },
+    {
+      "id": 418,
+      "text": "الكنز الجليل في تفسير الإنجيل- رسالة رومية، ص 72."
+    },
+    {
+      "id": 419,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 420,
+      "text": "In Ioan. Tr. 110: 6."
+    },
+    {
+      "id": 421,
+      "text": "In Rom. hom 9."
+    },
+    {
+      "id": 422,
+      "text": "Ep. 51: 19."
+    },
+    {
+      "id": 423,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 424,
+      "text": "On Belief of Resur. 2: 6."
+    },
+    {
+      "id": 12,
+      "text": "Topics of Faith 12."
+    },
+    {
+      "id": 13,
+      "text": "City of God 16: 27."
+    },
+    {
+      "id": 14,
+      "text": "Adv Haer 3: 18: 7."
+    },
+    {
+      "id": 15,
+      "text": "Against Arians, Dise 1: 59."
+    },
+    {
+      "id": 16,
+      "text": "Pasch. Ep. 5: 3."
+    },
+    {
+      "id": 17,
+      "text": "On luke 10: 22."
+    },
+    {
+      "id": 18,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 19,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 20,
+      "text": "Ser. Against Auxentius 36."
+    },
+    {
+      "id": 21,
+      "text": "Ep. 39: 4."
+    },
+    {
+      "id": 22,
+      "text": "On Continence."
+    },
+    {
+      "id": 23,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 24,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 25,
+      "text": "Concerning Repentance, 2: 3."
+    },
+    {
+      "id": 26,
+      "text": "Oration on Holy Baptism 9."
+    },
+    {
+      "id": 27,
+      "text": "On Baptism of Christ."
+    },
+    {
+      "id": 28,
+      "text": "In Rom. hom 10."
+    },
+    {
+      "id": 29,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 30,
+      "text": "Strom. 4: 7."
+    },
+    {
+      "id": 31,
+      "text": "Ep; 63: 11."
+    },
+    {
+      "id": 32,
+      "text": "Ep. 69: 7."
+    },
+    {
+      "id": 33,
+      "text": "On Resurrection of the Flesh 46."
+    },
+    {
+      "id": 34,
+      "text": "On Resurrection of the Flesh, 47."
+    },
+    {
+      "id": 35,
+      "text": "In Rom. hom 11."
+    },
+    {
+      "id": 36,
+      "text": "Paschal Ep.,10: 8."
+    },
+    {
+      "id": 37,
+      "text": "Sermon. Against Auxentius 13."
+    },
+    {
+      "id": 38,
+      "text": "On Ps. hom 5."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. Hom, 40."
+    },
+    {
+      "id": 40,
+      "text": "On Ps. Hom, 55."
+    },
+    {
+      "id": 41,
+      "text": "On Continence 8; In Ioan.tr 41: 12."
+    },
+    {
+      "id": 42,
+      "text": "Serm on N.T. 78: 8, 12."
+    },
+    {
+      "id": 43,
+      "text": "Adv. Haer 5: 14: 4."
+    },
+    {
+      "id": 44,
+      "text": "In Ioan tr. 41: 8."
+    },
+    {
+      "id": 45,
+      "text": "Cassian: Conf 1: 5."
+    },
+    {
+      "id": 46,
+      "text": "للمؤلف: النعمة والإرادة الحرة، طبعة 1969 ص 38-42 ."
+    },
+    {
+      "id": 47,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 48,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 49,
+      "text": "In Ioan tr., 112: 5."
+    },
+    {
+      "id": 50,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 51,
+      "text": "In Ioan tr 86: 5; Ser. On N. T. lessons 95: 3."
+    },
+    {
+      "id": 52,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 53,
+      "text": "In Ioan.tr 62: 1."
+    },
+    {
+      "id": 54,
+      "text": "In Rom. hom 12."
+    },
+    {
+      "id": 55,
+      "text": "Cassian: Conf 23: 13."
+    },
+    {
+      "id": 56,
+      "text": "On Resurrection."
+    },
+    {
+      "id": 57,
+      "text": "Cassian, Conf 23."
+    },
+    {
+      "id": 58,
+      "text": "In Ioan. Tr., 41: 10."
+    },
+    {
+      "id": 59,
+      "text": "On Continence 20."
+    },
+    {
+      "id": 60,
+      "text": "On Resurrection."
+    },
+    {
+      "id": 61,
+      "text": "Cassian: Conf. 20:12."
+    },
+    {
+      "id": 62,
+      "text": "On Ps. hom 41,51."
+    },
+    {
+      "id": 63,
+      "text": "Ep. 130: 9; 22:5."
+    },
+    {
+      "id": 64,
+      "text": "On Belief in Resurrection, 41."
+    },
+    {
+      "id": 65,
+      "text": "In Ioan. tr 41: 11."
+    },
+    {
+      "id": 66,
+      "text": "Cassian: Conf., 23: 10, 11."
+    },
+    {
+      "id": 67,
+      "text": "Cassian: Conf., 23: 16-18."
+    },
+    {
+      "id": 68,
+      "text": "Cassian: Conf., 4: 11."
+    },
+    {
+      "id": 69,
+      "text": "On Continence 19."
+    },
+    {
+      "id": 70,
+      "text": "In Ioan. tr 77: 4."
+    },
+    {
+      "id": 71,
+      "text": "In Ioan. Tr., 41: 10."
+    },
+    {
+      "id": 72,
+      "text": "Ser. On N. T. lessons 95: 3."
+    },
+    {
+      "id": 73,
+      "text": "Cassian: conf. 23: 13."
+    },
+    {
+      "id": 74,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 75,
+      "text": "On Ps. hom 7."
+    },
+    {
+      "id": 76,
+      "text": "In Matt. hom 16."
+    },
+    {
+      "id": 77,
+      "text": "In Ioan. tr 41: 6; 108: 4."
+    },
+    {
+      "id": 78,
+      "text": "Conc. Repentance, 1: 3."
+    },
+    {
+      "id": 79,
+      "text": "Sermons on N. T. 19: 4."
+    },
+    {
+      "id": 80,
+      "text": "Ep.10 ad Adelphium; against Arians, discourse. 1: 51."
+    },
+    {
+      "id": 81,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 82,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 83,
+      "text": "Adv. Haer.5: 10: 2."
+    },
+    {
+      "id": 84,
+      "text": "Adv. Haer 5: 8: 1."
+    },
+    {
+      "id": 85,
+      "text": "Stromata, 2: 22."
+    },
+    {
+      "id": 86,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 87,
+      "text": "In Rom. hom 13."
+    },
+    {
+      "id": 88,
+      "text": "Of the Holy Spirit 3: 19."
+    },
+    {
+      "id": 89,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 90,
+      "text": "Ser. On N.T. 78: 9."
+    },
+    {
+      "id": 91,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 92,
+      "text": "In Ioan. Tract., 85: 3."
+    },
+    {
+      "id": 93,
+      "text": "On Ps.hom 59."
+    },
+    {
+      "id": 94,
+      "text": "Reproach & Grace 4; Grace& Free- will 23."
+    },
+    {
+      "id": 95,
+      "text": "On Jealousy & Envy 14."
+    },
+    {
+      "id": 96,
+      "text": "Adv. Eunomius 10: 4."
+    },
+    {
+      "id": 97,
+      "text": "Harmony. Of Gospels, 3: 4."
+    },
+    {
+      "id": 98,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 99,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 100,
+      "text": "Ep 22: 40; 14: 16, 10."
+    },
+    {
+      "id": 101,
+      "text": "Ep 76: 7."
+    },
+    {
+      "id": 102,
+      "text": "Ser. On N.T. 20: 3."
+    },
+    {
+      "id": 103,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 104,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 105,
+      "text": "Adv. Eunomius 4: 3."
+    },
+    {
+      "id": 106,
+      "text": "Adv. Haer 5: 32: 1."
+    },
+    {
+      "id": 107,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 108,
+      "text": "In Ioan. Tr 86: 1."
+    },
+    {
+      "id": 109,
+      "text": "Ser On N.T.55: 7."
+    },
+    {
+      "id": 110,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 111,
+      "text": "In Rom. hom 14."
+    },
+    {
+      "id": 112,
+      "text": "Cassian: Conf. 9: 34."
+    },
+    {
+      "id": 113,
+      "text": "In Ioan. Tr 6: 1."
+    },
+    {
+      "id": 114,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 115,
+      "text": "Cassian: Conf. 6: 8."
+    },
+    {
+      "id": 116,
+      "text": "Grace& Free- will 33."
+    },
+    {
+      "id": 117,
+      "text": "On Ps. hom 6."
+    },
+    {
+      "id": 118,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 119,
+      "text": "Reproach & Grece 22."
+    },
+    {
+      "id": 120,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 121,
+      "text": "Adv.Eunomius 2: 8."
+    },
+    {
+      "id": 122,
+      "text": "City of God 22: 16."
+    },
+    {
+      "id": 123,
+      "text": "Against Arians 2: 61."
+    },
+    {
+      "id": 124,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 125,
+      "text": "Reproach &Grace 23."
+    },
+    {
+      "id": 126,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 127,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 128,
+      "text": "In Ioan. tr 112: 5."
+    },
+    {
+      "id": 129,
+      "text": "Of the Holy Spirit 1: 12 ."
+    },
+    {
+      "id": 130,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 131,
+      "text": "In Ioan. tr 56: 4."
+    },
+    {
+      "id": 132,
+      "text": "In Ioan. tr.58: 5."
+    },
+    {
+      "id": 133,
+      "text": "Conc. Repent. 1: 3 ."
+    },
+    {
+      "id": 134,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 135,
+      "text": "Fragments from Comm. on Prov 9: 1."
+    },
+    {
+      "id": 136,
+      "text": "Ep. 7: 5."
+    },
+    {
+      "id": 137,
+      "text": "Adv. Haer 2: 22: 2."
+    },
+    {
+      "id": 138,
+      "text": "In Rom. hom 15."
+    },
+    {
+      "id": 139,
+      "text": "Of the Christian faith 5: 16 ."
+    },
+    {
+      "id": 140,
+      "text": "Cassian:Conf. 9: 18."
+    },
+    {
+      "id": 141,
+      "text": "Strong: Hebrew& Chaldee Dict., article 3478"
+    },
+    {
+      "id": 142,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 143,
+      "text": "Against heresy of Noetius 6."
+    },
+    {
+      "id": 144,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 145,
+      "text": "In Ioan. tr 117: 5."
+    },
+    {
+      "id": 146,
+      "text": "City of God 16: 32."
+    },
+    {
+      "id": 147,
+      "text": "City of God 16: 34."
+    },
+    {
+      "id": 148,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 149,
+      "text": "Adv. Haer 4: 21: 2."
+    },
+    {
+      "id": 150,
+      "text": "In Ioan. tr 11: 10."
+    },
+    {
+      "id": 151,
+      "text": "طبعة 1984، ص 242، 243."
+    },
+    {
+      "id": 152,
+      "text": "City of God 16: 35."
+    },
+    {
+      "id": 153,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 154,
+      "text": "Ep. 133: 6."
+    },
+    {
+      "id": 155,
+      "text": "Ep. 130: 12."
+    },
+    {
+      "id": 156,
+      "text": "Cassian: Conf 4: 5."
+    },
+    {
+      "id": 157,
+      "text": "Instit. 12: 9."
+    },
+    {
+      "id": 158,
+      "text": "On Ps. hom 34."
+    },
+    {
+      "id": 159,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 160,
+      "text": "In Rom. hom 16"
+    },
+    {
+      "id": 161,
+      "text": "In Rom. hom 16."
+    },
+    {
+      "id": 162,
+      "text": "Adv. Haer. 4: 20, 21."
+    },
+    {
+      "id": 163,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 164,
+      "text": "In Ioan. tr. 93: 4."
+    },
+    {
+      "id": 165,
+      "text": "In Ioan. tr 26: 1."
+    },
+    {
+      "id": 166,
+      "text": "City of God 17: 4."
+    },
+    {
+      "id": 167,
+      "text": "Grace & Freewill, 24."
+    },
+    {
+      "id": 168,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 169,
+      "text": "Strom 2: 9."
+    },
+    {
+      "id": 170,
+      "text": "In Ioan. tr. 3: 2."
+    },
+    {
+      "id": 171,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 172,
+      "text": "In Ioan tr 26: 1."
+    },
+    {
+      "id": 173,
+      "text": "Ep. 41: 15."
+    },
+    {
+      "id": 174,
+      "text": "On Belief in Resurrection. 2: 112."
+    },
+    {
+      "id": 175,
+      "text": "Ser. On N. T. 4: 4."
+    },
+    {
+      "id": 176,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 177,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 178,
+      "text": "Dial. with Trypho 97."
+    },
+    {
+      "id": 179,
+      "text": "In Rom. hom 18."
+    },
+    {
+      "id": 180,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 181,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 182,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 183,
+      "text": "Rom. hom 18."
+    },
+    {
+      "id": 184,
+      "text": "In Ioan. tr. 53: 6."
+    },
+    {
+      "id": 185,
+      "text": "Of the Holy Spirit 2: Intr. ."
+    },
+    {
+      "id": 186,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 187,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 188,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 189,
+      "text": "Adv. Haer. 1: 8: 4."
+    },
+    {
+      "id": 190,
+      "text": "Adv. Eunomius 2. 8."
+    },
+    {
+      "id": 191,
+      "text": "Adv. Eunomius 4: 3."
+    },
+    {
+      "id": 192,
+      "text": "Adv. Eunomius 12: 1."
+    },
+    {
+      "id": 193,
+      "text": "Adv. Haer. 4: 24: 1."
+    },
+    {
+      "id": 194,
+      "text": "Ep. 22: 3."
+    },
+    {
+      "id": 195,
+      "text": "On Ps. hom 33."
+    },
+    {
+      "id": 196,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 197,
+      "text": "In Rom. hom 19."
+    },
+    {
+      "id": 198,
+      "text": "In Rom. hom 23."
+    },
+    {
+      "id": 199,
+      "text": "In Ioan. tr 57: 1."
+    },
+    {
+      "id": 200,
+      "text": "In Ioan. tr 83: 3."
+    },
+    {
+      "id": 201,
+      "text": "Strom. 4: 19."
+    },
+    {
+      "id": 202,
+      "text": "In Rom hom 23."
+    },
+    {
+      "id": 203,
+      "text": "In Rom hom 24."
+    },
+    {
+      "id": 204,
+      "text": "Pastoral Rule 3: 39."
+    },
+    {
+      "id": 205,
+      "text": "On Ps. hom 46."
+    },
+    {
+      "id": 206,
+      "text": "On Jealous y& Envy 10."
+    },
+    {
+      "id": 207,
+      "text": "Strom.4: 26."
+    },
+    {
+      "id": 208,
+      "text": "Pasch. Ep.4: 3."
+    },
+    {
+      "id": 209,
+      "text": "In Rom. hom 24."
+    },
+    {
+      "id": 210,
+      "text": "In Rom. hom 25."
+    },
+    {
+      "id": 211,
+      "text": "Cassian: Conf. 17: 20."
+    },
+    {
+      "id": 212,
+      "text": "Conc. Virgins 1: 6."
+    },
+    {
+      "id": 213,
+      "text": "Paedagogus. 2: 1."
+    },
+    {
+      "id": 214,
+      "text": "In Rom. hom 25."
+    },
+    {
+      "id": 215,
+      "text": "Cassian: Conf. 21: 13."
+    },
+    {
+      "id": 216,
+      "text": "In Rom. hom 26."
+    },
+    {
+      "id": 217,
+      "text": "Paedagogus.2: 1;"
+    },
+    {
+      "id": 218,
+      "text": "Cassian: Conf. 1: 13."
+    },
+    {
+      "id": 219,
+      "text": "Cassian: Conf. 1: 13."
+    },
+    {
+      "id": 220,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 221,
+      "text": "Ser. On N. T. 26: 4."
+    },
+    {
+      "id": 222,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 223,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 224,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 225,
+      "text": "In Rom. hom 27."
+    },
+    {
+      "id": 226,
+      "text": "In Rom. hom 28."
+    },
+    {
+      "id": 227,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 228,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 229,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 230,
+      "text": "Ep. 159: 2."
+    },
+    {
+      "id": 231,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 232,
+      "text": "الليريكون هي إحدى ولايات المملكة الرومانية شمال غربي مكدونية ."
+    },
+    {
+      "id": 233,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 234,
+      "text": "On Ps. hom 14."
+    },
+    {
+      "id": 235,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 236,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 237,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 238,
+      "text": "In Rom. hom 29."
+    },
+    {
+      "id": 239,
+      "text": "Strong: Greek Dict. of the N. T., articles 5402; 5457."
+    },
+    {
+      "id": 240,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 241,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 242,
+      "text": "New Westminster Dict. of the Bible, p 269."
+    },
+    {
+      "id": 243,
+      "text": "In Rom. hom 31."
+    },
+    {
+      "id": 244,
+      "text": "Ibid."
+    },
+    {
+      "id": 245,
+      "text": "New Westminster Dict. p 43."
+    },
+    {
+      "id": 246,
+      "text": "In Rom. hom 30."
+    },
+    {
+      "id": 247,
+      "text": "New Westminster Dict. p 40."
+    },
+    {
+      "id": 248,
+      "text": "Mckenzie: Dict. Of the Bible, p 909."
+    },
+    {
+      "id": 249,
+      "text": "New Westminster Dict. p 904."
+    },
+    {
+      "id": 250,
+      "text": "Mckenzie, 38."
+    },
+    {
+      "id": 251,
+      "text": "New Westminster, p 62."
+    },
+    {
+      "id": 252,
+      "text": "In Rom, hom 31."
+    },
+    {
+      "id": 253,
+      "text": "Gregory Dix: The shape of Liturgy, p 110."
+    },
+    {
+      "id": 254,
+      "text": "للمؤلف: المسيح في سرّ الإفخارستيا، 1973 ، ص 411."
+    },
+    {
+      "id": 255,
+      "text": "PL 38: 1101 A."
+    },
+    {
+      "id": 256,
+      "text": "In Rom. hom 32."
+    },
+    {
+      "id": 257,
+      "text": "Ibid."
+    },
+    {
+      "id": 258,
+      "text": "On Ps. hom 20."
+    }
+  ]
+}

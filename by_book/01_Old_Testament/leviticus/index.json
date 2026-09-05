@@ -1,0 +1,1419 @@
+{
+  "book_id": 5,
+  "book_title": "تفسير سفر اللاويين",
+  "testament": "Old Testament",
+  "chapters_count": 27,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "ذبيحة المحرقة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "تقدمة القربان"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "ذبيحة السلامة"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "ذبيحة الخطية"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "ذبيحتنا الخطية والإثم"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "ذبيحة الإثم وشرائع الذبائح"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "شرائع الذبائح (تكملة"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "طقس التكريس"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "ممارسة العمل الكهنوتي"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "العمل الكهنوتي والنار الغريبة"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الأطعمة المحللة والمحرمة"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "تطهير الوالدة"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "تطهير برص الجسد وبرص الثياب"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "شريعة تطهير الأبرص"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "شريعة ذي السيل"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "يوم الكفارة العظيم"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "المذبح والذبائح"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "القداسة والعلاقات الجسدية"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "القداسة والمعاملات"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "الأوثان والزنا"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "راجع معنى مشناه في كتاب: التقليد والأرثوذكسية (تقليد اليهود)."
+    },
+    {
+      "id": 2,
+      "text": "Megilla 3:6; Siphra."
+    },
+    {
+      "id": 3,
+      "text": "Donald Fraser: Synoptical lecturers, vol 1, p 29."
+    },
+    {
+      "id": 4,
+      "text": "J. Raven: Introd. to O. T., p 144."
+    },
+    {
+      "id": 5,
+      "text": "J. Hastings: A Dist. of the Bible, V 3, p 103."
+    },
+    {
+      "id": 6,
+      "text": "Alfred Edersheim: The Temple, 1976, p 118, 119."
+    },
+    {
+      "id": 7,
+      "text": "On Levi. 17:11."
+    },
+    {
+      "id": 8,
+      "text": "In 2 Cor. hom. 5:5."
+    },
+    {
+      "id": 9,
+      "text": "A plea For Christians 13."
+    },
+    {
+      "id": 10,
+      "text": "Edersheim: The Temple, p 126, 127."
+    },
+    {
+      "id": 11,
+      "text": "Ibid 127."
+    },
+    {
+      "id": 12,
+      "text": "On Ps. 50."
+    },
+    {
+      "id": 13,
+      "text": "On Ps. 52."
+    },
+    {
+      "id": 14,
+      "text": "On Ps. 66."
+    },
+    {
+      "id": 15,
+      "text": "In hebr. hom. 11:5, 6."
+    },
+    {
+      "id": 16,
+      "text": "Orat. On Holy Baptism 40."
+    },
+    {
+      "id": 17,
+      "text": "In Lev. hom. 1:2."
+    },
+    {
+      "id": 18,
+      "text": "On Ps. 64."
+    },
+    {
+      "id": 19,
+      "text": "In Lev. hom. 1:3"
+    },
+    {
+      "id": 20,
+      "text": "In Hebr. hom. 16;5."
+    },
+    {
+      "id": 21,
+      "text": "On Ps. 65."
+    },
+    {
+      "id": 22,
+      "text": "In Matt. hom. 82."
+    },
+    {
+      "id": 23,
+      "text": "In Hebr. hom. 17:6."
+    },
+    {
+      "id": 24,
+      "text": "In Lev. hom. 1:2."
+    },
+    {
+      "id": 25,
+      "text": "In Hebr. hom 33:4."
+    },
+    {
+      "id": 26,
+      "text": "In Lev. hom 1:2."
+    },
+    {
+      "id": 27,
+      "text": "PG 50 In Ascensione."
+    },
+    {
+      "id": 28,
+      "text": "Edersheim, p 113."
+    },
+    {
+      "id": 29,
+      "text": "Ibid 113,114"
+    },
+    {
+      "id": 30,
+      "text": "Ibid 114."
+    },
+    {
+      "id": 31,
+      "text": "In Hebr. hom. 13:9."
+    },
+    {
+      "id": 32,
+      "text": "The Trinity 4:13."
+    },
+    {
+      "id": 33,
+      "text": "In Hebr. hom. 4:3."
+    },
+    {
+      "id": 34,
+      "text": "للمؤلف: الكنيسة بيت الله، 1979، ص83."
+    },
+    {
+      "id": 35,
+      "text": "Ep. to Adelphius8: De Incarn. 25."
+    },
+    {
+      "id": 36,
+      "text": "In Lev. hom.. 1:3."
+    },
+    {
+      "id": 37,
+      "text": "In Lev. hom. 14:3; 16:17."
+    },
+    {
+      "id": 38,
+      "text": "In Lev. hom. 1:4."
+    },
+    {
+      "id": 39,
+      "text": "In Ioan. hom. 35:3."
+    },
+    {
+      "id": 40,
+      "text": "In Hebr. hom. 16:3."
+    },
+    {
+      "id": 41,
+      "text": "In Ioan. hom. 25:2."
+    },
+    {
+      "id": 42,
+      "text": "Duties of Clergy."
+    },
+    {
+      "id": 43,
+      "text": "In Hebr. hom. 1:5."
+    },
+    {
+      "id": 44,
+      "text": "In Lev. hom. 1:5."
+    },
+    {
+      "id": 45,
+      "text": "Instruc. 1:5."
+    },
+    {
+      "id": 46,
+      "text": "In Lev. hom. 2:2."
+    },
+    {
+      "id": 47,
+      "text": "راجع كتابنا: المسيح في سر الأفخارستيا ."
+    },
+    {
+      "id": 48,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 49,
+      "text": "In Rom. hom. 1."
+    },
+    {
+      "id": 50,
+      "text": "On Baptism 7."
+    },
+    {
+      "id": 51,
+      "text": "Cat. hom. 13:17."
+    },
+    {
+      "id": 52,
+      "text": "PG 61:418."
+    },
+    {
+      "id": 53,
+      "text": "Ep. 41:20."
+    },
+    {
+      "id": 54,
+      "text": "In Ioan. hom 13:4."
+    },
+    {
+      "id": 55,
+      "text": "Ibid."
+    },
+    {
+      "id": 56,
+      "text": "On Ps. 141."
+    },
+    {
+      "id": 57,
+      "text": "Ep. 31:1."
+    },
+    {
+      "id": 58,
+      "text": "الإنجيل بحسب متى، 1983 ."
+    },
+    {
+      "id": 59,
+      "text": "Ep. 125:1."
+    },
+    {
+      "id": 60,
+      "text": "In Lev. hom. 2:2."
+    },
+    {
+      "id": 61,
+      "text": "In Lev. hom. 2:2."
+    },
+    {
+      "id": 62,
+      "text": "On Ps. 126."
+    },
+    {
+      "id": 63,
+      "text": "الحب الرعوي: 1965، ص363."
+    },
+    {
+      "id": 64,
+      "text": "الأرشيدياكون نجيب جرجس: سفر اللاويين، 1980، ص43، 44."
+    },
+    {
+      "id": 65,
+      "text": "منشورات النور: مجموعة الشرع الكنسي، 1975، ص865."
+    },
+    {
+      "id": 66,
+      "text": "ANF, vol. 7 , p 504 (canon 63)."
+    },
+    {
+      "id": 67,
+      "text": "مجموعة الشرع الكنسي، ص590."
+    },
+    {
+      "id": 68,
+      "text": "In Lev. hom. 2:2."
+    },
+    {
+      "id": 69,
+      "text": "راجع تفسير لا 1: 2 ."
+    },
+    {
+      "id": 70,
+      "text": "الحب الرعوي: 1965، ص 164، 165."
+    },
+    {
+      "id": 71,
+      "text": "In Lev. hom. 2:3."
+    },
+    {
+      "id": 72,
+      "text": "Ser. on N.T. Lessons 84:5."
+    },
+    {
+      "id": 73,
+      "text": "In Ioan 46:4."
+    },
+    {
+      "id": 74,
+      "text": "De Vict. 13."
+    },
+    {
+      "id": 75,
+      "text": "In Lev. hom. 2:5."
+    },
+    {
+      "id": 76,
+      "text": "In Lev. hom. 3:2."
+    },
+    {
+      "id": 77,
+      "text": "Ibid."
+    },
+    {
+      "id": 78,
+      "text": "Ibid 3:3."
+    },
+    {
+      "id": 79,
+      "text": "Ibid 3:4."
+    },
+    {
+      "id": 80,
+      "text": "Ibid."
+    },
+    {
+      "id": 81,
+      "text": "Comc. Repent. 2:10."
+    },
+    {
+      "id": 82,
+      "text": "الحب الرعوي، 1965، ص267."
+    },
+    {
+      "id": 83,
+      "text": "المرجع السابق، ص273."
+    },
+    {
+      "id": 84,
+      "text": "In Lev. hom. 3:8."
+    },
+    {
+      "id": 85,
+      "text": "Ibid."
+    },
+    {
+      "id": 86,
+      "text": "In Lev. hom. 4:2."
+    },
+    {
+      "id": 87,
+      "text": "Ibid 4:4."
+    },
+    {
+      "id": 88,
+      "text": "In Ioan 41:2."
+    },
+    {
+      "id": 89,
+      "text": "Cont. Eunomium 4."
+    },
+    {
+      "id": 90,
+      "text": "In Lev. hom. 4:4."
+    },
+    {
+      "id": 91,
+      "text": "Ibid."
+    },
+    {
+      "id": 92,
+      "text": "Ibid."
+    },
+    {
+      "id": 93,
+      "text": "Ep. 54:21."
+    },
+    {
+      "id": 94,
+      "text": "In Lev. hom. 4:6."
+    },
+    {
+      "id": 95,
+      "text": "حزقيال، 1981 ، ص 54."
+    },
+    {
+      "id": 96,
+      "text": "In Lev. hom. 4:8."
+    },
+    {
+      "id": 97,
+      "text": "Hom in paschal PG 52:769."
+    },
+    {
+      "id": 98,
+      "text": "Hom In Not. Dom. pg 49:360."
+    },
+    {
+      "id": 99,
+      "text": "In Matt. hom. 25."
+    },
+    {
+      "id": 100,
+      "text": "De pnod. Judae hom2."
+    },
+    {
+      "id": 101,
+      "text": "للمؤلف: المسيح في سر الأفخارستيا ، ص379، 441."
+    },
+    {
+      "id": 102,
+      "text": "الأرشيدياكون نجيب جرجس: سفر اللاويين، ص 73."
+    },
+    {
+      "id": 103,
+      "text": "In Ioan. hom 46:3."
+    },
+    {
+      "id": 104,
+      "text": "In Lev. hom.5:3."
+    },
+    {
+      "id": 105,
+      "text": "Ibid"
+    },
+    {
+      "id": 106,
+      "text": "راجع كتابنا: آباء مدرسة الأسكندرية الأولون، أوريجين (الكتاب المقدس)."
+    },
+    {
+      "id": 107,
+      "text": "In Lev. hom. 5:8."
+    },
+    {
+      "id": 108,
+      "text": "Ibid."
+    },
+    {
+      "id": 109,
+      "text": "Ibid 5:9."
+    },
+    {
+      "id": 110,
+      "text": "In 2 Cor. hom. 3:7."
+    },
+    {
+      "id": 111,
+      "text": "القمص صليب سوريال: مذكرات الطقوس، ج3، ص171."
+    },
+    {
+      "id": 112,
+      "text": "قوانين الرسل، 52:1."
+    },
+    {
+      "id": 113,
+      "text": "قوانين أبوليدس 2."
+    },
+    {
+      "id": 114,
+      "text": "In 2 Thess. PG 62:498."
+    },
+    {
+      "id": 115,
+      "text": "In Lev. hom. 6:2."
+    },
+    {
+      "id": 116,
+      "text": "In Ioan. hom. 13:3."
+    },
+    {
+      "id": 117,
+      "text": "In 1 Cor. Hom 27:4."
+    },
+    {
+      "id": 118,
+      "text": "In Matt. hom. 82:5."
+    },
+    {
+      "id": 119,
+      "text": "In Lev. hom. 6:2"
+    },
+    {
+      "id": 120,
+      "text": "للمؤلف: سفر الخروج، 1981 ، ص188- 195."
+    },
+    {
+      "id": 121,
+      "text": "In Lev. hom. 6:4, 5."
+    },
+    {
+      "id": 122,
+      "text": "On Ps 86."
+    },
+    {
+      "id": 123,
+      "text": "City of God 22:30."
+    },
+    {
+      "id": 124,
+      "text": "راجع تفسير لا9 - الأرشيدياكون نجيب جرجس، ص104."
+    },
+    {
+      "id": 125,
+      "text": "راجع مقدمات في علم الباترولوجي، 1974."
+    },
+    {
+      "id": 126,
+      "text": "On Ps 58."
+    },
+    {
+      "id": 127,
+      "text": "Ad Hear. 4:26:2."
+    },
+    {
+      "id": 128,
+      "text": "In Lev. hom. 9:9."
+    },
+    {
+      "id": 129,
+      "text": "On Ps. 58."
+    },
+    {
+      "id": 130,
+      "text": "القديس يوحنا الذهبي الفم، 1980 ."
+    },
+    {
+      "id": 131,
+      "text": "Ep. 39:4."
+    },
+    {
+      "id": 132,
+      "text": "Ep. 52:11."
+    },
+    {
+      "id": 133,
+      "text": "Ad. Hovin. 2:15."
+    },
+    {
+      "id": 134,
+      "text": "Ep. 52:11."
+    },
+    {
+      "id": 135,
+      "text": "In Lev. hom 7:1."
+    },
+    {
+      "id": 136,
+      "text": "Ibid 7:1, 2."
+    },
+    {
+      "id": 137,
+      "text": "Ibid 7:2."
+    },
+    {
+      "id": 138,
+      "text": "Ep. of Barnabas 10:11, 12, St. Clem. Alex.: Instr. 3:11, St. Iremaeus: Adv. Hear. 5:8:4, St. Jerome: On Ps. hom 23."
+    },
+    {
+      "id": 139,
+      "text": "Ep. of Branabas 10:12."
+    },
+    {
+      "id": 140,
+      "text": "In Lev. hom 7:6."
+    },
+    {
+      "id": 141,
+      "text": "On ps. hom 23."
+    },
+    {
+      "id": 142,
+      "text": "Strom 5:8."
+    },
+    {
+      "id": 143,
+      "text": "Instrs. 3:11"
+    },
+    {
+      "id": 144,
+      "text": "Adv. Hear. 5:8:4."
+    },
+    {
+      "id": 145,
+      "text": "In Lev. hom 7:6."
+    },
+    {
+      "id": 146,
+      "text": "New Westminster Dict. of the Bible, P. 806-7 قاموس الكتاب المقدس ، ص1016"
+    },
+    {
+      "id": 147,
+      "text": "New Oxford Illust. Dict., P. 1693."
+    },
+    {
+      "id": 148,
+      "text": "Strom. 5:8."
+    },
+    {
+      "id": 149,
+      "text": "Ep. of Barnabas 10:2, 3."
+    },
+    {
+      "id": 150,
+      "text": "New Westminster Dict. 913, 4, Herod. 2:47."
+    },
+    {
+      "id": 151,
+      "text": "Strom. 5:8."
+    },
+    {
+      "id": 152,
+      "text": "In Lev. hom 7:7."
+    },
+    {
+      "id": 153,
+      "text": "Ep. of Barnabas 10:4."
+    },
+    {
+      "id": 154,
+      "text": "New Westminster Dict. 689, A. Mitchell: Dict. of Bible Animals, Plants and Minerals, P. 39."
+    },
+    {
+      "id": 155,
+      "text": "New Westminster Dict. p. 543."
+    },
+    {
+      "id": 156,
+      "text": "الأرشيدياكون نجيب جرجس: سفر اللاويين، ص147. New Westminster Dict. p. 690 ."
+    },
+    {
+      "id": 157,
+      "text": "Ibid p. 330."
+    },
+    {
+      "id": 158,
+      "text": "Ibid p. 909."
+    },
+    {
+      "id": 159,
+      "text": "Ibid p. 385."
+    },
+    {
+      "id": 160,
+      "text": "الأرشيدياكون نجيب جرجس، ص149."
+    },
+    {
+      "id": 161,
+      "text": "In Lev. hom. 7:4."
+    },
+    {
+      "id": 162,
+      "text": "In Lev. hom. 8:1."
+    },
+    {
+      "id": 163,
+      "text": "Ibid 8:3."
+    },
+    {
+      "id": 164,
+      "text": "Ibid 8:4."
+    },
+    {
+      "id": 165,
+      "text": "راجع سفر الخروج، 1981 ."
+    },
+    {
+      "id": 166,
+      "text": "In Lev. hom. 8:5."
+    },
+    {
+      "id": 167,
+      "text": "Ibid. 8:10."
+    },
+    {
+      "id": 168,
+      "text": "Ibid. 8:8."
+    },
+    {
+      "id": 169,
+      "text": "Ibid. 8:9."
+    },
+    {
+      "id": 170,
+      "text": "Ibid."
+    },
+    {
+      "id": 171,
+      "text": "Ibid 8:10."
+    },
+    {
+      "id": 172,
+      "text": "Ibid."
+    },
+    {
+      "id": 173,
+      "text": "راجع الإنجيل بحسب متى، 1983 ."
+    },
+    {
+      "id": 174,
+      "text": "In Lev. hom. 8:10."
+    },
+    {
+      "id": 175,
+      "text": "Ibid."
+    },
+    {
+      "id": 176,
+      "text": "راجع كتاب: الحب الرعوي، 1965، ص652- 662."
+    },
+    {
+      "id": 177,
+      "text": "A Edersheim: The Temple, p. 356."
+    },
+    {
+      "id": 178,
+      "text": "Ibid, Mishinic tractate, negaim 13:12."
+    },
+    {
+      "id": 179,
+      "text": "In Lev. hom. 8:10."
+    },
+    {
+      "id": 180,
+      "text": "Ant -Nicene Frs. vol. 1, p. 301."
+    },
+    {
+      "id": 181,
+      "text": "Ep. 40 to Cornelius."
+    },
+    {
+      "id": 182,
+      "text": "Unity of church 6."
+    },
+    {
+      "id": 183,
+      "text": "In Lev. hom. 8:10."
+    },
+    {
+      "id": 184,
+      "text": "A N Frs. v. 1, p. 301."
+    },
+    {
+      "id": 185,
+      "text": "In Lev. hom 8:10."
+    },
+    {
+      "id": 186,
+      "text": "In Matt. hom 54:7."
+    },
+    {
+      "id": 187,
+      "text": "In Lev. hom 8:10."
+    },
+    {
+      "id": 188,
+      "text": "In Exod. 13:4."
+    },
+    {
+      "id": 189,
+      "text": "راجع تفسير: سفر يشوع للمؤلف ."
+    },
+    {
+      "id": 190,
+      "text": "In Hebr. hom 16:5."
+    },
+    {
+      "id": 191,
+      "text": "On Ps. 51."
+    },
+    {
+      "id": 192,
+      "text": "In Lev. hom 8:10."
+    },
+    {
+      "id": 193,
+      "text": "On Ps. hom 17."
+    },
+    {
+      "id": 194,
+      "text": "In Lev. hom 8:11."
+    },
+    {
+      "id": 195,
+      "text": "In Exod. hom 13:5."
+    },
+    {
+      "id": 196,
+      "text": "In Lev. hom 8:11."
+    },
+    {
+      "id": 197,
+      "text": "PG 46:429C."
+    },
+    {
+      "id": 198,
+      "text": "الفيلوكاليا ، ص 90."
+    },
+    {
+      "id": 199,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 200,
+      "text": "In lev. hom. 8:11."
+    },
+    {
+      "id": 201,
+      "text": "Ibid."
+    },
+    {
+      "id": 202,
+      "text": "Alfred Edersheim: The Tempel, p. 360."
+    },
+    {
+      "id": 203,
+      "text": "In Lev. hom. 8:11."
+    },
+    {
+      "id": 204,
+      "text": "Edersheim, p. 360."
+    },
+    {
+      "id": 205,
+      "text": "In Lev. hom. 8:11."
+    },
+    {
+      "id": 206,
+      "text": "الحب الرعوي، ص193."
+    },
+    {
+      "id": 207,
+      "text": "Anatole Moulard: Sainte Jean chrysostome, so vio, son oeurre, 1949, p. 138."
+    },
+    {
+      "id": 208,
+      "text": "In Thess, hom. 5."
+    },
+    {
+      "id": 209,
+      "text": "Edersheim, p. 304, 305."
+    },
+    {
+      "id": 210,
+      "text": "Ibid, p. 307."
+    },
+    {
+      "id": 211,
+      "text": "Ibid 309."
+    },
+    {
+      "id": 212,
+      "text": "In Lev. hom 9:5."
+    },
+    {
+      "id": 213,
+      "text": "Sermons on N. T. Lessons 86:7."
+    },
+    {
+      "id": 214,
+      "text": "In Lev. hom 9:3."
+    },
+    {
+      "id": 215,
+      "text": "Ibed 9:2."
+    },
+    {
+      "id": 216,
+      "text": "Edersheim, p. 310. 1."
+    },
+    {
+      "id": 217,
+      "text": "In Lev. hom. 9:3"
+    },
+    {
+      "id": 218,
+      "text": "Ibid."
+    },
+    {
+      "id": 219,
+      "text": "Ibid."
+    },
+    {
+      "id": 220,
+      "text": "Ibid."
+    },
+    {
+      "id": 221,
+      "text": "In Lev. hom 9:9."
+    },
+    {
+      "id": 222,
+      "text": "Ibid 9:10."
+    },
+    {
+      "id": 223,
+      "text": "Ep. to petilian."
+    },
+    {
+      "id": 224,
+      "text": "In Lev. hom 9:11."
+    },
+    {
+      "id": 225,
+      "text": "Ibid 9:6."
+    },
+    {
+      "id": 226,
+      "text": "Ep. of Bernabas 7."
+    },
+    {
+      "id": 227,
+      "text": "An Answer to the jews 14, Adv. Marcion 3:7."
+    },
+    {
+      "id": 228,
+      "text": "Edersheim, p. 120."
+    },
+    {
+      "id": 229,
+      "text": "On Ps. 43."
+    },
+    {
+      "id": 230,
+      "text": "In Ioan. hom 64:4."
+    },
+    {
+      "id": 231,
+      "text": "القديس يوحنا الذهبي الفم، 1980 ، ص244."
+    },
+    {
+      "id": 232,
+      "text": "Strom. 2:10."
+    },
+    {
+      "id": 233,
+      "text": "In Rom. hom 17."
+    },
+    {
+      "id": 234,
+      "text": "In I Cor. hom 34:6."
+    },
+    {
+      "id": 235,
+      "text": "Ep. 140 to Diodours."
+    },
+    {
+      "id": 236,
+      "text": ". ك6، ف28:5."
+    },
+    {
+      "id": 237,
+      "text": "On Ps. 71."
+    },
+    {
+      "id": 238,
+      "text": "Ibid 86"
+    },
+    {
+      "id": 239,
+      "text": "Ibid."
+    },
+    {
+      "id": 240,
+      "text": "Ibid 133."
+    },
+    {
+      "id": 241,
+      "text": "In I,ev. hom 11:1."
+    },
+    {
+      "id": 242,
+      "text": "Ladder 12:2."
+    },
+    {
+      "id": 243,
+      "text": "Ibid12:13."
+    },
+    {
+      "id": 244,
+      "text": "Ibid 9:9."
+    },
+    {
+      "id": 245,
+      "text": "Ibid 9:13."
+    },
+    {
+      "id": 246,
+      "text": "Conc. Stat. 19:8."
+    },
+    {
+      "id": 247,
+      "text": "الحب الأخوي، 1964، ص457."
+    },
+    {
+      "id": 248,
+      "text": "المرجع السابق458."
+    },
+    {
+      "id": 249,
+      "text": "المرجع السابق315."
+    },
+    {
+      "id": 250,
+      "text": "Instit. 8: 15."
+    },
+    {
+      "id": 251,
+      "text": "Adv. Marc. 4:35."
+    },
+    {
+      "id": 252,
+      "text": "On Christian Fait 1:22."
+    },
+    {
+      "id": 253,
+      "text": "Our Lod`s Ser. 1:21."
+    },
+    {
+      "id": 254,
+      "text": "الأرشيدياكون نجيب جرجس، ص 298."
+    },
+    {
+      "id": 255,
+      "text": "In Ascensoine PG 50"
+    },
+    {
+      "id": 256,
+      "text": "الأرشيدياكون نجيب جرجس، ص301."
+    },
+    {
+      "id": 257,
+      "text": "Cassian: Cofn. 21:22."
+    },
+    {
+      "id": 258,
+      "text": "الأرشيدياكون نجيب جرجس، ص312."
+    },
+    {
+      "id": 259,
+      "text": "In Lev. hom 11:3."
+    },
+    {
+      "id": 260,
+      "text": "Ibid."
+    },
+    {
+      "id": 261,
+      "text": "ibid 11:2."
+    },
+    {
+      "id": 262,
+      "text": "Cat. Lect. 7:15."
+    },
+    {
+      "id": 263,
+      "text": "الحب الرعوي، 1965، ص312."
+    },
+    {
+      "id": 264,
+      "text": "Adv. Marc. 4:23."
+    },
+    {
+      "id": 265,
+      "text": "Strom 2:23."
+    },
+    {
+      "id": 266,
+      "text": "Ep. 39:4."
+    },
+    {
+      "id": 267,
+      "text": "In 2 Cor. hom. 2:8."
+    },
+    {
+      "id": 268,
+      "text": "Cassian: Conf. 14:10."
+    },
+    {
+      "id": 269,
+      "text": "الرعاية (ترجمة جورج فهمي حنا)، كنيسة الشهيد مارجرجس باسبورتنج."
+    },
+    {
+      "id": 270,
+      "text": "المطران إيفانيوس: الآمالي الذهبية من مقالات لأبينا الجليل في القديسين يوحنا الذهبي الفم، بيروت 1972، ص65."
+    },
+    {
+      "id": 271,
+      "text": "سفر العدد، 1981 ، ص195."
+    },
+    {
+      "id": 272,
+      "text": "Edersheim, ch 10."
+    },
+    {
+      "id": 273,
+      "text": "ibid 205, 7."
+    },
+    {
+      "id": 274,
+      "text": "للمؤلف: الرسالة إلى العبرانيين، الأصحاح الرابع ."
+    },
+    {
+      "id": 275,
+      "text": "T. Maertens: A Feast In Honour of yahweh, 1966, p. 166."
+    },
+    {
+      "id": 276,
+      "text": "City of God 22:30."
+    },
+    {
+      "id": 277,
+      "text": "المسيح في سر الأفخارستيا ، 1973، ص125."
+    },
+    {
+      "id": 278,
+      "text": "On Ps. hom21."
+    },
+    {
+      "id": 279,
+      "text": "Jos. Antiq. 12:6:2, 14:4:2."
+    },
+    {
+      "id": 280,
+      "text": "المسيح في سر الأفخارستيا، الباب الأول- سّر السبت ."
+    },
+    {
+      "id": 281,
+      "text": "Antiq. 2:15:1."
+    },
+    {
+      "id": 282,
+      "text": "الخروج ، 62- 78، سفر العدد 193."
+    },
+    {
+      "id": 283,
+      "text": "المسيح في سر الأفخارستيا، الباب الأول- سّر الفصح ."
+    },
+    {
+      "id": 284,
+      "text": "A. Edersheim, p. 257."
+    },
+    {
+      "id": 285,
+      "text": "Ibid, p. 265."
+    },
+    {
+      "id": 286,
+      "text": "الإنجيل بحسب متى، 1983 ."
+    },
+    {
+      "id": 287,
+      "text": "T. Maertens. A Feast in Honour of Yahweh, p. 144. Book of Jubiless 6:16- 17."
+    },
+    {
+      "id": 288,
+      "text": "Book of Jubiless 14:20."
+    },
+    {
+      "id": 289,
+      "text": "T. Maertens, p. 145."
+    },
+    {
+      "id": 290,
+      "text": "Ibid, ch 3."
+    },
+    {
+      "id": 291,
+      "text": "Ibid p. 61."
+    },
+    {
+      "id": 292,
+      "text": "Edersheim, p. 280."
+    },
+    {
+      "id": 293,
+      "text": "T. Meartens, p. 87."
+    },
+    {
+      "id": 294,
+      "text": "Edersheim, p. 285, 6."
+    },
+    {
+      "id": 295,
+      "text": "الخروج، 1981 ، ص174- 176."
+    },
+    {
+      "id": 296,
+      "text": "Banquet of Ten Virgins 4."
+    },
+    {
+      "id": 297,
+      "text": "In Lev. hom 13:2."
+    },
+    {
+      "id": 298,
+      "text": "Ser. on N. T. Lessons 43:1- 5."
+    },
+    {
+      "id": 299,
+      "text": "In Lev. hom13:2."
+    },
+    {
+      "id": 300,
+      "text": "الخروج ، ص173- 174."
+    },
+    {
+      "id": 301,
+      "text": "In Lev. hom 13:3."
+    },
+    {
+      "id": 302,
+      "text": "Ibid 13:5."
+    },
+    {
+      "id": 303,
+      "text": "Ibid 14:1- 3."
+    },
+    {
+      "id": 304,
+      "text": "Ibid 14:3."
+    },
+    {
+      "id": 305,
+      "text": "Ibid 14:3."
+    },
+    {
+      "id": 306,
+      "text": "Mckenzie: Dict. of the Bible, p. 460."
+    },
+    {
+      "id": 307,
+      "text": "راجع سفر الخروج ص182 ."
+    },
+    {
+      "id": 308,
+      "text": "In lev. hom 15:2."
+    },
+    {
+      "id": 309,
+      "text": "Ibid 15:3."
+    },
+    {
+      "id": 310,
+      "text": "Ibid."
+    },
+    {
+      "id": 311,
+      "text": "سفر الخروج، تفسير الأصحاح21 ."
+    },
+    {
+      "id": 312,
+      "text": "In Lev. hom 16:2."
+    },
+    {
+      "id": 313,
+      "text": "القداس الأغريغوري."
+    },
+    {
+      "id": 314,
+      "text": "In Lev. hom 16:4."
+    },
+    {
+      "id": 315,
+      "text": "Ibid 16:4."
+    },
+    {
+      "id": 316,
+      "text": "Ibid 16:5."
+    },
+    {
+      "id": 317,
+      "text": "Ibid."
+    },
+    {
+      "id": 318,
+      "text": "Ibid 16:6."
+    },
+    {
+      "id": 319,
+      "text": "Ibid."
+    },
+    {
+      "id": 320,
+      "text": "Ibid."
+    },
+    {
+      "id": 321,
+      "text": "Ibid 16:7."
+    },
+    {
+      "id": 322,
+      "text": "A N Frs., vol. 1, ps 72"
+    },
+    {
+      "id": 323,
+      "text": "City of God 22:30."
+    },
+    {
+      "id": 324,
+      "text": "Cassian: Conf. 21:5."
+    },
+    {
+      "id": 325,
+      "text": "راجع معنى مشناه في كتاب: التقليد والأرثوذكسية (تقليد اليهود)."
+    },
+    {
+      "id": 326,
+      "text": "Megilla 3:6; Siphra."
+    },
+    {
+      "id": 327,
+      "text": "Donald Fraser: Synoptical lecturers, vol 1, p 29."
+    },
+    {
+      "id": 328,
+      "text": "J. Raven: Introd. to O. T., p 144."
+    },
+    {
+      "id": 329,
+      "text": "In Lev. hom. 8:1."
+    },
+    {
+      "id": 330,
+      "text": "Ibid 8:3."
+    },
+    {
+      "id": 331,
+      "text": "Ibid 8:4."
+    },
+    {
+      "id": 332,
+      "text": "راجع سفر الخروج، 1981 ."
+    }
+  ]
+}

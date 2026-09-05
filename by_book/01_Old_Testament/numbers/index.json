@@ -1,0 +1,1423 @@
+{
+  "book_id": 6,
+  "book_title": "تفسير سفر العدد",
+  "testament": "Old Testament",
+  "chapters_count": 35,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "إحصاء الشعب"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ترتيب المَحَلَّة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "اللاويّون فدية عن الشعب"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "تنظيم خدمة اللاويّين"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "تقديس المَحَلَّة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "نذير الرب"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "قرابين الشعب"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "سيامة اللاويّين"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "القيادة الإلهيّة"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "تذمر الشعب"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "زواج موسى بالكوشيَّة"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "التجسس على كنعان"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "شهوة الرجوع إلى العبوديّة"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "وصايا للتقديس"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "اغتصاب الكهنوت"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "فريضة البقرة الحمراء"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "ماء مريبة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Origen: In Num, hom 1."
+    },
+    {
+      "id": 2,
+      "text": "Ibid."
+    },
+    {
+      "id": 3,
+      "text": "Ibid."
+    },
+    {
+      "id": 4,
+      "text": "Ibid."
+    },
+    {
+      "id": 5,
+      "text": "Origen: Comm. Matt. 11: 3."
+    },
+    {
+      "id": 6,
+      "text": "In Num., hom 1."
+    },
+    {
+      "id": 7,
+      "text": "Ibid 1: 3."
+    },
+    {
+      "id": 8,
+      "text": "لأن كلمة \"شِمْعون\" تعني \"مستمع\" أو \"طائع\"."
+    },
+    {
+      "id": 9,
+      "text": "Ibid."
+    },
+    {
+      "id": 10,
+      "text": "Ibid 2: 1."
+    },
+    {
+      "id": 11,
+      "text": "راجع تفسيرنا للصدرية في كتابنا \" سفر الخروج\"، 1980، أصحاح 39 ."
+    },
+    {
+      "id": 12,
+      "text": "راجع تفسير المركبة الناريّة في كتابنا: سفر حزقيال، 1981، أصحاح 1 ."
+    },
+    {
+      "id": 13,
+      "text": "Ibid 2: 2."
+    },
+    {
+      "id": 14,
+      "text": "Ibid 2: 2."
+    },
+    {
+      "id": 15,
+      "text": "Ibid 2: 2."
+    },
+    {
+      "id": 16,
+      "text": "Ibid, hom 3."
+    },
+    {
+      "id": 17,
+      "text": "Ibid 3: 1."
+    },
+    {
+      "id": 18,
+      "text": "راجع تفسيرنا لسفر الخروج، أصحاح 13 ."
+    },
+    {
+      "id": 19,
+      "text": "In Num, hom 3."
+    },
+    {
+      "id": 20,
+      "text": "Ibid."
+    },
+    {
+      "id": 21,
+      "text": "راجع للمؤلف: سفر الخروج، 1981 ."
+    },
+    {
+      "id": 22,
+      "text": "In Num., hom 4."
+    },
+    {
+      "id": 23,
+      "text": "In Num., hom 5."
+    },
+    {
+      "id": 24,
+      "text": "للمؤلف: الحب الرعوي، 1965، ص 770."
+    },
+    {
+      "id": 25,
+      "text": "المرجع السابق، ص 775."
+    },
+    {
+      "id": 26,
+      "text": "In Num., hom 5."
+    },
+    {
+      "id": 27,
+      "text": "للمؤلف: الموعظة على الجبل للقديِّس أغسطينوس، طبعة 1981 ، ص 162."
+    },
+    {
+      "id": 28,
+      "text": "للمؤلف: مناظرات يوحنا كاسيان 9: 34 ."
+    },
+    {
+      "id": 29,
+      "text": "In Num., hom 4."
+    },
+    {
+      "id": 30,
+      "text": "Ibid 5."
+    },
+    {
+      "id": 31,
+      "text": "عظة واردة في الساعة الحادية عشر من يوم الاثنين من البصخة المقدسة"
+    },
+    {
+      "id": 32,
+      "text": "Fr. Methodius: Banquet of The Ten Virgins, 5: 4."
+    },
+    {
+      "id": 33,
+      "text": "كنيسة مارجرجس بسبورتنج: دراسات في الكتاب المقدس: 3 سفر اللاويّين، تفسير أصحاحات 1-7 (أرجو في الرب أن أُعيد شرحها بتوسع)."
+    },
+    {
+      "id": 34,
+      "text": "راجع للمؤلف: سفر الخروج، 1981 ."
+    },
+    {
+      "id": 35,
+      "text": "On Ps., hom 25"
+    },
+    {
+      "id": 36,
+      "text": "Festal Letters 1: 2."
+    },
+    {
+      "id": 37,
+      "text": "On Belief in the Resurr. 2: 111."
+    },
+    {
+      "id": 38,
+      "text": "للمؤلف: الكنيسة بيت الله، 1969، ص 415-418."
+    },
+    {
+      "id": 39,
+      "text": "Conc. Statues 6: 8."
+    },
+    {
+      "id": 40,
+      "text": "Against Joirnuanus 2: 15."
+    },
+    {
+      "id": 41,
+      "text": "St.Jerome: Epistle 58: 1."
+    },
+    {
+      "id": 42,
+      "text": "Origen: In Num., hom 6: 2."
+    },
+    {
+      "id": 43,
+      "text": "St. Augustin: On The Trinity 5: 15."
+    },
+    {
+      "id": 44,
+      "text": "In Num., hom 6: 3."
+    },
+    {
+      "id": 45,
+      "text": "راجع القديس فيلوكسينوس: لا تطفئوا الروح (ترجمة وتعليق د. جورج بباوي، يونيو 1981)."
+    },
+    {
+      "id": 46,
+      "text": "راجع للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ."
+    },
+    {
+      "id": 47,
+      "text": "Cat. Lact 16: 26."
+    },
+    {
+      "id": 48,
+      "text": "Ibid 16: 25."
+    },
+    {
+      "id": 49,
+      "text": "St. Jerome : Epistle 128: 2."
+    },
+    {
+      "id": 50,
+      "text": "In Num., hom 6: 1."
+    },
+    {
+      "id": 51,
+      "text": "St. Greg. Nys.: Life of Moses 2: 260."
+    },
+    {
+      "id": 52,
+      "text": "Ibid 2: 256."
+    },
+    {
+      "id": 53,
+      "text": "Ibid 2: 258."
+    },
+    {
+      "id": 54,
+      "text": "للمؤلف: سفر الخروج، 1981 ، ص 113، 114."
+    },
+    {
+      "id": 55,
+      "text": "Ibid 2: 259, 260."
+    },
+    {
+      "id": 56,
+      "text": "Ibid 2: 261."
+    },
+    {
+      "id": 57,
+      "text": "Ibid 2: 263."
+    },
+    {
+      "id": 58,
+      "text": "Ad Magn. 12."
+    },
+    {
+      "id": 17,
+      "text": ": 5."
+    },
+    {
+      "id": 18,
+      "text": "In Matt., hom 78: 4."
+    },
+    {
+      "id": 19,
+      "text": "Hexamrron hom 1: 1."
+    },
+    {
+      "id": 20,
+      "text": "Against Praxeas 14."
+    },
+    {
+      "id": 21,
+      "text": "Epis. 150."
+    },
+    {
+      "id": 22,
+      "text": "In. Num., hom 7."
+    },
+    {
+      "id": 23,
+      "text": "Ep. 22: 1."
+    },
+    {
+      "id": 24,
+      "text": "In Num, hom 6."
+    },
+    {
+      "id": 25,
+      "text": "Comm. On Cant. 2: 1."
+    },
+    {
+      "id": 26,
+      "text": "In Num, hom 7: 1."
+    },
+    {
+      "id": 27,
+      "text": "Ibid 7: 2."
+    },
+    {
+      "id": 28,
+      "text": "Fragm. 32."
+    },
+    {
+      "id": 29,
+      "text": "Origen: In Num, hom. 6. St. Ambrose: Ep. 63: 57."
+    },
+    {
+      "id": 30,
+      "text": "Ibid 7: 3."
+    },
+    {
+      "id": 31,
+      "text": "Conc. Statues 20: 10."
+    },
+    {
+      "id": 32,
+      "text": "Epis. 77."
+    },
+    {
+      "id": 33,
+      "text": "In Matt. hom.. 5: 7."
+    },
+    {
+      "id": 34,
+      "text": "St. Greg. Nyssa: Life of Moses 2: 265."
+    },
+    {
+      "id": 35,
+      "text": "On Ps., hom 10."
+    },
+    {
+      "id": 36,
+      "text": "Answer to the Jews 9."
+    },
+    {
+      "id": 37,
+      "text": "Reply to Faustus 16: 9."
+    },
+    {
+      "id": 38,
+      "text": "In Num., hom 6."
+    },
+    {
+      "id": 39,
+      "text": "للمؤلف: الحب الرعوي، ص 671."
+    },
+    {
+      "id": 40,
+      "text": "Mckenzie: Dict. Of Bible, p. 953."
+    },
+    {
+      "id": 41,
+      "text": "New Westminister Dict. Of Bible, p. 1024."
+    },
+    {
+      "id": 42,
+      "text": "New Westminister Dict. Of Bible, p. 375."
+    },
+    {
+      "id": 43,
+      "text": "Hastings , p. 375."
+    },
+    {
+      "id": 44,
+      "text": "Life of Moses 2: 267-268."
+    },
+    {
+      "id": 45,
+      "text": "Apol. 32, Dial 54."
+    },
+    {
+      "id": 46,
+      "text": "Adv. Hear. 4: 20: 2."
+    },
+    {
+      "id": 47,
+      "text": "De Chr. et Antichr 2: 11."
+    },
+    {
+      "id": 48,
+      "text": "Paed. 2: 2: 9."
+    },
+    {
+      "id": 49,
+      "text": "Comm. Jer. 8: 51."
+    },
+    {
+      "id": 50,
+      "text": "On Ps. 7."
+    },
+    {
+      "id": 51,
+      "text": "Of The Christian Faith 4: 12 ."
+    },
+    {
+      "id": 52,
+      "text": "Ad. Ephes., hom 23."
+    },
+    {
+      "id": 53,
+      "text": "Life of Moses 2: 266."
+    },
+    {
+      "id": 54,
+      "text": "In Num., hom 7."
+    },
+    {
+      "id": 55,
+      "text": "سبق أن ترجمت هذا المقال تحت عنوان \"من يقدر أن يؤذيك؟\"."
+    },
+    {
+      "id": 56,
+      "text": "Duties of the clergy 3: 8 ."
+    },
+    {
+      "id": 57,
+      "text": "Ibid 3: 8 ."
+    },
+    {
+      "id": 58,
+      "text": "In Num., hom 8: 1."
+    },
+    {
+      "id": 59,
+      "text": "Ibid."
+    },
+    {
+      "id": 60,
+      "text": "Epis. 130: 9."
+    },
+    {
+      "id": 61,
+      "text": "In Num., hom. 8."
+    },
+    {
+      "id": 62,
+      "text": "Ibid."
+    },
+    {
+      "id": 63,
+      "text": "In Acts 18."
+    },
+    {
+      "id": 64,
+      "text": "In Matt. 39: 3."
+    },
+    {
+      "id": 65,
+      "text": "Life of Moses 2: 280."
+    },
+    {
+      "id": 66,
+      "text": "Ibid 2: 281."
+    },
+    {
+      "id": 67,
+      "text": "Ibid 2: 283."
+    },
+    {
+      "id": 68,
+      "text": "Epis 1: 4: 11, 12."
+    },
+    {
+      "id": 69,
+      "text": "Epis 1: 51, 3, 4."
+    },
+    {
+      "id": 70,
+      "text": "Adv. Haer. 4: 16: 2."
+    },
+    {
+      "id": 71,
+      "text": "Ep. 75: 8."
+    },
+    {
+      "id": 72,
+      "text": "Ibid."
+    },
+    {
+      "id": 73,
+      "text": "Treat. of Cyprian 7: 11."
+    },
+    {
+      "id": 74,
+      "text": "Epis. 67: 3."
+    },
+    {
+      "id": 75,
+      "text": "On Ps. 47."
+    },
+    {
+      "id": 76,
+      "text": "On Ps., hom 16."
+    },
+    {
+      "id": 77,
+      "text": "Origen: In Num., hom 9: 1."
+    },
+    {
+      "id": 78,
+      "text": "In Num., hom 9: 2."
+    },
+    {
+      "id": 79,
+      "text": "Duties of the clergy 2: 4 ."
+    },
+    {
+      "id": 80,
+      "text": "لدراسة البخور والتبخير، راجع كتابنا: الكنيسة بيت الله، 1979، ص 373-380."
+    },
+    {
+      "id": 81,
+      "text": "In Acts, hom 54."
+    },
+    {
+      "id": 82,
+      "text": "Epist. 63: 48."
+    },
+    {
+      "id": 83,
+      "text": "القداس الباسيلي القبطي."
+    },
+    {
+      "id": 84,
+      "text": "In Num., hom 9: 7."
+    },
+    {
+      "id": 85,
+      "text": "Life of Moses 2: 284."
+    },
+    {
+      "id": 86,
+      "text": "Epis. 41: 3."
+    },
+    {
+      "id": 87,
+      "text": "Life of Moses 2: 285."
+    },
+    {
+      "id": 88,
+      "text": "للتوسع في هذا الأمر راجع كتابنا: آباء مدرسة الإسكندرية، أوريجينوس (الكتاب المقدس)، طبعة 1979."
+    },
+    {
+      "id": 89,
+      "text": "Conc. Virgins 1: 1."
+    },
+    {
+      "id": 90,
+      "text": "In Num., hom 9: 7."
+    },
+    {
+      "id": 91,
+      "text": "In Num., hom 10."
+    },
+    {
+      "id": 92,
+      "text": "Origin: In Num., hom 10."
+    },
+    {
+      "id": 93,
+      "text": "Ibid."
+    },
+    {
+      "id": 94,
+      "text": "Ibid."
+    },
+    {
+      "id": 95,
+      "text": "Ibid."
+    },
+    {
+      "id": 96,
+      "text": "Epis. 52: 5."
+    },
+    {
+      "id": 97,
+      "text": "In 1 cor., hom 38: 3."
+    },
+    {
+      "id": 98,
+      "text": "راجع للمؤلف: المسيح في سرّ الإفخارستيا ، 1973، ص 43-63."
+    },
+    {
+      "id": 99,
+      "text": "On the good of marriage 23."
+    },
+    {
+      "id": 100,
+      "text": "للمؤلف: الحب الإلهي، ص 1032."
+    },
+    {
+      "id": 101,
+      "text": "Dial. With Trypho 44."
+    },
+    {
+      "id": 102,
+      "text": "Whitaker: Documents of Baptismal Liturgy, 1970, p. 36, 38."
+    },
+    {
+      "id": 103,
+      "text": "De Ressurr. Carn. 8."
+    },
+    {
+      "id": 104,
+      "text": "Epist 75 (oxford ed. 69): 12."
+    },
+    {
+      "id": 105,
+      "text": "Tret.: De Baptismo 9; St. Hippolyt."
+    },
+    {
+      "id": 106,
+      "text": "See: J. Crehan: Early Christian Baptism and Creet,"
+    },
+    {
+      "id": 107,
+      "text": "London 1945, p. 172 f."
+    },
+    {
+      "id": 108,
+      "text": "Life of Moses 2: 269, 270."
+    },
+    {
+      "id": 109,
+      "text": "Of The Christian Faith 2: 2 ."
+    },
+    {
+      "id": 110,
+      "text": "In Ioan, tr. 28: 9."
+    },
+    {
+      "id": 111,
+      "text": "On ps., 106."
+    },
+    {
+      "id": 112,
+      "text": "On Priesthood 4: 1."
+    },
+    {
+      "id": 113,
+      "text": "راجع للمؤلف: حزقيال، أصحاح 25 ."
+    },
+    {
+      "id": 114,
+      "text": "On Spiritual Perfection, 73."
+    },
+    {
+      "id": 115,
+      "text": "Epist. 67: 4."
+    },
+    {
+      "id": 116,
+      "text": "On ps., 74."
+    },
+    {
+      "id": 117,
+      "text": "On Ioan, tr. 12: 11."
+    },
+    {
+      "id": 118,
+      "text": "Ad. Smyrneans 2."
+    },
+    {
+      "id": 119,
+      "text": "رسالة برناباس 12: 5-7 (ترجمة المطران إلياس معوض)."
+    },
+    {
+      "id": 120,
+      "text": "Life of Moses 2: 272, 277."
+    },
+    {
+      "id": 121,
+      "text": "St. Augustine : On Forigiueness of sins and Baptism 1: 61."
+    },
+    {
+      "id": 122,
+      "text": "In Num., hom 12."
+    },
+    {
+      "id": 123,
+      "text": "الترجمة السبعينية ."
+    },
+    {
+      "id": 124,
+      "text": "In Num., hom 12."
+    },
+    {
+      "id": 125,
+      "text": "(أمثال 5: 15-16) ( الترجمة السبعينية )."
+    },
+    {
+      "id": 126,
+      "text": "In Num., hom 12."
+    },
+    {
+      "id": 127,
+      "text": "Ibid."
+    },
+    {
+      "id": 128,
+      "text": "On Ps. 98."
+    },
+    {
+      "id": 129,
+      "text": "On Ps., hom 25."
+    },
+    {
+      "id": 130,
+      "text": "In Num., hom 12."
+    },
+    {
+      "id": 131,
+      "text": "Ibid."
+    },
+    {
+      "id": 132,
+      "text": "Ibid."
+    },
+    {
+      "id": 133,
+      "text": "الترجمة السبعينية ."
+    },
+    {
+      "id": 134,
+      "text": "In Num., hom 12."
+    },
+    {
+      "id": 135,
+      "text": "Ibid."
+    },
+    {
+      "id": 136,
+      "text": "Ibid."
+    },
+    {
+      "id": 137,
+      "text": "Ibid."
+    },
+    {
+      "id": 138,
+      "text": "Ibid."
+    },
+    {
+      "id": 139,
+      "text": "Ibid."
+    },
+    {
+      "id": 140,
+      "text": "Ibid."
+    },
+    {
+      "id": 141,
+      "text": "Ibid."
+    },
+    {
+      "id": 142,
+      "text": "Ibid."
+    },
+    {
+      "id": 143,
+      "text": "Ibid."
+    },
+    {
+      "id": 144,
+      "text": "راجع تفسير الأصحاح السابق ."
+    },
+    {
+      "id": 145,
+      "text": "Panegyric on S. Caesarius, Or. 6: 8."
+    },
+    {
+      "id": 146,
+      "text": "Life of Moses 2: 287-289."
+    },
+    {
+      "id": 147,
+      "text": "New Westminister Dict. of Bible, p. 442."
+    },
+    {
+      "id": 148,
+      "text": "Joseph. Antiq 13: 15; 15: 8, 5."
+    },
+    {
+      "id": 149,
+      "text": "In Num., hom 13."
+    },
+    {
+      "id": 150,
+      "text": "In Num., hom 13."
+    },
+    {
+      "id": 151,
+      "text": "Ibid."
+    },
+    {
+      "id": 152,
+      "text": "Ibid."
+    },
+    {
+      "id": 153,
+      "text": "Ibid."
+    },
+    {
+      "id": 154,
+      "text": "Life of Moses 2: 292, 294-6."
+    },
+    {
+      "id": 155,
+      "text": "In Num., hom 13."
+    },
+    {
+      "id": 156,
+      "text": "Ibid."
+    },
+    {
+      "id": 157,
+      "text": "Ibid."
+    },
+    {
+      "id": 158,
+      "text": "Origin: In Num., hom 13."
+    },
+    {
+      "id": 159,
+      "text": "Ibid."
+    },
+    {
+      "id": 160,
+      "text": "Ibid."
+    },
+    {
+      "id": 161,
+      "text": "Ibid."
+    },
+    {
+      "id": 162,
+      "text": "On The Holy Trinity."
+    },
+    {
+      "id": 163,
+      "text": "Epist. 41: 24."
+    },
+    {
+      "id": 164,
+      "text": "Epist. 139: 6."
+    },
+    {
+      "id": 165,
+      "text": "In Num., hom 14."
+    },
+    {
+      "id": 166,
+      "text": "Ibid."
+    },
+    {
+      "id": 167,
+      "text": "Ibid."
+    },
+    {
+      "id": 168,
+      "text": "Life of Moses 2: 293."
+    },
+    {
+      "id": 169,
+      "text": "In Num., hom 13, 14."
+    },
+    {
+      "id": 170,
+      "text": "In Num., hom 15."
+    },
+    {
+      "id": 171,
+      "text": "Ibid."
+    },
+    {
+      "id": 172,
+      "text": "Ibid."
+    },
+    {
+      "id": 173,
+      "text": "Ibid."
+    },
+    {
+      "id": 174,
+      "text": "Ibid."
+    },
+    {
+      "id": 175,
+      "text": "Ibid."
+    },
+    {
+      "id": 176,
+      "text": "Ibid."
+    },
+    {
+      "id": 177,
+      "text": "Dial. With Heraclides, 171."
+    },
+    {
+      "id": 178,
+      "text": "On Belief in the Resurr. 2: 43."
+    },
+    {
+      "id": 179,
+      "text": "Fragments no. 45."
+    },
+    {
+      "id": 180,
+      "text": "In Num., hom 16."
+    },
+    {
+      "id": 181,
+      "text": "In Num., hom 17."
+    },
+    {
+      "id": 182,
+      "text": "In Num., hom 17."
+    },
+    {
+      "id": 183,
+      "text": "Ibid."
+    },
+    {
+      "id": 184,
+      "text": "Ibid."
+    },
+    {
+      "id": 185,
+      "text": "Ibid."
+    },
+    {
+      "id": 186,
+      "text": "Ibid."
+    },
+    {
+      "id": 187,
+      "text": "Ibid."
+    },
+    {
+      "id": 188,
+      "text": "Ibid."
+    },
+    {
+      "id": 189,
+      "text": "In Num., hom 18."
+    },
+    {
+      "id": 190,
+      "text": "Ibid."
+    },
+    {
+      "id": 191,
+      "text": "Ibid."
+    },
+    {
+      "id": 192,
+      "text": "In Num., hom 19."
+    },
+    {
+      "id": 193,
+      "text": "Ibid."
+    },
+    {
+      "id": 194,
+      "text": "Ibid."
+    },
+    {
+      "id": 195,
+      "text": "Ibid."
+    },
+    {
+      "id": 196,
+      "text": "كلمة \"فغور\" تعني \"فجور\" أو قبائح."
+    },
+    {
+      "id": 197,
+      "text": "Origen: In Num., hom. 20."
+    },
+    {
+      "id": 198,
+      "text": "Ibid."
+    },
+    {
+      "id": 199,
+      "text": "Life of Moses 2: 297. 8."
+    },
+    {
+      "id": 200,
+      "text": "Ibid 2: 301. 4."
+    },
+    {
+      "id": 201,
+      "text": "In Num., hom. 20."
+    },
+    {
+      "id": 202,
+      "text": "راجع نظرة العلامة أوريجينوس إلى الفلسفة في كتابنا: آباء مدرسة الإسكندرية."
+    },
+    {
+      "id": 203,
+      "text": "In Num., hom. 20."
+    },
+    {
+      "id": 204,
+      "text": "Ibid."
+    },
+    {
+      "id": 205,
+      "text": "Ibid."
+    },
+    {
+      "id": 206,
+      "text": "In Ioan, 7."
+    },
+    {
+      "id": 207,
+      "text": "On Ps. 106."
+    },
+    {
+      "id": 208,
+      "text": "Origen: In Num., hom. 20."
+    },
+    {
+      "id": 209,
+      "text": "On Marriage 32."
+    },
+    {
+      "id": 210,
+      "text": "Epis. 147: 9."
+    },
+    {
+      "id": 211,
+      "text": "Baptism of Christ."
+    },
+    {
+      "id": 212,
+      "text": "للمؤلف: سفر الخروج، 1981 ."
+    },
+    {
+      "id": 213,
+      "text": "In Num., hom. 21."
+    },
+    {
+      "id": 214,
+      "text": "Ibid."
+    },
+    {
+      "id": 215,
+      "text": "Ibid."
+    },
+    {
+      "id": 216,
+      "text": "In Num., hom. 22."
+    },
+    {
+      "id": 217,
+      "text": "Ibid."
+    },
+    {
+      "id": 218,
+      "text": "Ibid."
+    },
+    {
+      "id": 219,
+      "text": "Euseb. Vita Constant. 4: 61; Tertullian: De Coron, 3 PL 2: 79."
+    },
+    {
+      "id": 220,
+      "text": "Origen: In Jos., hom. 24: 1 PG 22: 940."
+    },
+    {
+      "id": 221,
+      "text": "De Laps. 16."
+    },
+    {
+      "id": 222,
+      "text": "Paedag 3: 11."
+    },
+    {
+      "id": 223,
+      "text": "J. G. Duies: A Dict. Of Liturgy and Worship, p 189."
+    },
+    {
+      "id": 224,
+      "text": "Festal Letters 5: 4."
+    },
+    {
+      "id": 225,
+      "text": "Origen: In Num., hom. 23."
+    },
+    {
+      "id": 226,
+      "text": "In Num., hom. 23."
+    },
+    {
+      "id": 227,
+      "text": "راجع للمؤلف: سفر الخروج، الأصحاح 31 ."
+    },
+    {
+      "id": 228,
+      "text": "In Num., hom. 23."
+    },
+    {
+      "id": 229,
+      "text": "Ibid."
+    },
+    {
+      "id": 230,
+      "text": "Paschal Epis. 1."
+    },
+    {
+      "id": 231,
+      "text": "On Ps. 40: 14."
+    },
+    {
+      "id": 232,
+      "text": "To those who had not attended the assembly, 4."
+    },
+    {
+      "id": 233,
+      "text": "Joseph. Antiq."
+    },
+    {
+      "id": 234,
+      "text": "On the Gospel of St. John, tr 28: 9."
+    },
+    {
+      "id": 235,
+      "text": "In Num., hom. 24."
+    },
+    {
+      "id": 236,
+      "text": "Ibid."
+    },
+    {
+      "id": 237,
+      "text": "In Num., hom. 25."
+    },
+    {
+      "id": 238,
+      "text": "Ibid."
+    },
+    {
+      "id": 239,
+      "text": "Ibid."
+    },
+    {
+      "id": 240,
+      "text": "Ibid."
+    },
+    {
+      "id": 241,
+      "text": "New Westminister Dict. Of Bible, p 797."
+    },
+    {
+      "id": 242,
+      "text": "Sermons on N. T. Lessons 14: 4."
+    },
+    {
+      "id": 243,
+      "text": "J. Hastings: Dict. Of Bible, p 1059."
+    },
+    {
+      "id": 244,
+      "text": "تفسير الأصحاح الرابع ."
+    },
+    {
+      "id": 245,
+      "text": "New Westminister Dict. of Bible, p 331."
+    },
+    {
+      "id": 246,
+      "text": "Mckenzie: Dict. of Bible, p 310."
+    },
+    {
+      "id": 247,
+      "text": "New Westmininster, p 76."
+    },
+    {
+      "id": 248,
+      "text": "Mckenzie: p 67."
+    },
+    {
+      "id": 249,
+      "text": "Hastings , p 100."
+    },
+    {
+      "id": 250,
+      "text": "J. Jastings, p 692."
+    },
+    {
+      "id": 251,
+      "text": "In Num., hom. 26."
+    },
+    {
+      "id": 252,
+      "text": "In Num., hom. 26."
+    },
+    {
+      "id": 253,
+      "text": "للمؤلف: سفر الخروج، 1981 ، ص 81."
+    },
+    {
+      "id": 254,
+      "text": "أوريحينوس: تفسير العدد، عظة 27."
+    },
+    {
+      "id": 255,
+      "text": "المرجع السابق."
+    },
+    {
+      "id": 256,
+      "text": "Hastings , p 942."
+    },
+    {
+      "id": 257,
+      "text": "In Exod, hom. 5: 2."
+    },
+    {
+      "id": 258,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 259,
+      "text": "للمؤلف: سفر الخروج، 1981 ، ص 86، 87."
+    },
+    {
+      "id": 260,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 261,
+      "text": "للمؤلف: سفر الخروج، الأصحاح 13 ."
+    },
+    {
+      "id": 262,
+      "text": "New Westminster Dict., p 751."
+    },
+    {
+      "id": 263,
+      "text": "اسم عبراني يعني \"بعل شمال\"، غالبًا كان مزارًا للإلهة \"بعلة الشمال\". أما موقعها فبالقرب من خليج السويس على الشاطئ الغربي من السويس."
+    },
+    {
+      "id": 264,
+      "text": "للمؤلف: سفر الخروج ، ص 88-89."
+    },
+    {
+      "id": 265,
+      "text": "New Westminster, p 586."
+    },
+    {
+      "id": 266,
+      "text": "للمؤلف: سفر الخروج ، ص 99."
+    },
+    {
+      "id": 267,
+      "text": "المرجع السابق ، ص 100."
+    },
+    {
+      "id": 268,
+      "text": "مقال افتتاحي 7."
+    },
+    {
+      "id": 269,
+      "text": "De Oratione. Ench. Patr. 208-314."
+    },
+    {
+      "id": 270,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 271,
+      "text": "New Westminster Dict., p 231."
+    },
+    {
+      "id": 272,
+      "text": "New Westminster Dict., p 798."
+    },
+    {
+      "id": 273,
+      "text": "Ibid, p 799."
+    },
+    {
+      "id": 274,
+      "text": "Ibid, p 886-7."
+    },
+    {
+      "id": 275,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 276,
+      "text": "New Westminster Dict., p 806."
+    },
+    {
+      "id": 277,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 278,
+      "text": "New Westminster , p 534."
+    },
+    {
+      "id": 279,
+      "text": "Origen: In Num., hom. 27."
+    },
+    {
+      "id": 280,
+      "text": "Hastings , p 364."
+    },
+    {
+      "id": 281,
+      "text": "New Westminster Dict., p 581."
+    },
+    {
+      "id": 282,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 283,
+      "text": "New Westminster Dict., p 289, 290."
+    },
+    {
+      "id": 284,
+      "text": "Ibid, p 1024-5."
+    },
+    {
+      "id": 285,
+      "text": "In Num., hom. 27."
+    },
+    {
+      "id": 286,
+      "text": "Antiq. 4: 4, 7."
+    },
+    {
+      "id": 287,
+      "text": "In Num., hom. 22."
+    },
+    {
+      "id": 288,
+      "text": "Ibid."
+    },
+    {
+      "id": 289,
+      "text": "Ibid."
+    },
+    {
+      "id": 290,
+      "text": "Euseb. Vita Constant. 4: 61; Tertullian: De Coron, 3 PL 2: 79."
+    },
+    {
+      "id": 291,
+      "text": "Origen: In Jos., hom. 24: 1 PG 22: 940."
+    },
+    {
+      "id": 292,
+      "text": "De Laps. 16."
+    },
+    {
+      "id": 293,
+      "text": "Paedag 3: 11."
+    },
+    {
+      "id": 294,
+      "text": "J. G. Duies: A Dict. Of Liturgy and Worship, p 189."
+    }
+  ]
+}

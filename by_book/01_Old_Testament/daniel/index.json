@@ -1,0 +1,2275 @@
+{
+  "book_id": 35,
+  "book_title": "تفسير سفر دانيال",
+  "testament": "Old Testament",
+  "chapters_count": 12,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "متغرِّبون في القصر"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "رؤيا التمثال"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الثلاثة فتية في الأتون"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "مرسوم نبوخذنصَّر"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الكتابة على الحائط"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "دانيال في جب الأسود"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الوحوش الأربعة"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الكبش والتيس"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "السبعون أُسبوعًا"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "رؤية مجد الله"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الرؤيا الأخيرة"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "الضيقة العظيمة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Cf. G. Coleman Luck: Daniel, 1958, p.7."
+    },
+    {
+      "id": 2,
+      "text": "See Bethany Parallel commentary on the Old Testament, 1985, p. 1764."
+    },
+    {
+      "id": 3,
+      "text": "Cf. Baker’s Pictorial Introduction to the Bible, 1967, p. 196."
+    },
+    {
+      "id": 4,
+      "text": "Adv. Haer. 4:20:11."
+    },
+    {
+      "id": 5,
+      "text": "PL 25:61."
+    },
+    {
+      "id": 6,
+      "text": "Boyd's Bible Handbook, p. 397."
+    },
+    {
+      "id": 7,
+      "text": "القس عبد المسيح بسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، ص 69 ."
+    },
+    {
+      "id": 8,
+      "text": "The Long Rules: Preface."
+    },
+    {
+      "id": 9,
+      "text": "ANRrs., vol. 5, p. 177."
+    },
+    {
+      "id": 10,
+      "text": "Boyd's Bible Handbook, p. 307."
+    },
+    {
+      "id": 11,
+      "text": "الأنبا ديسقورس الأسقف العام: بحث في تفسير المعادلات الزمنية التي في سفر دانيال؛ القمص بيشوي كامل: دانيال صديق الملائكة، إبريل 1879.."
+    },
+    {
+      "id": 12,
+      "text": "Boyd's Bible Handbook, p. 311-2.."
+    },
+    {
+      "id": 13,
+      "text": "منشورات النفير: تفسير الكتاب المقدس، ج 4، ص 337."
+    },
+    {
+      "id": 14,
+      "text": "John Calvin: A Commentary on Daniel (Banner of Truth Trust), Oxford 1985, p. 40."
+    },
+    {
+      "id": 15,
+      "text": "Ibid, p. 42."
+    },
+    {
+      "id": 16,
+      "text": "Hieraphant, N.Y 1844, p. 109."
+    },
+    {
+      "id": 17,
+      "text": "Cf. J.E.H. Thomson, \"Daniel” in Pulpit Commentary, p xliii; Robert H. Pfeiffer: Introduction to the Old Testament, p. 755"
+    },
+    {
+      "id": 18,
+      "text": "Angelo Di Berardino: Encyclopedia of the Early Church, Oxford 1992, vol. 2, p.704."
+    },
+    {
+      "id": 19,
+      "text": "De vir illus. 81, Ep. 70"
+    },
+    {
+      "id": 20,
+      "text": "H.E. 3:23"
+    },
+    {
+      "id": 21,
+      "text": "H.E. 8:14"
+    },
+    {
+      "id": 22,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 282."
+    },
+    {
+      "id": 23,
+      "text": "PG 25:619-620."
+    },
+    {
+      "id": 24,
+      "text": "J.H. Raven: O.T. Introduction, p. 319."
+    },
+    {
+      "id": 25,
+      "text": "Coleman Luck: Daniel, Moody Press, 1958, p. 9ff."
+    },
+    {
+      "id": 26,
+      "text": "القس عبد المسيح بسيط أبو الخير: اعجاز الوحي والنبواة في سفر دانيال."
+    },
+    {
+      "id": 27,
+      "text": "Harrison: Introduction to the Old Testament, p. 1162."
+    },
+    {
+      "id": 28,
+      "text": "W.A. Criswell: Expository Sermons on the Book of Daniel, vol.1, p. 31."
+    },
+    {
+      "id": 29,
+      "text": "Cf. Robert Dick Wilson: Book of Daniel 1SBE, 2, p.785."
+    },
+    {
+      "id": 30,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 282."
+    },
+    {
+      "id": 31,
+      "text": "دائرة المعارف الكتابية: بند دانيال."
+    },
+    {
+      "id": 32,
+      "text": "Cf. Dr. Kitto: Encyclopedia of Biblical Literature; p. 620."
+    },
+    {
+      "id": 33,
+      "text": "cf. Harrison: Introduction to the Old Testament, p. 1124-26"
+    },
+    {
+      "id": 34,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 284."
+    },
+    {
+      "id": 35,
+      "text": "القس عبد المسيح بسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، 1995، ص 29."
+    },
+    {
+      "id": 36,
+      "text": "Boyd’s Bible Handbook, Oregon 1983, p. 307."
+    },
+    {
+      "id": 37,
+      "text": "القس عبد المسيح البسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، ص 46 إلخ."
+    },
+    {
+      "id": 38,
+      "text": "J.F. Walvoord: Daniel, The Key to prophetic Revelation, p. 20-21."
+    },
+    {
+      "id": 39,
+      "text": "Against Apion 1:8."
+    },
+    {
+      "id": 40,
+      "text": "القس عبد المسيح البسيط أبو الخير، ص 34،35."
+    },
+    {
+      "id": 41,
+      "text": "R.K. Harrison: Introduction to the Old Testament, p 1107."
+    },
+    {
+      "id": 42,
+      "text": "Ibid 1118."
+    },
+    {
+      "id": 43,
+      "text": "Antiquities 7:11:8."
+    },
+    {
+      "id": 44,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 284."
+    },
+    {
+      "id": 45,
+      "text": "Raven: O.T. Introduction, p. 319-320."
+    },
+    {
+      "id": 46,
+      "text": "New Westminster Dictionary of the Bible, p. 655"
+    },
+    {
+      "id": 47,
+      "text": "Josephus: Contra Apionem 1:19; Antiq. 10:11:1."
+    },
+    {
+      "id": 48,
+      "text": "PL 25:623."
+    },
+    {
+      "id": 49,
+      "text": "PL 25:623-4"
+    },
+    {
+      "id": 50,
+      "text": "W.A. Criswell: Expository Sermons on The Book of Daniel, vol. 1."
+    },
+    {
+      "id": 51,
+      "text": "PL 25:625B"
+    },
+    {
+      "id": 52,
+      "text": "Scholia on Daniel 1:8."
+    },
+    {
+      "id": 53,
+      "text": "PL 25:625A."
+    },
+    {
+      "id": 54,
+      "text": "Scholia on Daniel 1:12."
+    },
+    {
+      "id": 55,
+      "text": "PL 25:625C."
+    },
+    {
+      "id": 56,
+      "text": "PL 25:625C"
+    },
+    {
+      "id": 57,
+      "text": "PL 25:625C."
+    },
+    {
+      "id": 58,
+      "text": "منشورات النفير: تفسير الكتاب المقدَّس، ج 4، ص 329."
+    },
+    {
+      "id": 59,
+      "text": "G. Goleman Luck: Daniel, P. 26."
+    },
+    {
+      "id": 60,
+      "text": "Antiquites., book 10."
+    },
+    {
+      "id": 61,
+      "text": "PL. 25:627."
+    },
+    {
+      "id": 62,
+      "text": "PL. 25:627E-628"
+    },
+    {
+      "id": 63,
+      "text": "Cf. A Treatise on the Soul, 4-7"
+    },
+    {
+      "id": 64,
+      "text": "PL 25: 628D."
+    },
+    {
+      "id": 65,
+      "text": "PL 25: 628D."
+    },
+    {
+      "id": 66,
+      "text": "The Literal Meaning of Genesis, Book 12, ch. 9."
+    },
+    {
+      "id": 67,
+      "text": "Stromata 1: 4."
+    },
+    {
+      "id": 68,
+      "text": "Ibid."
+    },
+    {
+      "id": 69,
+      "text": "Ibid 1: 5."
+    },
+    {
+      "id": 70,
+      "text": "Scholia on Daniel 2: 3."
+    },
+    {
+      "id": 71,
+      "text": "Scholia on Daniel 2: 10."
+    },
+    {
+      "id": 72,
+      "text": "The Pulpit Commentary, Daniel, p.70."
+    },
+    {
+      "id": 73,
+      "text": "W. A. Criswell, vol. 2, p. 62."
+    },
+    {
+      "id": 74,
+      "text": "W. A. Criswell, vol. 2, p. 63."
+    },
+    {
+      "id": 75,
+      "text": "G. H. Lange: The Histories and Prophecies of Daniel, p.76."
+    },
+    {
+      "id": 76,
+      "text": "Chr. Wordworth: Holy Bible with notes and introduction, p. 8."
+    },
+    {
+      "id": 77,
+      "text": "Adv. Haer. 5:26:1"
+    },
+    {
+      "id": 78,
+      "text": "AN Frs. Vol. s, P. 178."
+    },
+    {
+      "id": 79,
+      "text": "Ibid. 179."
+    },
+    {
+      "id": 80,
+      "text": "Adv. Haer. 3: 21: 7."
+    },
+    {
+      "id": 81,
+      "text": "Sermon 169:6."
+    },
+    {
+      "id": 82,
+      "text": "In Exod. hom. 6:12."
+    },
+    {
+      "id": 83,
+      "text": "On the Baptism of Christ."
+    },
+    {
+      "id": 84,
+      "text": "Scholia on Daniel 2:49."
+    },
+    {
+      "id": 85,
+      "text": "l Cor. 45:4-7."
+    },
+    {
+      "id": 86,
+      "text": "On Idolatry, 15."
+    },
+    {
+      "id": 87,
+      "text": "On Ps. hom. 55"
+    },
+    {
+      "id": 88,
+      "text": "Institutes, Book 5:14"
+    },
+    {
+      "id": 89,
+      "text": "On Prayer, 16:3."
+    },
+    {
+      "id": 90,
+      "text": "On Prayer, 16:3."
+    },
+    {
+      "id": 91,
+      "text": "Exhortation to Martyrdom 33."
+    },
+    {
+      "id": 92,
+      "text": "On Prayer, 29"
+    },
+    {
+      "id": 93,
+      "text": "Scholia on Daniel, 3:16."
+    },
+    {
+      "id": 94,
+      "text": "Scholia on Daniel, 3:39."
+    },
+    {
+      "id": 95,
+      "text": "Scholia on Daniel, 3:79."
+    },
+    {
+      "id": 96,
+      "text": "Epistle, 80:3."
+    },
+    {
+      "id": 97,
+      "text": "Epistle, 80:3"
+    },
+    {
+      "id": 98,
+      "text": "Epistle, 55:5."
+    },
+    {
+      "id": 99,
+      "text": "Treatise, 11:11."
+    },
+    {
+      "id": 100,
+      "text": "On Renunciation of the World."
+    },
+    {
+      "id": 101,
+      "text": "The Long Rules, Q.16."
+    },
+    {
+      "id": 102,
+      "text": "Sermons for Christmas 1:13."
+    },
+    {
+      "id": 103,
+      "text": "On Detatchment."
+    },
+    {
+      "id": 104,
+      "text": "Second Discourse on Ps 33 ."
+    },
+    {
+      "id": 105,
+      "text": "Third Discourse on Ps 36 ."
+    },
+    {
+      "id": 106,
+      "text": "PL 25:644 B."
+    },
+    {
+      "id": 107,
+      "text": "Ibid."
+    },
+    {
+      "id": 108,
+      "text": "cf. the New Bible Commentary, Eerdmans, 1971, p.693."
+    },
+    {
+      "id": 109,
+      "text": "The New Bible Commentary, p. 693."
+    },
+    {
+      "id": 110,
+      "text": "PL 25:646."
+    },
+    {
+      "id": 111,
+      "text": "PL 25:647C."
+    },
+    {
+      "id": 112,
+      "text": "Ibid."
+    },
+    {
+      "id": 113,
+      "text": "Sermon 31:3."
+    },
+    {
+      "id": 114,
+      "text": "PL 25:649."
+    },
+    {
+      "id": 115,
+      "text": "PL 25:649A."
+    },
+    {
+      "id": 116,
+      "text": "The Bethany Parallel Commentary on the O.T., p. 1779."
+    },
+    {
+      "id": 117,
+      "text": "PL 25:650."
+    },
+    {
+      "id": 118,
+      "text": "Ibid."
+    },
+    {
+      "id": 119,
+      "text": "منشورات النفير: تفسير الكتاب المقدس، ج 4، ص335."
+    },
+    {
+      "id": 120,
+      "text": "On Patience 13."
+    },
+    {
+      "id": 121,
+      "text": "منشورات النفير: تفسير الكتاب المقدس 1988، ج 4، ص325."
+    },
+    {
+      "id": 122,
+      "text": "Contra Apionem 1:20."
+    },
+    {
+      "id": 123,
+      "text": "PL 25:652."
+    },
+    {
+      "id": 124,
+      "text": "Bethany Parallel Commentary on the O.T., p. 1780."
+    },
+    {
+      "id": 125,
+      "text": "Institutes, Preface."
+    },
+    {
+      "id": 126,
+      "text": "G. L. Archer: Encyclopedia of Bible Difficulties, p.286."
+    },
+    {
+      "id": 127,
+      "text": "Today’s Dictionary of the Bible; Bethany Parallel Commentary on O.T., p. 1780."
+    },
+    {
+      "id": 128,
+      "text": "قاموس الكتاب المقدس ، ص 208."
+    },
+    {
+      "id": 129,
+      "text": "W.A. Griswell, p.38-40."
+    },
+    {
+      "id": 130,
+      "text": "PL 25:652."
+    },
+    {
+      "id": 131,
+      "text": "PL 25:652A, 653."
+    },
+    {
+      "id": 132,
+      "text": "PL 25:653"
+    },
+    {
+      "id": 133,
+      "text": "The Literal Meaning of Genesis, Book 12, ch. 11."
+    },
+    {
+      "id": 134,
+      "text": "منشورات النفير: تفسير الكتاب المقدس، ص4، ص337."
+    },
+    {
+      "id": 135,
+      "text": "PL 25:653B."
+    },
+    {
+      "id": 136,
+      "text": "PL 25:657."
+    },
+    {
+      "id": 137,
+      "text": "PL 25:653-5."
+    },
+    {
+      "id": 138,
+      "text": "PL 25:655."
+    },
+    {
+      "id": 139,
+      "text": "St. Jerome: Comm. on Daniel, PL 25:651D."
+    },
+    {
+      "id": 140,
+      "text": "القس عبد المسيح بسيط أو الخير، ص63،64."
+    },
+    {
+      "id": 141,
+      "text": "PL 25:651D."
+    },
+    {
+      "id": 142,
+      "text": "دار منهل الحياة: موسوعة الكتاب المقدس، ص147."
+    },
+    {
+      "id": 143,
+      "text": "Cyrop. 1:5;8:7."
+    },
+    {
+      "id": 144,
+      "text": "Cyrop. 8:5,19"
+    },
+    {
+      "id": 145,
+      "text": "A New Catholic Commentary on Holy Scripture, Nelson 1959, p. 661."
+    },
+    {
+      "id": 146,
+      "text": "منشورات النفير: تفسير الكتاب المقدَّس، ج 4، ص 338."
+    },
+    {
+      "id": 147,
+      "text": "PL 25:658B."
+    },
+    {
+      "id": 148,
+      "text": "E. Schurer: A History of the Jewish People in the Time of Jesus Christ, 2, I p. 290, n. 248."
+    },
+    {
+      "id": 149,
+      "text": "PL 25:659."
+    },
+    {
+      "id": 150,
+      "text": "PL 25:660A."
+    },
+    {
+      "id": 151,
+      "text": "PL 25:660A."
+    },
+    {
+      "id": 152,
+      "text": "PL 25:660A."
+    },
+    {
+      "id": 153,
+      "text": "PL 25:660A."
+    },
+    {
+      "id": 154,
+      "text": "PL 25:660A.."
+    },
+    {
+      "id": 155,
+      "text": "PL 25:660A.."
+    },
+    {
+      "id": 156,
+      "text": "PL 25:660A.."
+    },
+    {
+      "id": 157,
+      "text": "On Prayer, ch 13:4."
+    },
+    {
+      "id": 158,
+      "text": "On Prayer, ch 16:3."
+    },
+    {
+      "id": 159,
+      "text": "The Literal Meaning of Genesis, Book 15:24."
+    },
+    {
+      "id": 160,
+      "text": "PL 25:662."
+    },
+    {
+      "id": 161,
+      "text": "R. K. Harrison: Introduction to the Old Testament, Eerdmans 1988, p. 1127."
+    },
+    {
+      "id": 162,
+      "text": "Cf. R. K. Harrison: Introduction to the Old Testament, Eerdmans 1988, p. 1126ff."
+    },
+    {
+      "id": 163,
+      "text": "Cf. J.G. Eichhorn: Einleitung in das (Altes Testament), 1823 ed, IV, p. 483 ff; S. Davidson: Introduction to the Old Testament, 1862, III, p. 207; R. H. Charles: A Critical and Exegetical Commentary on the Book of Daniel, p. 167 ff."
+    },
+    {
+      "id": 164,
+      "text": "J.C. Whitcomb: Darius the Mede, p.68 ff."
+    },
+    {
+      "id": 165,
+      "text": "H. H. Rowley: Darius the Mede and the Four World Empires in the Book of Daniel, p.58."
+    },
+    {
+      "id": 166,
+      "text": "D. J. Wiseman. Christianity Today, II, no 4 , p.10."
+    },
+    {
+      "id": 167,
+      "text": "See Clarence Larkin: The Book of Revelation, 1919, p. 111."
+    },
+    {
+      "id": 168,
+      "text": "PL 25:663A, B; 664"
+    },
+    {
+      "id": 169,
+      "text": "PL 25:664."
+    },
+    {
+      "id": 170,
+      "text": "PL 25:664."
+    },
+    {
+      "id": 171,
+      "text": "PL 25:664"
+    },
+    {
+      "id": 172,
+      "text": "AN Frs., vol. 5. p. 178, 209."
+    },
+    {
+      "id": 173,
+      "text": "PL 25:664C."
+    },
+    {
+      "id": 174,
+      "text": "Clarence Larkin: The Book of Revelatien, 1919, p. 109."
+    },
+    {
+      "id": 175,
+      "text": "PL 25:665."
+    },
+    {
+      "id": 176,
+      "text": "Ibid 109."
+    },
+    {
+      "id": 177,
+      "text": "AN Frs., vol. 5. p. 178-9."
+    },
+    {
+      "id": 178,
+      "text": "Clarence Larkin, p. 110."
+    },
+    {
+      "id": 179,
+      "text": "PL 25:666."
+    },
+    {
+      "id": 180,
+      "text": "PL 25:666."
+    },
+    {
+      "id": 181,
+      "text": "PL 25:666."
+    },
+    {
+      "id": 182,
+      "text": "PL 25:666."
+    },
+    {
+      "id": 183,
+      "text": "AN Frs., vol. 5. p. 178."
+    },
+    {
+      "id": 184,
+      "text": "منشورات النفير: دراسات في الكتاب المقدَّس، ج4، ص 344."
+    },
+    {
+      "id": 185,
+      "text": "PL 25:667A-668."
+    },
+    {
+      "id": 186,
+      "text": "PL 25:670-671."
+    },
+    {
+      "id": 187,
+      "text": "PL 25:671."
+    },
+    {
+      "id": 188,
+      "text": "John Calvin: A Commentary on Daniel, 1986, vol. 2, Oxford, p. 26."
+    },
+    {
+      "id": 189,
+      "text": "Ibid 27."
+    },
+    {
+      "id": 190,
+      "text": "Paed. 3:3."
+    },
+    {
+      "id": 191,
+      "text": "On Ps. hom.. 26."
+    },
+    {
+      "id": 192,
+      "text": "PL 25:669D."
+    },
+    {
+      "id": 193,
+      "text": "In Gen. hom. 13:4."
+    },
+    {
+      "id": 194,
+      "text": "Comm. on John, book 5,7."
+    },
+    {
+      "id": 195,
+      "text": "On On Ps. hom. 14."
+    },
+    {
+      "id": 196,
+      "text": "PL 25:669D."
+    },
+    {
+      "id": 197,
+      "text": "Cf. An Answer to the Jews, 14."
+    },
+    {
+      "id": 198,
+      "text": "Adv. Haer. 3:19:3."
+    },
+    {
+      "id": 199,
+      "text": "Treatise on Christ and Antichrist, 26."
+    },
+    {
+      "id": 1,
+      "text": "Cor. 34:7,5."
+    },
+    {
+      "id": 2,
+      "text": "On Virginity, ch. 24."
+    },
+    {
+      "id": 3,
+      "text": "Paed. 2:11."
+    },
+    {
+      "id": 4,
+      "text": "PL 25:671,671A."
+    },
+    {
+      "id": 5,
+      "text": "PL 25:671."
+    },
+    {
+      "id": 6,
+      "text": "AN Frs., vol. 5, p. 179."
+    },
+    {
+      "id": 7,
+      "text": "Cf. AN Frs., vol. 5, p. 179."
+    },
+    {
+      "id": 8,
+      "text": "القس عبد المسيح بسيط، ص 116."
+    },
+    {
+      "id": 9,
+      "text": "Cf. AN Frs., vol. 5, p. 180."
+    },
+    {
+      "id": 10,
+      "text": "Cf. AN Frs., vol. 5., p. 180."
+    },
+    {
+      "id": 11,
+      "text": "PL 25:674."
+    },
+    {
+      "id": 12,
+      "text": "PL 25:674."
+    },
+    {
+      "id": 13,
+      "text": "PL 25:675C."
+    },
+    {
+      "id": 14,
+      "text": "المتنيح القس منسى يوحنا: كتاب حل مشاكل الكتاب المقدس 1982، ص112 إلخ."
+    },
+    {
+      "id": 15,
+      "text": "PL 25:677F."
+    },
+    {
+      "id": 16,
+      "text": "Boyd’s Bible Handbook, p. 309."
+    },
+    {
+      "id": 17,
+      "text": "Boyd’s Bible Hand book, p.309."
+    },
+    {
+      "id": 18,
+      "text": "PL 25:677F ."
+    },
+    {
+      "id": 19,
+      "text": "القس عبد المسيح بسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، ص 62."
+    },
+    {
+      "id": 20,
+      "text": "PL 25:678."
+    },
+    {
+      "id": 21,
+      "text": "PL 25:678."
+    },
+    {
+      "id": 22,
+      "text": "PL 25:678-679."
+    },
+    {
+      "id": 23,
+      "text": "PL 25:679."
+    },
+    {
+      "id": 24,
+      "text": "PL 25:679."
+    },
+    {
+      "id": 25,
+      "text": "PL 25:679 A,B."
+    },
+    {
+      "id": 26,
+      "text": "PL 25:680."
+    },
+    {
+      "id": 27,
+      "text": "PL 25:680."
+    },
+    {
+      "id": 28,
+      "text": "PL 25:680A ."
+    },
+    {
+      "id": 29,
+      "text": "PL 25:680A."
+    },
+    {
+      "id": 30,
+      "text": "De Incarnatione Verbi Dei, 40:2."
+    },
+    {
+      "id": 31,
+      "text": "De Incarnatione Verbi Dei, 40:1-4."
+    },
+    {
+      "id": 32,
+      "text": "Bethany Parallel Commentary on the O.T., p.1798; The Treasury of the Old Testament."
+    },
+    {
+      "id": 33,
+      "text": "De Incarnatione Verbi Dei, 39:1-3."
+    },
+    {
+      "id": 34,
+      "text": "Bethany, p. 1764."
+    },
+    {
+      "id": 35,
+      "text": "دانيال صديق الملائكة، ص 67."
+    },
+    {
+      "id": 36,
+      "text": "J. Barton Payne: Encyclopedia of Biblical Prophecy, p.383."
+    },
+    {
+      "id": 37,
+      "text": "Gleson L. Archer: Encyclopedia of Bible Difficulties, p. 290."
+    },
+    {
+      "id": 38,
+      "text": "Cf. A N Frs, vol. 6, p.134-35."
+    },
+    {
+      "id": 39,
+      "text": "Bethany parallel Commentary on the O.T., p.1799."
+    },
+    {
+      "id": 40,
+      "text": "Cf. A N Frs, vol. 5, p.180 -1."
+    },
+    {
+      "id": 41,
+      "text": "Clarence Larkin: The Book of Revelation, 1919, p. 52."
+    },
+    {
+      "id": 42,
+      "text": "Cf. A N Frs, vol. 5, p.185."
+    },
+    {
+      "id": 43,
+      "text": "PL 25:684 - 686B."
+    },
+    {
+      "id": 44,
+      "text": "PL 25:691 - 694."
+    },
+    {
+      "id": 45,
+      "text": "PL 25, 694 - 695."
+    },
+    {
+      "id": 46,
+      "text": "A Critical and Exegetical Commentary on the Book of Daniel, p. 392."
+    },
+    {
+      "id": 47,
+      "text": "Bethany Parallel Commentary on O.T., p. 1802."
+    },
+    {
+      "id": 48,
+      "text": "On Renunciation of the World"
+    },
+    {
+      "id": 49,
+      "text": "The long Rules, Q. 16."
+    },
+    {
+      "id": 50,
+      "text": "PL 25:696F."
+    },
+    {
+      "id": 51,
+      "text": "Bethany Parallel Commentary on O.T., p. 1802."
+    },
+    {
+      "id": 52,
+      "text": "AN Frs., vol. 5, p. 182."
+    },
+    {
+      "id": 53,
+      "text": "PL 25: 697G."
+    },
+    {
+      "id": 54,
+      "text": "PL 25: 697G."
+    },
+    {
+      "id": 55,
+      "text": "Cassian: conf. 9: 34."
+    },
+    {
+      "id": 56,
+      "text": "PL 25: 699."
+    },
+    {
+      "id": 57,
+      "text": "PL 25: 700A, B."
+    },
+    {
+      "id": 58,
+      "text": "PL 25: 700B."
+    },
+    {
+      "id": 59,
+      "text": "PL 25: 700B."
+    },
+    {
+      "id": 60,
+      "text": "C. Larkine: The Book of Revelation, p. 113."
+    },
+    {
+      "id": 61,
+      "text": "St. Justin: Apol. 1: 10."
+    },
+    {
+      "id": 62,
+      "text": "PL 25: 701."
+    },
+    {
+      "id": 63,
+      "text": "PL 25: 703."
+    },
+    {
+      "id": 64,
+      "text": "PL 25: 703."
+    },
+    {
+      "id": 65,
+      "text": "PL 25: 706."
+    },
+    {
+      "id": 66,
+      "text": "PL 25: 707."
+    },
+    {
+      "id": 67,
+      "text": "PL 25: 717."
+    },
+    {
+      "id": 68,
+      "text": "PL 25: 716."
+    },
+    {
+      "id": 69,
+      "text": "AN Frs., vol. 5, p. 183."
+    },
+    {
+      "id": 70,
+      "text": "PL 25: 719B."
+    },
+    {
+      "id": 71,
+      "text": "PL 25: 721."
+    },
+    {
+      "id": 72,
+      "text": "PL 25: 723."
+    },
+    {
+      "id": 73,
+      "text": "Scholia on Daniel, 12: 11."
+    },
+    {
+      "id": 74,
+      "text": "PL 25: 725"
+    },
+    {
+      "id": 75,
+      "text": "Sermon 7: 4."
+    },
+    {
+      "id": 76,
+      "text": "On Ps. hom. 56."
+    },
+    {
+      "id": 77,
+      "text": "Adv. Haer. 4: 26: 1."
+    },
+    {
+      "id": 78,
+      "text": "AN Frs., vol. 5, p. 180-1."
+    },
+    {
+      "id": 79,
+      "text": "PL 25: 726 - 727."
+    },
+    {
+      "id": 80,
+      "text": "PL 25: 729."
+    },
+    {
+      "id": 81,
+      "text": "PL 25: 728 A-B."
+    },
+    {
+      "id": 82,
+      "text": "PL 25: 729."
+    },
+    {
+      "id": 83,
+      "text": "PL 25: 730."
+    },
+    {
+      "id": 84,
+      "text": "PL 25: 730 B."
+    },
+    {
+      "id": 85,
+      "text": "John Calvin: A Commentary on Daniel, Oxford 1986,. p. 392."
+    },
+    {
+      "id": 86,
+      "text": "عن الثالوث 75:9، ترجمة الدكتور إميل ماهر اسحق."
+    },
+    {
+      "id": 87,
+      "text": "الدكتور إميل ماهر إسحق: موعد المجيء الثاني، 1966، ص18."
+    },
+    {
+      "id": 88,
+      "text": "Adv. Haer 5:33-35."
+    },
+    {
+      "id": 89,
+      "text": "Instr. 2:35:8ff."
+    },
+    {
+      "id": 90,
+      "text": "PL 5:303."
+    },
+    {
+      "id": 91,
+      "text": "Inst 7:24."
+    },
+    {
+      "id": 92,
+      "text": "للمؤلف الآباء الرسوليين، 1995 ، ص 210 [ديداكية 4:16-7]."
+    },
+    {
+      "id": 93,
+      "text": "Ep. to Philippians, 7:1."
+    },
+    {
+      "id": 94,
+      "text": "Dial. cum. Trypho, 110."
+    },
+    {
+      "id": 95,
+      "text": "Adv. Haer. 5:25:1."
+    },
+    {
+      "id": 96,
+      "text": "In 2 Thess. hom.3."
+    },
+    {
+      "id": 97,
+      "text": "للمؤلف: رسالة بولس الرسول الثانية إلى أهل تسالونيكي الأصحاح الثاني ."
+    },
+    {
+      "id": 98,
+      "text": "De. Resurr. 24."
+    },
+    {
+      "id": 99,
+      "text": "Exhort. ad Martyr."
+    },
+    {
+      "id": 100,
+      "text": "De Fuga 12; cf De An. 50; De Resur. 25."
+    },
+    {
+      "id": 101,
+      "text": "J. Wendland: Miracles and Chrlstianianity. 1911, p 53f."
+    },
+    {
+      "id": 102,
+      "text": "See Gomm. on John 2:4."
+    },
+    {
+      "id": 103,
+      "text": "Brain E. Daley: The Hope of the Early Church, A Handbook of Patristic Eschatolology, Cambridge, 1990, p. 38ff."
+    },
+    {
+      "id": 104,
+      "text": "De Christo et Antichristo, 6:49."
+    },
+    {
+      "id": 105,
+      "text": "Ibid 30-36."
+    },
+    {
+      "id": 106,
+      "text": "Ibid 49-63."
+    },
+    {
+      "id": 107,
+      "text": "Ibid 64f; 44f."
+    },
+    {
+      "id": 108,
+      "text": "Ibid 64."
+    },
+    {
+      "id": 109,
+      "text": "Ibid 65."
+    },
+    {
+      "id": 110,
+      "text": "Ad Anti Christo, 14."
+    },
+    {
+      "id": 111,
+      "text": "Adv. Haer 5:30:2."
+    },
+    {
+      "id": 112,
+      "text": "Carmen 825-36; Instructions 1:41:50."
+    },
+    {
+      "id": 113,
+      "text": "Carmen 837-41; 891-926."
+    },
+    {
+      "id": 114,
+      "text": "Instructions 1:41:13-20."
+    },
+    {
+      "id": 115,
+      "text": "Epist. Pasch. 10:7."
+    },
+    {
+      "id": 116,
+      "text": "Depositio Arii 1."
+    },
+    {
+      "id": 117,
+      "text": "Ibid 5."
+    },
+    {
+      "id": 118,
+      "text": "الديداكية 4:16."
+    },
+    {
+      "id": 119,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:9."
+    },
+    {
+      "id": 120,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:9."
+    },
+    {
+      "id": 121,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:11."
+    },
+    {
+      "id": 122,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:12."
+    },
+    {
+      "id": 123,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:13."
+    },
+    {
+      "id": 124,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:14."
+    },
+    {
+      "id": 125,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:15."
+    },
+    {
+      "id": 126,
+      "text": "Institutiones, 16."
+    },
+    {
+      "id": 127,
+      "text": "Ibid"
+    },
+    {
+      "id": 128,
+      "text": "Ibid 17."
+    },
+    {
+      "id": 129,
+      "text": "Ibid 19."
+    },
+    {
+      "id": 130,
+      "text": "Ibid 17."
+    },
+    {
+      "id": 131,
+      "text": "Ibid 17-19."
+    },
+    {
+      "id": 132,
+      "text": "Ibid 20."
+    },
+    {
+      "id": 133,
+      "text": "Ibid 21"
+    },
+    {
+      "id": 134,
+      "text": "Ibid."
+    },
+    {
+      "id": 135,
+      "text": "Ibid ."
+    },
+    {
+      "id": 136,
+      "text": "Ibid 24."
+    },
+    {
+      "id": 137,
+      "text": "Beatus 2:6:82; Sanders 243."
+    },
+    {
+      "id": 138,
+      "text": "Beatus 6:3:38; Sanders 478."
+    },
+    {
+      "id": 139,
+      "text": "Beatus 6:3:38; Sanders 478f"
+    },
+    {
+      "id": 140,
+      "text": "Lib. Reg.1; Burkitt 4:21-23."
+    },
+    {
+      "id": 141,
+      "text": "Beatus 5:6:6; Sanders 423."
+    },
+    {
+      "id": 142,
+      "text": "Beatus: Praef: 4:12; Sanders 8."
+    },
+    {
+      "id": 143,
+      "text": "Beatus 5:10:36ff; Sanders 443."
+    },
+    {
+      "id": 144,
+      "text": "Beatus 7:2:21; Sanders 522."
+    },
+    {
+      "id": 145,
+      "text": "Beatus 7:2:15; Sanders 522."
+    },
+    {
+      "id": 146,
+      "text": "In 2 Thess. hom 4."
+    },
+    {
+      "id": 33,
+      "text": ", In 2 Thess hom. 3."
+    },
+    {
+      "id": 34,
+      "text": "2 Thess. hom.3."
+    },
+    {
+      "id": 37,
+      "text": "of the Holy Spirit 3:7."
+    },
+    {
+      "id": 38,
+      "text": "In Joan. hany 29:8."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 107:33."
+    },
+    {
+      "id": 40,
+      "text": "Enarr in Ps. 37:9-12; conf. 12:10:10; 12:11:13; Epistle 55:17f."
+    },
+    {
+      "id": 41,
+      "text": "On Dan. 11:35"
+    },
+    {
+      "id": 42,
+      "text": "Comm. on Daniel 2:7:7f; 2:7:11; 4:11:21."
+    },
+    {
+      "id": 43,
+      "text": "Dial. 2:14:4"
+    },
+    {
+      "id": 44,
+      "text": "Hom. 4:4."
+    },
+    {
+      "id": 45,
+      "text": "Hom.15;52."
+    },
+    {
+      "id": 46,
+      "text": "Hom. 34."
+    },
+    {
+      "id": 47,
+      "text": "Hom. 52."
+    },
+    {
+      "id": 48,
+      "text": "Hom. 18."
+    },
+    {
+      "id": 49,
+      "text": "Hoskier 217:19-24."
+    },
+    {
+      "id": 50,
+      "text": "Hoskier 219:1-15."
+    },
+    {
+      "id": 51,
+      "text": "Hoskier 219: 13-19; 220:19-27."
+    },
+    {
+      "id": 52,
+      "text": "Hoskier 225:14-20."
+    },
+    {
+      "id": 53,
+      "text": "Hoskier 131:3-13ff; 128ff; 155:12ff."
+    },
+    {
+      "id": 54,
+      "text": "Hymn 50:6-14."
+    },
+    {
+      "id": 55,
+      "text": "str. 7."
+    },
+    {
+      "id": 56,
+      "text": "str. 9-10."
+    },
+    {
+      "id": 57,
+      "text": "str. 17."
+    },
+    {
+      "id": 58,
+      "text": "str. 18."
+    },
+    {
+      "id": 59,
+      "text": "str. 19."
+    },
+    {
+      "id": 60,
+      "text": "Schmid 79:3."
+    },
+    {
+      "id": 61,
+      "text": "Ibid 35:7."
+    },
+    {
+      "id": 62,
+      "text": "Ibid 142:5-10."
+    },
+    {
+      "id": 63,
+      "text": "Ibid 137:1; 18:18-21; 202:5f."
+    },
+    {
+      "id": 64,
+      "text": "Ibid 181:6-9; 202:8-13."
+    },
+    {
+      "id": 65,
+      "text": "Ibid 216:13-18; 221:15-222:6."
+    },
+    {
+      "id": 66,
+      "text": "Expositio Fidei (Kotter, Berlin 1973, 232:23)."
+    },
+    {
+      "id": 67,
+      "text": "Ibid 233:39-43."
+    },
+    {
+      "id": 68,
+      "text": "Ibid 233:44-47."
+    },
+    {
+      "id": 69,
+      "text": "Ibid 233:47-234:52"
+    },
+    {
+      "id": 70,
+      "text": "Ibid 233:31ff."
+    },
+    {
+      "id": 71,
+      "text": "الأرشمندريت أدريانوس شكور: المئة مقالة في الإيمان الأرثوذكسي، 1991، ص273-274."
+    },
+    {
+      "id": 72,
+      "text": "Vita 4:65 PL 75:214 A15- B5."
+    },
+    {
+      "id": 73,
+      "text": "Hom. in Ev. 1:1:1 PL 76: 1077c ff."
+    },
+    {
+      "id": 74,
+      "text": "Epistle 3:29 (April 593 AD)."
+    },
+    {
+      "id": 75,
+      "text": "Ep.11:37."
+    },
+    {
+      "id": 76,
+      "text": "Ep.11:37."
+    },
+    {
+      "id": 77,
+      "text": "Ep. 11:37."
+    },
+    {
+      "id": 78,
+      "text": "Bishop Hurd: On Prophecy, vol 2., p28."
+    },
+    {
+      "id": 79,
+      "text": "Pulpet Commentary, Vol. 21 (2 Thess.) p. 54."
+    },
+    {
+      "id": 80,
+      "text": "Cf. Victor H. Matthews: Manners and Customs, article: Daniel; Freeman: Manners and Customs of the Holy Bible,1991."
+    },
+    {
+      "id": 81,
+      "text": "دار منهل الحياة: موسوعة الكتاب المقدس، لبنان، ص310-312."
+    },
+    {
+      "id": 82,
+      "text": "A. Edersheim: The Temple, 1976, p.69."
+    },
+    {
+      "id": 83,
+      "text": "Five Ancient Monarchies, vol. 3, p.20."
+    },
+    {
+      "id": 84,
+      "text": "Smith Dict. of the Bible"
+    },
+    {
+      "id": 85,
+      "text": "Antiquities 7:12:3."
+    },
+    {
+      "id": 86,
+      "text": "Five Ancient Monarchies, vol.1, p. 537-8."
+    },
+    {
+      "id": 87,
+      "text": "Smith, Dict. Greek and Roman Ant."
+    },
+    {
+      "id": 88,
+      "text": "Cf. G. Coleman Luck: Daniel, 1958, p.7."
+    },
+    {
+      "id": 89,
+      "text": "See Bethany Parallel commentary on the Old Testament, 1985, p. 1764."
+    },
+    {
+      "id": 90,
+      "text": "Cf. Baker’s Pictorial Introduction to the Bible, 1967, p. 196."
+    },
+    {
+      "id": 91,
+      "text": "Adv. Haer. 4:20:11."
+    },
+    {
+      "id": 92,
+      "text": "PL 25:61."
+    },
+    {
+      "id": 93,
+      "text": "Boyd's Bible Handbook, p. 397."
+    },
+    {
+      "id": 94,
+      "text": "القس عبد المسيح بسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، ص 69 ."
+    },
+    {
+      "id": 95,
+      "text": "The Long Rules: Preface."
+    },
+    {
+      "id": 96,
+      "text": "ANRrs., vol. 5, p. 177."
+    },
+    {
+      "id": 97,
+      "text": "Boyd's Bible Handbook, p. 307."
+    },
+    {
+      "id": 98,
+      "text": "الأنبا ديسقورس الأسقف العام: بحث في تفسير المعادلات الزمنية التي في سفر دانيال؛ القمص بيشوي كامل: دانيال صديق الملائكة، إبريل 1879.."
+    },
+    {
+      "id": 99,
+      "text": "Boyd's Bible Handbook, p. 311-2.."
+    },
+    {
+      "id": 100,
+      "text": "منشورات النفير: تفسير الكتاب المقدس، ج 4، ص 337."
+    },
+    {
+      "id": 101,
+      "text": "John Calvin: A Commentary on Daniel (Banner of Truth Trust), Oxford 1985, p. 40."
+    },
+    {
+      "id": 102,
+      "text": "Ibid, p. 42."
+    },
+    {
+      "id": 103,
+      "text": "Hieraphant, N.Y 1844, p. 109."
+    },
+    {
+      "id": 104,
+      "text": "Cf. J.E.H. Thomson, \"Daniel” in Pulpit Commentary, p xliii; Robert H. Pfeiffer: Introduction to the Old Testament, p. 755"
+    },
+    {
+      "id": 105,
+      "text": "Angelo Di Berardino: Encyclopedia of the Early Church, Oxford 1992, vol. 2, p.704."
+    },
+    {
+      "id": 106,
+      "text": "De vir illus. 81, Ep. 70"
+    },
+    {
+      "id": 107,
+      "text": "H.E. 3:23"
+    },
+    {
+      "id": 108,
+      "text": "H.E. 8:14"
+    },
+    {
+      "id": 109,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 282."
+    },
+    {
+      "id": 110,
+      "text": "PG 25:619-620."
+    },
+    {
+      "id": 111,
+      "text": "J.H. Raven: O.T. Introduction, p. 319."
+    },
+    {
+      "id": 112,
+      "text": "Coleman Luck: Daniel, Moody Press, 1958, p. 9ff."
+    },
+    {
+      "id": 113,
+      "text": "القس عبد المسيح بسيط أبو الخير: اعجاز الوحي والنبواة في سفر دانيال."
+    },
+    {
+      "id": 114,
+      "text": "W.A. Criswell: Expository Sermons on the Book of Daniel, vol.1, p. 31."
+    },
+    {
+      "id": 115,
+      "text": "Cf. Robert Dick Wilson: Book of Daniel 1SBE, 2, p.785."
+    },
+    {
+      "id": 116,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 282."
+    },
+    {
+      "id": 117,
+      "text": "دائرة المعارف الكتابية: بند دانيال."
+    },
+    {
+      "id": 118,
+      "text": "Cf. Dr. Kitto: Encyclopedia of Biblical Literature; p. 620."
+    },
+    {
+      "id": 119,
+      "text": "cf. Harrison: Introduction to the Old Testament, p. 1124-26"
+    },
+    {
+      "id": 120,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 284."
+    },
+    {
+      "id": 121,
+      "text": "القس عبد المسيح بسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، 1995، ص 29."
+    },
+    {
+      "id": 122,
+      "text": "Boyd’s Bible Handbook, Oregon 1983, p. 307."
+    },
+    {
+      "id": 123,
+      "text": "القس عبد المسيح البسيط أبو الخير: إعجاز الوحي والنبوة في سفر دانيال، ص 46 إلخ."
+    },
+    {
+      "id": 124,
+      "text": "J.F. Walvoord: Daniel, The Key to prophetic Revelation, p. 20-21."
+    },
+    {
+      "id": 125,
+      "text": "Against Apion 1:8."
+    },
+    {
+      "id": 126,
+      "text": "القس عبد المسيح البسيط أبو الخير، ص 34،35."
+    },
+    {
+      "id": 127,
+      "text": "R.K. Harrison: Introduction to the Old Testament, p 1107."
+    },
+    {
+      "id": 128,
+      "text": "Ibid 1118."
+    },
+    {
+      "id": 129,
+      "text": "Antiquities 7:11:8."
+    },
+    {
+      "id": 130,
+      "text": "Gleanson L. Archer: Encyclopedia of Bible Difficulties, 1982, p. 284."
+    },
+    {
+      "id": 131,
+      "text": "Cf. Victor H. Matthews: Manners and Customs, article: Daniel; Freeman: Manners and Customs of the Holy Bible,1991."
+    },
+    {
+      "id": 132,
+      "text": "A. Edersheim: The Temple, 1976, p.69."
+    },
+    {
+      "id": 133,
+      "text": "Five Ancient Monarchies, vol. 3, p.20."
+    },
+    {
+      "id": 134,
+      "text": "Smith Dict. of the Bible"
+    },
+    {
+      "id": 135,
+      "text": "Antiquities 7:12:3."
+    },
+    {
+      "id": 136,
+      "text": "Five Ancient Monarchies, vol.1, p. 537-8."
+    },
+    {
+      "id": 137,
+      "text": "Smith, Dict. Greek and Roman Ant."
+    },
+    {
+      "id": 138,
+      "text": "عن الثالوث 75:9، ترجمة الدكتور إميل ماهر اسحق."
+    },
+    {
+      "id": 139,
+      "text": "الدكتور إميل ماهر إسحق: موعد المجيء الثاني، 1966، ص18."
+    },
+    {
+      "id": 140,
+      "text": "Adv. Haer 5:33-35."
+    },
+    {
+      "id": 141,
+      "text": "Instr. 2:35:8ff."
+    },
+    {
+      "id": 142,
+      "text": "PL 5:303."
+    },
+    {
+      "id": 143,
+      "text": "Inst 7:24."
+    },
+    {
+      "id": 144,
+      "text": "للمؤلف الآباء الرسوليين، 1995 ، ص 210 [ديداكية 4:16-7]."
+    },
+    {
+      "id": 145,
+      "text": "Ep. to Philippians, 7:1."
+    },
+    {
+      "id": 146,
+      "text": "Dial. cum. Trypho, 110."
+    },
+    {
+      "id": 147,
+      "text": "Adv. Haer. 5:25:1."
+    },
+    {
+      "id": 148,
+      "text": "In 2 Thess. hom.3."
+    },
+    {
+      "id": 149,
+      "text": "للمؤلف: رسالة بولس الرسول الثانية إلى أهل تسالونيكي الأصحاح الثاني ."
+    },
+    {
+      "id": 150,
+      "text": "De. Resurr. 24."
+    },
+    {
+      "id": 151,
+      "text": "Exhort. ad Martyr."
+    },
+    {
+      "id": 152,
+      "text": "De Fuga 12; cf De An. 50; De Resur. 25."
+    },
+    {
+      "id": 153,
+      "text": "J. Wendland: Miracles and Chrlstianianity. 1911, p 53f."
+    },
+    {
+      "id": 154,
+      "text": "See Gomm. on John 2:4."
+    },
+    {
+      "id": 155,
+      "text": "Brain E. Daley: The Hope of the Early Church, A Handbook of Patristic Eschatolology, Cambridge, 1990, p. 38ff."
+    },
+    {
+      "id": 156,
+      "text": "De Christo et Antichristo, 6:49."
+    },
+    {
+      "id": 157,
+      "text": "Ibid 30-36."
+    },
+    {
+      "id": 158,
+      "text": "Ibid 49-63."
+    },
+    {
+      "id": 159,
+      "text": "Ibid 64f; 44f."
+    },
+    {
+      "id": 160,
+      "text": "Ibid 64."
+    },
+    {
+      "id": 161,
+      "text": "Ibid 65."
+    },
+    {
+      "id": 162,
+      "text": "Ad Anti Christo, 14."
+    },
+    {
+      "id": 163,
+      "text": "Adv. Haer 5:30:2."
+    },
+    {
+      "id": 164,
+      "text": "Carmen 825-36; Instructions 1:41:50."
+    },
+    {
+      "id": 165,
+      "text": "Carmen 837-41; 891-926."
+    },
+    {
+      "id": 166,
+      "text": "Instructions 1:41:13-20."
+    },
+    {
+      "id": 167,
+      "text": "Epist. Pasch. 10:7."
+    },
+    {
+      "id": 168,
+      "text": "Depositio Arii 1."
+    },
+    {
+      "id": 169,
+      "text": "Ibid 5."
+    },
+    {
+      "id": 170,
+      "text": "الديداكية 4:16."
+    },
+    {
+      "id": 171,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:9."
+    },
+    {
+      "id": 172,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:9."
+    },
+    {
+      "id": 173,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:11."
+    },
+    {
+      "id": 174,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:12."
+    },
+    {
+      "id": 175,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:13."
+    },
+    {
+      "id": 176,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:14."
+    },
+    {
+      "id": 177,
+      "text": "St. Cyril of Jerusalem: Lect. Cath. 15:15."
+    },
+    {
+      "id": 178,
+      "text": "Institutiones, 16."
+    },
+    {
+      "id": 179,
+      "text": "Ibid"
+    },
+    {
+      "id": 180,
+      "text": "Ibid 17."
+    },
+    {
+      "id": 181,
+      "text": "Ibid 19."
+    },
+    {
+      "id": 182,
+      "text": "Ibid 17."
+    },
+    {
+      "id": 183,
+      "text": "Ibid 17-19."
+    },
+    {
+      "id": 184,
+      "text": "Ibid 20."
+    },
+    {
+      "id": 185,
+      "text": "Ibid 21"
+    },
+    {
+      "id": 186,
+      "text": "Ibid."
+    },
+    {
+      "id": 187,
+      "text": "Ibid ."
+    },
+    {
+      "id": 188,
+      "text": "Ibid 24."
+    },
+    {
+      "id": 189,
+      "text": "Beatus 2:6:82; Sanders 243."
+    },
+    {
+      "id": 190,
+      "text": "Beatus 6:3:38; Sanders 478."
+    },
+    {
+      "id": 191,
+      "text": "Beatus 6:3:38; Sanders 478f"
+    },
+    {
+      "id": 192,
+      "text": "Lib. Reg.1; Burkitt 4:21-23."
+    },
+    {
+      "id": 193,
+      "text": "Beatus 5:6:6; Sanders 423."
+    },
+    {
+      "id": 194,
+      "text": "Beatus: Praef: 4:12; Sanders 8."
+    },
+    {
+      "id": 195,
+      "text": "Beatus 5:10:36ff; Sanders 443."
+    },
+    {
+      "id": 196,
+      "text": "Beatus 7:2:21; Sanders 522."
+    },
+    {
+      "id": 197,
+      "text": "Beatus 7:2:15; Sanders 522."
+    },
+    {
+      "id": 198,
+      "text": "In 2 Thess. hom 4."
+    },
+    {
+      "id": 33,
+      "text": ", In 2 Thess hom. 3."
+    },
+    {
+      "id": 34,
+      "text": "2 Thess. hom.3."
+    },
+    {
+      "id": 37,
+      "text": "of the Holy Spirit 3:7."
+    },
+    {
+      "id": 38,
+      "text": "In Joan. hany 29:8."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 107:33."
+    },
+    {
+      "id": 40,
+      "text": "Enarr in Ps. 37:9-12; conf. 12:10:10; 12:11:13; Epistle 55:17f."
+    },
+    {
+      "id": 41,
+      "text": "On Dan. 11:35"
+    },
+    {
+      "id": 42,
+      "text": "Comm. on Daniel 2:7:7f; 2:7:11; 4:11:21."
+    },
+    {
+      "id": 43,
+      "text": "Dial. 2:14:4"
+    },
+    {
+      "id": 44,
+      "text": "Hom. 4:4."
+    },
+    {
+      "id": 45,
+      "text": "Hom.15;52."
+    },
+    {
+      "id": 46,
+      "text": "Hom. 34."
+    },
+    {
+      "id": 47,
+      "text": "Hom. 52."
+    },
+    {
+      "id": 48,
+      "text": "Hom. 18."
+    },
+    {
+      "id": 49,
+      "text": "Hoskier 217:19-24."
+    },
+    {
+      "id": 50,
+      "text": "Hoskier 219:1-15."
+    },
+    {
+      "id": 51,
+      "text": "Hoskier 219: 13-19; 220:19-27."
+    },
+    {
+      "id": 52,
+      "text": "Hoskier 225:14-20."
+    },
+    {
+      "id": 53,
+      "text": "Hoskier 131:3-13ff; 128ff; 155:12ff."
+    },
+    {
+      "id": 54,
+      "text": "Hymn 50:6-14."
+    },
+    {
+      "id": 55,
+      "text": "str. 7."
+    },
+    {
+      "id": 56,
+      "text": "str. 9-10."
+    },
+    {
+      "id": 57,
+      "text": "str. 17."
+    },
+    {
+      "id": 58,
+      "text": "str. 18."
+    },
+    {
+      "id": 59,
+      "text": "str. 19."
+    },
+    {
+      "id": 60,
+      "text": "Schmid 79:3."
+    },
+    {
+      "id": 61,
+      "text": "Ibid 35:7."
+    },
+    {
+      "id": 62,
+      "text": "Ibid 142:5-10."
+    },
+    {
+      "id": 63,
+      "text": "Ibid 137:1; 18:18-21; 202:5f."
+    },
+    {
+      "id": 64,
+      "text": "Ibid 181:6-9; 202:8-13."
+    },
+    {
+      "id": 65,
+      "text": "Ibid 216:13-18; 221:15-222:6."
+    },
+    {
+      "id": 66,
+      "text": "Expositio Fidei (Kotter, Berlin 1973, 232:23)."
+    },
+    {
+      "id": 67,
+      "text": "Ibid 233:39-43."
+    },
+    {
+      "id": 68,
+      "text": "Ibid 233:44-47."
+    },
+    {
+      "id": 69,
+      "text": "Ibid 233:47-234:52"
+    },
+    {
+      "id": 70,
+      "text": "Ibid 233:31ff."
+    },
+    {
+      "id": 71,
+      "text": "الأرشمندريت أدريانوس شكور: المئة مقالة في الإيمان الأرثوذكسي، 1991، ص273-274."
+    },
+    {
+      "id": 72,
+      "text": "Vita 4:65 PL 75:214 A15- B5."
+    },
+    {
+      "id": 73,
+      "text": "Hom. in Ev. 1:1:1 PL 76: 1077c ff."
+    },
+    {
+      "id": 74,
+      "text": "Epistle 3:29 (April 593 AD)."
+    },
+    {
+      "id": 75,
+      "text": "Ep.11:37."
+    },
+    {
+      "id": 76,
+      "text": "Ep.11:37."
+    },
+    {
+      "id": 77,
+      "text": "Ep. 11:37."
+    },
+    {
+      "id": 78,
+      "text": "Bishop Hurd: On Prophecy, vol 2., p28."
+    },
+    {
+      "id": 79,
+      "text": "Pulpet Commentary, Vol. 21 (2 Thess.) p. 54."
+    }
+  ]
+}

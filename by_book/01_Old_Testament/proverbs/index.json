@@ -1,0 +1,4559 @@
+{
+  "book_id": 23,
+  "book_title": "تفسير سفر الأمثال",
+  "testament": "Old Testament",
+  "chapters_count": 30,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "نداء الحكمة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "مكافاءات الحكمة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "طريق الحكمة العملي"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الحكمة: إيجابيًا وسلبيًا"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "صوت الزانية"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "التصرفات غيرالمسئولة"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "اهرب من الزانية"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "نداء علني للحكمة الأزلي"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "مائدة الحكمة"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "مكافآت الحياة السامية"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "طرق البرّ مملوءة أمانًا"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "وصايا الحكمة عن السلوك المتناقض"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "سعادة الحكيم وشبعه"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "وصايا الحكمة عن مخافة الرب"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "عبور الحياة بقلبٍ باشٍ"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "بيت المحبة"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "العزلة المقدسة والعزلة الشريرة"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "يا لعظمة السلوك بالكمال"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "وصايا الحكمة"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Paschal Epist. 11: 9."
+    },
+    {
+      "id": 2,
+      "text": "Cf. The Guideposts Bible Study Program, Discovering Proverbs, Ecclesiastes, and Song of Songs, 1989, Publisher’s Introduction, and Preface."
+    },
+    {
+      "id": 3,
+      "text": "Cf. The Guideposts Bible Study Program, Discovering Proverbs, Ecclesiastes, and Song of Songs, 1989, Publisher’s Introduction, and Preface."
+    },
+    {
+      "id": 4,
+      "text": "Orator 27.94; Everett Ferguson: Encyclopedia of Early Christianity, N.Y, 990, p. 23."
+    },
+    {
+      "id": 5,
+      "text": "De Trin., 15:9:15."
+    },
+    {
+      "id": 6,
+      "text": "Everett Ferguson: Encyclopedia of Early Christianity, N.Y, 990, p. 23."
+    },
+    {
+      "id": 7,
+      "text": "John MacQueen: Allegory, Methuen & Co, 1970, p. 20."
+    },
+    {
+      "id": 8,
+      "text": "Protrepticus 1:8:4."
+    },
+    {
+      "id": 9,
+      "text": "Quis Dives Salvetur 37."
+    },
+    {
+      "id": 10,
+      "text": "Contra Celsus 3:61,62."
+    },
+    {
+      "id": 11,
+      "text": "Contra Celsus 6:67."
+    },
+    {
+      "id": 12,
+      "text": "Contra Celsus 6:67."
+    },
+    {
+      "id": 13,
+      "text": "In Num. hom 18:3."
+    },
+    {
+      "id": 14,
+      "text": "Jean Daniélou: Origen, NY, 1955, p. 18."
+    },
+    {
+      "id": 15,
+      "text": "Cf. J. Terence Forestell: The Book of Proverbs with a Commentary, Paulist Press, 1960, p.7."
+    },
+    {
+      "id": 16,
+      "text": "Cf.J. Terence Forestell: The Book of Proverbs with a Commentary, Paulist Press, 1960, p.6."
+    },
+    {
+      "id": 17,
+      "text": "Stromata 7:13."
+    },
+    {
+      "id": 18,
+      "text": "Robert Lee: The Outlined Bible, Analysis No. 20."
+    },
+    {
+      "id": 19,
+      "text": "Boyd's Bible Handbook, 1983, p. 250."
+    },
+    {
+      "id": 20,
+      "text": "Henrietta C. Mears: What the Bible is all about, 1983, p. 173."
+    },
+    {
+      "id": 21,
+      "text": "Cf. Darby’ Synopsis on the Bible, Proverbs."
+    },
+    {
+      "id": 22,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 23,
+      "text": "Adam Clarke’s Commentaries."
+    },
+    {
+      "id": 24,
+      "text": "J. Vernon McGee: Proverbs, Thomas Nelson, Nashville, 1991, p. 14-15."
+    },
+    {
+      "id": 25,
+      "text": "J. Vernon McGee: Proverbs, Thomas Nelson, Nashville, 1991, p. 15."
+    },
+    {
+      "id": 26,
+      "text": "The Author: School of Alexandria, 1995, p. 155."
+    },
+    {
+      "id": 27,
+      "text": "St. Clement of Alexandria: Instructor 1:9."
+    },
+    {
+      "id": 28,
+      "text": "St. Irenaeus: Adv. Haer., 3:23:5."
+    },
+    {
+      "id": 29,
+      "text": "J. Vernon McGee: Proverbs, Thomas Nelson, Nashville, 1991, p. 17."
+    },
+    {
+      "id": 30,
+      "text": "St. Basil the Great: Homily 12 on the beginning of the proverbs."
+    },
+    {
+      "id": 31,
+      "text": "Homilies on Song of Songs, 3. PG 44:829."
+    },
+    {
+      "id": 32,
+      "text": "Adam Clarke’s Commentaries."
+    },
+    {
+      "id": 33,
+      "text": "J. Vernon McGee: Proverbs, Thomas Nelson, Nashville, 1991, p. 19."
+    },
+    {
+      "id": 34,
+      "text": "St. Clement of Alexandria: Stromata 2:8."
+    },
+    {
+      "id": 35,
+      "text": "St. John Chrysostom: Homilies on St. John, 41."
+    },
+    {
+      "id": 36,
+      "text": "Tertullian: On Pr escription Against Heretics, 43."
+    },
+    {
+      "id": 37,
+      "text": "St. Gregory Nazianzen: Oration On the Holy Lights, 8."
+    },
+    {
+      "id": 38,
+      "text": "Martyr. Polyc. 12:3."
+    },
+    {
+      "id": 39,
+      "text": "Athanasius: Ep. ad Afros. 6."
+    },
+    {
+      "id": 40,
+      "text": "المؤلف: الآباء الرسوليون، 1995 ، ص 13."
+    },
+    {
+      "id": 41,
+      "text": "Adv. Haer. 4:41:2."
+    },
+    {
+      "id": 42,
+      "text": "Sromata 1:1,2."
+    },
+    {
+      "id": 43,
+      "text": "St. John Chrysostom: Commentary on 2 Corinthians 1:20."
+    },
+    {
+      "id": 44,
+      "text": "للمؤلف: نشيد الأناشيد ، ص 45."
+    },
+    {
+      "id": 45,
+      "text": "Comm. on Song of Songs. Book 2,7."
+    },
+    {
+      "id": 46,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 47,
+      "text": "St. Augustine: City of God, 17:20."
+    },
+    {
+      "id": 48,
+      "text": "St. Gregory Nazianzen: Oration On Holy Baptism, 25."
+    },
+    {
+      "id": 49,
+      "text": "St. Cyprian: Treatise Viii On Works And Alms, 13."
+    },
+    {
+      "id": 50,
+      "text": "St. Augustine: On the Psalms, 145:13."
+    },
+    {
+      "id": 51,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 26."
+    },
+    {
+      "id": 52,
+      "text": "St. Clement of Alexandria: Stromata 4:23."
+    },
+    {
+      "id": 53,
+      "text": "St. Clement of Alexandria: Stromata 2:23."
+    },
+    {
+      "id": 54,
+      "text": "Robert L. Alden: Proverbs, Michigan 1995, p. 33."
+    },
+    {
+      "id": 55,
+      "text": "William MacDonald: Believer’s Bible Commentary, Thomas Nelson Publishers, 1995, p. 796."
+    },
+    {
+      "id": 56,
+      "text": "St. Clement of Alexandria: Stromata 1:1."
+    },
+    {
+      "id": 57,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 49."
+    },
+    {
+      "id": 58,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 48، 49."
+    },
+    {
+      "id": 59,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 48."
+    },
+    {
+      "id": 60,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 48."
+    },
+    {
+      "id": 61,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 48."
+    },
+    {
+      "id": 62,
+      "text": "On Ps 118."
+    },
+    {
+      "id": 63,
+      "text": "On Ps 139:10"
+    },
+    {
+      "id": 64,
+      "text": "On Ps. 30:10."
+    },
+    {
+      "id": 65,
+      "text": "On Ps. 37:14."
+    },
+    {
+      "id": 66,
+      "text": "Sermon, 91:3."
+    },
+    {
+      "id": 67,
+      "text": "Sermon, 91:3."
+    },
+    {
+      "id": 68,
+      "text": "On Ps. 102:8."
+    },
+    {
+      "id": 69,
+      "text": "St. John Chrysostom: Homilies on St. John, 15."
+    },
+    {
+      "id": 70,
+      "text": "راجع كتابنا: المزمور 119، 1996 ، ص 98."
+    },
+    {
+      "id": 71,
+      "text": "St. John Chrysostom: Homilies on St. John, 15."
+    },
+    {
+      "id": 72,
+      "text": "St. Clement of Alexandria: Stromata 1:4."
+    },
+    {
+      "id": 73,
+      "text": "Origen: Against Celsus, 7:34."
+    },
+    {
+      "id": 74,
+      "text": "Origen: De Principiis 4:1:37."
+    },
+    {
+      "id": 75,
+      "text": "Origen: De Principiis 1:1:9."
+    },
+    {
+      "id": 76,
+      "text": "St. Augustine: On Grace and Free Will, 40 ."
+    },
+    {
+      "id": 77,
+      "text": "St. Augustine: On Christian Doctrine, 3:37 ."
+    },
+    {
+      "id": 78,
+      "text": "William MacDonald: Believer’s Bible Commentary, Thomas Nelson Publishers, 1995, p. 796."
+    },
+    {
+      "id": 79,
+      "text": "Epistle 193. PG 37:316; The Author: St. John Chrysostom, 1980, p.36-7 (in Arabic)."
+    },
+    {
+      "id": 80,
+      "text": "Robert L. Alden: Proverbs, Michigan 1995, p. 34."
+    },
+    {
+      "id": 81,
+      "text": "William MacDonald: Believer’s Bible Commentary, Thomas Nelson Publishers, 1995, p. 797."
+    },
+    {
+      "id": 82,
+      "text": "St. Clement of Rome: the Epistle to the Corinthians, 14."
+    },
+    {
+      "id": 83,
+      "text": "St. John Chrysostom: Homilies on Philippians, Introduction."
+    },
+    {
+      "id": 84,
+      "text": "St. John Chrysostom: Homilies on Ephesians 24."
+    },
+    {
+      "id": 85,
+      "text": "Epistle 1 of the Blessed Clement concerning Virginity, 2."
+    },
+    {
+      "id": 86,
+      "text": "St. Augustine: On Grace and Free Will, 9."
+    },
+    {
+      "id": 87,
+      "text": "Tertullian: of Patience, 11."
+    },
+    {
+      "id": 88,
+      "text": "St. Clement of Alexandria: Stromata 2:2."
+    },
+    {
+      "id": 89,
+      "text": "St. Cyprian: Treatise 2, On The Dress Of Virgins, 1."
+    },
+    {
+      "id": 90,
+      "text": "St. Clement of Alexandria: Instructor 1:9."
+    },
+    {
+      "id": 91,
+      "text": "St. John Chrysostom: Homilies on Philippians, 15."
+    },
+    {
+      "id": 92,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 12."
+    },
+    {
+      "id": 93,
+      "text": "St. Augustine: On Forgiveness of Sins, And Baptism, 2:25."
+    },
+    {
+      "id": 94,
+      "text": "St. Clement of Alexandria: Stromata 1:27."
+    },
+    {
+      "id": 95,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 96,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 97,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 98,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 99,
+      "text": "St. Clement of Alexandria: Instructor 2:13."
+    },
+    {
+      "id": 100,
+      "text": "Hom. on Song of Songs,1 PG 44:768."
+    },
+    {
+      "id": 101,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 26."
+    },
+    {
+      "id": 102,
+      "text": "St. Augustine: On the Spirit and the Letter, 15 ."
+    },
+    {
+      "id": 103,
+      "text": "St. Augustine: Against Two Letters of the Pelagians, 4:11."
+    },
+    {
+      "id": 104,
+      "text": "St. Augustine: On Grace and Free Will, 37 ."
+    },
+    {
+      "id": 105,
+      "text": "St. Augustine: City of God, 20:26."
+    },
+    {
+      "id": 106,
+      "text": "St. Augustine: On Forgiveness of Sins, And Baptism, 2:35. ."
+    },
+    {
+      "id": 107,
+      "text": "St. Hilary of Poitiers: On Psalm 1 ."
+    },
+    {
+      "id": 108,
+      "text": "Methodius: Banquet of the Ten Virgins, 3."
+    },
+    {
+      "id": 109,
+      "text": "Hom. on Song of Songs,1. PG 44:769."
+    },
+    {
+      "id": 110,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 1:6:19."
+    },
+    {
+      "id": 111,
+      "text": "Paedagogos 3:11:58."
+    },
+    {
+      "id": 112,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 113,
+      "text": "St. Athanasius of Alexandria: Paschal Letters, 2:1."
+    },
+    {
+      "id": 114,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 58."
+    },
+    {
+      "id": 115,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 58."
+    },
+    {
+      "id": 116,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 58."
+    },
+    {
+      "id": 117,
+      "text": "Of the Holy Spirit,, Book 2:4:29."
+    },
+    {
+      "id": 118,
+      "text": "St. Gregory of Nyssa: On Virginity, 20."
+    },
+    {
+      "id": 119,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 120,
+      "text": "St. Clement of Alexandria: Stromata 1:5."
+    },
+    {
+      "id": 121,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 122,
+      "text": "St. Clement of Alexandria: Stromata 1:5."
+    },
+    {
+      "id": 123,
+      "text": "St. John Chrysostom: Homilies on St. John, 8."
+    },
+    {
+      "id": 124,
+      "text": "St. Ambrose: St. Ambrose: Duties of the Clergy, 1:3 ."
+    },
+    {
+      "id": 125,
+      "text": "St. Ephraim the Syrian: Three Homilies, On Admonition and Repentance, 9."
+    },
+    {
+      "id": 126,
+      "text": "St. Athanasius of Alexandria: De Vita S. Antoni, 21."
+    },
+    {
+      "id": 127,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 15."
+    },
+    {
+      "id": 128,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 129,
+      "text": "St. Gregory Nazianzen: In Defense of his Flight to Pontus, 35."
+    },
+    {
+      "id": 130,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 131,
+      "text": "St. John Cassian: The Institutes, book 11, 4."
+    },
+    {
+      "id": 132,
+      "text": "St. Augustine: On Forgiveness of Sins, And Baptism, 2:57. ."
+    },
+    {
+      "id": 133,
+      "text": "المؤسسات، ك 11، ف 4."
+    },
+    {
+      "id": 1,
+      "text": "H.A. Ironside: Rroverbs, N.J, P.36."
+    },
+    {
+      "id": 2,
+      "text": "St. John Cassian: Conf. 18:3."
+    },
+    {
+      "id": 3,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 14."
+    },
+    {
+      "id": 4,
+      "text": "St. Clement of Alexandria: Stromata 1:5."
+    },
+    {
+      "id": 5,
+      "text": "Y. Vernon McGee: Proverbs, p. 55."
+    },
+    {
+      "id": 6,
+      "text": "St. John Chrysostom: Concerning the Statues, 14:10."
+    },
+    {
+      "id": 7,
+      "text": "St. John Chrysostom: Homilies on 1 Thessalonians, hom. 5."
+    },
+    {
+      "id": 8,
+      "text": "Hom. On Song of Songs, 12. PG 44:1021."
+    },
+    {
+      "id": 9,
+      "text": "Cf. Hom. Song on Song of Songs."
+    },
+    {
+      "id": 10,
+      "text": "St. Augustine: On the Epistle of St. John, hom. 9:2."
+    },
+    {
+      "id": 11,
+      "text": "St. John Chrysostom: Homilies on Romans, 12."
+    },
+    {
+      "id": 12,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 12."
+    },
+    {
+      "id": 13,
+      "text": "St. Clement of Alexandria: Stromata 1:1."
+    },
+    {
+      "id": 14,
+      "text": "St. Ephraim the Syrian: Three Homilies, On admonition and repentance, 8."
+    },
+    {
+      "id": 15,
+      "text": "St. Gregory Nazianzen: Oration 37:8."
+    },
+    {
+      "id": 16,
+      "text": "St. Ambrose: Of the Holy Spirit, 1:16:182 ."
+    },
+    {
+      "id": 17,
+      "text": "St. Ambrose: Of the Holy Spirit, 3:17:120."
+    },
+    {
+      "id": 18,
+      "text": "St. Augustine: On the Epistle of St. John, hom. 7:6."
+    },
+    {
+      "id": 19,
+      "text": "Cf. Robert L. Alden: Proverbs 1995, p.52."
+    },
+    {
+      "id": 20,
+      "text": "Hom on Song.9; PG 44:965."
+    },
+    {
+      "id": 21,
+      "text": "Hom on Song 9; PG 44:977."
+    },
+    {
+      "id": 22,
+      "text": "St. Augustine: On the Psalms, 18:26."
+    },
+    {
+      "id": 23,
+      "text": "St. Augustine: On the Psalms, 25:8."
+    },
+    {
+      "id": 24,
+      "text": "St. John Cassian: Conference 24:24."
+    },
+    {
+      "id": 25,
+      "text": "St. John Chrysostom: Concerning the Statues, 15:13."
+    },
+    {
+      "id": 26,
+      "text": "The Ladder, 13."
+    },
+    {
+      "id": 27,
+      "text": "St. John Chrysostom: Homilies on Matthew, 7:7."
+    },
+    {
+      "id": 28,
+      "text": "St. John Chrysostom: Concerning the Statues, 12:5."
+    },
+    {
+      "id": 29,
+      "text": "St. Augustine: On the Psalms, 49:12.."
+    },
+    {
+      "id": 30,
+      "text": "المؤسسات، 7:7."
+    },
+    {
+      "id": 31,
+      "text": "James M. Freeman: Manners and Customs of the Bible, N.J., 1972, p. 234-235."
+    },
+    {
+      "id": 32,
+      "text": "Sermon on the Mount, book 2:1."
+    },
+    {
+      "id": 33,
+      "text": "St. Casssian: Confer. 5."
+    },
+    {
+      "id": 34,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 23."
+    },
+    {
+      "id": 35,
+      "text": "المؤسسات 3:12."
+    },
+    {
+      "id": 36,
+      "text": "St. Ambrose: Concerning Repentance, 1:14:73."
+    },
+    {
+      "id": 37,
+      "text": "Epistle 2 of the Blessed Clement concerning Virginity, 9."
+    },
+    {
+      "id": 38,
+      "text": "St. Ambrose: Concerning Repentance, 1:14:75."
+    },
+    {
+      "id": 39,
+      "text": "St. Augustine: On the Psalms, 58:12."
+    },
+    {
+      "id": 40,
+      "text": "St. Ambrose: Concerning Repentance, 1:14:70."
+    },
+    {
+      "id": 41,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 42,
+      "text": "St. John Chrysostom: Concerning the Statues, 10:11."
+    },
+    {
+      "id": 43,
+      "text": "cf. Ladder 1:4."
+    },
+    {
+      "id": 44,
+      "text": "Bishop Ignatius Brianchaninov: The Arena, Madras 1970, p. 7,8."
+    },
+    {
+      "id": 45,
+      "text": "Robert L. Alden: Proverbs, p. 62."
+    },
+    {
+      "id": 46,
+      "text": "J.P. Lange: A Commentary on the Holy Scriptures, Proverbs ,p. 90."
+    },
+    {
+      "id": 47,
+      "text": "International Standard Bible Encyclopedia, vol.1, p.209."
+    },
+    {
+      "id": 48,
+      "text": "Nelson: K.J.V. Parallel Bible Commentary, 1983, p.1210."
+    },
+    {
+      "id": 49,
+      "text": "The Collegeville Bible Commentary, 1989, P.654."
+    },
+    {
+      "id": 50,
+      "text": "المؤسسات 6:5."
+    },
+    {
+      "id": 51,
+      "text": "Ascetical Homilies, Hom., 66."
+    },
+    {
+      "id": 52,
+      "text": "Ascetical Homilies, Hom., 4."
+    },
+    {
+      "id": 53,
+      "text": "Ascetical Homilies, Hom., 48."
+    },
+    {
+      "id": 54,
+      "text": "cf. The Arena, p. 110."
+    },
+    {
+      "id": 55,
+      "text": "Ascetical Homilies, Hom 5."
+    },
+    {
+      "id": 56,
+      "text": "Ascetical Homilies, Hom., 4."
+    },
+    {
+      "id": 57,
+      "text": ".From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 58,
+      "text": "On Ps. 128:8."
+    },
+    {
+      "id": 59,
+      "text": "Sermons on New Testament Lessons, 30:4."
+    },
+    {
+      "id": 60,
+      "text": "William Arnot: Studies in Proverbs, Michigan 1978, p. 145-6."
+    },
+    {
+      "id": 61,
+      "text": "Four Discourses Against the Arious, 3:30:63."
+    },
+    {
+      "id": 62,
+      "text": "Instructor 3:6."
+    },
+    {
+      "id": 63,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:19:47."
+    },
+    {
+      "id": 64,
+      "text": "St. Ambrose: Of the Holy Spirit, 2:6:51."
+    },
+    {
+      "id": 65,
+      "text": "St. Augustine: On Christian Doctrine, 1:34 ."
+    },
+    {
+      "id": 66,
+      "text": "St. Basil the Great: Letter 8:8."
+    },
+    {
+      "id": 67,
+      "text": "للمؤلف: الحب الإلهي، ص25."
+    },
+    {
+      "id": 68,
+      "text": "St. Augustine: On the Trinity, 1:12:24"
+    },
+    {
+      "id": 69,
+      "text": "St. Hilary of Poitiers: On the Holy Trinity, 12:45."
+    },
+    {
+      "id": 70,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:22:75."
+    },
+    {
+      "id": 71,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:16:19."
+    },
+    {
+      "id": 72,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:19:44."
+    },
+    {
+      "id": 73,
+      "text": "St. Gregory of Nyssa: Against Eunomius, 2:10."
+    },
+    {
+      "id": 74,
+      "text": "St. Athanasius of Alexandria: Ad Episcopos Aegypti, 17."
+    },
+    {
+      "id": 75,
+      "text": "St. Athanasius of Alexandria: De Decretis, 14."
+    },
+    {
+      "id": 76,
+      "text": "St. Gregory of Nyssa: On the Faith To Simplicius."
+    },
+    {
+      "id": 77,
+      "text": "St. Gregory Nazianzen: The Fourth Theological Oration, 3."
+    },
+    {
+      "id": 78,
+      "text": "Four Discourses Against the Arians, 2:16:19."
+    },
+    {
+      "id": 79,
+      "text": "Four Discourses Against the Arians, 2:16:19."
+    },
+    {
+      "id": 80,
+      "text": "Four Discourses Against the Arians, 2:16:20."
+    },
+    {
+      "id": 81,
+      "text": "Four Discourses Against the Arians, 2:16:20,21."
+    },
+    {
+      "id": 82,
+      "text": "Four Discourses Against the Arians ‎ 2:16:21,22."
+    },
+    {
+      "id": 83,
+      "text": "St. John Chrysostom: Homilies on Hebrews, 3."
+    },
+    {
+      "id": 84,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:22:82."
+    },
+    {
+      "id": 85,
+      "text": "Four Discourses Against the Arians, 2:16:22."
+    },
+    {
+      "id": 86,
+      "text": "Four Discourses Against the Arians, 2:16:23,24."
+    },
+    {
+      "id": 87,
+      "text": "Four Discourses Against the Arians, 2:17:24."
+    },
+    {
+      "id": 88,
+      "text": "Four Discourses Against the Arians, 2:17:25,26."
+    },
+    {
+      "id": 89,
+      "text": "Four Discourses Against the Arians, 2:17:26."
+    },
+    {
+      "id": 90,
+      "text": "Four Discourses Against the Arians, 2:20:52."
+    },
+    {
+      "id": 91,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:16:30."
+    },
+    {
+      "id": 92,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:18:31."
+    },
+    {
+      "id": 93,
+      "text": "Four Discourses Against the Arians, 2:17:30."
+    },
+    {
+      "id": 94,
+      "text": "St. Athanasius of Alexandria: Statement of Faith."
+    },
+    {
+      "id": 95,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:21:70."
+    },
+    {
+      "id": 96,
+      "text": "Four Discourses Against the Arians, 2:18:32."
+    },
+    {
+      "id": 97,
+      "text": "Four Discourses Against the Arians, 2:18:35"
+    },
+    {
+      "id": 98,
+      "text": "Four Discourses Against the Arians, 2:18:35"
+    },
+    {
+      "id": 99,
+      "text": "Four Discourses Against the Arians, 2:18:40."
+    },
+    {
+      "id": 100,
+      "text": "St. Gregory of Nyssa: Against Eunomius, 3:2."
+    },
+    {
+      "id": 101,
+      "text": "Four Discourses Against the Arians, 2:19:46."
+    },
+    {
+      "id": 102,
+      "text": "باليونانية (إكتيسي) ."
+    },
+    {
+      "id": 103,
+      "text": "Four Discourses Against the Arians, 2:19:46."
+    },
+    {
+      "id": 104,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:21:61."
+    },
+    {
+      "id": 105,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 2:20:54."
+    },
+    {
+      "id": 106,
+      "text": "Four Discourses Against the Arians, 2:19:47."
+    },
+    {
+      "id": 107,
+      "text": "Four Discourses Against the Arians, 2:20:56."
+    },
+    {
+      "id": 108,
+      "text": "Four Discourses Against the Arians, 2:20:56."
+    },
+    {
+      "id": 109,
+      "text": "Four Discourses Against the Arians, 2:20:60."
+    },
+    {
+      "id": 110,
+      "text": "Four Discourses Against the Arians, 2:20:64."
+    },
+    {
+      "id": 111,
+      "text": "Four Discourses Against the Arians, 2:20:65."
+    },
+    {
+      "id": 112,
+      "text": "Four Discourses Against the Arians, 2:20:65."
+    },
+    {
+      "id": 113,
+      "text": "Four Discourses Against the Arians, 2:20:66."
+    },
+    {
+      "id": 114,
+      "text": "Four Discourses Against the Arians, 2:20:67."
+    },
+    {
+      "id": 115,
+      "text": "Four Discourses Against the Arians, 2:20:69."
+    },
+    {
+      "id": 116,
+      "text": "Four Discourses Against the Arians, 2:20:70."
+    },
+    {
+      "id": 117,
+      "text": "Four Discourses Against the Arians, 2:20:70."
+    },
+    {
+      "id": 118,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 4:34."
+    },
+    {
+      "id": 119,
+      "text": "St. Gregory of Nyssa: Against Eunomius, 3:2."
+    },
+    {
+      "id": 120,
+      "text": "St. Augustine: City of God, 17:20."
+    },
+    {
+      "id": 121,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 122,
+      "text": "St. Ambrose: Of the Holy Spirit, 2:6:59, 60."
+    },
+    {
+      "id": 123,
+      "text": "Homilies on Song of Songs, hom. 10."
+    },
+    {
+      "id": 124,
+      "text": "De Spirit, Sanc. 9."
+    },
+    {
+      "id": 125,
+      "text": "Hom. 17:1"
+    },
+    {
+      "id": 126,
+      "text": "للمؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1980 ، ص130."
+    },
+    {
+      "id": 127,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 128,
+      "text": "St. Gregory Nazianzen: On Pentecost, 3."
+    },
+    {
+      "id": 129,
+      "text": "N P N Frs., Series, vol. 12, hom 24 on 1Cor."
+    },
+    {
+      "id": 130,
+      "text": "On Prayer, 28."
+    },
+    {
+      "id": 131,
+      "text": "Tertullian: Scorplace, 7."
+    },
+    {
+      "id": 132,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 133,
+      "text": "St. Cyprian: Epistle Lxii To Caecilius, On The Sacrament Of The Cup Of The Lord, 5."
+    },
+    {
+      "id": 134,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 135,
+      "text": "Hom on Song 9; PG 44:956."
+    },
+    {
+      "id": 136,
+      "text": "Origen: De Principiis 2:11:3."
+    },
+    {
+      "id": 137,
+      "text": "Stromata 1:17."
+    },
+    {
+      "id": 138,
+      "text": "From the Commentary of St. Hippolytus on Proverbs."
+    },
+    {
+      "id": 139,
+      "text": "Com .on Caut .3."
+    },
+    {
+      "id": 140,
+      "text": "De Myster .5:3."
+    },
+    {
+      "id": 141,
+      "text": "St. Augustine: On the Trinity, 14:1:2."
+    },
+    {
+      "id": 142,
+      "text": "St. John Chrysostom: Homilies on St. John, 14."
+    },
+    {
+      "id": 143,
+      "text": "St. Dionysius the Great: Extant Fragments, ANF , p. 114."
+    },
+    {
+      "id": 144,
+      "text": "Cf .The K.J. V Parallel Bible Commentary, Thomas Nelson Publishers. Nashville, 1994."
+    },
+    {
+      "id": 145,
+      "text": "Letter 52:7."
+    },
+    {
+      "id": 146,
+      "text": "Against Haer 4:41:2."
+    },
+    {
+      "id": 147,
+      "text": "Stromata 1:1:2."
+    },
+    {
+      "id": 148,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 10:2. PG 64:681."
+    },
+    {
+      "id": 149,
+      "text": "Sermons on Luke, 41 . ترجمة دكتور نصحي عبد الشهيد ."
+    },
+    {
+      "id": 150,
+      "text": "On Ps. 147."
+    },
+    {
+      "id": 151,
+      "text": "On Ps. 145."
+    },
+    {
+      "id": 152,
+      "text": "الأعمال والصدقة، 11 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 153,
+      "text": "Homilies on John, 36:3."
+    },
+    {
+      "id": 154,
+      "text": "Homilies on John, 36:3."
+    },
+    {
+      "id": 155,
+      "text": "The So-Called Second Epistle of Clement, 14:1."
+    },
+    {
+      "id": 1,
+      "text": "Clem 34: 1."
+    },
+    {
+      "id": 2,
+      "text": "Didache 12:1-5."
+    },
+    {
+      "id": 3,
+      "text": "Against the Anomoens, homily 6:3."
+    },
+    {
+      "id": 4,
+      "text": "Homilies on Ephesians. 15."
+    },
+    {
+      "id": 5,
+      "text": "Cf. H.A. Ironside: Proverbs, on Prov. 10:10; J. Vernon McGee: Proverbs on 10:10."
+    },
+    {
+      "id": 6,
+      "text": "Song of Songs, Sermon 9."
+    },
+    {
+      "id": 7,
+      "text": "Letter 59."
+    },
+    {
+      "id": 8,
+      "text": "On Christian Doctrine 1:3-4."
+    },
+    {
+      "id": 9,
+      "text": "On Free Choice of the will, 1:6:15."
+    },
+    {
+      "id": 10,
+      "text": "The way of Life of the Catholic Church, 1:23:42."
+    },
+    {
+      "id": 11,
+      "text": "Tertullian: Apology 42: 1-3."
+    },
+    {
+      "id": 12,
+      "text": "Origen: In Gen. Hom. 4: 1."
+    },
+    {
+      "id": 13,
+      "text": "يسوع والمفلوجان للقدِّيس ذهبي الفم، ترجمة القمص تادرس ملطي، 1966م، ص 35."
+    },
+    {
+      "id": 14,
+      "text": "On Ps. 141."
+    },
+    {
+      "id": 15,
+      "text": "Concerning Virgins, 3:3:11."
+    },
+    {
+      "id": 16,
+      "text": "Duties of the Clergy, 1:3-4 . ترجمة دكتورة إيفا إدوارد بدمياط"
+    },
+    {
+      "id": 17,
+      "text": "Cain and Abel, 1:9:36."
+    },
+    {
+      "id": 18,
+      "text": "Origen: Commentary on the Gospel of John, 5:4-5."
+    },
+    {
+      "id": 19,
+      "text": "Commentary on Tatian's Diatessaron, 22;4."
+    },
+    {
+      "id": 20,
+      "text": "Pastoral Care, Book 3:14."
+    },
+    {
+      "id": 21,
+      "text": "Cf. Comm. On SONG 2:8."
+    },
+    {
+      "id": 22,
+      "text": "من تعاليم الأب إشعياء للمبتدئين ."
+    },
+    {
+      "id": 23,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 10:25."
+    },
+    {
+      "id": 24,
+      "text": "G. S. Bowes, quoted in \"Our Daily Bread”, cf. William MacDonald: Bible Commentary, 1995, p. 816."
+    },
+    {
+      "id": 25,
+      "text": "Duties of Clergy, 3:9:65."
+    },
+    {
+      "id": 26,
+      "text": "Letter 15."
+    },
+    {
+      "id": 27,
+      "text": "On Free Will 42: 72."
+    },
+    {
+      "id": 28,
+      "text": "حسب طبعة رومية، أما طبعة بيروت \"الكل باطل وقبض الريح\"."
+    },
+    {
+      "id": 29,
+      "text": "Sermon on the Mount, 1:3."
+    },
+    {
+      "id": 30,
+      "text": "Demonstrations, 9: 1."
+    },
+    {
+      "id": 31,
+      "text": "In Matt. hom 3:8."
+    },
+    {
+      "id": 32,
+      "text": "On Ps. 125."
+    },
+    {
+      "id": 33,
+      "text": "St. Shenoute; On language."
+    },
+    {
+      "id": 34,
+      "text": "Homily on the Beginning of Proverbs. 14 PG 31:416."
+    },
+    {
+      "id": 35,
+      "text": "On Ps. 34."
+    },
+    {
+      "id": 36,
+      "text": "رسالة القديس أثناسيوس إلى القديس آمون وأولاده الرهبان، 1."
+    },
+    {
+      "id": 37,
+      "text": "الرسالة الخامسة، 4. (إجابة للقديس بفنوتيوس)."
+    },
+    {
+      "id": 38,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 9:7."
+    },
+    {
+      "id": 39,
+      "text": "رسالة القديس إلى الرهبان، 9."
+    },
+    {
+      "id": 40,
+      "text": "من تعاليم الأب إشعياء للمبتدئين ."
+    },
+    {
+      "id": 41,
+      "text": "cf. Ironside: Proverbs on 11:14."
+    },
+    {
+      "id": 42,
+      "text": "The Ladder, 1:18."
+    },
+    {
+      "id": 43,
+      "text": "cf. Ironside: Proverbs on 11: 15."
+    },
+    {
+      "id": 44,
+      "text": "In 1 Cor., hom., 26:5."
+    },
+    {
+      "id": 45,
+      "text": "Hom. 85. PG. 59: 506."
+    },
+    {
+      "id": 46,
+      "text": "Proverb, Nashville, 1975 ,p .107."
+    },
+    {
+      "id": 47,
+      "text": "On Virginity, 18"
+    },
+    {
+      "id": 48,
+      "text": "مناظرات يوحنا كاسيان، 1 4: 16 ."
+    },
+    {
+      "id": 49,
+      "text": "Paedagogus, 3:11:56."
+    },
+    {
+      "id": 50,
+      "text": "عظة 9: 278."
+    },
+    {
+      "id": 51,
+      "text": "Pastoral Care, Book 3:25."
+    },
+    {
+      "id": 52,
+      "text": "On Language."
+    },
+    {
+      "id": 53,
+      "text": "Pastoral Care 3:25:26."
+    },
+    {
+      "id": 54,
+      "text": "Pastoral Care, Book 3:25."
+    },
+    {
+      "id": 55,
+      "text": "Homilies on Galatians, 6:9."
+    },
+    {
+      "id": 56,
+      "text": "cf. Marius Victorinus: Ep. to the Galatians, 2:6:9."
+    },
+    {
+      "id": 57,
+      "text": "cf. Marius Victorinus: Ep. to the Galatians, 2:6:10."
+    },
+    {
+      "id": 58,
+      "text": "عن لعاز والغني، عظة 2. (ترجمة الدكتورة مهجة)"
+    },
+    {
+      "id": 59,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 11:31."
+    },
+    {
+      "id": 60,
+      "text": "Paedagogus, 1:9 . ترجمة دكتورة إيفا إدوارد بدمياط"
+    },
+    {
+      "id": 61,
+      "text": "In 1 Cor. Hom 1:1."
+    },
+    {
+      "id": 62,
+      "text": "De Priincipiis 1: 2:13."
+    },
+    {
+      "id": 63,
+      "text": "Commentary on John, Book 1:29."
+    },
+    {
+      "id": 64,
+      "text": "Hermas: The Shepherd, Command 8:12."
+    },
+    {
+      "id": 65,
+      "text": "Duties of the Clergy 1:12:4."
+    },
+    {
+      "id": 66,
+      "text": "St. Ambrose: The Prayer of Job and David, 5: 17, 18."
+    },
+    {
+      "id": 67,
+      "text": "Fragment 153."
+    },
+    {
+      "id": 68,
+      "text": "Fragment 89."
+    },
+    {
+      "id": 69,
+      "text": "Homilies on Matthew, Homily 24:2."
+    },
+    {
+      "id": 70,
+      "text": "Paedagogus 2:8:71."
+    },
+    {
+      "id": 71,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 12:4."
+    },
+    {
+      "id": 72,
+      "text": "Homily on Ephesians, 20:5:22-24."
+    },
+    {
+      "id": 73,
+      "text": "مناظرات يوحنا كاسيان، 2: 19 ."
+    },
+    {
+      "id": 74,
+      "text": "Homily 11 (on Psalms)."
+    },
+    {
+      "id": 75,
+      "text": "Forty Gospel Homilies, 32."
+    },
+    {
+      "id": 76,
+      "text": "Homilies on Acts, homily 54."
+    },
+    {
+      "id": 77,
+      "text": "مناظرات يوحنا كاسيان، 24: 1 3 ."
+    },
+    {
+      "id": 78,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 12:10."
+    },
+    {
+      "id": 79,
+      "text": "مناظرات يوحنا كاسيان، 1 1: 10 ."
+    },
+    {
+      "id": 80,
+      "text": "Homilies on Matthew homily 52:6."
+    },
+    {
+      "id": 81,
+      "text": "Sermon 225:4."
+    },
+    {
+      "id": 82,
+      "text": "Stromata 2:92:3-4."
+    },
+    {
+      "id": 83,
+      "text": "مناظرات يوحنا كاسيان، 1 6: 27 ."
+    },
+    {
+      "id": 84,
+      "text": "للمؤلف: الحب الرعوي، إدانة أبي الكاهن."
+    },
+    {
+      "id": 85,
+      "text": "In Matt. hom 23:1."
+    },
+    {
+      "id": 86,
+      "text": "In Luc. Ser 193."
+    },
+    {
+      "id": 87,
+      "text": "The Pastor, Book 1, vision 4."
+    },
+    {
+      "id": 88,
+      "text": "Homilies on St. John,"
+    },
+    {
+      "id": 89,
+      "text": "Sermons, 223:4."
+    },
+    {
+      "id": 90,
+      "text": "Sermons, 36: 2."
+    },
+    {
+      "id": 91,
+      "text": "Sermon 219:3."
+    },
+    {
+      "id": 92,
+      "text": "Sermon 219:1-2."
+    },
+    {
+      "id": 93,
+      "text": "ا لدساتير 8: 15."
+    },
+    {
+      "id": 94,
+      "text": "مناظرات يوحنا كاسيان، 24: 2 ."
+    },
+    {
+      "id": 95,
+      "text": "الدساتير 10: 21."
+    },
+    {
+      "id": 96,
+      "text": "Sermon 36:1-2, 5 (Rotelle: Works of St. Augustine, N.Y, New City Press, 1955)."
+    },
+    {
+      "id": 97,
+      "text": "Origen: On Prayer 2:29:6"
+    },
+    {
+      "id": 98,
+      "text": "Letter, 15."
+    },
+    {
+      "id": 99,
+      "text": "Letter, 63:92."
+    },
+    {
+      "id": 100,
+      "text": "Contra Celsus 7:21."
+    },
+    {
+      "id": 101,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 13:8."
+    },
+    {
+      "id": 102,
+      "text": "Homilies on Acts, 25."
+    },
+    {
+      "id": 103,
+      "text": "Letter 71:4."
+    },
+    {
+      "id": 104,
+      "text": "مناظرات يوحنا كاسيان، 3: 9 ."
+    },
+    {
+      "id": 105,
+      "text": "Homily on the words, \"Give head to Thyself.”"
+    },
+    {
+      "id": 106,
+      "text": "On Christian Doctrine 1:3-4."
+    },
+    {
+      "id": 107,
+      "text": "On Free Choice of the will, 1:6:15."
+    },
+    {
+      "id": 108,
+      "text": "The way of Life of the Catholic Church, 1:23:42."
+    },
+    {
+      "id": 109,
+      "text": "Paschal Letters, 6:11."
+    },
+    {
+      "id": 110,
+      "text": "St. John Chrysostom: Commentary on the Proverbs of Solomon, Fragment 13:22."
+    },
+    {
+      "id": 111,
+      "text": "Timothy Ware: The Art of Prayer, 1966, p 80-83."
+    },
+    {
+      "id": 112,
+      "text": "Constitutions of the Holy Apostles 4: 2: 12."
+    },
+    {
+      "id": 113,
+      "text": "Letter 45."
+    },
+    {
+      "id": 114,
+      "text": "Sermon 105: 3."
+    },
+    {
+      "id": 115,
+      "text": "Paedagogus 2:1:14."
+    },
+    {
+      "id": 116,
+      "text": "Against Celsus 7:24."
+    },
+    {
+      "id": 117,
+      "text": "Cf. Origen: Homilies on Leviticus, homily 16:5:4."
+    },
+    {
+      "id": 118,
+      "text": "On Ps. 45."
+    },
+    {
+      "id": 119,
+      "text": "Fragment 29, letter to Antino, 2:3:4."
+    },
+    {
+      "id": 120,
+      "text": "Commentary on John, Book 13:179."
+    },
+    {
+      "id": 121,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 14:1."
+    },
+    {
+      "id": 122,
+      "text": "In 1 Cor., hom., 26:5."
+    },
+    {
+      "id": 123,
+      "text": "Hom. 85. PG. 59: 506."
+    },
+    {
+      "id": 124,
+      "text": "Hom. In Ps 1, 6; PG 29:215 d."
+    },
+    {
+      "id": 125,
+      "text": "Comm. on Luke , ch. 24."
+    },
+    {
+      "id": 126,
+      "text": "Sermon 141:1,4."
+    },
+    {
+      "id": 127,
+      "text": "On Ps. 70: 2:3."
+    },
+    {
+      "id": 128,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 14:2."
+    },
+    {
+      "id": 129,
+      "text": "In Joan. hom 73:2."
+    },
+    {
+      "id": 130,
+      "text": "Comm. on John, 1:10."
+    },
+    {
+      "id": 131,
+      "text": "Duties of the clergy, 3:4:24."
+    },
+    {
+      "id": 132,
+      "text": "Comm. on 1 Cor. 1:2:25-40."
+    },
+    {
+      "id": 133,
+      "text": "Tractate on Matt 24:24 صديق روفينيوس وجيروم ."
+    },
+    {
+      "id": 134,
+      "text": "Interpretation of the letter to the Romans. PG 82:164."
+    },
+    {
+      "id": 135,
+      "text": "In Ephes., hom. 9."
+    },
+    {
+      "id": 136,
+      "text": "Stromata, 2:101:2-3."
+    },
+    {
+      "id": 137,
+      "text": "Homilies on Psalms, homily 22."
+    },
+    {
+      "id": 138,
+      "text": "Paraphrase of Ecclesiastes, 3:16."
+    },
+    {
+      "id": 139,
+      "text": "Against the Pelagians, 1:39."
+    },
+    {
+      "id": 140,
+      "text": "مناظرات يوحنا كاسيان، 20: 9 ."
+    },
+    {
+      "id": 141,
+      "text": "Flight From the World, 13."
+    },
+    {
+      "id": 142,
+      "text": "Scholia on Ecclesiastes, 55:7:2."
+    },
+    {
+      "id": 143,
+      "text": "Commentary on Ecclesiastes, 197-8."
+    },
+    {
+      "id": 144,
+      "text": "Commentary on Ecclesiastes, 202:2."
+    },
+    {
+      "id": 145,
+      "text": "Commentary on Ecclesiastes, 203:3."
+    },
+    {
+      "id": 146,
+      "text": "Stromata 2:8:40:1-2."
+    },
+    {
+      "id": 147,
+      "text": "الرسالة 4: 1-2 عن كتاب فردوس الآباء (عن مجلة: Recherches Augustiniennes, 1999 - 31, p. 104 - 135 مأخوذةً عن الأصل اليوناني)."
+    },
+    {
+      "id": 148,
+      "text": "Recognitions, book 4, chapter 8."
+    },
+    {
+      "id": 149,
+      "text": "Recognitions, book 5, chapter 4."
+    },
+    {
+      "id": 150,
+      "text": "Recognitions, book 5, chapter 5."
+    },
+    {
+      "id": 151,
+      "text": "للمؤلف: الحب الرعوي، الإسكندرية، 1965."
+    },
+    {
+      "id": 152,
+      "text": "عن مقالتين عن أتروبيوس، طبعتا تحت اسم \"الكنيسة تحبك\"، سنة 1968، ص 35، 36."
+    },
+    {
+      "id": 153,
+      "text": "In Matt. hom 80:4."
+    },
+    {
+      "id": 154,
+      "text": "In Luc. Ser 118."
+    },
+    {
+      "id": 155,
+      "text": "In Matt. hom 35:6; 49:4; 52:5."
+    },
+    {
+      "id": 156,
+      "text": "In Heb. hom 32:7."
+    },
+    {
+      "id": 157,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 1:7."
+    },
+    {
+      "id": 158,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 1:7."
+    },
+    {
+      "id": 159,
+      "text": "مناظرات يوحنا كاسيان، 1 4: 17 ."
+    },
+    {
+      "id": 160,
+      "text": "Regulae fusius tractatae Question 37."
+    },
+    {
+      "id": 161,
+      "text": "Hemaexeron, 7."
+    },
+    {
+      "id": 162,
+      "text": "Concerning the Statues, homily 18."
+    },
+    {
+      "id": 163,
+      "text": "Sermon 348:1."
+    },
+    {
+      "id": 164,
+      "text": "The Shepherd, Commandment 7:1."
+    },
+    {
+      "id": 165,
+      "text": "Hermas: The Shepherd, Commandment 7:1-2."
+    },
+    {
+      "id": 166,
+      "text": "Six days of Creation 1:14:12."
+    },
+    {
+      "id": 167,
+      "text": "On the Epistle to the Hebrews, homily 19:5."
+    },
+    {
+      "id": 168,
+      "text": "مناظرات يوحنا كاسيان، 1 8: 13 ."
+    },
+    {
+      "id": 169,
+      "text": "هنا يظهر تأثير الحالة الذهنية على التصرفات البدنية."
+    },
+    {
+      "id": 170,
+      "text": "Pastoral Care, Book 3:10."
+    },
+    {
+      "id": 171,
+      "text": "Letter 63:46."
+    },
+    {
+      "id": 172,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 14:13."
+    },
+    {
+      "id": 173,
+      "text": "راجع بستان الرهبان - مطرانية بني سويف 1968م، ص 400."
+    },
+    {
+      "id": 174,
+      "text": "Homily on our Lord, 22:3."
+    },
+    {
+      "id": 175,
+      "text": "راجع بستان الرهبان - مطرانية بني سويف 1968م، ص 401."
+    },
+    {
+      "id": 176,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 15:1."
+    },
+    {
+      "id": 177,
+      "text": "The Lord's Prayer, 4."
+    },
+    {
+      "id": 178,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 15:4."
+    },
+    {
+      "id": 179,
+      "text": "Homily on the Beginning of Proverbs 6."
+    },
+    {
+      "id": 180,
+      "text": "Homily on the beginning of Proverbs, 11."
+    },
+    {
+      "id": 181,
+      "text": "Letter 102:3."
+    },
+    {
+      "id": 182,
+      "text": "On Prayer 29:28."
+    },
+    {
+      "id": 183,
+      "text": "Demonstrations, 4:2."
+    },
+    {
+      "id": 184,
+      "text": "Demonstrations, 4:16."
+    },
+    {
+      "id": 185,
+      "text": "Paedegogus 3:12:9."
+    },
+    {
+      "id": 186,
+      "text": "Letter, 51:15."
+    },
+    {
+      "id": 187,
+      "text": "Commentary on Hosea, 4:65."
+    },
+    {
+      "id": 188,
+      "text": "In Eph. Hom. 3."
+    },
+    {
+      "id": 189,
+      "text": "In Eph. Hom. 5."
+    },
+    {
+      "id": 190,
+      "text": "To Those who had not Attended the Assembly."
+    },
+    {
+      "id": 191,
+      "text": "ترجمة المؤلف تحت عنوان: \"رسالتك في الحياة\" 1967م."
+    },
+    {
+      "id": 192,
+      "text": "Two homilies on Eutropius, 2:6."
+    },
+    {
+      "id": 193,
+      "text": "Homilies on Philippians, 15:4:4-6."
+    },
+    {
+      "id": 194,
+      "text": "The Long Rules, Question 17."
+    },
+    {
+      "id": 195,
+      "text": "Marius Victorinius: Epistle to the Philippians, 4:4-5."
+    },
+    {
+      "id": 196,
+      "text": "Paedegogus 2:1:16."
+    },
+    {
+      "id": 197,
+      "text": "On prayer, 2:27:6."
+    },
+    {
+      "id": 198,
+      "text": "Six Days of Creation, 5:8:23."
+    },
+    {
+      "id": 199,
+      "text": "Homilies on Genesis 45:1."
+    },
+    {
+      "id": 200,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 15:17."
+    },
+    {
+      "id": 201,
+      "text": "Conferences, 24:24:6."
+    },
+    {
+      "id": 202,
+      "text": "On Virginity, 23."
+    },
+    {
+      "id": 203,
+      "text": "الرسالة الخامسة ."
+    },
+    {
+      "id": 204,
+      "text": "الرسالة الخامسة والعشرون ."
+    },
+    {
+      "id": 205,
+      "text": "Sermon 50:4."
+    },
+    {
+      "id": 206,
+      "text": "Exhortation to Martyrdom, 7."
+    },
+    {
+      "id": 207,
+      "text": "On Prayer, 7."
+    },
+    {
+      "id": 208,
+      "text": "Homily 14 on Ps.82 ."
+    },
+    {
+      "id": 209,
+      "text": "Homily, on Ps.1."
+    },
+    {
+      "id": 210,
+      "text": "Catena."
+    },
+    {
+      "id": 211,
+      "text": "سلم السماء ودرجات الفضائل."
+    },
+    {
+      "id": 212,
+      "text": "Demonstrations, 9: 1."
+    },
+    {
+      "id": 213,
+      "text": "Catena Aurea."
+    },
+    {
+      "id": 214,
+      "text": "مقال 7، رسالة 8، القمص بفنوتيوس السرياني، ص42، 53، 55."
+    },
+    {
+      "id": 215,
+      "text": "رسالة 40."
+    },
+    {
+      "id": 216,
+      "text": "Against Two Letters of the Pelagians, 2:19."
+    },
+    {
+      "id": 217,
+      "text": "Comm. on Sermon on the Mount, 55: 2."
+    },
+    {
+      "id": 218,
+      "text": "De verb Habents."
+    },
+    {
+      "id": 219,
+      "text": "De mut. Nom PG 51: 143."
+    },
+    {
+      "id": 220,
+      "text": "In Joan. PG 49: 117."
+    },
+    {
+      "id": 221,
+      "text": "In Gen PG 53: 158 ، 159."
+    },
+    {
+      "id": 222,
+      "text": "Ad. Pop PG 49:66,67."
+    },
+    {
+      "id": 223,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 256. تعريب الدكتور نجيب حجّار."
+    },
+    {
+      "id": 224,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989م، ص 315. عظة 3: 3."
+    },
+    {
+      "id": 225,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 16:2."
+    },
+    {
+      "id": 226,
+      "text": "Against the pelagians 3:8."
+    },
+    {
+      "id": 227,
+      "text": "مناظرات يوحنا كاسيان، 1 1: 6 ."
+    },
+    {
+      "id": 228,
+      "text": "Homilies on John, 9."
+    },
+    {
+      "id": 229,
+      "text": "ا لدساتير 12: 6."
+    },
+    {
+      "id": 230,
+      "text": "ا لدساتير 12: 21."
+    },
+    {
+      "id": 231,
+      "text": "يستخدم الآب غريغوريوس هذه الصورة الاستعارية للجب والينابيع لتشير للعلاقة ما بين الزوج وزوجته، وهو هنا يطبق هذه الفقرة على تعليم المرشدين."
+    },
+    {
+      "id": 232,
+      "text": "Pastoral Care, Book 3:24."
+    },
+    {
+      "id": 233,
+      "text": "الأعمال والصدقة، 2 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 234,
+      "text": "مناظرات يوحنا كاسيان، 20: 8 ."
+    },
+    {
+      "id": 235,
+      "text": "Homilies on Genesis, 57:19."
+    },
+    {
+      "id": 236,
+      "text": "لعازر والغني، عظة 1."
+    },
+    {
+      "id": 237,
+      "text": "لعازر والغني، عظة 4."
+    },
+    {
+      "id": 238,
+      "text": "Against the Pelagius 3:9."
+    },
+    {
+      "id": 239,
+      "text": "Proceeding of Pelagius, 14:36."
+    },
+    {
+      "id": 240,
+      "text": "Letter from Alypius and Augustine to Paulinius, 186."
+    },
+    {
+      "id": 241,
+      "text": "Comm. On 1 Cor. 4:45:2-5."
+    },
+    {
+      "id": 242,
+      "text": "Letter to Ephesians, ch. 12."
+    },
+    {
+      "id": 243,
+      "text": "Tertullian: Apology 30: 1: 4."
+    },
+    {
+      "id": 244,
+      "text": "مقال 12: 1."
+    },
+    {
+      "id": 245,
+      "text": "مقال 10: 1."
+    },
+    {
+      "id": 246,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 16:16."
+    },
+    {
+      "id": 247,
+      "text": "مناظرات يوحنا كاسيان، 6: 17 ."
+    },
+    {
+      "id": 248,
+      "text": "Homilies on Jeremiah., Homily 12:8."
+    },
+    {
+      "id": 249,
+      "text": "Homily 27."
+    },
+    {
+      "id": 250,
+      "text": "Cassian: Conf. 2: 9."
+    },
+    {
+      "id": 251,
+      "text": "On Ps 31: 25-26, passim."
+    },
+    {
+      "id": 252,
+      "text": "On Luke, Sermon 1 / On Renunciation of the World. / Letter, 15 (توضيح من موقع الأنبا تكلا هيمانوت : كان هناك ثلاثة حواشي بنفس الرقم في نص الكتاب)."
+    },
+    {
+      "id": 253,
+      "text": ". ترجمة د. نصحي عبد الشهيد"
+    },
+    {
+      "id": 254,
+      "text": "On Renunciation of the World."
+    },
+    {
+      "id": 255,
+      "text": "Letter, 15."
+    },
+    {
+      "id": 256,
+      "text": "Paulinus of Milan: life of St. Ambrose."
+    },
+    {
+      "id": 257,
+      "text": "مناظرات يوحنا كاسيان، 2: 20 ."
+    },
+    {
+      "id": 258,
+      "text": "Duties of the Clergy, 1:21:96."
+    },
+    {
+      "id": 259,
+      "text": "Forty Gospel Homilies, 35."
+    },
+    {
+      "id": 260,
+      "text": "Pastoral Care, Book 3:9."
+    },
+    {
+      "id": 261,
+      "text": "Homilies. 16:10."
+    },
+    {
+      "id": 262,
+      "text": "مناظرات يوحنا كاسيان، 7: 25 ."
+    },
+    {
+      "id": 263,
+      "text": "يسوع والمفلوجان: للقديس يوحنا الذهبي الفم، ترجمة القمص تادرس يعقوب ملطي، 1966م، ص 35 إلخ."
+    },
+    {
+      "id": 264,
+      "text": "Letter, 59."
+    },
+    {
+      "id": 265,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 17:5."
+    },
+    {
+      "id": 266,
+      "text": "Concerning Repentance, 2:8."
+    },
+    {
+      "id": 267,
+      "text": "Cf. St. John Chrysostom, in Eph. , Homily 20."
+    },
+    {
+      "id": 268,
+      "text": "Paedagogus 2:8:71."
+    },
+    {
+      "id": 269,
+      "text": "رسالة 1: 5."
+    },
+    {
+      "id": 270,
+      "text": "رسالة 6: 6."
+    },
+    {
+      "id": 271,
+      "text": "بستان الرهبان."
+    },
+    {
+      "id": 272,
+      "text": "Second Oration on Easter."
+    },
+    {
+      "id": 273,
+      "text": "Against the Pelagians, 2:2."
+    },
+    {
+      "id": 274,
+      "text": "On Luke, homilies 21:22."
+    },
+    {
+      "id": 275,
+      "text": "Commentary on Rom. 8:26."
+    },
+    {
+      "id": 276,
+      "text": "St. Augustine Homilies on 1 John 6: 8."
+    },
+    {
+      "id": 277,
+      "text": "Homilies on Romans, 14."
+    },
+    {
+      "id": 278,
+      "text": "Exposition on Proverbs, Fragment 17: 22."
+    },
+    {
+      "id": 279,
+      "text": "Commentary on John, Book 1:28."
+    },
+    {
+      "id": 280,
+      "text": "St. Augustine: On the Gospel of St. John, tractate 4 3: 16."
+    },
+    {
+      "id": 281,
+      "text": "Strom. 2:10."
+    },
+    {
+      "id": 282,
+      "text": "Strom. 7:10."
+    },
+    {
+      "id": 283,
+      "text": "Strom. 6:8."
+    },
+    {
+      "id": 284,
+      "text": "Stromata و 6:7."
+    },
+    {
+      "id": 285,
+      "text": "Fragment 2:3."
+    },
+    {
+      "id": 286,
+      "text": "Fragments on Proverbs."
+    },
+    {
+      "id": 287,
+      "text": "Morals on the Book of Job, 3: 11: 35."
+    },
+    {
+      "id": 288,
+      "text": "Adumbrations."
+    },
+    {
+      "id": 289,
+      "text": "Letters, 185:50."
+    },
+    {
+      "id": 290,
+      "text": "Sermon 101:2."
+    },
+    {
+      "id": 291,
+      "text": "Sermon 363: 2"
+    },
+    {
+      "id": 292,
+      "text": "Homilies on Genesis 22:12."
+    },
+    {
+      "id": 293,
+      "text": "Morals on the Books of Job 3:12:44."
+    },
+    {
+      "id": 294,
+      "text": "Barlaam and Joseph, 19:172."
+    },
+    {
+      "id": 295,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 18:4."
+    },
+    {
+      "id": 296,
+      "text": "Sermons, 13:2."
+    },
+    {
+      "id": 297,
+      "text": "Pastoral Care, Book 3:34."
+    },
+    {
+      "id": 298,
+      "text": "Homilies on Luke, homily 14:2."
+    },
+    {
+      "id": 299,
+      "text": "Catechesis 13:23."
+    },
+    {
+      "id": 300,
+      "text": "Homilies on Song of Songs, 2. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 301,
+      "text": "The Gospel of John , Sermon 38."
+    },
+    {
+      "id": 302,
+      "text": "Sermon 304:3."
+    },
+    {
+      "id": 303,
+      "text": "Cf. St Augustine: Faith, Hope and Love"
+    },
+    {
+      "id": 304,
+      "text": "In Ioan. tr 111: 1."
+    },
+    {
+      "id": 305,
+      "text": "Letter, 55."
+    },
+    {
+      "id": 306,
+      "text": "St. Chrysostom: In Colos., hom 4"
+    },
+    {
+      "id": 307,
+      "text": "\"ستعود بقوة أعظم\" للقديس يوحنا الذهبي الفم ."
+    },
+    {
+      "id": 308,
+      "text": "In Rom. hom 21."
+    },
+    {
+      "id": 309,
+      "text": "Hom. on Genesis , 20: 6."
+    },
+    {
+      "id": 310,
+      "text": "On Ps. 133."
+    },
+    {
+      "id": 311,
+      "text": "Sermons, 86, FC 57, P. 204."
+    },
+    {
+      "id": 312,
+      "text": "Homilies on Romans , homily 20."
+    },
+    {
+      "id": 313,
+      "text": "In Acts, Hom 40."
+    },
+    {
+      "id": 314,
+      "text": "Commentary on 1 Cor. 3:36:2-5.."
+    },
+    {
+      "id": 315,
+      "text": "الفيلوكاليا ، ص 176."
+    },
+    {
+      "id": 316,
+      "text": "Demonstrations, 1:2 (Of Faith)."
+    },
+    {
+      "id": 317,
+      "text": "Letter to Paulinus PL 22:586."
+    },
+    {
+      "id": 318,
+      "text": "Concerning Statues, 18:10."
+    },
+    {
+      "id": 319,
+      "text": "مناظرات يوحنا كاسيان، 24: 2 5 ."
+    },
+    {
+      "id": 320,
+      "text": "Pastoral Care, Book 3:9."
+    },
+    {
+      "id": 321,
+      "text": "للمؤلف: رسالة اكلمينضس أسقف روما، طبعة 1967، ص 33-34."
+    },
+    {
+      "id": 322,
+      "text": "Homilies on 1Timothy, homily 11:2."
+    },
+    {
+      "id": 323,
+      "text": "Homilies on 1Timothy, homily 12:4."
+    },
+    {
+      "id": 324,
+      "text": "Concerning Statues, 18:8-9."
+    },
+    {
+      "id": 325,
+      "text": "Paedagogus, 3: 6."
+    },
+    {
+      "id": 326,
+      "text": "De institutis caenoborum, Book 8:1."
+    },
+    {
+      "id": 327,
+      "text": "On Idolatry 15."
+    },
+    {
+      "id": 328,
+      "text": "راجع قاموس آباء الكنيسة وقديسيها ، حرف ج (القديسة جورجونيا)."
+    },
+    {
+      "id": 329,
+      "text": "Comm. On Rom. 1:11."
+    },
+    {
+      "id": 330,
+      "text": "Oration 40: 3."
+    },
+    {
+      "id": 331,
+      "text": "Homily 47 on Ps 135 ."
+    },
+    {
+      "id": 332,
+      "text": "Homilies on Matthew, 15:13."
+    },
+    {
+      "id": 333,
+      "text": "Ascetical Homilies, 48."
+    },
+    {
+      "id": 334,
+      "text": "Concerning Statues, 2: 21."
+    },
+    {
+      "id": 335,
+      "text": "رسالة 9."
+    },
+    {
+      "id": 336,
+      "text": "Cf. The Enchiridion, Chapter 29."
+    },
+    {
+      "id": 337,
+      "text": "Letters to the Fallen Theodore 1: 12."
+    },
+    {
+      "id": 338,
+      "text": "A Discourse on Ascetical Discipline, (Frs. Of the Church, volume 9, p. 35)."
+    },
+    {
+      "id": 339,
+      "text": "Homilies 16: 10."
+    },
+    {
+      "id": 340,
+      "text": "راجع مت 12: 44 إلخ."
+    },
+    {
+      "id": 341,
+      "text": "Pastoral Care, Book 3:15."
+    },
+    {
+      "id": 342,
+      "text": "الأعمال والصدقة، 19 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 343,
+      "text": "On Isa. frag. (Tillinton)"
+    },
+    {
+      "id": 344,
+      "text": "In Matt. Comm. ser. 70.; Kelly, p. 472."
+    },
+    {
+      "id": 345,
+      "text": "De Principiis 2:9:8 (Cf. Butterworth)."
+    },
+    {
+      "id": 346,
+      "text": "Chapter 28:1."
+    },
+    {
+      "id": 347,
+      "text": "الأعمال والصدقة، 3 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 348,
+      "text": "مناظرات يوحنا كاسيان، 23: 1 7 ."
+    },
+    {
+      "id": 349,
+      "text": "The Lord’s Prayer. Sermon 5."
+    },
+    {
+      "id": 350,
+      "text": "سلم السماء 19: 3."
+    },
+    {
+      "id": 351,
+      "text": "سلم السماء 19: 9."
+    },
+    {
+      "id": 352,
+      "text": "سلم السماء 12: 1."
+    },
+    {
+      "id": 353,
+      "text": "سلم السماء 12: 7."
+    },
+    {
+      "id": 354,
+      "text": "سلم السماء 10: 4."
+    },
+    {
+      "id": 355,
+      "text": "سلم السماء 10: 18."
+    },
+    {
+      "id": 356,
+      "text": "Pastoral Care, Book 3:20."
+    },
+    {
+      "id": 357,
+      "text": "On Holy Virginity, 42."
+    },
+    {
+      "id": 358,
+      "text": "Against the Pelagius 3:9."
+    },
+    {
+      "id": 359,
+      "text": "In Num. Hom 10:2."
+    },
+    {
+      "id": 360,
+      "text": "PG 82:374."
+    },
+    {
+      "id": 361,
+      "text": "إن المصائب والتجارب المطهرة تعيد قانون العدالة إلى نصابه، وتعيق الأشرار عن فعل الشر، وتحثهم على الصلاح. يطبق غريغوريوس هذه الآية في تفسيره لسفر أيوب: ( Mor. 23. 21. 40 )."
+    },
+    {
+      "id": 362,
+      "text": "Pastoral Care, Book 3:12."
+    },
+    {
+      "id": 363,
+      "text": "In Matt. hom 35:6; 49:4; 52:5."
+    },
+    {
+      "id": 364,
+      "text": "In 2 Tim. hom 6."
+    },
+    {
+      "id": 365,
+      "text": "In Heb. hom 32:7."
+    },
+    {
+      "id": 366,
+      "text": "On Matthew, 9: 9."
+    },
+    {
+      "id": 367,
+      "text": "In Hebr. hom 29: 1."
+    },
+    {
+      "id": 368,
+      "text": "Death as a Good, 10:44."
+    },
+    {
+      "id": 369,
+      "text": "Homilies on Psalms 15:9 (Ps. 32)."
+    },
+    {
+      "id": 370,
+      "text": "Homilies on Psalms 49 (Ps.137)."
+    },
+    {
+      "id": 371,
+      "text": "Homilies on Psalms 54(Ps.143)."
+    },
+    {
+      "id": 372,
+      "text": "On Matthew, Hom. 29:2."
+    },
+    {
+      "id": 373,
+      "text": "On Matthew, Hom. 29:2."
+    },
+    {
+      "id": 374,
+      "text": "Letter 51:15."
+    },
+    {
+      "id": 375,
+      "text": "Who is the Rich Man that shall be saved? 39."
+    },
+    {
+      "id": 376,
+      "text": "Letter 51:15."
+    },
+    {
+      "id": 377,
+      "text": "Commentary in Rom, 10: 2."
+    },
+    {
+      "id": 378,
+      "text": "النعمة والإرادة الحرة 24 ترجمة نيافة الأنبا إيساك.."
+    },
+    {
+      "id": 379,
+      "text": "Homilies on Matthew, 77:3."
+    },
+    {
+      "id": 380,
+      "text": "Homilies on John, 15:3."
+    },
+    {
+      "id": 381,
+      "text": "Homilies on 1Timothy, homily 12:4."
+    },
+    {
+      "id": 382,
+      "text": "Homilies on 1Cor., homily 11:5."
+    },
+    {
+      "id": 383,
+      "text": "Sermons, 206:2 PL 38:1041"
+    },
+    {
+      "id": 384,
+      "text": "On Lagarius, Homily 2:4"
+    },
+    {
+      "id": 385,
+      "text": "Letters, 22:31."
+    },
+    {
+      "id": 386,
+      "text": "Homilies on John, 41."
+    },
+    {
+      "id": 387,
+      "text": "مقال 6 (مقالات مار إفرآم بدير السيدة العذراء البراموس، 1892)."
+    },
+    {
+      "id": 388,
+      "text": "In Eph. Hom 20."
+    },
+    {
+      "id": 389,
+      "text": "Letter 95."
+    },
+    {
+      "id": 390,
+      "text": "The Long Rules, Question 27 R."
+    },
+    {
+      "id": 391,
+      "text": "Works and Alms, 5 ."
+    },
+    {
+      "id": 392,
+      "text": "On Mercy and Justice."
+    },
+    {
+      "id": 393,
+      "text": "Commentary on Luke, Homily 103."
+    },
+    {
+      "id": 394,
+      "text": "الأعمال والصدقة، 5 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 395,
+      "text": "Scholia on Proverbs, 184:18:16."
+    },
+    {
+      "id": 396,
+      "text": "Commentary on the Proverbs of Solomon, 18:5."
+    },
+    {
+      "id": 397,
+      "text": "مقال 8 (مقالات مار إفرآم بدير السيدة العذراء البراموس، 1892)."
+    },
+    {
+      "id": 398,
+      "text": "Paedagogus 2:2:29."
+    },
+    {
+      "id": 399,
+      "text": "Instruction, 1:45."
+    },
+    {
+      "id": 400,
+      "text": "Hymns on the Natiurty,3"
+    },
+    {
+      "id": 401,
+      "text": "On Virginity, 21 . ترجمة دكتورة إيفا إدوارد بدمياط"
+    },
+    {
+      "id": 402,
+      "text": "مقال 7 (مقالات مار إفرآم بدير السيدة العذراء البراموس، 1892)."
+    },
+    {
+      "id": 403,
+      "text": "Constitutions of the Holy Apostles, 1:3:10."
+    },
+    {
+      "id": 404,
+      "text": "Forty Gospel Homilies , 10: 6."
+    },
+    {
+      "id": 405,
+      "text": "Sermon 149:4."
+    },
+    {
+      "id": 406,
+      "text": "Homilies on Joshua, 18:3."
+    },
+    {
+      "id": 407,
+      "text": "Baptismal Instructions, 9:33-35."
+    },
+    {
+      "id": 408,
+      "text": "Homilies on Jeremiah."
+    },
+    {
+      "id": 409,
+      "text": "مقال 3 (مقالات مار إفرآم بدير السيدة العذراء البراموس، 1892)."
+    },
+    {
+      "id": 410,
+      "text": "Scholia on Proverbs 231:21:26."
+    },
+    {
+      "id": 411,
+      "text": "Sermon 286:1."
+    },
+    {
+      "id": 412,
+      "text": "Gregory (the Great): Forty Gospel Homilies , 10: 2."
+    },
+    {
+      "id": 413,
+      "text": "مناظرات يوحنا كاسيان، 3: 15 ."
+    },
+    {
+      "id": 414,
+      "text": "Sermon in Gen. 7, PG 5: 614 C -D."
+    },
+    {
+      "id": 415,
+      "text": "Com. on 1 John, 4:3."
+    },
+    {
+      "id": 416,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 56."
+    },
+    {
+      "id": 417,
+      "text": "Letter 15."
+    },
+    {
+      "id": 418,
+      "text": "Minucius Felix: Octairus, 36:3-7."
+    },
+    {
+      "id": 419,
+      "text": "Sermon 39: 6."
+    },
+    {
+      "id": 420,
+      "text": "Sermon 35 :7."
+    },
+    {
+      "id": 421,
+      "text": "Sermon 11:6."
+    },
+    {
+      "id": 422,
+      "text": "De Beatitudinibus,1."
+    },
+    {
+      "id": 423,
+      "text": "De Beatitudinibus, 3."
+    },
+    {
+      "id": 424,
+      "text": "De Oratione Dominica, 5."
+    },
+    {
+      "id": 425,
+      "text": "De Oratione Dominica, 5."
+    },
+    {
+      "id": 426,
+      "text": "De Oratione Dominica, 5."
+    },
+    {
+      "id": 427,
+      "text": "Contra Eunomium, 1:35."
+    },
+    {
+      "id": 428,
+      "text": "Antirrheticus adversus Apollinaruim, 23."
+    },
+    {
+      "id": 429,
+      "text": "De Hominis Oplficio 16:14 PG. 44:185 A."
+    },
+    {
+      "id": 430,
+      "text": "De Beatitudinibus, 8."
+    },
+    {
+      "id": 431,
+      "text": "مناظرات يوحنا كاسيان، 24: 2 4 ."
+    },
+    {
+      "id": 432,
+      "text": "Homily on the beginning of Proverbs 13."
+    },
+    {
+      "id": 433,
+      "text": "Paschal letters, 2."
+    },
+    {
+      "id": 434,
+      "text": "Epistle to Galatians, 2: 6: 9-10 ."
+    },
+    {
+      "id": 435,
+      "text": "Robert L. Alden: Proverbs, 22: 10 ."
+    },
+    {
+      "id": 436,
+      "text": "Long Rules 47."
+    },
+    {
+      "id": 437,
+      "text": "Letter 15."
+    },
+    {
+      "id": 438,
+      "text": "ميمر 4 (راجع دير السريان: الآباء الحاذقون في العبادة، جدًا 2 ."
+    },
+    {
+      "id": 439,
+      "text": "ميمر 4 ."
+    },
+    {
+      "id": 440,
+      "text": "Scholia on Proverbs 247:22:20."
+    },
+    {
+      "id": 441,
+      "text": "Proverbs of Solomon Fragments 22:20."
+    },
+    {
+      "id": 442,
+      "text": "Commentary on Obadiah ."
+    },
+    {
+      "id": 443,
+      "text": "The Long Rules, 5."
+    },
+    {
+      "id": 444,
+      "text": "Cf. Commentary on the Song of Songs, Prologue, Letter to Julius Africanus, 5."
+    },
+    {
+      "id": 445,
+      "text": "Letter to John of Antioch, 39:7."
+    },
+    {
+      "id": 446,
+      "text": "Scholia on Proverbs, 249:22:28."
+    },
+    {
+      "id": 447,
+      "text": "Paschal letters, 3."
+    },
+    {
+      "id": 448,
+      "text": "Paschal letters, 3."
+    },
+    {
+      "id": 449,
+      "text": "Scholia on Proverbs 251:23:1."
+    },
+    {
+      "id": 450,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 23:9."
+    },
+    {
+      "id": 451,
+      "text": "Homilies on Leviticus 13:4:6."
+    },
+    {
+      "id": 452,
+      "text": "Homilies on the Psalms 11 (Ps. 77)."
+    },
+    {
+      "id": 453,
+      "text": "Tractates on John 84:2."
+    },
+    {
+      "id": 454,
+      "text": "Sermon 332:2."
+    },
+    {
+      "id": 455,
+      "text": "Sermon 329:1."
+    },
+    {
+      "id": 456,
+      "text": "Demonstrations, 6:8 (Of Monks)."
+    },
+    {
+      "id": 457,
+      "text": "Paedagogus 2:1:4."
+    },
+    {
+      "id": 458,
+      "text": "Homily Concerning Envy."
+    },
+    {
+      "id": 459,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 460,
+      "text": "Ser. on Mount 2:68."
+    },
+    {
+      "id": 461,
+      "text": "مناظرات يوحنا كاسيان 1 4: 17 ."
+    },
+    {
+      "id": 462,
+      "text": "ميمر 4 ."
+    },
+    {
+      "id": 463,
+      "text": "Paedagogus 1:9:82."
+    },
+    {
+      "id": 464,
+      "text": "Homily on the Beginning of Proverbs, 5."
+    },
+    {
+      "id": 465,
+      "text": "Demonstrations, 14:25."
+    },
+    {
+      "id": 466,
+      "text": "ميمر 4 ."
+    },
+    {
+      "id": 467,
+      "text": "ميمر 6 ."
+    },
+    {
+      "id": 468,
+      "text": "ميمر 6 ."
+    },
+    {
+      "id": 469,
+      "text": "ميمر 8 ."
+    },
+    {
+      "id": 470,
+      "text": "Hom on Song 11; PG 44:1005."
+    },
+    {
+      "id": 471,
+      "text": "A Discourse on Ascetical Discipline, (Frs. Of the Church, volume 9, p. 35)."
+    },
+    {
+      "id": 472,
+      "text": "Sermons on the N.T. 1."
+    },
+    {
+      "id": 473,
+      "text": "Demonstrations, 6."
+    },
+    {
+      "id": 474,
+      "text": "Demonstrations, 6."
+    },
+    {
+      "id": 475,
+      "text": "Cassian: Conferences 1:13."
+    },
+    {
+      "id": 476,
+      "text": "Sermon 34:7."
+    },
+    {
+      "id": 477,
+      "text": "Homilies on John, 87."
+    },
+    {
+      "id": 478,
+      "text": "القديس مار أوغريس البنطي: إلى أناتوليس Anatolius عن \"الأفكار الثمانية\"، 3 ."
+    },
+    {
+      "id": 479,
+      "text": "القديس مار أوغريس البنطي: مقال عن \"الحياة العاملة\"، 58 ."
+    },
+    {
+      "id": 480,
+      "text": "Paedagogus 2:2:27-28."
+    },
+    {
+      "id": 481,
+      "text": "Sermon 189:5."
+    },
+    {
+      "id": 482,
+      "text": "Sermon 46:4."
+    },
+    {
+      "id": 483,
+      "text": "مناظرات يوحنا كاسيان، 23: 7 ."
+    },
+    {
+      "id": 484,
+      "text": "مناظرات يوحنا كاسيان، 24: 1 1 ."
+    },
+    {
+      "id": 485,
+      "text": "إن الغارقين في الإثم ولا يمتنعون عنه، بل يتمادون فيه، هم سكارى، يفقدون الحس بآلامهم، لذلك عندما يعودون إلى وعيهم، يطلبون الخمر ثانية."
+    },
+    {
+      "id": 486,
+      "text": "الصورة الاستعارية للحياة كرحلة في بحار من التجارب منتهاها هو الأبدية في سفينة الكنيسة كانت تستهوي فكر الآباء. كذلك تُذَكر مثل هذه التشبيهات بالماضي حيث المغامرات والأسفار التي كان يقوم بها الرحالة في البِحار حسب ذكرها في ملحمة الأُديسا \" Odyssey \"."
+    },
+    {
+      "id": 487,
+      "text": "Pastoral Care, Book 3:32."
+    },
+    {
+      "id": 488,
+      "text": "تعليقه على (مزمور 73) (72 LXX )."
+    },
+    {
+      "id": 489,
+      "text": "On Ps 73 ."
+    },
+    {
+      "id": 490,
+      "text": "Hymns Preserved in Armenian, 1:1 Cistercian Studies, 1973, 101:36."
+    },
+    {
+      "id": 491,
+      "text": "Fragments on Prov. (4:6-8)."
+    },
+    {
+      "id": 492,
+      "text": "Commentary on Ecclesiastes 35:29."
+    },
+    {
+      "id": 493,
+      "text": "Commentary on The Proverbs of Solomon Fragment 24:3:4."
+    },
+    {
+      "id": 494,
+      "text": "Cf. Letter 52:3."
+    },
+    {
+      "id": 495,
+      "text": "مناظرات يوحنا كاسيان، 2: 4 ."
+    },
+    {
+      "id": 496,
+      "text": "Commentary on The Proverbs of Solomon 24:6 ."
+    },
+    {
+      "id": 497,
+      "text": "Homilies on Ecclesiastes, 2:12."
+    },
+    {
+      "id": 498,
+      "text": "Gregory Thaumaturgus: Paraphrase of Ecclesiastes, 2:16."
+    },
+    {
+      "id": 499,
+      "text": "Paedagogus 1:6."
+    },
+    {
+      "id": 500,
+      "text": "St. Ambrose: The Prayer of Job and David 4:7:27"
+    },
+    {
+      "id": 501,
+      "text": "On the Epistle the Hebrews, 10:9."
+    },
+    {
+      "id": 502,
+      "text": "Cassian: Conferences, 2:13."
+    },
+    {
+      "id": 503,
+      "text": "Henry Ironside: Commentary on Proverbs 24: 11-12 ."
+    },
+    {
+      "id": 504,
+      "text": "Homilies on Luke, 34: 2."
+    },
+    {
+      "id": 505,
+      "text": "Homily on Ps. 14 ."
+    },
+    {
+      "id": 506,
+      "text": "Warren Wiersbe Chapter-By-Chapter Bible Commentary, Prov. 24."
+    },
+    {
+      "id": 507,
+      "text": "Sermon on N.T. Lessons, 95:1-5."
+    },
+    {
+      "id": 508,
+      "text": "Explanations of the Psalms 119:162."
+    },
+    {
+      "id": 509,
+      "text": "Explanation of the Psalms 145: 13."
+    },
+    {
+      "id": 510,
+      "text": "Sermon 234:4."
+    },
+    {
+      "id": 511,
+      "text": "Casiodorus: Exposition of the Psalms 19:9."
+    },
+    {
+      "id": 512,
+      "text": "Cassian: Conferences, 20:12."
+    },
+    {
+      "id": 513,
+      "text": "Commentary on Paul’s Epistles (Rom 11:18) ."
+    },
+    {
+      "id": 514,
+      "text": "مناظرات يوحنا كاسيان، 5: 15 ."
+    },
+    {
+      "id": 515,
+      "text": "Commentary on the Proverbs of Solomon, Fragment 24:21."
+    },
+    {
+      "id": 516,
+      "text": "On Exodus, homily 8."
+    },
+    {
+      "id": 517,
+      "text": "Commentary on Luke 118."
+    },
+    {
+      "id": 518,
+      "text": "Constitutions of the Holy Apostles, 2:3:13."
+    },
+    {
+      "id": 519,
+      "text": "Cassian: Conf. 2: 9."
+    },
+    {
+      "id": 520,
+      "text": "Sermon 3, On the Punishment of Sinners, 10:2."
+    },
+    {
+      "id": 521,
+      "text": "Homilies on Rom.,22."
+    },
+    {
+      "id": 522,
+      "text": "cf. St. Ambrose: Prayer of Job and David 4:2:7."
+    },
+    {
+      "id": 523,
+      "text": "Homilies on Leviticus, 6:4:4."
+    },
+    {
+      "id": 524,
+      "text": "Fragments on Song of Songs."
+    },
+    {
+      "id": 525,
+      "text": "Letters to Monks 1:2."
+    },
+    {
+      "id": 526,
+      "text": "Concerning Faith."
+    },
+    {
+      "id": 527,
+      "text": "عن المزمور الأول."
+    },
+    {
+      "id": 528,
+      "text": "Sermon on the Mount, 1:1:3"
+    },
+    {
+      "id": 529,
+      "text": "Sermon on N.T. Lessons 12:3."
+    },
+    {
+      "id": 530,
+      "text": "Ser. on N.T. 81: 5."
+    },
+    {
+      "id": 531,
+      "text": "On Vriginity, ch 31 PL 40 ; 413."
+    },
+    {
+      "id": 532,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، بيروت، 1989، ص 309. عظة 20."
+    },
+    {
+      "id": 533,
+      "text": "St. Augustine: On the Gospel of St. John, tractate, 77: 3."
+    },
+    {
+      "id": 534,
+      "text": "St. Augustine: On the Gospel of St. John, tractate, 77: 4."
+    },
+    {
+      "id": 535,
+      "text": "Scholia on Proverbs, 304:25:10."
+    },
+    {
+      "id": 536,
+      "text": "In Ps. Hom 7."
+    },
+    {
+      "id": 537,
+      "text": "St .John Cassian: Conferences ,16:7."
+    },
+    {
+      "id": 538,
+      "text": "Homily 27."
+    },
+    {
+      "id": 539,
+      "text": "Paedagogus 3: 11 ترجمة فيلوباترون."
+    },
+    {
+      "id": 540,
+      "text": "Didache 11:3-5."
+    },
+    {
+      "id": 541,
+      "text": "Defense Before Constantius, 12."
+    },
+    {
+      "id": 542,
+      "text": "Letter 17."
+    },
+    {
+      "id": 543,
+      "text": "Letter 242 to the Westerners."
+    },
+    {
+      "id": 544,
+      "text": "In 1 Cor., hom., 31:5."
+    },
+    {
+      "id": 545,
+      "text": "Sermon 164:2."
+    },
+    {
+      "id": 546,
+      "text": "Christian Instruction, 3: 16: 24."
+    },
+    {
+      "id": 547,
+      "text": "City of God, 14."
+    },
+    {
+      "id": 548,
+      "text": "Against Jovinianus, 1:28."
+    },
+    {
+      "id": 549,
+      "text": "Commentary on Luke, Homily 65."
+    },
+    {
+      "id": 550,
+      "text": "In Matt hom 13:4."
+    },
+    {
+      "id": 551,
+      "text": "Homilies, 27:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 552,
+      "text": "In Matt. hom 3:8."
+    },
+    {
+      "id": 553,
+      "text": "In Luc hom 143."
+    },
+    {
+      "id": 554,
+      "text": "Pastoral Care, Book 3:14."
+    },
+    {
+      "id": 555,
+      "text": "Hexam. Hom 9."
+    },
+    {
+      "id": 556,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 311. عظة 3:3."
+    },
+    {
+      "id": 557,
+      "text": "Constitutions of the Holy Apostles, 3: 1: 15."
+    },
+    {
+      "id": 558,
+      "text": "Commentary on Luke, Homily 45."
+    },
+    {
+      "id": 559,
+      "text": "Flight from the World, 9: 56."
+    },
+    {
+      "id": 560,
+      "text": "Duties of the Clergy, 1: 10: 34-35."
+    },
+    {
+      "id": 561,
+      "text": "On the Soul and the Resurrection."
+    },
+    {
+      "id": 562,
+      "text": "Catena."
+    },
+    {
+      "id": 563,
+      "text": "Letter 120."
+    },
+    {
+      "id": 564,
+      "text": "Letter 40: 8."
+    },
+    {
+      "id": 565,
+      "text": "Jamieson, Fausset, Brown: Proverbs."
+    },
+    {
+      "id": 566,
+      "text": "Cf. Henry Ironside: Proverbs."
+    },
+    {
+      "id": 567,
+      "text": "Cf. J. Vernon McGee: Proverbs."
+    },
+    {
+      "id": 568,
+      "text": "Commentary on John 6: 297-298."
+    },
+    {
+      "id": 569,
+      "text": "Cf. On the Unity of Christ, 50."
+    },
+    {
+      "id": 570,
+      "text": "Introduction on 2 Peter (2: 21)."
+    },
+    {
+      "id": 571,
+      "text": "Homilies on Genesis, 6:2."
+    },
+    {
+      "id": 572,
+      "text": "مناظرات يوحنا كاسيان، 1 7: 2 ."
+    },
+    {
+      "id": 573,
+      "text": "Sermon 237:3."
+    },
+    {
+      "id": 574,
+      "text": "On Free will, 24: 72."
+    },
+    {
+      "id": 575,
+      "text": "Interpretation of Rom (1: 22)."
+    },
+    {
+      "id": 576,
+      "text": "Defense of his Flight, Oration 2:50."
+    },
+    {
+      "id": 577,
+      "text": "Commentary on Rom. 12: 16."
+    },
+    {
+      "id": 578,
+      "text": "Commentary on Isaiah, 5:21."
+    },
+    {
+      "id": 579,
+      "text": "Homilies on Rom, 3."
+    },
+    {
+      "id": 580,
+      "text": "Six Days of Creation,6: 4: 16."
+    },
+    {
+      "id": 581,
+      "text": "The Long Rules, 37."
+    },
+    {
+      "id": 582,
+      "text": "cf. On Ps.67: 3."
+    },
+    {
+      "id": 583,
+      "text": "In Op. Imperf. hom 2."
+    },
+    {
+      "id": 584,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 290."
+    },
+    {
+      "id": 585,
+      "text": "مناظرات يوحنا كاسيان، 1 6: 18 ."
+    },
+    {
+      "id": 586,
+      "text": "Homilies on John, 51."
+    },
+    {
+      "id": 587,
+      "text": "On Ps. 7."
+    },
+    {
+      "id": 588,
+      "text": "Homilies on Statues 20:22."
+    },
+    {
+      "id": 589,
+      "text": "راجع نص الدكتور بهنام سوني."
+    },
+    {
+      "id": 590,
+      "text": "Sermon 109:2."
+    },
+    {
+      "id": 591,
+      "text": "Tract. on John, 36:3:2."
+    },
+    {
+      "id": 592,
+      "text": "Commentary on Luke homily 110. ترجمة مؤسسة القديس أنطونيوس: مركز دراسات الآباء."
+    },
+    {
+      "id": 593,
+      "text": "مقال 17 (مقالات مار إفرآم بدير السيدة العذراء البراموس، 1892)."
+    },
+    {
+      "id": 594,
+      "text": "The Life of Moses: 2:258, translated by Magdy Fahim Hanna."
+    },
+    {
+      "id": 595,
+      "text": "مناظرات يوحنا كاسيان، 18: 16 ."
+    },
+    {
+      "id": 596,
+      "text": "The long Rules 46."
+    },
+    {
+      "id": 597,
+      "text": "Duties of the Clergy 1:34:174."
+    },
+    {
+      "id": 598,
+      "text": "On Patience 14:11."
+    },
+    {
+      "id": 599,
+      "text": "On Patience, 11:4."
+    },
+    {
+      "id": 600,
+      "text": "The Dress of Virgins, 1."
+    },
+    {
+      "id": 601,
+      "text": "On Virginity 6:33."
+    },
+    {
+      "id": 602,
+      "text": "رسالتان إلى أتروبيوس (الكنيسة تحبك)."
+    },
+    {
+      "id": 603,
+      "text": "Hom on Song 13; PG 44:1044."
+    },
+    {
+      "id": 604,
+      "text": "J. Vernon McGee: Proverbs."
+    },
+    {
+      "id": 605,
+      "text": "Cassian: Conferences, 14:13."
+    },
+    {
+      "id": 606,
+      "text": "الرسالة الثانية عشر للقديس أنبا مقار إلى أبّا سمعان الناسك في العراق، وإلى إخوة آخرين مقيمين معه، 1."
+    },
+    {
+      "id": 607,
+      "text": "Sermon 8:5."
+    },
+    {
+      "id": 608,
+      "text": "Commentary on Ecclesiastes 219:8."
+    },
+    {
+      "id": 609,
+      "text": "Duties of the Clergy 1:34:174."
+    },
+    {
+      "id": 610,
+      "text": "Commentary on Ecclesiastes 233:16."
+    },
+    {
+      "id": 611,
+      "text": "Prayer of Job, Book 2, 3:4, 6."
+    },
+    {
+      "id": 612,
+      "text": "Song of Songs, Sermon 4."
+    },
+    {
+      "id": 613,
+      "text": "On Ps. 141."
+    },
+    {
+      "id": 614,
+      "text": "Song of Songs, Sermon 10."
+    },
+    {
+      "id": 615,
+      "text": "Justin: 1 Apology, 14: 3."
+    },
+    {
+      "id": 616,
+      "text": "Homilies on Matthew, 77:3."
+    },
+    {
+      "id": 617,
+      "text": "Homilies on John, 15:3."
+    },
+    {
+      "id": 618,
+      "text": "Homily on \"I will pull down my barns,\" 5"
+    },
+    {
+      "id": 619,
+      "text": "In 2 Cor. Hom .121.."
+    },
+    {
+      "id": 620,
+      "text": "In Luc Ser. 106."
+    },
+    {
+      "id": 621,
+      "text": "هذا الاعتقاد الغريب كان سائدا وقد ورد في كتابات بعض الآباء الآخرين مثل القديس أغسطينوس في \"مدينة الله\"."
+    },
+    {
+      "id": 622,
+      "text": "Pastoral Care, Book 3:13."
+    },
+    {
+      "id": 623,
+      "text": "Commentary on Luke, homly.93."
+    },
+    {
+      "id": 624,
+      "text": "Apology 42: 1."
+    },
+    {
+      "id": 625,
+      "text": "Tertullian: Apology 42: 1-3."
+    },
+    {
+      "id": 626,
+      "text": "Origen: In Gen. Hom. 4: 1."
+    },
+    {
+      "id": 627,
+      "text": "In Acts, Hom. 3."
+    },
+    {
+      "id": 628,
+      "text": "Warren Wiersbe Chapter-By-Chapter Bible Commentary, Prov. 28."
+    },
+    {
+      "id": 629,
+      "text": "Homilies on John 41."
+    },
+    {
+      "id": 630,
+      "text": "In Leviticus, Homily 16:6."
+    },
+    {
+      "id": 631,
+      "text": "Commentary on Proverbs of Solomon, Fragments 1:7."
+    },
+    {
+      "id": 632,
+      "text": "Homilies on Statues, 8:3."
+    },
+    {
+      "id": 633,
+      "text": "Homilies on Matthew, 24:4."
+    },
+    {
+      "id": 634,
+      "text": "Sermon 105: 6."
+    },
+    {
+      "id": 635,
+      "text": "Ascetical Homilies, 7."
+    },
+    {
+      "id": 636,
+      "text": "Homilies on Mathew, 61:4."
+    },
+    {
+      "id": 637,
+      "text": "Stromata, 2:19:101."
+    },
+    {
+      "id": 638,
+      "text": "Fulgentius of Ruspe: On the Forgiveness of Sins, 1:26:2."
+    },
+    {
+      "id": 639,
+      "text": "الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989م، ص136."
+    },
+    {
+      "id": 640,
+      "text": "عن مثل لعازر والغني، عظة 6، ترجمة الدكتورة مهجة زكي."
+    },
+    {
+      "id": 641,
+      "text": "عن مثل لعازر والغني، عظة 2، ترجمة الدكتورة مهجة زكي."
+    },
+    {
+      "id": 642,
+      "text": "عن مثل لعازر والغني، عظة 6، ترجمة الدكتورة مهجة زكي."
+    },
+    {
+      "id": 643,
+      "text": "Sermon 7:3-4."
+    },
+    {
+      "id": 644,
+      "text": "Sermon 1:5."
+    },
+    {
+      "id": 645,
+      "text": "Sermon 56:5."
+    },
+    {
+      "id": 646,
+      "text": "On Ps. 93:1."
+    },
+    {
+      "id": 647,
+      "text": "On Ps. 30:10."
+    },
+    {
+      "id": 648,
+      "text": "The Long Rules, 33."
+    },
+    {
+      "id": 649,
+      "text": "Letter, 42."
+    },
+    {
+      "id": 650,
+      "text": "Demonstrations, 7: 3."
+    },
+    {
+      "id": 651,
+      "text": "Letter 122:3."
+    },
+    {
+      "id": 652,
+      "text": "The Prayer of Job and David, Book, 1:3:7,87. ترجمة جرجس كامل"
+    },
+    {
+      "id": 653,
+      "text": "The Prayer of Job and David, Book 1, 6:20."
+    },
+    {
+      "id": 654,
+      "text": "Six Days of Creation 1:4:12."
+    },
+    {
+      "id": 655,
+      "text": "Homilies on Genesis, 30:15."
+    },
+    {
+      "id": 656,
+      "text": "Sermons on N.T. Lessons , 73: 3."
+    },
+    {
+      "id": 657,
+      "text": "The Long Rules, Preface."
+    },
+    {
+      "id": 658,
+      "text": "Homily on the Beginning of Proverbs 4."
+    },
+    {
+      "id": 659,
+      "text": "مناظرات يوحنا كاسيان، 7: 6 ."
+    },
+    {
+      "id": 660,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 661,
+      "text": "Sermon 198:3"
+    },
+    {
+      "id": 662,
+      "text": "الأعمال والصدقة، 9 (ترجمة المرحوم سامي عبد الملك)."
+    },
+    {
+      "id": 663,
+      "text": "Pastoral Care, 1:11 ترجمة: مجدي فهيم حنا وجورج فهمي حنا."
+    },
+    {
+      "id": 664,
+      "text": "On Virginity, 20."
+    },
+    {
+      "id": 665,
+      "text": "Stromata 1:1:12."
+    },
+    {
+      "id": 666,
+      "text": "The Prayer of Job and David 1:9:31."
+    },
+    {
+      "id": 667,
+      "text": "St. Augustine: On the Gospel of St. John, tractate 41: 3 - 4."
+    },
+    {
+      "id": 668,
+      "text": "Homilies on Ps. 2."
+    },
+    {
+      "id": 669,
+      "text": "Morals on Job 1:5:78."
+    },
+    {
+      "id": 670,
+      "text": "Cassian: Conferences 16:27."
+    },
+    {
+      "id": 671,
+      "text": "Pastoral Care, Book 3:9."
+    },
+    {
+      "id": 672,
+      "text": "In Gen. Hom., 43:8."
+    },
+    {
+      "id": 673,
+      "text": "In Colos hom 1."
+    },
+    {
+      "id": 674,
+      "text": "Paedagogus, 1:9 . ترجمة دكتورة إيفا إدوارد بدمياط"
+    },
+    {
+      "id": 675,
+      "text": "On Psalms, Homily 7."
+    },
+    {
+      "id": 676,
+      "text": "In Num. hom. 10:1 PG 12:638."
+    },
+    {
+      "id": 677,
+      "text": "Sermons, 91:4."
+    },
+    {
+      "id": 678,
+      "text": "Ep. 118: 1, 22: 39."
+    },
+    {
+      "id": 679,
+      "text": "The Correction of the Donatists, 6:21."
+    },
+    {
+      "id": 680,
+      "text": "Commentary on Tatian's Diatessaron, 38."
+    },
+    {
+      "id": 681,
+      "text": "In 2 Cor. hom 22:2."
+    },
+    {
+      "id": 682,
+      "text": "In Rom. Hom. 5."
+    },
+    {
+      "id": 683,
+      "text": "Ser. on N.T. 81: 5."
+    },
+    {
+      "id": 684,
+      "text": "Demonstrations, 9: 1."
+    },
+    {
+      "id": 685,
+      "text": "St. Augustine: On the Gospel of St. John, tractate 25:7."
+    },
+    {
+      "id": 686,
+      "text": "In Matt. hom 34:2."
+    },
+    {
+      "id": 687,
+      "text": "On Perfection."
+    },
+    {
+      "id": 688,
+      "text": "Commentary on Luke, Homily 136."
+    },
+    {
+      "id": 689,
+      "text": "Theological Oration 2 :21."
+    },
+    {
+      "id": 690,
+      "text": "Against Eumomius 3:2."
+    },
+    {
+      "id": 691,
+      "text": "Ascetical Homilies, 7."
+    },
+    {
+      "id": 692,
+      "text": "راجع الدكتور الأب بهنام سُوني: الإنسان في تعليم مار يعقوب السروجي الملفان، 1995، ص 53."
+    },
+    {
+      "id": 693,
+      "text": "CSEL 81:279."
+    },
+    {
+      "id": 694,
+      "text": "Sel Ps. 1: 2."
+    },
+    {
+      "id": 695,
+      "text": "Cels. 6: 57."
+    },
+    {
+      "id": 696,
+      "text": "Principiis: Praef. 8."
+    },
+    {
+      "id": 697,
+      "text": "In Ezek. Hom. 11: 2."
+    },
+    {
+      "id": 698,
+      "text": "Strom 4: 21."
+    },
+    {
+      "id": 699,
+      "text": "Homilies on Heb. 18:4."
+    },
+    {
+      "id": 700,
+      "text": "Six Days of Creation, 6:53."
+    },
+    {
+      "id": 701,
+      "text": "The Long Rules, 20"
+    },
+    {
+      "id": 702,
+      "text": "Warren Wiersbe Chapter-By-Chapter Bible Commentary, Prov. 30."
+    },
+    {
+      "id": 703,
+      "text": "Adam Clarke Commentary."
+    },
+    {
+      "id": 704,
+      "text": "Death as a Good, 7:28."
+    },
+    {
+      "id": 705,
+      "text": "Against Jovinianus 1:28."
+    },
+    {
+      "id": 706,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 707,
+      "text": "Fragments on Proverbs."
+    },
+    {
+      "id": 708,
+      "text": "On Matt. Fragment 153."
+    },
+    {
+      "id": 709,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 710,
+      "text": "Commentary in Matthew, 12: 11."
+    },
+    {
+      "id": 711,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 712,
+      "text": "Maximus of Turin: Sermon 22: 3."
+    },
+    {
+      "id": 713,
+      "text": "عظات على سفر إ رميا، ترجمة جاكلين سمير كوستى، عظة ، 20: 9."
+    },
+    {
+      "id": 714,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 715,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 716,
+      "text": "Explanations of the Psalms, 49: 12."
+    },
+    {
+      "id": 717,
+      "text": "Commentary on the Proverbs of Solomon. Fragment 30: 25."
+    },
+    {
+      "id": 718,
+      "text": "مناظرات يوحنا كاسيان، 1 0: 11 ."
+    },
+    {
+      "id": 719,
+      "text": "Homilies on Exodus, 4:7."
+    },
+    {
+      "id": 720,
+      "text": "Hippolytus: Fragments on Proverbs."
+    },
+    {
+      "id": 721,
+      "text": "Warren Wiersbe Chapter-By-Chapter Bible Commentary, Prov. 31."
+    },
+    {
+      "id": 722,
+      "text": "J. Vernon McGee: Proverbs, Nashville 1991, p. 253."
+    },
+    {
+      "id": 723,
+      "text": "Homilies on Psalms 42 (ps.127)."
+    },
+    {
+      "id": 724,
+      "text": "Homilies on Ecclesiastes, 3."
+    },
+    {
+      "id": 725,
+      "text": "Homilies on Ephesians."
+    },
+    {
+      "id": 726,
+      "text": "Cassian: Conferences, 14:17."
+    },
+    {
+      "id": 727,
+      "text": "Funeral Oration on Meletius."
+    },
+    {
+      "id": 728,
+      "text": "Homilies on Ecclesiastes 3:5."
+    },
+    {
+      "id": 729,
+      "text": "On the Death of his Father, 18:7."
+    },
+    {
+      "id": 730,
+      "text": "Sermon 139:10"
+    },
+    {
+      "id": 731,
+      "text": "Homilies on John 25:2."
+    },
+    {
+      "id": 732,
+      "text": "Against Marcion 2:4."
+    },
+    {
+      "id": 733,
+      "text": "Two Books on Genesis Against Manicheans 2:11:6."
+    },
+    {
+      "id": 734,
+      "text": "Sermon 37: 4-5 WSA vol. 32, p.187."
+    },
+    {
+      "id": 735,
+      "text": "يقصد هنا أن الصوف يستخدم من فرو الخراف وهي نتيجة اللقاء بين الذكور والإناث من الخراف ."
+    },
+    {
+      "id": 736,
+      "text": "Sermon 139:2."
+    },
+    {
+      "id": 737,
+      "text": "Sermon 37:6."
+    },
+    {
+      "id": 738,
+      "text": "Exposition on Proverbs, 31:16."
+    },
+    {
+      "id": 739,
+      "text": "Sermon 37:10."
+    },
+    {
+      "id": 740,
+      "text": "Sermon 37: 13."
+    },
+    {
+      "id": 741,
+      "text": "Sermon 139:4."
+    },
+    {
+      "id": 742,
+      "text": "On the Christian Faith 2, Introduction 11."
+    },
+    {
+      "id": 743,
+      "text": "Tractates on John 7: 10: 2."
+    },
+    {
+      "id": 744,
+      "text": "Sermon 37:23"
+    },
+    {
+      "id": 745,
+      "text": "Regulae fusius tractatae Question 37."
+    },
+    {
+      "id": 746,
+      "text": "Hemaexeron, 7."
+    },
+    {
+      "id": 747,
+      "text": "Constitutions of Holy Apostles, 1:3:8."
+    },
+    {
+      "id": 748,
+      "text": "Homilies on Psalms 15."
+    },
+    {
+      "id": 749,
+      "text": "Homilies on Genesis 4:4."
+    },
+    {
+      "id": 750,
+      "text": "Paschal Epist. 11: 9."
+    },
+    {
+      "id": 751,
+      "text": "Cf. The Guideposts Bible Study Program, Discovering Proverbs, Ecclesiastes, and Song of Songs, 1989, Publisher’s Introduction, and Preface."
+    },
+    {
+      "id": 752,
+      "text": "Cf. The Guideposts Bible Study Program, Discovering Proverbs, Ecclesiastes, and Song of Songs, 1989, Publisher’s Introduction, and Preface."
+    },
+    {
+      "id": 753,
+      "text": "Orator 27.94; Everett Ferguson: Encyclopedia of Early Christianity, N.Y, 990, p. 23."
+    },
+    {
+      "id": 754,
+      "text": "De Trin., 15:9:15."
+    },
+    {
+      "id": 755,
+      "text": "Everett Ferguson: Encyclopedia of Early Christianity, N.Y, 990, p. 23."
+    },
+    {
+      "id": 756,
+      "text": "John MacQueen: Allegory, Methuen & Co, 1970, p. 20."
+    },
+    {
+      "id": 757,
+      "text": "Protrepticus 1:8:4."
+    },
+    {
+      "id": 758,
+      "text": "Quis Dives Salvetur 37."
+    },
+    {
+      "id": 759,
+      "text": "Contra Celsus 3:61,62."
+    },
+    {
+      "id": 760,
+      "text": "Contra Celsus 6:67."
+    },
+    {
+      "id": 761,
+      "text": "Contra Celsus 6:67."
+    },
+    {
+      "id": 762,
+      "text": "In Num. hom 18:3."
+    },
+    {
+      "id": 763,
+      "text": "Jean Daniélou: Origen, NY, 1955, p. 18."
+    },
+    {
+      "id": 764,
+      "text": "Cf. J. Terence Forestell: The Book of Proverbs with a Commentary, Paulist Press, 1960, p.7."
+    },
+    {
+      "id": 765,
+      "text": "Cf.J. Terence Forestell: The Book of Proverbs with a Commentary, Paulist Press, 1960, p.6."
+    },
+    {
+      "id": 766,
+      "text": "Stromata 7:13."
+    },
+    {
+      "id": 767,
+      "text": "Robert Lee: The Outlined Bible, Analysis No. 20."
+    },
+    {
+      "id": 768,
+      "text": "Boyd's Bible Handbook, 1983, p. 250."
+    },
+    {
+      "id": 769,
+      "text": "Henrietta C. Mears: What the Bible is all about, 1983, p. 173."
+    },
+    {
+      "id": 770,
+      "text": "St. John Chrysostom: Homilies on Philippians, Introduction."
+    },
+    {
+      "id": 771,
+      "text": "St. John Chrysostom: Homilies on Ephesians 24."
+    },
+    {
+      "id": 772,
+      "text": "Epistle 1 of the Blessed Clement concerning Virginity, 2."
+    },
+    {
+      "id": 773,
+      "text": "St. Augustine: On Grace and Free Will, 9."
+    },
+    {
+      "id": 774,
+      "text": "Tertullian: of Patience, 11."
+    },
+    {
+      "id": 775,
+      "text": "St. Clement of Alexandria: Stromata 2:2."
+    },
+    {
+      "id": 776,
+      "text": "St. Cyprian: Treatise 2, On The Dress Of Virgins, 1."
+    },
+    {
+      "id": 777,
+      "text": "St. Clement of Alexandria: Instructor 1:9."
+    },
+    {
+      "id": 778,
+      "text": "St. John Chrysostom: Homilies on Philippians, 15."
+    },
+    {
+      "id": 779,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 12."
+    },
+    {
+      "id": 780,
+      "text": "St. Augustine: On Forgiveness of Sins, And Baptism, 2:25."
+    },
+    {
+      "id": 781,
+      "text": "St. Clement of Alexandria: Stromata 1:27."
+    },
+    {
+      "id": 782,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 783,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 784,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 785,
+      "text": "المؤلف: مزمور 119، 1996 ، ص 156."
+    },
+    {
+      "id": 786,
+      "text": "St. Clement of Alexandria: Instructor 2:13."
+    },
+    {
+      "id": 787,
+      "text": "Hom. on Song of Songs,1 PG 44:768."
+    },
+    {
+      "id": 788,
+      "text": "Fr. Gregory (the Great), Pastoral Rule, 26."
+    },
+    {
+      "id": 789,
+      "text": "St. Augustine: On the Spirit and the Letter, 15 ."
+    },
+    {
+      "id": 790,
+      "text": "St. Augustine: Against Two Letters of the Pelagians, 4:11."
+    },
+    {
+      "id": 791,
+      "text": "St. Augustine: On Grace and Free Will, 37 ."
+    },
+    {
+      "id": 792,
+      "text": "St. Augustine: City of God, 20:26."
+    },
+    {
+      "id": 793,
+      "text": "St. Augustine: On Forgiveness of Sins, And Baptism, 2:35. ."
+    },
+    {
+      "id": 794,
+      "text": "St. Hilary of Poitiers: On Psalm 1 ."
+    },
+    {
+      "id": 795,
+      "text": "Methodius: Banquet of the Ten Virgins, 3."
+    },
+    {
+      "id": 796,
+      "text": "Hom. on Song of Songs,1. PG 44:769."
+    },
+    {
+      "id": 797,
+      "text": "St. Athanasius of Alexandria: Four Discourses Against the Arians, 1:6:19."
+    },
+    {
+      "id": 798,
+      "text": "Paedagogos 3:11:58."
+    },
+    {
+      "id": 799,
+      "text": "From the Commentary of St. Hippolytus on Proverbs ."
+    },
+    {
+      "id": 800,
+      "text": "Fragments on Song of Songs."
+    },
+    {
+      "id": 801,
+      "text": "Letters to Monks 1:2."
+    },
+    {
+      "id": 802,
+      "text": "Concerning Faith."
+    },
+    {
+      "id": 803,
+      "text": "عن المزمور الأول."
+    },
+    {
+      "id": 804,
+      "text": "Sermon on the Mount, 1:1:3"
+    },
+    {
+      "id": 805,
+      "text": "Sermon on N.T. Lessons 12:3."
+    },
+    {
+      "id": 806,
+      "text": "Ser. on N.T. 81: 5."
+    },
+    {
+      "id": 807,
+      "text": "On Vriginity, ch 31 PL 40 ; 413."
+    },
+    {
+      "id": 808,
+      "text": "راجع الأب الياس كويتر المخلصي: القديس باسيليوس الكبير، بيروت، 1989، ص 309. عظة 20."
+    },
+    {
+      "id": 809,
+      "text": "St. Augustine: On the Gospel of St. John, tractate, 77: 3."
+    },
+    {
+      "id": 810,
+      "text": "St. Augustine: On the Gospel of St. John, tractate, 77: 4."
+    },
+    {
+      "id": 811,
+      "text": "Scholia on Proverbs, 304:25:10."
+    },
+    {
+      "id": 812,
+      "text": "In Ps. Hom 7."
+    },
+    {
+      "id": 813,
+      "text": "St .John Cassian: Conferences ,16:7."
+    },
+    {
+      "id": 814,
+      "text": "Homily 27."
+    },
+    {
+      "id": 815,
+      "text": "Paedagogus 3: 11 ترجمة فيلوباترون."
+    },
+    {
+      "id": 816,
+      "text": "Didache 11:3-5."
+    },
+    {
+      "id": 817,
+      "text": "Defense Before Constantius, 12."
+    },
+    {
+      "id": 818,
+      "text": "Letter 17."
+    },
+    {
+      "id": 819,
+      "text": "Letter 242 to the Westerners."
+    },
+    {
+      "id": 820,
+      "text": "In 1 Cor., hom., 31:5."
+    },
+    {
+      "id": 821,
+      "text": "Sermon 164:2."
+    },
+    {
+      "id": 822,
+      "text": "Christian Instruction, 3: 16: 24."
+    },
+    {
+      "id": 823,
+      "text": "City of God, 14."
+    },
+    {
+      "id": 824,
+      "text": "Against Jovinianus, 1:28."
+    },
+    {
+      "id": 825,
+      "text": "Commentary on Luke, Homily 65."
+    },
+    {
+      "id": 826,
+      "text": "In Matt hom 13:4."
+    },
+    {
+      "id": 827,
+      "text": "Homilies, 27:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 828,
+      "text": "In Matt. hom 3:8."
+    },
+    {
+      "id": 829,
+      "text": "In Luc hom 143."
+    },
+    {
+      "id": 830,
+      "text": "Pastoral Care, Book 3:14."
+    }
+  ]
+}

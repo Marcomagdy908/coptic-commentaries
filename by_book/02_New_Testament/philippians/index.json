@@ -1,0 +1,2243 @@
+{
+  "book_id": 56,
+  "book_title": "تفسير الرسالة إلى فيلبي",
+  "testament": "New Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "تحيّة رسولية"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "حياة جماعية متهللة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "العبادة بالروح [ 3 ]."
+    },
+    {
+      "chapter_id": 4,
+      "topic": "مصدر الفرح"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 2,
+      "text": "Letters , 63:96."
+    },
+    {
+      "id": 3,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 4,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 5,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 6,
+      "text": "Comm. On 1Cor. 1:2 [1:15]."
+    },
+    {
+      "id": 7,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 8,
+      "text": "Homilies on Leviticus, homily 4:4."
+    },
+    {
+      "id": 9,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 10,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 11,
+      "text": "Letter 16:1."
+    },
+    {
+      "id": 12,
+      "text": "On the Gospel of St. John, tr. 108:2."
+    },
+    {
+      "id": 13,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 14,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 15,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 16,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 17,
+      "text": "Hom. on Gen., hom, 8:7."
+    },
+    {
+      "id": 18,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 19,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 20,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 21,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 22,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 23,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 24,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 25,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 26,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 27,
+      "text": "Epistles, 72:14."
+    },
+    {
+      "id": 28,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 29,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 30,
+      "text": "Hom. On 1Tim., hom. 3. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 31,
+      "text": "Sermons on N.T. Lessons, 87 :9."
+    },
+    {
+      "id": 32,
+      "text": "Sermons on N.T. Lessons, 87 :5."
+    },
+    {
+      "id": 33,
+      "text": "Sermons on N.T. Lessons, 87 :11."
+    },
+    {
+      "id": 34,
+      "text": "On the Gospel of St. John, tr. 5:19."
+    },
+    {
+      "id": 35,
+      "text": "On the Gospel of St. John, tr. 46:6."
+    },
+    {
+      "id": 36,
+      "text": "On the Gospel of St. John, tr. 50:8."
+    },
+    {
+      "id": 37,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 38,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 39,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 40,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 41,
+      "text": "On Belief in the Resurrection, 2:40."
+    },
+    {
+      "id": 42,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 43,
+      "text": "Treatise 7 on the Mortality, 7."
+    },
+    {
+      "id": 44,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 45,
+      "text": "On the Gospel of St. John, tr. 123:5."
+    },
+    {
+      "id": 46,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 47,
+      "text": "Homilies on Jeremiah., Homily 20:3."
+    },
+    {
+      "id": 48,
+      "text": "The Long Rules,Question 2."
+    },
+    {
+      "id": 49,
+      "text": "Commentary on Ps. 116."
+    },
+    {
+      "id": 50,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 51,
+      "text": "On Belief in the Resurrection, 2:41."
+    },
+    {
+      "id": 52,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 53,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 54,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 55,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 56,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 57,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 58,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 59,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 60,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 61,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 62,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 63,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 64,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 65,
+      "text": "Sermons on N.T. Lessons, 53 :4."
+    },
+    {
+      "id": 66,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 67,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 68,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 69,
+      "text": "Duties of the Clergy, 3:2:13."
+    },
+    {
+      "id": 70,
+      "text": "The Long Rules,Question 35."
+    },
+    {
+      "id": 71,
+      "text": "Homilies on Philippians, homily 6."
+    },
+    {
+      "id": 72,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 73,
+      "text": "Sermons on N.T. Lessons, 38 :6."
+    },
+    {
+      "id": 74,
+      "text": "letters, 41:16. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 75,
+      "text": "letters, 50:14. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 76,
+      "text": "Homilies on Jeremiah., Homily 10:7."
+    },
+    {
+      "id": 77,
+      "text": "Homilies on Jeremiah, homily 1:7."
+    },
+    {
+      "id": 78,
+      "text": "Homilies on Jeremiah, homily 8:8."
+    },
+    {
+      "id": 79,
+      "text": "Homilies on Jeremiah, homily 14:9."
+    },
+    {
+      "id": 80,
+      "text": "Homilies on Genesis, homily 4:5."
+    },
+    {
+      "id": 81,
+      "text": "Homilies on Genesis, homily 1:13."
+    },
+    {
+      "id": 82,
+      "text": "Sermon on N.T. lessons, 1:20."
+    },
+    {
+      "id": 83,
+      "text": "Sermons on N.T. Lessons, 45 :4."
+    },
+    {
+      "id": 84,
+      "text": "Sermons on N.T. Lessons, 41 :7."
+    },
+    {
+      "id": 85,
+      "text": "(إش 3:11) \"فلا يقضي بحسب نظر عينيه ولا يحكم بحسب سمع أذنيه\"."
+    },
+    {
+      "id": 86,
+      "text": "مقالات لطالبي العماد 15: 23."
+    },
+    {
+      "id": 87,
+      "text": "Homilies, 27:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 88,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 89,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 90,
+      "text": "Homilies on Philippians, homily 7."
+    },
+    {
+      "id": 91,
+      "text": "Adv. Arian. 1:11:43 . ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 92,
+      "text": "letters, 55:21. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 93,
+      "text": "letters, 55:34. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 94,
+      "text": "Hom.on Gen., hom.4: 5."
+    },
+    {
+      "id": 95,
+      "text": "Cf. Hom. on Gen., homily 8:6."
+    },
+    {
+      "id": 96,
+      "text": "Homilies on Genesis, homily 8:6."
+    },
+    {
+      "id": 97,
+      "text": "Homilies on Exodus, homily 6."
+    },
+    {
+      "id": 98,
+      "text": "On the Holy Spirit, 8:21."
+    },
+    {
+      "id": 99,
+      "text": "Homilies on Psalms, homily 29."
+    },
+    {
+      "id": 100,
+      "text": "Homilies on Luke, homily 14:2."
+    },
+    {
+      "id": 101,
+      "text": "Homilies on Song of Songs, 2. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 102,
+      "text": "On the Holy Spirit, 8:17."
+    },
+    {
+      "id": 103,
+      "text": "Adv. Arian. 4:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 104,
+      "text": "Sermon on N.T. lessons, 2:13."
+    },
+    {
+      "id": 105,
+      "text": "Treatise 9 on the Advantage of Patience, 23."
+    },
+    {
+      "id": 106,
+      "text": "Adv. Arian. 1:11:40. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 107,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 108,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 109,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 110,
+      "text": "Homilies,4:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 111,
+      "text": "Sermons on N.T. Lessons, 81 :3."
+    },
+    {
+      "id": 112,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 113,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 114,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 115,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 116,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 117,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 118,
+      "text": "letters, 31:3 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 119,
+      "text": "Homilies on Exodus., hom. 6:14."
+    },
+    {
+      "id": 120,
+      "text": "Homilies on Exodus, homily 6:14."
+    },
+    {
+      "id": 121,
+      "text": "Homilies on Song of Songs, 2 . ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 122,
+      "text": "Oration on Holy Baptism, 38."
+    },
+    {
+      "id": 123,
+      "text": "Hom. On 1 Tim., hom. 10. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 124,
+      "text": "Concerning Baptism, ch.2."
+    },
+    {
+      "id": 125,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 126,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 127,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 128,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 129,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 130,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 131,
+      "text": "On the Gospel of St. John, tr. 46:5."
+    },
+    {
+      "id": 132,
+      "text": "Sermons on N.T. Lessons, 87 :11."
+    },
+    {
+      "id": 133,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 134,
+      "text": "Sermons on N.T. Lessons, 52 :10."
+    },
+    {
+      "id": 135,
+      "text": "Sermons on N.T. Lessons, 40 :6."
+    },
+    {
+      "id": 136,
+      "text": "Sermons on N.T. Lessons, 1:33."
+    },
+    {
+      "id": 137,
+      "text": "On the Gospel of St. John, tr. 6:2."
+    },
+    {
+      "id": 138,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 139,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 140,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 141,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 142,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 143,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 144,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 145,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 146,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 147,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 148,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 149,
+      "text": "Epistle to Philippians 3:1:3."
+    },
+    {
+      "id": 150,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 151,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 152,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 153,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 154,
+      "text": "Homilies on Jeremiah., Homily 5:14."
+    },
+    {
+      "id": 155,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 156,
+      "text": "Epistle to Philippians, 3:5 (ACCS)."
+    },
+    {
+      "id": 157,
+      "text": "Epistle to Philippians, 3:6 (ACCS)."
+    },
+    {
+      "id": 158,
+      "text": "Two Letters of Pelagius, 1:15."
+    },
+    {
+      "id": 159,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 160,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 161,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 162,
+      "text": "On Patience, 2:1:4."
+    },
+    {
+      "id": 163,
+      "text": "Epistle to Philippians, 3:8 (ACCS)."
+    },
+    {
+      "id": 164,
+      "text": "Duties of the Clergy, 2:4:12."
+    },
+    {
+      "id": 165,
+      "text": "Duties of the Clergy, 2:6:26."
+    },
+    {
+      "id": 166,
+      "text": "Homilies on Genesis, homily 8:8."
+    },
+    {
+      "id": 167,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 168,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 169,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 170,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 171,
+      "text": "Epistle to Philippians, 3:12 (ACCS)."
+    },
+    {
+      "id": 172,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 173,
+      "text": "Duties of the Clergy, 3:2:11."
+    },
+    {
+      "id": 174,
+      "text": "Sermons on N.T. Lessons, 92 :10."
+    },
+    {
+      "id": 175,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 176,
+      "text": "Homilies, 44:8. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 177,
+      "text": "Homilies, 19:9. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 178,
+      "text": "Paedagogus 1:1:6. راجع ترجمة فليوباترون."
+    },
+    {
+      "id": 179,
+      "text": "Sermons on N.T. Lessons, 46 :10."
+    },
+    {
+      "id": 180,
+      "text": "Sermons on N.T. Lessons, 41 :10."
+    },
+    {
+      "id": 181,
+      "text": "Sermons on N.T. Lessons, 55 :8."
+    },
+    {
+      "id": 182,
+      "text": "Homilies, 26:17. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 183,
+      "text": "Commentary on Ps. 120."
+    },
+    {
+      "id": 184,
+      "text": "Homilies on Song of Songs, 6. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 185,
+      "text": "Homilies on Song of Songs, 8. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 186,
+      "text": "Homilies on Jeremiah., Homily 18:3."
+    },
+    {
+      "id": 187,
+      "text": "Homilies on Jeremiah., Homily 13:3."
+    },
+    {
+      "id": 188,
+      "text": "Letters, 42:1."
+    },
+    {
+      "id": 189,
+      "text": "Epistle 76:2."
+    },
+    {
+      "id": 190,
+      "text": "Concerning Repentance, 2:43."
+    },
+    {
+      "id": 191,
+      "text": "Sermons on N.T. Lessons, 41 :6."
+    },
+    {
+      "id": 192,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 193,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 194,
+      "text": "Two Letters of Pelagius, 3:19."
+    },
+    {
+      "id": 195,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 196,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 197,
+      "text": "Homilies on Gen., homily 3:6."
+    },
+    {
+      "id": 198,
+      "text": "The Hexaemeron, homily 9:2."
+    },
+    {
+      "id": 199,
+      "text": "Homilies on Jeremiah., Homily 5:2."
+    },
+    {
+      "id": 200,
+      "text": "بعد المعنى الحرفي للآية، انتقل إلى المعنى الروحي."
+    },
+    {
+      "id": 201,
+      "text": "Homilies on Jeremiah., Homily 7:3."
+    },
+    {
+      "id": 202,
+      "text": "Sermon on N.T. lessons, 1:23,24."
+    },
+    {
+      "id": 203,
+      "text": "Paedagogus 2:1. راجع ترجمة فليوباترون"
+    },
+    {
+      "id": 204,
+      "text": "Homilies on Jeremiah., Homily 12:8."
+    },
+    {
+      "id": 205,
+      "text": "Homilies on Gen., homily 13:2."
+    },
+    {
+      "id": 206,
+      "text": "Fragments from Catena (Frs of Church ,vol. 97, p. 316.)"
+    },
+    {
+      "id": 207,
+      "text": "Homilies on Genesis, homily 9:2."
+    },
+    {
+      "id": 208,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 209,
+      "text": "Commentary on Ps. 143."
+    },
+    {
+      "id": 210,
+      "text": "Homilies, 49:1. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 211,
+      "text": "Homilies, 17:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 212,
+      "text": "Homilies, 24:2. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 213,
+      "text": "The Long Rules, Question 3."
+    },
+    {
+      "id": 214,
+      "text": "The Long Rules, Question 8."
+    },
+    {
+      "id": 215,
+      "text": "Concerning Baptism, ch. 2."
+    },
+    {
+      "id": 216,
+      "text": "Homilies on Jeremiah., Homily 20:9."
+    },
+    {
+      "id": 217,
+      "text": "Fragments from Catena (Frs. of Church ,vol. 97, p. 3.)"
+    },
+    {
+      "id": 218,
+      "text": "Homilies on Leviticus, homily 11:1:5-6."
+    },
+    {
+      "id": 219,
+      "text": "Homilies on Leviticus, homily 2:5:2."
+    },
+    {
+      "id": 220,
+      "text": "Sermons, 22:4."
+    },
+    {
+      "id": 221,
+      "text": "On the Trinity, 11:35-36."
+    },
+    {
+      "id": 222,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 223,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 224,
+      "text": "Homilies on Genesis, homily 1:13."
+    },
+    {
+      "id": 225,
+      "text": "Epistle to Philippians 4:1 (ACCS)."
+    },
+    {
+      "id": 226,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 227,
+      "text": "Comm. On Luke, Sermon 64."
+    },
+    {
+      "id": 228,
+      "text": "Epistle to Philippians 4:2."
+    },
+    {
+      "id": 229,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 230,
+      "text": "Homilies on Luke, homily 11:6."
+    },
+    {
+      "id": 231,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 232,
+      "text": "Hom. On 1Tim., hom. 2. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 233,
+      "text": "Epistle to Philippians 4:4-5 (ACCS)."
+    },
+    {
+      "id": 234,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 235,
+      "text": "Epistle to Philippians 4:7:1 (ACCS)."
+    },
+    {
+      "id": 236,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 237,
+      "text": "Epistle to Philippians 4:6 (ACCS)."
+    },
+    {
+      "id": 238,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 239,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 240,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 241,
+      "text": "Epistle to Philippians 4:7."
+    },
+    {
+      "id": 242,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 243,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 244,
+      "text": "Epistle to Philippians 4:8-9 (ACCS)."
+    },
+    {
+      "id": 245,
+      "text": "Introductory Commentary on 2 John."
+    },
+    {
+      "id": 246,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 247,
+      "text": "Of the Holy Spirit Book 1:17:108."
+    },
+    {
+      "id": 248,
+      "text": "على رسالة أفسس 1، 13 ."
+    },
+    {
+      "id": 249,
+      "text": "In Eph, hom 2."
+    },
+    {
+      "id": 250,
+      "text": "Augustine: Enchiridion, 75."
+    },
+    {
+      "id": 251,
+      "text": "Augustine: Continence, 15."
+    },
+    {
+      "id": 252,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 253,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 254,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 255,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 256,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 257,
+      "text": "Cf. Adam Clarke: Comm. on phil. 4:11."
+    },
+    {
+      "id": 258,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 259,
+      "text": "Duties of the Clergy, 2:17:90."
+    },
+    {
+      "id": 260,
+      "text": "Commentary on Rom. 4:9."
+    },
+    {
+      "id": 261,
+      "text": "On the Good of Marriage, 25."
+    },
+    {
+      "id": 262,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 263,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 264,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 265,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 266,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 267,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 268,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 269,
+      "text": "Homilies on Leviticus 4:9:1."
+    },
+    {
+      "id": 270,
+      "text": "Treatise 4 on the Lord’s Prayer, 33."
+    },
+    {
+      "id": 271,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 272,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 273,
+      "text": "Epistle to Philippians 4:20."
+    },
+    {
+      "id": 274,
+      "text": "Epistle to Philippians 4:21."
+    },
+    {
+      "id": 275,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 276,
+      "text": "Epistle to Philippians 4:21."
+    },
+    {
+      "id": 277,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 278,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 279,
+      "text": "Letters , 63:96."
+    },
+    {
+      "id": 280,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 281,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 282,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 283,
+      "text": "Comm. On 1Cor. 1:2 [1:15]."
+    },
+    {
+      "id": 284,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 285,
+      "text": "Homilies on Leviticus, homily 4:4."
+    },
+    {
+      "id": 286,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 287,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 288,
+      "text": "Letter 16:1."
+    },
+    {
+      "id": 289,
+      "text": "On the Gospel of St. John, tr. 108:2."
+    },
+    {
+      "id": 290,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 291,
+      "text": "Homilies on Philippians, homily 1."
+    },
+    {
+      "id": 292,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 293,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 294,
+      "text": "Hom. on Gen., hom, 8:7."
+    },
+    {
+      "id": 295,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 296,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 297,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 298,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 299,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 300,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 301,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 302,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 303,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 304,
+      "text": "Epistles, 72:14."
+    },
+    {
+      "id": 305,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 306,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 307,
+      "text": "Hom. On 1Tim., hom. 3. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 308,
+      "text": "Sermons on N.T. Lessons, 87 :9."
+    },
+    {
+      "id": 309,
+      "text": "Sermons on N.T. Lessons, 87 :5."
+    },
+    {
+      "id": 310,
+      "text": "Sermons on N.T. Lessons, 87 :11."
+    },
+    {
+      "id": 311,
+      "text": "On the Gospel of St. John, tr. 5:19."
+    },
+    {
+      "id": 312,
+      "text": "On the Gospel of St. John, tr. 46:6."
+    },
+    {
+      "id": 313,
+      "text": "On the Gospel of St. John, tr. 50:8."
+    },
+    {
+      "id": 314,
+      "text": "Homilies on Philippians, homily 2."
+    },
+    {
+      "id": 315,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 316,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 317,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 318,
+      "text": "On Belief in the Resurrection, 2:40."
+    },
+    {
+      "id": 319,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 320,
+      "text": "Treatise 7 on the Mortality, 7."
+    },
+    {
+      "id": 321,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 322,
+      "text": "On the Gospel of St. John, tr. 123:5."
+    },
+    {
+      "id": 323,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 324,
+      "text": "Homilies on Jeremiah., Homily 20:3."
+    },
+    {
+      "id": 325,
+      "text": "The Long Rules,Question 2."
+    },
+    {
+      "id": 326,
+      "text": "Commentary on Ps. 116."
+    },
+    {
+      "id": 327,
+      "text": "Homilies on Philippians, homily 3."
+    },
+    {
+      "id": 328,
+      "text": "On Belief in the Resurrection, 2:41."
+    },
+    {
+      "id": 329,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 330,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 331,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 332,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 333,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 334,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 335,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 336,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 337,
+      "text": "Homilies on Philippians, homily 4."
+    },
+    {
+      "id": 338,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 339,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 340,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 341,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 342,
+      "text": "Sermons on N.T. Lessons, 53 :4."
+    },
+    {
+      "id": 343,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 344,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 345,
+      "text": "Homilies on Philippians, homily 5."
+    },
+    {
+      "id": 346,
+      "text": "Duties of the Clergy, 3:2:13."
+    },
+    {
+      "id": 347,
+      "text": "The Long Rules,Question 35."
+    },
+    {
+      "id": 348,
+      "text": "Homilies on Philippians, homily 6."
+    },
+    {
+      "id": 349,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 350,
+      "text": "Sermons on N.T. Lessons, 38 :6."
+    },
+    {
+      "id": 351,
+      "text": "letters, 41:16. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 352,
+      "text": "letters, 50:14. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 353,
+      "text": "Homilies on Jeremiah., Homily 10:7."
+    },
+    {
+      "id": 354,
+      "text": "Homilies on Jeremiah, homily 1:7."
+    },
+    {
+      "id": 355,
+      "text": "Homilies on Jeremiah, homily 8:8."
+    },
+    {
+      "id": 356,
+      "text": "Homilies on Jeremiah, homily 14:9."
+    },
+    {
+      "id": 357,
+      "text": "Homilies on Genesis, homily 4:5."
+    },
+    {
+      "id": 358,
+      "text": "Homilies on Genesis, homily 1:13."
+    },
+    {
+      "id": 359,
+      "text": "Sermon on N.T. lessons, 1:20."
+    },
+    {
+      "id": 360,
+      "text": "Sermons on N.T. Lessons, 45 :4."
+    },
+    {
+      "id": 361,
+      "text": "Sermons on N.T. Lessons, 41 :7."
+    },
+    {
+      "id": 362,
+      "text": "إش 3:11 \"فلا يقضي بحسب نظر عينيه ولا يحكم بحسب سمع أذنيه\"."
+    },
+    {
+      "id": 363,
+      "text": "مقالات لطالبي العماد 15: 23."
+    },
+    {
+      "id": 364,
+      "text": "Homilies, 27:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 365,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 366,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 367,
+      "text": "Homilies on Philippians, homily 7."
+    },
+    {
+      "id": 368,
+      "text": "Adv. Arian. 1:11:43 . ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 369,
+      "text": "letters, 55:21. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 370,
+      "text": "letters, 55:34. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 371,
+      "text": "Hom.on Gen., hom.4: 5."
+    },
+    {
+      "id": 372,
+      "text": "Cf. Hom. on Gen., homily 8:6."
+    },
+    {
+      "id": 373,
+      "text": "Homilies on Genesis, homily 8:6."
+    },
+    {
+      "id": 374,
+      "text": "Homilies on Exodus, homily 6."
+    },
+    {
+      "id": 375,
+      "text": "On the Holy Spirit, 8:21."
+    },
+    {
+      "id": 376,
+      "text": "Homilies on Psalms, homily 29."
+    },
+    {
+      "id": 377,
+      "text": "Homilies on Luke, homily 14:2."
+    },
+    {
+      "id": 378,
+      "text": "Homilies on Song of Songs, 2. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 379,
+      "text": "On the Holy Spirit, 8:17."
+    },
+    {
+      "id": 380,
+      "text": "Adv. Arian. 4:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 381,
+      "text": "Sermon on N.T. lessons, 2:13."
+    },
+    {
+      "id": 382,
+      "text": "Treatise 9 on the Advantage of Patience, 23."
+    },
+    {
+      "id": 383,
+      "text": "Adv. Arian. 1:11:40. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 384,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 385,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 386,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 387,
+      "text": "Homilies,4:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 388,
+      "text": "Sermons on N.T. Lessons, 81 :3."
+    },
+    {
+      "id": 389,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 390,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 391,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 392,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 393,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 394,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 395,
+      "text": "letters, 31:3 ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 396,
+      "text": "Homilies on Exodus., hom. 6:14."
+    },
+    {
+      "id": 397,
+      "text": "Homilies on Exodus, homily 6:14."
+    },
+    {
+      "id": 398,
+      "text": "Homilies on Song of Songs, 2 . ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 399,
+      "text": "Oration on Holy Baptism, 38."
+    },
+    {
+      "id": 400,
+      "text": "Hom. On 1 Tim., hom. 10. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 401,
+      "text": "Concerning Baptism, ch.2."
+    },
+    {
+      "id": 402,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 403,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 404,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 405,
+      "text": "Homilies on Philippians, homily 8."
+    },
+    {
+      "id": 406,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 407,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 408,
+      "text": "On the Gospel of St. John, tr. 46:5."
+    },
+    {
+      "id": 409,
+      "text": "Sermons on N.T. Lessons, 87 :11."
+    },
+    {
+      "id": 410,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 411,
+      "text": "Sermons on N.T. Lessons, 52 :10."
+    },
+    {
+      "id": 412,
+      "text": "Sermons on N.T. Lessons, 40 :6."
+    },
+    {
+      "id": 413,
+      "text": "Sermons on N.T. Lessons, 1:33."
+    },
+    {
+      "id": 414,
+      "text": "On the Gospel of St. John, tr. 6:2."
+    },
+    {
+      "id": 415,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 416,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 417,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 418,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 419,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 420,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 421,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 422,
+      "text": "Homilies on Philippians, homily 9."
+    },
+    {
+      "id": 423,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 424,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 425,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 426,
+      "text": "Epistle to Philippians 3:1:3."
+    },
+    {
+      "id": 427,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 428,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 429,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 430,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 431,
+      "text": "Homilies on Jeremiah., Homily 5:14."
+    },
+    {
+      "id": 432,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 433,
+      "text": "Epistle to Philippians, 3:5 (ACCS)."
+    },
+    {
+      "id": 434,
+      "text": "Epistle to Philippians, 3:6 (ACCS)."
+    },
+    {
+      "id": 435,
+      "text": "Two Letters of Pelagius, 1:15."
+    },
+    {
+      "id": 436,
+      "text": "Homilies on Philippians, homily 10."
+    },
+    {
+      "id": 437,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 438,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 439,
+      "text": "On Patience, 2:1:4."
+    },
+    {
+      "id": 440,
+      "text": "Epistle to Philippians, 3:8 (ACCS)."
+    },
+    {
+      "id": 441,
+      "text": "Duties of the Clergy, 2:4:12."
+    },
+    {
+      "id": 442,
+      "text": "Duties of the Clergy, 2:6:26."
+    },
+    {
+      "id": 443,
+      "text": "Homilies on Genesis, homily 8:8."
+    },
+    {
+      "id": 444,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 445,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 446,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 447,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 448,
+      "text": "Epistle to Philippians, 3:12 (ACCS)."
+    },
+    {
+      "id": 449,
+      "text": "Homilies on Song of Songs, 4. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 450,
+      "text": "Duties of the Clergy, 3:2:11."
+    },
+    {
+      "id": 451,
+      "text": "Sermons on N.T. Lessons, 92 :10."
+    },
+    {
+      "id": 452,
+      "text": "Homilies on Philippians, homily 11."
+    },
+    {
+      "id": 453,
+      "text": "Homilies, 44:8. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 454,
+      "text": "Homilies, 19:9. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 455,
+      "text": "Paedagogus 1:1:6. راجع ترجمة فليوباترون."
+    },
+    {
+      "id": 456,
+      "text": "Sermons on N.T. Lessons, 46 :10."
+    },
+    {
+      "id": 457,
+      "text": "Sermons on N.T. Lessons, 41 :10."
+    },
+    {
+      "id": 458,
+      "text": "Sermons on N.T. Lessons, 55 :8."
+    },
+    {
+      "id": 459,
+      "text": "Homilies, 26:17. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 460,
+      "text": "Commentary on Ps. 120."
+    },
+    {
+      "id": 461,
+      "text": "Homilies on Song of Songs, 6. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 462,
+      "text": "Homilies on Song of Songs, 8. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 463,
+      "text": "Homilies on Jeremiah., Homily 18:3."
+    },
+    {
+      "id": 464,
+      "text": "Homilies on Jeremiah., Homily 13:3."
+    },
+    {
+      "id": 465,
+      "text": "Letters, 42:1."
+    },
+    {
+      "id": 466,
+      "text": "Epistle 76:2."
+    },
+    {
+      "id": 467,
+      "text": "Concerning Repentance, 2:43."
+    },
+    {
+      "id": 468,
+      "text": "Sermons on N.T. Lessons, 41 :6."
+    },
+    {
+      "id": 469,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 470,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 471,
+      "text": "Two Letters of Pelagius, 3:19."
+    },
+    {
+      "id": 472,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 473,
+      "text": "Homilies on Philippians, homily 12."
+    },
+    {
+      "id": 474,
+      "text": "Homilies on Gen., homily 3:6."
+    },
+    {
+      "id": 475,
+      "text": "The Hexaemeron, homily 9:2."
+    },
+    {
+      "id": 476,
+      "text": "Homilies on Jeremiah., Homily 5:2."
+    },
+    {
+      "id": 477,
+      "text": "بعد المعنى الحرفي للآية، انتقل إلى المعنى الروحي."
+    },
+    {
+      "id": 478,
+      "text": "Homilies on Jeremiah., Homily 7:3."
+    },
+    {
+      "id": 479,
+      "text": "Sermon on N.T. lessons, 1:23,24."
+    },
+    {
+      "id": 480,
+      "text": "Paedagogus 2:1. راجع ترجمة فليوباترون"
+    },
+    {
+      "id": 481,
+      "text": "Homilies on Jeremiah., Homily 12:8."
+    },
+    {
+      "id": 482,
+      "text": "Homilies on Gen., homily 13:2."
+    },
+    {
+      "id": 483,
+      "text": "Fragments from Catena (Frs of Church ,vol. 97, p. 316.)"
+    },
+    {
+      "id": 484,
+      "text": "Homilies on Genesis, homily 9:2."
+    },
+    {
+      "id": 485,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 486,
+      "text": "Commentary on Ps. 143."
+    },
+    {
+      "id": 487,
+      "text": "Homilies, 49:1. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 488,
+      "text": "Homilies, 17:4. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 489,
+      "text": "Homilies, 24:2. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 490,
+      "text": "The Long Rules, Question 3."
+    },
+    {
+      "id": 491,
+      "text": "The Long Rules, Question 8."
+    },
+    {
+      "id": 492,
+      "text": "Concerning Baptism, ch. 2."
+    },
+    {
+      "id": 493,
+      "text": "Homilies on Jeremiah., Homily 20:9."
+    },
+    {
+      "id": 494,
+      "text": "Fragments from Catena (Frs. of Church ,vol. 97, p. 3.)"
+    },
+    {
+      "id": 495,
+      "text": "Homilies on Leviticus, homily 11:1:5-6."
+    },
+    {
+      "id": 496,
+      "text": "Homilies on Leviticus, homily 2:5:2."
+    },
+    {
+      "id": 497,
+      "text": "Sermons, 22:4."
+    },
+    {
+      "id": 498,
+      "text": "On the Trinity, 11:35-36."
+    },
+    {
+      "id": 499,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 500,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 501,
+      "text": "Homilies on Genesis, homily 1:13."
+    },
+    {
+      "id": 502,
+      "text": "Epistle to Philippians 4:1 (ACCS)."
+    },
+    {
+      "id": 503,
+      "text": "Homilies on Philippians, homily 13."
+    },
+    {
+      "id": 504,
+      "text": "Comm. On Luke, Sermon 64."
+    },
+    {
+      "id": 505,
+      "text": "Epistle to Philippians 4:2."
+    },
+    {
+      "id": 506,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 507,
+      "text": "Homilies on Luke, homily 11:6."
+    },
+    {
+      "id": 508,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 509,
+      "text": "Hom. On 1Tim., hom. 2. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 510,
+      "text": "Epistle to Philippians 4:4-5 (ACCS)."
+    },
+    {
+      "id": 511,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 512,
+      "text": "Epistle to Philippians 4:7:1 (ACCS)."
+    },
+    {
+      "id": 513,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 514,
+      "text": "Epistle to Philippians 4:6 (ACCS)."
+    },
+    {
+      "id": 515,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 516,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 517,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 518,
+      "text": "Epistle to Philippians 4:7."
+    },
+    {
+      "id": 519,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 520,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 521,
+      "text": "Epistle to Philippians 4:8-9 (ACCS)."
+    },
+    {
+      "id": 522,
+      "text": "Introductory Commentary on 2 John."
+    },
+    {
+      "id": 523,
+      "text": "In Eph. hom 23."
+    },
+    {
+      "id": 524,
+      "text": "Of the Holy Spirit Book 1:17:108."
+    },
+    {
+      "id": 525,
+      "text": "على رسالة أفسس 1، 13 ."
+    },
+    {
+      "id": 526,
+      "text": "In Eph, hom 2."
+    },
+    {
+      "id": 527,
+      "text": "Augustine: Enchiridion, 75."
+    },
+    {
+      "id": 528,
+      "text": "Augustine: Continence, 15."
+    },
+    {
+      "id": 529,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 530,
+      "text": "Homilies on Song of Songs, 15. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 531,
+      "text": "Homilies on Philippians, homily 14."
+    },
+    {
+      "id": 532,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 533,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 534,
+      "text": "Cf. Adam Clarke: Comm. on phil. 4:11."
+    },
+    {
+      "id": 535,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 536,
+      "text": "Duties of the Clergy, 2:17:90."
+    },
+    {
+      "id": 537,
+      "text": "Commentary on Rom. 4:9."
+    },
+    {
+      "id": 538,
+      "text": "On the Good of Marriage, 25."
+    },
+    {
+      "id": 539,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 540,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 541,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 542,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 543,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 544,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 545,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 546,
+      "text": "Homilies on Leviticus 4:9:1."
+    },
+    {
+      "id": 547,
+      "text": "Treatise 4 on the Lord’s Prayer, 33."
+    },
+    {
+      "id": 548,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 549,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 550,
+      "text": "Epistle to Philippians 4:20."
+    },
+    {
+      "id": 551,
+      "text": "Epistle to Philippians 4:21."
+    },
+    {
+      "id": 552,
+      "text": "Homilies on Philippians, homily 15."
+    },
+    {
+      "id": 553,
+      "text": "Epistle to Philippians 4:21."
+    },
+    {
+      "id": 554,
+      "text": "Homilies on Philippians, homily 15."
+    }
+  ]
+}

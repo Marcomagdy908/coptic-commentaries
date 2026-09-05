@@ -1,0 +1,659 @@
+{
+  "book_id": 54,
+  "book_title": "تفسير الرسالة الأولى إلى أهل تسالونيكي",
+  "testament": "New Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "مقدمة الرسالة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "أبوة الرسول"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "إرسال تيموثاوس"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "مفهوم الحياة الفاضلة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "حياة السهر"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "مراجع شرح الرسالة الأولى إلى أهل تسالونيكي"
+    },
+    {
+      "id": 2,
+      "text": "\"سلوانس\" الاسم اللاتيني لسيلا اليوناني, وقد أخذ الاسم الأخير عن الأصل الآرامي \"شنيلا\" أو \"شاول\" ومعناه \"مسئول\" ."
+    },
+    {
+      "id": 3,
+      "text": "W. M. Ramsay: St. Paul, the Traveler and Roman Citizen, London 1895, p228."
+    },
+    {
+      "id": 4,
+      "text": "In 1 Thess., h om 1."
+    },
+    {
+      "id": 5,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 6,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 7,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 8,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 9,
+      "text": "In 1 Thess., hom. 2."
+    },
+    {
+      "id": 10,
+      "text": "Ep., 30."
+    },
+    {
+      "id": 11,
+      "text": "In 1 Thess., hom. 2."
+    },
+    {
+      "id": 12,
+      "text": "In 2 Cor., Hom. 13."
+    },
+    {
+      "id": 13,
+      "text": "In 1 Thess, hom. 2."
+    },
+    {
+      "id": 14,
+      "text": "In 1 Thess, hom. 2."
+    },
+    {
+      "id": 15,
+      "text": "In 2 Cor., hom. 15:3, 4."
+    },
+    {
+      "id": 16,
+      "text": "In 1 Thess., hom. 3"
+    },
+    {
+      "id": 17,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 18,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 19,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 20,
+      "text": "Serm on N.T.54: 4."
+    },
+    {
+      "id": 21,
+      "text": "In 1 Thess, hom 4"
+    },
+    {
+      "id": 22,
+      "text": "Of the Holy Spirit 3: 14"
+    },
+    {
+      "id": 23,
+      "text": "On the Holy Spirit 21"
+    },
+    {
+      "id": 24,
+      "text": "In Thess., hom 5."
+    },
+    {
+      "id": 25,
+      "text": "In Thess., hom 5."
+    },
+    {
+      "id": 26,
+      "text": "City of God 14: 13."
+    },
+    {
+      "id": 27,
+      "text": "Duties of Clergy 3: 12."
+    },
+    {
+      "id": 28,
+      "text": "راجع المؤلف: الحب الأخوي، 1964، ص 38-40."
+    },
+    {
+      "id": 29,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 30,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 31,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 32,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 33,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 34,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 35,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 36,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 37,
+      "text": "Ep. 22: 2 On perfection of life of Solitaries."
+    },
+    {
+      "id": 38,
+      "text": "Selected Demonstration 8; Of theResurrection of the Dead, 18."
+    },
+    {
+      "id": 39,
+      "text": "On Belief in Resurrection, 2: 39."
+    },
+    {
+      "id": 40,
+      "text": "On the Desease of Statyrus 1: 10."
+    },
+    {
+      "id": 41,
+      "text": "Ep 62."
+    },
+    {
+      "id": 42,
+      "text": "Ep. 101."
+    },
+    {
+      "id": 43,
+      "text": "Treat.7 on Mortality 21."
+    },
+    {
+      "id": 44,
+      "text": "In 2 Gor hom 1: 7."
+    },
+    {
+      "id": 45,
+      "text": "In 1 Thess, hom 7."
+    },
+    {
+      "id": 46,
+      "text": "Ibid 8."
+    },
+    {
+      "id": 47,
+      "text": "On Making of Man 22."
+    },
+    {
+      "id": 48,
+      "text": "Adv. Eunomins 12. 1."
+    },
+    {
+      "id": 49,
+      "text": "On Ps. 109: 56."
+    },
+    {
+      "id": 50,
+      "text": "ي رى الآباء في كلمات السيد المسيح والرسول بولس ما يمنعنا من البحث عن معرفة الأزمنة، فيقول القديس أغسطينوس :[ هذه العبارة تكفي بوضوح أنه ليس لإنسان أن يدعى لنفسه معرفة ذلك الزمان بأي تخمين] [تفسير المزامير 6: 1] ."
+    },
+    {
+      "id": 51,
+      "text": "Sermons on the N. T., hom 43: 8."
+    },
+    {
+      "id": 52,
+      "text": "On Ps. 63: 13."
+    },
+    {
+      "id": 53,
+      "text": "In 1. Thess, hom. 9."
+    },
+    {
+      "id": 54,
+      "text": "Ladder of Heaven 29: 3, 9"
+    },
+    {
+      "id": 55,
+      "text": "In 1. Thess, hom 9"
+    },
+    {
+      "id": 56,
+      "text": "مناظرات كاسيان 7: 5 ."
+    },
+    {
+      "id": 57,
+      "text": "In 1. Thess, hom., 9."
+    },
+    {
+      "id": 58,
+      "text": "In 1 Thess, hom 10."
+    },
+    {
+      "id": 59,
+      "text": "للمؤلف: القديس يوحنا ذهبي الفم، 1979 ؛ الحب الرعوي 1965، ص 74-82."
+    },
+    {
+      "id": 60,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 61,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 62,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 63,
+      "text": "الحب الرعوي ، 1966، ص 592 ."
+    },
+    {
+      "id": 64,
+      "text": "الحب الرعوي، 1966، ص 594."
+    },
+    {
+      "id": 65,
+      "text": "الحب الرعوي، 1966، ص 570-601."
+    },
+    {
+      "id": 66,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 67,
+      "text": "Hom 2 On Annunciation to the Holy virgin Marry."
+    },
+    {
+      "id": 68,
+      "text": "الحب الرعوي، 1966، ص 946 ."
+    },
+    {
+      "id": 69,
+      "text": "On Ps. 31."
+    },
+    {
+      "id": 70,
+      "text": "On Ps. 1: 12."
+    },
+    {
+      "id": 71,
+      "text": "On Ps. 38: 13."
+    },
+    {
+      "id": 72,
+      "text": "مناظرات كاسيان 9: 3 ."
+    },
+    {
+      "id": 73,
+      "text": "Ep. 22: 37."
+    },
+    {
+      "id": 74,
+      "text": "الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ."
+    },
+    {
+      "id": 75,
+      "text": "In 1. Thess., hom. 11."
+    },
+    {
+      "id": 76,
+      "text": "In 1. Thess., hom. 11."
+    },
+    {
+      "id": 77,
+      "text": "Of the Holy Spirit 3: 4."
+    },
+    {
+      "id": 78,
+      "text": "Adv. Haer 5: 6: 1."
+    },
+    {
+      "id": 79,
+      "text": "In 1. Thess., hom. 11."
+    },
+    {
+      "id": 80,
+      "text": "\"سلوانس\" الاسم اللاتيني لسيلا اليوناني, وقد أخذ الاسم الأخير عن الأصل الآرامي \"شنيلا\" أو \"شاول\" ومعناه \"مسئول\" ."
+    },
+    {
+      "id": 81,
+      "text": "W. M. Ramsay: St. Paul, the Traveler and Roman Citizen, London 1895, p228."
+    },
+    {
+      "id": 82,
+      "text": "In 1 Thess., h om 1."
+    },
+    {
+      "id": 83,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 84,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 85,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 86,
+      "text": "In 1 Thess., hom. 1."
+    },
+    {
+      "id": 87,
+      "text": "In 1 Thess., hom. 2."
+    },
+    {
+      "id": 88,
+      "text": "Ep., 30."
+    },
+    {
+      "id": 89,
+      "text": "In 1 Thess., hom. 2."
+    },
+    {
+      "id": 90,
+      "text": "In 2 Cor., Hom. 13."
+    },
+    {
+      "id": 91,
+      "text": "In 1 Thess, hom. 2."
+    },
+    {
+      "id": 92,
+      "text": "In 1 Thess, hom. 2."
+    },
+    {
+      "id": 93,
+      "text": "In 2 Cor., hom. 15:3, 4."
+    },
+    {
+      "id": 94,
+      "text": "In 1 Thess., hom. 3"
+    },
+    {
+      "id": 95,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 96,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 97,
+      "text": "In 1 Thess., hom. 4."
+    },
+    {
+      "id": 98,
+      "text": "Serm on N.T.54: 4."
+    },
+    {
+      "id": 99,
+      "text": "In 1 Thess, hom 4"
+    },
+    {
+      "id": 100,
+      "text": "Of the Holy Spirit 3: 14"
+    },
+    {
+      "id": 101,
+      "text": "On the Holy Spirit 21"
+    },
+    {
+      "id": 102,
+      "text": "In Thess., hom 5."
+    },
+    {
+      "id": 103,
+      "text": "In Thess., hom 5."
+    },
+    {
+      "id": 104,
+      "text": "City of God 14: 13."
+    },
+    {
+      "id": 105,
+      "text": "Duties of Clergy 3: 12."
+    },
+    {
+      "id": 106,
+      "text": "راجع المؤلف : الحب الأخوي، 1964، ص 38-40."
+    },
+    {
+      "id": 107,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 108,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 109,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 110,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 111,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 112,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 113,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 114,
+      "text": "Instit 10: 7. f."
+    },
+    {
+      "id": 115,
+      "text": "Ep. 22: 2 On perfection of life of Solitaries."
+    },
+    {
+      "id": 116,
+      "text": "Selected Demonstration 8; Of theResurrection of the Dead, 18."
+    },
+    {
+      "id": 117,
+      "text": "On Belief in Resurrection, 2: 39."
+    },
+    {
+      "id": 118,
+      "text": "On the Desease of Statyrus 1: 10."
+    },
+    {
+      "id": 119,
+      "text": "Ep 62."
+    },
+    {
+      "id": 120,
+      "text": "Ep. 101."
+    },
+    {
+      "id": 121,
+      "text": "Treat.7 on Mortality 21."
+    },
+    {
+      "id": 122,
+      "text": "In 2 Gor hom 1: 7."
+    },
+    {
+      "id": 123,
+      "text": "In 1 Thess, hom 7."
+    },
+    {
+      "id": 124,
+      "text": "Ibid 8."
+    },
+    {
+      "id": 125,
+      "text": "On Making of Man 22."
+    },
+    {
+      "id": 126,
+      "text": "Adv. Eunomins 12. 1."
+    },
+    {
+      "id": 127,
+      "text": "On Ps. 109: 56."
+    },
+    {
+      "id": 128,
+      "text": "ي رى الآباء في كلمات السيد المسيح والرسول بولس ما يمنعنا من البحث عن معرفة الأزمنة، فيقول القديس أغسطينوس :[ هذه العبارة تكفي بوضوح أنه ليس لإنسان أن يدعى لنفسه معرفة ذلك الزمان بأي تخمين] [تفسير المزامير 6: 1] ."
+    },
+    {
+      "id": 129,
+      "text": "Sermons on the N. T., hom 43: 8."
+    },
+    {
+      "id": 130,
+      "text": "On Ps. 63: 13."
+    },
+    {
+      "id": 131,
+      "text": "In 1. Thess, hom. 9."
+    },
+    {
+      "id": 132,
+      "text": "Ladder of Heaven 29: 3, 9"
+    },
+    {
+      "id": 133,
+      "text": "In 1. Thess, hom 9"
+    },
+    {
+      "id": 134,
+      "text": "مناظرات كاسيان 7: 5 ."
+    },
+    {
+      "id": 135,
+      "text": "In 1. Thess, hom., 9."
+    },
+    {
+      "id": 136,
+      "text": "In 1 Thess, hom 10."
+    },
+    {
+      "id": 137,
+      "text": "للمؤلف: القديس يوحنا ذهبي الفم، 1979 ؛ الحب الرعوي 1965، ص 74-82."
+    },
+    {
+      "id": 138,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 139,
+      "text": "In 1. Thess, hom., 10."
+    },
+    {
+      "id": 140,
+      "text": "In 1. Thess, hom ., 10."
+    },
+    {
+      "id": 141,
+      "text": "الحب الرعوي ، 1966، ص 592 ."
+    },
+    {
+      "id": 142,
+      "text": "الحب الرعوي، 1966، ص 594."
+    },
+    {
+      "id": 143,
+      "text": "الحب الرعوي، 1966، ص 570-601."
+    },
+    {
+      "id": 144,
+      "text": "In 1. Thess, hom ., 10."
+    },
+    {
+      "id": 145,
+      "text": "Hom 2 On Annunciation to the Holy virgin Marry."
+    },
+    {
+      "id": 146,
+      "text": "الحب الرعوي، 1966، ص 946 ."
+    },
+    {
+      "id": 147,
+      "text": "On Ps. 31."
+    },
+    {
+      "id": 148,
+      "text": "On Ps. 1: 12."
+    },
+    {
+      "id": 149,
+      "text": "On Ps. 38: 13."
+    },
+    {
+      "id": 150,
+      "text": "مناظرات كاسيان 9: 3 ."
+    },
+    {
+      "id": 151,
+      "text": "Ep. 22: 37."
+    },
+    {
+      "id": 152,
+      "text": "الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ."
+    },
+    {
+      "id": 153,
+      "text": "In 1. Thess., hom. 11."
+    },
+    {
+      "id": 154,
+      "text": "In 1. Thess., hom. 11."
+    },
+    {
+      "id": 155,
+      "text": "Of the Holy Spirit 3: 4."
+    },
+    {
+      "id": 156,
+      "text": "Adv. Haer 5: 6: 1."
+    },
+    {
+      "id": 157,
+      "text": "In 1. Thess., hom. 11."
+    }
+  ]
+}

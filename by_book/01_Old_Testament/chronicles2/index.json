@@ -1,0 +1,51 @@
+{
+  "book_id": 17,
+  "book_title": "تفسير سفر أخبار الأيام الثاني",
+  "testament": "Old Testament",
+  "chapters_count": 8,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 4,
+      "topic": "الأصحاح 4"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "الأصحاح 6"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "الأصحاح 18"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "الأصحاح 19"
+    },
+    {
+      "chapter_id": 23,
+      "topic": "الأصحاح 23"
+    },
+    {
+      "chapter_id": 27,
+      "topic": "الأصحاح 27"
+    },
+    {
+      "chapter_id": 35,
+      "topic": "الأصحاح 35"
+    },
+    {
+      "chapter_id": 36,
+      "topic": "يهوآحاز (3 شهور، عَزَلَته مصر)"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Hard Sayings of the Bible, 1996 by Walter C. Kaiser Jr. ، Peter H. Davids ، F. F. Bruce ، Manfred T. Brauch ، published by InterVarsity Press."
+    },
+    {
+      "id": 2,
+      "text": "Geisler, N. L., & Howe, T. A. . When critics ask : A popular handbook on Bible difficulties . Wheaton, Ill., Victor Books."
+    }
+  ]
+}

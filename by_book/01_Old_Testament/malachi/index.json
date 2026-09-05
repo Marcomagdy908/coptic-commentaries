@@ -1,0 +1,735 @@
+{
+  "book_id": 40,
+  "book_title": "تفسير سفر ملاخي",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الأصحاح 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الأصحاح 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الأصحاح 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الأصحاح 4"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "John Howard Raven: O.T. Introduction 1910, p. 248."
+    },
+    {
+      "id": 2,
+      "text": "R. K Harrison: O.T. Introduction, 1988, p. 958."
+    },
+    {
+      "id": 3,
+      "text": "Paschal Letters, 1:1."
+    },
+    {
+      "id": 4,
+      "text": "Paschal Letters, 5:4."
+    },
+    {
+      "id": 5,
+      "text": "Paschal Letters, 4:4."
+    },
+    {
+      "id": 6,
+      "text": "Paschal Letters,11:11."
+    },
+    {
+      "id": 7,
+      "text": "Paschal Letters, 13:3."
+    },
+    {
+      "id": 8,
+      "text": "On Psalm 58:4."
+    },
+    {
+      "id": 9,
+      "text": "On Ps. 107 ."
+    },
+    {
+      "id": 10,
+      "text": "Homilies on Timothy, homily 7."
+    },
+    {
+      "id": 11,
+      "text": "Four Discourses Against the Arians, 1:12:52. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 12,
+      "text": "Commentary on Hosea 11:1-4."
+    },
+    {
+      "id": 13,
+      "text": "Commentary on Tatian’s Diatessaron 3:8."
+    },
+    {
+      "id": 14,
+      "text": "On the Gospel of St. John, tr. 11:10."
+    },
+    {
+      "id": 15,
+      "text": "Enchiridion 25:98."
+    },
+    {
+      "id": 16,
+      "text": "Sermon 104:1."
+    },
+    {
+      "id": 17,
+      "text": "Matthew Henry: Commentary on Malachi 1 ."
+    },
+    {
+      "id": 18,
+      "text": "On Jon 9:4."
+    },
+    {
+      "id": 19,
+      "text": "Confessions (N & P N Frs., vol. 1, p. 47 ( ."
+    },
+    {
+      "id": 20,
+      "text": "On the Spirit, 51. ترجمة د. جورج حبيب"
+    },
+    {
+      "id": 21,
+      "text": "On the Spirit, 46."
+    },
+    {
+      "id": 22,
+      "text": "Sermon on the Mount 2:15."
+    },
+    {
+      "id": 23,
+      "text": "Constitutions of the Holy Apostles, 7:2:14."
+    },
+    {
+      "id": 24,
+      "text": "On Isaiah 1:2."
+    },
+    {
+      "id": 25,
+      "text": "On Ps. 145."
+    },
+    {
+      "id": 26,
+      "text": "On the Incomprehensible Nature of God, homily 2: 39."
+    },
+    {
+      "id": 27,
+      "text": "Maximus of Turin: Sermon 73:1."
+    },
+    {
+      "id": 28,
+      "text": "Lactantius: The Divine Institutes, 4."
+    },
+    {
+      "id": 29,
+      "text": "St. Cassian: Conferences 11: 9 ."
+    },
+    {
+      "id": 30,
+      "text": "St. Cassian: Conferences 11: 13 ."
+    },
+    {
+      "id": 31,
+      "text": "Letter 52:7."
+    },
+    {
+      "id": 32,
+      "text": "Constitutions of the Holy Apostles, 2:3:15."
+    },
+    {
+      "id": 33,
+      "text": "Constitutions of the Holy Apostles, 8 2:2."
+    },
+    {
+      "id": 34,
+      "text": "Sahdona: Book of Perfection 18."
+    },
+    {
+      "id": 35,
+      "text": "ساهدونا (635-640) مؤلف سرياني ، كان أسقفا على بيت جارمي Beth Garmai ، درس في نصيبين، ونُفي بسبب أفكاره الخاصة بطبيعة المسيح. أهم عمل وضعه هو \"كتاب الكمال، له طابع كتابي، يُعتبر قطعة رائعة عن الأدب الرهباني السرياني. يحسبه اليونانيون شهيدًا."
+    },
+    {
+      "id": 36,
+      "text": "On Ps 66 ."
+    },
+    {
+      "id": 37,
+      "text": "Letter 53:8."
+    },
+    {
+      "id": 38,
+      "text": "Discourses Against Judaizing Christians 5:12:3."
+    },
+    {
+      "id": 39,
+      "text": "On Ps. 113."
+    },
+    {
+      "id": 40,
+      "text": "On the Gospel of St. John, tr. 35:7."
+    },
+    {
+      "id": 41,
+      "text": "In Answer to the Jews 9."
+    },
+    {
+      "id": 42,
+      "text": "Dialogue with Trypho, 28."
+    },
+    {
+      "id": 43,
+      "text": "City of God 18:35."
+    },
+    {
+      "id": 44,
+      "text": "Dialogue with Trypho, 41."
+    },
+    {
+      "id": 45,
+      "text": "Dialogue with Trypho, 117."
+    },
+    {
+      "id": 46,
+      "text": "Lactantius: The Divine Institutes, 11."
+    },
+    {
+      "id": 47,
+      "text": "Adv. Haer. 4:17:5."
+    },
+    {
+      "id": 48,
+      "text": "Constitutions of the Holy Apostles, 6:5:23."
+    },
+    {
+      "id": 49,
+      "text": "الأرشمندريت أدريانوس شكور: المنة مقالة في الإيمان الأرثوذكسي ، لبنان 1991، ص 236."
+    },
+    {
+      "id": 50,
+      "text": "On Prayer, 4."
+    },
+    {
+      "id": 51,
+      "text": "Concerning Baptism, F.C., vol. 9, p. 409."
+    },
+    {
+      "id": 52,
+      "text": "Against Marcion 5:4:11."
+    },
+    {
+      "id": 53,
+      "text": "On Ps. 8."
+    },
+    {
+      "id": 54,
+      "text": "Against Judaizing Christians, Discourse 5: 4."
+    },
+    {
+      "id": 55,
+      "text": "Dialogue with Trypho 42."
+    },
+    {
+      "id": 56,
+      "text": "Adv. Haer. 4:17:5, 6."
+    },
+    {
+      "id": 57,
+      "text": "Homilies on Genesis 13:3."
+    },
+    {
+      "id": 58,
+      "text": "Lactantius: The Divine Institutes, 48."
+    },
+    {
+      "id": 59,
+      "text": "Didache, 15."
+    },
+    {
+      "id": 60,
+      "text": "On Ps 47 ."
+    },
+    {
+      "id": 61,
+      "text": "St. Cyprian: Epistle 104:13."
+    },
+    {
+      "id": 62,
+      "text": "Pastoral Care 1:2."
+    },
+    {
+      "id": 63,
+      "text": "Constitutions of the Holy Apostles 2: 3: 15."
+    },
+    {
+      "id": 64,
+      "text": "Letter 67:3."
+    },
+    {
+      "id": 65,
+      "text": "Commentary on Hosea 8."
+    },
+    {
+      "id": 66,
+      "text": "Commentary on Isaiah 17:10."
+    },
+    {
+      "id": 67,
+      "text": "On Ps. 105 ."
+    },
+    {
+      "id": 68,
+      "text": "Homily II on Ps 78 ."
+    },
+    {
+      "id": 69,
+      "text": "Homily 66 on Ps 89 ."
+    },
+    {
+      "id": 70,
+      "text": "Homily 75 on St. Mark 1:1-12."
+    },
+    {
+      "id": 71,
+      "text": "Homily 25 on Ps. 98 ."
+    },
+    {
+      "id": 72,
+      "text": "Homily 34 on. Ps. 108 ."
+    },
+    {
+      "id": 73,
+      "text": "Homilies on Rom., Homily 2."
+    },
+    {
+      "id": 74,
+      "text": "Sermon 1:5"
+    },
+    {
+      "id": 75,
+      "text": "Constitutions of the Holy Apostles, 2:4:28."
+    },
+    {
+      "id": 76,
+      "text": "Pastoral Care 1:4."
+    },
+    {
+      "id": 77,
+      "text": "Pastoral Care 1:1."
+    },
+    {
+      "id": 78,
+      "text": "Maximus of Turin: Sermon 28:2."
+    },
+    {
+      "id": 79,
+      "text": "Commentary on Isaiah 59:10"
+    },
+    {
+      "id": 80,
+      "text": "Commentary on Matthew 11:14."
+    },
+    {
+      "id": 81,
+      "text": "Demonstration 22:12 On Death and Later Times."
+    },
+    {
+      "id": 82,
+      "text": "Demonstrations, 22:13 On Death and Later Times."
+    },
+    {
+      "id": 83,
+      "text": "Homilies on Rom., Homily 14."
+    },
+    {
+      "id": 84,
+      "text": "Four Discourses Against Arians 2:21:59."
+    },
+    {
+      "id": 85,
+      "text": "Adv. Haer. 4:20:2."
+    },
+    {
+      "id": 86,
+      "text": "On Ps. 119:158."
+    },
+    {
+      "id": 87,
+      "text": "On Ps 25:3."
+    },
+    {
+      "id": 88,
+      "text": "Against Jovinianus 1:10."
+    },
+    {
+      "id": 89,
+      "text": "Catech. Lectures 13:2."
+    },
+    {
+      "id": 90,
+      "text": "On the Baptism of Christ."
+    },
+    {
+      "id": 91,
+      "text": "On Perfection."
+    },
+    {
+      "id": 92,
+      "text": "Against Marcion 4:34."
+    },
+    {
+      "id": 93,
+      "text": "Exhortation to Chastity5."
+    },
+    {
+      "id": 94,
+      "text": "To His Wife 2:8."
+    },
+    {
+      "id": 95,
+      "text": "Constitutions of the Holy Apostles, 1:3:14."
+    },
+    {
+      "id": 96,
+      "text": "Ser. on Mount 1:39."
+    },
+    {
+      "id": 97,
+      "text": "Homilies on St. John, Homily 6:1."
+    },
+    {
+      "id": 98,
+      "text": "The Gospel of Matthew, homily 37:2."
+    },
+    {
+      "id": 99,
+      "text": "Comm. on Matthew 2: 11:9."
+    },
+    {
+      "id": 100,
+      "text": "Epistle to the Galatians 3:19:1."
+    },
+    {
+      "id": 101,
+      "text": "City of God 18:35."
+    },
+    {
+      "id": 102,
+      "text": "On Ps. 50 ."
+    },
+    {
+      "id": 103,
+      "text": "Demonstration Against the Pagans 11:1-3."
+    },
+    {
+      "id": 104,
+      "text": "On the Great Athanasius, 7."
+    },
+    {
+      "id": 105,
+      "text": "Incomplete work on Matthew, homily 27. PG 56:774."
+    },
+    {
+      "id": 106,
+      "text": "The Seven Books on Incarnation of the Lord, Against Nestorius, 7:1"
+    },
+    {
+      "id": 107,
+      "text": "The Gospel of Matthew, Homily 6:4."
+    },
+    {
+      "id": 108,
+      "text": "Fragment 27."
+    },
+    {
+      "id": 109,
+      "text": "On Virginity, 23."
+    },
+    {
+      "id": 110,
+      "text": "On Romans, 83"
+    },
+    {
+      "id": 111,
+      "text": "Commentary on Isaiah 57:3."
+    },
+    {
+      "id": 112,
+      "text": "Commentary on Hosea 2:11."
+    },
+    {
+      "id": 113,
+      "text": "Homily 22 on Ps 94 ."
+    },
+    {
+      "id": 114,
+      "text": "Homily 22 on Ps. 94"
+    },
+    {
+      "id": 115,
+      "text": "Against Celsus 14:11."
+    },
+    {
+      "id": 116,
+      "text": "Catena (James 1:17)."
+    },
+    {
+      "id": 117,
+      "text": "Epistles on the Arian Heresy, 2:3."
+    },
+    {
+      "id": 118,
+      "text": "On the Trinity 11:47."
+    },
+    {
+      "id": 119,
+      "text": "Dialogues, 1."
+    },
+    {
+      "id": 120,
+      "text": "Letter 144, to the Soldiers."
+    },
+    {
+      "id": 121,
+      "text": "St. Cassian: Conferences, 6:14."
+    },
+    {
+      "id": 122,
+      "text": "Letter 59 Ad Epicetum, 5"
+    },
+    {
+      "id": 123,
+      "text": "Four Discourses Against the Arians, 1:35-36. ترجمة مركز دراسات الآباء بالقاهرة."
+    },
+    {
+      "id": 124,
+      "text": "Four Discourses Against the Arians, 2:9. . ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 125,
+      "text": "St. Cyprian: Treatise 9 on the Advantage of Patience, 4."
+    },
+    {
+      "id": 126,
+      "text": "Ascetical Homilies 5:76-77."
+    },
+    {
+      "id": 127,
+      "text": "Letter 147:8."
+    },
+    {
+      "id": 128,
+      "text": "Sermon 33:2."
+    },
+    {
+      "id": 129,
+      "text": "City of God, 20:28."
+    },
+    {
+      "id": 130,
+      "text": "City of God 28:35."
+    },
+    {
+      "id": 131,
+      "text": "City of God 20:28."
+    },
+    {
+      "id": 132,
+      "text": "Against Judaizing Christians, Discourse 5: 8."
+    },
+    {
+      "id": 133,
+      "text": "On Ps. 139."
+    },
+    {
+      "id": 134,
+      "text": "Letter 147:2."
+    },
+    {
+      "id": 135,
+      "text": "St. Cyprian: Treatise 9 on the Advantage of Patience, 22."
+    },
+    {
+      "id": 2,
+      "text": "Clement 16."
+    },
+    {
+      "id": 3,
+      "text": "Adv. Haer. 4:33:1."
+    },
+    {
+      "id": 4,
+      "text": "The Treatises of Cyprian, 5:22"
+    },
+    {
+      "id": 5,
+      "text": "St. Hippolytus: Treatise on Christ and Antichrist, 61"
+    },
+    {
+      "id": 6,
+      "text": "The Acts of Philip."
+    },
+    {
+      "id": 7,
+      "text": "On Psalm 51 ."
+    },
+    {
+      "id": 8,
+      "text": "On Psalm 148."
+    },
+    {
+      "id": 9,
+      "text": "Letter 48: 21."
+    },
+    {
+      "id": 10,
+      "text": "The Hexaemeron, homily 6:1."
+    },
+    {
+      "id": 11,
+      "text": "Dialogues, 1."
+    },
+    {
+      "id": 12,
+      "text": "Against the Anomoeans, homily 7:5:6."
+    },
+    {
+      "id": 13,
+      "text": "Six Days of Creation 4:1:2."
+    },
+    {
+      "id": 14,
+      "text": "Homilies on Leviticus 9:10:2."
+    },
+    {
+      "id": 15,
+      "text": "Commentary on Matthew 12: 37."
+    },
+    {
+      "id": 16,
+      "text": "Commentary on the Gospel of John 32:315-317."
+    },
+    {
+      "id": 17,
+      "text": "عظة 17: 3."
+    },
+    {
+      "id": 18,
+      "text": "عظة 28: 4."
+    },
+    {
+      "id": 19,
+      "text": "The Second Oration on Easter, 13."
+    },
+    {
+      "id": 20,
+      "text": "On Perfection."
+    },
+    {
+      "id": 21,
+      "text": "Sermon on the Mount, 1:79."
+    },
+    {
+      "id": 22,
+      "text": "Sermons on N. T. Lessons, 8:7."
+    },
+    {
+      "id": 23,
+      "text": "Exposition of the Orthodox Faith, 12."
+    },
+    {
+      "id": 24,
+      "text": "Letters, 39."
+    },
+    {
+      "id": 25,
+      "text": "Sermon on N.T. Lessons, 67:4."
+    },
+    {
+      "id": 26,
+      "text": "Homilies on St. John, 78:3."
+    },
+    {
+      "id": 27,
+      "text": "City of God 20:28."
+    },
+    {
+      "id": 28,
+      "text": "Constitutions of the Holy Apostles, 6:4:14."
+    },
+    {
+      "id": 29,
+      "text": "Commentary on Malachi 4:1:2."
+    },
+    {
+      "id": 30,
+      "text": "On the Gospel of St. John, tr. 4:5."
+    },
+    {
+      "id": 31,
+      "text": "On the Antichrist 46."
+    },
+    {
+      "id": 32,
+      "text": "Commentary on the Gospel of John 6:125."
+    },
+    {
+      "id": 33,
+      "text": "Victorinus of Petovium: Commentary on Apocalypse 11."
+    },
+    {
+      "id": 34,
+      "text": "Lactantius: The Divine Institutes, 17."
+    },
+    {
+      "id": 35,
+      "text": "St. Hippolytus: Treatise on Christ and Antichrist, 43."
+    },
+    {
+      "id": 36,
+      "text": "Victorianus: Commentary on the Apocalypse, From the Seven Chapter, 2."
+    },
+    {
+      "id": 37,
+      "text": "John Howard Raven: O.T. Introduction 1910, p. 248."
+    },
+    {
+      "id": 38,
+      "text": "R. K Harrison: O.T. Introduction, 1988, p. 958."
+    },
+    {
+      "id": 39,
+      "text": "Paschal Letters, 1:1."
+    },
+    {
+      "id": 40,
+      "text": "Paschal Letters, 5:4."
+    },
+    {
+      "id": 41,
+      "text": "Paschal Letters, 4:4."
+    },
+    {
+      "id": 42,
+      "text": "Paschal Letters,11:11."
+    },
+    {
+      "id": 43,
+      "text": "Paschal Letters, 13:3."
+    }
+  ]
+}

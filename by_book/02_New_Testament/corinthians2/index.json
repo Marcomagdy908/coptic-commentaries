@@ -1,0 +1,2811 @@
+{
+  "book_id": 53,
+  "book_title": "تفسير الرسالة الثانية إلى أهل كورنثوس",
+  "testament": "New Testament",
+  "chapters_count": 13,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 2,
+      "topic": "الرعاية والآصلاح"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "خدمة العهد الجديد"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الأمانة في الخدمة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "خدمة المصالحة مع السماوي"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "الخدمة وسمات الخادم"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "لنموت معكم ونعيش معكم"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "السخاء في العطاء"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "التشجيع على العطاء"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "سلطان الرسول الروحي"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "اعتزاز الرسول بجهاده"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "الإعلانات الإلهية والخدمة"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "الختام"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Ambrosiaster: Comm. On Paul’s Epistles, CSEL (Corpus Scriptorum Ecclesiasticorum Latinorum, Vienna: Tempsky, 1866) 81:195."
+    },
+    {
+      "id": 2,
+      "text": "In 2Cor. Hom. 1:2."
+    },
+    {
+      "id": 3,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 4,
+      "text": "Commentary on Matthew, 14:1"
+    },
+    {
+      "id": 5,
+      "text": "In 2Cor. Hom. 1:2."
+    },
+    {
+      "id": 6,
+      "text": "Contra Celsum 3:27"
+    },
+    {
+      "id": 7,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 8,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 9,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 10,
+      "text": "Against Eunomius, 2:14."
+    },
+    {
+      "id": 11,
+      "text": "In 2Cor. Hom. 3:1."
+    },
+    {
+      "id": 12,
+      "text": "العناية الإلهية، ترجمة عايدة حنا، ص 12."
+    },
+    {
+      "id": 13,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 14,
+      "text": "On the Christian Mode of Life."
+    },
+    {
+      "id": 15,
+      "text": "In 2Cor. Hom. 1:4."
+    },
+    {
+      "id": 16,
+      "text": "يسوع والمفلوجان: للقديس ذهبي الفم، ترجمة القمص تادرس يعقوب ملطي، 1966، ص35 إلخ."
+    },
+    {
+      "id": 17,
+      "text": "Exhortation to Martyrdom, 42."
+    },
+    {
+      "id": 18,
+      "text": "CSEL 81:197."
+    },
+    {
+      "id": 19,
+      "text": "Ascetical Homilies, 74."
+    },
+    {
+      "id": 20,
+      "text": "In 2Cor, hom 2, PG 61:428"
+    },
+    {
+      "id": 21,
+      "text": "In 2Cor. Hom. 2:1."
+    },
+    {
+      "id": 22,
+      "text": "في مديح القديس بولس، عظة 7."
+    },
+    {
+      "id": 23,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 24,
+      "text": "In 2Cor. Hom. 2:2"
+    },
+    {
+      "id": 25,
+      "text": "PG 82:379."
+    },
+    {
+      "id": 26,
+      "text": "Comm. On 2Cor."
+    },
+    {
+      "id": 27,
+      "text": "بيلاجوس: مبتدع ركز على الأعمال، وحسب أن الإنسان قادر على الخلاص بفكره وعمله، واستهان بالإيمان والنعمة الإلهية، وقام القديس أغسطينوس بمواجهة هذه الأفكار الخاطئة."
+    },
+    {
+      "id": 28,
+      "text": "In 2Cor. Hom. 2:3"
+    },
+    {
+      "id": 29,
+      "text": "In 2Cor. Hom. 2:3"
+    },
+    {
+      "id": 30,
+      "text": "في مديح القديس بولس، عظة 7."
+    },
+    {
+      "id": 31,
+      "text": "The Long Rules, 8."
+    },
+    {
+      "id": 32,
+      "text": "In 2Cor. Hom. 2:4."
+    },
+    {
+      "id": 33,
+      "text": "للمؤلف: الحب الرعوي، ص 98 - 99."
+    },
+    {
+      "id": 34,
+      "text": "In 2Cor. Hom. 2:5."
+    },
+    {
+      "id": 35,
+      "text": "In 2Cor. Hom. 3:1."
+    },
+    {
+      "id": 36,
+      "text": "Cizy of Gld 5:12."
+    },
+    {
+      "id": 37,
+      "text": "The City of God, 5:12."
+    },
+    {
+      "id": 38,
+      "text": "Com. On 2Cor. 292."
+    },
+    {
+      "id": 39,
+      "text": "PG 82:382.."
+    },
+    {
+      "id": 40,
+      "text": "CSEL 81:200."
+    },
+    {
+      "id": 41,
+      "text": "In 2Cor. Hom. 3:1."
+    },
+    {
+      "id": 42,
+      "text": "CSEL 81:200-201."
+    },
+    {
+      "id": 43,
+      "text": "In 2Cor. Hom. 3:2."
+    },
+    {
+      "id": 44,
+      "text": "PG 82:382."
+    },
+    {
+      "id": 45,
+      "text": "PG 61:444"
+    },
+    {
+      "id": 46,
+      "text": "In 2Cor. Hom. 3:2."
+    },
+    {
+      "id": 47,
+      "text": "PG 82:382."
+    },
+    {
+      "id": 48,
+      "text": "CSEL 81:201-2."
+    },
+    {
+      "id": 49,
+      "text": "In 2Cor. Hom. 3:3."
+    },
+    {
+      "id": 50,
+      "text": "PG 61:446"
+    },
+    {
+      "id": 51,
+      "text": "CSEL 81:202."
+    },
+    {
+      "id": 52,
+      "text": "In 2Cor. Hom. 3:3."
+    },
+    {
+      "id": 53,
+      "text": "CSEL 81:2o2-3."
+    },
+    {
+      "id": 54,
+      "text": "In 2Cor. Hom. 3:4."
+    },
+    {
+      "id": 55,
+      "text": "PG 61:447"
+    },
+    {
+      "id": 56,
+      "text": "In 2Cor. Hom. 3:4."
+    },
+    {
+      "id": 57,
+      "text": "CSEL 81:203-4."
+    },
+    {
+      "id": 58,
+      "text": "In 2Cor. Hom. 3:4."
+    },
+    {
+      "id": 59,
+      "text": "Baptismal Instructions 11:27."
+    },
+    {
+      "id": 60,
+      "text": "المؤلف: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، باب 2: 5."
+    },
+    {
+      "id": 61,
+      "text": "Kay’s Writings of Clement of Alexandria, London 1835, p. 439."
+    },
+    {
+      "id": 62,
+      "text": "Cat. Lect. 17:35."
+    },
+    {
+      "id": 63,
+      "text": "Procortechesis 16."
+    },
+    {
+      "id": 64,
+      "text": "PG 36:361 C."
+    },
+    {
+      "id": 65,
+      "text": "Epis. 7.6."
+    },
+    {
+      "id": 66,
+      "text": "Sheph. Sim 9:6:3."
+    },
+    {
+      "id": 67,
+      "text": "De pudic 9:9."
+    },
+    {
+      "id": 68,
+      "text": "In 2 Cor. hom 3:7."
+    },
+    {
+      "id": 69,
+      "text": "PG 33:372."
+    },
+    {
+      "id": 70,
+      "text": "Cat. Hom 13:17."
+    },
+    {
+      "id": 71,
+      "text": "PG 36:364; 36:377 A."
+    },
+    {
+      "id": 72,
+      "text": "PG 46:424 C."
+    },
+    {
+      "id": 73,
+      "text": "PG 33:333 A, 428 A"
+    },
+    {
+      "id": 74,
+      "text": "Cat. hom 13:17."
+    },
+    {
+      "id": 75,
+      "text": "Convivum virginum. Ench. Patr n. 613."
+    },
+    {
+      "id": 76,
+      "text": "علي رسالة أفسس 1، 13."
+    },
+    {
+      "id": 77,
+      "text": "CSEL 81:204."
+    },
+    {
+      "id": 78,
+      "text": "In 2 Cor. Hom. 4:1."
+    },
+    {
+      "id": 79,
+      "text": "CSEL 81:204."
+    },
+    {
+      "id": 80,
+      "text": "PG 82:386."
+    },
+    {
+      "id": 81,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 82,
+      "text": "In Ephes., hom 11."
+    },
+    {
+      "id": 83,
+      "text": "On Priesthood, book 2:3."
+    },
+    {
+      "id": 84,
+      "text": "CSEL 81:205."
+    },
+    {
+      "id": 85,
+      "text": "In Acts, homily 24.."
+    },
+    {
+      "id": 86,
+      "text": "In Joan. PG 59:115."
+    },
+    {
+      "id": 87,
+      "text": "In Hebrews. PG 62:46."
+    },
+    {
+      "id": 88,
+      "text": "الحب الرعوي، ص 616."
+    },
+    {
+      "id": 89,
+      "text": "The Long Rules, 52."
+    },
+    {
+      "id": 90,
+      "text": "Homilies on Leviticus, 7:2."
+    },
+    {
+      "id": 91,
+      "text": "In 2 Cor. Hom. 4:2."
+    },
+    {
+      "id": 92,
+      "text": "In 2 Cor. Hom. 4:3."
+    },
+    {
+      "id": 93,
+      "text": "In Num. Hom 10:2."
+    },
+    {
+      "id": 94,
+      "text": "In Philip., hom. 15."
+    },
+    {
+      "id": 95,
+      "text": "الحب الرعوي، ص 678."
+    },
+    {
+      "id": 96,
+      "text": "In 2 Cor. Hom. 4:4."
+    },
+    {
+      "id": 97,
+      "text": "PG 82:387."
+    },
+    {
+      "id": 98,
+      "text": "The Long Rules, 7."
+    },
+    {
+      "id": 99,
+      "text": "PG 61: 459"
+    },
+    {
+      "id": 100,
+      "text": "On Repentance and Almsgiving 1:3:22."
+    },
+    {
+      "id": 101,
+      "text": "In Psalmum 37 Homilia 1:1 PG 12:1370."
+    },
+    {
+      "id": 102,
+      "text": "In 2Cor. Hom. 4:4."
+    },
+    {
+      "id": 103,
+      "text": "In 2Cor. Hom. 4:4."
+    },
+    {
+      "id": 104,
+      "text": "On Priesthood, book 3:17."
+    },
+    {
+      "id": 105,
+      "text": "CSEL 81:207."
+    },
+    {
+      "id": 106,
+      "text": "PG 82:387."
+    },
+    {
+      "id": 107,
+      "text": "The Beatitudes, sermon 3, (ACW)"
+    },
+    {
+      "id": 108,
+      "text": "To Olympias, 8."
+    },
+    {
+      "id": 109,
+      "text": "في مديح القديس بولس، عظة 3."
+    },
+    {
+      "id": 110,
+      "text": "In 2Cor. Hom. 4:5."
+    },
+    {
+      "id": 111,
+      "text": "CSEL 81:207-8."
+    },
+    {
+      "id": 112,
+      "text": "In 2Cor. Hom. In 2Cor. Hom. 4:5."
+    },
+    {
+      "id": 113,
+      "text": "In 2Cor. Hom. 4:5."
+    },
+    {
+      "id": 114,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 115,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 56."
+    },
+    {
+      "id": 116,
+      "text": "Pauline Commentary from the Greece Church."
+    },
+    {
+      "id": 117,
+      "text": "PG 82:390."
+    },
+    {
+      "id": 118,
+      "text": "To Olympias,8."
+    },
+    {
+      "id": 119,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 56."
+    },
+    {
+      "id": 120,
+      "text": "Catechetical Lectures, 13 :2"
+    },
+    {
+      "id": 121,
+      "text": "Sunday Sermons of the Great Fathers, vol. 1, p. 113."
+    },
+    {
+      "id": 122,
+      "text": "Commentary on Song of Songs, Homily 3."
+    },
+    {
+      "id": 123,
+      "text": "Commentary on Song of Songs, Homily 3."
+    },
+    {
+      "id": 124,
+      "text": "Adv. Haer. 4:28:3"
+    },
+    {
+      "id": 125,
+      "text": "In Exod. Hom. 9."
+    },
+    {
+      "id": 126,
+      "text": "CSEL 81:210."
+    },
+    {
+      "id": 127,
+      "text": "PG 61: 468"
+    },
+    {
+      "id": 128,
+      "text": "In 2 Cor. Hom 5, PG 61:469."
+    },
+    {
+      "id": 129,
+      "text": "In 2 Cor. Hom. 5:2."
+    },
+    {
+      "id": 130,
+      "text": "In 2 Cor. Hom. In 2Cor. Hom. 5:3."
+    },
+    {
+      "id": 131,
+      "text": "To Simplinian - On Various Questions, 1:17."
+    },
+    {
+      "id": 132,
+      "text": "Eighty Three Different Questions, 27."
+    },
+    {
+      "id": 133,
+      "text": "من مجدٍ إلى مجدٍ فصل 4:3."
+    },
+    {
+      "id": 134,
+      "text": "من مجدٍ إلى مجدٍ، فصل 31:3."
+    },
+    {
+      "id": 135,
+      "text": "Commentary on Song of Songs, Homily 1."
+    },
+    {
+      "id": 136,
+      "text": "CSEL 81:211."
+    },
+    {
+      "id": 137,
+      "text": "In 2 Cor. Hom. In 2Cor. Hom. 5:3."
+    },
+    {
+      "id": 138,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 139,
+      "text": "CSEL 81:213."
+    },
+    {
+      "id": 140,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 141,
+      "text": "St. Augustine: On Ps. 8."
+    },
+    {
+      "id": 142,
+      "text": "Gift of Perseverance 8:20."
+    },
+    {
+      "id": 143,
+      "text": "Cassian: Conferences, 3:15"
+    },
+    {
+      "id": 144,
+      "text": "De Principiis 1:1:2."
+    },
+    {
+      "id": 145,
+      "text": "Commentary on John, 4:2 ز"
+    },
+    {
+      "id": 146,
+      "text": "Letter to Clementianus, 68."
+    },
+    {
+      "id": 147,
+      "text": "The Holy Spirit 2:4:30."
+    },
+    {
+      "id": 148,
+      "text": "In 2Cor. Hom. 6:2"
+    },
+    {
+      "id": 149,
+      "text": "Easter Season, 251:7."
+    },
+    {
+      "id": 150,
+      "text": "Sermons on New Testament Lessons, 86:5."
+    },
+    {
+      "id": 151,
+      "text": "Letter to Honoratus 140:19."
+    },
+    {
+      "id": 152,
+      "text": "Letter to Hilarius, 157."
+    },
+    {
+      "id": 153,
+      "text": "Easter Season 259:3."
+    },
+    {
+      "id": 154,
+      "text": "Easter Season, 251:7."
+    },
+    {
+      "id": 155,
+      "text": "On the Spirit & the Letter, 22."
+    },
+    {
+      "id": 156,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 157,
+      "text": "In 2Cor. Hom. 7:1."
+    },
+    {
+      "id": 158,
+      "text": "In 2Cor. Hom. 7:1."
+    },
+    {
+      "id": 159,
+      "text": "Sermon 47:1."
+    },
+    {
+      "id": 160,
+      "text": "CSEL 81:213."
+    },
+    {
+      "id": 161,
+      "text": "In 2Cor. Hom. 6::2."
+    },
+    {
+      "id": 162,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 163,
+      "text": "The Holy Spirit 3:3:13."
+    },
+    {
+      "id": 164,
+      "text": "On Ps. 44, hom. 17."
+    },
+    {
+      "id": 165,
+      "text": "Paedagogus 3:12:94."
+    },
+    {
+      "id": 166,
+      "text": "Commentary on Matthew, 10:15."
+    },
+    {
+      "id": 167,
+      "text": "Commentary on Matthew, 11:14"
+    },
+    {
+      "id": 168,
+      "text": "PG 82:394."
+    },
+    {
+      "id": 169,
+      "text": "Comm on John, book 1, ch. 10:17."
+    },
+    {
+      "id": 170,
+      "text": "In 2Cor. Hom 7, PG 61: 481"
+    },
+    {
+      "id": 171,
+      "text": "The Uncreated Glory, The Triads 3:1:9 [10], p 72."
+    },
+    {
+      "id": 172,
+      "text": "CSEL 81:216."
+    },
+    {
+      "id": 173,
+      "text": "Commentary on Matthew, 10:9."
+    },
+    {
+      "id": 174,
+      "text": "CSEL 81:216."
+    },
+    {
+      "id": 175,
+      "text": "In 2Cor. Hom. 7:2."
+    },
+    {
+      "id": 176,
+      "text": "PG 82:395."
+    },
+    {
+      "id": 177,
+      "text": "CSEL 81:216."
+    },
+    {
+      "id": 178,
+      "text": "CSEL 81:217."
+    },
+    {
+      "id": 179,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 180,
+      "text": "In 2Cor. Hom. 7:2."
+    },
+    {
+      "id": 181,
+      "text": "On the Spirit 31 ."
+    },
+    {
+      "id": 182,
+      "text": "City of God 17:7."
+    },
+    {
+      "id": 183,
+      "text": "Letter to Honoratus, 140:10."
+    },
+    {
+      "id": 184,
+      "text": "The Usefulness of Belief 3:9."
+    },
+    {
+      "id": 185,
+      "text": "PG 82:395."
+    },
+    {
+      "id": 186,
+      "text": "In 2Cor. Hom. 7:3."
+    },
+    {
+      "id": 187,
+      "text": "In 2Cor. Hom 7, PG 61: 484"
+    },
+    {
+      "id": 188,
+      "text": "The Song of Songs, Comm., Book 3:11. (ACW)"
+    },
+    {
+      "id": 189,
+      "text": "Catechetical Lectures 15:32."
+    },
+    {
+      "id": 190,
+      "text": "In 2Cor. Hom. 7:3."
+    },
+    {
+      "id": 191,
+      "text": "On Ps. 88 ."
+    },
+    {
+      "id": 192,
+      "text": "Letter, 41."
+    },
+    {
+      "id": 193,
+      "text": "De. Principiis 1:1:2."
+    },
+    {
+      "id": 194,
+      "text": "De principiis 1:1:3."
+    },
+    {
+      "id": 195,
+      "text": "Hom. on Psalm 36:1."
+    },
+    {
+      "id": 196,
+      "text": "In Jer. hom. 12:13; J.W. Trigg: Origen, SCM, p. 185."
+    },
+    {
+      "id": 197,
+      "text": "In Jos. hom. 17:1."
+    },
+    {
+      "id": 198,
+      "text": "In Exodus hom. 7:3."
+    },
+    {
+      "id": 199,
+      "text": "In Levit. Hom 1."
+    },
+    {
+      "id": 200,
+      "text": "In 2Cor. Hom. 7:4."
+    },
+    {
+      "id": 201,
+      "text": "In Exod. Hom. 12."
+    },
+    {
+      "id": 202,
+      "text": "PG 82:398."
+    },
+    {
+      "id": 203,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 204,
+      "text": "Letters to Loymen, 69."
+    },
+    {
+      "id": 205,
+      "text": "Commentary on Song of Songs, Homily 10."
+    },
+    {
+      "id": 206,
+      "text": "Against Eunomius, 7:1"
+    },
+    {
+      "id": 207,
+      "text": "Sermons on New Testament Lessons, 24:5."
+    },
+    {
+      "id": 208,
+      "text": "The City of God, 17:7."
+    },
+    {
+      "id": 209,
+      "text": "Sermons on New Testament Lessons, 1:5"
+    },
+    {
+      "id": 210,
+      "text": "Sermons for Christmas and Epiphany (ACW), 1:5"
+    },
+    {
+      "id": 211,
+      "text": "Commentary on Matthew, 10:14"
+    },
+    {
+      "id": 212,
+      "text": "من مجدٍ إلى مجدٍ، فصل 51:3."
+    },
+    {
+      "id": 213,
+      "text": "يقصد الوصايا وليس الذبائح اليهودية الرمزية، لأن هذه لا يجوز العودة إليها بعدما جاء الرمز (السيد المسيح)."
+    },
+    {
+      "id": 214,
+      "text": "Cassian: Conferences, 21:32"
+    },
+    {
+      "id": 215,
+      "text": "Concerning Virginity 11. PG 46:368 BC."
+    },
+    {
+      "id": 216,
+      "text": "من مجدٍ إلى مجدٍ، تعريب القمص إشعياء ميخائيل، 1984، فصل 2:1."
+    },
+    {
+      "id": 217,
+      "text": "Commentary on Song of Songs, Homily 5."
+    },
+    {
+      "id": 218,
+      "text": "In 2Cor. Hom. 7:5."
+    },
+    {
+      "id": 219,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 220,
+      "text": "Ascetical Hom. 2."
+    },
+    {
+      "id": 221,
+      "text": "The Theological Orations. 4:26."
+    },
+    {
+      "id": 222,
+      "text": "The Third Instruction 3:25."
+    },
+    {
+      "id": 223,
+      "text": "On Perfection."
+    },
+    {
+      "id": 224,
+      "text": "Of the Holy Spirit."
+    },
+    {
+      "id": 225,
+      "text": "The City of God, 22:30."
+    },
+    {
+      "id": 226,
+      "text": "CSEL 81:220."
+    },
+    {
+      "id": 227,
+      "text": "In 2Cor. Hom. 8:1."
+    },
+    {
+      "id": 228,
+      "text": "الحب الرعوي، 1965، ص 654."
+    },
+    {
+      "id": 229,
+      "text": "الحب الرعوي، 1965، ص 655."
+    },
+    {
+      "id": 230,
+      "text": "PG 82:399."
+    },
+    {
+      "id": 231,
+      "text": "On Perfection."
+    },
+    {
+      "id": 232,
+      "text": "On Virginity, 12."
+    },
+    {
+      "id": 233,
+      "text": "Sermons on New Testament Lessons, 4:1."
+    },
+    {
+      "id": 234,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 235,
+      "text": "In 2Cor. Hom. 8:2."
+    },
+    {
+      "id": 236,
+      "text": "In 2Cor. Hom 8:2. PG 61:493."
+    },
+    {
+      "id": 237,
+      "text": "Th eophylact. PG 124:236A."
+    },
+    {
+      "id": 238,
+      "text": "Comm. On John, book 1, ch. 8."
+    },
+    {
+      "id": 239,
+      "text": "Comm. On John, book 1, ch. 9:24."
+    },
+    {
+      "id": 240,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 241,
+      "text": "PG 82:399."
+    },
+    {
+      "id": 242,
+      "text": "Paedagogus 2;4."
+    },
+    {
+      "id": 243,
+      "text": "Theological Orations 4:20."
+    },
+    {
+      "id": 244,
+      "text": "Homily 6 on Psalm 66 (FC 48:45)."
+    },
+    {
+      "id": 245,
+      "text": "On Prayer 25:1."
+    },
+    {
+      "id": 246,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 247,
+      "text": "CSEL 81:222."
+    },
+    {
+      "id": 248,
+      "text": "In 2Cor. Hom. 8:3."
+    },
+    {
+      "id": 249,
+      "text": "In Ephes., hom 22."
+    },
+    {
+      "id": 250,
+      "text": "On the Christian Model of Life (FC 5:147)."
+    },
+    {
+      "id": 251,
+      "text": "الحب الرعوي، 1965، ص 136-137."
+    },
+    {
+      "id": 252,
+      "text": "In 2 Cor. Hom. 8:3."
+    },
+    {
+      "id": 253,
+      "text": "PG 82:402."
+    },
+    {
+      "id": 254,
+      "text": "Ascetical Homillies, 37."
+    },
+    {
+      "id": 255,
+      "text": "Commentary on Song of Songs, Homily 2."
+    },
+    {
+      "id": 256,
+      "text": "راجع كتابنا: الروح القدس بين الميلاد الجديد والتجديد المستمر، 1981 ، ص 82-83."
+    },
+    {
+      "id": 257,
+      "text": "Apology 1:16."
+    },
+    {
+      "id": 258,
+      "text": "Kay’s Writings of Clement of Alexandria, p437."
+    },
+    {
+      "id": 259,
+      "text": "القمص باخوم المحرقي (أنبا غريغوريوس حاليا): القيم الروحية.. في سرّ المعمودية، ص 47."
+    },
+    {
+      "id": 260,
+      "text": "Paed. 1:6."
+    },
+    {
+      "id": 261,
+      "text": "On The Holy Spirit 15."
+    },
+    {
+      "id": 262,
+      "text": "للمؤلف: الحب الإلهي ص 855-856."
+    },
+    {
+      "id": 263,
+      "text": "ميمر عن المعمودية المقدسة."
+    },
+    {
+      "id": 264,
+      "text": "Adam Clarke Commentary"
+    },
+    {
+      "id": 265,
+      "text": "Sermon 18:1,2."
+    },
+    {
+      "id": 266,
+      "text": "Against the Pelagius 3:9."
+    },
+    {
+      "id": 267,
+      "text": "Cf. On. Ps, hom. 11."
+    },
+    {
+      "id": 268,
+      "text": "Homily 11 on Ps. 77 (FC 48:84)."
+    },
+    {
+      "id": 269,
+      "text": "Homily 20 on Ps. 90 (FC 48:160)."
+    },
+    {
+      "id": 270,
+      "text": "In 2 Cor. Hom. 8:3."
+    },
+    {
+      "id": 271,
+      "text": "Commentary on John, 4:2"
+    },
+    {
+      "id": 272,
+      "text": "In 2 Cor. hom 9. PG 61:498."
+    },
+    {
+      "id": 273,
+      "text": "In 2 Cor. Hom. 9:1."
+    },
+    {
+      "id": 274,
+      "text": "The Four Hundred Chapters on Love, 55."
+    },
+    {
+      "id": 275,
+      "text": "PG 82:4-2"
+    },
+    {
+      "id": 276,
+      "text": "On Prayer 30:1."
+    },
+    {
+      "id": 277,
+      "text": "The Song of Songs, Comm. Prologue 2."
+    },
+    {
+      "id": 278,
+      "text": "للمؤلف: يوحنا كاسيان، 1998، ص 162-164,"
+    },
+    {
+      "id": 279,
+      "text": "CSEL 81:224."
+    },
+    {
+      "id": 280,
+      "text": "الموعظة على الجبل، 1: 2: 9."
+    },
+    {
+      "id": 281,
+      "text": "CSEL 81:225."
+    },
+    {
+      "id": 282,
+      "text": "In 2 Cor. Hom. 9:1."
+    },
+    {
+      "id": 283,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 284,
+      "text": "Commentary on John, 1:35."
+    },
+    {
+      "id": 285,
+      "text": "Commentary on Matthew, 13:16."
+    },
+    {
+      "id": 286,
+      "text": "Rowan A. Greer: Origen, Paulist Press, 1979, p.5."
+    },
+    {
+      "id": 287,
+      "text": "CSEL 81:225."
+    },
+    {
+      "id": 288,
+      "text": "In 2 Cor. Hom. 9:1."
+    },
+    {
+      "id": 289,
+      "text": "Exhortation to Martyrdom, 17."
+    },
+    {
+      "id": 290,
+      "text": "In 2 Cor. Hom. 9:2."
+    },
+    {
+      "id": 291,
+      "text": "Letters to Dardandus, 186:34 (FC 30:248-49)."
+    },
+    {
+      "id": 292,
+      "text": "Letters to Optatus 190 (FC 30:274)."
+    },
+    {
+      "id": 293,
+      "text": "Ep. To the Philippians, 2."
+    },
+    {
+      "id": 294,
+      "text": "In 2 Cor. Hom. 9:2."
+    },
+    {
+      "id": 295,
+      "text": "PG 82:403."
+    },
+    {
+      "id": 296,
+      "text": "CSEL 81:226."
+    },
+    {
+      "id": 297,
+      "text": "In 2 Cor. Hom. 9:2."
+    },
+    {
+      "id": 298,
+      "text": "The Way of Life of the Catholic Church 1:35:80."
+    },
+    {
+      "id": 299,
+      "text": "The City of God, 13:24."
+    },
+    {
+      "id": 300,
+      "text": "CSEL 81:227"
+    },
+    {
+      "id": 301,
+      "text": "In 2 Cor. Hom. 9:2."
+    },
+    {
+      "id": 302,
+      "text": "The Song of Songs, Comm., Book 4:14. (ACW)"
+    },
+    {
+      "id": 303,
+      "text": "Homily 21 on Detachment."
+    },
+    {
+      "id": 304,
+      "text": "In Num. Hom. 14:2."
+    },
+    {
+      "id": 305,
+      "text": "Comm. On the Song of Songs."
+    },
+    {
+      "id": 306,
+      "text": "CSEL 81:227."
+    },
+    {
+      "id": 307,
+      "text": "Cassian: Conference 13:13."
+    },
+    {
+      "id": 308,
+      "text": "Homilies on Genesis 25:17."
+    },
+    {
+      "id": 309,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 310,
+      "text": "في مديح القديس بولس، عظة 6."
+    },
+    {
+      "id": 311,
+      "text": "CSEL 81:228."
+    },
+    {
+      "id": 312,
+      "text": "In 2 Cor. Hom. 9:3."
+    },
+    {
+      "id": 313,
+      "text": "Homily on Genesis 25:24 (FC 82:143)."
+    },
+    {
+      "id": 314,
+      "text": "Sermon 146:3. (FC 47: 310-11)."
+    },
+    {
+      "id": 315,
+      "text": "Homily on Genesis 63:20."
+    },
+    {
+      "id": 316,
+      "text": "Cassian: Conferrencws, 3:6, 10."
+    },
+    {
+      "id": 317,
+      "text": "Commentary on Matthew, 13:20."
+    },
+    {
+      "id": 318,
+      "text": "The Song of Songs, Comm., Book 3:12. (ACW)"
+    },
+    {
+      "id": 319,
+      "text": "Against Eunomius, 1:26."
+    },
+    {
+      "id": 320,
+      "text": "In 2Cor. hom 10. PG 61:506"
+    },
+    {
+      "id": 321,
+      "text": "عظات القديس مقاريوس 3:5-5."
+    },
+    {
+      "id": 322,
+      "text": "المرجع السابق 5:5."
+    },
+    {
+      "id": 323,
+      "text": "عظة 6:5."
+    },
+    {
+      "id": 324,
+      "text": "Sernon 5:7."
+    },
+    {
+      "id": 325,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 326,
+      "text": "In 2Cor. hom 10:1."
+    },
+    {
+      "id": 327,
+      "text": "In 2Cor. hom 10. PG 62:506."
+    },
+    {
+      "id": 328,
+      "text": "PG 82:406."
+    },
+    {
+      "id": 329,
+      "text": "DE Principiis 3:6:6."
+    },
+    {
+      "id": 330,
+      "text": "The City of God, 14:3."
+    },
+    {
+      "id": 331,
+      "text": "St. John Cassian: Conferences, 3:6-7."
+    },
+    {
+      "id": 332,
+      "text": "In Exp. in Ps. 5 PG 55:63C."
+    },
+    {
+      "id": 333,
+      "text": "See ACW, Vol. 31, p. 316."
+    },
+    {
+      "id": 334,
+      "text": "Comm. in Gal. 3. PG 61:656C - D."
+    },
+    {
+      "id": 335,
+      "text": "رسالة 8:4."
+    },
+    {
+      "id": 336,
+      "text": "رسالة 2:13."
+    },
+    {
+      "id": 337,
+      "text": "Paedagogus 2:11."
+    },
+    {
+      "id": 338,
+      "text": "The One Hundred and Fifty Chapters, 66, 67."
+    },
+    {
+      "id": 339,
+      "text": "عظة 8:5"
+    },
+    {
+      "id": 340,
+      "text": "عظة 5:18."
+    },
+    {
+      "id": 341,
+      "text": "عظة 6 :18."
+    },
+    {
+      "id": 342,
+      "text": "Semon 32:6."
+    },
+    {
+      "id": 343,
+      "text": "Sernon 5:7."
+    },
+    {
+      "id": 344,
+      "text": "Sermons on New Testament Lessons, 8:13."
+    },
+    {
+      "id": 345,
+      "text": "Fragment 12 (P.N. Frs, 1:570)."
+    },
+    {
+      "id": 346,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 347,
+      "text": "Catechetical Lectures 15:23, 25."
+    },
+    {
+      "id": 348,
+      "text": "Ibid 18:19, 7:139."
+    },
+    {
+      "id": 349,
+      "text": "In 2Cor. hom 10. PG 61: 506-607."
+    },
+    {
+      "id": 350,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 351,
+      "text": "In 2Cor. hom 10:3."
+    },
+    {
+      "id": 352,
+      "text": "Sernon 5:10."
+    },
+    {
+      "id": 353,
+      "text": "The City of God, 20:17."
+    },
+    {
+      "id": 354,
+      "text": "The Resurrection of the Body from Moralium in Job 19:25."
+    },
+    {
+      "id": 355,
+      "text": "Adv. Haer. 5:37:1."
+    },
+    {
+      "id": 356,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 357,
+      "text": "في مديح القديس بولس، عظة 6."
+    },
+    {
+      "id": 358,
+      "text": "Commentary of Matthew, 13:21."
+    },
+    {
+      "id": 359,
+      "text": "In 2Cor. hom 10:3."
+    },
+    {
+      "id": 2,
+      "text": "Cor. hom 10. PG 61: 507."
+    },
+    {
+      "id": 3,
+      "text": "On the Spirit 16 ."
+    },
+    {
+      "id": 4,
+      "text": "PG 82:407."
+    },
+    {
+      "id": 5,
+      "text": "Question 59:4 (FC 70:114)."
+    },
+    {
+      "id": 6,
+      "text": "Hom 63 on Ps."
+    },
+    {
+      "id": 7,
+      "text": "CSEL 81:231."
+    },
+    {
+      "id": 8,
+      "text": "Letter to Honoratus."
+    },
+    {
+      "id": 9,
+      "text": "The Harmony of the Gospels, 4:10:20"
+    },
+    {
+      "id": 10,
+      "text": "Sermons on New Testament Lessons, 38:4."
+    },
+    {
+      "id": 11,
+      "text": "Sermons on New Testament Lessons, 77:5."
+    },
+    {
+      "id": 12,
+      "text": "Sermons on New Testament Lessons, 3:6."
+    },
+    {
+      "id": 13,
+      "text": "Sermons on New Testament Lessons, 41:9."
+    },
+    {
+      "id": 14,
+      "text": "A. J. Wensinck: Mystic Treatises by Isaac of Nineveh, 1923, p 210."
+    },
+    {
+      "id": 15,
+      "text": "Dana Miller: The Ascetical Homilies of St. Isaac the Syrian, 1984, p.223."
+    },
+    {
+      "id": 16,
+      "text": "من مجدٍ إلى مجدٍ، فصل 10:1."
+    },
+    {
+      "id": 17,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 18,
+      "text": "PG 82:407."
+    },
+    {
+      "id": 19,
+      "text": "On Christian Doctrine, 2:12 ."
+    },
+    {
+      "id": 20,
+      "text": "To Proba, 130 (FC 18:370)."
+    },
+    {
+      "id": 21,
+      "text": "In 2Cor. hom 10:4."
+    },
+    {
+      "id": 22,
+      "text": "An Exhortation to Martyrdom, 4."
+    },
+    {
+      "id": 23,
+      "text": "Comm. On John, book 1, ch. 9:15."
+    },
+    {
+      "id": 24,
+      "text": "Commentary on Matthew, 12:30."
+    },
+    {
+      "id": 25,
+      "text": "Commentary on Matthew, 14:8."
+    },
+    {
+      "id": 26,
+      "text": "Commentary on Song of Songs, Homily 4."
+    },
+    {
+      "id": 27,
+      "text": "In 2Cor. hom 11. PG 61: 513."
+    },
+    {
+      "id": 28,
+      "text": "من مجدٍ إلى مجدٍ، فصل 41:3."
+    },
+    {
+      "id": 29,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 30,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 31,
+      "text": "Sermons for Christmas and Epiphany (ACW), 12:1"
+    },
+    {
+      "id": 32,
+      "text": "St. John Cassian: 10:6."
+    },
+    {
+      "id": 33,
+      "text": "On Christian Doctrine, 1:34 ."
+    },
+    {
+      "id": 34,
+      "text": "Against Eunomius, 6:2"
+    },
+    {
+      "id": 35,
+      "text": "On Virginity, 2."
+    },
+    {
+      "id": 36,
+      "text": "In 2Cor. hom 11. PG 61: 513."
+    },
+    {
+      "id": 37,
+      "text": "Sermon 44:1."
+    },
+    {
+      "id": 38,
+      "text": "Sernon 42 on Luke 8:9-21."
+    },
+    {
+      "id": 39,
+      "text": "Sernon 60 on Luke 10:1-3."
+    },
+    {
+      "id": 40,
+      "text": "Against Eunomius, 4:3"
+    },
+    {
+      "id": 41,
+      "text": "Against Eunomius, 2:8."
+    },
+    {
+      "id": 42,
+      "text": "In Galat., hom 2"
+    },
+    {
+      "id": 43,
+      "text": "In 2Cor. hom 11. PG 61: 515."
+    },
+    {
+      "id": 44,
+      "text": "Sermons on New Testament Lessons, 31:3."
+    },
+    {
+      "id": 45,
+      "text": "Sermons on New Testament Lessons, 71:1."
+    },
+    {
+      "id": 46,
+      "text": "Commentary on John, 1:6."
+    },
+    {
+      "id": 47,
+      "text": "In 2Cor. hom 11. PG 61: 517."
+    },
+    {
+      "id": 48,
+      "text": "In 2Cor. hom 11. PG 61: 517."
+    },
+    {
+      "id": 49,
+      "text": "Against Eunomius, 2:11."
+    },
+    {
+      "id": 50,
+      "text": "Sermons on New Testament Lessons, 84:5."
+    },
+    {
+      "id": 51,
+      "text": "In 2Cor. Hom .121.."
+    },
+    {
+      "id": 52,
+      "text": "The Long Rules, 34."
+    },
+    {
+      "id": 53,
+      "text": "The Long Rules, Fathers of Church, vol. 9:224."
+    },
+    {
+      "id": 54,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 1."
+    },
+    {
+      "id": 55,
+      "text": "In Ephes., hom. 6."
+    },
+    {
+      "id": 56,
+      "text": "De Sacer. 3:15."
+    },
+    {
+      "id": 57,
+      "text": "الحب الرعوي، ص 178."
+    },
+    {
+      "id": 58,
+      "text": "In 1 Tim. Hom. 10"
+    },
+    {
+      "id": 59,
+      "text": "In 1 Tim. PG 62:552"
+    },
+    {
+      "id": 60,
+      "text": "In Act. PG 60: 225."
+    },
+    {
+      "id": 61,
+      "text": "In Eph. PG 62: 159."
+    },
+    {
+      "id": 62,
+      "text": "In Ezek. Hom. 5:4. PG 13:707."
+    },
+    {
+      "id": 63,
+      "text": "الحب الرعوي، ص 656."
+    },
+    {
+      "id": 64,
+      "text": "In Rom. Hom. 32."
+    },
+    {
+      "id": 65,
+      "text": "On the Christian Mode of Life."
+    },
+    {
+      "id": 66,
+      "text": "Sermons on New Testament Lessons, 20:1."
+    },
+    {
+      "id": 67,
+      "text": "A. J. Wensinck: Mystic Treatises by Isaac of Nineveh, 1923, p 288."
+    },
+    {
+      "id": 68,
+      "text": "Dana Miller: The Ascetical Homilies of St. Isaac the Syrian, 1984, p.279."
+    },
+    {
+      "id": 69,
+      "text": "Homilies on Leviticus, 6:6."
+    },
+    {
+      "id": 70,
+      "text": "Letter 21"
+    },
+    {
+      "id": 71,
+      "text": "Homilies on Leviticus, 4:6."
+    },
+    {
+      "id": 72,
+      "text": "في مديح القديس بولس، عظة 3."
+    },
+    {
+      "id": 73,
+      "text": "On Virginity, 20."
+    },
+    {
+      "id": 74,
+      "text": "In 2Cor. hom 12. PG 61: 525."
+    },
+    {
+      "id": 75,
+      "text": "من مجدٍ إلى مجدٍ، فصل 4:34."
+    },
+    {
+      "id": 76,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 77,
+      "text": "PG 82:414."
+    },
+    {
+      "id": 78,
+      "text": "On Virginity, 4."
+    },
+    {
+      "id": 79,
+      "text": "Letter 52."
+    },
+    {
+      "id": 80,
+      "text": "An Exhortation to Martyrdom, 43."
+    },
+    {
+      "id": 81,
+      "text": "Epistle 11:5 to Theoctista, Patrican."
+    },
+    {
+      "id": 82,
+      "text": "De mut Nom. PG 51:135-138."
+    },
+    {
+      "id": 83,
+      "text": "On Virginity, 4."
+    },
+    {
+      "id": 84,
+      "text": "Letter 157 to Hilarius."
+    },
+    {
+      "id": 85,
+      "text": "Sermons on New Testament Lessons, 35:3."
+    },
+    {
+      "id": 86,
+      "text": "In 2Cor. hom 13. PG 60: 531."
+    },
+    {
+      "id": 87,
+      "text": "In 2Cor. hom 13. PG 60: 531."
+    },
+    {
+      "id": 88,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 89,
+      "text": "In Ephes., hom. 9."
+    },
+    {
+      "id": 90,
+      "text": "في مديح القديس بولس، عظة 3."
+    },
+    {
+      "id": 91,
+      "text": "On Perfection."
+    },
+    {
+      "id": 92,
+      "text": "Commentary on Song of Songs, Homily 10."
+    },
+    {
+      "id": 93,
+      "text": "The Lord's Prayer, sermon 2. (ACW)"
+    },
+    {
+      "id": 94,
+      "text": "On Virginity, 15."
+    },
+    {
+      "id": 95,
+      "text": "Letter 73:15 to Jubian."
+    },
+    {
+      "id": 96,
+      "text": "Hom. 73 on Psalms."
+    },
+    {
+      "id": 97,
+      "text": "On the Indwelling of the Holy Spirit."
+    },
+    {
+      "id": 98,
+      "text": "Comm on John Book 1, ch. 9:24."
+    },
+    {
+      "id": 99,
+      "text": "Sermon 32:6."
+    },
+    {
+      "id": 100,
+      "text": "Sermon 57 on Luke 57:9-58."
+    },
+    {
+      "id": 101,
+      "text": "On Ps. Hom. 46."
+    },
+    {
+      "id": 102,
+      "text": "Stromata 3:73:4."
+    },
+    {
+      "id": 103,
+      "text": "Concerning Baptism 1:2."
+    },
+    {
+      "id": 104,
+      "text": "الفيلوكاليا، 1993 ، ص 177."
+    },
+    {
+      "id": 105,
+      "text": "تأملات في مديح للقديس غريغوريوس النزينزي ."
+    },
+    {
+      "id": 106,
+      "text": "Letter, 9."
+    },
+    {
+      "id": 107,
+      "text": "الفيلوكاليا، 1993 ، ص 142."
+    },
+    {
+      "id": 108,
+      "text": "الفيلوكاليا، 1993 ، ص 187."
+    },
+    {
+      "id": 109,
+      "text": "In 2Cor. hom 14. PG 61: 537."
+    },
+    {
+      "id": 110,
+      "text": "In 2Cor. hom 14. PG 61: 538."
+    },
+    {
+      "id": 111,
+      "text": "الحب الرعوي، ص 458."
+    },
+    {
+      "id": 112,
+      "text": "الحب الرعوي، ص 458-460."
+    },
+    {
+      "id": 113,
+      "text": "In Matt. Hom 17:6."
+    },
+    {
+      "id": 114,
+      "text": "Statues, Hom 2:10."
+    },
+    {
+      "id": 115,
+      "text": "PG 82:418."
+    },
+    {
+      "id": 116,
+      "text": "In 2Cor. hom 14. PG 61: 540."
+    },
+    {
+      "id": 117,
+      "text": "Against Eunomius, 2:14."
+    },
+    {
+      "id": 118,
+      "text": "Paradise 15:77."
+    },
+    {
+      "id": 119,
+      "text": "The Beatitude, sermon 3. (ACW)"
+    },
+    {
+      "id": 120,
+      "text": ". In Ephes., hom. 24."
+    },
+    {
+      "id": 121,
+      "text": "Easter Season 254:2."
+    },
+    {
+      "id": 122,
+      "text": "Easter Season 254:4."
+    },
+    {
+      "id": 123,
+      "text": "Hom. On Repentance and Compunction 7:6:19."
+    },
+    {
+      "id": 124,
+      "text": "In Thess, Hom., 5."
+    },
+    {
+      "id": 125,
+      "text": "In Eph., Hom. 16."
+    },
+    {
+      "id": 126,
+      "text": "The Long Rules, 52."
+    },
+    {
+      "id": 127,
+      "text": "In 2Cor. hom 16. PG 61: 552."
+    },
+    {
+      "id": 128,
+      "text": "In 2Cor. hom 16. PG 61: 555."
+    },
+    {
+      "id": 129,
+      "text": "In 1 Cor. Hom. 88."
+    },
+    {
+      "id": 130,
+      "text": "PG 82:422."
+    },
+    {
+      "id": 131,
+      "text": "In Rom., hom. 19."
+    },
+    {
+      "id": 132,
+      "text": "الحب والعطاء، 1970، ص 18."
+    },
+    {
+      "id": 133,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 37."
+    },
+    {
+      "id": 134,
+      "text": "PG 82:422-423."
+    },
+    {
+      "id": 135,
+      "text": "In Rom. Hom. 19."
+    },
+    {
+      "id": 136,
+      "text": "الحب والعطاء، 1970، ص 19."
+    },
+    {
+      "id": 137,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 37."
+    },
+    {
+      "id": 138,
+      "text": "In Acts hom., 45."
+    },
+    {
+      "id": 139,
+      "text": "PG 82:423."
+    },
+    {
+      "id": 140,
+      "text": "In 2Cor. hom 16. PG 61: 556."
+    },
+    {
+      "id": 141,
+      "text": "On Ps. Hom. 35."
+    },
+    {
+      "id": 142,
+      "text": "The Beatitude, sermon 1. (ACW)"
+    },
+    {
+      "id": 143,
+      "text": "Sermons for Christmas and Epiphany (ACW), 12:3."
+    },
+    {
+      "id": 144,
+      "text": "In Pilpp., hom. 6"
+    },
+    {
+      "id": 145,
+      "text": "In 2Cor. hom 17. PG 61: 560."
+    },
+    {
+      "id": 146,
+      "text": "On the Mystical Church PL 76:1159-1170."
+    },
+    {
+      "id": 147,
+      "text": "In 2Cor. hom 18. PG 61: 565."
+    },
+    {
+      "id": 148,
+      "text": "On Christian Doctrine, 4:28 ."
+    },
+    {
+      "id": 149,
+      "text": "In 2Cor. hom 18. PG 61: 567."
+    },
+    {
+      "id": 150,
+      "text": "In 2Cor. hom !9:1."
+    },
+    {
+      "id": 151,
+      "text": "PG 82: 430."
+    },
+    {
+      "id": 152,
+      "text": "In 2Cor. hom 19. PG 61: 573."
+    },
+    {
+      "id": 153,
+      "text": "In 2Cor. hom 19. PG 61: 573."
+    },
+    {
+      "id": 154,
+      "text": "In 2Cor. hom 19. PG 61: 573."
+    },
+    {
+      "id": 155,
+      "text": "Homilies, 13:7."
+    },
+    {
+      "id": 156,
+      "text": "Homily 8:2 (Frs. of the Church)."
+    },
+    {
+      "id": 157,
+      "text": "Homily 9:1 (Frs. of the Church)."
+    },
+    {
+      "id": 158,
+      "text": "Letter, 268."
+    },
+    {
+      "id": 159,
+      "text": "In Gen. Hom., 43:8."
+    },
+    {
+      "id": 160,
+      "text": "Homilia de paenitentia seu de eleemmosyna. PG 49: 291- 300."
+    },
+    {
+      "id": 161,
+      "text": "St. Basil: De eleemmosyna. PG 31: 1158."
+    },
+    {
+      "id": 162,
+      "text": "Cf. Homily 10.4:16 A Sermon on Almsgiving."
+    },
+    {
+      "id": 163,
+      "text": "Sermon 71 on Fasting and Almsgiving."
+    },
+    {
+      "id": 164,
+      "text": "In 2Cor. hom 19:2."
+    },
+    {
+      "id": 165,
+      "text": "In 2Cor. hom 19:23."
+    },
+    {
+      "id": 166,
+      "text": "المطران أبيفانيوس: الأماني الذهبية من مقالات لأبينا الجليل في القديسين يوحنا ذهبي الفم، 1972، ص 15، 133."
+    },
+    {
+      "id": 167,
+      "text": "In 2Cor. hom 20:1."
+    },
+    {
+      "id": 168,
+      "text": "In 2Cor. hom 20:1."
+    },
+    {
+      "id": 169,
+      "text": "PG 82:431."
+    },
+    {
+      "id": 170,
+      "text": "In 2Cor. hom 20:2."
+    },
+    {
+      "id": 171,
+      "text": "PG 82: 434."
+    },
+    {
+      "id": 172,
+      "text": "PG 82:434."
+    },
+    {
+      "id": 173,
+      "text": "PG 82:434."
+    },
+    {
+      "id": 174,
+      "text": "PG 82:434"
+    },
+    {
+      "id": 175,
+      "text": "In 2 Cor. hom 21. PG 61: 584."
+    },
+    {
+      "id": 176,
+      "text": "In 2 Cor. hom 21. PG 61: 585."
+    },
+    {
+      "id": 177,
+      "text": "Sermon 50:4."
+    },
+    {
+      "id": 178,
+      "text": "On The Judgment Of God."
+    },
+    {
+      "id": 179,
+      "text": "In 2 Cor. hom 21. PG 61: 585."
+    },
+    {
+      "id": 180,
+      "text": "On Priesthood, book 4:7."
+    },
+    {
+      "id": 181,
+      "text": "Sermon 9:11."
+    },
+    {
+      "id": 182,
+      "text": "PG 82: 435."
+    },
+    {
+      "id": 183,
+      "text": "In 2Cor. hom 21. PG 61: 585-586."
+    },
+    {
+      "id": 184,
+      "text": "CSEL81:274."
+    },
+    {
+      "id": 185,
+      "text": "CSEL 81: 276."
+    },
+    {
+      "id": 186,
+      "text": "In 2Cor. hom 22. PG 61: 590."
+    },
+    {
+      "id": 187,
+      "text": "Adam Clarke Commentary."
+    },
+    {
+      "id": 188,
+      "text": "Ibid."
+    },
+    {
+      "id": 189,
+      "text": "On Christian Doctrine, 4:7 ."
+    },
+    {
+      "id": 190,
+      "text": "In 2 Cor. hom 22:2."
+    },
+    {
+      "id": 191,
+      "text": "In 2 Cor. hom 22. PG 61: 590-591."
+    },
+    {
+      "id": 192,
+      "text": "In 2 Cor. hom 22. PG 61: 591."
+    },
+    {
+      "id": 193,
+      "text": "CSEL 81: 277-278."
+    },
+    {
+      "id": 194,
+      "text": "In 2 Cor. Hom22:3."
+    },
+    {
+      "id": 195,
+      "text": "CSEL 81:279."
+    },
+    {
+      "id": 196,
+      "text": "In 2Cor. Hom 23:3"
+    },
+    {
+      "id": 197,
+      "text": "CSEL 81: 279-80."
+    },
+    {
+      "id": 198,
+      "text": "In 2 Cor. hom 23:1."
+    },
+    {
+      "id": 199,
+      "text": "In 2Cor. hom 23. PG 61: 595."
+    },
+    {
+      "id": 200,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 201,
+      "text": "In 2Cor. hom 23. PG 61: 596."
+    },
+    {
+      "id": 202,
+      "text": "Selected Sermons (Frs. of the Church, 5."
+    },
+    {
+      "id": 203,
+      "text": "Selected Sermons (Frs. of the Church), 146."
+    },
+    {
+      "id": 204,
+      "text": "Sermons for Christmas and Epiphany (ACW), 13:2."
+    },
+    {
+      "id": 205,
+      "text": "Sermons on New Testament Lessons, 43:4."
+    },
+    {
+      "id": 206,
+      "text": "Feast of the Nativity, 188."
+    },
+    {
+      "id": 207,
+      "text": "Feast of the Nativity,195:2."
+    },
+    {
+      "id": 208,
+      "text": "Converts and the Creed, 213:7."
+    },
+    {
+      "id": 209,
+      "text": "Sermon 155:4, On the Ten Virgins."
+    },
+    {
+      "id": 210,
+      "text": "In Ephes., hom. 22."
+    },
+    {
+      "id": 211,
+      "text": "In 2 Cor. hom 23. PG 61: 597-598."
+    },
+    {
+      "id": 212,
+      "text": "In 2 Cor. hom 23. PG 61: 598."
+    },
+    {
+      "id": 213,
+      "text": "On Priesthood, book 4:6."
+    },
+    {
+      "id": 214,
+      "text": "In 2 Cor. hom 23:3."
+    },
+    {
+      "id": 215,
+      "text": "Against Rufinus 1:17."
+    },
+    {
+      "id": 216,
+      "text": "Sermon 17:10."
+    },
+    {
+      "id": 217,
+      "text": "CSEL 81:284."
+    },
+    {
+      "id": 218,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 219,
+      "text": "In 2 Cor. hom 24:1."
+    },
+    {
+      "id": 220,
+      "text": "The Unity of the Catholic Church, 3."
+    },
+    {
+      "id": 221,
+      "text": "On Ps., hom. 20."
+    },
+    {
+      "id": 222,
+      "text": "In 2 Cor. hom 24:1."
+    },
+    {
+      "id": 223,
+      "text": "PG 82:442."
+    },
+    {
+      "id": 224,
+      "text": "On Lying."
+    },
+    {
+      "id": 225,
+      "text": "City of God 19:9."
+    },
+    {
+      "id": 226,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 227,
+      "text": "In 2 Cor. hom 24:2."
+    },
+    {
+      "id": 228,
+      "text": "In 2 Cor. hom 24. PG 61: 608"
+    },
+    {
+      "id": 229,
+      "text": "In 2 Cor. hom 24:2."
+    },
+    {
+      "id": 230,
+      "text": "In Gen. Hom 55."
+    },
+    {
+      "id": 231,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 232,
+      "text": "In Galat., hom. 1."
+    },
+    {
+      "id": 233,
+      "text": "Mishna, Maccoth, Fol 20, 10."
+    },
+    {
+      "id": 234,
+      "text": "In 2 Cor. hom 25. PG 61: 614-615"
+    },
+    {
+      "id": 235,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 236,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 237,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 238,
+      "text": "Letter 208 to Felicia."
+    },
+    {
+      "id": 239,
+      "text": "Macrobius.Letter 108 to"
+    },
+    {
+      "id": 240,
+      "text": "On Christian Doctrine, 4:7."
+    },
+    {
+      "id": 241,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 242,
+      "text": "في مديح القديس بولس، عظة 1."
+    },
+    {
+      "id": 243,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 244,
+      "text": "Letter 62: 1."
+    },
+    {
+      "id": 245,
+      "text": "Letter 40 to Jerome."
+    },
+    {
+      "id": 246,
+      "text": "On Genesis, hom 57."
+    },
+    {
+      "id": 247,
+      "text": "In 2 Cor. hom 25:2."
+    },
+    {
+      "id": 248,
+      "text": "Sermon 26:6."
+    },
+    {
+      "id": 249,
+      "text": "Antiq. 1:13c. 15:2; 1:16c. 1:4."
+    },
+    {
+      "id": 250,
+      "text": "Joseph, Antiq. lib. 18c. 5."
+    },
+    {
+      "id": 251,
+      "text": "Letter 228 to Honiratus"
+    },
+    {
+      "id": 252,
+      "text": "In 2Cor. hom 26:1-2."
+    },
+    {
+      "id": 253,
+      "text": "The Hesychast Method of Prayer and the Transformation of the Body, The Trial 2:2:5"
+    },
+    {
+      "id": 254,
+      "text": "On Priesthood, book 4:6."
+    },
+    {
+      "id": 255,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 256,
+      "text": "To Olympias, 17."
+    },
+    {
+      "id": 257,
+      "text": "Sermons on New Testament Lessons, 3:12."
+    },
+    {
+      "id": 258,
+      "text": "In 2 Cor. hom 26. PG 61: 618-619."
+    },
+    {
+      "id": 259,
+      "text": "On the Trinity 11."
+    },
+    {
+      "id": 260,
+      "text": "Commentary on Song of Songs, Homily 3."
+    },
+    {
+      "id": 261,
+      "text": "The Song of Songs, Comm., Book 1:5."
+    },
+    {
+      "id": 262,
+      "text": "On Christian Doctrine, Preface 5, 6."
+    },
+    {
+      "id": 263,
+      "text": "In Ephes., hom. 8."
+    },
+    {
+      "id": 264,
+      "text": "Against Eunomius, 1:23."
+    },
+    {
+      "id": 265,
+      "text": "Pauline Commentary from the Greek Church."
+    },
+    {
+      "id": 266,
+      "text": "Letter, 94."
+    },
+    {
+      "id": 267,
+      "text": "In 2Cor. Hom 26:2."
+    },
+    {
+      "id": 268,
+      "text": "CSEL 81:301"
+    },
+    {
+      "id": 269,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 270,
+      "text": "Sermon 7. Question 3."
+    },
+    {
+      "id": 271,
+      "text": "In 2 Cor. hom 26. PG 61: 620-621."
+    },
+    {
+      "id": 272,
+      "text": "في مديح القديس بولس، عظة 6."
+    },
+    {
+      "id": 273,
+      "text": "Pauline Commentary from the Greek Church."
+    },
+    {
+      "id": 274,
+      "text": "PG 82: 450."
+    },
+    {
+      "id": 275,
+      "text": "Against the Manicheans, 2:28:42."
+    },
+    {
+      "id": 276,
+      "text": "To Proba, 130."
+    },
+    {
+      "id": 277,
+      "text": "Mortality, 13."
+    },
+    {
+      "id": 278,
+      "text": "To Olympias, 90."
+    },
+    {
+      "id": 279,
+      "text": "In 2Cor. hom 26. PG 61:621."
+    },
+    {
+      "id": 280,
+      "text": "PG 82:450."
+    },
+    {
+      "id": 281,
+      "text": "Letter to Emperors, 1."
+    },
+    {
+      "id": 282,
+      "text": "In 2Cor. Hom 26:3."
+    },
+    {
+      "id": 283,
+      "text": "In Ephes., hom. 9."
+    },
+    {
+      "id": 284,
+      "text": "On Divine Providence, Dis., 10:10. (ACW)"
+    },
+    {
+      "id": 285,
+      "text": "On Ps. Hom. 16."
+    },
+    {
+      "id": 286,
+      "text": "On Ps. Hom. 35."
+    },
+    {
+      "id": 287,
+      "text": "في مديح القديس بولس، عظة 2."
+    },
+    {
+      "id": 288,
+      "text": "Hom. 20 On Ps. 59."
+    },
+    {
+      "id": 289,
+      "text": "في مديح القديس بولس، عظة 5."
+    },
+    {
+      "id": 290,
+      "text": "In 2Cor. hom 27:1."
+    },
+    {
+      "id": 291,
+      "text": "PG 82:451."
+    },
+    {
+      "id": 292,
+      "text": "In 2Cor. hom 27:2."
+    },
+    {
+      "id": 293,
+      "text": "In 2Cor. hom 27:2."
+    },
+    {
+      "id": 294,
+      "text": "Sermons on New Testament Lessons, 40:10."
+    },
+    {
+      "id": 295,
+      "text": "في مديح القديس بولس، عظة 3."
+    },
+    {
+      "id": 296,
+      "text": "In 2Cor. hom 27:2-3."
+    },
+    {
+      "id": 297,
+      "text": "In 2Cor. hom 28:2."
+    },
+    {
+      "id": 298,
+      "text": "في مديح القديس بولس، عظة 3."
+    },
+    {
+      "id": 299,
+      "text": "In 2Cor. hom 28:2."
+    },
+    {
+      "id": 300,
+      "text": "In 2Cor. hom 29:1."
+    },
+    {
+      "id": 301,
+      "text": "In 2Cor. hom 29. PG 61: 640."
+    },
+    {
+      "id": 302,
+      "text": "In 2Cor. hom 29:1."
+    },
+    {
+      "id": 303,
+      "text": "On Ps., hom 16."
+    },
+    {
+      "id": 304,
+      "text": "In 2Cor. hom 29:2."
+    },
+    {
+      "id": 305,
+      "text": "In 2Cor. hom 29. PG 61: 61:642."
+    },
+    {
+      "id": 306,
+      "text": "Commentary on Song of Songs, Homily 3."
+    },
+    {
+      "id": 307,
+      "text": "Commentary on Song of Songs, Homily 7."
+    },
+    {
+      "id": 308,
+      "text": "Commentary on Song of Songs, Homily 7."
+    },
+    {
+      "id": 309,
+      "text": "Sermons on New Testament Lessons, 32:8."
+    },
+    {
+      "id": 310,
+      "text": "Sermons for Christmas and Epiphany (ACW), 16:5."
+    },
+    {
+      "id": 311,
+      "text": "Sermons on New Testament Lessons, 78:3."
+    },
+    {
+      "id": 312,
+      "text": "Homily 11:4 (Frs. of the Church)."
+    },
+    {
+      "id": 313,
+      "text": "Commentary on John,6:3."
+    },
+    {
+      "id": 314,
+      "text": "Commentary on John,10:8."
+    },
+    {
+      "id": 315,
+      "text": "In 2Cor. hom 29. PG 61: 61:642."
+    },
+    {
+      "id": 316,
+      "text": "In 2Cor. hom 29. PG 61: 61:644."
+    },
+    {
+      "id": 317,
+      "text": "Sermons on New Testament Lessons, 38:1."
+    },
+    {
+      "id": 318,
+      "text": "In 2Cor. hom 29:4."
+    },
+    {
+      "id": 319,
+      "text": "In 2Cor. hom 29. PG 61: 61:644."
+    },
+    {
+      "id": 320,
+      "text": "In 2Cor. hom 29. PG 61: 61:645-646."
+    },
+    {
+      "id": 321,
+      "text": "In 2Cor. hom 29:5."
+    },
+    {
+      "id": 322,
+      "text": "In 2Cor. hom 30:1."
+    },
+    {
+      "id": 323,
+      "text": "In Matt. Hom. 18:9."
+    },
+    {
+      "id": 324,
+      "text": "In 2Cor. hom 30. PG 61: 61:649-650."
+    },
+    {
+      "id": 325,
+      "text": "In 2Cor. hom 30:1."
+    },
+    {
+      "id": 326,
+      "text": "The Song of Songs, Comm., Book 3:13. (ACW)"
+    },
+    {
+      "id": 327,
+      "text": "CSEL 81: 313- 314."
+    },
+    {
+      "id": 328,
+      "text": "In 2Cor. hom 30:2."
+    },
+    {
+      "id": 329,
+      "text": "The Holy Spirit 1: 12: 13."
+    },
+    {
+      "id": 330,
+      "text": "In 2Cor. hom 30:3."
+    }
+  ]
+}

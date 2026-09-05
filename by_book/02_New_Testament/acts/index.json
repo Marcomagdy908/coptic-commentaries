@@ -1,0 +1,7631 @@
+{
+  "book_id": 48,
+  "book_title": "تفسير سفر أعمال الرسل",
+  "testament": "New Testament",
+  "chapters_count": 28,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الإعداد لميلاد الكنيسة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ميلاد الكنيسة في يوم البنطقستي"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "شفاء كسيح"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "بطرس ويوحنا أمام المجمع"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "حنانيا وسفيرة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "انتخاب سبعة شمامسة"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "خطاب استفانوس"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "شاول يضطهد الكنيسة"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "اهتداء شاول"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "انفتاح عينيّ بطرس على خدمة الأمم"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "خصومة بسبب خدمة الأمم!"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "تكملة الرحلة التبشيرية الأولى"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "رحلة القديس بولس التبشيرية الثانية"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "سجن في فيلبي أم تسبيح في السماء؟"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "من فيلبي إلى أثينا"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "في كورنثوس"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "اضطراب خطير في أفسس"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "إقامة أفتيخوس في ترواس وخطاب وداعي"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 2,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 3,
+      "text": "Letter 127 to Principia,4."
+    },
+    {
+      "id": 4,
+      "text": "John Cassian: Conferences, 14:9."
+    },
+    {
+      "id": 5,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 6,
+      "text": "للتعرف على ظهوراته راجع كتابنا عن الإنجيل بحسب يوحنا، 2002، ص 1270."
+    },
+    {
+      "id": 7,
+      "text": "In Ioan., tr., 64:1."
+    },
+    {
+      "id": 8,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 9,
+      "text": "Sermons, 1:32."
+    },
+    {
+      "id": 10,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 11,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 12,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 13,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 14,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 15,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 16,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 17,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 18,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 19,
+      "text": "مقالات لطالبي العماد 17: 13-14."
+    },
+    {
+      "id": 20,
+      "text": "Cf. Adam Clarke: Acts, preface."
+    },
+    {
+      "id": 21,
+      "text": "In Ioan., tr., 25:3"
+    },
+    {
+      "id": 22,
+      "text": "Cf. Letter 144 to Alypius and Augustine, 8."
+    },
+    {
+      "id": 23,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 24,
+      "text": "On the Trinity, 9:75."
+    },
+    {
+      "id": 25,
+      "text": "Sermons on N.T. Lessons, 43:8."
+    },
+    {
+      "id": 26,
+      "text": "مقالات لطالبي العماد 15: 4."
+    },
+    {
+      "id": 27,
+      "text": "City of God, 18:50."
+    },
+    {
+      "id": 28,
+      "text": "In Ioan., tr., 2:3."
+    },
+    {
+      "id": 29,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 30,
+      "text": "In Sanctum Matt. Ch. 10: 1."
+    },
+    {
+      "id": 31,
+      "text": "Letters 185: 1-5."
+    },
+    {
+      "id": 32,
+      "text": "In Ascensione, PG 50."
+    },
+    {
+      "id": 33,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 34,
+      "text": "Comment. on Ps. 104."
+    },
+    {
+      "id": 35,
+      "text": "In Ioan., tr., 50:13."
+    },
+    {
+      "id": 36,
+      "text": "On the Resurrection, 9."
+    },
+    {
+      "id": 37,
+      "text": "Barnes’ Notes on Acts 1: 10."
+    },
+    {
+      "id": 38,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 39,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 40,
+      "text": "Homilies on Hebr., hom. 3:4."
+    },
+    {
+      "id": 41,
+      "text": "Comm. in Jo., 6,56.v"
+    },
+    {
+      "id": 42,
+      "text": "In Ascensione PG 50."
+    },
+    {
+      "id": 43,
+      "text": "Comment. on Ps. 47."
+    },
+    {
+      "id": 44,
+      "text": "Exposition of the Orthodox Faith, 4:1."
+    },
+    {
+      "id": 45,
+      "text": "Exposition of the Orthodox Faith, 12."
+    },
+    {
+      "id": 46,
+      "text": "Sermons, 265:1."
+    },
+    {
+      "id": 47,
+      "text": "In Ioan., tr., 21:13."
+    },
+    {
+      "id": 48,
+      "text": "In Ioan., tr.,36:12."
+    },
+    {
+      "id": 49,
+      "text": "Hom. on Thess., hom. 8."
+    },
+    {
+      "id": 50,
+      "text": "Epistles, 60 to Adelphium, 5."
+    },
+    {
+      "id": 51,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 52,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 53,
+      "text": "Epistles, 67:4."
+    },
+    {
+      "id": 54,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 55,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 56,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 57,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 58,
+      "text": "Hom. on Acts, Homily 3."
+    },
+    {
+      "id": 59,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 60,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 61,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 62,
+      "text": "On the Holy Spirit, 3:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 63,
+      "text": "On the Holy Spirit, 1: 33. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 64,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 65,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 66,
+      "text": "H.E. 3:39."
+    },
+    {
+      "id": 67,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 68,
+      "text": "Jewish Tract, Baal Turim"
+    },
+    {
+      "id": 69,
+      "text": "Sermons on N.T. Lessons, 75:5."
+    },
+    {
+      "id": 70,
+      "text": "In Ioan., tr., 27:10."
+    },
+    {
+      "id": 71,
+      "text": "In Ioan., tr.,49:8."
+    },
+    {
+      "id": 72,
+      "text": "راجع تفسير اللاويين ، ص 23."
+    },
+    {
+      "id": 73,
+      "text": "On Baptism, 19."
+    },
+    {
+      "id": 74,
+      "text": "Homilies on Acts, hom. 4."
+    },
+    {
+      "id": 75,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 76,
+      "text": "نشيد الأناشيد للقديس غريغوريوس أسقف نيصص، تعريب الدكتور جورج نوّار، عظة 4."
+    },
+    {
+      "id": 77,
+      "text": "Of the Holy Spirit 1:16:177-178."
+    },
+    {
+      "id": 78,
+      "text": "On Ps. hom. 57."
+    },
+    {
+      "id": 79,
+      "text": "Pschal Epistles, 4:3."
+    },
+    {
+      "id": 80,
+      "text": "St. Gregory of Nazianzen: On Pentecost, 12."
+    },
+    {
+      "id": 81,
+      "text": "Sermon 96:1."
+    },
+    {
+      "id": 82,
+      "text": "St. Ambrose: The Duties of the Clergy, Book 3, 18 { 105 } ."
+    },
+    {
+      "id": 83,
+      "text": "St. Ambrose: The Duty of the Clergy, Book 1:14:164,165."
+    },
+    {
+      "id": 84,
+      "text": "Duties of the Clergy, 3:18 {102 } ."
+    },
+    {
+      "id": 85,
+      "text": "St. Augustine: Confessions 5:30:4."
+    },
+    {
+      "id": 86,
+      "text": "Hom. on Ps. 5."
+    },
+    {
+      "id": 87,
+      "text": "In Ioan., tr.,21:19."
+    },
+    {
+      "id": 88,
+      "text": "مقالات لطالبي العماد 17: 15."
+    },
+    {
+      "id": 89,
+      "text": "Homilies on Song of Songs, 13. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 90,
+      "text": "Sermons on N.T. Lessons, 37:9."
+    },
+    {
+      "id": 91,
+      "text": "Homilies on Luke 29:1."
+    },
+    {
+      "id": 92,
+      "text": "مقالات لطالبي العماد 17: 16-17."
+    },
+    {
+      "id": 93,
+      "text": "In Ioan., tr., 4:10."
+    },
+    {
+      "id": 94,
+      "text": "Sermons on N.T. Lessons, 9:10."
+    },
+    {
+      "id": 95,
+      "text": "Sermons on N.T. Lessons, 39:1."
+    },
+    {
+      "id": 96,
+      "text": "Sermons on N.T. Lessons, 37:9."
+    },
+    {
+      "id": 97,
+      "text": "Answer to Eunomius, Second Book."
+    },
+    {
+      "id": 98,
+      "text": "Lect. Catech., 17:14."
+    },
+    {
+      "id": 99,
+      "text": "Lect. Catech., 17:16."
+    },
+    {
+      "id": 100,
+      "text": "Lect. Catech., 17:17."
+    },
+    {
+      "id": 101,
+      "text": "Dio Cassio LXIII:32."
+    },
+    {
+      "id": 102,
+      "text": "Comment. on Ps. 68, article 23."
+    },
+    {
+      "id": 103,
+      "text": "Lect. Catech., 17:18."
+    },
+    {
+      "id": 104,
+      "text": "مقالات لطالبي العماد 17: 18-19."
+    },
+    {
+      "id": 105,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 106,
+      "text": "On Prayer, 25."
+    },
+    {
+      "id": 107,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 108,
+      "text": "See Matthew Henery: Comm. on Acts 2."
+    },
+    {
+      "id": 109,
+      "text": "Adv. Arian. 2:15:18."
+    },
+    {
+      "id": 110,
+      "text": "عظة 50: 3-4"
+    },
+    {
+      "id": 111,
+      "text": "On the Resurrection of the Flesh, 63."
+    },
+    {
+      "id": 112,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 113,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 114,
+      "text": "Contra Arians 2:42, 3:24."
+    },
+    {
+      "id": 115,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 116,
+      "text": "Cf. Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 117,
+      "text": "On the Flesh of Christ, ch. 15."
+    },
+    {
+      "id": 118,
+      "text": "Lettens, 41:13."
+    },
+    {
+      "id": 119,
+      "text": "Midris Tillin."
+    },
+    {
+      "id": 120,
+      "text": "Chagig, fol. 78."
+    },
+    {
+      "id": 121,
+      "text": "In Ioan., tr., 842"
+    },
+    {
+      "id": 122,
+      "text": "Letter Pamachius against John of Jerusalem, 29."
+    },
+    {
+      "id": 123,
+      "text": "Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 124,
+      "text": "Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 125,
+      "text": "Against Eunomius, 5:2."
+    },
+    {
+      "id": 126,
+      "text": "Against Eunomius, 5:2."
+    },
+    {
+      "id": 127,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 128,
+      "text": "Adv. Arian. 2:15:12."
+    },
+    {
+      "id": 129,
+      "text": "Ibid 2:15.14."
+    },
+    {
+      "id": 130,
+      "text": "Sermons on N.T. Lessons, 39 :1."
+    },
+    {
+      "id": 131,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 132,
+      "text": "Sermons on N.T. Lessons, 27:4."
+    },
+    {
+      "id": 133,
+      "text": "Lect. Catech., 17:15."
+    },
+    {
+      "id": 134,
+      "text": "Lect. Catech., 17:21."
+    },
+    {
+      "id": 135,
+      "text": "Homilies on Luke 14:5."
+    },
+    {
+      "id": 136,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 137,
+      "text": "In Epis. Ad Rom. Hom 2."
+    },
+    {
+      "id": 138,
+      "text": "Baptismal Instructions, 12:22."
+    },
+    {
+      "id": 139,
+      "text": "ميمر عن المعمودية المقدسة (مخطوط بدير الأنبا أنطونيوس نسخ عام 1488 ش)."
+    },
+    {
+      "id": 140,
+      "text": "St. Jerome: Letter to John, bishop of Jerusalem, 3."
+    },
+    {
+      "id": 141,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 142,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 114."
+    },
+    {
+      "id": 143,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 144,
+      "text": "مقالات لطالبي العماد 3:9."
+    },
+    {
+      "id": 145,
+      "text": "رسالة 9."
+    },
+    {
+      "id": 146,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 147,
+      "text": "Hom. 78 in John. PG 59: 425."
+    },
+    {
+      "id": 148,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 149,
+      "text": "Epistle to Evagrius."
+    },
+    {
+      "id": 150,
+      "text": "In Ioan., tr., 39:5."
+    },
+    {
+      "id": 151,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 152,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 153,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 154,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 155,
+      "text": "Homilies on St. John, hom. 75:5."
+    },
+    {
+      "id": 156,
+      "text": "Cassian: Conferences, 16:3."
+    },
+    {
+      "id": 157,
+      "text": "دير السريان: القديس باسيليوس الكبير، سنة 196، ص 121."
+    },
+    {
+      "id": 158,
+      "text": "Sermon on N.T. lessons, 3:14."
+    },
+    {
+      "id": 159,
+      "text": "A. J. Wensinck: Mystic Treatises by Isaac of Nineveh, 1923, p 233."
+    },
+    {
+      "id": 160,
+      "text": "The Prayer of Job and David, B.1, 9: 30."
+    },
+    {
+      "id": 161,
+      "text": "Of the Christian Faith, 3:4 {31 } ."
+    },
+    {
+      "id": 162,
+      "text": "Comment. on Ps. 54."
+    },
+    {
+      "id": 163,
+      "text": "Letter 22:32."
+    },
+    {
+      "id": 164,
+      "text": "Letter 52 to Nepotian, 10."
+    },
+    {
+      "id": 165,
+      "text": "Letter 123:15."
+    },
+    {
+      "id": 166,
+      "text": "Homilies on Acts, hom. 8."
+    },
+    {
+      "id": 167,
+      "text": "Homilies on Hebr., hom. 18:6."
+    },
+    {
+      "id": 168,
+      "text": "St. Ambrose: Joseph, 3:17 (Translated by Guirguis Kamel Youssef)."
+    },
+    {
+      "id": 169,
+      "text": "Joseph, 7:42."
+    },
+    {
+      "id": 170,
+      "text": "Homilies on Acts, hom. 8."
+    },
+    {
+      "id": 171,
+      "text": "On Prescription against Heretics, 7."
+    },
+    {
+      "id": 172,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 173,
+      "text": "In Matt., 83. PG. 58:742-743 A."
+    },
+    {
+      "id": 174,
+      "text": "St. John Cassian: Conferences, 15:6-7."
+    },
+    {
+      "id": 175,
+      "text": "Fragment 185 on Luke 11:24."
+    },
+    {
+      "id": 176,
+      "text": "مقالات لطالبي العماد 3 :15-16."
+    },
+    {
+      "id": 177,
+      "text": "Adv. Haer. 2:22:5."
+    },
+    {
+      "id": 178,
+      "text": "In Cap. 25 St. Mat. PG 56: 930."
+    },
+    {
+      "id": 179,
+      "text": ". In Cap. 25 St. Mat. PG 56: 930"
+    },
+    {
+      "id": 180,
+      "text": "Sermon 1"
+    },
+    {
+      "id": 181,
+      "text": "Comm. on Luke, Sermon 47."
+    },
+    {
+      "id": 182,
+      "text": "De Mortalitate PL 4: 590 f."
+    },
+    {
+      "id": 183,
+      "text": "Homilies on St. John, hom. 84:2."
+    },
+    {
+      "id": 184,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 185,
+      "text": "St. John Cassian: Conferences, 20:8."
+    },
+    {
+      "id": 186,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 187,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 188,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 189,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 190,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 191,
+      "text": "عظة 3:7."
+    },
+    {
+      "id": 192,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 193,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 194,
+      "text": "On the Decease of his Brother Satyrus, Book 2:45."
+    },
+    {
+      "id": 195,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 196,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 197,
+      "text": "On Ps. 118."
+    },
+    {
+      "id": 198,
+      "text": "Sermon 1"
+    },
+    {
+      "id": 199,
+      "text": "Ibid 4:353."
+    },
+    {
+      "id": 200,
+      "text": "Ad Cornelium epist. 3. Lib 1 PLEASE 3:798."
+    },
+    {
+      "id": 201,
+      "text": "Paedagogus 1:9."
+    },
+    {
+      "id": 202,
+      "text": "Paed. 2:9."
+    },
+    {
+      "id": 203,
+      "text": "Ep. ad Pammachium PL 22:1206."
+    },
+    {
+      "id": 204,
+      "text": "Comm. On Paul’s Epistles (Rom. 4:11)."
+    },
+    {
+      "id": 205,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 206,
+      "text": "St. John Cassian: Conferences, 14:16."
+    },
+    {
+      "id": 207,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 208,
+      "text": "Hom. On Romans, hom. 15."
+    },
+    {
+      "id": 209,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 210,
+      "text": "Commentary on Paul’s Epistles (1 Cor. 9:16)."
+    },
+    {
+      "id": 211,
+      "text": "Homilies on Acts, hom. 10."
+    },
+    {
+      "id": 212,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 213,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 214,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 215,
+      "text": "جزء 1، ميمر 5."
+    },
+    {
+      "id": 216,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 217,
+      "text": "On the Trinity, 11:8."
+    },
+    {
+      "id": 218,
+      "text": "Comm. On Luke, Sermon 119."
+    },
+    {
+      "id": 219,
+      "text": "De Exhortatione Martyrum PL 4:664 ff."
+    },
+    {
+      "id": 220,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 221,
+      "text": "Comm. On St. Luke, hom 113-116."
+    },
+    {
+      "id": 222,
+      "text": "Sermons on N.T. Lessons, 66:6."
+    },
+    {
+      "id": 223,
+      "text": "Sermon 163:3."
+    },
+    {
+      "id": 224,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 225,
+      "text": "Fulgentius of Ruspe: Letter to Victor 9: 5-6."
+    },
+    {
+      "id": 226,
+      "text": "وضع الأب فلجنتيوس (حوالي 467- 532 م.) عظات كثيرة، وقد تأثر بالقديس أغسطينوس ."
+    },
+    {
+      "id": 227,
+      "text": "Sermons on N.T. Lessons, 53:4."
+    },
+    {
+      "id": 228,
+      "text": "St. John Cassian: Conferences, 18:5."
+    },
+    {
+      "id": 229,
+      "text": "St. John Cassian: Conferences, 16:6."
+    },
+    {
+      "id": 230,
+      "text": "Cf. Isaac, or the Soul, 7: 59."
+    },
+    {
+      "id": 231,
+      "text": "Epistles, 7:3."
+    },
+    {
+      "id": 232,
+      "text": "Cf. Treatise 8 on Works and Alms, 2:5."
+    },
+    {
+      "id": 233,
+      "text": "De institutis caeoborum, 2:5."
+    },
+    {
+      "id": 234,
+      "text": "Comm. On St. Luke, hom. 64."
+    },
+    {
+      "id": 235,
+      "text": "ترجمة مركز دراسات الآباء بالقاهرة."
+    },
+    {
+      "id": 236,
+      "text": "Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 237,
+      "text": "Comm. On St. Luke, hom. 123."
+    },
+    {
+      "id": 238,
+      "text": "Cf. Homilies on Acts, hom. 11."
+    },
+    {
+      "id": 239,
+      "text": "Homilies on Romans, hom. 11."
+    },
+    {
+      "id": 240,
+      "text": "Epistles, 64:2."
+    },
+    {
+      "id": 241,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 242,
+      "text": "Letter 4 to Julian, a wealthy nobleman, 4. (His wife and two daughters had recently died)"
+    },
+    {
+      "id": 243,
+      "text": "Letter 14 to Heliodorius the monk, 5."
+    },
+    {
+      "id": 244,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 245,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 246,
+      "text": "Baptismal Instructions, 2:7."
+    },
+    {
+      "id": 247,
+      "text": "Severian pf Gabala: Pouline Comm. From the Greek Church, on 1 Cor. 11:4."
+    },
+    {
+      "id": 248,
+      "text": "Duties of the Clergy, 1:30."
+    },
+    {
+      "id": 249,
+      "text": "Duties of the Clergy, 3:11 {74 } .."
+    },
+    {
+      "id": 250,
+      "text": "Concerning Repentance, 2:9 {82 } ."
+    },
+    {
+      "id": 251,
+      "text": "Oliver Davies: Gateway to Paradise, 3."
+    },
+    {
+      "id": 252,
+      "text": "Letter 53 to Polinus of Nola, 11."
+    },
+    {
+      "id": 253,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 254,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 255,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 256,
+      "text": "Letter 80 to Demetrias, 14."
+    },
+    {
+      "id": 257,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 258,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 259,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 260,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 261,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 262,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 263,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 264,
+      "text": "The Homilies of St. Jerome, hom., 65."
+    },
+    {
+      "id": 265,
+      "text": "Commentary on Titus. PL 26:626 CD."
+    },
+    {
+      "id": 266,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 267,
+      "text": "On Heresies, 15."
+    },
+    {
+      "id": 268,
+      "text": "Antiq. 20:5."
+    },
+    {
+      "id": 269,
+      "text": "Antiq. XVII:10:4, 8."
+    },
+    {
+      "id": 270,
+      "text": "Antiq. 17:10:5."
+    },
+    {
+      "id": 271,
+      "text": "Antiq. 18:1:1."
+    },
+    {
+      "id": 272,
+      "text": "Homilies on Acts, hom. 14."
+    },
+    {
+      "id": 273,
+      "text": "On Lazarus and the Rich Man, 3."
+    },
+    {
+      "id": 274,
+      "text": "In Ioan., tr., 109:5."
+    },
+    {
+      "id": 275,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 276,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 277,
+      "text": "Fragment 165 on Luke 10:23-24."
+    },
+    {
+      "id": 278,
+      "text": "رسالة 1."
+    },
+    {
+      "id": 279,
+      "text": "St. Iraenaeus: Against Heresies, 26:2."
+    },
+    {
+      "id": 280,
+      "text": "راجع أيضًا أقوال الأب هيبوليتس في رده على الهرطقات."
+    },
+    {
+      "id": 281,
+      "text": "Apology, ch. 39."
+    },
+    {
+      "id": 282,
+      "text": "Dialogue Against Luciferiaus, 23."
+    },
+    {
+      "id": 283,
+      "text": "Letter 147 to Sabinianus,4."
+    },
+    {
+      "id": 284,
+      "text": "Homilies on St. John, hom. 74:2."
+    },
+    {
+      "id": 285,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 286,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 287,
+      "text": "Stromata 6:13."
+    },
+    {
+      "id": 288,
+      "text": "Hom. On Romans, hom.2."
+    },
+    {
+      "id": 289,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 290,
+      "text": "Ann, lib. 2:2:85"
+    },
+    {
+      "id": 291,
+      "text": "Philo: In Legat at Caium."
+    },
+    {
+      "id": 292,
+      "text": "Antiq. 12:7,2; Against Apion 2:4."
+    },
+    {
+      "id": 293,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 294,
+      "text": "St. Jerome: Letter 58 to Paulinus of Nola, 1."
+    },
+    {
+      "id": 295,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 296,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 297,
+      "text": "On the Resurrection of the Flesh, 55."
+    },
+    {
+      "id": 298,
+      "text": "Baptismal Instructions, 7:14."
+    },
+    {
+      "id": 299,
+      "text": "الشيخ الروحاني : رسالة 3:1. راجع ترجمة الأب سليم دكاش اليسوعي للناشر دار الشروق ببيروت، وكتاب الشيخ الروحاني، دار النشر القبطية عام 1952 - عن مخطوط بدير المحرق)."
+    },
+    {
+      "id": 300,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 301,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 302,
+      "text": "Answer to the Jews, 2."
+    },
+    {
+      "id": 303,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 304,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 305,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 306,
+      "text": "Against Eunomius, 2:13."
+    },
+    {
+      "id": 307,
+      "text": "Antiq. 2:8:2."
+    },
+    {
+      "id": 308,
+      "text": "Essay on Hieroglyphic System."
+    },
+    {
+      "id": 309,
+      "text": "Manners and Customs of the Ancient Egyptians, vol. 1. p, 42, 2nd edition."
+    },
+    {
+      "id": 310,
+      "text": "Barnes Notes on Acts 7:18."
+    },
+    {
+      "id": 311,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 312,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 313,
+      "text": "Antiq. 2:9:7."
+    },
+    {
+      "id": 314,
+      "text": "Vita Moys. 1:9."
+    },
+    {
+      "id": 315,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 316,
+      "text": "Vita Moys., 12."
+    },
+    {
+      "id": 317,
+      "text": "Barnes’ on Acts 7:22; Rawlinson’ Herodotus, vol. 2, p, 80-81; Herodotus, 2, p. 50-51."
+    },
+    {
+      "id": 318,
+      "text": "عظة 9: 4."
+    },
+    {
+      "id": 319,
+      "text": "Stromata 1 :23.."
+    },
+    {
+      "id": 320,
+      "text": "Duties of the Clergy, 1:26."
+    },
+    {
+      "id": 321,
+      "text": "On the Trinity, 5:21."
+    },
+    {
+      "id": 322,
+      "text": "Vita Moys., 14,15."
+    },
+    {
+      "id": 323,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 324,
+      "text": "Homilies on Luke, hom. 10:7."
+    },
+    {
+      "id": 325,
+      "text": "On the Inscriptions of the Psalms, 1:7:52."
+    },
+    {
+      "id": 326,
+      "text": "Vits Moys., 18."
+    },
+    {
+      "id": 327,
+      "text": "Vita Moys., 20,21."
+    },
+    {
+      "id": 328,
+      "text": "Vita Moys., 22."
+    },
+    {
+      "id": 329,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 330,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 331,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 332,
+      "text": "مقالات لطالبي العماد 12: 17."
+    },
+    {
+      "id": 333,
+      "text": "In Ioan., tr., 24:7."
+    },
+    {
+      "id": 334,
+      "text": "St. Augustine: On the Gospel of St. John, tract. 15:23."
+    },
+    {
+      "id": 335,
+      "text": "Commentary on Galat.2."
+    },
+    {
+      "id": 336,
+      "text": "St. John Cassian, 3:7."
+    },
+    {
+      "id": 337,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 338,
+      "text": "Sermon 229:1-2."
+    },
+    {
+      "id": 339,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 340,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 341,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:2)."
+    },
+    {
+      "id": 342,
+      "text": "Hom. On Rom., hom. 18."
+    },
+    {
+      "id": 343,
+      "text": "The spirit and the Letter, 16."
+    },
+    {
+      "id": 344,
+      "text": "Comm. On St. Lukes hom. 41."
+    },
+    {
+      "id": 345,
+      "text": "راجع ترجمة مركز دراسات الآباء بالقاهرة."
+    },
+    {
+      "id": 346,
+      "text": "Comm. on Luke, Sermon 41."
+    },
+    {
+      "id": 347,
+      "text": "Epistle of Galatians, 24:3:19-20."
+    },
+    {
+      "id": 348,
+      "text": "Ep. to Gal. 3:19:2."
+    },
+    {
+      "id": 349,
+      "text": "Homilies on Hebrews, hom. 3:6."
+    },
+    {
+      "id": 350,
+      "text": "PG 59: 701, 702."
+    },
+    {
+      "id": 351,
+      "text": "On the Holy Spirit, 8:15. ترجمة الأرشمندريت أدريانوس شكور"
+    },
+    {
+      "id": 352,
+      "text": "Of the Christian Faith, 3:17 {137 } ."
+    },
+    {
+      "id": 353,
+      "text": "Epistles, 63:5."
+    },
+    {
+      "id": 354,
+      "text": "Epistles, 63:5."
+    },
+    {
+      "id": 355,
+      "text": "Epistles, 63:6."
+    },
+    {
+      "id": 356,
+      "text": "Letter 108 to Eustochium, 1."
+    },
+    {
+      "id": 357,
+      "text": "Sermons on N.T. Lessons, 40:9."
+    },
+    {
+      "id": 358,
+      "text": "On Patience, 14."
+    },
+    {
+      "id": 359,
+      "text": "Sermon 220:2."
+    },
+    {
+      "id": 360,
+      "text": "Sermon 219:3."
+    },
+    {
+      "id": 361,
+      "text": "Sermon 219:3."
+    },
+    {
+      "id": 362,
+      "text": "Sermon 219:1-2."
+    },
+    {
+      "id": 363,
+      "text": "Sermon 219:1."
+    },
+    {
+      "id": 364,
+      "text": "Comm. On St. Luke, hom. 29."
+    },
+    {
+      "id": 365,
+      "text": "Sermons on N.T. Lessons, 6:16."
+    },
+    {
+      "id": 366,
+      "text": "Hom. On 1 Tim., hom. 6. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 367,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 368,
+      "text": "Homm. De Covers, Sancti Pauli"
+    },
+    {
+      "id": 369,
+      "text": "Comm. on Luke, Sermon 29."
+    },
+    {
+      "id": 370,
+      "text": "Recognitions of Clement, 6:5."
+    },
+    {
+      "id": 371,
+      "text": "Treatise 9 On theAdvantage of Patience, 16."
+    },
+    {
+      "id": 372,
+      "text": "Theodore of Heraclea: Fragment, ( c. 355) 40."
+    },
+    {
+      "id": 373,
+      "text": "Mishnah: Senh 6:6."
+    },
+    {
+      "id": 374,
+      "text": "Letter 39:4."
+    },
+    {
+      "id": 375,
+      "text": "Cf. Barne’s Notes on Acts 8:4."
+    },
+    {
+      "id": 376,
+      "text": "Antiq. 13:10:3."
+    },
+    {
+      "id": 377,
+      "text": "Antiq. 15:8:5."
+    },
+    {
+      "id": 378,
+      "text": "Antiqu. 20:7:2."
+    },
+    {
+      "id": 379,
+      "text": "Mosheim, vol. 1, p. 113-114. (Murdock’s translation)."
+    },
+    {
+      "id": 380,
+      "text": "Adv. Haer. 1:23."
+    },
+    {
+      "id": 381,
+      "text": "دحض كل الهرطقات 6: 2-5."
+    },
+    {
+      "id": 382,
+      "text": "Apology 1:26."
+    },
+    {
+      "id": 383,
+      "text": "Against Celsus, 1:57."
+    },
+    {
+      "id": 384,
+      "text": "Epistles, 1. (David Hazard: You Give Me New Life, 1995, ch. 1.)"
+    },
+    {
+      "id": 385,
+      "text": "Sermons on N.T. Lessons, 21:16 : ."
+    },
+    {
+      "id": 386,
+      "text": "مقال افتتاحي 2."
+    },
+    {
+      "id": 387,
+      "text": "Lect. Catech., 16:26."
+    },
+    {
+      "id": 388,
+      "text": "In Ioan., tr., 6:18."
+    },
+    {
+      "id": 389,
+      "text": "Cf. Adv. Haer. 1:23:1."
+    },
+    {
+      "id": 390,
+      "text": "On Idolatry, 9."
+    },
+    {
+      "id": 391,
+      "text": "Adv. Haer. 2:32:4."
+    },
+    {
+      "id": 392,
+      "text": "Lect. Catech., 16:10."
+    },
+    {
+      "id": 393,
+      "text": "Sermons on N.T. Lessons, 49:10."
+    },
+    {
+      "id": 394,
+      "text": "St. Irenaeus: Adv. Haer. 1:23:1."
+    },
+    {
+      "id": 395,
+      "text": "Apology, 13."
+    },
+    {
+      "id": 396,
+      "text": "نادى القديس ايريناؤس بهذا الرأي [23:1، 2]."
+    },
+    {
+      "id": 397,
+      "text": "مقالات لطالبي العماد 6: 14."
+    },
+    {
+      "id": 398,
+      "text": "Adv. Haer. 2:32:2."
+    },
+    {
+      "id": 399,
+      "text": "Hom. on Acts, hom. 18."
+    },
+    {
+      "id": 400,
+      "text": "Hom. on Acts, hom. 18."
+    },
+    {
+      "id": 401,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 402,
+      "text": "On the Christian Doctrines, Pref., 7."
+    },
+    {
+      "id": 403,
+      "text": "Josephus: Antiq. 11:8:3-4; 13:13:3."
+    },
+    {
+      "id": 404,
+      "text": "Against Jovinianus, Book 1:12."
+    },
+    {
+      "id": 405,
+      "text": "الترجمة السبعينية \" لأني حينئذ أحوال الشعوب إلى شفة نقية\"."
+    },
+    {
+      "id": 406,
+      "text": "مقالات لطالبي العماد 14: 7."
+    },
+    {
+      "id": 407,
+      "text": "Adv. Haer. 4:23:2."
+    },
+    {
+      "id": 408,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 409,
+      "text": "On Baptism, 18."
+    },
+    {
+      "id": 410,
+      "text": "Letter 53 to Paulinus of Nola, 5."
+    },
+    {
+      "id": 411,
+      "text": "Epistles, 19:5."
+    },
+    {
+      "id": 412,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 413,
+      "text": "مقالات لطالبي العماد 10: 3."
+    },
+    {
+      "id": 414,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 415,
+      "text": "مت 38: 19."
+    },
+    {
+      "id": 416,
+      "text": "هنا سكب الماء على الرأس جائز عند ندرة وجود الماء، سمحت به الكنيسة فيما بعد في حالة المرض الشديد، حيث يعجز المريض عن النزول إلى المعمودية، يسميه البعض Clinical Baptism ."
+    },
+    {
+      "id": 417,
+      "text": "De Principiis 1;2:1."
+    },
+    {
+      "id": 418,
+      "text": "De Principiis 1:2:7."
+    },
+    {
+      "id": 419,
+      "text": "Cf. Sermon 71:19, 33."
+    },
+    {
+      "id": 420,
+      "text": "De Baptism, 6."
+    },
+    {
+      "id": 421,
+      "text": "De Baptism, 8."
+    },
+    {
+      "id": 422,
+      "text": "Ep. 74:4."
+    },
+    {
+      "id": 423,
+      "text": "De Baptismo, 7-8."
+    },
+    {
+      "id": 424,
+      "text": "Epistle 73:8."
+    },
+    {
+      "id": 425,
+      "text": "De Trinitate, 15:26."
+    },
+    {
+      "id": 426,
+      "text": "Rev. Hall: Confirmation, Oxford Library of Practical Theology, 1908, p.13."
+    },
+    {
+      "id": 427,
+      "text": "Order of Confirmation in the American Prayer Book, 1892- (cf. Hall, p.14)."
+    },
+    {
+      "id": 428,
+      "text": "Cf. G. Friedrich: Theological Dictionary of the New Testament, translated by G. W. Bromiley, Michigan 1993. vol. 8, p. 160."
+    },
+    {
+      "id": 429,
+      "text": "بتصرّف."
+    },
+    {
+      "id": 430,
+      "text": "On the Sacraments, 7."
+    },
+    {
+      "id": 431,
+      "text": "خطاب 19 ضدّ الفاحصين."
+    },
+    {
+      "id": 432,
+      "text": "Adv. Haer. 4:63."
+    },
+    {
+      "id": 433,
+      "text": "To Autolycus, 1:12."
+    },
+    {
+      "id": 434,
+      "text": "Letter, 70."
+    },
+    {
+      "id": 435,
+      "text": "Episle 74:6."
+    },
+    {
+      "id": 436,
+      "text": "الكلمة اليونانية \"نموذج\" لا تعني نموذجًا رمزيًا بل كما ورد في (عب 24:9)."
+    },
+    {
+      "id": 437,
+      "text": "مقال 21 (الأسرار 3): 1، 2."
+    },
+    {
+      "id": 438,
+      "text": "مقال 21 (الأسرار 3): 3، 4."
+    },
+    {
+      "id": 439,
+      "text": "الرسالة ضد الآريوسيين 1:1: 50."
+    },
+    {
+      "id": 440,
+      "text": "Of the Holy Spirit 1:8:93."
+    },
+    {
+      "id": 441,
+      "text": "Prayer of David, Book 4:9:35."
+    },
+    {
+      "id": 442,
+      "text": "Letter 73 against Heretics."
+    },
+    {
+      "id": 443,
+      "text": "تعليم الإيمان، 5."
+    },
+    {
+      "id": 444,
+      "text": "Sacraments 6:2:7."
+    },
+    {
+      "id": 445,
+      "text": "Sacraments, 7."
+    },
+    {
+      "id": 446,
+      "text": "De Resurrectione Carnis, 8."
+    },
+    {
+      "id": 447,
+      "text": "Sermon 8:33."
+    },
+    {
+      "id": 448,
+      "text": "Priesthood, 4."
+    },
+    {
+      "id": 449,
+      "text": "Sacr. 3:7."
+    },
+    {
+      "id": 450,
+      "text": "راجع نيافة الأنبا غريغوريوس: القيم الروحية... في سرّ الميرون."
+    },
+    {
+      "id": 451,
+      "text": "Baptismal Instructions, 4:7."
+    },
+    {
+      "id": 452,
+      "text": "Jewish Wars, 2:20:2; 7:8:7.."
+    },
+    {
+      "id": 453,
+      "text": "On Prayer, 11."
+    },
+    {
+      "id": 454,
+      "text": "Isaac or the Soul, 3: 31 (translated by Guirguis Kamel Youssef)."
+    },
+    {
+      "id": 455,
+      "text": "Sermons on N.T. Lessons, 37:15."
+    },
+    {
+      "id": 456,
+      "text": "Sermons on N.T. Lessons,66:7."
+    },
+    {
+      "id": 457,
+      "text": "Sermons on N.T. Lessons, 74:4."
+    },
+    {
+      "id": 458,
+      "text": "Sermon 87:3."
+    },
+    {
+      "id": 459,
+      "text": "Joseph 10: 58."
+    },
+    {
+      "id": 460,
+      "text": "St. John Cassian: Conferences, 2:15."
+    },
+    {
+      "id": 461,
+      "text": "On the Christian Doctrines, Pref., 6."
+    },
+    {
+      "id": 462,
+      "text": "On the Christian Doctrines, Pref., 6."
+    },
+    {
+      "id": 463,
+      "text": "St. Augustine: On Ps. 102."
+    },
+    {
+      "id": 464,
+      "text": "St. Augustine: On Ps. 51."
+    },
+    {
+      "id": 465,
+      "text": "Fr. Caesarius of Arles: Sermon 226:3."
+    },
+    {
+      "id": 466,
+      "text": "Sermons on N.T. Lessons, 66:7."
+    },
+    {
+      "id": 467,
+      "text": "Letter 58 to Paulinus of Nola,1."
+    },
+    {
+      "id": 468,
+      "text": "Letter 125 to Heliodorus, 8."
+    },
+    {
+      "id": 469,
+      "text": "Sermons on N.T. Lessons, 27:6."
+    },
+    {
+      "id": 470,
+      "text": "Sermons, De Apstolis Petro et Paulo."
+    },
+    {
+      "id": 471,
+      "text": "The Patriarchs, 12: 58."
+    },
+    {
+      "id": 472,
+      "text": "Homilies on Luke, hom. 39:3."
+    },
+    {
+      "id": 473,
+      "text": "On the Incomprehensible Nature of God, 8:3."
+    },
+    {
+      "id": 474,
+      "text": "On the Priesthood 1: 3 PG 48: 645."
+    },
+    {
+      "id": 475,
+      "text": "De Laud. S. Pauli, hom.1."
+    },
+    {
+      "id": 476,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 477,
+      "text": "Letter 60 to Heliodorus, 8."
+    },
+    {
+      "id": 478,
+      "text": "Concerning Repentance, 1:8 {34 } ."
+    },
+    {
+      "id": 479,
+      "text": "Fragment, 52."
+    },
+    {
+      "id": 480,
+      "text": "On Baptism, 13."
+    },
+    {
+      "id": 481,
+      "text": "Letter 16 to Pope Damasus, 1."
+    },
+    {
+      "id": 482,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 483,
+      "text": "Baptismal Instructions, 4:7, 9."
+    },
+    {
+      "id": 484,
+      "text": "Baptismal Instructions, 7:10."
+    },
+    {
+      "id": 485,
+      "text": "مقالات لطالبي العماد 10: 17."
+    },
+    {
+      "id": 486,
+      "text": "Cf. Hom. on Acts, hom. 20."
+    },
+    {
+      "id": 487,
+      "text": "Comm. On Paul’s Epistles (2 Cor. 11:33)."
+    },
+    {
+      "id": 488,
+      "text": "See Lardner’s Works, vol. 1, p. 101-102, London, 1829."
+    },
+    {
+      "id": 489,
+      "text": "Philo, DeLegat. ad Cai., pp. 1024-1025."
+    },
+    {
+      "id": 490,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 491,
+      "text": "In Matt., 79. PG. 58:715 A-B."
+    },
+    {
+      "id": 492,
+      "text": "Treatise On Works and Alms, 6."
+    },
+    {
+      "id": 493,
+      "text": "Cf. Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 494,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 495,
+      "text": "Hist. 6: 24."
+    },
+    {
+      "id": 496,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 497,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 498,
+      "text": "Apostolic Constitutions, 8: 34."
+    },
+    {
+      "id": 499,
+      "text": "Gregory Dix: The Apostolic Tradition of St. Hippolytus of Rome, 36:2-71992, p. 62-64."
+    },
+    {
+      "id": 500,
+      "text": "راهب من الكنيسة القبطية: مصادر طقوس الكنيسة 2/1، مايو 2000."
+    },
+    {
+      "id": 501,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 502,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 503,
+      "text": "Chromatius of Aquileia: Tractate on Matthew, 27:1: 4-5."
+    },
+    {
+      "id": 504,
+      "text": "كان خروماتيوس صديقًا لروفينوس والأسقف جيروم."
+    },
+    {
+      "id": 505,
+      "text": "Baptismal Instructions, 7:29."
+    },
+    {
+      "id": 506,
+      "text": "Baptismal Instructions, 7:27."
+    },
+    {
+      "id": 507,
+      "text": "Baptismal Instructions, 7:28."
+    },
+    {
+      "id": 508,
+      "text": "Homilies on Rom., hom. 19."
+    },
+    {
+      "id": 509,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 510,
+      "text": "Against Jovinianus, Book 2,17."
+    },
+    {
+      "id": 511,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 512,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 513,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 514,
+      "text": "Flight from the world, 8: 49, translated by Guirguis K. Youssef."
+    },
+    {
+      "id": 515,
+      "text": "Letter 125 to Rustius, 2."
+    },
+    {
+      "id": 516,
+      "text": "Sermon 176:4."
+    },
+    {
+      "id": 517,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 518,
+      "text": "Sermons on N.T. Lessons, 75:9."
+    },
+    {
+      "id": 519,
+      "text": "Sermon 176:5."
+    },
+    {
+      "id": 520,
+      "text": "Paedagogus 2:1. راجع ترجمة فليوباترون"
+    },
+    {
+      "id": 521,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 522,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 523,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 524,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 525,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 526,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 527,
+      "text": "Adv. Arian. 2:16:23. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 528,
+      "text": "Sermons on N.T. Lessons, 49:2."
+    },
+    {
+      "id": 529,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 530,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 531,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 532,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:29)."
+    },
+    {
+      "id": 533,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 534,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 535,
+      "text": "Hom. On Romans, hom.5."
+    },
+    {
+      "id": 536,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 537,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 538,
+      "text": "Stromata, 6:6"
+    },
+    {
+      "id": 539,
+      "text": "Comment. on Ps. 128."
+    },
+    {
+      "id": 540,
+      "text": "Comment. on Ps. 128."
+    },
+    {
+      "id": 541,
+      "text": "Andreas: Catena."
+    },
+    {
+      "id": 542,
+      "text": "راهب غالبًا من القرن السابع اهتمّ بجمع كثير من كتابات الآباء الأوّلين الخاصة بتفاسير بعض أسفار الكتاب المقدّس."
+    },
+    {
+      "id": 543,
+      "text": "Letter 79:2."
+    },
+    {
+      "id": 544,
+      "text": "Comm. on Luke, Sermon 68."
+    },
+    {
+      "id": 545,
+      "text": "Comm. On Rom. 2 :11."
+    },
+    {
+      "id": 546,
+      "text": "Ep. to the Eplessians. 1:2:13-14."
+    },
+    {
+      "id": 547,
+      "text": "مقالات لطالبي العماد 10: 10."
+    },
+    {
+      "id": 548,
+      "text": "Against Marcion 5:17:12-13."
+    },
+    {
+      "id": 549,
+      "text": "Against Marcion, 5:17:15."
+    },
+    {
+      "id": 550,
+      "text": "Ep. to the Eplessians 2:13."
+    },
+    {
+      "id": 551,
+      "text": "Epistle to the Ephessians, 2:16."
+    },
+    {
+      "id": 552,
+      "text": "Adv. Arian., 1:12:47. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 553,
+      "text": "On the Psalms, 96:14."
+    },
+    {
+      "id": 554,
+      "text": "Prudentius (c. 348-425): Hymn 9, Hymn for Every Hour."
+    },
+    {
+      "id": 555,
+      "text": "Pauline Comm. From the Greek Church (Rom. 1:7)."
+    },
+    {
+      "id": 556,
+      "text": "Marius Victorinus: Ep. to the Ephes. 1:2:18."
+    },
+    {
+      "id": 557,
+      "text": "Sermons on N.T. Lessons, 49:10."
+    },
+    {
+      "id": 558,
+      "text": "Letter 60 to Heliodorus, 9."
+    },
+    {
+      "id": 559,
+      "text": "Homilies on St. John, hom. 15:2."
+    },
+    {
+      "id": 560,
+      "text": "مقالات لطالبي العماد 3:4."
+    },
+    {
+      "id": 561,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 562,
+      "text": "Hom. on Eph. 6:3:1-2."
+    },
+    {
+      "id": 563,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 564,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 565,
+      "text": "De Principiis, 1: 2: 13."
+    },
+    {
+      "id": 566,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 567,
+      "text": "Theophilus to Autolycus, 1:1."
+    },
+    {
+      "id": 568,
+      "text": "Theophilus to Autolycus, 1:12."
+    },
+    {
+      "id": 569,
+      "text": "Comm. On Paul’ Epistles 1Cor 12:28."
+    },
+    {
+      "id": 570,
+      "text": "Comm. on Paul’ s Epistles."
+    },
+    {
+      "id": 571,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 572,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 573,
+      "text": "H.E. 3: 4."
+    },
+    {
+      "id": 574,
+      "text": "Illust. Men, 7, Preface in Comm. on Matthew."
+    },
+    {
+      "id": 575,
+      "text": "الحشمونيون هو الاسم العائلي لجماعة المكابيين نسبة لأحد شخصياتهم البارزة."
+    },
+    {
+      "id": 576,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 577,
+      "text": "ِ Eusabius: H.E. 2: 9."
+    },
+    {
+      "id": 578,
+      "text": "Sanhedr., Fol.!!!"
+    },
+    {
+      "id": 579,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 580,
+      "text": "Sermon against Auxentius, 12."
+    },
+    {
+      "id": 581,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 582,
+      "text": "Aphrahat: Demonstration4, on prayer, 9."
+    },
+    {
+      "id": 583,
+      "text": "Martyrius: Book of Perfection, 39-40."
+    },
+    {
+      "id": 584,
+      "text": "De institutis caeoborum, 1:1:8."
+    },
+    {
+      "id": 585,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 586,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 587,
+      "text": "Cassiodorus: Expostions of the Psalms, 118:20."
+    },
+    {
+      "id": 588,
+      "text": "أحد مؤسّسي الرهبنة في الغرب (حوالي 485- حوالي 540م)."
+    },
+    {
+      "id": 589,
+      "text": "The Jewish Encyclopedia, Angelology."
+    },
+    {
+      "id": 590,
+      "text": "Pseudo-Barn., 18,1."
+    },
+    {
+      "id": 591,
+      "text": "Vis., 5, 1-4."
+    },
+    {
+      "id": 592,
+      "text": "Ecl., 41, 48."
+    },
+    {
+      "id": 593,
+      "text": "Hom. in Num., 11,4; see also 20, 3."
+    },
+    {
+      "id": 594,
+      "text": "De Principiis 2:20:7."
+    },
+    {
+      "id": 595,
+      "text": "Comm. in Matt., 13,5."
+    },
+    {
+      "id": 596,
+      "text": "Comm. in Matt., 13, 28."
+    },
+    {
+      "id": 597,
+      "text": "Comm. on the Songs of Songs, book 2:3 (ACW)."
+    },
+    {
+      "id": 598,
+      "text": "On Prayer 6:4 (ACW)."
+    },
+    {
+      "id": 599,
+      "text": "De Principiis 3:2:4; Boniface Ramsey: Beginning to Read the Fathers, Paulist Press, 1985, p.12."
+    },
+    {
+      "id": 600,
+      "text": "Hom. in Ps. 33:6."
+    },
+    {
+      "id": 601,
+      "text": "St. John Cassian: Conferences, 8:17."
+    },
+    {
+      "id": 602,
+      "text": "Josephus: Antiq.. 7: 6: 5."
+    },
+    {
+      "id": 603,
+      "text": "Eusebius: H.E. 8: 16."
+    },
+    {
+      "id": 604,
+      "text": "Theodoret: H.E. 3: 9"
+    },
+    {
+      "id": 605,
+      "text": "Igino Giordani: St. Paul, Apostle and Martyr, translated by C. Maranzana, 1961, p.25."
+    },
+    {
+      "id": 606,
+      "text": "Eusebius, H.E. 15: 10: 5."
+    },
+    {
+      "id": 607,
+      "text": "Lect. Catech., 16:13, 14."
+    },
+    {
+      "id": 608,
+      "text": "Cf. Hom. On 1Tim., hom. 1:1. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 609,
+      "text": "لا يفصد الآباء بتعبير التأله أن يصير الإنسان هو الله بل يتمتع بسمات فائقه هي هبة النعمة الإلهية له."
+    },
+    {
+      "id": 610,
+      "text": "Iration 31, On the Holgy Spirit, 29."
+    },
+    {
+      "id": 611,
+      "text": "Hom. on Acts, hom. 27."
+    },
+    {
+      "id": 612,
+      "text": "Hom. on Acts, hom. 27."
+    },
+    {
+      "id": 613,
+      "text": "De Laudibus S. Pauli, hom. 5 PG 50: 474."
+    },
+    {
+      "id": 614,
+      "text": "I. Giordani, St. Paul, Apostle and Martyr, p. 26."
+    },
+    {
+      "id": 615,
+      "text": "Sermons on N.T. Lessons, 27:3."
+    },
+    {
+      "id": 616,
+      "text": "Comm. On the Epistle of the Romans [1:1]."
+    },
+    {
+      "id": 617,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 618,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 619,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 620,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 621,
+      "text": "Severian pf Gabala: Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 622,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 623,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, 1972, p.443."
+    },
+    {
+      "id": 624,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 443-444."
+    },
+    {
+      "id": 625,
+      "text": "Comment. on Ps. 22."
+    },
+    {
+      "id": 626,
+      "text": "Antiq. 8: 1; 10: 8: 5."
+    },
+    {
+      "id": 627,
+      "text": "Antiq. 6: 2. 9."
+    },
+    {
+      "id": 628,
+      "text": "Antiq. 10: 8: 4."
+    },
+    {
+      "id": 629,
+      "text": "On the Trinity, 12:9."
+    },
+    {
+      "id": 630,
+      "text": "On Ps.53 {54 } ,1."
+    },
+    {
+      "id": 631,
+      "text": "Hom. on Acts, hom. 29."
+    },
+    {
+      "id": 632,
+      "text": "Hom. on Acts, hom. 29."
+    },
+    {
+      "id": 633,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 634,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 635,
+      "text": "Sermons on N.T. Lessons, 1:14"
+    },
+    {
+      "id": 636,
+      "text": "Sermons on N.T. Lessons, 39:2."
+    },
+    {
+      "id": 637,
+      "text": "Sermon 122:1."
+    },
+    {
+      "id": 638,
+      "text": "Sermon 129:3."
+    },
+    {
+      "id": 639,
+      "text": "Sermon on N.T. Lessons, 1:14."
+    },
+    {
+      "id": 640,
+      "text": "Hom. On Jeremiah, hom. 4:2."
+    },
+    {
+      "id": 641,
+      "text": "Homilies on Jermiah, hom 5:1"
+    },
+    {
+      "id": 642,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:3)."
+    },
+    {
+      "id": 643,
+      "text": "Interpretation of Rom. [3:3]."
+    },
+    {
+      "id": 644,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 645,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 444."
+    },
+    {
+      "id": 646,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p.444."
+    },
+    {
+      "id": 647,
+      "text": "Freeman, p. 444."
+    },
+    {
+      "id": 648,
+      "text": "Against Celsus, 1:63."
+    },
+    {
+      "id": 649,
+      "text": "On the Incomprehensible Nature of God, 5: 6."
+    },
+    {
+      "id": 650,
+      "text": "Sermon 175:6-7."
+    },
+    {
+      "id": 651,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 652,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 653,
+      "text": "Hom. On 1Tim., hom. 3. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 654,
+      "text": "On Ps. 9."
+    },
+    {
+      "id": 655,
+      "text": "Metam., l, ivv 211-239"
+    },
+    {
+      "id": 656,
+      "text": "Contra Gentes, 3:35:1."
+    },
+    {
+      "id": 657,
+      "text": "Commentary on Rom. 14:17."
+    },
+    {
+      "id": 658,
+      "text": "Ep. to Gal 3:5:22."
+    },
+    {
+      "id": 659,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 660,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 661,
+      "text": "Ep .to Gal. 3:5: 22."
+    },
+    {
+      "id": 662,
+      "text": "Morality 1: 31, ch. 15 PL 76: 610."
+    },
+    {
+      "id": 663,
+      "text": "Discourses, 13."
+    },
+    {
+      "id": 664,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 665,
+      "text": "Duties of the Clergy, 1:16."
+    },
+    {
+      "id": 666,
+      "text": "Fr. Caesarius of Arles, Sermons, 215:3."
+    },
+    {
+      "id": 667,
+      "text": "Sermon 215:4."
+    },
+    {
+      "id": 668,
+      "text": "Sermon 91:4."
+    },
+    {
+      "id": 669,
+      "text": "Sermon 103:3."
+    },
+    {
+      "id": 670,
+      "text": "Sermon 154:1."
+    },
+    {
+      "id": 671,
+      "text": "Sermon 162:1."
+    },
+    {
+      "id": 672,
+      "text": "Sermon 182:4."
+    },
+    {
+      "id": 673,
+      "text": "Catena."
+    },
+    {
+      "id": 674,
+      "text": "Letters, 250."
+    },
+    {
+      "id": 675,
+      "text": "Introductory Tractate on James."
+    },
+    {
+      "id": 676,
+      "text": "Antiq. 20:38-45."
+    },
+    {
+      "id": 677,
+      "text": "Hom. on Acts, hom. 33."
+    },
+    {
+      "id": 678,
+      "text": "Sermons on N.T. Lessons, 56 :1."
+    },
+    {
+      "id": 679,
+      "text": "Sermon on N.T. lessons, 3:11."
+    },
+    {
+      "id": 680,
+      "text": "Comm. On Paul’s Epistles (Rom. 4:7)."
+    },
+    {
+      "id": 681,
+      "text": "Comm. On St. Luke, hom. 85."
+    },
+    {
+      "id": 682,
+      "text": "Comm. on Luke, Sermon 60."
+    },
+    {
+      "id": 683,
+      "text": "On Ps. 2."
+    },
+    {
+      "id": 684,
+      "text": "Hom. on Leviticus, 3: 5."
+    },
+    {
+      "id": 685,
+      "text": "Proof of the Gospel, 1:7."
+    },
+    {
+      "id": 686,
+      "text": "De Gompunct. PG 47: 408."
+    },
+    {
+      "id": 687,
+      "text": "Hom. On Rom, hom. 29."
+    },
+    {
+      "id": 688,
+      "text": "Comm. On Rom. 15:19."
+    },
+    {
+      "id": 689,
+      "text": "Commentary on Rom. 13:4."
+    },
+    {
+      "id": 690,
+      "text": "مقالات لطالبي العماد 4: 27-28."
+    },
+    {
+      "id": 691,
+      "text": "On the Holy Spirit, 2:13:144."
+    },
+    {
+      "id": 692,
+      "text": "Against Jovinianus, Book 1:34.."
+    },
+    {
+      "id": 693,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 694,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 695,
+      "text": "Duties of the Clergy, 2:20. {101 } ."
+    },
+    {
+      "id": 696,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 697,
+      "text": "Hom. On 2 Tim., 2."
+    },
+    {
+      "id": 698,
+      "text": "Interpretation on 2 Tim., 1:5."
+    },
+    {
+      "id": 699,
+      "text": "Hom. on 2 Tim., hom. 1."
+    },
+    {
+      "id": 700,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 701,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 702,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 703,
+      "text": "Comm. On the Epistle to the Romans, [1:13]."
+    },
+    {
+      "id": 704,
+      "text": "Comment. on Luke, hom. 12:3."
+    },
+    {
+      "id": 705,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 706,
+      "text": "Homilies on Luke, hom. 12:3."
+    },
+    {
+      "id": 707,
+      "text": "Homilies on Jermiah, hom 12:8."
+    },
+    {
+      "id": 708,
+      "text": "Freeman, p. 445."
+    },
+    {
+      "id": 709,
+      "text": "Iliad, 4:141."
+    },
+    {
+      "id": 710,
+      "text": "Barnes’Notes on Acts 16."
+    },
+    {
+      "id": 711,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 712,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 713,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 714,
+      "text": "Hom. On 1 Cor., hom. 29:3."
+    },
+    {
+      "id": 715,
+      "text": "Comm. On St. Luke, hom. 81."
+    },
+    {
+      "id": 716,
+      "text": "Lactanius: Divine institutes, 2:16."
+    },
+    {
+      "id": 717,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 718,
+      "text": "Freeman, p. 445."
+    },
+    {
+      "id": 719,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 720,
+      "text": "Letter 109 t0 Riparius, 3."
+    },
+    {
+      "id": 721,
+      "text": "Hom. 52 in ٌ Rom.PG 60: 364."
+    },
+    {
+      "id": 722,
+      "text": "Praises of St. Paul Hom. 1. Pg 50: 453."
+    },
+    {
+      "id": 723,
+      "text": "دير السريان: القديس باسيليوس الكبير، ص 122."
+    },
+    {
+      "id": 724,
+      "text": "On Prayer, 24."
+    },
+    {
+      "id": 725,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 726,
+      "text": "Freeman, p. 446."
+    },
+    {
+      "id": 727,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 728,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 729,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 730,
+      "text": "Freeman, p. 446."
+    },
+    {
+      "id": 731,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 732,
+      "text": "Sermon on the Mount, 1:19:58."
+    },
+    {
+      "id": 733,
+      "text": "Dionysius Hal.; Ant. Rom. 11."
+    },
+    {
+      "id": 734,
+      "text": "Dio Cass. Lib. 60."
+    },
+    {
+      "id": 735,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 736,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 737,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 738,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 739,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 740,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 741,
+      "text": "Stromata, 6:18."
+    },
+    {
+      "id": 742,
+      "text": "In Attic. 1:24."
+    },
+    {
+      "id": 743,
+      "text": "T.i. Prometh, p. 180."
+    },
+    {
+      "id": 744,
+      "text": "Sat.17."
+    },
+    {
+      "id": 745,
+      "text": "Comment. on Ps. 119, article 67."
+    },
+    {
+      "id": 746,
+      "text": "حرمت الكنيسة بعض كتاباته، ويعتبر هو وراء الفكر النسطوري، وأنه أكثر نسطورية من نسطور."
+    },
+    {
+      "id": 747,
+      "text": "Comm. on Luke, Sermon 62."
+    },
+    {
+      "id": 748,
+      "text": "Sermons on N.T. Lessons, 51 :1."
+    },
+    {
+      "id": 749,
+      "text": "Exegetic Homilies, 18:8."
+    },
+    {
+      "id": 750,
+      "text": "Stromata, 1:19."
+    },
+    {
+      "id": 751,
+      "text": "وُلد أراتوس السولي عام 315ق.م في بلدة سولي بإقليم كيليكيّة بآسيا الصغرى ، وتتكوّن قصيدة الظواهر من 1154 بيتًا، ويدور موضوعها حول علم الفلك."
+    },
+    {
+      "id": 752,
+      "text": "Stromata 1 :19. ترجمة فيلوباترون"
+    },
+    {
+      "id": 753,
+      "text": "On Romans.3."
+    },
+    {
+      "id": 754,
+      "text": "Diog. Laer, Book 1:10."
+    },
+    {
+      "id": 755,
+      "text": "Hom. on Acts, hom. 38."
+    },
+    {
+      "id": 756,
+      "text": "Cf. Homilies on Luke, hom. 31:3.."
+    },
+    {
+      "id": 757,
+      "text": "Councils of Ariminum and Seleuciaa, 3:39."
+    },
+    {
+      "id": 758,
+      "text": "Phaenom, v. 5."
+    },
+    {
+      "id": 759,
+      "text": "Letter 60."
+    },
+    {
+      "id": 760,
+      "text": "Comment. on Ps. 139."
+    },
+    {
+      "id": 761,
+      "text": "Comment. on Ps. 139."
+    },
+    {
+      "id": 762,
+      "text": "Fragments on Jeremiah from Catena, 17."
+    },
+    {
+      "id": 763,
+      "text": "St. Ambrose: Isaac, or the Soul, 8: 78."
+    },
+    {
+      "id": 764,
+      "text": "Death as a Good, 12: 55."
+    },
+    {
+      "id": 765,
+      "text": "Flight from the world, 6: 36."
+    },
+    {
+      "id": 766,
+      "text": "Comm. on Luke, Sermon 36."
+    },
+    {
+      "id": 767,
+      "text": "Comm. on Luke, Sermon 46."
+    },
+    {
+      "id": 768,
+      "text": "Comm. On St. Luke hom. 36."
+    },
+    {
+      "id": 769,
+      "text": "Comm. On St. Lukes hom. 46."
+    },
+    {
+      "id": 770,
+      "text": "Epistles, 48."
+    },
+    {
+      "id": 771,
+      "text": "Il Iliud Omnia,5."
+    },
+    {
+      "id": 772,
+      "text": "De Incarnatione Verbi Dei, 8."
+    },
+    {
+      "id": 773,
+      "text": "Homilies on Hebr. , hom. 8."
+    },
+    {
+      "id": 774,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 775,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 776,
+      "text": "St. John Cassian: Conferences, 24:12."
+    },
+    {
+      "id": 777,
+      "text": "The Work of Monks, 7."
+    },
+    {
+      "id": 778,
+      "text": "The Work of Monks, 15."
+    },
+    {
+      "id": 779,
+      "text": "St. Chrysostom: On Lazarus and the Rich Man, 1."
+    },
+    {
+      "id": 780,
+      "text": "De Principiis 4: 1: 7.."
+    },
+    {
+      "id": 781,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 782,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 783,
+      "text": "Homilies on St. John , hom. 17:2."
+    },
+    {
+      "id": 784,
+      "text": "Orthodox Faith, 4:9."
+    },
+    {
+      "id": 785,
+      "text": "On Baptism, 10."
+    },
+    {
+      "id": 786,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 787,
+      "text": "Epis. To Glatians, 3:3:3."
+    },
+    {
+      "id": 788,
+      "text": "Comm.on John, 19:77."
+    },
+    {
+      "id": 789,
+      "text": "On Prayer, 25: 1."
+    },
+    {
+      "id": 790,
+      "text": "Contra Eunomius, 4 PG 45:637AB."
+    },
+    {
+      "id": 791,
+      "text": "Hom. on Acts, hom. 41."
+    },
+    {
+      "id": 792,
+      "text": "Josephus: Antiq. 8:45-46."
+    },
+    {
+      "id": 793,
+      "text": "Interpretation of Rom. 16: 20."
+    },
+    {
+      "id": 794,
+      "text": "In Matt hom 41"
+    },
+    {
+      "id": 795,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 24:7 ."
+    },
+    {
+      "id": 796,
+      "text": "Hom. on Acts, hom. 41."
+    },
+    {
+      "id": 797,
+      "text": "Sermon 6:162."
+    },
+    {
+      "id": 798,
+      "text": "Sermon 6:159."
+    },
+    {
+      "id": 799,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 448."
+    },
+    {
+      "id": 800,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 450."
+    },
+    {
+      "id": 801,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 802,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 803,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 804,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 805,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 806,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 807,
+      "text": "Epistle to the Philippians, 1:1-2."
+    },
+    {
+      "id": 808,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 809,
+      "text": "Homilies on Hebr., hom. 4:6-7."
+    },
+    {
+      "id": 810,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 811,
+      "text": "Hom. On Rom., hom. 15."
+    },
+    {
+      "id": 812,
+      "text": "Epistles, 63:73."
+    },
+    {
+      "id": 813,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 814,
+      "text": "Ep. to Ephesians, 4:11."
+    },
+    {
+      "id": 815,
+      "text": "Comm.on Rom 1:6."
+    },
+    {
+      "id": 816,
+      "text": "Homilies on Romans, hom. 1."
+    },
+    {
+      "id": 817,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 818,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 819,
+      "text": "Letter 54 to Furia, 4"
+    },
+    {
+      "id": 820,
+      "text": "Oration 29, On the Son, 20."
+    },
+    {
+      "id": 821,
+      "text": "Comm. On St. Luke, hom. 73."
+    },
+    {
+      "id": 822,
+      "text": "Catechetical Lectures, 4: 2."
+    },
+    {
+      "id": 823,
+      "text": "Against the Pelagians, 1:26."
+    },
+    {
+      "id": 824,
+      "text": "Letter, 67: 8"
+    },
+    {
+      "id": 825,
+      "text": "Paedagogus, 2: 9: 79."
+    },
+    {
+      "id": 826,
+      "text": "Prudentuis : Hymns 1:1-8."
+    },
+    {
+      "id": 827,
+      "text": "وضع برودنتوس Prodentius الأسباني تسابيح اتّسمت بأنّها أكثر التهابًا من تلك التي وضعها القديس أمبروسيوس المعاصر له، وذلك لاستخدامها خارج الليتورجيّات."
+    },
+    {
+      "id": 828,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 829,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 830,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 831,
+      "text": "Sermon 230:6."
+    },
+    {
+      "id": 832,
+      "text": "Letter 52."
+    },
+    {
+      "id": 833,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 834,
+      "text": "St. John Cassian: Conferences, 24:11."
+    },
+    {
+      "id": 835,
+      "text": "Our Lord's Sermon on the Mount, 2:45"
+    },
+    {
+      "id": 836,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 837,
+      "text": "Easter Season, 254: 4."
+    },
+    {
+      "id": 838,
+      "text": "Paedagogus 3: 11."
+    },
+    {
+      "id": 839,
+      "text": "On Prayer, 18."
+    },
+    {
+      "id": 840,
+      "text": "Vita Constant. 4:22."
+    },
+    {
+      "id": 841,
+      "text": "De Fide, 24 ."
+    },
+    {
+      "id": 842,
+      "text": ".Sernons 278 :2."
+    },
+    {
+      "id": 843,
+      "text": "Letter 130 to Demetrias, 4."
+    },
+    {
+      "id": 844,
+      "text": "Comm. On 1 Cor. 4:74:6-61."
+    },
+    {
+      "id": 845,
+      "text": "Constitutions of the Holy Apostles, 8:1:2."
+    },
+    {
+      "id": 846,
+      "text": "Scorpiace,15."
+    },
+    {
+      "id": 847,
+      "text": "Ep. to Rom. 2, 4."
+    },
+    {
+      "id": 848,
+      "text": "Ephes 1:1, 2."
+    },
+    {
+      "id": 849,
+      "text": "Rom 1, 2."
+    },
+    {
+      "id": 850,
+      "text": "كان هيليودورس جنديًا، صار كاهنًا، أخذه القديس جيروم معه إلى الشرق، وإذ شعر أنه ليس مدعوًا لحياة الوحدة في الصحراء، عاد إلى Aquileia يمارس عمله الكهنوتي، وفيما بعد سيم أسقفًا علي Altinum ."
+    },
+    {
+      "id": 851,
+      "text": "Letter 14 to Heliodorius, 3."
+    },
+    {
+      "id": 852,
+      "text": "Comm. on Luke, Sermon 50."
+    },
+    {
+      "id": 853,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 854,
+      "text": "David Smith: Life and Letters of St. Paul, p. 657."
+    },
+    {
+      "id": 855,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 856,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 857,
+      "text": "Homilies on the Hebrews, hom. 34:4."
+    },
+    {
+      "id": 858,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 859,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 860,
+      "text": "Letter 82 to Jerome"
+    },
+    {
+      "id": 861,
+      "text": "Letter to Jerome 75"
+    },
+    {
+      "id": 862,
+      "text": ".Sermon on the Paralytic, 10."
+    },
+    {
+      "id": 863,
+      "text": "Commentary on Paul’s Epistles (1Cor. 9:20)."
+    },
+    {
+      "id": 864,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 865,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 866,
+      "text": "Josephus: Jewish Wars, 5:5:8."
+    },
+    {
+      "id": 867,
+      "text": "Josephus: Antiq. 20:86; Jewish Wars, 2:13:5."
+    },
+    {
+      "id": 868,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 869,
+      "text": "Against Rufinus, 1;17."
+    },
+    {
+      "id": 870,
+      "text": "Sermons 170:1."
+    },
+    {
+      "id": 871,
+      "text": "Sermons 278:2."
+    },
+    {
+      "id": 872,
+      "text": "Homilies on, Timothy, hom., 3."
+    },
+    {
+      "id": 873,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 874,
+      "text": "Of the Christian Faith, 2: 15 {132 } ."
+    },
+    {
+      "id": 875,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 876,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 877,
+      "text": "Hom. on Acts, hom. 48."
+    },
+    {
+      "id": 878,
+      "text": "Homilies on Jeremiah, hom 12:8."
+    },
+    {
+      "id": 879,
+      "text": "Josephus: Antiq 1:20:6."
+    },
+    {
+      "id": 880,
+      "text": "Josephus: Antiq 1:20: 9:2."
+    },
+    {
+      "id": 881,
+      "text": "Josephus: Jewish Wars, 2:17:8."
+    },
+    {
+      "id": 882,
+      "text": "Hom. on Acts, hom. 48."
+    },
+    {
+      "id": 883,
+      "text": "Against the Pelagians, Book 3:4."
+    },
+    {
+      "id": 884,
+      "text": "Sermon on the Mount, 1:19:58."
+    },
+    {
+      "id": 885,
+      "text": "Josephus: Antiq. 18:1:4."
+    },
+    {
+      "id": 886,
+      "text": "Josephus: Jewiash Wars, 2:8:14."
+    },
+    {
+      "id": 887,
+      "text": "Hom. on Acts, hom. 49."
+    },
+    {
+      "id": 888,
+      "text": "History v. 9."
+    },
+    {
+      "id": 889,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 890,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 891,
+      "text": "Josephus: Antiq. 20: 162-5."
+    },
+    {
+      "id": 892,
+      "text": "Josephus: Antiq. 20: 8."
+    },
+    {
+      "id": 893,
+      "text": "Josephus: Jewish Wars 2:13:2.."
+    },
+    {
+      "id": 894,
+      "text": "Josephus: Antiq. 20: 8:5."
+    },
+    {
+      "id": 895,
+      "text": "History 5:9."
+    },
+    {
+      "id": 896,
+      "text": "Life of Claudius, ch 28."
+    },
+    {
+      "id": 897,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 898,
+      "text": "Josephus: Antiq. 20:7:7."
+    },
+    {
+      "id": 899,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 900,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 901,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 902,
+      "text": "Commentary on Rom., 15:25."
+    },
+    {
+      "id": 903,
+      "text": "Commentary on Paul’s Epistles (Rom 15:27)."
+    },
+    {
+      "id": 904,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 905,
+      "text": "Against Vigilantius, 13."
+    },
+    {
+      "id": 906,
+      "text": "Defense against the Arians, 82."
+    },
+    {
+      "id": 907,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 908,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 909,
+      "text": "Josephus: Antiq. 20:7:1-2."
+    },
+    {
+      "id": 910,
+      "text": "Sermons on N.T. Lessons, 58 :2.."
+    },
+    {
+      "id": 911,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 912,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 913,
+      "text": "Comment. on Ps. 119, article 24."
+    },
+    {
+      "id": 914,
+      "text": "Josephus: Antiq. 20:8:8."
+    },
+    {
+      "id": 915,
+      "text": "On Ps. 118."
+    },
+    {
+      "id": 916,
+      "text": "Commentary on Ps. 118. ."
+    },
+    {
+      "id": 917,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 918,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 919,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 920,
+      "text": "Josephus: Jewish Wars, 2:11:6."
+    },
+    {
+      "id": 921,
+      "text": "Josephus: Antiq. 20:7:3."
+    },
+    {
+      "id": 922,
+      "text": "Philo: De Praesi. Rom."
+    },
+    {
+      "id": 923,
+      "text": "History, ii."
+    },
+    {
+      "id": 924,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 925,
+      "text": "Against Celsus 2.77: Drewery 132."
+    },
+    {
+      "id": 926,
+      "text": "Kay’s Writings of Clement of Alexandria, p437."
+    },
+    {
+      "id": 927,
+      "text": "القمص باخوم المحرقي (أنبا غريغوريوس حاليا): القيم الروحية... في سرّ المعمودية، ص 47."
+    },
+    {
+      "id": 928,
+      "text": "Paed. 1:6."
+    },
+    {
+      "id": 929,
+      "text": "Baptismal Instructions, 3:11."
+    },
+    {
+      "id": 930,
+      "text": "Baptismal Instructions, 2:7."
+    },
+    {
+      "id": 931,
+      "text": "Sermon in Gen. 7, PG 5: 614 C -D."
+    },
+    {
+      "id": 932,
+      "text": "عظة 5:6."
+    },
+    {
+      "id": 933,
+      "text": "عظة10:11."
+    },
+    {
+      "id": 934,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 935,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 936,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 937,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 938,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 939,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 940,
+      "text": "Hom. on Acts, hom. 53."
+    },
+    {
+      "id": 941,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 942,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 943,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 944,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 945,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 946,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 947,
+      "text": "Against Vigilantius, 6."
+    },
+    {
+      "id": 948,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 949,
+      "text": "Comm. On Paul’s Epistles (2Cor. 11:27)."
+    },
+    {
+      "id": 950,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 951,
+      "text": "Comment. on Ps. 91."
+    },
+    {
+      "id": 952,
+      "text": "The Prayer of Job and David, B.4, 1:5."
+    },
+    {
+      "id": 953,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 22:7 ."
+    },
+    {
+      "id": 954,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 24:7 ."
+    },
+    {
+      "id": 955,
+      "text": "W. Conybeare: Life and Epistles of Paul, Grand Rapids, Michigan, 1987, p. 660, n. 3."
+    },
+    {
+      "id": 956,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 957,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 958,
+      "text": "Tacitus: History 12:42:1."
+    },
+    {
+      "id": 959,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 960,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 961,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 962,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 963,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 964,
+      "text": "Strom 2.6."
+    },
+    {
+      "id": 965,
+      "text": "Hippolytus: Treatise on Christ and antichrist 2."
+    },
+    {
+      "id": 966,
+      "text": "In Galat., Chapter 4."
+    },
+    {
+      "id": 967,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 968,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 969,
+      "text": "Letter 71:1."
+    },
+    {
+      "id": 970,
+      "text": "Epistle to the Philippians, 1:25."
+    },
+    {
+      "id": 971,
+      "text": "Hom 32 in Rom., in Morali PG 60: 697."
+    },
+    {
+      "id": 972,
+      "text": "Hom. 32 in Rom. PG 60: 678 ff."
+    },
+    {
+      "id": 973,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 974,
+      "text": "راجع جمعيات الكتاب المقدس في المشرق ببيروت: تفسير العهد الجديد، 1877، ص 170-171."
+    },
+    {
+      "id": 975,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 976,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 977,
+      "text": "Letter 127 to Principia,4."
+    },
+    {
+      "id": 978,
+      "text": "John Cassian: Conferences, 14:9."
+    },
+    {
+      "id": 979,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 980,
+      "text": "للتعرف على ظهوراته راجع كتابنا عن الإنجيل بحسب يوحنا، 2002، ص 1270."
+    },
+    {
+      "id": 981,
+      "text": "In Ioan., tr., 64:1."
+    },
+    {
+      "id": 982,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 983,
+      "text": "Sermons, 1:32."
+    },
+    {
+      "id": 984,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 985,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 986,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 987,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 988,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 989,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 990,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 991,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 992,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 993,
+      "text": "مقالات لطالبي العماد 17: 13-14."
+    },
+    {
+      "id": 994,
+      "text": "Cf. Adam Clarke: Acts, preface."
+    },
+    {
+      "id": 995,
+      "text": "In Ioan., tr., 25:3"
+    },
+    {
+      "id": 996,
+      "text": "Cf. Letter 144 to Alypius and Augustine, 8."
+    },
+    {
+      "id": 997,
+      "text": "Hom. On Acts, Homily 1."
+    },
+    {
+      "id": 998,
+      "text": "On the Trinity, 9:75."
+    },
+    {
+      "id": 999,
+      "text": "Sermons on N.T. Lessons, 43:8."
+    },
+    {
+      "id": 1000,
+      "text": "مقالات لطالبي العماد 15: 4."
+    },
+    {
+      "id": 1001,
+      "text": "City of God, 18:50."
+    },
+    {
+      "id": 1002,
+      "text": "In Ioan., tr., 2:3."
+    },
+    {
+      "id": 1003,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1004,
+      "text": "In Sanctum Matt. Ch. 10: 1."
+    },
+    {
+      "id": 1005,
+      "text": "Letters 185: 1-5."
+    },
+    {
+      "id": 1006,
+      "text": "In Ascensione, PG 50."
+    },
+    {
+      "id": 1007,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1008,
+      "text": "Comment. on Ps. 104."
+    },
+    {
+      "id": 1009,
+      "text": "In Ioan., tr., 50:13."
+    },
+    {
+      "id": 1010,
+      "text": "On the Resurrection, 9."
+    },
+    {
+      "id": 1011,
+      "text": "Barnes’ Notes on Acts 1: 10."
+    },
+    {
+      "id": 1012,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1013,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1014,
+      "text": "Homilies on Hebr., hom. 3:4."
+    },
+    {
+      "id": 1015,
+      "text": "Comm. in Jo., 6,56.v"
+    },
+    {
+      "id": 1016,
+      "text": "In Ascensione PG 50."
+    },
+    {
+      "id": 1017,
+      "text": "Comment. on Ps. 47."
+    },
+    {
+      "id": 1018,
+      "text": "Exposition of the Orthodox Faith, 4:1."
+    },
+    {
+      "id": 1019,
+      "text": "Exposition of the Orthodox Faith, 12."
+    },
+    {
+      "id": 1020,
+      "text": "Sermons, 265:1."
+    },
+    {
+      "id": 1021,
+      "text": "In Ioan., tr., 21:13."
+    },
+    {
+      "id": 1022,
+      "text": "In Ioan., tr.,36:12."
+    },
+    {
+      "id": 1023,
+      "text": "Hom. on Thess., hom. 8."
+    },
+    {
+      "id": 1024,
+      "text": "Epistles, 60 to Adelphium, 5."
+    },
+    {
+      "id": 1025,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1026,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1027,
+      "text": "Epistles, 67:4."
+    },
+    {
+      "id": 1028,
+      "text": "Hom. On Acts, Homily 2."
+    },
+    {
+      "id": 1029,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 1030,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 1031,
+      "text": "Hom. On Acts, Homily 3."
+    },
+    {
+      "id": 1032,
+      "text": "Hom. on Acts, Homily 3."
+    },
+    {
+      "id": 1033,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1034,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1035,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1036,
+      "text": "On the Holy Spirit, 3:5. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 1037,
+      "text": "On the Holy Spirit, 1: 33. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 1038,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1039,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1040,
+      "text": "H.E. 3:39."
+    },
+    {
+      "id": 1041,
+      "text": "Homilies on Acts, hom. 3."
+    },
+    {
+      "id": 1042,
+      "text": "Jewish Tract, Baal Turim"
+    },
+    {
+      "id": 1043,
+      "text": "Sermons on N.T. Lessons, 75:5."
+    },
+    {
+      "id": 1044,
+      "text": "In Ioan., tr., 27:10."
+    },
+    {
+      "id": 1045,
+      "text": "In Ioan., tr.,49:8."
+    },
+    {
+      "id": 1046,
+      "text": "راجع تفسير اللاويين ، ص 23."
+    },
+    {
+      "id": 1047,
+      "text": "On Baptism, 19."
+    },
+    {
+      "id": 1048,
+      "text": "Homilies on Acts, hom. 4."
+    },
+    {
+      "id": 1049,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1050,
+      "text": "نشيد الأناشيد للقديس غريغوريوس أسقف نيصص، تعريب الدكتور جورج نوّار، عظة 4."
+    },
+    {
+      "id": 1051,
+      "text": "Of the Holy Spirit 1:16:177-178."
+    },
+    {
+      "id": 1052,
+      "text": "On Ps. hom. 57."
+    },
+    {
+      "id": 1053,
+      "text": "Pschal Epistles, 4:3."
+    },
+    {
+      "id": 1054,
+      "text": "St. Gregory of Nazianzen: On Pentecost, 12."
+    },
+    {
+      "id": 1055,
+      "text": "Sermon 96:1."
+    },
+    {
+      "id": 1056,
+      "text": "St. Ambrose: The Duties of the Clergy, Book 3, 18 { 105 } ."
+    },
+    {
+      "id": 1057,
+      "text": "St. Ambrose: The Duty of the Clergy, Book 1:14:164,165."
+    },
+    {
+      "id": 1058,
+      "text": "Duties of the Clergy, 3:18 {102 } ."
+    },
+    {
+      "id": 1059,
+      "text": "St. Augustine: Confessions 5:30:4."
+    },
+    {
+      "id": 1060,
+      "text": "Hom. on Ps. 5."
+    },
+    {
+      "id": 1061,
+      "text": "In Ioan., tr.,21:19."
+    },
+    {
+      "id": 1062,
+      "text": "مقالات لطالبي العماد 17: 15."
+    },
+    {
+      "id": 1063,
+      "text": "Homilies on Song of Songs, 13. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1064,
+      "text": "Sermons on N.T. Lessons, 37:9."
+    },
+    {
+      "id": 1065,
+      "text": "Homilies on Luke 29:1."
+    },
+    {
+      "id": 1066,
+      "text": "مقالات لطالبي العماد 17: 16-17."
+    },
+    {
+      "id": 1067,
+      "text": "In Ioan., tr., 4:10."
+    },
+    {
+      "id": 1068,
+      "text": "Sermons on N.T. Lessons, 9:10."
+    },
+    {
+      "id": 1069,
+      "text": "Sermons on N.T. Lessons, 39:1."
+    },
+    {
+      "id": 1070,
+      "text": "Sermons on N.T. Lessons, 37:9."
+    },
+    {
+      "id": 1071,
+      "text": "Answer to Eunomius, Second Book."
+    },
+    {
+      "id": 1072,
+      "text": "Lect. Catech., 17:14."
+    },
+    {
+      "id": 1073,
+      "text": "Lect. Catech., 17:16."
+    },
+    {
+      "id": 1074,
+      "text": "Lect. Catech., 17:17."
+    },
+    {
+      "id": 1075,
+      "text": "Dio Cassio LXIII:32."
+    },
+    {
+      "id": 1076,
+      "text": "Comment. on Ps. 68, article 23."
+    },
+    {
+      "id": 1077,
+      "text": "Lect. Catech., 17:18."
+    },
+    {
+      "id": 1078,
+      "text": "مقالات لطالبي العماد 17: 18-19."
+    },
+    {
+      "id": 1079,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1080,
+      "text": "On Prayer, 25."
+    },
+    {
+      "id": 1081,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 1082,
+      "text": "See Matthew Henery: Comm. on Acts 2."
+    },
+    {
+      "id": 1083,
+      "text": "Adv. Arian. 2:15:18."
+    },
+    {
+      "id": 1084,
+      "text": "عظة 50: 3-4"
+    },
+    {
+      "id": 1085,
+      "text": "On the Resurrection of the Flesh, 63."
+    },
+    {
+      "id": 1086,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 1087,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 1088,
+      "text": "Contra Arians 2:42, 3:24."
+    },
+    {
+      "id": 1089,
+      "text": "Homilies on Acts, hom. 5."
+    },
+    {
+      "id": 1090,
+      "text": "Cf. Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 1091,
+      "text": "On the Flesh of Christ, ch. 15."
+    },
+    {
+      "id": 1092,
+      "text": "Lettens, 41:13."
+    },
+    {
+      "id": 1093,
+      "text": "Midris Tillin."
+    },
+    {
+      "id": 1094,
+      "text": "Chagig, fol. 78."
+    },
+    {
+      "id": 1095,
+      "text": "In Ioan., tr., 842"
+    },
+    {
+      "id": 1096,
+      "text": "Letter Pamachius against John of Jerusalem, 29."
+    },
+    {
+      "id": 1097,
+      "text": "Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 1098,
+      "text": "Homilies on Acts, hom. 6."
+    },
+    {
+      "id": 1099,
+      "text": "Against Eunomius, 5:2."
+    },
+    {
+      "id": 1100,
+      "text": "Against Eunomius, 5:2."
+    },
+    {
+      "id": 1101,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1102,
+      "text": "Adv. Arian. 2:15:12."
+    },
+    {
+      "id": 1103,
+      "text": "Ibid 2:15.14."
+    },
+    {
+      "id": 1104,
+      "text": "Sermons on N.T. Lessons, 39 :1."
+    },
+    {
+      "id": 1105,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 1106,
+      "text": "Sermons on N.T. Lessons, 27:4."
+    },
+    {
+      "id": 1107,
+      "text": "Lect. Catech., 17:15."
+    },
+    {
+      "id": 1108,
+      "text": "Lect. Catech., 17:21."
+    },
+    {
+      "id": 1109,
+      "text": "Homilies on Luke 14:5."
+    },
+    {
+      "id": 1110,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1111,
+      "text": "In Epis. Ad Rom. Hom 2."
+    },
+    {
+      "id": 1112,
+      "text": "Baptismal Instructions, 12:22."
+    },
+    {
+      "id": 1113,
+      "text": "ميمر عن المعمودية المقدسة (مخطوط بدير الأنبا أنطونيوس نسخ عام 1488 ش)."
+    },
+    {
+      "id": 1114,
+      "text": "St. Jerome: Letter to John, bishop of Jerusalem, 3."
+    },
+    {
+      "id": 1115,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1116,
+      "text": "Robert Llewelyn, The Joy of the Saints, Spiritual Readings throughout the Year, Springfield, Illinois, 1989, p. 114."
+    },
+    {
+      "id": 1117,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 1118,
+      "text": "مقالات لطالبي العماد 3:9."
+    },
+    {
+      "id": 1119,
+      "text": "رسالة 9."
+    },
+    {
+      "id": 1120,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1121,
+      "text": "Hom. 78 in John. PG 59: 425."
+    },
+    {
+      "id": 1122,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1123,
+      "text": "Epistle to Evagrius."
+    },
+    {
+      "id": 1124,
+      "text": "In Ioan., tr., 39:5."
+    },
+    {
+      "id": 1125,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1126,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1127,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1128,
+      "text": "Homilies on Acts, hom. 7."
+    },
+    {
+      "id": 1129,
+      "text": "Homilies on St. John, hom. 75:5."
+    },
+    {
+      "id": 1130,
+      "text": "Cassian: Conferences, 16:3."
+    },
+    {
+      "id": 1131,
+      "text": "دير السريان: القديس باسيليوس الكبير، سنة 196، ص 121."
+    },
+    {
+      "id": 1132,
+      "text": "Sermon on N.T. lessons, 3:14."
+    },
+    {
+      "id": 1133,
+      "text": "A. J. Wensinck: Mystic Treatises by Isaac of Nineveh, 1923, p 233."
+    },
+    {
+      "id": 1134,
+      "text": "The Prayer of Job and David, B.1, 9: 30."
+    },
+    {
+      "id": 1135,
+      "text": "Of the Christian Faith, 3:4 {31 } ."
+    },
+    {
+      "id": 1136,
+      "text": "Comment. on Ps. 54."
+    },
+    {
+      "id": 1137,
+      "text": "Letter 22:32."
+    },
+    {
+      "id": 1138,
+      "text": "Letter 52 to Nepotian, 10."
+    },
+    {
+      "id": 1139,
+      "text": "Letter 123:15."
+    },
+    {
+      "id": 1140,
+      "text": "Homilies on Acts, hom. 8."
+    },
+    {
+      "id": 1141,
+      "text": "Homilies on Hebr., hom. 18:6."
+    },
+    {
+      "id": 1142,
+      "text": "St. Ambrose: Joseph, 3:17 (Translated by Guirguis Kamel Youssef)."
+    },
+    {
+      "id": 1143,
+      "text": "Joseph, 7:42."
+    },
+    {
+      "id": 1144,
+      "text": "Homilies on Acts, hom. 8."
+    },
+    {
+      "id": 1145,
+      "text": "On Prescription against Heretics, 7."
+    },
+    {
+      "id": 1146,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 1147,
+      "text": "In Matt., 83. PG. 58:742-743 A."
+    },
+    {
+      "id": 1148,
+      "text": "St. John Cassian: Conferences, 15:6-7."
+    },
+    {
+      "id": 1149,
+      "text": "Fragment 185 on Luke 11:24."
+    },
+    {
+      "id": 1150,
+      "text": "مقالات لطالبي العماد 3 :15-16."
+    },
+    {
+      "id": 1151,
+      "text": "Adv. Haer. 2:22:5."
+    },
+    {
+      "id": 1152,
+      "text": "In Cap. 25 St. Mat. PG 56: 930."
+    },
+    {
+      "id": 1153,
+      "text": ". In Cap. 25 St. Mat. PG 56: 930"
+    },
+    {
+      "id": 1154,
+      "text": "Sermon 1"
+    },
+    {
+      "id": 1155,
+      "text": "Comm. on Luke, Sermon 47."
+    },
+    {
+      "id": 1156,
+      "text": "De Mortalitate PL 4: 590 f."
+    },
+    {
+      "id": 1157,
+      "text": "Homilies on St. John, hom. 84:2."
+    },
+    {
+      "id": 1158,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 1159,
+      "text": "St. John Cassian: Conferences, 20:8."
+    },
+    {
+      "id": 1160,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 1161,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 1162,
+      "text": "Homilies on Acts, hom. 9."
+    },
+    {
+      "id": 1163,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1164,
+      "text": "Letter 4 to Julian, a wealthy nobleman, 4. (His wife and two daughters had recently died)"
+    },
+    {
+      "id": 1165,
+      "text": "Letter 14 to Heliodorius the monk, 5."
+    },
+    {
+      "id": 1166,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 1167,
+      "text": "الرسالة السادسة."
+    },
+    {
+      "id": 1168,
+      "text": "Baptismal Instructions, 2:7."
+    },
+    {
+      "id": 1169,
+      "text": "Severian pf Gabala: Pouline Comm. From the Greek Church, on 1 Cor. 11:4."
+    },
+    {
+      "id": 1170,
+      "text": "Duties of the Clergy, 1:30."
+    },
+    {
+      "id": 1171,
+      "text": "Duties of the Clergy, 3:11 {74 } .."
+    },
+    {
+      "id": 1172,
+      "text": "Concerning Repentance, 2:9 {82 } ."
+    },
+    {
+      "id": 1173,
+      "text": "Oliver Davies: Gateway to Paradise, 3."
+    },
+    {
+      "id": 1174,
+      "text": "Letter 53 to Polinus of Nola, 11."
+    },
+    {
+      "id": 1175,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1176,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1177,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1178,
+      "text": "Letter 80 to Demetrias, 14."
+    },
+    {
+      "id": 1179,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1180,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1181,
+      "text": "Homilies on Acts, hom. 12."
+    },
+    {
+      "id": 1182,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 1183,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 1184,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 1185,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 1186,
+      "text": "The Homilies of St. Jerome, hom., 65."
+    },
+    {
+      "id": 1187,
+      "text": "Commentary on Titus. PL 26:626 CD."
+    },
+    {
+      "id": 1188,
+      "text": "Homilies on Acts, hom. 13."
+    },
+    {
+      "id": 1189,
+      "text": "On Heresies, 15."
+    },
+    {
+      "id": 1190,
+      "text": "Antiq. 20:5."
+    },
+    {
+      "id": 1191,
+      "text": "Antiq. XVII:10:4, 8."
+    },
+    {
+      "id": 1192,
+      "text": "Antiq. 17:10:5."
+    },
+    {
+      "id": 1193,
+      "text": "Antiq. 18:1:1."
+    },
+    {
+      "id": 1194,
+      "text": "Homilies on Acts, hom. 14."
+    },
+    {
+      "id": 1195,
+      "text": "On Lazarus and the Rich Man, 3."
+    },
+    {
+      "id": 1196,
+      "text": "In Ioan., tr., 109:5."
+    },
+    {
+      "id": 1197,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 1198,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 1199,
+      "text": "Fragment 165 on Luke 10:23-24."
+    },
+    {
+      "id": 1200,
+      "text": "رسالة 1."
+    },
+    {
+      "id": 1201,
+      "text": "St. Iraenaeus: Against Heresies, 26:2."
+    },
+    {
+      "id": 1202,
+      "text": "Apology, ch. 39."
+    },
+    {
+      "id": 1203,
+      "text": "Dialogue Against Luciferiaus, 23."
+    },
+    {
+      "id": 1204,
+      "text": "Letter 147 to Sabinianus,4."
+    },
+    {
+      "id": 1205,
+      "text": "Homilies on St. John, hom. 74:2."
+    },
+    {
+      "id": 1206,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 1207,
+      "text": "Hom. on Acts, hom. 14."
+    },
+    {
+      "id": 1208,
+      "text": "Stromata 6:13."
+    },
+    {
+      "id": 1209,
+      "text": "Hom. On Romans, hom.2."
+    },
+    {
+      "id": 1210,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1211,
+      "text": "Ann, lib. 2:2:85"
+    },
+    {
+      "id": 1212,
+      "text": "Philo: In Legat at Caium."
+    },
+    {
+      "id": 1213,
+      "text": "Antiq. 12:7,2; Against Apion 2:4."
+    },
+    {
+      "id": 1214,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1215,
+      "text": "St. Jerome: Letter 58 to Paulinus of Nola, 1."
+    },
+    {
+      "id": 1216,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1217,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1218,
+      "text": "On the Resurrection of the Flesh, 55."
+    },
+    {
+      "id": 1219,
+      "text": "Baptismal Instructions, 7:14."
+    },
+    {
+      "id": 1220,
+      "text": "الشيخ الروحاني : رسالة 3:1. راجع ترجمة الأب سليم دكاش اليسوعي للناشر دار الشروق ببيروت، وكتاب الشيخ الروحاني، دار النشر القبطية عام 1952 - عن مخطوط بدير المحرق)."
+    },
+    {
+      "id": 1221,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1222,
+      "text": "Hom. on Acts, hom. 15."
+    },
+    {
+      "id": 1223,
+      "text": "Answer to the Jews, 2."
+    },
+    {
+      "id": 1224,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1225,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1226,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1227,
+      "text": "Against Eunomius, 2:13."
+    },
+    {
+      "id": 1228,
+      "text": "Antiq. 2:8:2."
+    },
+    {
+      "id": 1229,
+      "text": "Essay on Hieroglyphic System."
+    },
+    {
+      "id": 1230,
+      "text": "Manners and Customs of the Ancient Egyptians, vol. 1. p, 42, 2nd edition."
+    },
+    {
+      "id": 1231,
+      "text": "Barnes Notes on Acts 7:18."
+    },
+    {
+      "id": 1232,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1233,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1234,
+      "text": "Antiq. 2:9:7."
+    },
+    {
+      "id": 1235,
+      "text": "Vita Moys. 1:9."
+    },
+    {
+      "id": 1236,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1237,
+      "text": "Vita Moys., 12."
+    },
+    {
+      "id": 1238,
+      "text": "Barnes’ on Acts 7:22; Rawlinson’ Herodotus, vol. 2, p, 80-81; Herodotus, 2, p. 50-51."
+    },
+    {
+      "id": 1239,
+      "text": "عظة 9: 4."
+    },
+    {
+      "id": 1240,
+      "text": "Stromata 1 :23.."
+    },
+    {
+      "id": 1241,
+      "text": "Duties of the Clergy, 1:26."
+    },
+    {
+      "id": 1242,
+      "text": "On the Trinity, 5:21."
+    },
+    {
+      "id": 1243,
+      "text": "Vita Moys., 14,15."
+    },
+    {
+      "id": 1244,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1245,
+      "text": "Homilies on Luke, hom. 10:7."
+    },
+    {
+      "id": 1246,
+      "text": "On the Inscriptions of the Psalms, 1:7:52."
+    },
+    {
+      "id": 1247,
+      "text": "Vits Moys., 18."
+    },
+    {
+      "id": 1248,
+      "text": "Vita Moys., 20,21."
+    },
+    {
+      "id": 1249,
+      "text": "Vita Moys., 22."
+    },
+    {
+      "id": 1250,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1251,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 1252,
+      "text": "Hom. on Acts, hom. 16."
+    },
+    {
+      "id": 1253,
+      "text": "مقالات لطالبي العماد 12: 17."
+    },
+    {
+      "id": 1254,
+      "text": "In Ioan., tr., 24:7."
+    },
+    {
+      "id": 1255,
+      "text": "St. Augustine: On the Gospel of St. John, tract. 15:23."
+    },
+    {
+      "id": 1256,
+      "text": "Commentary on Galat.2."
+    },
+    {
+      "id": 1257,
+      "text": "St. John Cassian, 3:7."
+    },
+    {
+      "id": 1258,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 1259,
+      "text": "Sermon 229:1-2."
+    },
+    {
+      "id": 1260,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 1261,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 1262,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:2)."
+    },
+    {
+      "id": 1263,
+      "text": "Hom. On Rom., hom. 18."
+    },
+    {
+      "id": 1264,
+      "text": "The spirit and the Letter, 16."
+    },
+    {
+      "id": 1265,
+      "text": "Comm. On St. Lukes hom. 41."
+    },
+    {
+      "id": 1266,
+      "text": "Comm. on Luke, Sermon 41."
+    },
+    {
+      "id": 1267,
+      "text": "Epistle of Galatians, 24:3:19-20."
+    },
+    {
+      "id": 1268,
+      "text": "Ep. to Gal. 3:19:2."
+    },
+    {
+      "id": 1269,
+      "text": "Homilies on Hebrews, hom. 3:6."
+    },
+    {
+      "id": 1270,
+      "text": "PG 59: 701, 702."
+    },
+    {
+      "id": 1271,
+      "text": "On the Holy Spirit, 8:15. ترجمة الأرشمندريت أدريانوس شكور"
+    },
+    {
+      "id": 1272,
+      "text": "Of the Christian Faith, 3:17 {137 } ."
+    },
+    {
+      "id": 1273,
+      "text": "Epistles, 63:5."
+    },
+    {
+      "id": 1274,
+      "text": "Epistles, 63:5."
+    },
+    {
+      "id": 1275,
+      "text": "Epistles, 63:6."
+    },
+    {
+      "id": 1276,
+      "text": "Letter 108 to Eustochium, 1."
+    },
+    {
+      "id": 1277,
+      "text": "Sermons on N.T. Lessons, 40:9."
+    },
+    {
+      "id": 1278,
+      "text": "On Patience, 14."
+    },
+    {
+      "id": 1279,
+      "text": "Sermon 220:2."
+    },
+    {
+      "id": 1280,
+      "text": "Sermon 219:3."
+    },
+    {
+      "id": 1281,
+      "text": "Sermon 219:3."
+    },
+    {
+      "id": 1282,
+      "text": "Sermon 219:1-2."
+    },
+    {
+      "id": 1283,
+      "text": "Sermon 219:1."
+    },
+    {
+      "id": 1284,
+      "text": "Comm. On St. Luke, hom. 29."
+    },
+    {
+      "id": 1285,
+      "text": "Sermons on N.T. Lessons, 6:16."
+    },
+    {
+      "id": 1286,
+      "text": "Hom. On 1 Tim., hom. 6. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 1287,
+      "text": "Hom. on Acts, hom. 17."
+    },
+    {
+      "id": 1288,
+      "text": "Homm. De Covers, Sancti Pauli"
+    },
+    {
+      "id": 1289,
+      "text": "Comm. on Luke, Sermon 29."
+    },
+    {
+      "id": 1290,
+      "text": "Recognitions of Clement, 6:5."
+    },
+    {
+      "id": 1291,
+      "text": "Treatise 9 On theAdvantage of Patience, 16."
+    },
+    {
+      "id": 1292,
+      "text": "Theodore of Heraclea: Fragment, ( c. 355) 40."
+    },
+    {
+      "id": 1293,
+      "text": "Mishnah: Senh 6:6."
+    },
+    {
+      "id": 1294,
+      "text": "Letter 39:4."
+    },
+    {
+      "id": 1295,
+      "text": "Cf. Barne’s Notes on Acts 8:4."
+    },
+    {
+      "id": 1296,
+      "text": "Antiq. 13:10:3."
+    },
+    {
+      "id": 1297,
+      "text": "Antiq. 15:8:5."
+    },
+    {
+      "id": 1298,
+      "text": "Antiqu. 20:7:2."
+    },
+    {
+      "id": 1299,
+      "text": "Mosheim, vol. 1, p. 113-114. (Murdock’s translation)."
+    },
+    {
+      "id": 1300,
+      "text": "Adv. Haer. 1:23."
+    },
+    {
+      "id": 1301,
+      "text": "دحض كل الهرطقات 6: 2-5."
+    },
+    {
+      "id": 1302,
+      "text": "Apology 1:26."
+    },
+    {
+      "id": 1303,
+      "text": "Against Celsus, 1:57."
+    },
+    {
+      "id": 1304,
+      "text": "Epistles, 1. (David Hazard: You Give Me New Life, 1995, ch. 1.)"
+    },
+    {
+      "id": 1305,
+      "text": "Sermons on N.T. Lessons, 21:16 : ."
+    },
+    {
+      "id": 1306,
+      "text": "مقال افتتاحي 2."
+    },
+    {
+      "id": 1307,
+      "text": "Lect. Catech., 16:26."
+    },
+    {
+      "id": 1308,
+      "text": "In Ioan., tr., 6:18."
+    },
+    {
+      "id": 1309,
+      "text": "Cf. Adv. Haer. 1:23:1."
+    },
+    {
+      "id": 1310,
+      "text": "On Idolatry, 9."
+    },
+    {
+      "id": 1311,
+      "text": "Adv. Haer. 2:32:4."
+    },
+    {
+      "id": 1312,
+      "text": "Lect. Catech., 16:10."
+    },
+    {
+      "id": 1313,
+      "text": "Sermons on N.T. Lessons, 49:10."
+    },
+    {
+      "id": 1314,
+      "text": "St. Irenaeus: Adv. Haer. 1:23:1."
+    },
+    {
+      "id": 1315,
+      "text": "Apology, 13."
+    },
+    {
+      "id": 1316,
+      "text": "نادى القديس ايريناؤس بهذا الرأي [23:1، 2]."
+    },
+    {
+      "id": 1317,
+      "text": "مقالات لطالبي العماد 6: 14."
+    },
+    {
+      "id": 1318,
+      "text": "Adv. Haer. 2:32:2."
+    },
+    {
+      "id": 1319,
+      "text": "Hom. on Acts, hom. 18."
+    },
+    {
+      "id": 1320,
+      "text": "Hom. on Acts, hom. 18."
+    },
+    {
+      "id": 1321,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 1322,
+      "text": "On the Christian Doctrines, Pref., 7."
+    },
+    {
+      "id": 1323,
+      "text": "Josephus: Antiq. 11:8:3-4; 13:13:3."
+    },
+    {
+      "id": 1324,
+      "text": "Against Jovinianus, Book 1:12."
+    },
+    {
+      "id": 1325,
+      "text": "الترجمة السبعينية \" لأني حينئذ أحوال الشعوب إلى شفة نقية\"."
+    },
+    {
+      "id": 1326,
+      "text": "مقالات لطالبي العماد 14: 7."
+    },
+    {
+      "id": 1327,
+      "text": "Adv. Haer. 4:23:2."
+    },
+    {
+      "id": 1328,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 1329,
+      "text": "On Baptism, 18."
+    },
+    {
+      "id": 1330,
+      "text": "Letter 53 to Paulinus of Nola, 5."
+    },
+    {
+      "id": 1331,
+      "text": "Epistles, 19:5."
+    },
+    {
+      "id": 1332,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 1333,
+      "text": "مقالات لطالبي العماد 10: 3."
+    },
+    {
+      "id": 1334,
+      "text": "Hom. on Acts, hom. 19."
+    },
+    {
+      "id": 1335,
+      "text": "مت 38: 19."
+    },
+    {
+      "id": 1336,
+      "text": "هنا سكب الماء على الرأس جائز عند ندرة وجود الماء، سمحت به الكنيسة فيما بعد في حالة المرض الشديد، حيث يعجز المريض عن النزول إلى المعمودية، يسميه البعضClinical Baptism."
+    },
+    {
+      "id": 1337,
+      "text": "De Principiis 1;2:1."
+    },
+    {
+      "id": 1338,
+      "text": "De Principiis 1:2:7."
+    },
+    {
+      "id": 1339,
+      "text": "Cf. Sermon 71:19, 33."
+    },
+    {
+      "id": 1340,
+      "text": "De Baptism, 6."
+    },
+    {
+      "id": 1341,
+      "text": "De Baptism, 8."
+    },
+    {
+      "id": 1342,
+      "text": "Ep. 74:4."
+    },
+    {
+      "id": 1343,
+      "text": "De Baptismo, 7-8."
+    },
+    {
+      "id": 1344,
+      "text": "Epistle 73:8."
+    },
+    {
+      "id": 1345,
+      "text": "De Trinitate, 15:26."
+    },
+    {
+      "id": 1346,
+      "text": "Rev. Hall: Confirmation, Oxford Library of Practical Theology, 1908, p.13."
+    },
+    {
+      "id": 1347,
+      "text": "Order of Confirmation in the American Prayer Book, 1892- (cf. Hall, p.14)."
+    },
+    {
+      "id": 1348,
+      "text": "Cf. G. Friedrich: Theological Dictionary of the New Testament, translated by G. W. Bromiley, Michigan 1993. vol. 8, p. 160."
+    },
+    {
+      "id": 1349,
+      "text": "بتصرّف."
+    },
+    {
+      "id": 1350,
+      "text": "On the Sacraments, 7."
+    },
+    {
+      "id": 1351,
+      "text": "خطاب 19 ضدّ الفاحصين."
+    },
+    {
+      "id": 1352,
+      "text": "Adv. Haer. 4:63."
+    },
+    {
+      "id": 1353,
+      "text": "To Autolycus, 1:12."
+    },
+    {
+      "id": 1354,
+      "text": "Letter, 70."
+    },
+    {
+      "id": 1355,
+      "text": "Episle 74:6."
+    },
+    {
+      "id": 1356,
+      "text": "الكلمة اليونانية \"نموذج\" لا تعني نموذجًا رمزيًا بل كما ورد في عب 24:9."
+    },
+    {
+      "id": 1357,
+      "text": "مقال 21 (الأسرار 3): 1، 2."
+    },
+    {
+      "id": 1358,
+      "text": "مقال 21 (الأسرار 3): 3، 4."
+    },
+    {
+      "id": 1359,
+      "text": "الرسالة ضد الآريوسيين 1:1: 50."
+    },
+    {
+      "id": 1360,
+      "text": "Of the Holy Spirit 1:8:93."
+    },
+    {
+      "id": 1361,
+      "text": "Prayer of David, Book 4:9:35."
+    },
+    {
+      "id": 1362,
+      "text": "Letter 73 against Heretics."
+    },
+    {
+      "id": 1363,
+      "text": "تعليم الإيمان، 5."
+    },
+    {
+      "id": 1364,
+      "text": "Sacraments 6:2:7."
+    },
+    {
+      "id": 1365,
+      "text": "Sacraments, 7."
+    },
+    {
+      "id": 1366,
+      "text": "De Resurrectione Carnis, 8."
+    },
+    {
+      "id": 1367,
+      "text": "Sermon 8:33."
+    },
+    {
+      "id": 1368,
+      "text": "Priesthood, 4."
+    },
+    {
+      "id": 1369,
+      "text": "Sacr. 3:7."
+    },
+    {
+      "id": 1370,
+      "text": "راجع نيافة الأنبا غريغوريوس: القيم الروحية... في سرّ الميرون."
+    },
+    {
+      "id": 1371,
+      "text": "Baptismal Instructions, 4:7."
+    },
+    {
+      "id": 1372,
+      "text": "Jewish Wars, 2:20:2; 7:8:7.."
+    },
+    {
+      "id": 1373,
+      "text": "On Prayer, 11."
+    },
+    {
+      "id": 1374,
+      "text": "Isaac or the Soul, 3: 31 (translated by Guirguis Kamel Youssef)."
+    },
+    {
+      "id": 1375,
+      "text": "Sermons on N.T. Lessons, 37:15."
+    },
+    {
+      "id": 1376,
+      "text": "Sermons on N.T. Lessons,66:7."
+    },
+    {
+      "id": 1377,
+      "text": "Sermons on N.T. Lessons, 74:4."
+    },
+    {
+      "id": 1378,
+      "text": "Sermon 87:3."
+    },
+    {
+      "id": 1379,
+      "text": "Joseph 10: 58."
+    },
+    {
+      "id": 1380,
+      "text": "St. John Cassian: Conferences, 2:15."
+    },
+    {
+      "id": 1381,
+      "text": "On the Christian Doctrines, Pref., 6."
+    },
+    {
+      "id": 1382,
+      "text": "On the Christian Doctrines, Pref., 6."
+    },
+    {
+      "id": 1383,
+      "text": "St. Augustine: On Ps. 102."
+    },
+    {
+      "id": 1384,
+      "text": "St. Augustine: On Ps. 51."
+    },
+    {
+      "id": 1385,
+      "text": "Fr. Caesarius of Arles: Sermon 226:3."
+    },
+    {
+      "id": 1386,
+      "text": "Sermons on N.T. Lessons, 66:7."
+    },
+    {
+      "id": 1387,
+      "text": "Letter 58 to Paulinus of Nola,1."
+    },
+    {
+      "id": 1388,
+      "text": "Letter 125 to Heliodorus, 8."
+    },
+    {
+      "id": 1389,
+      "text": "Sermons on N.T. Lessons, 27:6."
+    },
+    {
+      "id": 1390,
+      "text": "Sermons, De Apstolis Petro et Paulo."
+    },
+    {
+      "id": 1391,
+      "text": "The Patriarchs, 12: 58."
+    },
+    {
+      "id": 1392,
+      "text": "Homilies on Luke, hom. 39:3."
+    },
+    {
+      "id": 1393,
+      "text": "On the Incomprehensible Nature of God, 8:3."
+    },
+    {
+      "id": 1394,
+      "text": "On the Priesthood 1: 3 PG 48: 645."
+    },
+    {
+      "id": 1395,
+      "text": "De Laud. S. Pauli, hom.1."
+    },
+    {
+      "id": 1396,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 1397,
+      "text": "Letter 60 to Heliodorus, 8."
+    },
+    {
+      "id": 1398,
+      "text": "Concerning Repentance, 1:8 {34 } ."
+    },
+    {
+      "id": 1399,
+      "text": "Fragment, 52."
+    },
+    {
+      "id": 1400,
+      "text": "On Baptism, 13."
+    },
+    {
+      "id": 1401,
+      "text": "Letter 16 to Pope Damasus, 1."
+    },
+    {
+      "id": 1402,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1403,
+      "text": "Baptismal Instructions, 4:7, 9."
+    },
+    {
+      "id": 1404,
+      "text": "Baptismal Instructions, 7:10."
+    },
+    {
+      "id": 1405,
+      "text": "مقالات لطالبي العماد 10: 17."
+    },
+    {
+      "id": 1406,
+      "text": "Cf. Hom. on Acts, hom. 20."
+    },
+    {
+      "id": 1407,
+      "text": "Comm. On Paul’s Epistles (2 Cor. 11:33)."
+    },
+    {
+      "id": 1408,
+      "text": "See Lardner’s Works, vol. 1, p. 101-102, London, 1829."
+    },
+    {
+      "id": 1409,
+      "text": "Philo, DeLegat. ad Cai., pp. 1024-1025."
+    },
+    {
+      "id": 1410,
+      "text": "Homilies on Hebrews, hom. 27:9."
+    },
+    {
+      "id": 1411,
+      "text": "In Matt., 79. PG. 58:715 A-B."
+    },
+    {
+      "id": 1412,
+      "text": "Treatise On Works and Alms, 6."
+    },
+    {
+      "id": 1413,
+      "text": "Cf. Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1414,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1415,
+      "text": "Hist. 6: 24."
+    },
+    {
+      "id": 1416,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1417,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1418,
+      "text": "Apostolic Constitutions, 8: 34."
+    },
+    {
+      "id": 1419,
+      "text": "Gregory Dix: The Apostolic Tradition of St. Hippolytus of Rome, 36:2-71992, p. 62-64."
+    },
+    {
+      "id": 1420,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1421,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1422,
+      "text": "Chromatius of Aquileia: Tractate on Matthew, 27:1: 4-5."
+    },
+    {
+      "id": 1423,
+      "text": "Baptismal Instructions, 7:29."
+    },
+    {
+      "id": 1424,
+      "text": "Baptismal Instructions, 7:27."
+    },
+    {
+      "id": 1425,
+      "text": "Baptismal Instructions, 7:28."
+    },
+    {
+      "id": 1426,
+      "text": "Homilies on Rom., hom. 19."
+    },
+    {
+      "id": 1427,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1428,
+      "text": "Against Jovinianus, Book 2,17."
+    },
+    {
+      "id": 1429,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1430,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1431,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1432,
+      "text": "Flight from the world, 8: 49, translated by Guirguis K. Youssef."
+    },
+    {
+      "id": 1433,
+      "text": "Letter 125 to Rustius, 2."
+    },
+    {
+      "id": 1434,
+      "text": "Sermon 176:4."
+    },
+    {
+      "id": 1435,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1436,
+      "text": "Sermons on N.T. Lessons, 75:9."
+    },
+    {
+      "id": 1437,
+      "text": "Sermon 176:5."
+    },
+    {
+      "id": 1438,
+      "text": "Paedagogus 2:1. راجع ترجمة فليوباترون"
+    },
+    {
+      "id": 1439,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1440,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1441,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1442,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 1443,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 1444,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 1445,
+      "text": "Adv. Arian. 2:16:23. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 1446,
+      "text": "Sermons on N.T. Lessons, 49:2."
+    },
+    {
+      "id": 1447,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 1448,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1449,
+      "text": "Hom. on Acts, hom. 22."
+    },
+    {
+      "id": 1450,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:29)."
+    },
+    {
+      "id": 1451,
+      "text": "Hom. on Acts, hom. 23."
+    },
+    {
+      "id": 1452,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 1453,
+      "text": "Hom. On Romans, hom.5."
+    },
+    {
+      "id": 1454,
+      "text": "Homilies on Song of Songs, 14. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1455,
+      "text": "Stromata, 6:8."
+    },
+    {
+      "id": 1456,
+      "text": "Stromata, 6:6"
+    },
+    {
+      "id": 1457,
+      "text": "Comment. on Ps. 128."
+    },
+    {
+      "id": 1458,
+      "text": "Comment. on Ps. 128."
+    },
+    {
+      "id": 1459,
+      "text": "Andreas: Catena."
+    },
+    {
+      "id": 1460,
+      "text": "Letter 79:2."
+    },
+    {
+      "id": 1461,
+      "text": "Comm. on Luke, Sermon 68."
+    },
+    {
+      "id": 1462,
+      "text": "Comm. On Rom. 2 :11."
+    },
+    {
+      "id": 1463,
+      "text": "Ep. to the Eplessians. 1:2:13-14."
+    },
+    {
+      "id": 1464,
+      "text": "مقالات لطالبي العماد 10: 10."
+    },
+    {
+      "id": 1465,
+      "text": "Against Marcion 5:17:12-13."
+    },
+    {
+      "id": 1466,
+      "text": "Against Marcion, 5:17:15."
+    },
+    {
+      "id": 1467,
+      "text": "Ep. to the Eplessians 2:13."
+    },
+    {
+      "id": 1468,
+      "text": "Epistle to the Ephessians, 2:16."
+    },
+    {
+      "id": 1469,
+      "text": "Adv. Arian., 1:12:47. ترجمة مركز دراسات الآباء بالقاهرة"
+    },
+    {
+      "id": 1470,
+      "text": "On the Psalms, 96:14."
+    },
+    {
+      "id": 1471,
+      "text": "Prudentius (c. 348-425): Hymn 9, Hymn for Every Hour."
+    },
+    {
+      "id": 1472,
+      "text": "Pauline Comm. From the Greek Church (Rom. 1:7)."
+    },
+    {
+      "id": 1473,
+      "text": "Marius Victorinus: Ep. to the Ephes. 1:2:18."
+    },
+    {
+      "id": 1474,
+      "text": "Sermons on N.T. Lessons, 49:10."
+    },
+    {
+      "id": 1475,
+      "text": "Letter 60 to Heliodorus, 9."
+    },
+    {
+      "id": 1476,
+      "text": "Homilies on St. John, hom. 15:2."
+    },
+    {
+      "id": 1477,
+      "text": "مقالات لطالبي العماد 3:4."
+    },
+    {
+      "id": 1478,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 1479,
+      "text": "Hom. on Eph. 6:3:1-2."
+    },
+    {
+      "id": 1480,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 1481,
+      "text": "Hom. on Acts, hom. 24."
+    },
+    {
+      "id": 1482,
+      "text": "De Principiis, 1: 2: 13."
+    },
+    {
+      "id": 1483,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 1484,
+      "text": "Theophilus to Autolycus, 1:1."
+    },
+    {
+      "id": 1485,
+      "text": "Theophilus to Autolycus, 1:12."
+    },
+    {
+      "id": 1486,
+      "text": "Comm. On Paul’ Epistles 1Cor 12:28."
+    },
+    {
+      "id": 1487,
+      "text": "Comm. on Paul’ s Epistles."
+    },
+    {
+      "id": 1488,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 1489,
+      "text": "Hom. on Acts, hom. 25."
+    },
+    {
+      "id": 1490,
+      "text": "H.E. 3: 4."
+    },
+    {
+      "id": 1491,
+      "text": "Illust. Men, 7, Preface in Comm. on Matthew."
+    },
+    {
+      "id": 1492,
+      "text": "الحشمونيون هو الاسم العائلي لجماعة المكابيين نسبة لأحد شخصياتهم البارزة."
+    },
+    {
+      "id": 1493,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 1494,
+      "text": "ِ Eusabius: H.E. 2: 9."
+    },
+    {
+      "id": 1495,
+      "text": "Sanhedr., Fol.!!!"
+    },
+    {
+      "id": 1496,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 1497,
+      "text": "Sermon against Auxentius, 12."
+    },
+    {
+      "id": 1498,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 1499,
+      "text": "Aphrahat: Demonstration4, on prayer, 9."
+    },
+    {
+      "id": 1500,
+      "text": "Martyrius: Book of Perfection, 39-40."
+    },
+    {
+      "id": 1501,
+      "text": "De institutis caeoborum, 1:1:8."
+    },
+    {
+      "id": 1502,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 1503,
+      "text": "Hom. on Acts, hom. 26."
+    },
+    {
+      "id": 1504,
+      "text": "Cassiodorus: Expostions of the Psalms, 118:20."
+    },
+    {
+      "id": 1505,
+      "text": "The Jewish Encyclopedia, Angelology."
+    },
+    {
+      "id": 1506,
+      "text": "Pseudo-Barn., 18,1."
+    },
+    {
+      "id": 1507,
+      "text": "Vis., 5, 1-4."
+    },
+    {
+      "id": 1508,
+      "text": "Ecl., 41, 48."
+    },
+    {
+      "id": 1509,
+      "text": "Hom. in Num., 11,4; see also 20, 3."
+    },
+    {
+      "id": 1510,
+      "text": "De Principiis 2:20:7."
+    },
+    {
+      "id": 1511,
+      "text": "Comm. in Matt., 13,5."
+    },
+    {
+      "id": 1512,
+      "text": "Comm. in Matt., 13, 28."
+    },
+    {
+      "id": 1513,
+      "text": "Comm. on the Songs of Songs, book 2:3 (ACW)."
+    },
+    {
+      "id": 1514,
+      "text": "On Prayer 6:4 (ACW)."
+    },
+    {
+      "id": 1515,
+      "text": "De Principiis 3:2:4; Boniface Ramsey: Beginning to Read the Fathers, Paulist Press, 1985, p.12."
+    },
+    {
+      "id": 1516,
+      "text": "Hom. in Ps. 33:6."
+    },
+    {
+      "id": 1517,
+      "text": "St. John Cassian: Conferences, 8:17."
+    },
+    {
+      "id": 1518,
+      "text": "Josephus: Antiq.. 7: 6: 5."
+    },
+    {
+      "id": 1519,
+      "text": "Eusebius: H.E. 8: 16."
+    },
+    {
+      "id": 1520,
+      "text": "Theodoret: H.E. 3: 9"
+    },
+    {
+      "id": 1521,
+      "text": "Igino Giordani: St. Paul, Apostle and Martyr, translated by C. Maranzana, 1961, p.25."
+    },
+    {
+      "id": 1522,
+      "text": "Eusebius, H.E. 15: 10: 5."
+    },
+    {
+      "id": 1523,
+      "text": "Lect. Catech., 16:13, 14."
+    },
+    {
+      "id": 1524,
+      "text": "Cf. Hom. On 1Tim., hom. 1:1. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 1525,
+      "text": "لا يفصد الآباء بتعبير التأله أن يصير الإنسان هو الله بل يتمتع بسمات فائقه هي هبة النعمة الإلهية له."
+    },
+    {
+      "id": 1526,
+      "text": "Iration 31, On the Holgy Spirit, 29."
+    },
+    {
+      "id": 1527,
+      "text": "Hom. on Acts, hom. 27."
+    },
+    {
+      "id": 1528,
+      "text": "Hom. on Acts, hom. 27."
+    },
+    {
+      "id": 1529,
+      "text": "De Laudibus S. Pauli, hom. 5 PG 50: 474."
+    },
+    {
+      "id": 1530,
+      "text": "I. Giordani, St. Paul, Apostle and Martyr, p. 26."
+    },
+    {
+      "id": 1531,
+      "text": "Sermons on N.T. Lessons, 27:3."
+    },
+    {
+      "id": 1532,
+      "text": "Comm. On the Epistle of the Romans [1:1]."
+    },
+    {
+      "id": 1533,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 1534,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 1535,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 1536,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 1537,
+      "text": "Severian pf Gabala: Pauline Comm. From the Greek Church."
+    },
+    {
+      "id": 1538,
+      "text": "Hom. on Acts, hom. 28."
+    },
+    {
+      "id": 1539,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, 1972, p.443."
+    },
+    {
+      "id": 1540,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 443-444."
+    },
+    {
+      "id": 1541,
+      "text": "Comment. on Ps. 22."
+    },
+    {
+      "id": 1542,
+      "text": "Antiq. 8: 1; 10: 8: 5."
+    },
+    {
+      "id": 1543,
+      "text": "Antiq. 6: 2. 9."
+    },
+    {
+      "id": 1544,
+      "text": "Antiq. 10: 8: 4."
+    },
+    {
+      "id": 1545,
+      "text": "On the Trinity, 12:9."
+    },
+    {
+      "id": 1546,
+      "text": "On Ps.53 {54 } ,1."
+    },
+    {
+      "id": 1547,
+      "text": "Hom. on Acts, hom. 29."
+    },
+    {
+      "id": 1548,
+      "text": "Hom. on Acts, hom. 29."
+    },
+    {
+      "id": 1549,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 1550,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 1551,
+      "text": "Sermons on N.T. Lessons, 1:14"
+    },
+    {
+      "id": 1552,
+      "text": "Sermons on N.T. Lessons, 39:2."
+    },
+    {
+      "id": 1553,
+      "text": "Sermon 122:1."
+    },
+    {
+      "id": 1554,
+      "text": "Sermon 129:3."
+    },
+    {
+      "id": 1555,
+      "text": "Sermon on N.T. Lessons, 1:14."
+    },
+    {
+      "id": 1556,
+      "text": "Hom. On Jeremiah, hom. 4:2."
+    },
+    {
+      "id": 1557,
+      "text": "Homilies on Jermiah, hom 5:1"
+    },
+    {
+      "id": 1558,
+      "text": "Comm. On Paul’s Epistles (Rom. 3:3)."
+    },
+    {
+      "id": 1559,
+      "text": "Interpretation of Rom. [3:3]."
+    },
+    {
+      "id": 1560,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 1561,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 444."
+    },
+    {
+      "id": 1562,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p.444."
+    },
+    {
+      "id": 1563,
+      "text": "Freeman, p. 444."
+    },
+    {
+      "id": 1564,
+      "text": "Against Celsus, 1:63."
+    },
+    {
+      "id": 1565,
+      "text": "On the Incomprehensible Nature of God, 5: 6."
+    },
+    {
+      "id": 1566,
+      "text": "Sermon 175:6-7."
+    },
+    {
+      "id": 1567,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 1568,
+      "text": "Hom. on Acts, hom. 30."
+    },
+    {
+      "id": 1569,
+      "text": "Hom. On 1Tim., hom. 3. ترجمة سعاد سوريال"
+    },
+    {
+      "id": 1570,
+      "text": "On Ps. 9."
+    },
+    {
+      "id": 1571,
+      "text": "Metam., l, ivv 211-239"
+    },
+    {
+      "id": 1572,
+      "text": "Contra Gentes, 3:35:1."
+    },
+    {
+      "id": 1573,
+      "text": "Commentary on Rom. 14:17."
+    },
+    {
+      "id": 1574,
+      "text": "Ep. to Gal 3:5:22."
+    },
+    {
+      "id": 1575,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 1576,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 1577,
+      "text": "Ep .to Gal. 3:5: 22."
+    },
+    {
+      "id": 1578,
+      "text": "Morality 1: 31, ch. 15 PL 76: 610."
+    },
+    {
+      "id": 1579,
+      "text": "Discourses, 13."
+    },
+    {
+      "id": 1580,
+      "text": "Hom. on Acts, hom. 31."
+    },
+    {
+      "id": 1581,
+      "text": "Duties of the Clergy, 1:16."
+    },
+    {
+      "id": 1582,
+      "text": "Fr. Caesarius of Arles, Sermons, 215:3."
+    },
+    {
+      "id": 1583,
+      "text": "Sermon 215:4."
+    },
+    {
+      "id": 1584,
+      "text": "Sermon 91:4."
+    },
+    {
+      "id": 1585,
+      "text": "Sermon 103:3."
+    },
+    {
+      "id": 1586,
+      "text": "Sermon 154:1."
+    },
+    {
+      "id": 1587,
+      "text": "Sermon 162:1."
+    },
+    {
+      "id": 1588,
+      "text": "Sermon 182:4."
+    },
+    {
+      "id": 1589,
+      "text": "Catena."
+    },
+    {
+      "id": 1590,
+      "text": "Letters, 250."
+    },
+    {
+      "id": 1591,
+      "text": "Introductory Tractate on James."
+    },
+    {
+      "id": 1592,
+      "text": "Antiq. 20:38-45."
+    },
+    {
+      "id": 1593,
+      "text": "Hom. on Acts, hom. 33."
+    },
+    {
+      "id": 1594,
+      "text": "Sermons on N.T. Lessons, 56 :1."
+    },
+    {
+      "id": 1595,
+      "text": "Sermon on N.T. lessons, 3:11."
+    },
+    {
+      "id": 1596,
+      "text": "Comm. On Paul’s Epistles (Rom. 4:7)."
+    },
+    {
+      "id": 1597,
+      "text": "Comm. On St. Luke, hom. 85."
+    },
+    {
+      "id": 1598,
+      "text": "Comm. on Luke, Sermon 60."
+    },
+    {
+      "id": 1599,
+      "text": "On Ps. 2."
+    },
+    {
+      "id": 1600,
+      "text": "Hom. on Leviticus, 3: 5."
+    },
+    {
+      "id": 1601,
+      "text": "Proof of the Gospel, 1:7."
+    },
+    {
+      "id": 1602,
+      "text": "De Gompunct. PG 47: 408."
+    },
+    {
+      "id": 1603,
+      "text": "Hom. On Rom, hom. 29."
+    },
+    {
+      "id": 1604,
+      "text": "Comm. On Rom. 15:19."
+    },
+    {
+      "id": 1605,
+      "text": "Commentary on Rom. 13:4."
+    },
+    {
+      "id": 1606,
+      "text": "مقالات لطالبي العماد 4: 27-28."
+    },
+    {
+      "id": 1607,
+      "text": "On the Holy Spirit, 2:13:144."
+    },
+    {
+      "id": 1608,
+      "text": "Against Jovinianus, Book 1:34.."
+    },
+    {
+      "id": 1609,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1610,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1611,
+      "text": "Duties of the Clergy, 2:20. {101 } ."
+    },
+    {
+      "id": 1612,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1613,
+      "text": "Hom. On 2 Tim., 2."
+    },
+    {
+      "id": 1614,
+      "text": "Interpretation on 2 Tim., 1:5."
+    },
+    {
+      "id": 1615,
+      "text": "Hom. on 2 Tim., hom. 1."
+    },
+    {
+      "id": 1616,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1617,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1618,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1619,
+      "text": "Comm. On the Epistle to the Romans, [1:13]."
+    },
+    {
+      "id": 1620,
+      "text": "Comment. on Luke, hom. 12:3."
+    },
+    {
+      "id": 1621,
+      "text": "Hom. on Acts, hom. 34."
+    },
+    {
+      "id": 1622,
+      "text": "Homilies on Luke, hom. 12:3."
+    },
+    {
+      "id": 1623,
+      "text": "Homilies on Jermiah, hom 12:8."
+    },
+    {
+      "id": 1624,
+      "text": "Freeman, p. 445."
+    },
+    {
+      "id": 1625,
+      "text": "Iliad, 4:141."
+    },
+    {
+      "id": 1626,
+      "text": "Barnes’Notes on Acts 16."
+    },
+    {
+      "id": 1627,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 1628,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 1629,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 1630,
+      "text": "Hom. On 1 Cor., hom. 29:3."
+    },
+    {
+      "id": 1631,
+      "text": "Comm. On St. Luke, hom. 81."
+    },
+    {
+      "id": 1632,
+      "text": "Lactanius: Divine institutes, 2:16."
+    },
+    {
+      "id": 1633,
+      "text": "Hom. on Acts, hom. 35."
+    },
+    {
+      "id": 1634,
+      "text": "Freeman, p. 445."
+    },
+    {
+      "id": 1635,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1636,
+      "text": "Letter 109 t0 Riparius, 3."
+    },
+    {
+      "id": 1637,
+      "text": "Hom. 52 in Rom.PG 60: 364."
+    },
+    {
+      "id": 1638,
+      "text": "Praises of St. Paul Hom. 1. Pg 50: 453."
+    },
+    {
+      "id": 1639,
+      "text": "دير السريان: القديس باسيليوس الكبير، ص 122."
+    },
+    {
+      "id": 1640,
+      "text": "On Prayer, 24."
+    },
+    {
+      "id": 1641,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1642,
+      "text": "Freeman, p. 446."
+    },
+    {
+      "id": 1643,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1644,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1645,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1646,
+      "text": "Freeman, p. 446."
+    },
+    {
+      "id": 1647,
+      "text": "Hom. on Acts, hom. 36."
+    },
+    {
+      "id": 1648,
+      "text": "Sermon on the Mount, 1:19:58."
+    },
+    {
+      "id": 1649,
+      "text": "Dionysius Hal.; Ant. Rom. 11."
+    },
+    {
+      "id": 1650,
+      "text": "Dio Cass. Lib. 60."
+    },
+    {
+      "id": 1651,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1652,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1653,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1654,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1655,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1656,
+      "text": "Hom. on Acts, hom. 37."
+    },
+    {
+      "id": 1657,
+      "text": "Stromata, 6:18."
+    },
+    {
+      "id": 1658,
+      "text": "In Attic. 1:24."
+    },
+    {
+      "id": 1659,
+      "text": "T.i. Prometh, p. 180."
+    },
+    {
+      "id": 1660,
+      "text": "Sat.17."
+    },
+    {
+      "id": 1661,
+      "text": "Comment. on Ps. 119, article 67."
+    },
+    {
+      "id": 1662,
+      "text": "Comm. on Luke, Sermon 62."
+    },
+    {
+      "id": 1663,
+      "text": "Sermons on N.T. Lessons, 51 :1."
+    },
+    {
+      "id": 1664,
+      "text": "Exegetic Homilies, 18:8."
+    },
+    {
+      "id": 1665,
+      "text": "Stromata, 1:19."
+    },
+    {
+      "id": 1666,
+      "text": "وُلد أراتوس السولي عام 315ق.م في بلدة سولي بإقليم كيليكيّة بآسيا الصغرى ، وتتكوّن قصيدة الظواهر من 1154 بيتًا، ويدور موضوعها حول علم الفلك."
+    },
+    {
+      "id": 1667,
+      "text": "Stromata 1 :19. ترجمة فيلوباترون"
+    },
+    {
+      "id": 1668,
+      "text": "On Romans.3."
+    },
+    {
+      "id": 1669,
+      "text": "Diog. Laer, Book 1:10."
+    },
+    {
+      "id": 1670,
+      "text": "Hom. on Acts, hom. 38."
+    },
+    {
+      "id": 1671,
+      "text": "Cf. Homilies on Luke, hom. 31:3.."
+    },
+    {
+      "id": 1672,
+      "text": "Councils of Ariminum and Seleuciaa, 3:39."
+    },
+    {
+      "id": 1673,
+      "text": "Phaenom, v. 5."
+    },
+    {
+      "id": 1674,
+      "text": "Letter 60."
+    },
+    {
+      "id": 1675,
+      "text": "Comment. on Ps. 139."
+    },
+    {
+      "id": 1676,
+      "text": "Comment. on Ps. 139."
+    },
+    {
+      "id": 1677,
+      "text": "Fragments on Jeremiah from Catena, 17."
+    },
+    {
+      "id": 1678,
+      "text": "St. Ambrose: Isaac, or the Soul, 8: 78."
+    },
+    {
+      "id": 1679,
+      "text": "Death as a Good, 12: 55."
+    },
+    {
+      "id": 1680,
+      "text": "Flight from the world, 6: 36."
+    },
+    {
+      "id": 1681,
+      "text": "Comm. on Luke, Sermon 36."
+    },
+    {
+      "id": 1682,
+      "text": "Comm. on Luke, Sermon 46."
+    },
+    {
+      "id": 1683,
+      "text": "Comm. On St. Luke hom. 36."
+    },
+    {
+      "id": 1684,
+      "text": "Comm. On St. Lukes hom. 46."
+    },
+    {
+      "id": 1685,
+      "text": "Epistles, 48."
+    },
+    {
+      "id": 1686,
+      "text": "Il Iliud Omnia,5."
+    },
+    {
+      "id": 1687,
+      "text": "De Incarnatione Verbi Dei, 8."
+    },
+    {
+      "id": 1688,
+      "text": "Homilies on Hebr. , hom. 8."
+    },
+    {
+      "id": 1689,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 1690,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 1691,
+      "text": "St. John Cassian: Conferences, 24:12."
+    },
+    {
+      "id": 1692,
+      "text": "The Work of Monks, 7."
+    },
+    {
+      "id": 1693,
+      "text": "The Work of Monks, 15."
+    },
+    {
+      "id": 1694,
+      "text": "St. Chrysostom: On Lazarus and the Rich Man, 1."
+    },
+    {
+      "id": 1695,
+      "text": "De Principiis 4: 1: 7.."
+    },
+    {
+      "id": 1696,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 1697,
+      "text": "Hom. on Acts, hom. 39."
+    },
+    {
+      "id": 1698,
+      "text": "Homilies on St. John , hom. 17:2."
+    },
+    {
+      "id": 1699,
+      "text": "Orthodox Faith, 4:9."
+    },
+    {
+      "id": 1700,
+      "text": "On Baptism, 10."
+    },
+    {
+      "id": 1701,
+      "text": "Letter 69 to Oceanus, 6."
+    },
+    {
+      "id": 1702,
+      "text": "Epis. To Glatians, 3:3:3."
+    },
+    {
+      "id": 1703,
+      "text": "Comm.on John, 19:77."
+    },
+    {
+      "id": 1704,
+      "text": "On Prayer, 25: 1."
+    },
+    {
+      "id": 1705,
+      "text": "Contra Eunomius, 4 PG 45:637AB."
+    },
+    {
+      "id": 1706,
+      "text": "Hom. on Acts, hom. 41."
+    },
+    {
+      "id": 1707,
+      "text": "Josephus: Antiq. 8:45-46."
+    },
+    {
+      "id": 1708,
+      "text": "Interpretation of Rom. 16: 20."
+    },
+    {
+      "id": 1709,
+      "text": "In Matt hom 41"
+    },
+    {
+      "id": 1710,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 24:7 ."
+    },
+    {
+      "id": 1711,
+      "text": "Hom. on Acts, hom. 41."
+    },
+    {
+      "id": 1712,
+      "text": "Sermon 6:162."
+    },
+    {
+      "id": 1713,
+      "text": "Sermon 6:159."
+    },
+    {
+      "id": 1714,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 448."
+    },
+    {
+      "id": 1715,
+      "text": "James N. Freeman: Manners and Customs of the Bible, N.J, p. 450."
+    },
+    {
+      "id": 1716,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1717,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1718,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1719,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1720,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1721,
+      "text": "Hom. on Acts, hom. 43."
+    },
+    {
+      "id": 1722,
+      "text": "Epistle to the Philippians, 1:1-2."
+    },
+    {
+      "id": 1723,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1724,
+      "text": "Homilies on Hebr., hom. 4:6-7."
+    },
+    {
+      "id": 1725,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1726,
+      "text": "Hom. On Rom., hom. 15."
+    },
+    {
+      "id": 1727,
+      "text": "Epistles, 63:73."
+    },
+    {
+      "id": 1728,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1729,
+      "text": "Ep. to Ephesians, 4:11."
+    },
+    {
+      "id": 1730,
+      "text": "Comm.on Rom 1:6."
+    },
+    {
+      "id": 1731,
+      "text": "Homilies on Romans, hom. 1."
+    },
+    {
+      "id": 1732,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1733,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1734,
+      "text": "Letter 54 to Furia, 4"
+    },
+    {
+      "id": 1735,
+      "text": "Oration 29, On the Son, 20."
+    },
+    {
+      "id": 1736,
+      "text": "Comm. On St. Luke, hom. 73."
+    },
+    {
+      "id": 1737,
+      "text": "Catechetical Lectures, 4: 2."
+    },
+    {
+      "id": 1738,
+      "text": "Against the Pelagians, 1:26."
+    },
+    {
+      "id": 1739,
+      "text": "Letter, 67: 8"
+    },
+    {
+      "id": 1740,
+      "text": "Paedagogus, 2: 9: 79."
+    },
+    {
+      "id": 1741,
+      "text": "Prudentuis : Hymns 1:1-8."
+    },
+    {
+      "id": 1742,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1743,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1744,
+      "text": "Hom. on Acts, hom. 44."
+    },
+    {
+      "id": 1745,
+      "text": "Sermon 230:6."
+    },
+    {
+      "id": 1746,
+      "text": "Letter 52."
+    },
+    {
+      "id": 1747,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 1748,
+      "text": "St. John Cassian: Conferences, 24:11."
+    },
+    {
+      "id": 1749,
+      "text": "Our Lord's Sermon on the Mount, 2:45"
+    },
+    {
+      "id": 1750,
+      "text": "In 1 Thess., hom 5."
+    },
+    {
+      "id": 1751,
+      "text": "Easter Season, 254: 4."
+    },
+    {
+      "id": 1752,
+      "text": "Paedagogus 3: 11."
+    },
+    {
+      "id": 1753,
+      "text": "On Prayer, 18."
+    },
+    {
+      "id": 1754,
+      "text": "Vita Constant. 4:22."
+    },
+    {
+      "id": 1755,
+      "text": "De Fide, 24 ."
+    },
+    {
+      "id": 1756,
+      "text": ".Sernons 278 :2."
+    },
+    {
+      "id": 1757,
+      "text": "Letter 130 to Demetrias, 4."
+    },
+    {
+      "id": 1758,
+      "text": "Comm. On 1 Cor. 4:74:6-61."
+    },
+    {
+      "id": 1759,
+      "text": "Constitutions of the Holy Apostles, 8:1:2."
+    },
+    {
+      "id": 1760,
+      "text": "Scorpiace,15."
+    },
+    {
+      "id": 1761,
+      "text": "Ep. to Rom. 2, 4."
+    },
+    {
+      "id": 1762,
+      "text": "Ephes 1:1, 2."
+    },
+    {
+      "id": 1763,
+      "text": "Rom 1, 2."
+    },
+    {
+      "id": 1764,
+      "text": "كان هيليودورس جنديًا، صار كاهنًا، أخذه القديس جيروم معه إلى الشرق، وإذ شعر أنه ليس مدعوًا لحياة الوحدة في الصحراء، عاد إلى Aquileia يمارس عمله الكهنوتي، وفيما بعد سيم أسقفًا علي Altinum ."
+    },
+    {
+      "id": 1765,
+      "text": "Letter 14 to Heliodorius, 3."
+    },
+    {
+      "id": 1766,
+      "text": "Comm. on Luke, Sermon 50."
+    },
+    {
+      "id": 1767,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 1768,
+      "text": "David Smith: Life and Letters of St. Paul, p. 657."
+    },
+    {
+      "id": 1769,
+      "text": "Hom. on Acts, hom. 45."
+    },
+    {
+      "id": 1770,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 1771,
+      "text": "Homilies on the Hebrews, hom. 34:4."
+    },
+    {
+      "id": 1772,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 1773,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 1774,
+      "text": "Letter 82 to Jerome"
+    },
+    {
+      "id": 1775,
+      "text": "Letter to Jerome 75"
+    },
+    {
+      "id": 1776,
+      "text": ".Sermon on the Paralytic, 10."
+    },
+    {
+      "id": 1777,
+      "text": "Commentary on Paul’s Epistles (1Cor. 9:20)."
+    },
+    {
+      "id": 1778,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 1779,
+      "text": "Hom. on Acts, hom. 46."
+    },
+    {
+      "id": 1780,
+      "text": "Josephus: Jewish Wars, 5:5:8."
+    },
+    {
+      "id": 1781,
+      "text": "Josephus: Antiq. 20:86; Jewish Wars, 2:13:5."
+    },
+    {
+      "id": 1782,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 1783,
+      "text": "Against Rufinus, 1;17."
+    },
+    {
+      "id": 1784,
+      "text": "Sermons 170:1."
+    },
+    {
+      "id": 1785,
+      "text": "Sermons 278:2."
+    },
+    {
+      "id": 1786,
+      "text": "Homilies on, Timothy, hom., 3."
+    },
+    {
+      "id": 1787,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 1788,
+      "text": "Of the Christian Faith, 2: 15 {132 } ."
+    },
+    {
+      "id": 1789,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 1790,
+      "text": "Hom. on Acts, hom. 47."
+    },
+    {
+      "id": 1791,
+      "text": "Hom. on Acts, hom. 48."
+    },
+    {
+      "id": 1792,
+      "text": "Homilies on Jeremiah, hom 12:8."
+    },
+    {
+      "id": 1793,
+      "text": "Josephus: Antiq 1:20:6."
+    },
+    {
+      "id": 1794,
+      "text": "Josephus: Antiq 1:20: 9:2."
+    },
+    {
+      "id": 1795,
+      "text": "Josephus: Jewish Wars, 2:17:8."
+    },
+    {
+      "id": 1796,
+      "text": "Hom. on Acts, hom. 48."
+    },
+    {
+      "id": 1797,
+      "text": "Against the Pelagians, Book 3:4."
+    },
+    {
+      "id": 1798,
+      "text": "Sermon on the Mount, 1:19:58."
+    },
+    {
+      "id": 1799,
+      "text": "Josephus: Antiq. 18:1:4."
+    },
+    {
+      "id": 1800,
+      "text": "Josephus: Jewiash Wars, 2:8:14."
+    },
+    {
+      "id": 1801,
+      "text": "Hom. on Acts, hom. 49."
+    },
+    {
+      "id": 1802,
+      "text": "History v. 9."
+    },
+    {
+      "id": 1803,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1804,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1805,
+      "text": "Josephus: Antiq. 20: 162-5."
+    },
+    {
+      "id": 1806,
+      "text": "Josephus: Antiq. 20: 8."
+    },
+    {
+      "id": 1807,
+      "text": "Josephus: Jewish Wars 2:13:2.."
+    },
+    {
+      "id": 1808,
+      "text": "Josephus: Antiq. 20: 8:5."
+    },
+    {
+      "id": 1809,
+      "text": "History 5:9."
+    },
+    {
+      "id": 1810,
+      "text": "Life of Claudius, ch 28."
+    },
+    {
+      "id": 1811,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1812,
+      "text": "Josephus: Antiq. 20:7:7."
+    },
+    {
+      "id": 1813,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1814,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1815,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1816,
+      "text": "Commentary on Rom., 15:25."
+    },
+    {
+      "id": 1817,
+      "text": "Commentary on Paul’s Epistles (Rom 15:27)."
+    },
+    {
+      "id": 1818,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1819,
+      "text": "Against Vigilantius, 13."
+    },
+    {
+      "id": 1820,
+      "text": "Defense against the Arians, 82."
+    },
+    {
+      "id": 1821,
+      "text": "Hom. on Acts, hom. 50."
+    },
+    {
+      "id": 1822,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 1823,
+      "text": "Josephus: Antiq. 20:7:1-2."
+    },
+    {
+      "id": 1824,
+      "text": "Sermons on N.T. Lessons, 58 :2.."
+    },
+    {
+      "id": 1825,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 1826,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1827,
+      "text": "Comment. on Ps. 119, article 24."
+    },
+    {
+      "id": 1828,
+      "text": "Josephus: Antiq. 20:8:8."
+    },
+    {
+      "id": 1829,
+      "text": "On Ps. 118."
+    },
+    {
+      "id": 1830,
+      "text": "Commentary on Ps. 118. ."
+    },
+    {
+      "id": 1831,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 1832,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 1833,
+      "text": "Hom. on Acts, hom. 51."
+    },
+    {
+      "id": 1834,
+      "text": "Josephus: Jewish Wars, 2:11:6."
+    },
+    {
+      "id": 1835,
+      "text": "Josephus: Antiq. 20:7:3."
+    },
+    {
+      "id": 1836,
+      "text": "Philo: De Praesi. Rom."
+    },
+    {
+      "id": 1837,
+      "text": "History, ii."
+    },
+    {
+      "id": 1838,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1839,
+      "text": "Against Celsus 2.77: Drewery 132."
+    },
+    {
+      "id": 1840,
+      "text": "Kay’s Writings of Clement of Alexandria, p437."
+    },
+    {
+      "id": 1841,
+      "text": "Paed. 1:6."
+    },
+    {
+      "id": 1842,
+      "text": "Baptismal Instructions, 3:11."
+    },
+    {
+      "id": 1843,
+      "text": "Baptismal Instructions, 2:7."
+    },
+    {
+      "id": 1844,
+      "text": "Sermon in Gen. 7, PG 5: 614 C -D."
+    },
+    {
+      "id": 1845,
+      "text": "عظة 5:6."
+    },
+    {
+      "id": 1846,
+      "text": "عظة10:11."
+    },
+    {
+      "id": 1847,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1848,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1849,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1850,
+      "text": "Homilies on Song of Songs, 10. ترجمة الدكتور جورج نوّار"
+    },
+    {
+      "id": 1851,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1852,
+      "text": "Hom. on Acts, hom. 52."
+    },
+    {
+      "id": 1853,
+      "text": "Hom. on Acts, hom. 53."
+    },
+    {
+      "id": 1854,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1855,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1856,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1857,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1858,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1859,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1860,
+      "text": "Against Vigilantius, 6."
+    },
+    {
+      "id": 1861,
+      "text": "Homilies on Acts, hom. 53."
+    },
+    {
+      "id": 1862,
+      "text": "Comm. On Paul’s Epistles (2Cor. 11:27)."
+    },
+    {
+      "id": 1863,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 1864,
+      "text": "Comment. on Ps. 91."
+    },
+    {
+      "id": 1865,
+      "text": "The Prayer of Job and David, B.4, 1:5."
+    },
+    {
+      "id": 1866,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 22:7 ."
+    },
+    {
+      "id": 1867,
+      "text": "مناظرات يوحنا كاسيان مع مشاهير آباء البرية، 24:7 ."
+    },
+    {
+      "id": 1868,
+      "text": "W. Conybeare: Life and Epistles of Paul, Grand Rapids, Michigan, 1987, p. 660, n. 3."
+    },
+    {
+      "id": 1869,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 1870,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 1871,
+      "text": "Tacitus: History 12:42:1."
+    },
+    {
+      "id": 1872,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 1873,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 1874,
+      "text": "Homilies on Acts, hom. 54."
+    },
+    {
+      "id": 1875,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 1876,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 1877,
+      "text": "Strom 2.6."
+    },
+    {
+      "id": 1878,
+      "text": "Hippolytus: Treatise on Christ and antichrist 2."
+    },
+    {
+      "id": 1879,
+      "text": "In Galat., Chapter 4."
+    },
+    {
+      "id": 1880,
+      "text": "In Rom. hom 7."
+    },
+    {
+      "id": 1881,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 1882,
+      "text": "Letter 71:1."
+    },
+    {
+      "id": 1883,
+      "text": "Epistle to the Philippians, 1:25."
+    },
+    {
+      "id": 1884,
+      "text": "Hom 32 in Rom., in Morali PG 60: 697."
+    },
+    {
+      "id": 1885,
+      "text": "Hom. 32 in Rom. PG 60: 678 ff."
+    },
+    {
+      "id": 1886,
+      "text": "Homilies on Acts, hom. 55."
+    },
+    {
+      "id": 1887,
+      "text": "راجع جمعيات الكتاب المقدس في المشرق ببيروت: تفسير العهد الجديد، 1877، ص 170-171."
+    }
+  ]
+}

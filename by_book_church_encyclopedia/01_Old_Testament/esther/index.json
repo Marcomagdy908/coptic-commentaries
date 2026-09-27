@@ -1,0 +1,49 @@
+{
+  "book_id": 25,
+  "book_title": "تفسير سفر أستير",
+  "testament": "Old Testament",
+  "chapters_count": 10,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "حلم مردخاي ومؤامرة الخصيان وعزل الملكة وشتي"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "تملك أستير وأمانة مردخاي"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "هامان يحاول إبادة اليهود"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "ضيقة اليهود وصومهم"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "وليمة أستير وحقد هامان على مردخاي"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "تكريم مردخاي"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "نهاية هامان"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "عظمة مردخاي وإنقاذ اليهود"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "انتصار اليهود وعيد الفوريم"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "تحقق حلم مردخاي العظيم"
+    }
+  ]
+}

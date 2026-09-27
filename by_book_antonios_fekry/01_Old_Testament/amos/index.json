@@ -1,0 +1,45 @@
+{
+  "book_id": 32,
+  "book_title": "تفسير سفر عاموس",
+  "testament": "Old Testament",
+  "chapters_count": 9,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "عاموس 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "عاموس 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "عاموس 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "عاموس 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "عاموس 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "عاموس 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "عاموس 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "عاموس 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "عاموس 9"
+    }
+  ]
+}

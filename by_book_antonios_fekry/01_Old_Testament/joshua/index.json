@@ -1,0 +1,105 @@
+{
+  "book_id": 1,
+  "book_title": "تفسير سفر يشوع",
+  "testament": "Old Testament",
+  "chapters_count": 24,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "يشوع 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "يشوع 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "يشوع 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "يشوع 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "يشوع 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "يشوع 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "يشوع 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "يشوع 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "يشوع 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "يشوع 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "يشوع 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "يشوع 12"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "يشوع 13"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "يشوع 14"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "يشوع 15"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "يشوع 16"
+    },
+    {
+      "chapter_id": 17,
+      "topic": "يشوع 17"
+    },
+    {
+      "chapter_id": 18,
+      "topic": "يشوع 18"
+    },
+    {
+      "chapter_id": 19,
+      "topic": "يشوع 19"
+    },
+    {
+      "chapter_id": 20,
+      "topic": "يشوع 20"
+    },
+    {
+      "chapter_id": 21,
+      "topic": "يشوع 21"
+    },
+    {
+      "chapter_id": 22,
+      "topic": "يشوع 22"
+    },
+    {
+      "chapter_id": 23,
+      "topic": "يشوع 23"
+    },
+    {
+      "chapter_id": 24,
+      "topic": "يشوع 24"
+    }
+  ]
+}

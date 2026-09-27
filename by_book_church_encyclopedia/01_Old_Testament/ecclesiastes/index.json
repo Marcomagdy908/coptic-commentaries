@@ -1,0 +1,57 @@
+{
+  "book_id": 21,
+  "book_title": "تفسير سفر الجامعة",
+  "testament": "Old Testament",
+  "chapters_count": 12,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "بطلان العالم"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "بطلان اللذات والحكمة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "خطة الله"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "ملامح بطلان العالم"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "العبادة المفرحة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "معوقات التمتع بنعم الله"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الحكمة طريق الخلاص"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الخضوع لله والسلطات"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "عظمة الحكمة"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "خطورة العنف والكلام والكسل"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الجهاد والفرح"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "العمر فرصة للاقتراب إلى الله"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "book_id": 22,
+  "book_title": "تفسير سفر نشيد الأنشاد",
+  "testament": "Old Testament",
+  "chapters_count": 8,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "نشيد الأنشاد 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "نشيد الأنشاد 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "نشيد الأنشاد 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "نشيد الأنشاد 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "نشيد الأنشاد 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "نشيد الأنشاد 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "نشيد الأنشاد 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "نشيد الأنشاد 8"
+    }
+  ]
+}

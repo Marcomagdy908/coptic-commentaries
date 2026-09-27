@@ -1,0 +1,21 @@
+{
+  "book_id": 44,
+  "book_title": "تفسير سفر صفنيا",
+  "testament": "Old Testament",
+  "chapters_count": 3,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "صفنيا 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "صفنيا 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "صفنيا 3"
+    }
+  ]
+}

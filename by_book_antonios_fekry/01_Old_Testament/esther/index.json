@@ -1,0 +1,73 @@
+{
+  "book_id": 25,
+  "book_title": "تفسير سفر أستير",
+  "testament": "Old Testament",
+  "chapters_count": 16,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "أستير 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "أستير 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "أستير 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "أستير 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "أستير 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "أستير 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "أستير 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "أستير 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "أستير 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "أستير 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "أستير 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "أستير 12"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "أستير 13"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "أستير 14"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "أستير 15"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "أستير 16"
+    }
+  ]
+}

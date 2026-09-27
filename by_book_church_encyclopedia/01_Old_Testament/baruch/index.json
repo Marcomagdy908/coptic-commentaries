@@ -1,0 +1,33 @@
+{
+  "book_id": 42,
+  "book_title": "تفسير سفر باروخ",
+  "testament": "Old Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "رسالة باروك إلى أورشليم"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "تأديب الله ورحمته لشعبه"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الحكمة"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "تعزية أورشليم"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "مجد أورشليم"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "بطلان عبادة الأوثان: رسالة إرميا"
+    }
+  ]
+}

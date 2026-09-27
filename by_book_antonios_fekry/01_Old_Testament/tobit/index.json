@@ -1,0 +1,65 @@
+{
+  "book_id": 10,
+  "book_title": "تفسير سفر طوبيت",
+  "testament": "Old Testament",
+  "chapters_count": 14,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "طوبيت 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "طوبيت 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "طوبيت 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "طوبيت 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "طوبيت 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "طوبيت 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "طوبيت 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "طوبيت 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "طوبيت 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "طوبيت 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "طوبيت 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "طوبيت 12"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "طوبيت 13"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "طوبيت 14"
+    }
+  ]
+}

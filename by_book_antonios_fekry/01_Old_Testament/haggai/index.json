@@ -1,0 +1,17 @@
+{
+  "book_id": 43,
+  "book_title": "تفسير سفر حجي",
+  "testament": "Old Testament",
+  "chapters_count": 2,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "حجي 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "حجي 2"
+    }
+  ]
+}

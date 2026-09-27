@@ -1,0 +1,25 @@
+{
+  "book_id": 3,
+  "book_title": "تفسير سفر راعوث",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "راعوث 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "راعوث 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "راعوث 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "راعوث 4"
+    }
+  ]
+}

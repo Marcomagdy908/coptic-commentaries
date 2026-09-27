@@ -1,0 +1,57 @@
+{
+  "book_id": 21,
+  "book_title": "تفسير سفر الجامعة",
+  "testament": "Old Testament",
+  "chapters_count": 12,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الجامعة 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الجامعة 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الجامعة 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الجامعة 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الجامعة 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "الجامعة 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "الجامعة 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الجامعة 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "الجامعة 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "الجامعة 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "الجامعة 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "الجامعة 12"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book_id": 36,
+  "book_title": "تفسير سفر يونان",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "يونان 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "يونان 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "يونان 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "يونان 4"
+    }
+  ]
+}

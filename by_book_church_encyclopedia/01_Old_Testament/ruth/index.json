@@ -1,0 +1,25 @@
+{
+  "book_id": 3,
+  "book_title": "تفسير سفر راعوث",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "عودة نعمي وراعوث إلى بيت لحم"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "راعوث في حقل بوعز"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "راعوث في بيدر بوعز"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "زواج راعوث"
+    }
+  ]
+}

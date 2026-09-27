@@ -1,0 +1,21 @@
+{
+  "book_id": 39,
+  "book_title": "تفسير سفر حبقوق",
+  "testament": "Old Testament",
+  "chapters_count": 3,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "حبقوق 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "حبقوق 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "حبقوق 3"
+    }
+  ]
+}

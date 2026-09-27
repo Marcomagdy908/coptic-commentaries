@@ -1,0 +1,21 @@
+{
+  "book_id": 37,
+  "book_title": "تفسير سفر ناحوم",
+  "testament": "Old Testament",
+  "chapters_count": 3,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "ناحوم 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ناحوم 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "ناحوم 3"
+    }
+  ]
+}

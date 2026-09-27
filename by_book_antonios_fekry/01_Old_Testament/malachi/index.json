@@ -1,0 +1,25 @@
+{
+  "book_id": 40,
+  "book_title": "تفسير سفر ملاخي",
+  "testament": "Old Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "ملاخي 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ملاخي 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "ملاخي 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "ملاخي 4"
+    }
+  ]
+}

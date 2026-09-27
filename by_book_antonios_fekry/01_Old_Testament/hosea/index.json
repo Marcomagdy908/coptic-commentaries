@@ -1,0 +1,65 @@
+{
+  "book_id": 33,
+  "book_title": "تفسير سفر هوشع",
+  "testament": "Old Testament",
+  "chapters_count": 14,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "هوشع 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "هوشع 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "هوشع 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "هوشع 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "هوشع 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "هوشع 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "هوشع 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "هوشع 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "هوشع 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "هوشع 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "هوشع 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "هوشع 12"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "هوشع 13"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "هوشع 14"
+    }
+  ]
+}

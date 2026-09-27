@@ -1,0 +1,40 @@
+{
+  "book_id": 45,
+  "book_title": "تفسير إنجيل مرقس",
+  "chapter_number": 5,
+  "chapter_title": "الأصحاح 5",
+  "topic": "",
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "الآيات (1-20)",
+      "verses": "1-20"
+    },
+    {
+      "number": 2,
+      "title": "الآيات (21-43)",
+      "verses": "21-43"
+    }
+  ],
+  "sections_count": 3,
+  "sections": [
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← اضغط على الروابط التالية للدخول لتفسير هذا الأصحاح:"
+    },
+    {
+      "section_title": "الآيات (1-20)",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "في كتاب إنجيل متى (مت28:8-34‌‌)"
+    },
+    {
+      "section_title": "الآيات (21-43)",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "في كتاب إنجيل متى (مت18:9-26‌‌)"
+    }
+  ]
+}

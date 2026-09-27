@@ -1,0 +1,65 @@
+{
+  "book_id": 35,
+  "book_title": "تفسير سفر دانيال",
+  "testament": "Old Testament",
+  "chapters_count": 14,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "دانيال 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "دانيال 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "دانيال 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "دانيال 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "دانيال 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "دانيال 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "دانيال 7"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "دانيال 8"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "دانيال 9"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "دانيال 10"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "دانيال 11"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "دانيال 12"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "دانيال 13"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "دانيال 14"
+    }
+  ]
+}

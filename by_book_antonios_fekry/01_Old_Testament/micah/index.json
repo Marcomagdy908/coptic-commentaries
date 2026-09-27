@@ -1,0 +1,37 @@
+{
+  "book_id": 38,
+  "book_title": "تفسير سفر ميخا",
+  "testament": "Old Testament",
+  "chapters_count": 7,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "ميخا 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "ميخا 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "ميخا 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "ميخا 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "ميخا 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "ميخا 6"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "ميخا 7"
+    }
+  ]
+}

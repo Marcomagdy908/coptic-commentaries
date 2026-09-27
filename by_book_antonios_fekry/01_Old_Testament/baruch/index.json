@@ -1,0 +1,33 @@
+{
+  "book_id": 42,
+  "book_title": "تفسير سفر باروخ",
+  "testament": "Old Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "نبوة باروخ 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "نبوة باروخ 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "نبوة باروخ 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "نبوة باروك 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "نبوة باروخ 5"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "نبوة باروخ 6"
+    }
+  ]
+}

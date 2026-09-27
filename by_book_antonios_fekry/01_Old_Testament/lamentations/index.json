@@ -1,0 +1,29 @@
+{
+  "book_id": 31,
+  "book_title": "تفسير سفر مراثي إرميا",
+  "testament": "Old Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "مراثي إرميا 1"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "مراثي إرميا 2"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "مراثي إرميا 3"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "مراثي إرميا 4"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "مراثي إرميا 5"
+    }
+  ]
+}

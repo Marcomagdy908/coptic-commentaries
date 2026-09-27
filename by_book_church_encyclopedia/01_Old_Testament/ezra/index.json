@@ -1,0 +1,49 @@
+{
+  "book_id": 14,
+  "book_title": "تفسير سفر عزرا",
+  "testament": "Old Testament",
+  "chapters_count": 10,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الرجوع من السبي على يد زربابل"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "العائدون مع زربابل لأورشليم"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "بناء الهيكل والاحتفالات الدينية"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "مقاومات الأعداء وإيقاف البناء"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "عودة لبناء الهيكل"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "داريوس واستكمال بيت الرب"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "عزرا والرجوع الثاني لأورشليم"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الرجوع الثاني إلى أورشليم بقيادة عزرا"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "صلاة عزرا"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "ترك الزيجات الوثنية"
+    }
+  ]
+}

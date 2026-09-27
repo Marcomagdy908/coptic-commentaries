@@ -1,0 +1,33 @@
+{
+  "book_id": 52,
+  "book_title": "تفسير الرسالة إلى غلاطية",
+  "testament": "New Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "رفض التعاليم الخاطئة وحياة بولس قبل وبعد الإيمان"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "دفاع بولس عن رسوليته"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "التبرير بالإيمان وليس بالناموس"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "أبناء وورثة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الحرية المسيحية"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "العطاء للمعلمين"
+    }
+  ]
+}

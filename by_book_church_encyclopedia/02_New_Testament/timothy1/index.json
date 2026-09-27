@@ -1,0 +1,33 @@
+{
+  "book_id": 60,
+  "book_title": "تفسير الرسالة الأولى إلى تيموثاوس",
+  "testament": "New Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "التمسك بوصايا الله الذي يرحم الخطاة"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "وصايا في العبادة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الكنيسة وشروط الدرجات الكهنوتية"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "التلمذة الروحية ورفض تعاليم الهراطقة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "وصايا للشيوخ والأرامل والكهنة"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "السلوك المسيحي"
+    }
+  ]
+}

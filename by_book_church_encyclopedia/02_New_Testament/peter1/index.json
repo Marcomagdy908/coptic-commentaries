@@ -1,0 +1,29 @@
+{
+  "book_id": 63,
+  "book_title": "تفسير رسالة بطرس الأولى",
+  "testament": "New Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الخلاص"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "المسيح حجر الزاوية وسمات أولاده"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "وصايا زوجية"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الآلام في حياة أولاد الله"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "نصائح للكهنة والشباب"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "book_id": 67,
+  "book_title": "تفسير رسالة يوحنا الأولى",
+  "testament": "New Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "المسيح نور العالم وغافر الخطايا"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الإيمان ومحبة الإخوة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "صفات أولاد الله"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "التمييز ومحبة الآخرين"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "المسيح يهدينا للحياة الأبدية"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "book_id": 51,
+  "book_title": "تفسير الرسالة إلى أفسس",
+  "testament": "New Testament",
+  "chapters_count": 6,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الله يبارك ويملأ كنيسته"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "المسيح يوحد البشرية في كنيسته"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "محبة الله الفائقة في خلاص الأمم"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "التجديد والسلوك المسيحي والثبات فيه"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "السلـوك المسيحي"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "وصايا الأسرة والأسلحة الروحية"
+    }
+  ]
+}

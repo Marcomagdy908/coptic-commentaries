@@ -1,0 +1,25 @@
+{
+  "book_id": 58,
+  "book_title": "تفسير الرسالة الثانية إلى تيموثاوس",
+  "testament": "New Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الإيمان وتشجيع الآخرين"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "الجهاد الروحي"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الهرطقات وشرورها"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "قرب انتقال بولس وأخباره الختامية"
+    }
+  ]
+}

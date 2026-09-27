@@ -1,0 +1,29 @@
+{
+  "book_id": 54,
+  "book_title": "تفسير الرسالة الأولى إلى أهل تسالونيكي",
+  "testament": "New Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "إيمان التسالونيكيين وانتشار تأثيره"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "أبوة بولس وأشواقه"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "إرسال تيموثاوس وتعزيته لبولس بأخبارهم"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "القداسة والمحبة والقيامة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "السلوك المسيحي والاستعداد للمجيء الثاني"
+    }
+  ]
+}

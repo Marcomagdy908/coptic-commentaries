@@ -1,0 +1,25 @@
+{
+  "book_id": 55,
+  "book_title": "تفسير الرسالة إلى كولوسي",
+  "testament": "New Testament",
+  "chapters_count": 4,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "المسيح مخلص العالم"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "خلاص المسيح والبعد عن التعاليم الكاذبة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "صفات أولاد الله"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "المسيحي والمجتمع ثم الختام"
+    }
+  ]
+}

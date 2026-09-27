@@ -1,0 +1,73 @@
+{
+  "book_id": 45,
+  "book_title": "تفسير إنجيل مرقس",
+  "testament": "New Testament",
+  "chapters_count": 16,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "بدء خدمة المسيح"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "مواجهات مع الكتبة والفرّيسيّين"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "مقاومة البعض"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "هياج البحر"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "إقامة ابنة يَايْرُسَ"
+    },
+    {
+      "chapter_id": 6,
+      "topic": "معجزة المُشي على الماء"
+    },
+    {
+      "chapter_id": 7,
+      "topic": "شفاء الأصم الأعقد"
+    },
+    {
+      "chapter_id": 8,
+      "topic": "الإنباء بالموت والقيامة"
+    },
+    {
+      "chapter_id": 9,
+      "topic": "حديث مع التلاميذ"
+    },
+    {
+      "chapter_id": 10,
+      "topic": "الرئاسة"
+    },
+    {
+      "chapter_id": 11,
+      "topic": "تطهير الهيكل"
+    },
+    {
+      "chapter_id": 12,
+      "topic": "دعوته للتواضع والعطاء"
+    },
+    {
+      "chapter_id": 13,
+      "topic": "وجوب السهر الروحي"
+    },
+    {
+      "chapter_id": 14,
+      "topic": "القبض على المسيح ومحاكمته"
+    },
+    {
+      "chapter_id": 15,
+      "topic": "دفنه"
+    },
+    {
+      "chapter_id": 16,
+      "topic": "من القيامة إلى الصعود"
+    }
+  ]
+}

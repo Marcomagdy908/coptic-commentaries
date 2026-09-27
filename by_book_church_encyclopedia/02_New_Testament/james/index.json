@@ -1,0 +1,29 @@
+{
+  "book_id": 64,
+  "book_title": "تفسير رسالة يعقوب",
+  "testament": "New Testament",
+  "chapters_count": 5,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الإيمان والتجارب وسلوك أولاد الله"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "المحبة والإيمان والأعمال"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "اللسان والحكمة"
+    },
+    {
+      "chapter_id": 4,
+      "topic": "الشهـوات الشريرة"
+    },
+    {
+      "chapter_id": 5,
+      "topic": "الزهد والصبر والصلاة والخدمة"
+    }
+  ]
+}

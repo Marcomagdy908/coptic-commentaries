@@ -1,0 +1,21 @@
+{
+  "book_id": 65,
+  "book_title": "تفسير رسالة بطرس الثانية",
+  "testament": "New Testament",
+  "chapters_count": 3,
+  "has_intro": true,
+  "table_of_contents": [
+    {
+      "chapter_id": 1,
+      "topic": "الجهاد الروحي ولاهوت المسيح"
+    },
+    {
+      "chapter_id": 2,
+      "topic": "المعلمين الكذبة"
+    },
+    {
+      "chapter_id": 3,
+      "topic": "الإيمان بالله والاستعداد لمجيئه الثاني"
+    }
+  ]
+}

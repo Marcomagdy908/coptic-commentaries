@@ -3,8 +3,24 @@
   "book_title": "تفسير سفر باروخ",
   "chapter_number": 1,
   "chapter_title": "الأصحاح 1",
-  "topic": "نبوة باروخ 1",
-  "chapter_outline": [],
+  "topic": "رسالة باروك إلى أورشليم",
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "تلاوة نبوة باروك",
+      "verses": "ع1-4"
+    },
+    {
+      "number": 2,
+      "title": "جمع الفضة لإرسالها لأورشليم",
+      "verses": "ع5-14"
+    },
+    {
+      "number": 3,
+      "title": "الاعتراف بالخطايا",
+      "verses": "ع15-22"
+    }
+  ],
   "sections_count": 8,
   "sections": [
     {

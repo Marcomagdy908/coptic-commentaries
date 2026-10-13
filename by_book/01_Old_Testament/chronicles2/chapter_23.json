@@ -1,17 +1,3011 @@
 {
-  "book_id": 17,
+  "book_id": "chronicles2",
   "book_title": "تفسير سفر أخبار الأيام الثاني",
   "chapter_number": 23,
   "chapter_title": "الأصحاح 23",
   "topic": "الأصحاح 23",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "يهوياداع",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "قتل عثليا",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "إصلاحات",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "أ. كان ذا",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "ب. إنسان",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "ج. رجل ذو",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "د. رجل",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "و. ذو إرادة",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "الذي تعملونه\"",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "وَقَالُوا",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "وَقَالَ لَهُمْ",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "عهد ثلاثي",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "Mattan",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "عيَّن",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "أقام",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "أخبار ثاني",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 484,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "تجليس يوآش بن أخزيا ملكًا واغتيال عثليا"
+      "text": "اَلأَصْحَاحُ الثَّالِثُ وَالْعِشْرُونَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وردت هذه القصة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في (2 مل 11: 4) إلخ."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تم إصلاح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النظام الملكي وعودة بيت داود إلى العرش في داخل الهيكل الذي بناه سليمان بن داود،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى يتمكَّن السبط الكهنوتي أن يخدم الله. التاريخ الحقيقي هو في بيت العبادة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتبطت رئاسة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنوت المُمَثَّلة في يهوياداع ارتباطًا وثيقًا بالمملكة. هذا الارتباط واضح جدًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أخبار الأيام على الرغم من أن المملكة والكهنوت لا يُمْنَحَان كليهما لشخصٍ واحدٍ،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما في شخص المسيح وحده الذي هو ملك الملوك ورئيس الكهنة السماوي. قيل عنه: \"يكون"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاهنًا على كرسيه\" (زك 6: 13)."
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعِد الشعب لاستقبال يوآش"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُظهر الملك أمام الشعب"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مغتصبةِ العرش"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 أي 23: لتملُك في قلبي،"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتقتل كل شر فيه!"
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعِد الشعب لاستقبال يوآش"
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَفِي السَّنَةِ السَّابِعَةِ تَشَدَّدَ يَهُويَادَاعُ وَأَخَذَ مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ: عَزَرْيَا بْنَ يَرُوحَامَ، وَإِسْمَاعِيلَ بْنَ يَهُوحَانَانَ، وَعَزَرْيَا بْنَ عُوبِيدَ، وَمَعَسِيَا بْنَ عَدَايَا، وَأَلِيشَافَاطَ بْنَ زِكْرِي، 2 وَجَالُوا فِي يَهُوذَا وَجَمَعُوا اللاَّوِيِّينَ مِنْ جَمِيعِ مُدُنِ يَهُوذَا وَرُؤُوسَ آبَاءِ إِسْرَائِيلَ وَجَاءُوا إِلَى أُورُشَلِيمَ. 3 وَقَطَعَ كُلُّ الْمَجْمَعِ عَهْدًا فِي بَيْتِ اللهِ مَعَ الْمَلِكِ. وَقَالَ لَهُمْ: «هُوَذَا ابْنُ الْمَلِكِ يَمْلِكُ كَمَا تَكَلَّمَ الرَّبُّ عَنْ بَنِي دَاوُدَ. 4 هذَا هُوَ الأَمْرُ الَّذِي تَعْمَلُونَهُ. الثُّلْثُ مِنْكُمُ الَّذِينَ يَدْخُلُونَ فِي السَّبْتِ مِنَ الْكَهَنَةِ وَاللاَّوِيِّينَ يَكُونُونَ بَوَّابِينَ لِلأَبْوَابِ، 5 وَالثُّلْثُ فِي بَيْتِ الْمَلِكِ، وَالثُّلْثُ فِي بَابِ الأَسَاسِ، وَجَمِيعُ الشَّعْبِ فِي دِيَارِ بَيْتِ الرَّبِّ. 6 وَلاَ يَدْخُلْ بَيْتَ الرَّبِّ إِلاَّ الْكَهَنَةُ وَالَّذِينَ يَخْدِمُونَ مِنَ اللاَّوِيِّينَ، فَهُمْ يَدْخُلُونَ لأَنَّهُمْ مُقَدَّسُونَ، وَكُلُّ الشَّعْبِ يَحْرُسُونَ حِرَاسَةَ الرَّبِّ. 7 وَيُحِيطُ اللاَّوِيُّونَ بِالْمَلِكِ مُسْتَدِيرِينَ، كُلُّ وَاحِدٍ سِلاَحُهُ بِيَدِهِ. وَالَّذِي يَدْخُلُ الْبَيْتَ يُقْتَلُ. وَكُونُوا مَعَ الْمَلِكِ فِي دُخُولِهِ وَفِي خُرُوجِهِ». 8 فَعَمِلَ اللاَّوِيُّونَ وَكُلُّ يَهُوذَا حَسَبَ كُلِّ مَا أَمَرَ بِهِ يَهُويَادَاعُ الْكَاهِنُ. وَأَخَذُوا كُلُّ وَاحِدٍ رِجَالَهُ الدَّاخِلِينَ فِي السَّبْتِ، مَعَ الْخَارِجِينَ فِي السَّبْتِ، لأَنَّ يَهُويَادَاعَ الْكَاهِنَ لَمْ يَصْرِفِ الْفِرَقَ. 9 وَأَعْطَى يَهُويَادَاعُ الْكَاهِنُ رُؤَسَاءَ الْمِئَاتِ الْحِرَابَ وَالْمَجَانَّ وَالأَتْرَاسَ الَّتِي لِلْمَلِكِ دَاوُدَ الَّتِي فِي بَيْتِ اللهِ. 10 وَأَوْقَفَ جَمِيعَ الشَّعْبِ، وَكُلُّ وَاحِدٍ سِلاَحُهُ بِيَدِهِ مِنْ جَانِبِ الْبَيْتِ الأَيْمَنِ إِلَى جَانِبِ الْبَيْتِ الأَيْسَرِ حَوْلَ الْمَذْبَحِ وَالْبَيْتِ، حَوْلَ الْمَلِكِ مُسْتَدِيرِينَ."
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ السَّابِعَةِ تَشَدَّدَ يَهُويَادَاعُ،"
+    },
+    {
+      "section_title": "1. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذَ"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَزَرْيَا بْنَ"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرُوحَامَ وَإِسْمَاعِيلَ بْنَ يَهُوحَانَانَ وَعَزَرْيَا بْنَ عُوبِيدَ"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَعْسِيَّا"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بْنَ عَدَايَا وَأَلِيشَافَاطَ بْنَ زِكْرِي [1]"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يذكر سفر"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملوك أسماء هؤلاء الرؤساء المئات. إنما ذكر وجود حراسات ملكية في خمسة أقسام (2 مل 11: 4-8). كان رؤساء المئات الخمسة من قوة الحرس الملكي، وكانوا مستاءين من"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عثليا واتجاهاتها العدائية لبيت الرب ولنسل داود، وغالبًا ما كانوا في ودٍ مع"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع الكاهن."
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصية الكاهن"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعتبَر"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاهنًا مثاليًا يخدم لا لحساب نفسه أو الناس إنما لمجد الله؛ يليق بنا أن نقتدي به"
+    },
+    {
+      "section_title": "مَعَهُ فِي الْعَهْدِ رُؤَسَاءَ الْمِئَاتِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أمورٍ كثيرة."
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكمة وتدبير صالح وحياة مقدسة، فقد حفظ الأمير الصغير لعدة أعوام حتى"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصبح قادرًا على الظهور أمام الشعب والقادة الصالحين الذين سئموا تصرفات الملكة"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المغتصبة للعرش. خَطَّط يهوياداع لهذا العمل ونَفَّذَه في سِرِّيةٍ عجيبةٍ وبسرعةٍ،"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا تراخٍ."
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدَّم ثلاث سمات للكرازة بالكلمة: غيرة متقدة"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مغامرة،"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونفس مستعدة لاحتمال أية مخاطر مُحتَمَل"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدوثها، ومعرفة وحكمة مرتبطان معًا. فإن حُبَّه للمغامرة في كرازته، وفي حياته التي بلا لومٍ ما كانت تنفعه في شيء لو لم يتقبَّلْ قوة الروح. تطلع إليه إذ تظهر فيه هو أولاً، أو بالأحرى اسمع كلماته: [لئلا تُلام"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خدمتنا](*)[1]."
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالكاهن أن يتلألأ، فيضئ بسيرته الحسنة على جميع الناس ليقتدوا بمثاله. أما"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذا تحوَّل هذا النور إلى ظلام، فماذا يحل بالعالم؟! أما يصير خرابًا؟[2]"
+    },
+    {
+      "section_title": "أ. كان ذا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، يشعر أن الله قد دعاه لهذا العمل، ويرافقه في عمله، وبدونه لا يستطيع أن"
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمارس عمله الكهنوتي."
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هو الطاهر وبدون زيف قدام الله، حتى يلبس النار، ويقوم ويخدم اللهيب؟"
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي ترابي الْتَهَبَ بلاهوتك حتى يقدر أن يمسك ذلك اللهيب الذي لا يُدرَك؟"
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من تنقَّى من قذارة العالم البغيض، وقام بدرجة عظيمة المجد حتى يكهن؟"
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو كان أحد ساروفَ ناريًا، لن يقدر أن يكهن ذبائح مصاف الرسل الكاملة[3]."
+    },
+    {
+      "section_title": "ب. إنسان",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفوذ، جذَّاب، انضم إليه القوّاد، وخضع له اللاويون ورؤوس آباء إسرائيل عندما"
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دعاهم إلى أورشليم [2]. كإنسانٍ حكيمٍ ومحبٍ وأُعطي سلطانًا من الله، يسمعون له في"
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هدوءٍ (جا 9: 17)."
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كملكٍ أرسلهم حكامًا، معطيًا إياهم سلطانًا أن يُلقوا في السجن أو أن يُخرجوا منه،"
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا إذ أرسلهم قلَّدهم ذات السلطان[4]."
+    },
+    {
+      "section_title": "ج. رجل ذو",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمان عظيم، لم يكن الذين حوله يُحَرِّكونه، بل تقوده كلمة الله، يطلب"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يعمل حسب إرادة الله [3]. يعمل لا ليمَّلك ابن الملك الصغير لمقاومة عثليا،"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما \"كما تكلم الرب\" [3]."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها لدينونة عنيفة يسقط تحتها من يُعَلِّمون. هذا ما يظهره تلميذ المسيح القائل:"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا تكونوا مُعَلِّمين كثيرين يا إخوتي،"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عالمين أننا نأخذ دينونة أعظم\" (يع 3: 1)."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن عطيَّة المواهب الروحيَّة وفيرة للذين هم رؤساء الشعب، إذ يكتب الحكيم بولس إلى"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطوباوي"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تيموثاوس: \"فليُعطك الرب فهمًا في كل شيء\" (2 تي 2: 7)،"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[لا تُهمِلْ أيضًا موهبة الله التي فيك بوضع يديّ] (راجع 2 تي 1: 6). من هذا يظهر أن"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُخَلِّص الكل إذ يعطيهم أكثر يطالبهم أكثر."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هي الفضائل"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يطالبهم بها؟ الثبات في الإيمان، والتعليم الصحيح، والتأسيس حسنًا في الرجاء،"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والصبر بلا زعزعة، والقوَّة الروحيَّة التي لا تُغلَب، والفرح والشجاعة في كل"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقدُّم حسن. بهذا نصير قدوة للآخرين في الحياة الإنجيلية. فإن عشنا هكذا يمنحنا"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح الإكليل، الذي به ومعه السُبْح والسلطان للآب والروح القدس إلى أبد الأبد"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آمين[5]."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هـ. رجل"
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة، لا لتنفيذ الطقوس بلا فهمٍ، إنما يطلب الله به وفيه. يجد في الله شبعه."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خادم المسيح الكامل ليس له شيء بجانب المسيح[6]."
+    },
+    {
+      "section_title": "د. رجل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قوية وتصميم عجيب. عَرَّض نفسه للقتل، لكنه عمل بروح القوة بغير خوفٍ."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاك الذي هذَّب رغباته ودرَّب نفسه على الاحتمال، ونما إلى حالة كمال المعرفة يكون"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مساويًا للملائكة!"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد استنار"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعلاً وصار مُضِيئًا كالشمس في ممارسة اللطف، مُسرِعًا بمعرفة مملوءة بِرًا إلى"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسكن المُقدَّس خلال حُبِّ الله كما فعل الرسل. فإن هؤلاء الرسل لم يصيروا رسلاً"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاختيارهم للرسوليّة بسبب امتياز في طبيعتهم، إذ كان يهوذا أيضًا مختارًا من بينهم،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنهم كانوا قادرين أن يكونوا رسلاً (أن يمارسوا الحياة الرسوليّة المستنيرة)..."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيروا أمورًا غير محدودة. متياس لم يكن مختارًا بينهم، لكنه أظهر نفسه مستحقًا أن"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكون رسولاً عوضًا عن يهوذًا."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن أيضًا،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يُدَرِّب نفسه على وصايا الرب، ويعيش بالكمال بمعرفة حسب الإنجيل، يحسب في جسد"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسل المختارين. مثل هذا يكون بحق كاهنًا للكنيسة، وخادمًا (شماسًا) حقيقيًا"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإرادة الله، ما دام يعمل ويُعَلِّم حسب الرب، وليس مُجرَّد أنه سيم من أناس، فهو لا"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحسب بارًا لمُجرَّد كونه كاهنًا، وإنما صار في الكهنوت لأنه بار. فإنه حتى وإن لم"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينل هنا على الأرض كرامة الكرسي الأعظم، لكنه سيجلس (مع) الأربعة وعشرين عرشًا،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدين الناس، كما قال يوحنا في سفر الرؤيا[7]."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس إكليمنضس السكندري"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَالُوا"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي يَهُوذَا، وَجَمَعُوا اللاَّوِيِّينَ مِنْ جَمِيعِ مُدُنِ يَهُوذَا،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرُؤُوسَ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبَاءِ إِسْرَائِيلَ، وَجَاءُوا إِلَى أُورُشَلِيمَ. [2]"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرص يهوياداع"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على دعوة القيادات العسكرية مع المدنية والدينية للقيام بالثورة ضد عثليا،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمناداة بيوآش ملكًا، فقد تحرَّك رؤساء المئات وجمعوا القيادات الدينية"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اللاويين) والسياسية (رؤوس آباء إسرائيل) ليجتمع الكل معًا في أورشليم."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقصد بإسرائيل"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا التي كانت تضم يهوذا وبنيامين والأتقياء من"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط الأخرى، وقد"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تركوا مملكة الشمال وانضموا إلى مملكة الجنوب."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يستدعِ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع الكاهن رؤساء"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط الذين في مملكة الشمال، لأنهم لا يُؤتَمَنون على"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمرٍ كهذا، وقد تركوا الهيكل وقبول حصر الملوك في نسل داود."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحتمل أن ما"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث كان في فترة الاحتفال بأحد الأعياد الكبرى السنوية، حيث كان اليهود يجتمعون في"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم. بهذا لم تشعر عثليا بوجود مؤامرة مُدَبَّرة ضدها."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَطَعَ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ الْمَجْمَعِ عَهْدًا فِي بَيْتِ الله مَعَ الْمَلِكِ."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُمْ: هُوَذَا ابْنُ الْمَلِكِ يَمْلِكُ، كَمَا تَكَلَّمَ الرَّبُّ عَنْ بَنِي"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَاوُدَ. [3]"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قصد بكل المجمع"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا القيادات السابق ذكرها في العبارة السابقة."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَذَا هُوَ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأَمْرُ الَّذِي تَعْمَلُونَهُ."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثُّلْثُ"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْكُمُ الَّذِينَ يَدْخُلُونَ فِي السَّبْتِ مِنَ الْكَهَنَةِ،"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَاللاَّوِيِّينَ يَكُونُونَ بَوَّابِينَ لِلأَبْوَابِ [4]"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع في حكمته ورغبته في العمل الجماعي، قد جمع القيادات العسكرية والدينية"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمدنية، ليشعر الكل أن العمل خاص بالجميع وليس بفئةٍ معينةٍ، غير أنه حرص على"
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التفاف الكهنة واللاويين حَوْلَ الملك، ومراعاة الشريعة بخصوص الاحتفال في الهيكل."
+    },
+    {
+      "section_title": "و. ذو إرادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"هذا هو الأمر"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصف هنا"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التنظيم الخاص بالدفاع عن هذه الثورة ضد عثليا وتنصيب يوآش ملكًا، فقد قسَّم"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القائمين بالحراسة إلى ثلاث مجموعات: قسم لحراسة الملك أينما وجد [7]، وقسمان"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقومان بحراسة كل الأبواب ومداخل بيت الرب وبيت الملك."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالثُّلْثُ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي بَيْتِ الْمَلِكِ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالثُّلْثُ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي بَابِ الأَسَاسِ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَمِيعُ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّعْبِ فِي دِيَارِ بَيْتِ الرَّبِّ. [5]"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدْخُلْ بَيْتَ الرَّبِّ إِلاَّ الْكَهَنَةُ وَالَّذِينَ يَخْدِمُونَ مِنَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللاَّوِيِّينَ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَهُمْ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدْخُلُونَ لأَنَّهُمْ مُقَدَّسُونَ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلُّ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّعْبِ يَحْرُسُونَ حِرَاسَةَ الرَّبِّ. [6]"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيُحِيطُ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللاَّوِيُّونَ بِالْمَلِكِ مُسْتَدِيرِينَ كُلُّ وَاحِدٍ سِلاَحُهُ بِيَدِهِ."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالَّذِي"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدْخُلُ الْبَيْتَ يُقْتَلُ."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُونُوا مَعَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكِ فِي دُخُولِهِ وَفِي خُرُوجِهِ. [7]"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا ما خَشِيَ يهوياداع من هجوم كهنة البعل على الملك داخل الهيكل، لذلك حمل اللاويون المحيطون"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالملك السلاح لمنعهم من الدخول."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَعَمِلَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللاَّوِيُّونَ وَكُلُّ يَهُوذَا حَسَبَ كُلِّ مَا أَمَرَ بِهِ يَهُويَادَاعُ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَاهِنُ."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذُوا"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ وَاحِدٍ رِجَالَهُ الدَّاخِلِينَ فِي السَّبْتِ مَعَ الْخَارِجِينَ فِي"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّبْتِ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَادَاعَ الْكَاهِنَ لَمْ يَصْرِفِ الْفِرَقَ. [8]"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الكهنة"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واللاويون مُقسَّمين إلى فرق، كل فرقة تقوم بنوبتها، وتنصرف لتحل فرقة أخرى مكانها."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما في هذا الحدث فاعتبر يهوياداع أن جميع الفرق في حالة طوارئ، فلم يسمح لها أن"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنصرف حتى يتم الاحتفال، ويطمئن أن الجو في المدينة كلها يسوده الهدوء والسلام."
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَى"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَادَاعُ الْكَاهِنُ رُؤَسَاءَ الْمِئَاتِ الْحِرَابَ وَالْمَجَانَّ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَتْرَاسَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّتِي لِلْمَلِكِ دَاوُدَ الَّتِي فِي بَيْتِ الله. [9]"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَوْقَفَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَمِيعَ الشَّعْبِ وَكُلُّ وَاحِدٍ سِلاَحُهُ بِيَدِهِ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ جَانِبِ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَيْتِ الأَيْمَنِ إِلَى جَانِبِ الْبَيْتِ الأَيْسَرِ،"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَوْلَ"
+    },
+    {
+      "section_title": "الذي تعملونه\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَذْبَحِ وَالْبَيْتِ حَوْلَ الْمَلِكِ مُسْتَدِيرِينَ. [10]"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُظهِر الملك أمام الشعب"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَخْرَجُوا ابْنَ الْمَلِك،ِ"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَضَعُوا"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهِ التَّاجَ،"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطُوهُ"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّهَادَةَ وَمَلَّكُوهُ."
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَسَحَهُ"
+    },
+    {
+      "section_title": "2. يهوياداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَادَاعُ وَبَنُوهُ،"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَحْيَ الْمَلِكُ! [11]"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كم كان فرح"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب وهو يرى الطفل الصغير، ابن داود يقف على المنبر. لقد تَحَطَّم اليأس الذي"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَلَّ بالأكثرين، فركضوا فرحين ليروا ما لم يكن يتوقعونه."
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء في"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الترجوم: [وجاءوا بابن الملك، ووضعوا عليه التاج الملكي الذي أخذه داود من رأس"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك بني عمون. وقد رُصِّع بحجرٍ كريم جذَّاب، وقد نُقِشَ عليه ما يُعبِّر عن عظمة"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم \"يهوه\" وكرامته، هذا الذي وضعه عليه بالروح القدس. وكان يزن وزنة ذهب. وكان ذلك"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهادة لبيت داود، وأنه لا يقدر لملكٍ ليس من بيت داود أن يحتمل وزنه. وعندما رأى"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب أنه قد وضع على رأس يوآش، وأنه احتمل هذا التاج، صدَّقوا أنه من نسل داود،"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وللحال نصَّبوه ملكًا. عندئذ مسحه يهوياداع وأبناؤه، وقالوا: ليزدهر الملك في"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكته!]"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما قتل داود"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جليات أخذ الإكليل الذي على رأسه والسوار الذي على ذراعه، وقَدَّمهما للملك شاول (2 صم 1: 10). أما الشهادة التي أُعطِيت للملك، فيقال إنها درج مكتوب عليه الشريعة (تث 17: 18)، يوضع في يدي الملك الذي يمسك بصولجان المُلك."
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الملك"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستلم هذا الدرج بيديه ويضعه فوق رأسه قبل أن يقرأه، علامة خضوعه لما في الدرج"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتكريمه لما ورد فيه."
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وستجد"
+    },
+    {
+      "section_title": "وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير أخرى"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مغتصبةِ العرش"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "12 وَلَمَّا سَمِعَتْ عَثَلْيَا صَوْتَ الشَّعْبِ يَرْكُضُونَ وَيَمْدَحُونَ الْمَلِكَ، دَخَلَتْ إِلَى الشَّعْبِ فِي بَيْتِ الرَّبِّ. 13 وَنَظَرَتْ وَإِذَا الْمَلِكُ وَاقِفٌ عَلَى مِنْبَرِهِ فِي الْمَدْخَلِ، وَالرُّؤَسَاءُ وَالأَبْوَاقُ عِنْدَ الْمَلِكِ، وَكُلُّ شَعْبِ الأَرْضِ يَفْرَحُونَ وَيَنْفُخُونَ بِالأَبْوَاقِ، وَالْمُغَنُّونَ بِآلاَتِ الْغِنَاءِ، وَالْمُعَلِّمُونَ التَّسْبِيحَ. فَشَقَّتْ عَثَلْيَا ثِيَابَهَا وَقَالَتْ: «خِيَانَةٌ، خِيَانَةٌ!». 14 فَأَخْرَجَ يَهُويَادَاعُ الْكَاهِنُ رُؤَسَاءَ الْمِئَاتِ الْمُوَكَّلِينَ عَلَى الْجَيْشِ وَقَالَ لَهُمْ: «أَخْرِجُوهَا إِلَى خَارِجِ الصُّفُوفِ، وَالَّذِي يَتَّبِعُهَا يُقْتَلُ بِالسَّيْفِ». لأَنَّ الْكَاهِنَ قَالَ: «لاَ تَقْتُلُوهَا فِي بَيْتِ الرَّبِّ». 15 فَأَلْقَوْا عَلَيْهَا الأَيَادِيَ. وَلَمَّا أَتَتْ إِلَى مَدْخَلِ بَابِ الْخَيْلِ إِلَى بَيْتِ الْمَلِكِ قَتَلُوهَا هُنَاكَ."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمَّا"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَمِعَتْ عَثَلْيَا صَوْتَ الشَّعْبِ يَرْكُضُونَ وَيَمْدَحُونَ الْمَلِكَ،"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَخَلَتْ إِلَى"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّعْبِ فِي بَيْتِ الرَّبِّ. [12]"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجاسرت الملكة"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عثليا ودخلت الهيكل، إذ ظنَّت أن نفوذها لا يصدّه شيء ما."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَظَرَتْ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِذَا الْمَلِكُ وَاقِفٌ عَلَى مِنْبَرِهِ فِي الْمَدْخَلِ،"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالرُّؤَسَاءُ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَبْوَاقُ عِنْدَ الْمَلِكِ،"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلُّ شَعْبِ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأَرْضِ يَفْرَحُونَ وَيَنْفُخُونَ بِالأَبْوَاقِ،"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْمُغَنُّونَ بِآلاَتِ الْغِنَاءِ وَالْمُعَلِّمُونَ التَّسْبِيحَ."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَشَقَّتْ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَثَلْيَا ثِيَابَهَا وَقَالَتْ: خِيَانَةٌ! خِيَانَةٌ! [13]"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الملك على"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منبره في دار الشعب مُقابِل الكهنة، فقد أُحضر الملك الصغير من الداخل إلى دار"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب. يرى البعض أن الملك كان على المنصة النحاسية التي لسليمان، موضوعة بجوار"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنبر (العمود)."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن عثليا"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تظن أن أحدًا من بيت داود قد نجا من المذبحة التي ارتكبتها. فجْأة رأت ما لم يكن في"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسبانها، فصرخت: \"خيانة! خيانة!\""
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالأبرار"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا يشمتوا في الأشرار عند هلاكهم، فإنهم يحملون إرادة أبيهم أن جميع الناس يخلصون"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإلى معرفة الحق يُقْبِلُون (1 تي 2: 4)، لكنهم يفرحون بإبادة سلطان الشر والظلم"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى لا يتعثَّر الضعفاء، كما يُسَرُّون بمجد الله الذي لا يَقْبَل الفساد."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجد الأبرار"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفرصة للكشف عن بطلان الشر وضعفه وعدم ديمومته، وسخافة حكمة الأشرار ومكرهم"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخبثهم."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُسَرُّ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار بانهيار إبليس ومملكته، وبدمار الخطية لا الخاطي. فإن البار لا يعرف إلا"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب حتى بالنسبة للخطاة."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[يرى الأبرار ذلك فيبتهجون، ويضحك الأبرياء عليهم ساخرين](**) [19]. إذ يرى"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار الأشرار يخطئون هنا، لا يُسَرُّون بخطأ أناس يهلكون أنفسهم. فإنهم إن كانوا"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسرون بالخطأ لا يُحسَبون"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبرارًا..."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد فَقَدَ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفريسي بِرَّه لأنه سُرَّ، حاسِبًا نفسه أسمَى من العشار، قائلاً: \"أشكرك إني لست مثل"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باقي الناس الخاطفين، الظالمين، الزناة، ولا مثل هذا العشار\" (لو 18: 11)."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرة أخرى إن"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلنا إن البار يمكن أن ينتصر بفرحٍ كامل لموت الأشرار، أي نوع هو هذا الفرح من أجل"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الانتقام من الأشرار في هذا العالم، الذي فيه حياة البار غير أكيدة؟"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنُمَيِّز بين"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأزمنة التي للرعب والتي للمجد. فالأبرار يرون الأشرار الآن، ويصيرون في هُزالٍ من"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أجل شرورهم. وعندما يرونهم يُضرَبون، لا يثقون في حياتهم هم أيضًا(***)... الآن يرى"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار أبناء الهلاك ويئنون، وفي الدينونة النهائية يرونهم ويضحكون ساخرين."
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البابا غريغوريوس (الكبير)"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَخْرَجَ"
+    },
+    {
+      "section_title": "3. قتل عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَادَاعُ الْكَاهِنُ رُؤَسَاءَ الْمِئَاتِ الْمُوَكَّلِينَ عَلَى الْجَيْشِ،"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَخْرِجُوهَا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى خَارِجِ الصُّفُوفِ،"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالَّذِي"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَتَّبِعُهَا يُقْتَلُ بِالسَّيْفِ."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَاهِنَ قَالَ: لاَ تَقْتُلُوهَا فِي بَيْتِ الرَّبِّ. [14]"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحكمةٍ أخذ"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوياداع كل حيطة ألا تقتل المرأة الشريرة في بيت الرب، فالموضع مُقَدَّس، ويلزم"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا يلحق به عار. وفي نفس الوقت يجب ألا تُترَك الملكة الطاغية، لئلا تغتال الملك"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصغير، لذلك طلب قتل من يتبعها، رافضا إقامة يوآش ملكًا."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَلْقُوا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهَا الأَيَادِيَ."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمَّا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَتَتْ إِلَى مَدْخَلِ بَابِ الْخَيْلِ إِلَى بَيْتِ الْمَلِكِ قَتَلُوهَا هُنَاكَ."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أولئك الذين يرضون بالإثم لا يكون لهم نصيب بين الخالدين[8]."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أنطونيوس الكبير",
+      "text": "القديس أنطونيوس الكبير"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"محوت اسمهم إلى الدهر والأبد\" (مز 9: 5). إنك تُدَمِّرهم تمامًا، تستأصلهم من"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصولهم، وتمحوهم، فتختفي ذكراهم أيضًا... [باد ذكرهم بتحطيم]"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أي 18: 18)."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي نص آخر \"باد ذكرهم معهم\". ماذا يعني بقوله: \"بتحطيم\"؟ إنه يتحدث"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن تدميرٍ تامٍ، أو عن بشاعة الشرور. وهذه في الواقع علامة عناية الله، أنه لا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُفعل هذا سرًا، حتى يُصلِحَ من حال الناس خلال مصائب الآخرين. لذلك يشير إلى شهوة"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدمار الذي يحلُّ بهم[9]."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا التبن لا يُهلِك من هم حنطة الرب، والذين هم قليلون إن قورنوا بالآخرين، لكنهم"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هم جمع عظيم. لا يهلك مختارو الله الذين يُجمَعون من أقاصي العالم، من أربعة رياح،"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أقصى السماء إلى أقصاها (مت 24: 31). يصرخ المختارون قائلين: \"خَلِّص يا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رب، لأنه قد انقرض التقي، لأنه قد انقطع الأمناء من بني البشر\" (مز 12: 1)."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيقول لهم الرب: [من يصبر إلى المنتهى (حيث يُقيد الشرّ) فهذا يَخلُص]"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مت 24: 13)[10]."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ارتجَّت الأرض وارتعشت\" (مز 18: 7). عندما تمجَّد ابن الإنسان هكذا ارتج الخطاة"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وارتعشوا. \"أسس الجبال ارتعدت\" (مز 18: 7)، فإن رجاء المتكبرين الذين كانوا في هذه"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة قد ارتعد. \"وارتجت لأنه غضب\". هذا هو الرجاء في البركات الزمنية، لم يعد بعد"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متأسسًا في قلوب الناس[11]."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ذابت الجبال مثل الشمع\" (مز 97: 5). بالنسبة لي تبدو الجبال أنها قوات الشياطين."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سواء كانوا جبالاً أو لا يكونون، فهم بالتأكيد الناس المتكبرون."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه النار لا"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تهلك الذين في الأسفل (المتواضعين)، وإنما تهلك المتشامخين وحدهم."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كحقيقة واقعة"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البرق نادرًا ما يؤثر على الذين هم في الوادي، وإنما لن ينجو منه أولئك الذين"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأعالي على الجبال."
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسيفوس"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنها قُتِلَتْ عند باب البغال، جنوب شرقي الهيكل، بالقُرْبِ من باب الخيل في وادي"
+    },
+    {
+      "section_title": "وَقَالَ لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدرون، كان في ذلك الوقت يُحسَب مكانًا دنسًا[12]."
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "16 فَقَطَعَ يَهُويَادَاعُ عَهْدًا بَيْنَهُ وَبَيْنَ كُلِّ الشَّعْبِ وَبَيْنَ الْمَلِكِ أَنْ يَكُونُوا شَعْبًا لِلرَّبِّ. 17 وَدَخَلَ جَمِيعُ الشَّعْبِ إِلَى بَيْتِ الْبَعْلِ وَهَدَمُوهُ وَكَسَّرُوا مَذَابِحَهُ وَتَمَاثِيلَهُ، وَقَتَلُوا مَتَّانَ كَاهِنَ الْبَعْلِ أَمَامَ الْمَذْبَحِ. 18 وَجَعَلَ يَهُويَادَاعُ مُنَاظِرِينَ عَلَى بَيْتِ الرَّبِّ عَنْ يَدِ الْكَهَنَةِ اللاَّوِيِّينَ الَّذِينَ قَسَمَهُمْ دَاوُدُ عَلَى بَيْتِ الرَّبِّ، لإِصْعَادِ مُحْرَقَاتِ الرَّبِّ كَمَا هُوَ مَكْتُوبٌ فِي شَرِيعَةِ مُوسَى، بِالْفَرَحِ وَالْغِنَاءِ حَسَبَ أَمْرِ دَاوُدَ. 19 وَأَوْقَفَ الْبَوَّابِينَ عَلَى أَبْوَابِ بَيْتِ الرَّبِّ لِئَلاَّ يَدْخُلَ نَجِسٌ فِي أَمْرٍ مَّا. 20 وَأَخَذَ رُؤَسَاءَ الْمِئَاتِ وَالْعُظَمَاءَ وَالْمُتَسَلِّطِينَ عَلَى الشَّعْبِ وَكُلَّ شَعْبِ الأَرْضِ، وَأَنْزَلَ الْمَلِكَ مِنْ بَيْتِ الرَّبِّ، وَدَخَلُوا مِنْ وَسَطِ الْبَابِ الأَعْلَى إِلَى بَيْتِ الْمَلِكِ، وَأَجْلَسُوا الْمَلِكَ عَلَى كُرْسِيِّ الْمَمْلَكَةِ. 21 فَفَرِحَ كُلُّ شَعْبِ الأَرْضِ وَاسْتَرَاحَتِ الْمَدِينَةُ، وَقَتَلُوا عَثَلْيَا بِالسَّيْفِ."
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَطَعَ"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَادَاعُ عَهْدًا بَيْنَهُ وَبَيْنَ كُلِّ الشَّعْبِ وَبَيْنَ الْمَلِكِ،"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْ يَكُونُوا"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَعْبًا لِلرَّبِّ. [16]"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرص يهوياداع"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على بدء الإصلاح بتجديد العهد مع الله. لقد قطع عهدًا بينه كممثل لله والشعب والملك"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن أفسدت عثليا العبادة لله، وبذلت كل جهدها أن تستبدل عبادة الله"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعبادة"
+    },
+    {
+      "section_title": "4. إصلاحات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأوثان."
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكاهن أن يُجَدِّدَ الميثاق بين الرب والملك، وبين الله والشعب، وبين الملك والشعب"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 11: 17). أما غاية هذا التجديد للعهد، فهو الحرص أن يكون الشعب \"شعب الرب\"،"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا يطلب الملك ولا الكاهن ولا الشعب مجدًا لأنفسهم بل للرب."
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَخَلَ"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَمِيعُ الشَّعْبِ إِلَى بَيْتِ الْبَعْلِ وَهَدَمُوهُ،"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَسَّرُوا"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَذَابِحَهُ وَتَمَاثِيلَهُ،"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَتَلُوا"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَتَّانَ كَاهِنَ الْبَعْلِ أَمَامَ الْمَذْبَحِ. [17]"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أفظع ما فعلته"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عثليا هو السير في طريق أمها الشريرة إيزابل، وإدخال عبادة البعل وتعضيدها."
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طالبت الشريعة"
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقتل كهنة الأوثان، لأنهم يغوون الشعب على العبادة الوثنية ورجاساتها (تث 7: 5-6)."
+    },
+    {
+      "section_title": "عهد ثلاثي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متان"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا كان أول كاهن للبعل، جاء مرافقا عثليا من السامرة، وهو الذي كان مُقَرَّبًا"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليربعام في نشر عبادة البعل بأورشليم، دعاه"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسيفوس معثان[13]."
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَ يَهُويَادَاعُ مُنَاظِرِينَ عَلَى بَيْتِ الرَّبِّ عَنْ يَدِ الْكَهَنَةِ اللاَّوِيِّينَ،"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَسَمَهُمْ دَاوُدُ عَلَى بَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإِصْعَادِ"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُحْرَقَاتِ الرَّبِّ."
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَمَا هُوَ"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَكْتُوبٌ فِي شَرِيعَةِ مُوسَى بِالْفَرَحِ وَالْغِنَاءِ حَسَبَ أَمْرِ دَاوُدَ."
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُهمِلَ الهيكل"
+    },
+    {
+      "section_title": "Mattan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام الملوك الأشرار، وحدث مزجٌ بين عبادة الله وعبادة الأوثان، وفسد نظام"
+    },
+    {
+      "section_title": "1. عيَّن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة لإصعاد المحرقات كما هو مكتوب في شريعة موسى."
+    },
+    {
+      "section_title": "2. عيَّن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُسَبِّحين حسب ترتيب داود النبي والملك، إذ ارتبطت العبادة بالفرح (رو 5: 11)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُرَّاس الأبواب حسب ما أمر داود [19]، كي لا يدخل الهيكل من كان نجسًا."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَوْقَفَ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَوَّابِينَ عَلَى أَبْوَابِ بَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِئَلاَّ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدْخُلَ نَجِسٌ فِي أَمْرٍ مَا. [19]"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذَ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُؤَسَاءَ الْمِئَاتِ وَالْعُظَمَاءَ وَالْمُتَسَلِّطِينَ عَلَى الشَّعْبِ،وَكُلَّ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَعْبِ الأَرْضِ،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْزَلَ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكَ مِنْ بَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَخَلُوا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ وَسَطِ الْبَابِ الأَعْلَى إِلَى بَيْتِ الْمَلِكِ،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَجْلَسُوا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكَ عَلَى كُرْسِيِّ الْمَمْلَكَةِ. [20]"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَفَرِحَ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ شَعْبِ الأَرْضِ، وَاسْتَرَاحَتِ الْمَدِينَةُ،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَتَلُوا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَثَلْيَا بِالسَّيْفِ. [21]"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يلاحظ في كل"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الإصلاحات سيادة روح الفرح الحقيقي مع السلام الداخلي. هكذا عندما يملك ابن"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود على القلب لا يفارقنا فرح الروح، وننعم بعربون السماء!"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 أي 23"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتملُك في"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبي، وتقتل كل شر فيه!"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظَنَّت عثليا أنها ملكت،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقتلت كل وريث"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعرش."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بطغيانها صارت"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُحَرِّك القيادات كقطع الشطرنج."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظَنَّت أنه لا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد إله تخشاه!"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجدت في عبادة البعل ملذاتها،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأقامت نفسها"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهة، لا يستطيع أن يقف أمامها أحد."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استهانت بكل"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعودك لبيت داود."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خططت وظَنَّت"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه يستحيل أن يكون لبيت داود موضع على العرش."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنايتك عجيبة، وتدابيرك حكيمة."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَرَّكتَ"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاهنك يهوياداع وزوجته لحفظ طفلٍ بدا كأنه منسي."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحان الوقت"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليجلس على كرسي العرش."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بفرحٍ تحرَّكت"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيادات العسكرية والدينية والمدنية."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُتِلَت عثليا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عند باب البغال،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقُتِلَ معها"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاهن البعل متان."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجسدت يا كلمة الله وصرتَ طفلاً،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرعبتَ إبليس"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكل قواته."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتربَّع على"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوب البشر،"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتُقِيم ملكوتك"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيهم داخليًا."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُحوِّل"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الترابيين إلى شِبْه سمائيين."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتضم البشر إلى"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخورُس السماوي."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لك المجد يا"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُخَلِّص البشرية."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: (2 كو 6: 3)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Ephes., hom. 6."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Ephes., hom. 6."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب الرعوي، ص 178."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 70 على تعزية الكهنة (راجع نص بول بيجان ترجمة الدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on St. John, 86:3."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Luc Ser 93."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Letter 14: 6."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Strom. 6:13."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(**) إضافة من الموقع: عن الآية: \"الأَبْرَارُ يَنْظُرُونَ وَيَفْرَحُونَ، وَالْبَرِيءُ يَسْتَهْزِئُ بِهِمْ قَائِلِينَ:\" (أي 22: 19)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(***) إضافة من الموقع: يقصد القديس بهذا المعنى الآية القائلة: \"إِذًا مَنْ يَظُنُّ أَنَّهُ قَائِمٌ، فَلْيَنْظُرْ أَنْ لاَ يَسْقُطَ.\" (1 كو 10: 12)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفيلوكاليا:170"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نصًا عن حياة القداسة، 13."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(***) إضافة من الموقع: يقصد القديس بهذا المعنى الآية القائلة: \"إِذًا مَنْ يَظُنُّ أَنَّهُ قَائِمٌ، فَلْيَنْظُرْ أَنْ لاَ يَسْقُطَ.\" (1 كو 10: 12)."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفيلوكاليا:170"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نصًا عن حياة القداسة، 13."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفيلوكاليا:170"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نصًا عن حياة القداسة، 13."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On, Ps. 9."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Ps. 18."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Jamieson , Fausset and Brown"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "commentary."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Josephus: Antiq. 9:7:3; McClintock & Strong's Cyclopedia, article"
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Mattan."
+    },
+    {
+      "section_title": "3. أقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 23 من سفر أخبار الأيام الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/67sqa8f"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/67sqa8f"
     }
   ]
 }

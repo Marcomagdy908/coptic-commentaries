@@ -1,17 +1,4523 @@
 {
-  "book_id": 15,
+  "book_id": "kings2",
   "book_title": "تفسير سفر الملوك الثاني",
   "chapter_number": 20,
   "chapter_title": "الأصحاح 20",
   "topic": "الأصحاح 20",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "مرض حزقيا",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "إشعياء يصف",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "علامة من",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "تكريم بردوخ",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "سقوط حزقيا",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "تأديب الرب",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "تأجيل تحقيق",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "موت حزقيا",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "عن هؤلاء",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "لِحَزَقِيَّا رَئِيسِ شَعْبِي",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "حَزَقِيَّا لإِشَعْيَا",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "تكريم برودخ",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "فَقَالَ",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "الرسول بروح النصرة والتهليل",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "الملوك ثاني",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 736,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "شفاء حَزَقِيَّا وسقوطه في الكبرياء"
+      "text": "اَلأَصْحَاحُ الْعِشْرُونَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السابق رأينا حزقيا الملك بإيمانه الحي وتواضعه مع وضع حياته في يدي الله استطاع أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يغلب سنحاريب ملك أشور، لا بقوة عسكرية ولا بتحالف مع مصر ضد أشور، وإنما بعمل الله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفائق. نال وعدًا ونبوة عن عدم دخول سنحاريب أورشليم وعجزه عن إطلاق سهمٍ يدخل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدينة، وعدم تقدمه بترس أو إقامة مترسة عليها، إنما يرجع في الطريق الذي جاء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها، ويُغتال في معبد الوثن بمدينته بواسطة أيدي ابنيه. الآن يتحدى حزقيا الموت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كآخر عدو يواجه الإنسان (1 كو 15: 28)، وينال وعدًا إلهيًا بإضافة خمسة عشر عامًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على عمره. كما طلب علامة من النبي أن الرب يشفيه، ونالها. هذا العظيم في إيمانه هرب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الأسد الذي يجول يزأر، ويفترس من يجده (1 بط 5: 8)، وسقط في خداع الحية، ألا وهو"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكبرياء الباطل، فكشف للعدو أسراره معتزًا ببيته وخزائنه وأسلحته. سقوطه هذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حطَّم بنيه ومملكته حتى بعد موته!"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشفاؤه"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له الدواء"
+    },
+    {
+      "section_title": "3. علامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب على شفائه"
+    },
+    {
+      "section_title": "4. تكريم بردوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلادان البابلي له"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكبرياء الباطل"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له على كبريائه"
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التأديب"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستلام منسى المملكة"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 20: بك أتحدَّى"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسد، وبدونك تخدعني الحية!"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشفاؤه"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 فِي تِلْكَ الأَيَّامِ مَرِضَ حَزَقِيَّا لِلْمَوْتِ، فَجَاءَ إِلَيْهِ إِشَعْيَا بْنُ آمُوصَ النَّبِيُّ وَقَالَ لَهُ: «هكَذَا قَالَ الرَّبُّ: أَوْصِ بَيْتَكَ لأَنَّكَ تَمُوتُ وَلاَ تَعِيشُ». 2 فَوَجَّهَ وَجْهَهُ إِلَى الْحَائِطِ وَصَلَّى إِلَى الرَّبِّ قَائِلًا: 3 «آهِ يَا رَبُّ، اذْكُرْ كَيْفَ سِرْتُ أَمَامَكَ بِالأَمَانَةِ وَبِقَلْبٍ سَلِيمٍ، وَفَعَلْتُ الْحَسَنَ فِي عَيْنَيْكَ». وَبَكَى حَزَقِيَّا بُكَاءً عَظِيمًا. 4 وَلَمْ يَخْرُجْ إِشَعْيَا إِلَى الْمَدِينَةِ الْوُسْطَى حَتَّى كَانَ كَلاَمُ الرَّبِّ إِلَيْهِ قَائِلًا: 5 «ارْجعْ وَقُلْ لِحَزَقِيَّا رَئِيسِ شَعْبِي: هكَذَا قَالَ الرَّبُّ إِلهُ دَاوُدَ أَبِيكَ: قَدْ سَمِعْتُ صَلاَتَكَ. قَدْ رَأَيْتُ دُمُوعَكَ. هأَنَذَا أَشْفِيكَ. فِي الْيَوْمِ الثَّالِثِ تَصْعَدُ إِلَى بَيْتِ الرَّبِّ. 6 وَأَزِيدُ عَلَى أَيَّامِكَ خَمْسَ عَشَرَةَ سَنَةً، وَأُنْقِذُكَ مِنْ يَدِ مَلِكِ أَشُّورَ مَعَ هذِهِ الْمَدِينَةِ، وَأُحَامِي عَنْ هذِهِ الْمَدِينَةِ مِنْ أَجْلِ نَفْسِي، وَمِنْ أَجْلِ دَاوُدَ عَبْدِي»."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي تِلْكَ"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأَيَّامِ مَرِضَ حَزَقِيَّا لِلْمَوْتِ."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَجَاءَ إِلَيْهِ إِشَعْيَا بْنُ آمُوصَ النَّبِيُّ وَقَالَ لَهُ"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَالَ الرَّبُّ: أَوْصِ بَيْتَكَ،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّكَ"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَمُوتُ وَلاَ تَعِيشُ. [1]"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح من"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآية 6 أن مرض حزقيا كان في فترة غزو سنحاريب الأشوري على المدينة المذكورة في (2 مل 18)."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما يتساءل"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض: هل يُغَيِّر الله قراره الخاص بتحديد حياة حزقيا الملك وإعلانه له على لسان"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء النبي؟ ما أعلنه الله لإشعياء على لسان النبي لم يكن قرارًا إلهيًا، إنما هو"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إعلان عما كان يلزم أن يتم حسب قوانين الطبيعة التي وضعها الله والتي من حق الله أن"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُغَيِّرها إن أراد. أما أن يمتد عمر حزقيا الملك فقد كان معروفًا لدى الله، ولم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلنه إلا كثمرة لتواضع الملك وصراخه لله. فالله لم يُغَيِّر إرادته، إنما قدَّم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للملك ما هو فائق للقوانين الطبيعية، فبحسب المرض المُصاب به كان سيموت، لكن الله"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي سمح له بالمرض وهبه الشفاء."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتريد أن تعرف ما هي قوة التوبة؟"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتريد أن تعلم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلاح الخلاص القوي، وتدرك قوة الاعتراف؟"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالاعتراف ضرب حزقيا خمسة وثمانين ألفًا ومائة من أعدائه (2 مل 19: 35). يا له من أمرٍ عظيمٍ،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنه يُحسَب قليلاً بالنسبة لما أذكره لك. إذ بالتوبة استطاع الملك أن يحصل على"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تغيير في القول الإلهي الذي نطق به فعلاً. إذ لما مرض قال له إشعياء: \"أوصِ بيتك،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنك تموت ولا تعيش\" [1]. هل يمكن أن يقوم استثناء بعد، أو يوجد رجاء شفاء"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعدما قال له النبي: \"لأنك تموت\"؟!"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن حزقيا لم يكف عن التوبة. وبتذكره ما هو مكتوب: [متى رجعت وبكيت تخلص] (راجع إش 30: 15)، اتجه بوجهه إلى الحائط وهو على سريره، رافعًا ذهنه إلى السماء (حيث لا تعوق الحائط بلوغ الصلوات بورعٍ إلى السماء) وقال: [اذكرني يا رب. يكفي أن تذكرني فأُشفى] (راجع"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء 38) إنك لا تخضع للزمان، بل أنت خالق القانون. أنت واهب قانون الحياة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتدبيرها حسب إرادتك، إذ لا تعتمد حياتنا على يوم ميلادنا، ولا على اقتران النجوم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معًا في برجٍ واحد كما يظن البعض في غباوة[1]."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الأورشليمي"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى الآباء"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الله يُحدِّد عُمْرَ الإنسان بحكمته الإلهية التي تفوق الفكر البشري، كما"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضع قوانين طبيعة تؤثر على عمره، وإن كان الله وهو واضع القوانين يمكن أن يتخطاها"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل محبته للإنسان. توجد أيضًا عوامل كثيرة من بينها حياة الإنسان الروحية،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيسمح للبار كما للشرير بأن يعيش لمدة طويلة أو قصيرة لإعطاء كل فرصة لتوبة الإنسان"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخلاص نفسه وتمتعه بالمجد هو أو الجماعة المنتمي إليها، أو التي حوله."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[الذين يؤخذون قبل الوقت، حيث يفيض الغمر على أساسهم]"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(راجع أي 22: 16)... كل إنسان يؤخذ من هذه الحياة في وقت سبق معرفته قبل الزمن"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسلطان إلهي. لكن يلزم معرفة أن الله القدير، في خلقته لنا وتدبير أمورنا، يُعَيِّن"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدود"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(حياتنا)"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسب استحقاق كل أحدٍ."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد يلزم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير أن يعيش وقتًا قصيرًا، لئلا يسيء إلى كثيرين يسلكون باستقامة،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزم أن يبقى الإنسان الصالح مدة أطول في الحياة، حتى يكون معينًا في أعمال صالحة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكثيرين."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرة أخرى فإن"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير يلزم أن يبقى مدة أطول في الحياة حتى يضيف أعمالاً شريرة إلى أعماله. وهكذا"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البار قد يمارس حياة صادقة تتطهر بامتحانه، أو يلزم سحب الإنسان الصالح بأكثر سرعة،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لئلا إن عاش أكثر، قد تفسد براءته."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن ليوضع في"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاعتبار إن رآفات الله هي التي تهب الخطاة فرصة للتوبة. على أي الأحوال قد تُوهَب"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم أزمنة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرجعون، ليحملوا ثمار الندامة، بل يخدمون الشر،"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبرحمة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله ينالون الأزمنة لعلهم يتخلون عن تصرفاتهم."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرغم من أن"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله القدير يعرف مسبقًا وقت موت كل أحدٍ، متى تنتهي حياته، لا يقدر أحد أن يموت"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل أوانه، بل في الوقت المُعيَّن لموته، فإنه إن كان قد أُضيف إلى حياة حزقيا خمسة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عشر عامًا (2 مل 20؛ إش 38)، فإن زمن حياته بالحقيقة زاد عن النهاية التي كان"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستحقها، وقد سبق فعرف الله وقته في هذه اللحظة والتي فيما بعد يسحبه من الحياة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحاضرة."
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الأمر هكذا: ماذا يعني [يُقطَع الأشرار قبل أوانهم] سوى أن كل أولئك الذين يحبون"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة الحاضرة يعدون أنفسهم"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لفترات"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطول من تلك الحياة؟ وعندما يسحبهم الموت من الحياة الحاضرة، فإن الفترات الطويلة"
+    },
+    {
+      "section_title": "1. مرض حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحياتهم التي اعتادوا أن يتخيلوها تكون قد سُحبت منهم، إنها تُقطع إربًا. بحق قيل"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أساسهم قد أفاض بطوفان\"..."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُصف قايين إنه"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أول من أسس مدينة على الأرض (تك 4: 17)، وهو بهذا أكد بوضوح أنه غريب، حيث كان"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريبًا عن الثبات في العالم الأبدي، فأنشأ أساسًا على الأرض. بكونه غريبًا عن"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمور العلوية وضع استقراره في أساسٍ لأمورٍ سفلية، ووضع استقرار قلبه في اللذة"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرضية."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البابا غريغوريوس (الكبير)"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طول أناة الخالق ستدين مرقيون، أقصد صبره في انتظار توبة الخاطي لا موته، إذ يريد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رحمة لا ذبيحة (هو 6:6)، محوِّلاً نظره عن أهل نينوى، نازعًا الدمار الذي نطق به"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالفعل ضدهم (يونان 3: 10)، واهبًا لدموع حزقيا امتدادًا لحياته [1][2]."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَوَجَّهَ"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجْهَهُ إِلَى الْحَائِطِ،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَلَّى إِلَى الرَّبِّ قَائِلًا: [2]"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على نقيض أخزيا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما مرض، لجأ حزقيا إلى رجل الله إشعياء، وليس بعل زبوب إله عقرون (2 مل 1: 1-2). فقد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتسم حزقيا بأنه رجل صلاة (2 مل 19: 1، 14-15)."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آمن حزقيا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك أنه ليس من وجه للمقارنة بين أسلحته وأسلحة أشور، ولا بين إمكانياته العسكرية"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإمكانيات أشور، لكن لا تتوقف المعركة على كمية الأسلحة أو قدرتها والخطط العسكرية،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما على وجه الله الذي يديره نحو شعبه، فيتمتعون بالنصرة، أو يديره عنهم، فتفقد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسلحة التي بين أيديهم قدرتها ورسالتها، وتتحول من الحماية ضد العدو إلى الاتجاه"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المضاد. كما أن كل الأمور تعمل للخير للذين يحبون الله (رو 8: 28)، هكذا كل الأمور"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتحول للهلاك للذين يجحدون الله، وللنصرة للذين يتقونه!"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آهِ يَا رَبُّ،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اذْكُرْ كَيْفَ سِرْتُ أَمَامَكَ بِالأَمَانَةِ وَبِقَلْبٍ سَلِيمٍ،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَعَلْتُ"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْحَسَنَ فِي عَيْنَيْكَ."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَكَى"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا بُكَاءً عَظِيمًا. [3]"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعل السبب"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرئيسي أنه لم يكن بعد قد وُلد منسى (2 مل 21: 1)، فلم يوجد من يخلفه على العرش،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر الذي أرْبَكَه، إذ كيف يتحقق الوعد لبيت داود أنه يبقى إلى الأبد. في هذا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يضعف حزقيا جدًا على خلاف إبراهيم الذي قدَّم ابنه ذبيحة دون خوف، واثقًا أن وعد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله يتحقق حتمًا، مؤمنًا بالله القادر أن يُقيمه من الأموات. لقد أنجب حزقيا بعد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك \"منسى\" محب"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة الأوثان الذي أثار غضب الله على يهوذا (2 مل 23: 26)."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على أي الأحوال"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حزقيا رجل صلاة، لم يفقِد الخبر رجاءه في الرب، بل عرف كيف يُصلي ويُصارع. لقد"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجَّه وجهه إلى الحائط، ربما متجهًا نحو الهيكل كعادة اليهود، ليُصلي إلى الرب"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائلاً: \"آه يا رب اذكر كيف سرتُ أمامك بالأمانة وبقلبٍ سليمٍ (كاملٍ) وفعلتُ الحسن"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في عينيك\". تطلع حزقيا إلى حياته بكونها رحلة خلالها سار مع الله (تك 5: 24؛ 1 مل 9: 4) بإخلاص لا في كمال مطلق، وإنما هادفًا نحو الكمال (مت 5: 48)، بفكرٍ"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدٍ غير مترددٍ ولا منحرفٍ. لقد بكى حزقيا بكاءً عظيمًا."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فريكنديوس"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Verecundus"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو كاتب أفريقي، مات سنة 522م اهتم بمناقشة الفصول الثلاثة التي تحمل فكرًا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسطوريًا، يقول إن الله في رحمته تطلع إلى حزقيا ليس فقط لينزع عنه هلاك الموت الذي"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوشك أن يحل به، بل أضاف إلى حياته خمس عشرة سنة، فسبَّح بالتسبحة الواردة في (إشعياء 38: 10-20)[3]."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ختم حزقيا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسبحته بوعدٍ قدَّمه ذبيحة شكر لله شافيه، قائلاً: \"الرب لخلاصي. فنعزف بأوتارنا كل"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيام حياتنا في بيت الرب\" (إش 38: 20)."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرجل صلاة سلك في الرب، إذ يقول: \"آه يا رب، اذكر كيف سرتُ أمامك\". بكل"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمانة سلك حزقيا كمن هو في حضرة الرب يخدمه (تث 5: 30-33؛ 30: 15-16). ما كان"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشغله في شدة مرضه، لا سلطانه ولا غناه وثروته ولا مباهجه، إنما التصاقه بالله"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأمانة."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ سمع أنه يموت، لم يصلِّ حزقيا لكي يمنحه سنين أكثر، بل أن يسمح له أن يقف أمام"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكم الله كما يشتاق، فقد عرف أن سليمان أرضَى الله بعدم سؤاله أن يهبه حياة أطول. إذ"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يُعد للرحلة إلى الرب استعرض أعماله، كيف سار أمام الرب في الحق وكمال القلب."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سعيد هو الضمير"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يتذكر الأعمال الصالحة في وقت الضيق. \"طوبى للأنقياء القلب، لأنهم يعاينون الله\" (مت 5: 8)، أو كما هو مكتوب في موضع آخر: [من يتمجد في نقاوة قلبه؟] (راجع أم 20: 9)."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا هو"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التفسير: يُنسَب إليه كمال القلب، لأنه حطَّم الأصنام، وأزال أواني البعل من الهيكل"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 23: 4)، وسحق الحية النحاسية (2 مل 18: 4)، وصنع أمورًا أخرى يذكرها الكتاب[4]."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس شيء أكثر مسرة من الضمير القويم والرجاء الصالح."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كنتَ تريدُ"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تتعلم هذا، لتسأل ذاك الذي في لحظات رحيله وقد شاخ؛ فإننا إن ذكرناه بالولائم"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفخمة التي تمتع بها، والمجد والكرامة والأعمال الصالحة التي مارسها يومًا ما"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصنعها، إن سألناه: ماذا يبهجك بالأكثر، فإننا نراه يخجل من الأمور الأخرى ويغطي"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجهه، أما في هذه فيطير ويثب متهللاً. هكذا حزقيا أيضًا عندما كان مريضًا لم يتذكر"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الولائم الفخمة والمجد أو الحياة الملوكية بل البرّ، إذ يقول: \"اذكر كيف سرت أمامك"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأمانة\" [3][5]."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدِّيس يوحنا الذهبيّ الفم"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ يَخْرُجْ إِشَعْيَا إِلَى الْمَدِينَةِ الْوُسْطَى،"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَتَّى كَانَ كَلاَمُ الرَّبِّ إِلَيْهِ قَائِلًا: [4]"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع تقوى حزقيا"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك وصلواته الحارة، تحدث الله معه خلال نبيه إشعياء، كما تحدث مع يربعام الثاني"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال يونان النبي (2 مل 14: 25). فالعلاقة الشخصية مع الله والحب الناري في قلب المؤمن"
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يعني عزله عن التدبير الكنسي."
+    },
+    {
+      "section_title": "عن هؤلاء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارْجِعْ وَقُلْ"
+    },
+    {
+      "section_title": "لِحَزَقِيَّا رَئِيسِ شَعْبِي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدْ"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَمِعْتُ صَلاَتَكَ."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدْ"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَأَيْتُ دُمُوعَكَ."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَئَنَذَا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشْفِيكَ."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْيَوْمِ الثَّالِثِ تَصْعَدُ إِلَى بَيْتِ الرَّبِّ. [5]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صدر الأمر"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي إلى إشعياء أن يذهب إلى الملك ليخبره: \"هكَذَا يَقُولُ الرَّبُّ إِلهُ دَاوُدَ أَبِيكَ: قَدْ سَمِعْتُ صَلاَتَكَ. قَدْ رَأَيْتُ دُمُوعَكَ. هأَنَذَا أُضِيفُ إِلَى أَيَّامِكَ خَمْسَ عَشَرَةَ سَنَةً\"."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت الإجابة سريعة جدًا؛ ربما تحدث الله مع إشعياء فمًا لفم قبل خروجه من القصر"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملكي بينما كان يُعطي نصائح روحية لرجال القصر لتهيئة الجو بعد موت الملك."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على مدى مائة"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عام من تاريخ يهوذا (732-640 ق.م) كان حزقيا الملك الوحيد الأمين في علاقته بالله."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبسبب إيمانه وصلاته ودموعه شفاه وأنقذ بلده من الأشوريين وأطال عمره."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه (الآب) أيضًا [أب المراحم] (2 كو 1: 3). وُصف في الأنبياء \"مملوء حنوًا ولطفًا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسخيًا في الرحمة\" (مز 86: 15؛ 112: 4؛ 145: 8؛ يون 4: 2)."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في يونان تجدون"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل الرحمة الرائع الذي أظهره لأهل نينوى المصلِّين (يون 3: 8). وكيف كان تصرفه"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(الثابت) أمام دموع حزقيا [3-4]. كيف كان مستعدًا أن يغفر لأخآب زوج"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيزابل دم نابوت، عندما هدأ من غضب (الله)، (1 مل 21: 27، 29). كيف غفر فورًا لداود"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عند اعترافه بخطاياه (2 صم 12: 13)، مفضلاً طبعًا بالحقيقة توبة الخاطي عن موته،"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذلك من أجل رحمته المملوءة حنوًا (حز 33: 11)[6]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنستعر كلمات الرسول هذه التي كانت أمثلة لنا (1 كو 10: 6)؛ وقد كُتبت لكي نؤمن أن"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب أكثر قوة عن كل النواميس الطبيعية الخاصة بالجسد كما يظهر (الرب) نفسه حافظًا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجسد[7]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البكاء وحده يقود للضحك المطوّب![8]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توجد معمودية (خامسة) وهي عاملة بالأكثر، معمودية الدموع حيث كان داود يُعوِّم كل"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليلة سريره، ويغسل فراشه بدموعه[9]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النزينزي",
+      "text": "القديس غريغوريوس النزينزي"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقتني فرحًا عظيمًا إلا ذاك الذي يبكي كثيرًا، وكأنه ينال نعمة المجد العتيد"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثمن دموعه؟![10]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثرة حزن الدموع هي موهبة من الله، تُعطَى باجتهاد طلبات السائل[11]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا التبايسي"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَزِيدُ"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى أَيَّامِكَ خَمْسَ عَشَرَةَ سَنَةً،"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأُنْقِذُكَ مِنْ يَدِ مَلِكِ أَشُّورَ مَعَ هَذِهِ الْمَدِينَةِ،"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأُحَامِي"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَنْ هَذِهِ الْمَدِينَةِ مِنْ أَجْلِ نَفْسِي، وَمِنْ أَجْلِ دَاوُدَ عَبْدِي. [6]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيَّر الرب"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلماته –إن صح التعبير– التي قالها لحزقيا بواسطة إشعياء من أجل صلواته ودموعه"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصادرة من أعماق قلبه."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي شيء أوضح من"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا البرهان أنه خلال رحمة الرب وصلاحه يبدو كمن يكسر كلمته، وعوض ما سبق أن أعده"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتحديد موعد الموت حسب قوانين الطبيعة التي وضعها، أضاف 15 عامًا لحياته، عوض"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإصرار على قرارٍ لا رجعة فيه؟[12]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس[13]"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن حزقيا كان يجب أن يموت خلال المسببات الطبيعية مثل المرض، لكنه أضاف 15 عامًا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى حياته، هذه الإضافة يَعرِفها الله قبل تأسيس العالم، محتفظًا بها في إرادته. ما"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعله من إضافة حقَّق ما في خطة الله إذ يعلم ما كان سيفعله حزقيا وما كان يهبه الله"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إياه."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يشغل ذهننا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس البحث في هل الله كان قد سبق فحدَّد عمر حزقيا ثم تراجع عنه بإضافة 15عامًا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه، وإنما إدراك قوة الصلاة بروح التوبة في حياتنا، فقد وهبته حياة بعدما كان يجب"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يموت حسب قوانين الطبيعة. الصلاة بكونها التصاق بالله واهب الحياة قادرة على كل"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيءٍ، وغالبة للموت، موت الخطية."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي شيء أكثر وضوحًا من هذا البرهان، أنه من أجل الرحمة والصلاح يُغَيِّر الرب"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمته، وبدلاً من الترتيب المسبق الخاص بالموت يمد حياة ذاك الذي صلَّى خمسة عشر"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عامًا، مفضِّلاً ذلك عن أن يوجد جامدًا بعدم تغيير قراره؟"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنفس الطريقة"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا جاءت العبارة الإلهية لأهل نينوى: [بعد ثلاثة أيام تهلك نينوى] (يون 3: 4) LXX. لطَّف من هذه العبارة القاسية المفاجئة بتوبتهم وصومهم، وتحوَّلت الرحمة مع الصلاح"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمعالجة الأمر بسهولة[14]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب يوسف"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ ضُرب حزقيا بالخوف الشديد المفاجئ عند اقتراب الموت جلبت له دموعه وصلواته"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تأجيلاً مؤقتًا لموته"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمدة خمسة عشر عامًا"
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 20؛ إش 38)[15]."
+    },
+    {
+      "section_title": "قَالَ الرَّبُّ إِلَهُ دَاوُدَ أَبِيكَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له الدواء"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ إِشَعْيَا: «خُذُوا قُرْصَ تِينٍ»"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَخَذُوهَا وَوَضَعُوهَا عَلَى"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدَّبْلِ فَبَرِئَ. [7]"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورد استخدام"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التين في حالة القروح في سجلات الشرق الأوسط قديمًا. ذكرت في لوحات ترجع إلى القرن"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العشرين ق. م في أيام رأس شمرا. وفي حديث"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير عن عدم رذل فن الطب بسبب إساءة البعض استخدامه، أشار إلى"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلب إشعياء النبي استخدام التين في شفاء حزقيا الملك."
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس بسبب عدم استفادة بعض الخطاة من فن الطب ننكر كل المزايا الصادرة عنه. لأنه"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بنا ألا نرذل كل الفنون مجتمعة لمجرد إساءة استخدامها بواسطة طالبي اللذة بلا"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضابط لصناعة الطهي أو الخبز أو النسيج، إذ يمارسونها من أجل لذَّاتهم الخاصة"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متعدين حدود الحاجة الضرورية. على العكس فإننا نظهر إساءتهم لاستخدامها في الحدود"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النافعة، وذلك باستخدامنا لها بقدرٍ سليمٍ. هكذا باستخدامنا صناعة الطب ينبغي علينا"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا نُسيء إلى من قدَّم الموهبة الإلهية بسوء استخدامنا لها، فلا نضع رجاءنا في"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشفاء في يد الطبيب..."
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ما نلاحظه"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدى بعض الأشقياء الذين لا يترددون في دعوة أطبائهم \"مُخَلِّصينْ\""
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "saviors"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم. على الجانب الآخر، فإن جحد المنافع الصادرة عن هذا الفن"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمامًا هو علامة على شر طبيعتنا."
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يظن حزقيا"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في قرص التين (2 مل 7:20) أنه وحده علة شفائه، ولا حسب هذه الثمرة هي مصدر شفاء"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسده، بل مجد الله، شاكرًا إياه لخلقه التين[16]."
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير الكرمة في مواضع ليست بقليلة إلى الرب نفسه،"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتشير شجرة التين إلى الروح القدس، إذ يجعل الرب قلوب البشر مبتهجة (مز 103: 5)،"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والروح يشفيها. لقد أُمر حزقيال أن يصنع لزقة بكتلة من التين، الذي هو ثمرة الروح،"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيُشفَى. بحسب الرسول هذا الشفاء يبدأ بالحب. إذ يقول: \"ثمر"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروح"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محبة فرح سلام"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طول أناة، لطف، صلاح، إيمان، وداعة، تعفف\" (غل 5: 22-23). بسبب المسرة العظيمة التي"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذه الثمار يدعوها النبي تينًا روحيًا. لهذا يقول أيضًا ميخا: \"يجلسون كل واحدٍ"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت كرمته وتحت تينته، ولا يكون من يرعب\" (مي 4: 4). الآن، من المؤكد أن الذين"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلجأون إلى الروح ويستريحون تحته، وتحت ظل الكلمة، لن يرتعبوا ولا يخشون من يقلق"
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوب البشر[17]."
+    },
+    {
+      "section_title": "2. إشعياء يصف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب ميثوديوس"
+    },
+    {
+      "section_title": "3. علامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب على شفائه"
+    },
+    {
+      "section_title": "3. علامة من",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "8 وَقَالَ حَزَقِيَّا لإِشَعْيَا: «مَا الْعَلاَمَةُ أَنَّ الرَّبَّ يَشْفِينِي فَأَصْعَدَ فِي الْيَوْمِ الثَّالِثِ إِلَى بَيْتِ الرَّبِّ؟» 9 فَقَالَ إِشَعْيَا: «هذِهِ لَكَ عَلاَمَةٌ مِنْ قِبَلِ الرَّبِّ عَلَى أَنَّ الرَّبَّ يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ: هَلْ يَسِيرُ الظِّلُّ عَشْرَ دَرَجَاتٍ أَوْ يَرْجعُ عَشْرَ دَرَجَاتٍ؟». 10 فَقَالَ حَزَقِيَّا: «إِنَّهُ يَسِيرٌ عَلَى الظِّلِّ أَنْ يَمْتَدَّ عَشْرَ دَرَجَاتٍ. لاَ! بَلْ يَرْجعُ الظِّلُّ إِلَى الْوَرَاءِ عَشْرَ دَرَجَاتٍ!». 11 فَدَعَا إِشَعْيَا النَّبِيُّ الرَّبَّ، فَأَرْجَعَ الظِّلَّ بِالدَّرَجَاتِ الَّتِي نَزَلَ بِهَا بِدَرَجَاتِ آحَازَ عَشْرَ دَرَجَاتٍ إِلَى الْوَرَاءِ."
+    },
+    {
+      "section_title": "3. علامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْعَلاَمَةُ أَنَّ الرَّبَّ يَشْفِينِي فَأَصْعَدَ فِي الْيَوْمِ الثَّالِثِ إِلَى"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَيْتِ الرَّبِّ؟ [8]"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِشَعْيَا: هَذِهِ لَكَ عَلاَمَةٌ مِنْ قِبَلِ الرَّبِّ عَلَى أَنَّ الرَّبَّ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَلْ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَسِيرُ الظِّلُّ عَشَرَ دَرَجَاتٍ أَوْ يَرْجِعُ عَشَرَ دَرَجَاتٍ؟ [9]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظهر شوق حزقيا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك للشفاء وإطالة عمره من طلبه علامة من الرب أنه يحقق له ما وعده به عن طريق"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل الله إشعياء النبي. يرى البعض أن هذه العطية وُهبت له، لأنه لم يكن لدى حزقيا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن يستلم العرش، إذا استلم ابنه العرش وهو في اثنتي عشرة سنة من عمره (2 مل 21: 1)، أي وُلد خلال هذه الخمسة عشر عامًا. وإن كان للأسف قد أفسد منسى الأعمال"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصالحة في الرب التي حققها أبوه حزقيا. فإصرار حزقيا على هذا الطلب لم يكن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للبنيان. هذا، ومن جانب آخر إذ شُفي الملك وجاء مندوبو ملك بابل يقدمون له هدايا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويكرمونه سقط في كبرياءٍ باطل كما نرى في هذا الأصحاح. وكأنه يليق بنا أن تكون"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلباتنا حسب مشيئة الله، نُسَلِّمه أمورنا، لأننا لا نعرف ما هو لبنياننا وبنيان"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآخرين."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلب حزقيا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك علامة أخرى من الرب على أنه يفعل ما تكلم بخصوص شفائه."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا: إِنَّهُ يَسِيرٌ عَلَى الظِّلِّ أَنْ يَمْتَدَّ عَشَرَ دَرَجَاتٍ."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ! بَلْ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرْجِعُ الظِّلُّ إِلَى الْوَرَاءِ عَشَرَ دَرَجَاتٍ! [10]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُسمى مزولة"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحاز \"بدرجات آحاز\" أو \"سلم آحاز\"، فقد كانت مزولة المصريين في ذلك العصر عبارة عن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلالم صغيرة يصعد عليها الظل وينزل."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكننا أن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نستنتج مما ورد في (2 أي 32: 31) أن هذا الحدث فائق للطبيعة. لذلك بلغ خبره إلى"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البابليين الذين انشغلوا بالفلك، وكانوا يعبدون الكواكب، ويهتمون بتحركاتها. فقد"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدركوا أن أمرًا غريبًا غير طبيعي قد حدث في تحركات الكواكب، وإذ بحثوا الأمر سمعوا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عما حدث مع حزقيا الملك، وأبلغوا ملكهم بذلك[18]."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدَعَا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِشَعْيَاءُ النَّبِيُّ الرَّبَّ،"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَرْجَعَ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظِّلَّ بِالدَّرَجَاتِ الَّتِي نَزَلَ بِهَا بِدَرَجَاتِ آحَازَ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَشْرَ"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَرَجَاتٍ إِلَى الْوَرَاءِ. [11]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمع الله لصلاة"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا، وتطلع إلى دموعه، وتذكر وعده مع داود أبيه، إذ يذكر الله عهده مع الأب لدى"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبنائه (خر 20: 5؛ مز 89: 28-29). أعطاه سؤل قلبه، ما نطق به بلسانه وما تحدث به"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقلبه: وهبه طول العمر، وخلاصًا من ملك أشور، وحماية عن مدينته أو عاصمة مُلْكِه"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطاه الرب"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علامة كطلبه، فقد اختلف حزقيا عن أبيه الشرير الذي رفض أن يطلب علامة من الله (إش 7: 10-12)."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله أب كل"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنوار يُحرِّك الشمس ويوجهها لأجل بنياننا. جاءت العلامة الإلهية لتأكيد تحقيق"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوعد الإلهي هكذا: رجوع الشمس عشر درجات [8، 9]. يرى البعض أنها مجرد تراجع للظل على"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدرجات التي تقود إلى \"بلكونة\" في القصر أو تقود إلى العلية. ويرى البعض أنها كسوف"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للشمس حدث في 11 يناير 689 ق.م.[19]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمس هي المقياس الصادق للزمن، وهي في يد الله محرِّك التاريخ والأحداث والزمن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه، استخدمها علامة في أيام يشوع (يش 10: 12)، وأيضًا في أيام حزقيا، وعند صُلب"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رب المجد، وقبل مجيئه الأخير حيث تظلم الشمس."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاستجابة لصلاة"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء النبي من أجل حزقيال أوقف الرب قوانين الطبيعة، وعاد بالزمن إلى الوراء، هذا"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي كان يُقاس برجوع درجات الشمس."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل: \"الآمر"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشّمس فلا تشرق، ويختم على النجوم\" (أي 9: 7). لا يتوقع أحد ما ألا تشرق الشمس في"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موعدها، إذ وضع لها الرب قوانين ثابتة. لكنه إن شاء فلا تشرق. مرة أمر أن تقف لخدمة"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبه فوقفت (يش 10: 12). ما حدث في أيام يشوع بن نون يعلن عمل الله العجيب خلال"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خدامه، وكما يقول"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أثناسيوس الرسولي",
+      "text": "القديس أثناسيوس الرسولي: [إن كانت الشمس قد توقفت في"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبعون، والقمر في وادي إيلون إلاَّ أن هذا العمل ليس عمل ابن نون، بل عمل الرب الذي"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمع الصلاة، هذا الذي انتهر البحر، وعلى الصليب جعل الشمس تظلم (مت 27: 45)[20].]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا أيضًا بالنسبة للنجوم، فهو وحده يقدر أن يختمها أو يخفيها عن أعيننا. الله"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإرادته يحفظ نظام سير الطبيعة كامتداد لعملية الخلق، وكعمل من أعمال العناية"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعَلِّق"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم عن العلامات العجيبة التي صنعها الرب، سواء في العهد"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديم أو في العهد الجديد، كيف يُغيِّر طبيعة الأشياء. فقد غيَّر طبيعة البحر (يو 14: 12)، وغيَّر أشعة الشمس هنا، وأوقف الشمس والقمر (يش 10: 13)، وطبيعة أتون النار"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(دا 3)، وطبيعة الأسود الجائعة (دا6: 22). لكن ما هو أعظم من الكل ما يفعله في"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طبيعة الإنسان، إذ يقول لموسى النبي: \"أنا جعلتك إلهاً لفرعون\" (خر 7: 1) [إنه"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجهنا لنبني أنفسنا هيكلاً له. وإن كنت لم تخلق السماء لكنك تُوجد هيكل الله (1 كو 6: 19)، فإن السماء معروفة أنها مسكنه حيث يسكن الله فيها. نحن أيضاً سماء بالمسيح، يقول الكتاب: [أقامنا وأجلسنا معه على يمينه] (راجع أف 2: 6) ووهبنا أن نعمل"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعمالاً أعظم مما عمله[21].]"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف يمكن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للظل أن يتراجع؟"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الواضح أن"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا كان معجزة. فلو كانت العلامة يسهل تحقيقها، فلن تكون علامة على تأكيد كلام"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله [10]، وأية محاولة لتفسير ما حدث تكون مجرد استنتاج. الله يمكنه"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسخير الطبيعة لتحقيق مشيئته ويمكن تحقيق إرادته بطريقة تتحدى التفسيرات الطبيعية."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله يصنع المعجزات وهذه إحدى معجزاته[22]."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل بخصوص مزامير المصاعد الخمسة عشر (مز 120-134)،"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن حزقيا الملك الذي شُفي،"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في بهجته بعمل الله العجيب معه نظَّم عشرة مزامير ليقارنها بعشرة درجات دوران"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمس، العلامة التي قدَّمها إشعياء النبي إليه بأن الرب يشفيه [8-1]؛ (إش 38). أضيف إليها أربعة مزامير كتبها داود النبي ومزمور كتبه سليمان الحكيم، ليصير"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المجموع خمسة عشر مزمورًا تقابل الخمس عشرة سنة التي أضافها الرب لحياة حزقيا[23]."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُقال إن مزامير المصاعد هي تذكار للسنوات الخمس عشرة التي ذهبت لحزقيا بعد مرضه [8-11]."
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت هذه"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزامير تُنشَد بواسطة الكهنة عند صعودهم درجات الهيكل الخمس عشرة كل عام أثناء"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عيد المظال. (سبع درجات تؤدي إلى الدار الخارجية، وثماني درجات إلى الدار"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الداخلية). كما قيل إن فرق التسبيح المكونة من اللاويين كانت تقف على كل درجة"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتُرنِّم أحد هذه المزامير كجزءٍ من الخدمة الدينية. ويتطلع كثير من الآباء إلى هذه"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزامير أو التسابيح بكونها السلم الروحي، الذي تصعد خلاله النفس في الإلهيات،"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من مرحلة إلى أخرى. تنطلق نحو حضن الآب وتستقر فيه، ترتفع \"مِنْ مَجْدٍ إِلَى مَجْدٍ\"(*). إنها"
+    },
+    {
+      "section_title": "يَفْعَلُ الأَمْرَ الَّذِي تَكَلَّمَ بِهِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصعد من أرض الغربة، وتتجه نحو أورشليم العليا."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلادان البابلي له"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي ذَلِكَ"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزَّمَانِ أَرْسَلَ بَرُودَخُ بَلاَدَانُ بْنُ بَلاَدَانَ مَلِكُ بَابِلَ"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَسَائِلَ،"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَدِيَّةً"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى حَزَقِيَّا،"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَمِعَ أَنَّ حَزَقِيَّا قَدْ مَرِضَ [12]"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأينا أن بعض"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدارسين يعتقدون بأن خبر شفاء حزقيا الملك انتشر في بابل بسبب تتبع حكماء لحركات"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكواكب، وإدراكهم أن أمرًا غريبًا قد حدث، وإذ تساءلوا سمعوا عن العلامة التي"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُعطيت لحزقيا الملك لتأكيد شفائه بقوة إلهية."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما كان بعض"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود يعملون كخصيان أي كبار الموظفين في القصر الملكي البابلي قبل أن تصير بابل"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إمبراطورية عظيمة تستولي على أشور، وقبل حدوث"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي البابلي"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليهوذا[24]."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برودخ بلادان"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا هو نفسه مردوخ للادان الملك الكلداني الذي حكم مرتين (721-710؛ 703 ق. م)،"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكان يحمل عداوة مستمرة لأشور، انهزم أمام أشور مرتين، وطُرِدَ من بابل. بعث هذه"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإرسالية لحزقيا غالبًا لكي ما يقيم تحالفًا مع يهوذا ضد أشور، خاصة وأنه سمع عن"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلاص حزقيا العجيب من جيش أشور (2 أي 32: 31)."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفقًا لتسلسل"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأحداث الذي ذُكر في [12-15]، أتى الوفد الذي أرسله بردوخ بلادان (انظر"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إش 39: 1) لزيارة حزقيا بعد غزو سنحاريب عام 701 ق.م. ومع ذلك وبحسب الأدلة"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التاريخية، هرب بردوخ بلادان إلى عيلان Elan"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن طُرِدَ من بابل سنة 702 ق. م بواسطة سنحاريب. كيف يتفق التسلل الزمني بين"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الآيات؟"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإجابة: إن"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقيقة وصف غزو سنحاريب الذي ذُكر في كل من سفر الملوك الثاني وإشعياء، جاء قبل وصف"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزيارة التي قام بها بردوخ بلادان. وهذا لا يعني أن هذا هو الترتيب الزمني"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأحداث. في سفر الملوك الثاني الأصحاح العشرين يبدأ بعبارة \"في تلك الأيام\". ولكن"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا لا يشير بالضرورة إلى أن الأحداث التالية حدثت في نفس التوقيت الزمني. هذه"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجملة تُسْتَخْدَم كثيرًا لإدخال مقطع جديد وهي مشابهة لعبارة \"وفي تلك الأيام"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "and it come to pass\"."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نجد هذا النوع من الاستخدام في (قض 17: 6؛ 18: 1؛ 19: 1؛ إس 1: 2). كما يمكن"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإشارة إلى أن الكلمة العبرية \"hem\""
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن ترجمتها هنا \"تلك those\""
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما يمكن أيضًا أن تعطي معنى \"هذه these\"."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحدد السياق أي منهما يستخدم. فيمكن ترجمة هذه العبارات إلى \"في هذه الأيام"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In these days\"."
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزيارة التي"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وردت في [12-15] حدثت بالفعل قبل غزو سنحاريب الذي ورد في (2 مل 18-19)،"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهذا يؤكد صحة حقيقة أن الملك حزقيا مات فيما بين (698-696 ق.م.) وبما أن الله قد"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمد عمره 15 سنة، فهذا يعني أن وقت مرض حزقيا كان حوالي عام 713 ق. م. وهذا التاريخ"
+    },
+    {
+      "section_title": "4. تكريم برودخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزمني يتفق مع زيارة الوفد الذي أرسله بردوخ بلادان الذي طرده سنحاريب عام 702 ق.م[25]."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكبرياء الباطل"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَمِعَ"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُمْ حَزَقِيَّا، وَأَرَاهُمْ كُلَّ بَيْتِ ذَخَائِرِهِ،"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْفِضَّةَ وَالذَّهَبَ وَالأَطْيَابَ وَالزَّيْتَ الطَّيِّبَ،"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلَّ"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَيْتِ أَسْلِحَتِهِ وَكُلَّ مَا وُجِدَ فِي خَزَائِنِهِ."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَمْ يَكُنْ"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَيْءٌ لَمْ يُرِهِمْ إِيَّاهُ حَزَقِيَّا فِي بَيْتِهِ وَفِي كُلِّ سَلْطَنَتِهِ."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد سمات"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكتاب المقدس أنه يستعرض أحيانًا أخطاء أبطال الإيمان مثل إبراهيم وداود وحزقيا."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحكمة روحية وتواضع واتكال على الله خلص حزقيا من جيش أشور، وبجهالة صار أسيرًا لحب"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظهور، فعرض كل ما في خزائنه وكل بيت ذخائره وكل بيت أسلحته للغرباء."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما كان حزقيا في ضيقٍ، انظروا ماذا فعل لأجل خلاصه؛ لقد لبس المسوح وما إلى ذلك،"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما كان في وسعٍ سقط في كبرياء قلبه (2 مل 19: 20). لهذا يقول الكتاب المقدس:"
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذا \"أَكَلْتَ وَشَبِعْتَ، فَاحْتَرِزْ\" (تث 6: 11-12)[26]."
+    },
+    {
+      "section_title": "5. سقوط حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدِّيس يوحنا الذهبيّ الفم"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له على كبريائه"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "14 فَجَاءَ إِشَعْيَا النَّبِيُّ إِلَى الْمَلِكِ حَزَقِيَّا وَقَالَ لَهُ: «مَاذَا قَالَ هؤُلاَءِ الرِّجَالُ؟ وَمِنْ أَيْنَ جَاءُوا إِلَيْكَ؟» فَقَالَ حَزَقِيَّا: «جَاءُوا مِنْ أَرْضٍ بَعِيدَةٍ، مِنْ بَابِلَ» 15 فَقَالَ: «مَاذَا رَأَوْا فِي بَيْتِكَ؟» فَقَالَ حَزَقِيَّا: «رَأَوْا كُلَّ مَا فِي بَيْتِي. لَيْسَ فِي خَزَائِنِي شَيْءٌ لَمْ أُرِهِمْ إِيَّاهُ». 16 فَقَالَ إِشَعْيَا لِحَزَقِيَّا: «اسْمَعْ قَوْلَ الرَّبِّ: 17 هُوَذَا تَأْتِي أَيَّامٌ يُحْمَلُ فِيهَا كُلُّ مَا فِي بَيْتِكَ، وَمَا ذَخَرَهُ آبَاؤُكَ إِلَى هذَا الْيَوْمِ إِلَى بَابِلَ. لاَ يُتْرَكُ شَيْءٌ، يَقُولُ الرَّبُّ. 18 وَيُؤْخَذُ مِنْ بَنِيكَ الَّذِينَ يَخْرُجُونَ مِنْكَ، الَّذِينَ تَلِدُهُمْ، فَيَكُونُونَ خِصْيَانًا فِي قَصْرِ مَلِكِ بَابِلَ»."
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَجَاءَ"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِشَعْيَا النَّبِيُّ إِلَى الْمَلِكِ حَزَقِيَّا وَقَالَ لَهُ:"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَاذَا"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَالَ هَؤُلاَءِ الرِّجَالُ، وَمِنْ أَيْنَ جَاءُوا إِلَيْكَ؟"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "6. تأديب الرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا: جَاءُوا مِنْ أَرْضٍ بَعِيدَةٍ، مِنْ بَابِلَ، [14]"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَاذَا رَأُوا فِي بَيْتِكَ؟"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا: رَأُوا كُلَّ مَا فِي بَيْتِي."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَيْسَ فِي"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَزَائِنِي شَيْءٌ لَمْ أُرِهِمْ إِيَّاهُ. [15]"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِشَعْيَا لِحَزَقِيَّا: اسْمَعْ قَوْلَ الرَّبِّ: [16]"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَذَا"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَأْتِي أَيَّامٌ يُحْمَلُ فِيهَا كُلُّ مَا فِي بَيْتِكَ وَمَا ذَخَرَهُ آبَاؤُكَ"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى هَذَا الْيَوْمِ إِلَى بَابِلَ."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُتْرَكُ شَيْءٌ، يَقُولُ الرَّبُّ. [17]"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما سبق فقدَّم"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء النبي للملك حزقيا رسالة إلهية مملوءة حنانًا وترفقًا (2 مل 19؛ 20: 1-11) أيضًا"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدَّم له رسالة تأديبية من قبل الرب."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت بابل في"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك الوقت دولة صغيرة، ولم يكن يتخيل أحد قط أنها تغلب أشور، وتصير إمبراطورية"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضخمة، تقتحم أورشليم وتسلب كل خزائنها وتسبي نبلاءها سنة 586 ق. م. هذا وحُمل منسى"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بن حزقيا إلى بابل بواسطة ملك أشوري (2 أي 33: 11)."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقرأ عن حزقيا ملك يهوذا أنه كان رجلاً بارًا كاملاً في كل شيء، ومشهودًا له من"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسفار المقدسة، سقط بسهمٍ واحدٍ من"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المجد الباطل،"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن تعددت فضائله. وهكذا قهر التفاخر والغرور ذاك الذي استطاع بصلاة واحدة أن"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقضي على مائة وخمسة وثمانين ألف جندي من جيش الأشوريين، بواسطة الملاك في ليلة"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدة."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سأغفل عن ذكر"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائمة فضائل هذا الملك الطويلة، مكتفيًا بواحدة منها فقط. فبعد أن حدَّد الرب ختام"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياته ويوم وفاته، نجح أن يمدها خمسة عشر عامًا بصلاة واحدة. ورجعت الشمس إلى"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوراء عشرة درجات، كانت قد تقدمتها صوب الغروب، وبعودتها بددت خطوط الظل التي تبعت"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مسارها. وبهذه المعجزة الخارقة لنواميس الطبيعة امتد النهار الواحد نهارين للعالم"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كله. ومن ثمَّ اطمأن حزقيا الملك إلى أن الرب سيهبه الشفاء وطول العمر."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن بعد علامات"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظيمة بهذا القدر لا يكاد يصدقها العقل، وبعد مثل هذه الأدلة على طيبته، اسمع ماذا"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول الكتاب المقدس عن ضروب هذا النجاح بالذات الذي قضى عليه: \"في تلك الأيام مرض"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا إلى حد الموت، وصلى إلى الرب، فكلمه وأعطاه علامة\"... تلك التي قرأنا عنها في"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السفر الرابع من الملوك، التي ذكرها إشعياء النبي بصدد رجوع الشمس إلى الوراء..."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن يقول الكتاب المقدس \"لم يُردَّ حزقيا حسبما أُنعم عليه، لأن قلبه ارتفع، فكان"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غضب عليه وعلى يهوذا وأورشليم، ثم تواضع حزقيا بسبب ارتفاع قلبه هو وسكان أورشليم،"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم يأتِ عليهم غضب الرب في أيام حزقيا\" (2 أي 24:32-26)[27]."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيُؤْخَذُ"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ بَنِيكَ الَّذِينَ يَخْرُجُونَ مِنْكَ الَّذِينَ تَلِدُهُمْ،"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَيَكُونُونَ خِصْيَاناً فِي قَصْرِ مَلِكِ بَابِلَ. [18]"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث ذلك غالباً"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل تمرد بابل على الإمبراطورية الأشورية، وقام سنحاريب بتدميرها عام 689 ق.م، أعاد"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنه آسرحدون بناء مدينة بابل، ولم يدرك أنها ستغتنم الفرصة حين يضعف ملوك أشور"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتصبح أمة صغيرة وبعد سنوات تتمرد ثانية على أشور وتصير القوة العظمى في العالم بعد"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تقضي على أشور عام 612 ق.م."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اهدأ يا من تفتخر بنفسك، لا تتبجح! فإن كانت ثروتك ترفع قلبك، فهي ليست بأكثر من"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثروة حزقيا، الذي تمادَى وتشامخ بها أمام البابليين، فحُملت كلها إلى بابل."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كنت تفتخر"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأبنائك، فسيُقادون من عندك إلى الوحش كأبناء حزقيا الملك الذين اقتيدوا بعيدًا،"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصاروا خصيان في قصر ملك بابل [18]؛ (إش 39: 7)."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإن كنت تفتخر"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحكمتك، فإنك في هذا لا تفوق رئيس صور، إذ قيل له: \"هَا أَنْتَ أَحْكَمُ مِنْ دَانِيآلَ! سِرٌّ مَا لاَ يَخْفَى عَلَيْكَ\" (حز 28: 3)."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإن ارتفع عقلك متكلاً على عمرك أنك كثير السنوات، فعددها ليس بأكثر من سني رئيس صور الذي حكم المملكة خلال أيام (الكثير من ملوك) من بيت يهوذا... وإذ كانت سنوات ملك صور كثيرة لذلك قال في قلبه طوال هذا الوقت: \"[أنا إله، وفي كرسي الله أجلس في قلب البحار] (حز 28: 2). لكن حزقيال قال له: \"أنت إنسان لا إله\" (حز 28: 2). فبينما كان رئيس صور"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين حجارة النار يتمشى (حز 28: 14) كانت الرحمة تحل عليه. ولكنه عندما تشامخ قلبه"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار \"الكروب المظلل (وقد) حطَّمه\"[28]."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "قول آبائي",
+      "father_name": "الحكيم أفراهاط",
+      "text": "أفراهاط"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مَثَلِ الغني، كان يفتخر بزيادة حقوله، لكن الله قال له: \"يا غبي، هذه الليلة"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُطلب نفسك منك، فهذه التي أعددتها لمن تكون؟\" (لو 12: 20) بنفس الطريقة عندما سمع"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك من إشعياء المصير المؤلم لمملكته بعد أن مجَّد نفسه أمام مبعوثي بابل"
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعرض كنوزه وودائعه الثمينة[29]."
+    },
+    {
+      "section_title": "فَقَالَ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التأديب"
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ حَزَقِيَّا لإِشَعْيَا: «جَيِّدٌ هُوَ قَوْلُ الرَّبِّ الَّذِي تَكَلَّمْتَ بِهِ»."
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَالَ: فَكَيْفَ لاَ، إِنْ يَكُنْ سَلاَمٌ وَأَمَانٌ فِي أَيَّامِي؟ [19]"
+    },
+    {
+      "section_title": "7. تأجيل تحقيق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَيِّدٌ"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ قَوْلُ الرَّبِّ الَّذِي تَكَلَّمْتَ بِهِ."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتأكيد لم يُسر حزقيا البار أن كارثة السبي ستحِّل على بنيه، لكنه لم يستطع أن"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعارض إرادة الله، ولهذا استقبل أوامر الله بصبرٍ كخادمٍ متواضعٍ. هكذا يمكن للشخص"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يقبل هذا الاستحقاق ويشهد بفضيلته حتى وهو في السبي. فإرميا لم تقل سعادته في"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي (إر 37-38)، ولا دانيال (دا 1: 6)، ولا عزرا (عز 7: 6)، ولا حنانيا وعزاريا"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وميصائيل لم تكن سعادتهم أقل مما لو لم يسقطوا في السبي (تتمة دا 3: 19-96) [سبعينية]."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد دخلوا"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي بطريقة حتى يجلبوا للشعب تعزيات في السبي مع الرجاء في الخروج منه[30]."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا يعني"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك بقوله عن تأديب الرب له وللشعب: \"جيد هو قول الرب الذي تكلمت به\"؟"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوى أن حزقيا أدرك خطأه في تصرفه مع إرسالية بابل، وفي تواضعٍ انحنى لتأديب الرب."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع قبول حزقيا"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تأديب الرب للأُمة كلها بسبب خطاياه، لكن يبدو أنه لم يبالِ بذلك ما دام التأديب يحل"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد موته. نظرة مؤلمة قصيرة المدى، فالقائد الناجح هو الذي يتطلع إلى الأجيال"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القادمة، ويهتم بها."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يبتعد القلب عن فحص ذاته، لا يدرك الخسائر التي يعاني منها، أو يتعرف على"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطورتها. فإن حزقيا لم يدرك إنه أخطأ عندما استعرض كنوزه للغرباء. عندما نخطئ في"
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القلب، يصير ما نفعله داخل أنفسنا مخفيًا عن البشر، لكننا نخطئ في عيني الله[31]."
+    },
+    {
+      "section_title": "حَزَقِيَّا لإِشَعْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البابا غريغوريوس (الكبير)"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستلام منسى المملكة"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "20 وَبَقِيَّةُ أُمُورِ حَزَقِيَّا وَكُلُّ جَبَرُوتِهِ، وَكَيْفَ عَمِلَ الْبِرْكَةَ وَالْقَنَاةَ وَأَدْخَلَ الْمَاءَ إِلَى الْمَدِينَةِ، أَمَا هِيَ مَكْتُوبَةٌ فِي سِفْرِ أَخْبَارِ الأَيَّامِ لِمُلُوكِ يَهُوذَا؟ 21 ثُمَّ اضْطَجَعَ حَزَقِيَّا مَعَ آبَائِهِ، وَمَلَكَ مَنَسَّى ابْنُهُ عِوَضًا عَنْهُ."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَقِيَّةُ"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُمُورِ حَزَقِيَّا وَكُلُّ جَبَرُوتِهِ،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَيْفَ"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَمِلَ الْبِرْكَةَ وَالْقَنَاةَ،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَدْخَلَ"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَاءَ إِلَى الْمَدِينَةِ،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَا هِيَ مَكْتُوبَةٌ فِي سِفْرِ أَخْبَارِ الأَيَّامِ لِمُلُوكِ يَهُوذَا. [20]"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حفر حزقيا قناة"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين نبع جيحون وبركة سلوام، لكي يحصل على ماء في الجانب الشرقي من"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سور أورشليم، هذا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإمداد له أهميته، خاصة إذا ما سقطت أورشليم في حصار."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اضْطَجَعَ حَزَقِيَّا مَعَ آبَائِهِ،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنَسَّى ابْنُهُ عِوَضاً عَنْهُ. [21]"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حزقيا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رمزًا للسيد المسيح، يُقدِّم لنا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "الحكيم أفراهاط",
+      "text": "أفراهاط صورة مبسطة لهذا الرمز مع"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقارنة بينهما."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا اُضطهد، كما أن يسوع اُضطهد."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا اُضطهد،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأهانه سنحاريب عدوه. يسوع أيضًا أهانه الشعب الغبي."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا صلى وغلب"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خصمه، وبصليب يسوع انهزم خصمنا."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حزقيا ملك"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل، ويسوع هو ملك كل الأمم."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كان حزقيا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مريضًا، رجعت الشمس (درجات)، ولأن يسوع تألم أظلمت الشمس من نورها."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار أعداء"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا جثثًا ميتة، وسيُطرح أعداء يسوع تحت قدميه."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حزقيا من"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عائلة بيت داود، ويسوع هو ابن داود حسب الجسد."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال حزقيا:"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"سلام وأمان في أيامي\" [19] وقال يسوع لتلاميذه: [سلامي أتركه لكم] (يو 14: 27)."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صلى حزقيا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فشُفي من مرضه، وصلى يسوع وقام من مسكن الأموات."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا بعد"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيامه من مرضه أضاف إلى سنواته، ويسوع بعد قيامته نال مجدًا عظيمًا."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا بعد"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إطالة عمره ملك الموت عليه، أما يسوع فبعد قيامته لا يُعطي للموت سلطان إلى الأبد[32]."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "الحكيم أفراهاط",
+      "text": "أفراهاط"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 20"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أتحدَّى"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسد، وبدونك تخدعني الحية!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كشف العدو عن أنيابه كأسد مفترس،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مزَّق حزقيا"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك ثيابه، وانسحق أمام الله."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لجأ إلى رجل"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله ليسنده بصلواته!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسد الذي"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حطَّم ممالك كثيرة،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحسب نفسه"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادرًا أن يتحدَّى الله الحي،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انهار تمامًا،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يستطع أن يدخل"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة الله."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد قوة جيشه"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدون الدخول في معركة."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاد الأسد،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنحاريب، بعد أن صار أضحوكة أمام الأمم."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحوَّل ابناه"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللذان من دمه إلى العداوة."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اغتالا أبيهما"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو ساجد أمام إلهه الوثن!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي يا رب روح القوة فلا أرتعب من زئير الأسد."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتجول إبليس"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كل مكان، فإنه ليس له موضع في قلبي."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث تسكن فيّ،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تقدر مملكة الظلمة أن تتسلل داخلي!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أتحدى إبليس"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي سحقته بصليبك!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هوذا المرض ينهش بأنيابه جسمي الضعيف."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحكم الطبيعة"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا أستطيع مقاومة مرض خطير!"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن أنت الطبيب"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماوي،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطانك أعظم من"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل النواميس الطبيعية."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسمح بالمرض،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتشفي بقوتك."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترد الحياة،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتبارك كل ثانية من ثواني عمري."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تضيف إلى حياتي"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا خمسة عشر عامًا كهبة إلهية،"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل تهبني"
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياتك، فأختبر عربون الأبدية."
+    },
+    {
+      "section_title": "8. موت حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتغنى مع"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أين شوكتك يا"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موت؟! أين غلبتك يا هاوية؟!"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لستُ أطلب شفاءً جسديًا،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا طول عمرٍ"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على هذه الأرض."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما هبْ لي"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكوتك المقدس في أعماقي."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُدْ حياتي في"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القداسة التي لك."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي أن"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتمتع بك يا أيها الطريق والحق والحياة."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن حياة شعبك كله في يديك."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت تقود"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكنيسة بروحك، وتهبها قوة وحبًا وتواضعًا!"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأسف اهتم"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا أن تكون حياته مملوءة سلامًا،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يبالِ بما"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيحل في الأجيال القادمة بعده."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لكنيستك"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبًا فتحتضن الأجيال كلها."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لكنيستك"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلامًا وعونًا حتى تأتي إلينا سريعًا على السحاب!"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إننا في انتظار"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظهورك على السحاب."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متى تأتي"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتقيمنا وتحملنا إلى حضن أبيك؟!"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Lecture 2: 15."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Tertullian against Marcion, Book 2, ch. 17."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on the Canticle of"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hezekiah, 5: 1-2."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11 [38: 1-3.]."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Matthew, 53:6-7."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[6] Tertullian against Marcion, Book 4, ch. 11."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On the Resurrection, 58."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Jeremiah, homily 3:49."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Oration, 39."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Concerning Widows, 6."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآباء الحاذقون في العبادة ج 2، ص 186."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Orthodox Study Bible."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Literal meaning of Genesis 6:17."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cassian: Conference 17:25."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Jerome: Letters, 38:1."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Long Rules, Q. 55."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Banquet of the Ten Virgins, 10: 5."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[18]William"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Madonald Believer's Bible Commentary, 1995, p. 415."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "R.E. Clements, p. 291."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Paschal Ep. 29."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[21] On Ps. 12."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[22] When Critics ask: A popular"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "handbook on Bible difficulties. Wheaton،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "III.: Victor Books. Geisler،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "N. L.، & Howe،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "T. A. ."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "J.R. Church: Hidden Prophecies in the Psalms, p. 337. (W. W. Wiersbe:"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Chapter-by-Chapter Bible Commentary, Thomas Nelson Publishers, Nashville 1994, p 394.)"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: (2 كو 3: 18)."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: (2 كو 3: 18)."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "William Madonald Believer's Bible Commentary, 1995, p. 415."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[25] When Critics ask: A popular"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "handbook on Bible difficulties. Wheaton،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "III.: Victor Books. Geisler،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "N. L.، & Howe،"
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "T. A. ."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[26] Homilies on Acts of Apostles, 16."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤسسات لنظام الشركة 11: 10."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstrations, 5:7 (Of Wars)."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Against Marcion, 4: 28."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Jacob ad the Happy Life, 8:36."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Orthodox Study Bible."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[32] Demonstration 21:16."
+    },
+    {
+      "section_title": "الرسول بروح النصرة والتهليل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 20 من سفر الملوك الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/27v56zd"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/27v56zd"
     }
   ]
 }

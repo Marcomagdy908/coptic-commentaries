@@ -1,17 +1,4301 @@
 {
-  "book_id": 23,
+  "book_id": "proverbs",
   "book_title": "تفسير سفر الأمثال",
   "chapter_number": 26,
   "chapter_title": "الأصحاح 26",
-  "topic": "",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "topic": "الأصحاح 26",
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "الجاهل",
+      "verses": "1 -12"
+    },
+    {
+      "number": 2,
+      "title": "الكسلان",
+      "verses": "13 -16"
+    },
+    {
+      "number": 3,
+      "title": "التدخل فيما لا يعنينا",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "الخداع",
+      "verses": "18 -19"
+    },
+    {
+      "number": 5,
+      "title": "النميمة",
+      "verses": "20 -22"
+    },
+    {
+      "number": 6,
+      "title": "اللسان الشرير",
+      "verses": "23 -25"
+    },
+    {
+      "number": 7,
+      "title": "المكر",
+      "verses": "26 -28"
+    }
+  ],
+  "sections_count": 709,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "فئات يلزم تجنبها!"
+      "text": "فئات يلزم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجنبها!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم لنا هذا الأصحاح فئات"
+    },
+    {
+      "section_title": "أولًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجهال أو"
+    },
+    {
+      "section_title": "أولًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحمقى [1-12]، الذين يقاومون الحق الإلهي في عنادٍ، ويصرون على عدم التوبة. هؤلاء"
+    },
+    {
+      "section_title": "أولًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصعب تغييرهم [8]، ما لم يدركوا حماقتهم، ويريدون أن يتخلوا عنها بعمل النعمة"
+    },
+    {
+      "section_title": "أولًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية. إنهم لا يقبلون النصح، ولا يفيدهم المديح والتشجيع."
+    },
+    {
+      "section_title": "ثانيًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكسالى"
+    },
+    {
+      "section_title": "ثانيًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[13-16]، الذين يقدمون لأنفسهم مبررات لتراخيهم وإهمالهم وعدم مبالاتهم، فلا ينمون"
+    },
+    {
+      "section_title": "ثانيًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يتقدمون [14]. يستصعب الكسلان أن يخدم نفسه حتى أن يمد يده ليأكل [15]. مثل"
+    },
+    {
+      "section_title": "ثانيًا: فئة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا من يود أن يعينه في شيء، يفسد وقته باطلًا."
+    },
+    {
+      "section_title": "ثالثًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فئة مثيري الخصام [17-18]. تضم هذه الفئة"
+    },
+    {
+      "section_title": "ثالثًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتطفلين"
+    },
+    {
+      "section_title": "ثالثًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[17]، والمازحين [18-19]، والنمامين [20-22]، والمخادعين [23-28]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 كَالثَّلْجِ فِي الصَّيْفِ وَكَالْمَطَرِ فِي الْحَصَادِ، هكَذَا الْكَرَامَةُ غَيْرُ لاَئِقَةٍ بِالْجَاهِلِ. 2 كَالْعُصْفُورِ لِلْفَرَارِ وَكَالسُّنُونَةِ لِلطَّيَرَانِ، كَذلِكَ لَعْنَةٌ بِلاَ سَبَبٍ لاَ تَأْتِي. 3 اَلسَّوْطُ لِلْفَرَسِ وَاللِّجَامُ لِلْحِمَارِ، وَالْعَصَا لِظَهْرِ الْجُهَّالِ. 4 لاَ تُجَاوِبِ الْجَاهِلَ حَسَبَ حَمَاقَتِهِ لِئَلاَّ تَعْدِلَهُ أَنْتَ. 5 جَاوِبِ الْجَاهِلَ حَسَبَ حَمَاقَتِهِ لِئَلاَّ يَكُونَ حَكِيمًا فِي عَيْنَيْ نَفْسِهِ. 6 يَقْطَعُ الرِّجْلَيْنِ، يَشْرَبُ ظُلْمًا، مَنْ يُرْسِلُ كَلاَمًا عَنْ يَدِ جَاهِل. 7 سَاقَا الأَعْرَجِ مُتَدَلْدِلَتَانِ، وَكَذَا الْمَثَلُ فِي فَمِ الْجُهَّالِ. 8 كَصُرَّةِ حِجَارَةٍ كَرِيمَةٍ فِي رُجْمَةٍ، هكَذَا الْمُعْطِي كَرَامَةً لِلْجَاهِلِ. 9 شَوْكٌ مُرْتَفِعٌ بِيَدِ سَكْرَانٍ، مِثْلُ الْمَثَلِ فِي فَمِ الْجُهَّالِ. 10 رَامٍ يَطْعَنُ الْكُلَّ، هكَذَا مَنْ يَسْتَأْجِرُ الْجَاهِلَ أَوْ يَسْتَأْجِرُ الْمُحْتَالِينَ. 11 كَمَا يَعُودُ الْكَلْبُ إِلَى قَيْئِهِ، هكَذَا الْجَاهِلُ يُعِيدُ حَمَاقَتَهُ. 12 أَرَأَيْتَ رَجُلًا حَكِيمًا فِي عَيْنَيْ نَفْسِهِ؟ الرَّجَاءُ بِالْجَاهِلِ أَكْثَرُ مِنَ الرَّجَاءِ بِهِ."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدأ هذا الأصحاح بالحديث عن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجاهل، وكما سبق أن رأينا في"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دراستنا لسفر الحكمة كما في"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر الأمثال، أنه لا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقصد بالجاهل من يعاني من العجز في القدرة العقلية. إنما الإنسان الأحمق، أي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير الذي لا يسلك بروح الاستقامة، فهو يلهو في الخطية، رافضًا الحكمة الحقيقية."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قد يكون الأحمق متعلمًا، وعلى درجة عالية من الثقافة، لكن كما يقول المرتل:"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قال الجاهل في قلبه لا إله\" (مز 14: 1)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلمة العبرية المقابلة"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للجاهل ترجمتها \"مخبول\"."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَالثَّلْجِ فِي الصَّيْفِ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَالْمَطَرِ فِي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْحَصَادِ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا الْكَرَامَةُ غَيْرُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَئِقَةٍ بِالْجَاهِلِ [1]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثلج نافع في وقته المناسب،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي في الشتاء، لكنه مضر إن سقط في الصيف، والمطر نافع بعد البذر، لكنه مُتلف إن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقط أثناء"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحصاد، هكذا الأحمق لا يعرف الوقت المناسب لأفكاره وكلماته وسلوكه،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيسلك بلا تدبير ويحطم نفسه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان الأحمق وإن كان يشتهي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المجد الباطل والكرامة الزمنية، لكنه متى نال مركزًا قياديًا ويصير له سلطان"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكرامة، فإن الكرامة تحطمه كما يحطم الثلج إذا سقط صيفًا في وقت"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحصاد، أو انهالت"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمطار غزيرة أثناء"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحصاد. إنه لا يعرف كيف يستخدم السلطان ويدبر الأمور في وضعها"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللائق، وكما يقول عنه المرتل: \"الإنسان في كرامة لا يبيت، يشبه البهائم التي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تباد\" (مز 49: 12)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى القدِّيس باسيليوس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن عمل الحيَّة أي الشيطان هو إفساد طبيعتنا فلا ننظر إلى فوق بل ننحني كالحيوانات"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحو التراب نطلب الأرضيات، لذا ينصحنا، قائلًا: [لأن رأس البهائم تتطلَّع نحو"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرض، أما رأس الإنسان فقد خُلقت لتنظر نحو السماء، وعيناه تتَّجهان إلى فوق،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا يليق بنا أن نطلب ما هو فوق، وببصيرتنا نخترق الأرضيَّات.]"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إني أعرض عليك الاهتمام بأمر"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آخر يليق بك: اُطلب الأشياء السامية، حيث المسيح قائم (كو 3: 1). وارتفع فوق أعراض"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدنيا الفانية، وتعلَّم من تكوينك الجسدي، واجعله قانونًا لحياتك: فمدينتك هي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، ووطنك الحقيقي هو أورشليم العليا، ومواطنوك هم الأبكار، الذين كتبت"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسماؤهم في السماوات."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَالْعُصْفُورِ لِلْفَرَار،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَالسُّنُونَةِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلطَّيَرَان،ِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَذَلِكَ لَعْنَةٌ بِلاَ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَبَبٍ لاَ تَأْتِي [2]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان الأحمق يُسرع في صب"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللعنات على الآخرين بلا سبب..."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير أن من لا يثق في عناية"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله يخشى هذه اللعنات، ويظن أنها تحطمه. أما من يتكل على الله، ويحتمي به، فيدرك"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنها ليست إلا كلمات جوفاء تتبدد في الهواء، مثل العصفور الذي يطير أمام الإنسان"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يؤذيه، وكالسنونة التي تطير وتختفي من أمام وجه الإنسان. هذه اللعنات تضر الأحمق، ولا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تضر من يصبها عليهم. لقد صب جليات الجبار اللعنات، لكنها أصابته هو، فقُتل بيد"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصبي داود، وصار في خزيٍ وعارٍ."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربشاقى وسنحاريب صبا اللعنات ضد الملك الصالح حزقيا وشعبه،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فحلّ الدمار بجيشهما وتمجد الله في حزقيا الملك."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* \"كالطيور"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعصافير للطيران كذلك لعنة بلا سبب لا تأتي\". مرة أخرى يقول سليمان:"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مشيع المذمة هو جاهل\" (أم 10: 18). لكنه كالنحلة، فإنها من جهة قوتها"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهي ضعيفة، متى لدغت أحدًا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفقد"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شوكتها، وتصير عالة، هكذا بنفس الطريقة أيضًا كل أذية تمارسونها ضد الغير تُجلب"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليكم."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قوانين الرسل"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلسَّوْطُ لِلْفَرَسِ،وَاللِّجَامُ لِلْحِمَارِ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْعَصَا لِظَهْرِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجُهَّالِ [3]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يسلم الإنسان حياته لله يقوده الرب في طريقه،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واهبًا إياه روح الحكمة والفهم، وإذ يثبت المؤمن عينيه على الرب يثبت الرب عينيه"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه. أما من يرفض مشورة الله فيصير بلا فهم، ويحسبه المرتل كحيوان، لأن الفهم أو"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التعقل هو الذي يميزنا عن الحيوانات غير العاقلة. بالمسيح يسوع -حكمة الآب- نرقى"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنكون كملائكة الله، وباعتزالنا الله نفقد حتى بشريتنا!"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحتاج الخيول الجامحة"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعنيدة إلى سوط يضبط جموحها، والحمار المتعجل وغير المدرك لطريقه يحتاج إلى لجام"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لضبطه وتوجيهه، هكذا الأحمق يتسم بالجموح والتعجل في غير حكمة، فيحتاج إلى عصا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التوبيخ والضيقات لمنعه من العناد. جاء في المزامير: \"لا تكونوا كفرسٍ أو"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بغلٍ بلا فهمٍ، بلجامٍ وزمام زينته، يُكم لئلا يدنو إليك\" (مز 32: 9). وإن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يسهل ترويض الفرس والحمار، لكن يصعب ترويض الأحمق."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* بلجام وزمام يكبح فكوك الذين لا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدنون منك، لأنه تحت ضغط الظروف كما قلت يحنون بالضرورة رقابهم لله ولو بغير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرادتهم."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ تُجَاوِبِ الْجَاهِلَ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ حَمَاقَتِهِ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِئَلاَّ تَعْدِلَهُ أَنْتَ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالحكيم ألا ينزل إلى"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مستوى الأحمق فيحاربه بذات أسلوبه الساخر، وينحدر معه عن روح الهدوء والتعقل"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحكمة."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هروبك"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكون صالحًا إن كنت لا تجيب الأحمق حسب حماقته. هروبك صالح إن وجهت خطواتك بعيدًا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن ملامح الأغبياء. حقًا يمكن للشخص أن يضل سريعًا إن كانت القيادة شريرة، فإن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أردت أن يكون هروبك صالحًا، انزع طرقك من كلماتهم."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعتاد"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود ألا يجاوب العدو الذي يثيره، الخاطي الساخط عليه. يقول: \"وأما أنا فكأصم"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا أسمع، وكأبكم لا يفتح فاه\" (مز 38: 13). مرة أخرى قيل في موضع آخر: \"لا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجب الأحمق حسب حماقته، لئلا تصير مثله\". الواجب الأول هو أن يكون لك"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معيار صادق لحديثك، بهذا تقدم ذبيحة حمد لله. هكذا فإن المخافة التقية تظهر عند"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قراءة الأسفار المقدسة. بهذا يُكرم الوالدين. أنا أعرف حسنًا أن كثيرين يتكلمون"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنهم لا يعرفون كيف يمارسون الصمت. دائمًا يصمت الشخص عندما يكون الكلام غير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نافع. الإنسان الحكيم عندما يود أن يتكلم، يراعي بعين الاعتبار ماذا يقول، ولمن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجه الحديث، أيضًا أين، وفي أي وقت يتكلم؟"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات أخته القديسة ماكرينا) من الأفضل أن يبقى الإنسان صامتًا بخصوص مثل هذه الأسئلة،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتطلع بعين الاعتبار إلى حماقتهم وعجرفتهم غير الوقورة التي لا تتأهل للإجابة حيث"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمنعنا الكلمات الإلهية، قائلة: \"لا تجاوب الجاهل حسب حماقته\"."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والجاهل حسب النبي هو: \"القائل إنه لا إله (مز 53: 1)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس النيسي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَاوِبِ الْجَاهِلَ حَسَبَ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَمَاقَتِهِ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِئَلاَّ يَكُونَ حَكِيمًا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي عَيْنَيْ نَفْسِهِ [5]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو كأن هذين العددين (4، 5)"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متناقضان، لكنهما في الواقع هما متكاملان. فإنه لا يليق بنا أن نجاوب الجاهل أو"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأحمق حسب حماقته، أي بنقاش وحوار فيه روح السخرية والاستخفاف، أي حسب أسلوبه،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنكون بهذا قد انحدرنا نحن إلى مستواه الرديء بدلًا من أن ننتشله. فلا نقابل تهكمه"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتهكم، ولا نمتثل بما يحمله من روح الاستهتار. إنما لنجاوبه بروح الحزم والجدية"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأجل بنياننا وبنيانه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التزم الشعب كأمر الملك حزقيا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا يجيبوا ربشاقى الذي استخف بالله (2 مل 18: 36)، وهم بهذا تمموا نصيحة الحكيم"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في العدد 4. أما نحميا ففي حزم جاوب سنبلط الذي أراد تحطيم عمل البناء، قائلًا له:"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا يكون مثل هذا الكلام الذي تقوله، بل إنما أنت مختلقه من قلبك\" (نح 6: 8)، ورفض الدخول معه في حوارٍ كطلب سنبلط: \"هلم نتشاور معًا\" (نح 6: 7)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينما يسأل إنسان عن وجود"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تناقضات في الكتاب المقدس، فإن كان الشخص يطلب للسخرية، فالحوار معه يتحول إلى"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناقشات غبية، أما إذا كان جادًا في المعرفة فالحوار لازم، وكما يقول الرسول بطرس:"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قدسوا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب الإله في قلوبكم، مستعدين دائمًا لمجاوبة كل من يسألكم عن سبب الرجاء الذي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكم بوداعةٍ وخوفٍ\" (1 بط 3: 15)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفس الأمر إن كان الحوار مع"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملحد ينكر"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجود الله، فإن القرار بالحوار أو عدمه يتوقف على إدراكنا لنية السائل. فبرفض"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإجابة نحرص ألا ننزلق إلى حماقته، وبردنا عليه نود أن نحفظه من الحماقة التي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيطرت عليه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنا أن نتعلم حسنًا في معرفة إيماننا، حتى متى سألنا أحد عنه نكون قادرين أن نقدم"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إجابة لائقة، وأن نفعل ذلك بوداعة وفي مخافة الرب. فإن من يفعل هذا كأن الله نفسه"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاضر يسمعه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس ديديموس الضرير",
+      "text": "القديس ديديموس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الضرير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخبرنا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسول أن نكون مستعدين أن نجاوب كل من يسألنا لنشرح له إيماننا، فإن سألني غير"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مؤمن ٍ عن سبب إيماني ورجائي، وأدرك أنه لا يستطيع قبول هذا ما لم يؤمن، أقدم له"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذات السبب لكي يرى كيف أنه لأمر سخيف بالنسبة له أن يدركها دون أن يؤمن."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقرر أن يفعل هذا لا يفعل أمرًا جديدًا، ولا يقدم شرحًا ما جديدًا، بل بالحري يوضح"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للسائلين عن إيمانه في المسيح ما هو."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس السكندري"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَقْطَعُ الرِّجْلَيْن،ِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَشْرَبُ ظُلْمًا،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يُرْسِلُ كَلاَمًا عَنْ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدِ جَاهِلٍ [6]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخطئ الإنسان حين يبعث برسالة"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع رسول"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحمق، فيكون كمن قطع رجليه، وصار عاجزًا عن الحركة، أو كمن اختار أن يشرب"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من كأس سمٍ أو ظلمٍ، يسبب له هلاكًا ودمارًا. فالحكيم يطالبنا باختيار الرسول"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المناسب حين نبعث برسالةٍ إلى أحدٍ. وقد سبق فنصحنا بذلك: \"كبرد الثلج في يوم"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحصاد، الرسول الأمين لمُرسليه، لأنه يرد نفس سادته\" (أم 25: 13)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَاقَا الأَعْرَجِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُتَدَلْدِلَتَانِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَذَا الْمَثَلُ فِي فَمِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجُهَّالِ [7]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المثل الخارج من فم الأحمق لا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفع له، كمثل ساقي رجل أعرج، لا تسندانه على الحركة، إن لم تمثلا ثقلًا لجسمه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَصُرَّةِ حِجَارَةٍ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَرِيمَةٍ فِي رُجْمَةٍ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا الْمُعْطِي كَرَامَةً"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلْجَاهِلِ [8]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يكرم جاهلًا بكلمات مديح"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكون كمن يلقي بحجارة كريمة في كومة، أو يضرب بها بالمقلاع."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فمن يستخدم حجارة كريمة في مقلاع، يكون قد أساء استخدام الحجارة الكريمة وفي نفس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوقت لا يعرف أن يستخدم المقلاع."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حين امتدح الشعب هيرودس الملك"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتكبر والأحمق، قائلين: \"هذا صوت إله لا صوت إنسانٍ\" (أع 12: 22)،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للحال ضربه ملاك الرب، لأنه لم يعطِ المجد لله، فصار يأكله الدود ومات. من يعط"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرامة لأحمق إنما يسلمه سلاحًا ليدمر به نفسه."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَوْكٌ مُرْتَفِعٌ بِيَدِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَكْرَانٍ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِثْلُ الْمَثَلِ فِي فَمِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجُهَّالِ [9]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يسلم"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غصناً مملوء بالأشواك"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في يد إنسانٍ سكران، يسبب له ولمن حوله أذية، هكذا المثل الذي يخرج من فم الأحمق، حين"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحتل مركز المعلم، فإنه يدينه ولا ينتفع به هو ولا من هم حوله، بسبب عثرتهم فيه. الإنسان"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السكران لا يشعر بالألم في لحظات سكره، فيلوح بالغصن المملوء أشواكًا، ويؤذي به"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه ومن حوله، وهو يضحك ساخرًا. إنه لا يعرف في لحظات سكره كيف يستخدم ما في يده."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت كلمة الرب على فم إرميا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي ضد شمعيا: \"من أجل أن شمعيا قد تنبأ لكم وأنا لم أرسله، وجعلكم تتكلمون"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الكذب... هأنذا أعاقب شمعيا النحلامي ونسله\" (إر 29: 31-32)."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* لا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنزع خطية كل الناس بواسطة الحمل، إن كانوا لا يحزنون ولا يندمون حتى تُرفع عنهم."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذلك كالشوك، ليس فقط يُغرس، بل تصير له جذور عميقة في أيادي كل من صار سكيرًا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب الشر، وفقد وقاره. وذلك كالقول الوارد في الأمثال: \"الشوك ينمو في يد"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السكران\". فماذا يليق بنا أن نقوله بالأكثر بخصوص الكارثة الأعظم التي"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحل بذاك الذي يتقبل مثل هذه النبات (الشوك) في نفسه"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "his soul؟ فإن من يضيف شرًا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أعماق نفسه إلى مثل هذه الدرجة يلزم أن يُقطع بواسطة كلمة الله الحية الفعَّالة"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي توخزه أكثر من سيف ذي حدين، وأكثر قدرة على الحرق من أي نارٍ (عب 4: 12؛ سي 48: 1)، تلك النار التي تكشف عن الشوك."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَامٍ يَطْعَنُ الْكُلَّ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا مَنْ يَسْتَأْجِرُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجَاهِلَ،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَوْ يَسْتَأْجِرُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُحْتَالِينَ [10]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالإنسان أن يُحسن"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختيار من يعمل معه أو لحسابه، لأن استئجار أناس حمقى أو من عابري السبيل ليقوموا"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمهامٍ هامة أمر له خطورته. إذ يكون كمن يرشق سهامًا بلا وعي ولا هدف. إنه يصيب"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآخرين، كما يطعن نفسه وهو لا يدري."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَمَا يَعُودُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَلْبُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى قَيْئِه،ِ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا الْجَاهِلُ يُعِيدُ"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَمَاقَتَهُ [11]."
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يرجعون إلى حياة الشر،"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاركين الشركة مع الله، تصير أواخرهم أشر من أوائلهم. يقول الرسول بطرس:"
+    },
+    {
+      "section_title": "1. الجاهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأنه كان خيرًا لهم لو لم يعرفوا طريق البرّ من أنهم بعدما عرفوا يرتدون عن"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلب قد عاد إلى قيئه،"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخنزيره مغتسلة إلى"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مراغة"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحمأة\" (2 بط 2: 21-22)"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا لبشاعة الخطية، يجد الخاطي"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في رجاستها لذة وبهجة، بينما تعوفها نفوس الآخرين. إنها مرض خطير، تجعل ممن تصيبه"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مريضًا يحب المرض. هذا هو حال من يرجع عن الخطية إلى حين خلال اقتناعه الفكري دون"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلب عون الله ونعمته التي تجدد فكرة وقلبه وكل أعماقه. أما الذي يرتمي بالنعمة في"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحضن الإلهي، فيسمع الصوت الإلهي: خرافي تسمع صوتي، وأنا أعرفها، فتتبعني، وأنا أعطيها"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة أبدية، ولن تهلك إلى الأبد، ولا يخطفها أحد مني\" (يو 10: 27-28)."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قد يسقط حمل في الوحل، لكنه"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لن يستريح حتى يغتسل منه، أما الخنزير فبعدما يغتسل، يلقي بنفسه في الوحل، ويجد في"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القذارة سعادته."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس السكندري"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن هذا المثل ينطبق على المبتدعين الذين يخترعون الهرطقات دنسة، ويفتحون أفواههم"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد المجد الإلهي و\"يتكلمون بأمور ملتوية\" (أع 20: 30)."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيلاري أسقف آرل أن القديس بطرس يشير هنا إلى"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين نالوا العماد بعد اعترافهم بالإيمان بالمسيح يسوع، لكنهم عادوا فتركوه،"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فصاروا"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كالكلب الذي يعود إلى قيئه."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعلمون أن الذين لا يبالون بخلاصهم ويتأرجحون بين الاهتمام به ويسقطون بطيش في"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شبكة الشيطان يُقارنون في الكتاب المقدس"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالكلاب؟ تذكر القول: \"من يترك خطيته"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثم يعود إليها، هكذا يكون مثل"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلب الذي يعود إلى قيئه\"."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* فيما"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحن على هذا الحال المملوء قلقًا، لم نقدر أن"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقرر قرارًا حاسمًا نافعًا لخلاصنا.  وإنما بتنهداتنا كنا في مرارة، موبخين أنفسنا"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل تهورنا (في إعطاء الوعد) كارهين عيب طبيعتنا، شاعرين بثقل الأمر الذي لم"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكن أمامنا طريق سواه تحت إلحاح أولئك الذين أعاقونا عما هو لنفعنا وصلاحنا، وذلك"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بطلب وعد منا بالعودة سريعًا. وقد بكينا لأننا قد صنعنا هذا تحت خطأ هذا العيب"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي قيل عنه: \"كما يعود"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلب إلى قيئهِ هكذا الجاهل يعيد حماقتهُ\""
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أم 11:26)."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب يوسف"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمور يعاني منها - دون شك - رجال الكهنوت والرهبان والعذارى المتكبرون والعصاة والفاترون."
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ففي بداية حياتهم يجحدون طرق هذا العالم، وبروح ملتهبة يهربون إلى خدمة الدين"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدسة، وبنعمة الله يتخلصون من كل الخطايا. ولكن بعد ذلك لا يمتلئون بالغيرة"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب إهمالهم وكسلهم، ولا يمتلئون بالنعم الروحية بمعونة الله، فإن الرذائل التي"
+    },
+    {
+      "section_title": "الوصية المقدسة المُسلمة لهم. قد أصابهم ما في المثل الصادق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فارقتهم تجدهم فارغين، فترجع مع رذائل أخرى أكثر منها، وتلزمهم للعودة إلى قيئهم."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلب الذي يعود قيئه يكون مكروهًا، وهكذا الخاطي الذي"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعود إلى خطيته."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب قيصريوس أسقف آرل"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرَأَيْتَ رَجُلًا حَكِيمًا"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي عَيْنَيْ نَفْسِهِ؟"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّجَاءُ بِالْجَاهِلِ"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَكْثَرُ مِنَ الرَّجَاءِ بِهِ! [12]"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان الذي يظن في نفسه أنه"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكيم يغلق على نفسه، فلا يقبل مشورة أحد، ولا يطلب التعلم، وبكبريائه يهلك."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن نترجى من الجاهل المدرك جهله أن يتعلم ويخلص من حماقته أكثر ممن يظن في نفسه"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه حكيم. لذلك يقول الرسول: \"لا تكونوا حكماء عند أنفسكم\" (رو 12: 16)."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأن ما هو أخطر من الغباوة"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبرياء والاعتداد بالرأي وخداع الإنسان لنفسه، فلا يطلب الحكمة من الله، ولا"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المشورة من أحدٍ. إنه كالمريض الذي يظن أنه في صحة ولا يحتاج إلى طبيب، أو الخاطي"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يظن في نفسه أنه بار ولا يحتاج إلى المخلص."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبرياء هو الذي يرد الإنسان عن الحكمة، وبالتالي تحل الحماقة بترك الحكمة."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يزدادون"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في خطأهم بادعائهم أنهم حكماء بينما يظهرون أنهم حمقى."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيؤدورت أسقف كورش"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* يوجد شر رأيته تحت الشمس، شخص"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكيم في عيني نفسه، ويكون أكثر خطرًا أن يتولى مسئولية تعليم الآخرين شخص لا يعرف"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جهله."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النزينزي",
+      "text": "القديس غريغوريوس النزينزي"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* الشخص"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المغرور بنفسه غبي في جهله، ولا يستطيع أن يعرف حكمة الله إذ يلتصق بغباوته حاسبًا إياها حكمة."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس بالخطأ الهين أن يحسب الإنسان نفسه حكيمًا، وأن يرجع في كل الأمور إلى حكمه..."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجه بولس هذا التوبيخ عينه للفلاسفة الوثنيين: \"بينما هم يزعمون أنهم حكماء،"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاروا جهلاء\" (رو 1: 22). هذا هو علة حماقتهم يقول كاتب سفر الأمثال من"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جانبه: \"أرأيت رجلًا حكيمًا في عيني نفسه؟ الرجاء بالجاهل أكثر من الرجاء"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به\". مرة أخرى، إنه بولس الذي يعطي هذه النصيحة: \"لا تكونوا حكماء عند"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنفسكم\" (رو 12: 16)."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظنون في أنفسهم أنهم سامون ولا يكون لهم صبر كافٍ للسلوك في الطريق الذي يأمرهم"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به الله، يستغرقون في طريقه تفكير لا معني له."
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "فيتحقق عندئذ ما هو مكتوب",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "2. الكسلان",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "13 قَالَ الْكَسْلاَنُ: «الأَسَدُ فِي الطَّرِيقِ، الشِّبْلُ فِي الشَّوَارِعِ!». 14 اَلْبَابُ يَدُورُ عَلَى صَائِرِهِ، وَالْكَسْلاَنُ عَلَى فِرَاشِهِ. 15 اَلْكَسْلاَنُ يُخْفِي يَدَهُ فِي الصَّحْفَةِ، وَيَشُقُّ عَلَيْهِ أَنْ يَرُدَّهَا إِلَى فَمِهِ. 16 اَلْكَسْلاَنُ أَوْفَرُ حِكْمَةً فِي عَيْنَيْ نَفْسِهِ مِنَ السَّبْعَةِ الْمُجِيبِينَ بِعَقْل."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الأَسَدُ فِي"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطَّرِيقِ الشِّبْلُ فِي الشَّوَارِعِ\" [13]."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق أن تحدث عن خطورة الكسل،"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعمله في حياة الإنسان (أم 13: 4؛ 15: 9؛ 19: 15؛ 20: 4؛ 21: 25-26؛ 24: 30، 34)."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أول سمات الكسلان أن يقدم أعذارًا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكسله، مع شعوره الخاطئ بالمخاطر تحف به إن تحرك للعمل. فيجد في الخمول راحة له"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهدوءً لنفسه، وأمانًا لحياته من الأسود والأشبال التي تنتظره. وكأن لا عمل لها"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوى أن تترقب خروجه للعمل فتفترسه. أما الإنسان العامل بروح الرب فلا يخاف، إنما"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشق فم الأسد لينقذ حملًا كما فعل الصبي داود، ويمزق أسدًا في الطريق كما فعل"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمشون."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلْبَابُ يَدُورُ عَلَى"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَائِرِة،"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْكَسْلاَنُ عَلَى"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِرَاشِهِ [14]."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما زالت الأبواب تدور على"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محور، فهي تتحرك حول نفسها ولا تنتقل من موضعها. هكذا يظن الكسلان أنه دائم الحركة"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعمل، بينما يبقى في خموله كما على فراشه، لا نفع له حتى بالنسبة لنفسه. ينقصه"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روح الطموح والشعور برسالته."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يحمل الكسلان روح خلاَّفة"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تميل إلى التجديد والابتكار."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلْكَسْلاَنُ يُخْفِي يَدَهُ"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الصَّحْفَةِ،"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَشُقُّ عَلَيْهِ أَنْ"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرُدَّهَا إِلَى فَمِهِ [15]."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبلغ بالكسلان أن يمد يده إلى"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصحفة ليأكل، فيجد صعوبة أن يرفعها لكي يضع"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام في فمه. إنه يفضل أن يبقى"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جائعًا، عن أن يحرك يده ليأكل!"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسمع عن هذا الأمر في بعض"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القبائل في المناطق الاستوائية، حين تشتد الحرارة، فيشعر الشخص بنوعٍ شديدٍ من"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمول، فيرى أمامه"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام المجاني كالموز وغيره من الفواكه، ويستصعب أن يمد يده"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليقطف فاكهة ويأكل!"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن هذا المثل ينطبق"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على من يشعر بأن الجو قارس البرودة، فيضع يديه في حضنه لتدفئتها، ولا يفكر في إخراجها"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى لكي يأكل."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما ينطبق أيضًا على بعض"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكسالى الذين يتظاهرون بالعجز وعدم الصحة، لكي يطلبوا صدقة ولا يريدون العمل."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلْكَسْلاَنُ أَوْفَرُ"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حِكْمَةً فِي عَيْنَيْ نَفْسِهِ،"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنَ السَّبْعَةِ"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُجِيبِينَ بِعَقْلٍ [16]."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظن الكسلان بخموله وفقدان"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزمه أنه أكثر حكمة من العاملين، فهو لا ينهك جسده ولا فكره، بل يعيش كمن هو بلا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هم! يظن في الخمول اقتصادًا للصحة، وفي عدم العمل حكمة!"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النملة"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خليقة صغيرة جدًا، لكنها تغامر لتحقيق أشياء تفوق قوتها. إنها لا تُسحب للعمل"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كعبدة. وإنما بدون إلزام، وفي حرية البصيرة، تهتم بالمئونة الخاصة باليوم القادم."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصحنا الكتاب المقدس أن نقتدي بمثابرة النملة: [اذهب إلى النملة أيها الكسلان، تأمل طرقها وكن أحكم منها] (راجع أم 6: 6). ليس لدى النملة أرض لفلاحتها. ومع هذا وبدون قائد يحثها على ذلك تهتم بتخزين"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام. أي حصاد تجمعه في"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخزن لها، إنه حصاد تجمعه من بقايا أعمالك بينما قد تكون أنت في عوزٍ لا تحتاج هي"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى شيءٍ. ليس من أهراء مخصصة للنملة، ليس من حراس يصعُب اجتيازهم، ليس من مخازن"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حنطة لا تُلمس!"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزمنا أن نتحدث عن مدى الشر الذي في الكسل، إن كان الرسول يصف بوضوح أن من لا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعمل لا يأكل (2 تس 3: 10). فإن كان القوت اليومي ضروريًا لكل أحدٍ، هكذا العمل"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أساسي حسب قوة الشخص. يربط الرب بين الكسل والشر، قائلًا: أيها العبد الشرير"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والكسلان\" (مت 25: 26)... لدينا ما يجعلنا نخاف لئلا يقف هذا الخطأ ضدنا في"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوم الدين، لأن ذاك الذي وهبنا الإمكانية للعمل يطالبنا أن نعمل حسب طاقتنا."
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "باسيليوس الكبير"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم لنا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفسيرًا رمزيًا لجهاد النملة والتزامنا بالإقتداء"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بها، فإن كانت النملة تجمع طعامًا في وقت المصيف حيث الحر، تتغذي عليه أثناء"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشتاء في البرد، هكذا يليق بنا أن نواظب على قراءة الكتاب المقدس في وقت حرارتنا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحية. لنجتهد أن نعمل ما دام الوقت صيفًا، حتى إذا كما حلّ بنا وقت التجربة،"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشعرنا بنوعٍ من البرود الروحي تغتذي نفوسنا على ما قد تمتعنا به وقت التهاب قلبنا"
+    },
+    {
+      "section_title": "قَالَ الْكَسْلاَنُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالروح."
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَمُمْسِكٍ أُذُنَيْ"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَلْبٍ،"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا مَنْ يَعْبُرُ"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَتَعَرَّضُ لِمُشَاجَرَةٍ لاَ تَعْنِيهِ [17]."
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سٍبق أن نصحنا الحكيم أن نهرب"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما استطعنا من النزاعات حتى التي تخصنا، ونلجأ إلى الصلح عوض الدخول في المحاكم."
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأولى كثيرًا ألا نتدخل في مشاحنات لسنا طرفًا فيها لئلا نكون كمن يمسك بأذني"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلبٍ متوحشٍ، فنعرض أنفسنا للأذى. هذا لا يعني رفضنا صنع السلام بين المتخاصمين،"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما رفض التحيز، والدخول كطرفٍ في خصام لا يخصنا. جاءت في الترجمة السبعينية:"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"كممسك بذيل"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلبٍ\"، فإن"
+    },
+    {
+      "section_title": "3. التدخل فيما لا يعنينا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلب يدور ويعضه."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِثْلُ الْمَجْنُونِ الَّذِي"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرْمِي نَارًا وَسِهَامًا وَمَوْتًا [18]."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا الرَّجُلُ الْخَادِعُ"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَرِيبَه،"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَقُولُ: \"أَلَمْ"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلْعَبْ أَنَا!\" [19]."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحذرنا الحكيم من التصرفات"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المخادعة للأقرباء، فتسبب لهم أضرارًا ثم يضحك الشخص في سخرية، قائلًا: إنني كنت أداعبهم."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة الناس ليست ألعوبة في أيدينا، نسخر بها في استهتار. من يفعل هذا يُحسب كمجنونٍ"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلقى بجمرٍ متقدٍ على الغير، أو يضربهم بالسهام، ويتسبب في قتلهم."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم: [لكي يغري (هيرودس المجوس) على ذلك تظاهر بالتقوى، مخفيًا السيف وراءها."
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رسم بالألوان شكل البساطة على حقد قلبه. هذا هو طريق كل فاعلي الشرّ، إذ يخطّطون"
+    },
+    {
+      "section_title": "4. الخداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الخفاء ليجرحوا الآخرين، فيتظاهرون بالبساطة والصداقة.]"
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "20 بِعَدَمِ الْحَطَبِ تَنْطَفِئُ النَّارُ، وَحَيْثُ لاَ نَمَّامَ يَهْدَأُ الْخِصَامُ. 21 فَحْمٌ لِلْجَمْرِ وَحَطَبٌ لِلنَّارِ، هكَذَا الرَّجُلُ الْمُخَاصِمُ لِتَهْيِيجِ النِّزَاعِ. 22 كَلاَمُ النَّمَّامِ مِثْلُ لُقَمٍ حُلْوَةٍ فَيَنْزِلُ إِلَى مَخَادِعِ الْبَطْنِ."
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِعَدَمِ الْحَطَبِ"
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَنْطَفِئُ النَّارُ،"
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَيْثُ لاَ نَمَّامَ"
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهْدَأُ الْخِصَامُ [20]."
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النميمة تضيف إلى نار الخصام"
+    },
+    {
+      "section_title": "5. النميمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقودًا، فإذا لم توجد تهدأ النيران وتنطفئ، فحيث لا يوجد وقود أو حطب تنطفئ النار."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"النمام ينجس نفسه، ومعاشرته مكروهة\""
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(سيراخ 21: 31)."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمعت أحدًا يثلب غيره اهرب منه كهروبك من حيَّة سامة، حتى يخجل ويتعلم ألاَّ يتكلم"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذا مرة أخرى."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترى، ما معنى أن ننقطع عن أكل اللحم، ونحن لا ننقطع عن أكل لحم قريبنا بالنميمة"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والغيبة؟ وما معنى أن نصوم عن الأكل، ونحن لا ننقطع عن الأفكار الرديئة والزنا"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحقد والبغض؟"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال أنبا مقار: \"احفظوا آذانكم من سماع"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلام النميمة والوقيعة لكي تكون قلوبكم طاهرة، لأنّ الآذان إذا سمعَتْ الحديث"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النجس لا يمكن حفظ طهارة القلب بدون دنس\"."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال أنبا مرقس: \"كل"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما تقوله عن أخيك من ورائه ولا تستطيع"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تقوله أمامه هو نميمة ومذمّة، وكل اهتمامٍ لا يؤدّي إلى صلاح العبادة هو اهتمام"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دنيوي\"."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* قال أنبا شيشوي: \"بالنميمة أغوت الحيّة حواء وأخرجتها من الفردوس وآدم"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معها، هكذا نظير الحيّة تمامًا مَنْ يقع في صاحبه فإنه يُهلِك مَنْ يسمعه ونفسه لا"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنجو\"."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُئِل"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبّا"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء عما هي النميمة، فأجاب: \"هي الجهل بمجد"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، وبغضة الآخرين\"."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال شيخ: \"ما تكرهه"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنفسك لا تقُله لآخر، فأنت تكره مَنْ ينمّ عليك (أي يُدينك) فلا تنمّ أنت أيضًا"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على أحد. أنت تُبغض مَنْ يكذب عليك، فلا تكذب أنت على آخر. أنت تُبغض مَنْ يشتمك،"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا تشتم أنت أحدًا. فمن له أذنان فليحفظ هذه وهي تكفيه\"."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فردوس الآباء"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَحْمٌ لِلْجَمْرِ وَحَطَبٌ"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلنَّارِ،"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا الرَّجُلُ"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُخَاصِمُ لِتَهْيِيجِ النِّزَاعِ [21]."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعونا سليمان الحكيم إلى فض"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النزاع والخصام عند بدء انطلاقه (أم 17: 14؛ 30: 32-33). إن أمكن ألا ندخل في"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناقشات ومجادلات قد تلهب الموقف (أم 20: 3)."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض يميلون في بث روح"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السلام (أم 12: 20)، وآخرون يجدون مسرتهم في النزاع (أم 22: 10؛ 26: 21). كما يوجد"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أناس لا يستريحون لأي موقف، فإن غضبوا أو ضحكوا لا يستريحون (أم 29: 9)."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحسب الله صانعي السلام أبناء"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له (مت 5: 9)، كما تدعونا الحكمة إلى الوداعة وعدم التحزب (يع 3: 13-14)."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد أناس أشبه بالفحم الذي"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُلقى وسط الجمر المتقد فيزداد اتقادًا، أو كالحطب الذي يُلقى في النيران، فيزيد"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اشتعالًا. هؤلاء هم مثيرو الخصام أينما وجودوا. إنهم لا ينشغلون بكلمة الله واهبة"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السلام حتى وإن أكثروا من تلاوتها والكرازة بها."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَلاَمُ النَّمَّامِ مِثْلُ"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لُقَمٍ حُلْوَة،ٍ"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَيَنْزِلُ إِلَى مَخَادِعِ"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَطْنِ [22]."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما يستخدم النمام"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلمات المعسولة، والتظاهر بالصداقة، والاهتمام بمن يتحدث معه، فيلقي بمرارة النميمة"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مخادع بطن سامعه، حيث تستقر في أعماقه، وتلهب روح الغضب والسخط فيه."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* غالبًا"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يثير الصبر"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتصنع الغضب بأكثر حذاقة مما يثيره"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلام. وبالصمت المؤذي يزيد شتائم الغير بطريقة أكثر مما يثيرها الكلام، وجراحات"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعداء تُحتمل بأكثر سهولة من مداهنة الساخرين المملوءة مكرًا، والتي قيل"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنها حسنًا بالنبي: \"ليأسر رؤَساءهُ حسب إرادتهِ\" (مز 22:105). وفي موضع"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آخر قيل: \"كلام النَّمام مثل لُقَم حلوة فينزل إلى مخادع البطن\""
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أم 22:26). هنا ينطبق القول: \"لسانهم سهم قتال يتكلم بالغش. بفمهِ يكلم"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاحبهُ بسلام وفي قلبهِ يضع لهُ كمينًا\" (إر 8:9). وعلى أي الأحوال هو يخدع"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغير إذ \"الرجل الذي يطري صاحبهُ يبسط شبكة لرجليهِ\" (أم 5:29)."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب يوسف"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تغتبْ أحدًا من الناس لئلاّ يُبغض الله صلاتك."
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس أنبا أنطونيوس"
+    },
+    {
+      "section_title": "قيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبير"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "23 فِضَّةُ زَغَل تُغَشِّي شَقْفَةً، هكَذَا الشَّفَتَانِ الْمُتَوَقِّدَتَانِ وَالْقَلْبُ الشِّرِّيرُ. 24 بِشَفَتَيْهِ يَتَنَكَّرُ الْمُبْغِضُ، وَفِي جَوْفِهِ يَضَعُ غِشًّا. 25 إِذَا حَسَّنَ صَوْتَهُ فَلاَ تَأْتَمِنْهُ، لأَنَّ فِي قَلْبِهِ سَبْعَ رَجَاسَاتٍ."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِضَّةُ"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زَغَلٍ تُغَشِّي شَقْفَةً،"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّفَتَانِ"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُتَوَقِّدَتَانِ وَالْقَلْبُ الشِّرِّيرُ [23]."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يستتر بمظهر الحب"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والصداقة والاهتمام بالغير وينطق بكلمات النميمة، يحمل قلبًا شريرًا، وله"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفتان"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متقدتان بنار الشر المستتر. هذا الإنسان يشبه"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شقفة أو كسرة من إناء خزفي لا قيمة"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لها، مغطاة بطبقة خفيفة من الفضة المملوءة"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زغلًا. يبدو كأنه شيء ثمين لامع، وفي"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقيقته تافه للغاية ولا نفع منه."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعله يقصد هنا إن شفتي النمام"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متقدتان كأنهما نار ذات بهاء، فتخرج منها كلمات معسولة، لكنها في حقيقتها صادرة عن"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلب خبيث شرير. إنه شخص مراءٍ!"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِشَفَتَيْهِ يَتَنَكَّرُ"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُبْغِضُ،"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي جَوْفِهِ يَضَعُ غِشًّا"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتفكر المبغض حيث يخفي ما في"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماقه من بغضه خلال كلمات مخادعة، أما جوفه أو أعماقه فتحمل غشًا!"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُغطِّ على خطيتك التي صنعتها، اُرفض المجاوبة، ولا تفكِّر في قلبك بشرٍّ على"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يُغضبك أو يُبغضك. لا تُسرِع إلى الغضب. اِحذر من أن تتكلم بكلامٍ فارغ،"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تسمعه من غيرك لكي تعيه، وليكن كلامك في ذكر الله تعالى واستغفاره."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَحسن"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى كل أحدٍ، وإن لم تقدر فأحبّ كل أحد، وإن لم تقدر فلا أقل من أن لا تبغض"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحدًا، ولن يتيسر لك شيء من ذلك ما دمتَ تحب العالميات."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس أنبا أنطونيوس"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبير"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِذَا حَسَّنَ صَوْتَهُ فَلاَ"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَأْتَمِنْهُ،"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ فِي قَلْبِهِ سَبْعَ"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَجَاسَاتٍ [25]."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرائي يجيد الصوت العذب"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والكلمات اللينة، لكن لا يؤتمن، لأن قلبه مملوء بسبع رجاسات، أي رجاسات لا تُحصي،"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن رقم 7 يشير إلى الكمال، أو الكثرة في العدد (أم 24: 16)."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* يا"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بُنىَّ، لا تكن"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرائيًا ولا كذابًا."
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس أنبا أنطونيوس"
+    },
+    {
+      "section_title": "6. اللسان الشرير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبير"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مَنْ هو المرائي؟” فقال له الشيخ: \"المرائي"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو مَنْ يعلِّم قريبه شيئًا لا يُجهِد هو نفسه ليفعله. إنه مكتوبٌ: \"لماذا"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنظر القذى الذي في عين أخيك وأما الخشبة التي في عينك فلا تفطن لها.. يا مرائي،"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرج أولًا الخشبة من عينك حينئذٍ تبصر جيدًا أن تُخرج القذى من عين أخيك\""
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مت7: 3-5)."
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فردوس الآباء"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلستَ في قلايتك يا بُنيَّ، فلا تكن كالمرائين. لا تملّ من الصلاة فيُسمع لك."
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكن مرائيًا. بل اطلب كلام الرب من رجل الله. لأن الرب قال بالنبي: \"يأتون"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليك كما يأتي الشعب، ويجلسون أمامك كشعبي، ويسمعون كلامك ولا يعملون به، لأنهم بأفواههم"
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُظهرون أشواقًا وقلبهم ذاهب وراء كسبهم\" (حز 31:33)."
+    },
+    {
+      "section_title": "أخٌ أنبا بيمين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنبا بولا الطموهي"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "26 مَنْ يُغَطِّي بُغْضَةً بِمَكْرٍ، يَكْشِفُ خُبْثَهُ بَيْنَ الْجَمَاعَةِ. 27 مَنْ يَحْفِرُ حُفْرَةً يَسْقُطُ فِيهَا، وَمَنْ يُدَحْرِجُ حَجَرًا يَرْجعُ عَلَيْهِ. 28 اَللِّسَانُ الْكَاذِبُ يُبْغِضُ مُنْسَحِقِيهِ، وَالْفَمُ الْمَلِقُ يُعِدُّ خَرَابًا."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يُغَطِّي بُغْضَةً"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِمَكْرٍ،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَكْشِفُ خُبْثَهُ بَيْنَ"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجَمَاعَةِ [26]."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس خفي إلا ويظهر، فمن يخفي"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بغضه وسخطه وراء مظهرٍ بّراق، لن يدوم هذا، بل ينفضح خبثه على مستوى الجماعة،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويصير في عارٍ."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* إن"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل الخصام الذي لا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهدأ من النزاع هو الذي لا يكتفي بالشقاق"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول فيثور غاضبًا من جديد. أما الذي هو بالعكس ليس رجل خصام، فحينما يشتعل غضبه"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرجع إلى نفسه في الحال ويلوم نفسه ويطلب المغفرة من أخيه الذي غضب منه، فيهدأ فيه"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخصام لأنه أدان نفسه واصطلح مع أخيه، ولن يجد الصراع له فيه موضعًا كما قلت."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمَّا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضوب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي لا يهدأ"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشقاق بداخله، والذي إذا غضب لا يدين نفسه"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل يثور غضبه بالأكثر دون أن يندم"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على غضبه قط، بل ولا يكتفي بما قاله في غضبه فيزيد"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه؛ هذا يُدعى رجل خصام"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يهدأ الغضب في داخله، لأن الحقد والمرارة والخبث تتبع"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب. ليت الرب يسوع المسيح يخلِّصنا من"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مصير هؤلاء الناس ويهبنا نصيب الودعاء"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمتواضعين!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس زوسيما"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يَحْفُرُ حُفْرَةً"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَسْقُطُ فِيهَا،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَنْ يُدَحْرِجُ حَجَرًا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرْجِعُ عَلَيْهِ [27]."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصليب الذي أعده هامان"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمردخاي، صُلب هو عليه. والخطة التي صاغها عدو الخير للخلاص من رب المجد يسوع، أفقدته"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطانه وحطمت مملكته. بالكيل الذي به نكيل يُكال لنا."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجب الذي أعده الأشرار"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدانيال سقطوا فيه هم وعائلاتهم. وكما يقول المرتل: \"يرجع تعبه على رأسه،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعلى هامته يهبط ظلمة\" (مز 7: 16)، \"تورطت الأمم في الحفرة التي عملوها،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الشبكة التي أخفوها انتشبت أرجلهم... الشرير يعلق بعمل يديه\" (مز 9: 15-16). \"حفروا قدامي حفرة، سقطوا في وسطها\" (مز 56: 6)."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحفر حفرة لقريبه يسقط فيها\". هذا حدث في ذلك الحين، إذ أرادوا هلاك"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(يسوع) ليكتموا كرازته، لكن حدث العكس. كرازته انتعشت بنعمة المسيح، بينما كل"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خططهم بطلت وهلكت. بالحري خسروا بلدهم وحريتهم وأمانهم وعبادتهم، وحُرموا من كل"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرامةٍ ومجدٍ، وصاروا عبيدًا وأسرى. وإذ نعرف نحن هذه الأمور ليتنا لا نضع خططًا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد الآخرين، إذ نتعلم أننا بفعلنا هذا نجعل السيف حادًا ضد أنفسنا، ونجرح أنفسنا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أكثر من جرحنا للآخرين."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* هذه"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علامة محبة الله الحانية أن يجعل الذين ينصبون"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشباك يسقطون فيها حتى يكفون عن الصراع وتدبير"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المكائد ضد إخوتهم."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَللِّسَانُ الْكَاذِبُ"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُبْغِضُ مُنْسَحِقِيهِ،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْفَمُ الْمَلِقُ يُعِدُّ"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَرَابًا [28]."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختم الأصحاح بالتحذير من اللسان الكاذب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يؤذي الآخرين ويبغضهم، كما يحذر من الفم الذي يتملق الغير، بينما يخطط"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان لخراب من يتحدث معه وهلاكه. يمكننا القول بأن ما يهدف إليه الحكيم هنا أن"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نواجه حقيقة أعماقنا بصراحة كاملة، فلا نغطي على ما في القلب من بغضة وكراهية"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بابتسامة مخادعة، أو كلمات تملق، أو كذب وخداع."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكذب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريبٌ عنا بصرف النظر عما إذا كان موضوعه خطيرًا أم بسيطًا، وحتى إذا كذب أحدٌ"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقصد البلوغ إلى نوعٍ من الصلاح فهذا الكذب مع ذلك غير ممدوح لأنّ المخلِّص يقول"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنّ الكذب يأتي من الشرير (مت5: 37؛ يو8: 44)."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا الأسيوطي"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسمح لروح الكذب أن يوجد فيك لئلاَّ يسلِّمك الرب للهلاك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلّمت قلبك له في أحلام كاذبة، فهو يزداد رسوخًا في الفكر الباطل حتى يضلِّل كل"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يقبلون الروح الذي يحب القول الذي كُتب عنه: «متى تكلَّم بالكذب فإنما"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتكلَّم بما له لأنه كذَّاب وأبو الكذاب» (يو 14:8)."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنبا بولا الطموهي"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي أمثال 26"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتضمني إلى فئة أولادك!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* قلبي يتهلل بحبك الفائق."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحببتنا ونزلت إلينا،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتضم كل البشرية بالحب،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتقيم من الجميع أبناءً لك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأتجنب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فئة الحمقى،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين في عنادهم أصروا على"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقاومتك!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعترف لك بجهلي،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنك تنير أعماقي بحكمتك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تهبني فهمًا وحكمة،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أشتهي إلا أن أكون على"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صورتك،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنطق بكلماتك!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لن تخرج من فمي كلمة لعنة،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل كلمات البركة التي من"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطني"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكمة فأعرف متى أتكلم ومتى أصمت."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أنحدر مع الحمقى"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعاندين،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أنفعل، فأحمل ذات سماتهم."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن بالحكمة أسلك،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأشهد لك بعملك في داخلي!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأتجنب فئة الكسالى،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ففي أحضانك لن أعرف الخمول."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت والآب تعملان من أجل"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم كله."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحبك تعمل فيَّ وبي لحساب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكوتك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأتجنب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فئة مثيري الخصام."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلت إلينا لتصالحنا مع أبيك."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبتنا الشركة مع السمائيين،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقمت من كل القبائل والشعوب"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبًا مقدسًا لك،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا الخصام، وأنت هو السلام"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عينه."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتني أقتنيك، فيمتلئ قلبي"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلامًا،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتني أقتنيك، فلا تلقي الحية"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خبثها في فمي أو في قلبي."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتني أقتنيك، فتتقدس كلماتي،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا أجد للنميمة طعمًا،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا للكذب موضعًا فيّ،"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا للكلمة العنيفة احتياجًا"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لها."
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما تملح كلماتي بملح روحك"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوس!"
+    },
+    {
+      "section_title": "7. المكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hexam. Hom 9."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 311."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظة 3:3."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Luke, Homily 45."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Jamieson, Fausset, Brown: Proverbs."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. On the Unity of Christ, 50."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناظرات يوحنا"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "كاسيان، 17: 2."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Rom. 12: 16."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Long Rules, 37."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Op. Imperf. hom 2."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "المخلصي: القديس باسيليوس الكبير، منشورات المكتبة البولسية، بيروت، 1989، ص 290."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناظرات يوحنا"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "كاسيان، 16: 18."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Ps. 7."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 26 من سفر الأمثال)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/jm9pmxn"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/jm9pmxn"
     }
   ]
 }

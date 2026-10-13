@@ -1,17 +1,990 @@
 {
-  "book_id": 11,
+  "book_id": "samuel1",
   "book_title": "تفسير سفر صموئيل الأول",
   "chapter_number": 27,
   "chapter_title": "الأصحاح 27",
-  "topic": "",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "topic": "الأصحاح 27",
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "هروب داود إلى جت",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "سكناه في صقلغ",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "غزوه للجشوريين وغيرهم",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "صموئيل الأول",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 158,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "داود يلتجيء إلى صقلغ"
+      "text": "داود يلتجئ إلى صقلغ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكرار"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هجوم شاول الملك على داود حتى بعد إقامة عهود بينهما أفقد داود كل ثقة في شاول،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فبدأ يفكر جديًا في الالتجاء إلى بلاد غريبة خاصة أنه صار ملتزمًا بمرأتيه أخينوعم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليرزاعيلية وأبيجايل امرأة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نابال الكراملية [3] وربما صار له أولاد، كما ارتبط"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجاله الستمائة بأسرهم فصارت إمكانية تركهم واختفائهم في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المغاير والكهوف أصعب مما"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا قبلًا. كان صعبًا على نفسية داود أن يفكر هكذا، الأمر الذي عبّر عنه في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عتابه مع شاول: و\"قد طردوني اليوم من الانضمام إلى نصيب الرب، قائلين: اذهب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعبد آلهة أخرى\" (1 صم 26: 19). لم يكن سهلًا عليه وقد عاش كل سنواته الماضية يغار"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على شعب الله أن يصير طريدًا، يُحرم حتى من الاشتراك في العبادة الجماعية لله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "-ربما في ضعف بشري ودون استشارة الرب- اضطر إلى الالتجاء إلى أخيش ملك جت ليسمح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له مع رجاله أن يعيشوا في قرية صقلغ، حتى ييأس شاول من التفتيش عنه [1]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هروب داود إلى جت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سكناه في صقلغ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غزوه للجشوريين وغيرهم"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَقَالَ دَاوُدُ فِي قَلْبِهِ: «إِنِّي سَأَهْلِكُ يَوْمًا بِيَدِ شَاوُلَ، فَلاَ شَيْءَ خَيْرٌ لِي مِنْ أَنْ أُفْلِتَ إِلَى أَرْضِ الْفِلِسْطِينِيِّينَ، فَيَيْأَسُ شَاوُلُ مِنِّي فَلاَ يُفَتِّشُ عَلَيَّ بَعْدُ فِي جَمِيعِ تُخُومِ إِسْرَائِيلَ، فَأَنْجُو مِنْ يَدِهِ». 2 فَقَامَ دَاوُدُ وَعَبَرَ هُوَ وَالسِّتُّ مِئَةِ الرَّجُلِ الَّذِينَ مَعَهُ، إِلَى أَخِيشَ بْنِ مَعُوكَ مَلِكِ جَتٍّ. 3 وَأَقَامَ دَاوُدُ عِنْدَ أَخِيشَ فِي جَتٍّ هُوَ وَرِجَالُهُ، كُلُّ وَاحِدٍ وَبَيْتُهُ، دَاوُدُ وَامْرَأَتَاهُ أَخِينُوعَمُ الْيَزْرَعِيلِيَّةُ وَأَبِيجَايِلُ امْرَأَةُ نَابَالَ الْكَرْمَلِيَّةُ. 4 فَأُخْبِرَ شَاوُلُ أَنَّ دَاوُدَ قَدْ هَرَبَ إِلَى جَتٍّ فَلَمْ يَعُدْ أَيْضًا يُفَتِّشُ عَلَيْهِ."
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان داود يحسب أحد أبطال الإيمان العظماء لكنه في هذا الأصحاح يظهر في لحظات ضعف"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمان جلبت عليه متاعب كثيرة. كثيرًا ما يقدم لنا الكتاب المقدس داود لنقتدي به في"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظم إيمانه، أما هنا فيعلمنا أن لكل إنسان لحظات ضعف فيها يسقط لا ليستسلم في يأس"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما ليقوم بالرغم مما ترتب على سقوطه من من متاعب داخلية وخارجية."
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكر داود في أعماقه أن يفلت مع أسرته ورجاله إلى أرض الفلسطينيين فييأس شاول منه"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يفتش عليه، فينجو، وأخذ قراره بالذهاب إلى أخيش جت [2]. لعل أخيش بن معوك"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذكور هنا هو خليفة أخيش الوارد في (1 صم 21: 10). في المرة السابقة شك الملك في أمره"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه جاء بمفرده يتجسس ويخطط ضده، أما في هذه المرة فجاء مع أسرته وستمائة جندي"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محارب بأسرهم، لم يكون داود سيء النية إذ تصعب عليه الحركة مع الأسرة، لذا حسب قوة"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتفع بها كحليف له، خاصة أن مطاردة شاول لداود صارت علانية ومتكررة عرفتها الأمم"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المحيطة، مما طمأن قلب أخيش من جهة داود ورجاله."
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعود إلى داود فنقول إن من حقه ألا يثق في وعد"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول بأنه لا يسيء إليه (1 صم 26: 21)، لكن لم يكن من اللائِق أن يخاف ويهرب في ضعف"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمان وقد عاين بنفسه واختبر معاملات الله له، هذا الذي وعده بالمُلك، خاصة أن"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوناثان وأباه تأكدا أنه يرث المُلك وأخبراه بهذا. لقد كانت الظروف المحيطة ببطرس"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توحي بالاضطراب، وإذ ضعف في الإيمان بدأ يغرق، لذا \"مدَّ يسوع يده وأمسك به"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقال له: يا قليل الإيمان لماذا شككت؟\" (مت 14: 31). لقد طلب الرسل منه: \"زد"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيماننا\" (لو 17: 5)."
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان دفع داود إلى أخيش ملك جت، ليجتاز مرارة المعصرة (كلمة جت في رأي"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس تعني المعصرة)"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الإيمان فيرتفع بالإنسان الروحي لتعاين أعماقه الأمور غير المنظورة، ويسمو"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبه إلى ما فوق المنظورات (عب 11: 13-16)."
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس أسقف نيصص"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسى داود وصية جاد النبي: \"لا"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقم في الحصن، اذهب وادخل أرض يهوذا\" (1 صم 22: 5)، حتى لا يعتمد على ذراع"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بشري وحصون أرضية بل يدخل إلى الشعب يشاركهم تعبهم من شاول ومذلتهم. الآن يترك"
+    },
+    {
+      "section_title": "1. هروب داود إلى جت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدود يهوذا وينطلق إلى حصون بشرية في ضعف إيمان!"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "5 فَقَالَ دَاوُدُ لأَخِيشَ: «إِنْ كُنْتُ قَدْ وَجَدْتُ نِعْمَةً فِي عَيْنَيْكَ، فَلْيُعْطُونِي مَكَانًا فِي إِحْدَى قُرَى الْحَقْلِ فَأَسْكُنَ هُنَاكَ. وَلِمَاذَا يَسْكُنُ عَبْدُكَ فِي مَدِينَةِ الْمَمْلَكَةِ مَعَكَ؟» 6 فَأَعْطَاهُ أَخِيشُ فِي ذلِكَ الْيَوْمِ صِقْلَغَ. لِذلِكَ صَارَتْ صِقْلَغُ لِمُلُوكِ يَهُوذَا إِلَى هذَا الْيَوْمِ. 7 وَكَانَ عَدَدُ الأَيَّامِ الَّتِي سَكَنَ فِيهَا دَاوُدُ فِي بِلاَدِ الْفِلِسْطِينِيِّينَ سَنَةً وَأَرْبَعَةَ أَشْهُرٍ."
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رحب أخيش بداود إذ تأكد أن شاول يطارد"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود بلا هوادة، فقد اطمأن إلى أن الأخير لن يثق بعد في شاول ولن يتحالف معه."
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبوله داود يكسر شوكة شاول الملك، كما ينتفع من إمكانيات داود ورجاله. أما داود"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم يستحسن أن يسكن في جت مع أخيش، ذلك لأن رجاله وعائلاتهم كثيرون تضيق بهم"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدينة من جهة المسكن والطعام، ومن جهة أخرى لم يكن داود يقصد خدمة أخيش إذ هو"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرتبط قلبيًا بشعبه ولذلك قال لأخيش: \"إن كنت قد وجدت نعمة في عينيك فليعطوني"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مكانًا في إحدى قرى الحقل فأسكن هناك\" [5]؛ بهذا يكون له شيء من الحرية خاصة"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في العبادة."
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد الأسباب الأخرى لطلبه هذا هو خبرته"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع بلاط شاول الملكي، فقد خشى أن تتكرر نفس المأساة متى نجح في طريقه فيحسده أخيش"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو بعض رجاله. أيضًا ببعده عن جت لا يحتك هو ورجاله بالاحتفالات الشعبية الخاصة"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالعبادة الوثنية، إذ كانت جت أحد المركز العظمى لعبادة آلهة الفلسطينيين."
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في اتضاع وانسحاق قدم داود طلبه هذا"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائلًا: \"ولماذا يسكن عبدك في مدينة المملكة معك (يضايقك ويزحم مدينتك)؟"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استجاب الملك لطلبه وأعطاه صقلغ ليسكن"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيها مع رجاله."
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"صقلغ\": مدينة في"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجنوب الأقصى من يهوذا (يش 15: 31)، أعطيت لشمعون (يش 19: 5؛ 1 أي 4: 30)؛ في أيام"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول كانت في أيدي الفلسطينيين... وفيما بعد صارت ليهوذا [6]، وسُكنت بعد السبي. يُرجح"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنها تل الخويلفة، تبعد حوالي 10 أميال شرقي تل الشريعة و10 أميال شمال"
+    },
+    {
+      "section_title": "2. سكناه في صقلغ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بئر سبع."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "8 وَصَعِدَ دَاوُدُ وَرِجَالُهُ وَغَزَوْا الْجَشُورِيِّينَ وَالْجَرِزِّيِّينَ وَالْعَمَالِقَةَ، لأَنَّ هؤُلاَءِ مِنْ قَدِيمٍ سُكَّانُ الأَرْضِ مِنْ عِنْدِ شُورٍ إِلَى أَرْضِ مِصْرَ. 9 وَضَرَبَ دَاوُدُ الأَرْضَ، وَلَمْ يَسْتَبْقِ رَجُلًا وَلاَ امْرَأَةً، وَأَخَذَ غَنَمًا وَبَقَرًا وَحَمِيرًا وَجِمَالًا وَثِيَابًا وَرَجَعَ وَجَاءَ إِلَى أَخِيشَ. 10 فَقَالَ أَخِيشُ: «إِذًا لَمْ تَغْزُوا الْيَوْمَ». فَقَالَ دَاوُدُ: «بَلَى. عَلَى جَنُوبِيِّ يَهُوذَا، وَجَنُوبِيِّ الْيَرْحَمِئِيلِيِّينَ، وَجَنُوبِيِّ الْقِينِيِّينَ». 11 فَلَمْ يَسْتَبْقِ دَاوُدُ رَجُلًا وَلاَ امْرَأَةً حَتَّى يَأْتِيَ إِلَى جَتٍّ، إِذْ قَالَ: «لِئَلاَّ يُخْبِرُوا عَنَّا قَائِلِينَ: هكَذَا فَعَلَ دَاوُدُ». وَهكَذَا عَادَتُهُ كُلَّ أَيَّامِ إِقَامَتِهِ فِي بِلاَدِ الْفِلِسْطِينِيِّينَ. 12 فَصَدَّقَ أَخِيشُ دَاوُدَ قَائِلًا: «قَدْ صَارَ مَكْرُوهًا لَدَى شَعْبِهِ إِسْرَائِيلَ، فَيَكُونُ لِي عَبْدًا إِلَى الأَبَدِ»."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إقامة"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود ورجاله بعائلاتهم بعيدًا عن جت أعطى الفرصة لداود أن يقودهم في شيء من الحرية"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقوم بتنظيمهم، لذا بدأ يمارس بعض حملات غزو ضد الوثنيين من جشوريين وجرزيين"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعمالقة، وعرفوا بالحياة العنيفة واللصوصية بجانب الفساد والرجاسات. كانت فرصة"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتطهير الأرض حتى لا يتسلل الفساد في أبشع صوره إلى الشعب المقدس ويفسدوا الخميرة"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النقية."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الجشوريون والجرزيون فروعًا من العمالقة"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين كانوا أشبه بجماعات من اللصوص لا عمل لهم إلا السلب والنهب مع ممارسة"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجسات، يشيرون إلى الخطايا ويرمزون إلى عدو الخير إبليس؛ كانوا يعيشون في جنوب"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلسطين. كانت الوصية لشاول: \"قد افتقدت ما عمل عماليق بإسرائيل حين وقف له في"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطريق عند صعوده من مصر، فالآن اذهب واضرب عماليق وحرموا كل ما له ولا تعفُ عنهم"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل اقتل رجلًا وامرأة، طفلًا رضيعًا، بقرًا وغنمًا، جملًا وحمارًا\" (1 صم 15: 2-3)."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رمز عماليق لعدو الخير الذي يقف في طريق صعودنا من هذا العالم إلى كنعان السماوية"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليعوقنا عن التمتع بالحياة الأبدية، وكان تحريمه رمزًا لنزع كل أثر للخطية فينا،"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطايا النفس (كل رجل) والجسد (كل امرأة)، كل فكر مهما كان مبتدئًا (كل طفل ورضيع) إلخ..."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كسر شاول الوصية وجاء بأجاج ملك العمالقة حيًا كما ترك جياد الغنم والبقر (1 صم 15)،"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما داود فحقق كلمات صموئيل لشاول: \"وضرب داود الأرض ولم يستبقِ رجلًا ولا"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امرأة\" [9]، وإذ لم تكن الوصية موجهة إليه لذلك أخذ الغنيمة ليعيش بجزء"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها ويعطي ملك أخيش الجزء الآخر كنوع من الجزية مقابل سكناه في بلاده واستغلاله"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لصقلغ على حدود الفلسطينيين."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من ثمرة التجاء داود إلى الغرباء عوض بقائه في أرض يهوذا ليس فقط التزامه بتقديم"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جزء من الغنيمة كجزية لأخيش ملك جت وإنما أيضًا التجاؤه إلى المواربة وإخفاء"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحقيقة. عندما قال له أخيش: \"إذًا لم تغزو اليوم\" [10]، يقصد"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التساؤل: هل غزوتم اليوم؟ ومن غزوتم؟ لم يقل له الحقيقة بل قال: \"بلى. على"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جنوبي يهوذا وجنوبي اليرحمئيليين وجنوبي القينيين\". لقد تظاهر أنه غزا جنوب"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوذا، هاجم اليرحمئيليين (من نسل يهوذا) والقينيين (الذين غزاهم كانوا جيران"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القينيين)، لذلك قال أخيش عن داود: \"وقد صار مكروهًا لدى شعبه إسرائيل"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكون لي عبدًا إلى الأبد\" [12]."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"اليرحمئيليون\": ينتسبون"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى \"يرحمئيل\" أي \"الله يرحم\" وهو ابن حصرون بن فارص ابن"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوذا (1 أي 2: 4 إلخ.)؛ مؤخرًا حُسبوا من نسل يهوذا (1 أي 2)، سكنوا جنوب"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهودية."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"القينيون\": سبق"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحديث عنهم في (1 صم 15: 6)، يُظن أنهم كانوا حدادين لإسرائيل. كانوا من أحلاف إسرائيل"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا سيما يهوذا. لهم علاقة بالمديانيين وينتسب إليهم يثرون حمو موسى كاهن مديان،"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحصوا مع"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا في (1 أي 2: 55). ينتسب قسم منهم إلى حمة أبي بيت ركاب. وقد فضَّلوا"
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُكْنَى الخيام حتى في العصر الملكي المتأخر (إر 35: 6-10) محتفظين بوصية أبيهم."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Ps. 56."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "From Glory to Glory, N. Y. 1977. ch. 1: 10."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "New Westminster Dict. Of the Bible, p. 1024."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Matthew Henery: Comm. On the Whole Bible, 1963, p. 321."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "New Westminster Dict., p. 456."
+    },
+    {
+      "section_title": "3. غزوه للجشوريين وغيرهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "صموئيل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 27 من سفر صموئيل أول)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wcva8qm"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wcva8qm"
     }
   ]
 }

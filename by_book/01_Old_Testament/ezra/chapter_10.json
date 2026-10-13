@@ -1,23 +1,3428 @@
 {
-  "book_id": 14,
+  "book_id": "ezra",
   "book_title": "تفسير سفر عزرا",
   "chapter_number": 10,
   "chapter_title": "الأصحاح 10",
   "topic": "توبة عملية",
-  "chapter_outline": [],
-  "sections_count": 2,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "اشترك الأولاد في البكاء",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "جاء شكنيا الذي تزوج والده بامرأة",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "احتاج عزرا الشجاع إلى تشجيعٍ من أشخاصٍ",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "اشترك",
+      "verses": ""
+    }
+  ],
+  "sections_count": 566,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "توبة عملية"
+      "text": "توبة"
     },
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "فاعلية الصلاة المنسحقة"
+      "text": "عملية: فاعلية"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصلاة المنسحقة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء الأصحاح الأخير من سفر عزرا يكشف عن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روعة شخصية عزرا كراعٍ حكيمٍ محبٍ وحازمٍ. فإن كان قد بدأ السفر بتحقيق الله وعده"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرجوع من السبي بعد 70 عامًا في عهد كورش ملك فارس، فإن ما يشغل قلب عزرا هو"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدسية إسرائيل، كهنة وشعبًا، ليرجعوا إلى أحضان الله القدوس، ويكون لهم نصيب في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم العليا التي لن يدخلها شيء نجس قط."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خُتم السفر بإبراز فاعلية الصلاة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنسحقة، حيث حرك روح الرب النفوس للتوبة العملية."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤساء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة واللاويون في إصلاح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموقف، أي طرد الوثنيات بأولادهن مادمن لم يتركن العبادة الوثنية ولا أقمن عهدًا مع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله وأطعن الوصية [2-3]."
+    },
+    {
+      "section_title": "5. بقى عزرا صائمًا حتى بعد أن استحلف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القادة لإصلاح الموقف ودخل ينوح أمام الرب [6]."
+    },
+    {
+      "section_title": "5. بقى عزرا صائمًا حتى بعد أن استحلف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "6. دعوة لاجتماع عاجل لكل الشعب في خلال 3 أيام [8] وإلا تعرض الشخص لعقوبة صارمة."
+    },
+    {
+      "section_title": "5. بقى عزرا صائمًا حتى بعد أن استحلف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "7. انهارت الأمطار، وكأن السماء تشارك"
+    },
+    {
+      "section_title": "5. بقى عزرا صائمًا حتى بعد أن استحلف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا وشعبه دموعهم [13]."
+    },
+    {
+      "section_title": "8. أخذ قرار بتشكيل لجان لدراسة موقف كل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصٍ بتروٍ."
+    },
+    {
+      "section_title": "8. أخذ قرار بتشكيل لجان لدراسة موقف كل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "9. ذكر أسماء التائبين كدرسٍ عملي للكل،"
+    },
+    {
+      "section_title": "8. أخذ قرار بتشكيل لجان لدراسة موقف كل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأبرز أن يشوع رئيس الكهنة العظيم، قائد الفوج الأول، جاء من نسله من تزوج بوثنيات"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التائب باسم الشعب"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 فَلَمَّا صَلَّى عَزْرَا وَاعْتَرَفَ وَهُوَ بَاكٍ وَسَاقِطٌ أَمَامَ بَيْتِ اللهِ، اجْتَمَعَ إِلَيْهِ مِنْ إِسْرَائِيلَ جَمَاعَةٌ كَثِيرَةٌ جِدًّا مِنَ الرِّجَالِ وَالنِّسَاءِ وَالأَوْلاَدِ، لأَنَّ الشَّعْبَ بَكَى بُكَاءً عَظِيمًا. 2 وَأَجَابَ شَكَنْيَا بْنُ يَحِيئِيلَ مِنْ بَنِي عِيلاَمَ وَقَالَ لِعَزْرَا: «إِنَّنَا قَدْ خُنَّا إِلهَنَا وَاتَّخَذْنَا نِسَاءً غَرِيبَةً مِنْ شُعُوبِ الأَرْضِ. وَلكِنِ الآنَ يُوجَدُ رَجَاءٌ لإِسْرَائِيلَ فِي هذَا. 3 فَلْنَقْطَعِ الآنَ عَهْدًا مَعَ إِلهِنَا أَنْ نُخْرِجَ كُلَّ النِّسَاءِ وَالَّذِينَ وُلِدُوا مِنْهُنَّ، حَسَبَ مَشُورَةِ سَيِّدِي، وَالَّذِينَ يَخْشَوْنَ وَصِيَّةَ إِلهِنَا، وَلْيُعْمَلْ حَسَبَ الشَّرِيعَةِ. 4 قُمْ فَإِنَّ عَلَيْكَ الأَمْرَ وَنَحْنُ مَعَكَ. تَشَجَّعْ وَافْعَلْ». 5 فَقَامَ عَزْرَا وَاسْتَحْلَفَ رُؤَسَاءَ الْكَهَنَةِ وَاللاَّوِيِّينَ وَكُلَّ إِسْرَائِيلَ أَنْ يَعْمَلُوا حَسَبَ هذَا الأَمْرِ، فَحَلَفُوا. 6 ثُمَّ قَامَ عَزْرَا مِنْ أَمَامِ بَيْتِ اللهِ وَذَهَبَ إِلَى مُخْدَعِ يَهُوحَانَانَ بْنِ أَلْيَاشِيبَ. فَانْطَلَقَ إِلَى هُنَاكَ وَهُوَ لَمْ يَأْكُلْ خُبْزًا وَلَمْ يَشْرَبْ مَاءً، لأَنَّهُ كَانَ يَنُوحُ بِسَبَبِ خِيَانَةِ أَهْلِ السَّبْيِ."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلَمَّا صَلَّى عَزْرَا وَاعْتَرَفَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُوَ بَاكٍ،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَاقِطٌ أَمَامَ بَيْتِ الله،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اجْتَمَعَ إِلَيْهِ مِنْ إِسْرَائِيل،َ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَمَاعَةٌ كَثِيرَةٌ جِدًّا مِنَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرِّجَالِ وَالنِّسَاءِ وَالأَوْلاَدِ،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ الشَّعْبَ بَكَى بُكَاءً عَظِيمًا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُدعى عزرا موسى الثاني، ليس لأنه قام"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخروج جديد فحسب، وإنما لأنه حمل قلب موسى المملوء حبًا لخلاص شعبه. يرى"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم أن أروع صورة لشخصية موسى لا في صنعه معجزات فائقة باسم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب، وإنما بوقوفه يشفع في شعبه قائلًا: \"والآن إن غفرت خطيتهم، وإلا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فاُمحني من كتابك الذي كتبت\" (خر 32: 32). هذه الصورة الرائعة للنبي العظيم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتكرر بالنسبة لعزرا الكاتب الماهر كما نراها هنا في هذا الأصحاح: \"اعترف"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو باكٍ وساقطٍ أمام بيت الله\" [1]. انطلق إلى مخدع يهوحنان بن ألياشيب"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وهو"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يأكل خبزًا، ولم يشرب ماءً، لأنه كان ينوح بسبب خيانة أهل السبي\" [6]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها ذات الصورة التي للرسول العظيم القائل: \"فإني كنت أود لو أكون أنا نفسي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محرومًا من المسيح لأجل إخوتي أنسبائي حسب الجسد\" (رو 9: 3)، وأيضًا: \"\"من"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يضعف وأنا لا اضعف؟ من يعثر وأنا لا التهب؟\" (2 كو 11: 29)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا هذه الشخصيات الثلاث: موسى النبي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعزرا الكاتب وبولس الرسول، حملت صورة السيد المسيح الراعي الصالح الذي يبذل نفسه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الخراف، ويشتهي أن يموت لخلاص إخوته."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كبريانوس",
+      "text": "القديس كبريانوس"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له من شعور عجيب في الراعي. يسقط الآخرون ويقول: إني أؤكد حزني. يتعثر آخرون"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيقول: تلتهب نيران آلامي!"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليت كل الذين عُهد إليهم قيادة القطيع"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العاقل أن يتمثلوا بهذا، ولا يظهروا أنهم أقل من الراعي الذي يهتم إلى سنوات كثيرة"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقطيع غير عاقلٍ."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ففي حالة القطيع غير العاقل لا يحدث ضرر"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يًذكر حتى إن حدث إهمال، أما في حالتنا فإن هلك خروف واحد أو اُفترس سيكون الضرر"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطيرًا جدًا ومرعبًا والعقوبة لا يُنطق بها، فوق هذا كله إذ سبق الرب واحتمل سفك"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمه من أجله، فأي عذر يقدمه هذا الإنسان أن يسمح لنفسه أن يهمل ذاك الذي اهتم به"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وبذل كل الجهد من جانبه لرعاية القطيع؟"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انهارت نفس عزرا عندما عرف أن من بين"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين جاءوا من السبي عوض تقديم ذبائح شكر لله القدوس، والالتزام بالحياة المقدسة،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختلطوا بشعوب الأرض، وتزوجوا بنساء وثنيات. إنها خيانة عظمى لله! إذ سمع عنها"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا يقول: \"مزقت ثيابي وردائي، ونتفت شعر رأسي وذقني وجلست متحيرًا\""
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(عز 9: 3)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم عزرا صلاة بصوت مرتفع لكي يسمعه كل"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب الذين اجتمعوا لخدمة المساء. منظر هذا الكاهن القائد ساقط أمام بيت الرب"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبكي على خطايا شعبه هزّ قلوب الرجال والنساء، حتى الأطفال، فصار الكل يبكون بكاءً"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظيمًا. فالحب الحقيقي النابع عن قلب متواضع أكثر قوة وفاعلية من العظات المنمقة"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتهديدات."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يحسب عزرا سقوطه وبكاءه يفقدانه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مهابته ككاهنٍ قائدٍ، بل هما سمات القائد المحب الحقيقي."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محبة عزرا ودموعه عن شعبه أثرت"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيهم جدًا، فبكوا معهُ."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَجَابَ شَكَنْيَا بْنُ يَحِيئِيلَ مِنْ بَنِي عِيلاَمَ وَقَالَ لِعَزْرَا:"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنَّنَا قَدْ خُنَّا إِلَهَنَا،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَاتَّخَذْنَا نِسَاءً غَرِيبَةً مِنْ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شُعُوبِ الأَرْض."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَكِنِ الآنَ يُوجَدُ رَجَاءٌ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإِسْرَائِيلَ فِي هَذَا [2]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"شكنيا\" اسم عبري معناه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يهوه يسكن\"، \"يحيئيل\" معناه \"الرب يحيي\"."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"شكنيا بن"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحيئيل\" هو غير شكنيا في (عز 8: 3)، وشكنيا في (عز 8: 5)، وفي (عز 10: 26)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذكر يحيئيل من بني"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عيلام الذين كانوا قد تزوجوا بنساء غريبات. وإذا كان هو يحيئيل المذكور هنا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكون شكنيا ابنه قد عانى من زوجة أبيه الوثنية، واستغل الله هذا الألم الشخصي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لخير الجماعة كلها. وكان رأي شكنيا أن يتخلص الشعب من النساء الوثنيات."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقدم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شكنيا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نيابة عن كل"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجماعة يعترف عن الخطأ بالزواج بالوثنيات، وإن كان هو شخصيًا لم يسقط في هذا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطأ، إنما سقط فيه أبوه [26]. لم يجامل شكنيا أباه، لأن من يسكن الله فيه لا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحابي أحدًا على حساب الحق الإلهي."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد بكى الشعب بكاءً عظيمًا، أما هذا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجل فلم يقف عند البكاء، بل تقدم بالاعتراف باسم والده وكل الذين سقطوا في هذه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخيانة، وكان قلبه كما كلماته مملوءة رجاء في الله غافر الخطايا للراجعين إليه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتوبة."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"والآن يوجد رجاء لإسرائيل في"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا\"، يوجد رجاء إن قدموا توبة صادقة (تث 30: 1-10)، فرجاء شكنيا مبني على"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعود الله."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالقائد أن يكون مملوء رجاءً، ففي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسط كل الظروف القاسية يرى أحضان الله مفتوحة تنتظر النفوس الساقطة أن ترجع وتتوب."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما هنا فنرى شكنيا يسند القائد العظيم عزرا بروح الرجاء. فكما يحتاج الشعب إلى"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مساندة القائد، فإن القائد أيضًا إنسان يحتاج إلا مساندة المؤمنين روحيًا. هذا ما"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدفع الكنيسة أن تصلي في كل ليتورجياتها من أجل البابا والأساقفة والكهنة"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والشمامسة وكل الخدام، كما تحث الشعب على صلاة من أجلهم في صلواتهم الخاصة."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدبِّرون"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا يوصون الشعب للصلاة من أجلهم، هكذا يقول الرسول للكنيسة: \"مصلِّين في"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك لأجلنا نحن أيضًا\" (كو 4: 3)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالرسول يطلب من أجل الشعب، والشعب"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصلِّي لأجل الرسول."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا إخوتي... إنَّنا نصلِّي من أجلكم، فهل تصلُّون"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنتم من أجلنا؟!"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليصلِّ كل عضو من أجل الآخر، وليشفع"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرأس المسيح من أجل الجميع (شفاعة كفاريَّة)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما بخصوص الكاهن (اسمه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Boniface) فلا أقول لكم ألاَّ تحزنوا عليه، لأنَّه كيف لا نحزن على من فقد"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حب المسيح، وصارت لذَّته في خداعات الشيطان؟!"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه يجب أن تنوحوا، لكن لا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤدِّي حزنكم إلى برودة الحب والتراخي في الحياة المقدَّسة. بل أنقذوه بصلواتكم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الله، حتى إن كان كاهنكم مذنبًا، فإن الله يصلحه سريعًا ليقوم بأعماله"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرعويَّة في حياة مقدَّسة."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تهتم بشئونك الخاصة، ومتى أَجَدْتَ إدارتها لا تكون مسئولًا عن شئون غيرك، أمَّا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكاهن فإنَّه إن سلك -في حياته الشخصيَّة- سلوكًا حسنًا، ولم يهتم بحياتك وحياة"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل الذين حوله، سيُطرد مع الشرِّير إلى الجحيم. فإن لم يخنه سلوكه الشخصي، يهلك"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب سلوكك أنت، ما لم يقم هو بالاعتناء بك."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والآن إذ عرفت مقدار الخطر الذي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتعرَّضون له، قدِّم لهم نصيبًا وافرًا من السلام... \"لأنهم يسهرون لأجل نفوسكم\" بل"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والأمر ليس إلى هذا الحد، إنَّما \"كأنهم... يعطون حسابًا\" (عب 13: 17)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذلك يليق بهم أن ينالوا عناية منكم،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنكم إن صرتم كالباقين تهينوهم (بإدانتكم لهم) فإن أموركم لن تدبَّر حسنًا."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنَّه متى كان قائد السفينة متشجِّعا من الطاقم، صار الطاقم كله في أمان. أمَّا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذا سبّوه وأظهروا شروره متعِبين إيَّاه، فإنَّه لا يقدر أن يقود السفينة حسنًا،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أن يستخدم مهارته."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا أيضًا الكاهن. إن كرَّمتموه (أطعتموه)"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدر أن يدبِّر أموركم. أمَّا إن ألقيتم به في اليأس، فإنكم تُضعِفون يديه،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتجعلونه كما تجعلون أنفسكم نهبًا للأمواج مهما بلغت شجاعتكم!"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْنَقْطَعِ الآنَ عَهْدًا مَعَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهِنَا،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْ نُخْرِجَ كُلَّ النِّسَاءِ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالَّذِينَ وُلِدُوا مِنْهُنَّ حَسَبَ مَشُورَةِ سَيِّدِي،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالَّذِينَ يَخْشُونَ وَصِيَّةَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهِنَا."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلْيُعْمَلْ حَسَبَ الشَّرِيعَةِ [3]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حسب مشورة سيدي\"، أي الأمر"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متروك لحكمة عزرا ومشورته."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حَسَبَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّرِيعَةِ\" أي حسب ما ورد في (تثنية 7: 1-3)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الزواج بالوثنيات هو خيانة لله القدوس،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكسرًا للعهد الإلهي، وعصيان للشريعة، فإن علامة التوبة الصادقة هو قطع العهد مع"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله لتصحيح الموقف، والخضوع للوصية والشريعة، وطرد النساء الوثنيات مع أولادهن."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حكمة وتواضع يقول شكنيا لعزرا: \"حسب"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشورة سيدي\". في رقة عجيبة يقدم الاحترام اللائق بعزرا الساقط أمام بيت"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله باكيًا!"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هو موقف هؤلاء النساء الغريبات؟ وماذا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعني بالقول: \"نُخرج كل النساء والذين ولدوا منهن؟"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هل هذا يُحسب تطليقًا؟"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألم تُعطَ لهم الفرصة لقبول الإيمان"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالله الحي؟"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحن نعلم أن التطليق ليس بالأمر الذي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُسر به الله (مل 2: 16)، إنما يبغضه."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هؤلاء الذين تزوجوا بالنساء الغريبات هم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من العائدين من السبي، بعضهم كهنة، والبعض لاويون، والبعض من الشعب، وقد حرمت"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشريعة الزواج بالأجنبيات الوثنيات (خر 34: 11-16؛ تث 7: 1-5)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُجد استثناء لذلك"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل راعوث الموآبية، وراحاب الزانية، وزوجة موسى الكوشية، والثلاثة قبلن الإيمان،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل ربما فقن في إيمانهن بالله عن كثير من اليهود."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح أن هؤلاء النسوة اللواتي تزوجهن بعض"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العائدين من السبي لم يقبلن الإيمان، وكن يمثلن خطرًا على المجتمع الجديد بإدخال"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبادة الوثنية."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن القول: \"نُخْرِجَ كُلَّ النِّسَاءِ\" هنا موقف فريد، فهو ليس بالتطليق، لأنه لم يتم زواج شرعي ديني،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا العلاقة بهن تُحسب زنا، لأنه لم تكن هكذا نية الذين ارتبطوا بهن، لكنها هي زنا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحي، إذ هي خيانة للرب."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُمْ، فَإِنَّ عَلَيْكَ الأَمْرَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَحْنُ مَعَكَ."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَشَجَّعْ وَافْعَلْ [4]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا الشجاع المتكل على الله لم يطلب من"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك حراسة عسكرية لمرافقته أثناء رحلته إلى أورشليم، ينهار أمام الخطية التي بها"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خان الشعب الله."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتطلع شكنيا إلى عزرا الباكي ويشجعه،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائلًا له إنه وقت للإصلاح والعمل. \"قم فإن عليك الأمر\"؛ كأنه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول له دموعك وانسحاقك لا يعفيانك من التزامك بالعمل، فإنه ليس من يقدر أن يصحح"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأوضاع سواك، أما نحن فنتحرك معك حسبما تشاء. \"ونحن معك، تشجع وافعل\"."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلنا نحتاج إلى كلمات المساندة والتشجيع."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيشوع بن نون سمع الصوت الإلهي: \"تشدد وتشجع\" (يش 1: 6)، وسليمان احتاج"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى كلمات أبيه داود: \"تشدد وتشجع واعمل. لا تخف، ولا ترتعب، لأن الرب الإله"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهي معك\" (1 أي 28: 20)."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا له سلطات من قبل الملك، ولكن"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر يبدو صعبًا، لذلك نجد الشعب يسانده ويشجعه ليعمل."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَامَ عَزْرَا وَاسْتَحْلَفَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُؤَسَاءَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَهَنَةِ وَاللاَّوِيِّينَ وَكُلَّ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْ يَعْمَلُوا حَسَبَ هَذَا الأَمْرِ،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَحَلَفُوا [5]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسب عزرا كلمات شكنيا كما من الله الذي"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسند في وقت الضعف، ويقيم كما من الموت، لذا \"قام عزرا\". وفي وسط"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البكاء المُر للشعب استحلف"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤساء الكهنة واللاويين وكل إسرائيل أن يعملوا حسب هذا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر، فحلفوا. استحلفهم أن يصححوا الأوضاع، فاستجاب الكل له."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "+\"استحلف"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤساء الكهنة\"،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى لا يرجعوا ويلقوا بالمسئولية على عزرا وحده، بل يكون القرار جماعيًا،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والجميع ملزمين بتنفيذه."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وأطلقوا"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نداءً\"،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطلق"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرؤساء النداء."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ قَامَ عَزْرَا مِنْ أَمَامِ بَيْتِ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَذَهَبَ إِلَى مِخْدَعِ يَهُوحَانَانَ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بْنِ أَلْيَاشِيبَ."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَانْطَلَقَ إِلَى هُنَاكَ، وَهُوَ لَمْ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَأْكُلْ خُبْزًا، وَلَمْ يَشْرَبْ مَاءً،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ كَانَ يَنُوحُ بِسَبَبِ"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خِيَانَةِ أَهْلِ السَّبْيِ [6]."
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدأت الأزمة في الانفراج،"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأقسم"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤساء الكهنة واللاويون وكل إسرائيل أن يلتزموا بالعمل على تصحيح الموقف، لكن عزرا ظل"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صائمًا ودخل مخدع يهوحانان يبكي وينوح أمام الله، إذ لم تحتمل نفسه أن يرى شعبه"
+    },
+    {
+      "section_title": "1. الراعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خائنًا لله."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تبكي والكل يتحرك"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 وَأَطْلَقُوا نِدَاءً فِي يَهُوذَا وَأُورُشَلِيمَ إِلَى جَمِيعِ بَنِي السَّبْيِ لِكَيْ يَجْتَمِعُوا إِلَى أُورُشَلِيمَ. 8 وَكُلُّ مَنْ لاَ يَأْتِي فِي ثَلاَثَةِ أَيَّامٍ حَسَبَ مَشُورَةِ الرُّؤَسَاءِ وَالشُّيُوخِ يُحَرَّمُ كُلُّ مَالِهِ، وَهُوَ يُفْرَزُ مِنْ جَمَاعَةِ أَهْلِ السَّبْيِ. 9 فَاجْتَمَعَ كُلُّ رِجَالِ يَهُوذَا وَبَنْيَامِينَ إِلَى أُورُشَلِيمَ فِي الثَّلاَثَةِ الأَيَّامِ، أَيْ فِي الشَّهْرِ التَّاسِعِ، فِي الْعِشْرِينَ مِنَ الشَّهْرِ، وَجَلَسَ جَمِيعُ الشَّعْبِ فِي سَاحَةِ بَيْتِ اللهِ مُرْتَعِدِينَ مِنَ الأَمْرِ وَمِنَ الأَمْطَارِ. 10 فَقَامَ عَزْرَا الْكَاهِنُ وَقَالَ لَهُمْ: «إِنَّكُمْ قَدْ خُنْتُمْ وَاتَّخَذْتُمْ نِسَاءً غَرِيبَةً لِتَزِيدُوا عَلَى إِثْمِ إِسْرَائِيلَ. 11 فَاعْتَرِفُوا الآنَ لِلرَّبِّ إِلهِ آبَائِكُمْ وَاعْمَلُوا مَرْضَاتَهُ، وَانْفَصِلُوا عَنْ شُعُوبِ الأَرْضِ وَعَنِ النِّسَاءِ الْغَرِيبَةِ». 12 فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ: «كَمَا كَلَّمْتَنَا كَذلِكَ نَعْمَلُ. 13 إِلاَّ أَنَّ الشَّعْبَ كَثِيرٌ، وَالْوَقْتَ وَقْتُ أَمْطَارٍ، وَلاَ طَاقَةَ لَنَا عَلَى الْوُقُوفِ فِي الْخَارِجِ، وَالْعَمَلُ لَيْسَ لِيَوْمٍ وَاحِدٍ أَوْ لاثْنَيْنِ، لأَنَّنَا قَدْ أَكْثَرْنَا الذَّنْبَ فِي هذَا الأَمْرِ. 14 فَلْيَقِفْ رُؤَسَاؤُنَا لِكُلِّ الْجَمَاعَةِ. وَكُلُّ الَّذِينَ فِي مُدُنِنَا قَدِ اتَّخَذُوا نِسَاءً غَرِيبَةً، فَلْيَأْتُوا فِي أَوْقَاتٍ مُعَيَّنَةٍ وَمَعَهُمْ شُيُوخُ مَدِينَةٍ فَمَدِينَةٍ وَقُضَاتُهَا، حَتَّى يَرْتَدَّ عَنَّا حُمُوُّ غَضَبِ إِلهِنَا مِنْ أَجْلِ هذَا الأَمْرِ». 15 وَيُونَاثَانُ بْنُ عَسَائِيلَ وَيَحْزِيَا بْنُ تِقْوَةَ فَقَطْ قَامَا عَلَى هذَا، وَمَشُلاَّمُ وَشَبْتَايُ اللاَّوِيُّ سَاعَدَاهُمَا. 16 وَفَعَلَ هكَذَا بَنُو السَّبْيِ. وَانْفَصَلَ عَزْرَا الْكَاهِنُ وَرِجَالٌ رُؤُوسُ آبَاءٍ، حَسَبَ بُيُوتِ آبَائِهِمْ، وَجَمِيعُهُمْ بِأَسْمَائِهِمْ، وَجَلَسُوا فِي الْيَوْمِ الأَوَّلِ مِنَ الشَّهْرِ الْعَاشِرِ لِلْفَحْصِ عَنِ الأَمْرِ. 17 وَانْتَهَوْا مِنْ كُلِّ الرِّجَالِ الَّذِينَ اتَّخَذُوا نِسَاءً غَرِيبَةً فِي الْيَوْمِ الأَوَّلِ مِنَ الشَّهْرِ الأَوَّلِ."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَطْلَقُوا نِدَاءً فِي يَهُوذَا"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأُورُشَلِيم،َ"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى جَمِيعِ بَنِي السَّبْيِ،"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِكَيْ يَجْتَمِعُوا إِلَى أُورُشَلِيمَ"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان عزرا قد تقدم أمام الله باكيًا"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونائحًا وساقطًا على الأرض في انسحاق أمام بيت الله، فإن الشعب أيضًا جاء باكيًا،"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اجتمع الكل في رعدة وخوف أمام الله، يبكون بكاءً عظيمًا، وانهارت الأمطار الغزيرة،"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأن السماء تشاركهم دموعهم."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يتحرك عزرا بمفرده، مع أنه كان قادرًا"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يصدر أمرًا واجب التنفيذ حسب الصلاحية المعطاة له من قبل الملك: \"كل من لا"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعمل شريعة إلهك وشريعة الملك فليُقضَ عليه عاجلًا، إما بالموت أو بالنفي أو"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بغرامة المال أو بالحبس\" (عز 7: 26). لكن عزرا آمن بأن الإصلاح لا يتحقق"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإصدار أمر فردي حاسم، وإنما بتحرك الجماعة كلها المقتنعة بضرورة التقديس للرب."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذلك خرج النداء من القادة معًا إلى جميع بني السبي لكي يجتمعوا في أورشليم."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلُّ مَنْ لاَ يَأْتِي فِي ثَلاَثَةِ"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيَّامٍ حَسَبَ مَشُورَةِ الرُّؤَسَاءِ وَالشُّيُوخ،ِ"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحَرَّمُ كُلُّ مَالِهِ،"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُوَ يُفْرَزُ مِنْ جَمَاعَةِ أَهْلِ"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّبْيِ [8]."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رقم 3 كثيرًا ما يشير في الكتاب المقدس"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعهديه إلى قيامة السيد المسيح في اليوم الثالث. وكما يقول"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن إبراهيم سار مسيرة ثلاثة أيام وراء علامة القيامة، لذلك قدم ابنه اسحق للذبح"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واثقًا أن الله يقيمه من الأموات. ويُغطس المعُمد ثلاث مرات في مياه المعمودية"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتمتع بالحياة الجديدة المقامة مع المسيح. وهنا جاءت الدعوة بالاجتماع معًا بعد"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثلاثة أيام ليحملوا قوة قيامة المسيح فيهم، والقادرة أن تقيم من موت الخطية وتدخل"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنا إلى برّ المسيح."
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت الدعوة مشفوعة بعقوبة صارمة، أن من"
+    },
+    {
+      "section_title": "2. السماء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتخلف عن الحضور يحرم من كل ماله ويُفرز من السبي، لماذا؟"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالعضوية الكنسية المقدسة، بدونها يفقد الإنسان ماله، خاصة أرضه التي نالها هبة من"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، فلا تترك له ليسلمها للنساء الوثنيات وأولادهن. هكذا من لا يحفظ عضويته في كنيسة"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح بالحياة المقدسة يُحرم من الميراث الأبدي، ولا يكون له نصيب في كنعان"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماوية."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ب. عزله أو فرزه من الجماعة، فلا يكون له"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حق الانتساب لشعب الله والبنوة لإبراهيم، والتمتع بالوعود الإلهية إلخ. يصير"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريبًا عن الرب، وليس أهل بيت الله (أف 2: 19)."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"في ثلاثة أيام\"،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت أرض اليهود صغيرة، فيمكنهم الحضور من أبعد مكان إلى أورشليم في 3 أيام."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يُحرَم كل ماله\"، كان"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعزرا سلطان من قبل الملك (عز 7: 26)، حتى لا يذهب مال إسرائيل وميراثه"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للوثنيين."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يُفرز"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جماعة"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي\"،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقطع،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحسب"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأجنبي"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ووثني،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المواعيد"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحقوق"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والامتيازات"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لشعب"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكون"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علاقة"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالهيكل."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَاجْتَمَعَ كُلُّ رِجَالِ يَهُوذَا"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبِنْيَامِينَ إِلَى أُورُشَلِيم،َ"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الثَّلاَثَةِ الأَيَّامِ، أَيْ فِي"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّهْرِ التَّاسِعِ فِي الْعِشْرِينَ مِنَ الشَّهْر،ِ"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَلَسَ جَمِيعُ الشَّعْبِ فِي سَاحَةِ"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَيْتِ اللهِ مُرْتَعِدِينَ مِنَ الأَمْرِ وَمِنَ الأَمْطَارِ [9]."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلس جميع الشعب في ساحة بيت الله، ربما"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكون ساحة بجوار الهيكل قبل الساحة التي أمام باب الماء (نح 8: 1)، التي اجتمع"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيها الشعب بعد ذلك مع نحميا وعزرا لسماع كلام الشريعة."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء الكل في رعدة، فإن الخطية تثمر رعدة"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخوفًا، وتُفقد الإنسان سلامه الداخلي."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يهوذا وبنيامين\"،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن أكثر أهل السبي كانوا من هذين السبطين."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الشهر التاسع\"،"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو شهر مطير."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ساحة بيت الله\"، لم يكن في"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم أماكن تستوعب كل هؤلاء والأيام أيام مطر. ولكن لنلاحظ الجدية، فهم لم"
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤجلوا الإصلاح والتوبة حتى شهور الربيع، وهذا دليل الجدية والتوبة الحقيقية."
+    },
+    {
+      "section_title": "ا. يشير هذا الاجتماع إلى التمتع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَامَ عَزْرَا الْكَاهِنُ وَقَالَ"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنَّكُمْ قَدْ خُنْتُمْ وَاتَّخَذْتُمْ"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نِسَاءً غَرِيبَة،ً"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِتَزِيدُوا عَلَى إِثْمِ إِسْرَائِيلَ"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كشف عزرا الكاتب للشعب عن جراحاتهم"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقوله: \"قد خنتم واتخذتم نساء غريبة!\" لم يسترسل في الحديث عن"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجوانب السلبية وتفاصيل الخيانة ضد الله."
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَاعْتَرِفُوا الآنَ لِلرَّبِّ إِلَهِ"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبَائِكُمْ،"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَاعْمَلُوا مَرْضَاتَهُ،"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَانْفَصِلُوا عَنْ شُعُوبِ الأَرْض،ِ"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَنِ النِّسَاءِ الْغَرِيبَةِ [11]."
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم عزرا العلاج للشفاء من هذا الجرح"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطير، ألا وهو التوبة والاعتراف لله، مع أخذ موقف عملي بالانفصال عن الخطية،"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعمل ما يرضي الله، ليرجعوا إلى الله إله آبائهم، فهو ليس بغريبٍ عنهم، ولا هم"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غرباء عنه."
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وانفصلوا عن شعوب الأرض\"،"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بزواجهم من نساء وثنيات اتحدوا مع شعب الأرض في حياتهم وأعمالهم ولذاتهم"
+    },
+    {
+      "section_title": "لَهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعباداتهم القبيحة، ولما انفصلوا عن النساء انفصلوا عن تلك المعاشرات كلها."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَمَا كَلَّمْتَنَا كَذَلِكَ نَعْمَلُ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت الاستجابة من كل الجماعة سريعة،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فدموع عزرا وانسحاقه وحبه لخلاص إخوته وثقته في عمل الله، هذه جميعها أثمرت في"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوب الجماعة بالطاعة لله ولكاهنه."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فأجاب كل"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجماعة\"، أي صدقوا على كلام عزرا، ووافقوا برضا."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلاَّ أَنَّ الشَّعْبَ كَثِيرٌ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْوَقْتَ وَقْتُ أَمْطَار،ٍ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ طَاقَةَ لَنَا عَلَى الْوُقُوفِ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الْخَارِج،ِ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْعَمَلُ لَيْسَ لِيَوْمٍ وَاحِدٍ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَوْ لاِثْنَيْنِ،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّنَا قَدْ أَكْثَرْنَا الذَّنْبَ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي هَذَا الأَمْرِ [13]."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلبت الجماعة من عزرا أن يدبر الله،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالكل خاضعون لله ولشريعته، وإصلاح الموقف لن يتحقق وهم مجتمعون تحت أمطار غزيرة."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما يلزم تدبير الأمر مع رؤساء الجماعة وشيوخ المدن للنظر في كل القضايا الخاصة"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه الخيانة."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْيَقِفْ رُؤَسَاؤُنَا لِكُلِّ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجَمَاعَةِ."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلُّ الَّذِينَ فِي مُدُنِنَا قَدِ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتَّخَذُوا نِسَاءً غَرِيبَةً،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْيَأْتُوا فِي أَوْقَاتٍ مُعَيَّنَةٍ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَعَهُمْ شُيُوخُ مَدِينَةٍ فَمَدِينَةٍ وَقُضَاتُهَا،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَتَّى يَرْتَدَّ عَنَّا حُمُوُّ غَضَبِ"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهِنَا مِنْ أَجْلِ هَذَا الأَمْرِ [14]."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لكل الجماعة\"،"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بما أن العمل كثير ويحتاج إلى وقت اقترحوا تعيين رؤساء مع شيوخ كل مدينة"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليفحصوا ويقضوا وينفذوا الأمر، وتكون قراراتهم صادرة كأنها من الجماعة كلها."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلبوا تشكيل لجان لفحص المدن تحت إشراف"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرؤساء والشيوخ والقضاة، وتحديد أوقات معينة لتصدر الأحكام في غير تسرعٍ، بل"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتروٍ ودراسة."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فليأتوا في"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوقات معينة\": كان الرؤساء في أورشليم كمحكمة وعينوا لكل مدينة وقتًا ليحضر"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين أخذوا نساء غريبات ومعهم شيوخ تلك المدينة وقضاتها."
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حتى"
+    },
+    {
+      "section_title": "فَأَجَابَ كُلُّ الْجَمَاعَةِ وَقَالُوا بِصَوْتٍ عَظِيمٍ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرتد"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوقت"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن قد أصابهم"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء، لكنهم"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهموا"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنهم"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرجعوا"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتوبة فالغضب"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيُونَاثَانُ بْنُ عَسَائِيلَ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَحْزِيَا بْنُ تِقْوَةَ فَقَطْ قَامَا عَلَى هَذَا،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَشُلاَّمُ وَشَبْتَايُ اللاَّوِيُّ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَاعَدَاهُمَا [15]."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجماعة"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلها"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متفقة"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برأيٍ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدٍ،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعارضهم"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أربعة"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجال قاوموا هذا العمل،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوناثان وَيَحْزِيَا يساعدهما لاويان هما مَشُلاَّمُ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَبْتَايُ،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا ما"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لهم أقرباء ارتكبوا هذه الخيانة. لكن مقاومتهم لم تجدِ شيئًا."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هما \"قاما على"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا\"، وفي ترجمة أخرى \"قاوما هذا\"."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَعَلَ هَكَذَا بَنُو السَّبْيِ."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَانْفَصَلَ عَزْرَا الْكَاهِنُ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرِجَالٌ رُؤُوسُ آبَاءٍ حَسَبَ بُيُوتِ آبَائِهِمْ،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَمِيعُهُمْ بِأَسْمَائِهِمْ،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَلَسُوا فِي الْيَوْمِ الأَوَّلِ مِنَ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّهْرِ الْعَاشِرِ لِلْفَحْصِ عَنِ الأَمْرِ [16]."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَانْتَهُوا مِنْ كُلِّ الرِّجَالِ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ اتَّخَذُوا نِسَاءً غَرِيبَةً،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الْيَوْمِ الأَوَّلِ مِنَ الشَّهْرِ"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأَوَّلِ [17]."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تم الأمر بكل تدقيق وفي تروٍ."
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استغرق"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العمل"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثلاثة"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشهر،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث بدأ في أول الشهر العاشر،"
+    },
+    {
+      "section_title": "إلهنا\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانتهى في اليوم الأول من الشهر الأول."
+    },
+    {
+      "section_title": "3. أسماء التائبين",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "18 فَوُجِدَ بَيْنَ بَنِي الْكَهَنَةِ مَنِ اتَّخَذَ نِسَاءً غَرِيبَةً: فَمِنْ بَنِي يَشُوعَ بْنِ يُوصَادَاقَ وَإِخْوَتِهِ: مَعْشِيَّا وَأَلِيعَزَرُ وَيَارِيبُ وَجَدَلْيَا. 19 وَأَعْطَوْا أَيْدِيَهُمْ لإِخْرَاجِ نِسَائِهِمْ مُقَرِّبِينَ كَبْشَ غَنَمٍ لأَجْلِ إِثْمِهِمْ. 20 وَمِنْ بَنِي إِمِّيرَ: حَنَانِي وَزَبْدِيَا. 21 وَمِنْ بَنِي حَارِيمَ: مَعْسِيَّا وَإِيلِيَّا وَشَمْعِيَا وَيَحِيئِيلُ وَعُزِّيَّا. 22 وَمِنْ بَنِي فَشْحُورَ: أَلْيُوعِينَايُ وَمَعْسِيَّا وَإِسْمَاعِيلُ وَنَثَنْئِيلُ وَيُوزَابَادُ وَأَلْعَاسَةُ. 23 وَمِنَ اللاَّوِيِّينَ: يُوزَابَادُ وَشِمْعِي وَقَلاَيَا، هُوَ قَلِيطَا، وَفَتَحْيَا وَيَهُوذَا وَأَلِيعَزَرُ. 24 وَمِنَ الْمُغَنِّينَ: أَلْيَاشِيبُ. وَمِنَ الْبَوَّابِينَ: شَلُّومُ وَطَالَمُ وَأُورِي. 25 وَمِنْ إِسْرَائِيلَ مِنْ بَنِي فَرْعُوشَ: رَمْيَا وَيِزِّيَا وَمَلْكِيَّا وَمِيَّامِينُ وَأَلْعَازَارُ وَمَلْكِيَّا وَبَنَايَا. 26 وَمِنْ بَنِي عِيلاَمَ: مَتَّنْيَا وَزَكَرِيَّا وَيَحِيئِيلُ وَعَبْدِي وَيَرِيمُوثُ وَإِيلِيَّا. 27 وَمِنْ بَنِي زَتُّو: أَلْيُوعِينَايُ وَأَلْيَاشِيبُ وَمَتَّنْيَا وَيَرِيمُوثُ وَزَابَادُ وَعَزِيزَا. 28 وَمِنْ بَنِي بَابَايَ: يَهُوحَانَانُ وَحَنَنْيَا وَزَبَايُ وَعَثْلاَيُ. 29 وَمِنْ بَنِي بَانِي: مَشُلاَّمُ وَمَلُّوخُ وَعَدَايَا وَيَاشُوبُ وَشَآلُ وَرَامُوثُ. 30 وَمِنْ بَنِي فَحَثَ مُوآبَ: عَدْنَا وَكَلاَلُ وَبَنَايَا وَمَعْسِيَّا وَمَتَّنْيَا وَبَصَلْئِيلُ وَبِنُّويُ وَمَنَسَّى. 31 وَبَنُو حَارِيمَ: أَلِيعَزَرُ وَيِشِّيَّا وَمَلْكِيَّا وَشِمْعِيَا وَشِمْعُونُ 32 وَبَنْيَامِينُ وَمَلُّوخُ وَشَمَرْيَا. 33 مِنْ بَنِي حَشُومَ: مَتَّنَايُ ومَتَّاثَا وزَابَادُ وَأَلِيفَلَطُ ويَرِيمَايُ وَمَنَسَّى وَشِمْعِي. 34 مِنْ بَنِي بَانِي: مَعَدَايُ وَعَمْرَامُ وَأُوئِيلُ 35 وَبَنَايَا وَبِيدْيَا وكَلُوهِي 36 ووَنْيَا وَمَرِيمُوثُ وَأَلْيَاشِيبُ 37 وَمَتَّنْيَا وَمَتَّنَايُ وَيَعْسُو 38 وَبَانِي وَبِنُّويُ وَشِمْعِي 39 وَشَلَمْيَا وَنَاثَانُ وَعَدَايَا 40 وَمَكْنَدْبَايُ وَشَاشَايُ وَشَارَايُ 41 وَعَزَرْئِيلُ وَشَلْمِيَا وَشَمَرْيَا 42 وَشَلُّومُ وَأَمَرْيَا وَيُوسُفُ. 43 مِنْ بَنِي نَبُو: يَعِيئِيلُ وَمَتَّثْيَا وَزَابَادُ وَزَبِينَا وَيَدُّو وَيُوئِيلُ وَبَنَايَا. 44 كُلُّ هؤُلاَءِ اتَّخَذُوا نِسَاءً غَرِيبَةً وَمِنْهُنَّ نِسَاءٌ قَدْ وَضَعْنَ بَنِينَ."
+    },
+    {
+      "section_title": "3. أسماء التائبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خُتم السفر بذكر أسماء التائبين، ويلاحظ"
+    },
+    {
+      "section_title": "1. لم يحابِ عزرا الكاتب أحدًا من إخوته",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة، بل ذكرهم أولًا."
+    },
+    {
+      "section_title": "1. لم يحابِ عزرا الكاتب أحدًا من إخوته",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "2. قدم كل كاهن ذبيحة إثم كبش غنم [19]،"
+    },
+    {
+      "section_title": "1. لم يحابِ عزرا الكاتب أحدًا من إخوته",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاسبًا أن هذه الخطية كانت سهوًا (لا 5: 15-16)."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشوع الكاهن الذي قاد أول فوج مع"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل إلى أورشليم جاء من نسله من تزوج"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بوثنيات، وقد ذكروا في مقدمة القائمة!"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "4. ذِكر أسماء الذين أخذوا نساء وثنيات وتسجيلها، درس عملي"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنوعٍ من التأديب، ليصيروا عبرة للأجيال القادمة."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما يوجد سجل فيه أسماء الذين"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عادوا لأورشليم، وهو سجل تكريم، يوجد أيضًا سجل لمن خان الرب، تُسجل فيه"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خيانته. كل خطية بلا توبة تذخر لنا غضبًا في يوم الغضب (رو 2: 5). كل خطايانا"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي بلا توبة مسجلة ضدنا."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عدد الذين خانوا الرب 113 منهم"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 من الكهنة و10 من اللاويين والمغنيين والبوابين و86 من العامة."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَوُجِدَ بَيْنَ بَنِي الْكَهَنَةِ مَنِ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتَّخَذَ نِسَاءً غَرِيبَةً."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَمِنْ بَنِي يَشُوعَ بْنِ يُوصَادَاقَ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِخْوَتِهِ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعْشِيَّا وَأَلِيعَزَرُ وَيَارِيبُ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَدَلْيَا [18]."
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطُوا أَيْدِيَهُمْ لإِخْرَاجِ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نِسَائِهِمْ،"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُقَرِّبِينَ كَبْشَ غَنَمٍ لأَجْلِ"
+    },
+    {
+      "section_title": "3. للأسف",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِثْمِهِمْ [19]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علامة"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصدق."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي إِمِّيرَ حَنَانِي"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزَبْدِيَا [20]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي حَارِيمَ مَعْسِيَّا"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِيلِيَّا وَشَمَعْيَا وَيَحِيئِيلُ وَعُزِّيَّا [21]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي فَشْحُورَ أَلْيُوعِينَايُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَعْسِيَّا وَإِسْمَعِيلُ وَنَثَنْئِيلُ وَيُوزَابَادُ وَأَلْعَاسَةُ [22]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنَ اللاَّوِيِّينَ يُوزَابَادُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَمْعِي وَقَلاَيَا (هُوَ قَلِيطَا)."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَتَحْيَا وَيَهُوذَا وَأَلِيعَزَرُ [23]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنَ الْمُغَنِّينَ أَلْيَاشِيب،"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنَ الْبَوَّابِينَ شَلُّومُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَطَالَمُ وَأُورِي [24]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ إِسْرَائِيلَ مِنْ بَنِي"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَرْعُوشَ رَمْيَا وَيِزِّيَّا وَمَلْكِيَّا وَمِيَّامِينُ وَأَلِعَازَارُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلْكِيَّا وَبَنَايَا [25]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ومن"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل\"،"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العامة."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي عِيلاَمَ مَتَّنْيَا"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزَكَرِيَّا وَيَحِيئِيلُ وَعَبْدِي وَيَرِيمُوثُ وَإِيلِيَّا [26]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي زَتُّو أَلْيُوعِينَايُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلْيَاشِيبُ وَمَتَّنْيَا وَيَرِيمُوثُ وَزَابَادُ وَعَزِيزَا [27]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي بَابَايَ يَهُوحَانَانُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَنَنْيَا وَزَبَايُ وَعَثْلاَيُ [28]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي بَانِي مَشُلاَّمُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلُّوخُ وَعَدَايَا وَيَاشُوبُ وَشَآلُ وَرَامُوثُ [29]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ بَنِي فَحَثَ مُوآبُ عَدْنَا"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَلاَلُ وَبَنَايَا وَمَعْسِيَّا وَمَتَّنْيَا وَبَصَلْئِيلُ وَبِنُّويُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَنَسَّى [30]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو حَارِيمَ أَلِيعَزَرُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيِشِّيَّا وَمَلْكِيَّا وَشَمَعْيَا وَشَمْعُونُ [31]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبِنْيَامِينُ وَمَلُّوخُ وَشَمَرْيَا"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ بَنِي حَشُومَ مَتَّنَايُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومَتَّاثَا وزَابَادُ وَأَلِيفَلَطُ ويَرِيمَايُ وَمَنَسَّى وَشَمْعِي [33]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ بَنِي بَانِي مَعَدَايُ وَعَمْرَامُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأُوئِيلُ [34]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنَايَا وَبِيدْيَا وكَلُوهِي [35]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ووَنْيَا وَمَرِيمُوثُ وَأَلْيَاشِيبُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَتَّنْيَا وَمَتَّنَايُ وَيَعْسُو"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَانِي وَبِنُّويُ وَشَمْعِي [38]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَلَمْيَا وَنَاثَانُ وَعَدَايَا [39]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَكْنَدْبَايُ وَشَاشَايُ وَشَارَاي"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَزَرْئِيلُ وَشَلْمِيَا وَشَمَرْيَا"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَلُّومُ وَأَمَرْيَا وَيُوسُفُ [42]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ بَنِي نَبُو يَعِيئِيلُ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَتَّثْيَا وَزَابَادُ وَزَبِينَا وَيَدُّو وَيُوئِيلُ وَبَنَايَا [43]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ هَؤُلاَءِ اتَّخَذُوا نِسَاءً"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غَرِيبَة،ً"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْهُنَّ نِسَاءٌ قَدْ وَضَعْنَ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنِينَ [44]."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا ما صرفوا النساء والأولاد،"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعهم عطايا وهدايا، ولكن هذا لم يُذكر، فهو سفر توبة، والكلام هنا عن التوبة."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهكذا فعل إبراهيم مع هاجر وإسماعيل، إذ عوضها وصرفها."
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا كقائدٍ ومصلحٍ"
+    },
+    {
+      "section_title": "\"َأَعْطُوا أَيْدِيَهُمْ\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتسم عزرا في"
+    },
+    {
+      "section_title": "1. كانت كلمة الله أو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوصية الإلهية هي دستور القيادة في العمل الروحي الكنسي. أحب الأسفار"
+    },
+    {
+      "section_title": "1. كانت كلمة الله أو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية بكونها كنز الوعود الإلهية، وآمن بقوة الكلمة في حياته كما في خدمته."
+    },
+    {
+      "section_title": "2. عدم الاتكال على ذراع بشري",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم يطلب حماية الملك وجيوشه، حافظ الله عليهم فعلًا."
+    },
+    {
+      "section_title": "3. الصوم والصلاة لكي يسمع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله صوتنا ويستجيب لنا. فقد نادى بصومٍ بالرغم من طول الطريق وصعوبته، مع"
+    },
+    {
+      "section_title": "3. الصوم والصلاة لكي يسمع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التواضع أمام الله. فرحمهم الله وحافظ عليهم، وهكذا ينبغي أن نفعل في بداية كل"
+    },
+    {
+      "section_title": "3. الصوم والصلاة لكي يسمع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشروع."
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه مع التوبة والاعتراف بخطايانا: بكى وصلى، بل واعترف بأنه أخطأ، إذ شعر"
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن خطايا الشعب هي خطاياه هو في حق الله. فهل نصلي من أجل إخوتنا الذين"
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخطئون ونعترف كما لو كنا المخطئين، أم نبرر أنفسنا، ونلقي باللوم على الآخرين."
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "5. عزل الشر: بعزل الزوجات"
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنيات. فالإيمان الحق بالرب يتأثر بالاختلاط الشديد كالزواج بغير المؤمن."
+    },
+    {
+      "section_title": "4. التذلل أمام الله والرجوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على كلٍ يلزم أن يعتزل مؤمن الشر والخطية."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتواضعه ومحبته لشعبه واعترافه بخطاياهم هي التي حركت قلوب الشعب،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقدموا توبة، وبكوا بكاءً عظيمًا. نلاحظ أنه لو طلب عزرا من الشعب أن ينفصلوا"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن زوجاتهم دون أن يصلي ويتذلل أمام الله، لرفضوا وثاروا ضده، وتحولت أفراح"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجوع إلى انشقاقات. كما أرسل الله النبيين حجي وزكريا للشعب ليحرك قلوبهم،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيبنوا الهيكل، أرسل لهم عزرا ليحرك قلوبهم للتوبة، ولإصلاح حالهم روحيًا."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "7. وثق الملك الفارسي في عزرا،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأعطاه بعض الصلاحيات في توقيع العقوبات، ولكن حين أتى نحميا كوالٍ على اليهود"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يتضايق عزرا من أن سلطاته سُلبت منه، بل اهتم بتجميع الكتاب المقدس."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بكل خادم، أنه إن حُرم من خدمة معينة، يعلم أن الله يطلب منه عمل آخر."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليفهم فلا يغير من نجاح خادم آخر في خدمته، بل يهتم هو بخدمته التي ائتمنه"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليها الله."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي عزرا 10"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُدنا في موكب"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التوبة الجماعية"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منا يقدر أن يتبرر أمامك؟"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلنا في الموازين إلى فوق!"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسقف مع الكاهن والخدام وكل الشعب،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلنا ننسحق أمامك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجال مع النساء والأطفال،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكل ينصب العدو لهم الشباك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريد أن يخلط الزرع المقدس بالزوان."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبوتك تسمح لنا بالتأديب كما إلى لحيظة."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نشعر بحنوك فنرجع إليك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقرع صدورنا أمامك!"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نرجع إليك، فقد أفسدت الخطية حياتنا."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجوعنا إليك يرد لنا بهجة خلاصك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجوعنا بالتوبة يُمتعنا بالحياة"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفردوسية!"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنرجع"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليك، فنراك تركض إلينا لتغمرنا بقبلاتك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نرجع إليك، فتفرح السماء بنا."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نرجع إليك لا بالكلام،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما بالسلوك حسب إرادتك المقدسة."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نتمتع بلذة العمل بوصيتك."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحيد عن الشر، ونفعل الخير."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا قادة وشعبًا، أن يسند كل أحدٍ أخاه."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقوم ونعمل معًا بروحك القدوس،"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نتشدد ونتشجع بك، ونمارس عملك!"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنعتزل"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطية وكل فسادٍ!"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونصرخ لأجل تقديس الخطاة."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنعمل كلنا معًا من أجل بنيان كنيستك"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدسة."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": ": 1."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Genesis, hom 57."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Old Testament on Ezra 10:15."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع"
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدمة \" شخصية عزرا\"؛ والقس انطونيوس فكري: عزرا."
+    },
+    {
+      "section_title": "6. صلاة عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "عزرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 10 من سفر عزرا)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/f9k7by5"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/f9k7by5"
     }
   ]
 }

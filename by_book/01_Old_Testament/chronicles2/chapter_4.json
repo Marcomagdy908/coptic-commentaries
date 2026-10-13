@@ -1,17 +1,2767 @@
 {
-  "book_id": 17,
+  "book_id": "chronicles2",
   "book_title": "تفسير سفر أخبار الأيام الثاني",
   "chapter_number": 4,
   "chapter_title": "الأصحاح 4",
   "topic": "الأصحاح 4",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "المذبح النحاسي",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "البحر المسبوك",
+      "verses": "2- 6"
+    },
+    {
+      "number": 3,
+      "title": "المنائر الذهبية والموائد",
+      "verses": "7- 8"
+    },
+    {
+      "number": 4,
+      "title": "أبواب دار الكهنة",
+      "verses": "9- 10"
+    },
+    {
+      "number": 5,
+      "title": "أواني مقدسة وغيرها",
+      "verses": "11- 22"
+    }
+  ],
+  "sections_count": 455,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "الأثاث المعدني والأواني المقدسة"
+      "text": "اَلأَصْحَاحُ الرَّابِعُ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورد أثاث الهيكل في (1 مل 7: 13-51). كان لهذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأثاث أهميته في هيكل الرب، وفي نفس الوقت يحمل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رموزًا تَمِسُّ حياة المؤمن في العهد الجديد. بدون هذا الأثاث الذي عيَّنه الرب لم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكن ممكنًا للكهنة أن يمارسوا خدمتهم التي تُسر الرب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 أي 4: ما أعظم عمل يديك في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داخلي؟!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما نتساءل: ماذا ننتفع من دراستنا للهيكل المقدس والأثاث المعدني والأواني"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدسة؟"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقَدِّم لنا"
+    },
+    {
+      "section_title": null,
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس الإجابة على هذا السؤال في حديثه عن خيمة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاجتماع وأثاثاتها، وهو ينطبق أيضًا على الهيكل."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستطيع كل منا بناء خيمة اجتماع لله داخل نفسه. وكما ذكر الأولون أن خيمة الاجتماع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُمَثِّل العالم كله، وكل فردٍ فيها يستطيع أن يحمل صورة العالم، فلماذا إذًا لا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُكَمِّل كل منا صورة خيمة الاجتماع في داخله؟!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا بد من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تأسيس أعمدة الفضيلة في داخله؛ تشير الأعمدة الفضية إلى طول الأناة والتعقل."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأحيانًا يبدو الشخص صبورًا ولكن بدون تعقلٍ، مثل هذا الشخص عنده أعمدة، ولكن ليست"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فضية، الإنسان الذي يتألم بسبب كلمة الله، ويكرز بها بشجاعة، هو شخص يتحلَّى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأعمدة الفضية ويحتمي فيها..."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن أيضًا أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توسّع القصور داخلك عندما يتَّسع القلب حسب الكلمة التي أوصى بها الرسول أهل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كورنثوس، قائلاً: \"كونوا أنتم أيضًا مُتَّسعين\" (2 كو 13:6)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويستطيع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان أيضًا أن يُحَصِّنَ نفسه بعوارض، حينما يرتبط بوحدة المحبة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويمكنه أن يقف"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الأسس الفضية عندما يتأسس في ثبات كلمة الله النبوية والرسولية."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكنه أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُزَيِّن رؤوس الأعمدة بتيجان، إذا كان تيجانه هي الإيمان بالمسيح، لأن \"رأس كل رجل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو المسيح\" (1 كو 3:11)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويمكن للإنسان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يُقِيمَ في نفسه عشرة ديارات، وذلك حينما يتعمَّق لا في كلمة أو اثنتين أو ثلاث"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات من الشريعة، ولكن يتمتَّع باتِّساع المعنى الروحي للوصايا العشر للناموس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما يُثمِر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثمر الروح: فرح، سلام، طول أناة، وداعة، لطف، تعفف، إيمان، صلاح، وبالأخص عندما تُضَاف المحبة فوق كل تلك الثمار. لتكن هذه النفس يقظة: لا تعطي نعاسًا لعينيها، ولا نومًا لأجفانها، ولا راحة لصدغها، حتى تجد مسكنًا لإله يعقوب (مز 132: 4-5)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقول، ليرسخ في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تلك النفس مذبح دائم ثابت، تُقَدَّم عليه الصلوات للتمتُّع برحمة الله، يُقَدَّم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا عليه الكبرياء وضحايا كعجل مُسَمَّن مذبوح بسكين الاعتدال، فيُذبَح بها الغضب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ككبشٍ، وتُقَدَّم كل اللذات والشهوات كماعزٍ وجداءٍ."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليعرف كيف يحفظ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الذبيحة للكهنة الذراع اليمنى والصدر والفك إشارة إلى الأعمال الصالحة، والأعمال"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليمينية (أي لا يحتفظ بأي نوعٍ من الشر)، والصدر الذي يرمز إلى القلب المستقيم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والفكر المُكرَّس لله، أما الفك فيُمَثِّل كلمة الله المنطوقة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليُدرِك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان وجوب وضع المنارة في مقدسه الداخلي، وينير سرجها دائمًا، ويمنطق نفسه،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكون هو نفسه كالعبد الأمين الذي ينتظر رجوع سيده من العرس (لو 35:12-36). يقول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب عن تلك السُرج: \"سراج الجسد هو العين\" (مت 6: 22)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليضع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنارة ناحية الجنوب لكي تتطلَّع نحو الشمال، لأنه حينما تنير السرج، أي يلتهب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القلب الداخلي يترقَّب ناظرًا جهة الشمال على الدوام، يترقَّب ذاك الذي \"هو من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمال\" حيث شهد \"قدرًا منفوخة ووجهها من جهة الشمال\"، لأن الشر يلتهب من الشمال\""
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(إر 13:1-14). فليكن الإنسان إذًا يقظًا على الدوام مترقبًا خداع عدوه وعلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استعدادٍ دائمٍ لمواجهة حروبه حتى إذا ما بدأ هجومًا وزحف نحوه يصده. يقول بطرس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسول أيضًا: \"إبليس خصمكم كأسدٍ زائرٍ يجول ملتمسًا من يبتلعه هو\" (1 بط 8:5)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليضع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المائدة وعليها اثنتا عشرة خبزة جهة الشمال ومتجهة نحو الجنوب. يشير الخبز إلى الكلمة الرسولية في العدد والقوة. وباستمرارية استخدامها كما أمر الرب موسى أن يوضع الخبز دائمًا أمام الرب، ويتجه الإنسان نحو الجنوب مُترقِّبًا قدوم الرب، [لأن الرب سيأتي من تيمان](*)، كما هو مكتوب لأنها في الجنوب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليضع مذبح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البخور في أعماق قلبه، ليقول مع الرسول: [نحن رائحة المسيح الذكية] (2 كو 2: 15)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكن لكل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسانٍ تابوت عهد يحتفظ فيه بلوحي الشريعة حتى [يلهج في ناموس الله نهارًا وليلاً]"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مز 2:1)، وليصبح فكره كتابوت العهد ومكتبة تضم كتب الله، لأن الأنبياء طوّبوا الذين يحفظون وصاياه في ذاكرتهم (مز 106: 3) [105 سبعينية]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليحفظ الإنسان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا في داخل قلبه قسط المن إشارة إلى جمال وعذوبة فهم كلمة الله، وليحفظ أيضًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عصا هرون إشارة إلى التعليم الكهنوتي وقد أزهرت بتأديب مستقيم (العصا للتأديب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتهذيب)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالإضافة إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل تلك الأمور السماوية فليرتدِ ملابس رئيس الكهنة. هذا هو أثمن عمل يمكن أن يقوم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به الإنسان، إذ يقوم بدور رئيس الكهنة. يرى البعض أن تلك المهمة هي مراقبة القلب،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويرى آخرون أنها الفهم العقلي أو المادة الفكرية. ولكن مهما أطلقوا عليها من أسماء،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهي تبقى تعني الجزء (من النفس) الذي له القدرة على الميل الأساسي نحو الله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلنُزَيِّن إذًا هذا الجزء الذي فينا بالثياب والجواهر الثمينة وبجبّة كهنوتية"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طويلة. هذه الجبة تكسو القدمين، وتُغَطِّي الجسم كله، وهذا إشارة إلى أن يكتسي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان كله بثوب العفة. ويرتدي أيضًا الرداء الخارجي المُزَيَّن بالجواهر إشارة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الأعمال الحسنة: [فيروا أعمالكم الحسنة، ويُمَجِّدوا أباكم الذي في السماوات]"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مت 5: 16)..."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكن لرئيس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة أغطية على أعضائه الداخلية، فتُغَطِّي أجزاء جسمه الخاصة، فيكون [مقدّسًا جسدًا وروحًا] (1 كو34:7)، طاهرًا في فكره وأعماله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليضع جلاجل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أجراسًا) على أذيال جبّة الرداء، وكما يقول الكتاب إنه عندما يدخل المقدس يعطي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صوتًا ولا يدخل في سكونٍ (خر 35:28). هذه الأجراس التي تعطي صوتًا على الدوام"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُوضَع في هدب الثوب. أظن أن الغرض من هذا في رأيي هو ألا تصمت عن ذكر الأيام"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأخيرة ونهاية العالم، بل دائمًا تضرب الأجراس وتحاور وتتحدَّث، متفقةً مع ذاك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي قال: [أذكر أواخر أيامك فلا تخطئ] (سي 40:7)، بهذه الطريقة يَتَزيَّن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنساننا الداخلي ليصير رئيس كهنة لله، مستحقًا لا للدخول إلى القدس فقط، بل أيضًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى قدس الأقداس، ويقترب من عرش الرحمة حيث الشاروبيم، فيتراءى له الله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والقدس إشارة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الحياة المقدسة في العالم الحاضر، أما قدس الأقداس الذي يدخله (رئيس الكهنة)"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرة واحدة في السنة رمزًا للعبور إلى السماويات حيث عرش الرحمة، ويُوجَد الجالس على"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشاروبيم، حيث يُعلِن الله ذاته في القلب النقي، إذ يقول الرب: \"لأن ها ملكوت الله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داخلكم\" (لو 21:17)[1]\"."
+    },
+    {
+      "section_title": null,
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وستجد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير أخرى"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النحاسي"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَذْبَحَ نُحَاسٍ طُولُهُ عِشْرُونَ ذِرَاعًا،"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَرْضُهُ"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عِشْرُونَ ذِرَاعًا،"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَارْتِفَاعُهُ"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَشَرُ أَذْرُعٍ. [1]"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقترب من"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل من جهة الشرق يجد مدخل ساحة دار الكهنة. في هذا المدخل يأتي الشعب بذبائحهم"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتقدماتهم التي يحضرونها للرب. على اليمين من جهة الجنوب يوجد المذبح النحاسي، حيث"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توجد النار مشتعلة على الدوام، والكهنة يُقَدِّمون الذبائح (خر 27: 1-8؛ 38: 1-7)."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذبح النحاسي"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا هو نظير المذبح الموسوي في جبعون (2 أخ 1: 6؛ خر 38: 30)، ولكنه أكبر منه."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشياء المصنوعة من النحاس هي مذبح المُحرَقات [1]، والبحر المسبوك والمراحض لحمل"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الماء [2-6]، وغشاء لمصاريع أبواب دار الكهنة [9]، وبعض أواني المذبح وغيرها"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يُذكَر المذبح النحاسي في سفر الملوك. كان يُقدَّم عليه المُحرَقات، وكان أكبر"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكثير من المذبح الذي عمله موسى في خيمة الشهادة الذي كانت أبعاده خمسة أذرع مربعة،"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما المذبح في"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيكل سليمان فكانت أبعاده عشرين ذراعًا مُربّعة، فقد تزايد شعب"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل، وأصبح كثير العدد وغنيًا، وكان الأمل أن يكون أكثر تقوى خلال خبرة الشركة"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع الله عبر هذه الأجيال."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان من المتوقع أن تكون التقدمات لمذبح الله بوفرة كثيرة عما كان سابقًا، لذلك"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صُنِعَ على سعة كبيرة ليوضع عليه كل التقدمات. فالله قد وسع حدودهم، وكان من"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المناسب أن يوسعوا مذابحه. فما نُقَدِّمه يجب أن يكون على قدر ما يُعطَى لنا."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ارتفاع المذبح عشرة أذرع لكي ما يتمكَّن الشعب الذي يعبد في الدار الخارجية من"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤية ذبائح المُحرَقة، فيتأثر قلبه بذلك، فيُقَدِّم توبة عن خطاياه، قائلاً: إنه من"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رحمة الله أنني لم أُهلك، وأن هذه الذبيحة قد قُبِلَت كفارة عن ذنبي. ولعلّهم بهذا"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينقادون إلى معرفة الذبيحة العظيمة التي ستُقَدَّم في ملء الزمان، ذبيحة المسيح!"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولعل قلوبهم تُحَلِّق في السماويات، عندما يرون صعود دُخَّان الذبائح."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يذكر الكتاب المقدس كيف كان يصعدون ويحملون الذبائح إلى المذبح، فالبعض يعتقد"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنهم كانوا يصعدون كما على تلٍ، دون أن يستخدموا درجات (سلالم)، لأن هذا تمنعه"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشريعة (خر 20: 26). يرى البعض أنه كان بلا شكٍ يوجد درج مائل للصعود إلى المذبح."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في عظات"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس على سفر يشوع يُقَدِّم لنا صورة حية عن خدمة"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذبح والذبائح في العهد القديم كرمزٍ لما تَحَقَّق بذبيحة السيد المسيح على"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصليب."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجب علينا شرح موت موسى، لأنه إن فهمنا كيف مات موسى، ندرك كيف يملك المسيح. فحينما"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترى خراب أورشليم والمذبح بلا ذبيحة ولا تقدمة ولا كهنة أو لاويين، حينما ترى كل"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك قل إن موسى خادم الرب قد مات."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحينما ترى أنه"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يوجد أحد يأتي ثلاث مرات (في السنة) ليقف أمام وجه الرب، أو يُقَدِّم تقدمات في"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل، أو يذبح حمل الفصح، ويأكل خبزًا بدون خميرة، أو يُقَدِّم البكور أو يكرس"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطفل البكر، حينئذ تدرك موت موسى خادم الرب."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولكن حينما ترى"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخول الأمم الإيمان وبناء الكنائس وتقديس المذبح بدم يسوع المسيح الثمين بدلاً من"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دم الذبائح، وتدرك عدم انشغال الكهنة واللاويين بدماء التيوس والعجول، بل بكلمة"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بواسطة نعمة الروح القدس، حينئذ يمكن القول إن السيد المسيح أخذ الرئاسة خلفًا"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لموسى..."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينما ترى"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح فصحنا قد ذُبِحَ، وتأكل خبز الإخلاص الذي بلا خميرة، وتُثمر الأرض الجيدة"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للكنيسة تثمر ثلاثين وستين ومائة، أقصد الأرامل والعذارى والشهداء. وحينما ترى شعب"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بني إسرائيل يزدادون، أي الذين وُلِدوا ليس من دم ولا من مشيئة رجل ولا من مشيئة"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسد، ولكن من الله قد وُلِدوا فصاروا أبناء الله، هؤلاء الذين كانوا قد تشتَّتوا"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد جمعهم إلى واحدٍ في شخصه."
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حين ترى أيضًا"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حفظ الناس ليوم السبت، لا بترك العمل، ولكن بنزع الخطية، حينما تتم كل تلك الأمور،"
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينئذ تدرك أن موسى عبد الرب قد مات، وأن المسيح ابن الله له كل الرئاسة[2].\""
+    },
+    {
+      "section_title": "1. المذبح",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسبوك (الحوض أو الجرن)"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "2 وَعَمِلَ الْبَحْرَ مَسْبُوكًا عَشَرَ أَذْرُعٍ مِنْ شَفَتِهِ إِلَى شَفَتِهِ، وَكَانَ مُدَوَّرًا مُسْتَدِيرًا وَارْتِفَاعُهُ خَمْسُ أَذْرُعٍ، وَخَيْطٌ ثَلاَثُونَ ذِرَاعًا يُحِيطُ بِدَائِرِهِ. 3 وَشِبْهُ قِثَّاءٍ تَحْتَهُ مُسْتَدِيرًا يُحِيطُ بِهِ عَلَى اسْتِدَارَتِهِ، لِلذِّرَاعِ عَشَرٌ تُحِيطُ بِالْبَحْرِ مُسْتَدِيرَةً، وَالْقِثَّاءُ صَفَّانِ قَدْ سُبِكَتْ بِسَبْكِهِ، 4 كَانَ قَائِمًا عَلَى اثْنَيْ عَشَرَ ثَوْرًا، ثَلاَثَةٌ مُتَّجِهَةٌ إِلَى الشِّمَالِ، وَثَلاَثَةٌ مُتَّجِهَةٌ إِلَى الْغَرْبِ، وَثَلاَثَةٌ مُتَّجِهَةٌ إِلَى الْجَنُوبِ، وَثَلاَثَةٌ مُتَّجِهَةٌ إِلَى الشَّرْقِ، وَالْبَحْرُ عَلَيْهَا مِنْ فَوْقُ، وَجَمِيعُ أَعْجَازِهَا إِلَى دَاخِل. 5 وَغِلَظُهُ شِبْرٌ، وَشَفَتُهُ كَعَمَلِ شَفَةِ كَأْسٍ بِزَهْرِ سَوْسَنٍّ. يَأْخُذُ وَيَسَعُ ثَلاَثَةَ آلاَفِ بَثٍّ. 6 وَعَمِلَ عَشَرَ مَرَاحِضَ، وَجَعَلَ خَمْسًا عَنِ الْيَمِينِ وَخَمْسًا عَنِ الْيَسَارِ، لِلاغْتِسَالِ فِيهَا. كَانُوا يَغْسِلُونَ فِيهَا مَا يُقَرِّبُونَهُ مُحْرَقَةً، وَالْبَحْرُ لِكَيْ يَغْتَسِلَ فِيهِ الْكَهَنَةُ."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَحْرَ مَسْبُوكًا عَشَرَ أَذْرُعٍ مِنْ شَفَتِهِ إِلَى شَفَتِهِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَانَ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُدَوَّرًا مُسْتَدِيرًا، وَارْتِفَاعُهُ خَمْسُ أَذْرُعٍ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَيْطٌ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثَلاَثُونَ ذِرَاعًا يُحِيطُ بِدَائِرِهِ. [2]"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على شمال"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدخل نحو الجانب الجنوبي من ساحة دار الكهنة، يوجد البحر المسبوك عوض الحوض"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصغير الذي كان قائمًا في ساحة خيمة الاجتماع (خر 30: 17-21؛ 38: 8)."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقف هذا الحوض"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على ظهر 12 تمثالاً لثيران، ربما تشير هذه الثيران إلى"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسباط إسرائيل الاثني عشر (2 مل 16: 17)، وهي في مجموعات، تتكوَّن كل منها من ثلاثة تماثيل للثيران كل منها في"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتجاهٍ مختلفٍ."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الكهنة"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلتزمون أن تكون أياديهم وأرجلهم نظيفة، وإلا تَعَرَّضوا للموت (خر 30: 20)."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير المياه"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي للشرب في الكتاب المقدس إلى الروح القدس (يو 7: 37-39). بينما مياه الاغتسال"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير إلى كلمة الله (مز 119: 9؛ يو 15: 3؛ أف 5: 25-27)."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يعمل الكهنة"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الهيكل يحتاجون إلى المياه للاغتسال وإلى كلمة الله لغسل قلوبهم بالروح القدس"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واهب النقاوة والقداسة والتجديد المستمر. هذا ما أعلنه السيد بغسله أقدام التلاميذ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل تناولهم من جسده المقدس ودمه الكريم في خميس العهد."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان هذا البحر مثل اللقَّان في كنيسة العهد الجديد، أو مثل المغطس في الكنائس"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديمة. يليق بنا أن تغتسل ضمائرنا بالتوبة الحقيقية، لكي نخدم الله الحيّ (عب 9: 14)، كما يليق بنا أن نُطَهِّر أيادينا وقلوبنا (يع 4: 8)، حتى نسمع كلمات السيد"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح: [الذي قد اغتسل ليس له حاجة إلا إلى غسل قدميه]، ويتجدد بتوبته كلما دخل"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليخدم (يو 13: 10)."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسيفوس"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤرخ اليهودي أنه دُعِي بالبحر من أجل ضخامة حجمه. ويرى البعض أنه حمل هذا الاسم"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل عمله الرمزي، فبحر سليمان يرمز للمياه الأولى في الخليقة حيث كان روح الله"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرف عليها."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذبح والبحر"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هما رمزان لمثيلهما في الهيكل السماوي المصنوع ليس بأيادٍ بشريةٍ."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشِبْهُ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُثَّاءٍ تَحْتَهُ مُسْتَدِيرًا يُحِيطُ بِهِ عَلَى اسْتِدَارَتِهِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلذِّرَاعِ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَشَرٌ تُحِيطُ بِالْبَحْرِ مُسْتَدِيرَةً،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْقِثَّاءُ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَفَّانِ قَدْ سُبِكَتْ بِسَبْكِهِ [3]"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانَ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَائِمًا عَلَى اثْنَيْ عَشَرَ ثَوْرًا،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثَلاَثَةٌ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُتَّجِهَةٌ إِلَى الشِّمَالِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَثَلاَثَةٌ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُتَّجِهَةٌ إِلَى الْغَرْبِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَثَلاَثَةٌ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُتَّجِهَةٌ إِلَى الْجَنُوبِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَثَلاَثَةٌ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُتَّجِهَةٌ إِلَى الشَّرْقِ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْبَحْرُ عَلَيْهَا مِنْ فَوْقُ، وَجَمِيعُ أَعْجَازِهَا إِلَى دَاخِل. [4]"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَغِلَظُهُ (وَسُمْكُهُ) شِبْرٌ، وَشَفَتُهُ كَعَمَلِ شَفَةِ كَأْسٍ بِزَهْرِ سَوْسَنٍّ."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَأْخُذُ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَسَعُ ثَلاَثَةَ آلاَفِ بَثٍّ. [5]"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان البحر أو"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحوض متسعًا. يعتقد المفسّرون الربيُّون أن الكهنة اعتادوا أن يستحمّوا فيه،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يغطسون فيه [6]."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَشْر مَرَاحِضَ،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَمْسًا عَنِ الْيَمِينِ وَخَمْسًا عَنِ الْيَسَارِ لِلاِغْتِسَالِ فِيهَا."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانُوا"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَغْسِلُونَ فِيهَا مَا يُقَرِّبُونَهُ مُحْرَقَةً،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْبَحْرُ لِكَيْ يَغْتَسِلَ فِيهِ الْكَهَنَةُ. [6]"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد عشر قواعد"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من نحاس مُزَيَّنة بأسود وثيران وكروبيم وعلى كل قاعدة حوض يسع 230 جالونًا من"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الماء. هذه القواعد بأحواضها موجودة في ساحة الكهنة على اليمين، وهي قائمة على"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عجلات يُمكِن بسهولة تحريكها، تُستخدَم في غسل الذبائح، وربما في تنظيف الهيكل بوجه"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عام."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما تتسخ"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المياه، تُفرَّغ في مكان مناسب، وتُملأ الأحواض بمياه نظيفة من البحر المسبوك."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه القواعد"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحاملة للأحواض في غاية الجمال بزخارفها الكثيرة، لكي يدرك الكهنة واللاويون"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والشعب أن الله يرى في القداسة والنقاوة جمالاً خاصًا، وليس من عزلٍ بين القداسة"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والجمال (خر 28: 2؛ مز 29: 2؛ 69: 6، 9؛ 110: 3)."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنسبة"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للمرحضة، في خيمة الاجتماع وجدت مرحضة واحدة، لأن جميع الكهنة كانوا من"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاوي،"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يجوز حتى للملوك أن يمارسوا العمل الكهنوتي. أما في الهيكل حيث يشير إلى كنيسة"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد الجديد، فوجدت عشر مراحض، خمسًا عن اليمين وخمسًا عن اليسار، لأن كهنة العهد"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجديد لا يرتبطون بسبط مُعَيَّن ولا أُمَّة مُعيَّنة، إذ في المسيح ليس يهودي ولا"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوناني، إنما جميع الكهنة مستترون في رئيس الكهنة الأعظم السماوي، ربنا يسوع"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا يغسلون فيها ما يُقَرِّبونه مُحرَقة [6]، فكما وجب أن يغتسل الكهنة، كذلك"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُغسَل الذبائح. ونحن يلزمنا أن نطرح بكل حرصٍ كل الأفكار الشريرة."
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← وستجد"
+    },
+    {
+      "section_title": "2. البحر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير أخرى"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذهبية والموائد"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 وَعَمِلَ مَنَائِرَ ذَهَبٍ عَشَرًا كَرَسْمِهَا، وَجَعَلَهَا فِي الْهَيْكَلِ، خَمْسًا عَنِ الْيَمِينِ وَخَمْسًا عَنِ الْيَسَارِ. 8 وَعَمِلَ عَشَرَ مَوَائِدَ وَوَضَعَهَا فِي الْهَيْكَلِ، خَمْسًا عَنِ الْيَمِينِ وَخَمْسًا عَنِ الْيَسَارِ. وَعَمِلَ مِئَةَ مِنْضَحَةٍ مِنْ ذَهَبٍ."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنَائِرَ ذَهَبٍ عَشَرًا كَرَسْمِهَا،"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَهَا"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الْهَيْكَلِ خَمْسًا عَنِ الْيَمِينِ، وَخَمْسًا عَنِ الْيَسَارِ. [7]"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المكان"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُتَّسِع والذي لا يصل إليه نور النهار يحتاج إلى هذه المنائر."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالغ"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسيفوس في قوله بأنه في الهيكل وُجِدَ عشرة آلاف شمعدان."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشبه المنارة التي كانت في خيمة الاجتماع."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة الله هي سراج مُنِير يضيء في عالمٍ مظلمٍ."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام موسى كانت منارة واحدة، وهي أسفار موسى الخمسة (التوراة). إضافة منارات"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى هنا تشير إلى إضافة أسفار أخرى مقدسة. فالنور يتوهَّج أكثر، والمنائر أي"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكنائس تتزايد (رؤ 1: 20)."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَسَّس موسى منارة واحدة هي الكنيسة اليهودية، لكن هيكل الإنجيل تضاعف فيه، ليس"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب كثرة المؤمنين من اليهود، بل تضاعفت أيضًا الكنائس من كل الأمم والشعوب."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَشَرَ مَوَائِدَ، وَوَضَعَهَا فِي الْهَيْكَلِ،"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَمْسًا عَنِ"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْيَمِينِ، وَخَمْسًا عَنِ الْيَسَارِ."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِئَةَ مِنْضَحَةٍ مِنْ ذَهَبٍ. [8]"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في (1 مل 7: 48)"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يذكر مائدة وجوه واحدة، لأن غاية السفر تأكيد قيام مملكة إسرائيل التي تُعَد الطريق"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمجيء المسيا المُخَلِّص، أما (2 أي 4: 8)، فيُشِير إلى عشر موائد في الهيكل، خمسًا"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على اليمين، وخمسًا على اليسار، وكأن كنيسة العهد الجديد كرمزٍ للسماء تفتح أبوابها"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإسرائيل الجديد الذي يذوب فيه اليهود وسط الأمم، فيُقَدِّم المسيح نفسه خبزًا"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سماويًا للشعوب القادمة من المشارق والقادمة من المغارب، أي من أقاصي المسكونة إلى"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقاصيها دون محاباة لأمةٍ معينةٍ."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما كان يوضع اثنتا عشرة خبزة على كل مائدة، فكلما كبر بيت الرب كبرت أيضًا"
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخدمة. ففي بيت أبي هناك خبز يكفي جميع الأسرة."
+    },
+    {
+      "section_title": "3. المنائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لهذه الموائد مائة منضحة أو طبق من ذهب، فإن مائدة الرب مُعدَّة حسنًا."
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 وَعَمِلَ دَارَ الْكَهَنَةِ وَالدَّارَ الْعَظِيمَةَ وَمَصَارِيعَ الدَّارِ، وَغَشَّى مَصَارِيعَهَا بِنُحَاسٍ. 10 وَجَعَلَ الْبَحْرَ إِلَى الْجَانِبِ الأَيْمَنِ إِلَى الشَّرْقِ مِنْ جِهَةِ الْجَنُوبِ."
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ دَارَ"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَهَنَةِ وَالدَّارَ الْعَظِيمَةَ وَمَصَارِيعَ الدَّارِ،"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَغَشَّى"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَصَارِيعَهَا بِنُحَاسٍ. [9]"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت أبواب دار الكهنة مُغطَّاة بالنحاس [9]، حتى لا تتأثَّر بعوامل الجو التي"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتعرَّض لها؛ وقد ذُكرت أبواب النحاس في (مز 107: 16)."
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَ"
+    },
+    {
+      "section_title": "4. أبواب دار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَحْرَ إِلَى الْجَانِبِ الأَيْمَنِ إِلَى الشَّرْقِ مِنْ جِهَةِ الْجَنُوبِ."
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وغيرها"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "11 وَعَمِلَ حُورَامُ الْقُدُورَ وَالرُّفُوشَ وَالْمَنَاضِحَ. وَانْتَهَى حُورَامُ مِنْ عَمَلِ الْعَمَلِ الَّذِي صَنَعَهُ لِلْمَلِكِ سُلَيْمَانَ فِي بَيْتِ اللهِ: 12 الْعَمُودَيْنِ وَكُرَتَيِ التَّاجَيْنِ عَلَى رَأْسَيِ الْعَمُودَيْنِ، وَالشَّبَكَتَيْنِ لِتَغْطِيَةِ كُرَتَيِ التَّاجَيْنِ اللَّذَيْنِ عَلَى رَأْسَيِ الْعَمُودَيْنِ، 13 وَالرُّمَّانَاتِ الأَرْبَعِ مِئَةٍ لِلشَّبَكَتَيْنِ، صَفَّيْ رُمَّانٍ لِلشَّبَكَةِ الْوَاحِدَةِ لِتَغْطِيَةِ كُرَتَيِ التَّاجَيْنِ اللَّذَيْنِ عَلَى الْعَمُودَيْنِ. 14 وَعَمِلَ الْقَوَاعِدَ وَعَمِلَ الْمَرَاحِضَ عَلَى الْقَوَاعِدِ، 15 وَالْبَحْرَ الْوَاحِدَ وَالاثْنَيْ عَشَرَ ثَوْرًا تَحْتَهُ، 16 وَالْقُدُورَ وَالرُّفُوشَ وَالْمَنَاشِلَ وَكُلَّ آنِيَتِهَا، عَمِلَهَا لِلْمَلِكِ سُلَيْمَانَ «حُورَامُ أَبِي» لِبَيْتِ الرَّبِّ مِنْ نُحَاسٍ مَجْلِيٍّ. 17 فِي غَوْرِ الأُرْدُنِّ سَبَكَهَا الْمَلِكُ فِي أَرْضِ الْخَزَفِ بَيْنَ سُكُّوتَ وَصَرَدَةَ. 18 وَعَمِلَ سُلَيْمَانُ كُلَّ هذِهِ الآنِيَةِ كَثِيرَةً جِدًّا لأَنَّهُ لَمْ يُتَحَقَّقْ وَزْنُ النُّحَاسِ. 19 وَعَمِلَ سُلَيْمَانُ كُلَّ الآنِيَةِ الَّتِي لِبَيْتِ اللهِ، وَمَذْبَحَ الذَّهَبِ وَالْمَوَائِدَ وَعَلَيْهَا خُبْزُ الْوُجُوهِ، 20 وَالْمَنَائِرَ وَسُرُجَهَا لِتَتَّقِدَ حَسَبَ الْمَرْسُومِ أَمَامَ الْمِحْرَابِ مِنْ ذَهَبٍ خَالِصٍ. 21 وَالأَزْهَارَ وَالسُّرُجَ وَالْمَلاَقِطَ مِنْ ذَهَبٍ. وَهُوَ ذَهَبٌ كَامِلٌ. 22 وَالْمَقَاصَّ وَالْمَنَاضِحَ وَالصُّحُونَ وَالْمَجَامِرَ مِنْ ذَهَبٍ خَالِصٍ، وَبَابَ الْبَيْتِ وَمَصَارِيعَهُ الدَّاخِلِيَّةَ لِقُدْسِ الأَقْدَاسِ وَمَصَارِيعَ بَيْتِ الْهَيْكَلِ مِنْ ذَهَبٍ."
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُورَامُ الْقُدُورَ وَالرُّفُوشَ وَالْمَنَاضِحَ،"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَانْتَهَى"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُورَامُ مِنْ عَمَلِ الْعَمَلِ الَّذِي صَنَعَهُ لِلْمَلِكِ سُلَيْمَانَ فِي"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَيْتِ الله: [11]"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْعَمُودَيْنِ وَكُرَتَيِ التَّاجَيْنِ عَلَى رَأْسَيِ الْعَمُودَيْنِ"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالشَّبَكَتَيْنِ،"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِتَغْطِيَةِ"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُرَتَيِ التَّاجَيْنِ اللَّذَيْنِ عَلَى رَأْسَيِ الْعَمُودَيْنِ [12]"
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا نرى نبذة مختصرة للأشياء المصنوعة من النحاس."
+    },
+    {
+      "section_title": "5. أواني مقدسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلاحظ هنا"
+    },
+    {
+      "section_title": "1. كان حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صانعًا ماهرًا ومدقِّقًا وملتزمًا، فقد أنجز كل ما طُلِبَ منه [11]. دعاه ملك صور"
+    },
+    {
+      "section_title": "1. كان حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حورام أبي\"، ودعاه سليمان أيضًا هكذا، لأنه قد أبدع في عمله، وحُسِبَ أبًا لكل"
+    },
+    {
+      "section_title": "1. كان حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصنَّاع المهرة."
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كريمًا جدًا، فقد عمل آنية كثيرة جدًا [18] من كل نوعٍ، حتى يتم العمل في الهيكل"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسرعة، ولكي توجد أواني تُستخدَم متى تلفت آنية."
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت التبرعات"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسخاءٍ، وأعطى هو أيضًا بسخاءٍ. وعندما عمل ما يكفي من الأواني لذلك الحين لم يستطع"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يستخدم ما تبقَّى من النحاس لأغراضه الخاصة، لأنه كان مُخصَّصًا لله، ويجب أن"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُستخدَم لخدمته فقط."
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالرُّمَّانَاتِ الأَرْبَعِ مِئَةٍ لِلشَّبَكَتَيْنِ،"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(صَفَّيْ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُمَّانٍ لِلشَّبَكَةِ الْوَاحِدَةِ لِتَغْطِيَةِ كُرَتَيِ التَّاجَيْنِ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللَّذَيْنِ عَلَى الْعَمُودَيْنِ). [13]"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْقَوَاعِدَ، وَعَمِلَ الْمَرَاحِضَ عَلَى الْقَوَاعِدِ [14]"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْبَحْرَ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْوَاحِدَ وَالاِثْنَيْ عَشَرَ ثَوْرًا تَحْتَه [15]"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْقُدُورَ وَالرُّفُوشَ وَالْمَنَاشِلَ وَكُلَّ آنِيَتِهَا،"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَمِلَهَا"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلْمَلِكِ سُلَيْمَانَ حُورَامُ أَبِي لِبَيْتِ الرَّبِّ مِنْ نُحَاسٍ مَجْلِيٍّ."
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي غَوْرِ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأُرْدُنِّ سَبَكَهَا الْمَلِكُ فِي أَرْضِ الْخَزَفِ بَيْنَ سُكُّوتَ وَصَرَدَةَ."
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُلَيْمَانُ كُلَّ هَذِهِ الآنِيَةِ كَثِيرَةً جِدًّا،"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ لَمْ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُتَحَقَّقْ وَزْنُ النُّحَاسِ. [18]"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُلَيْمَانُ كُلَّ الآنِيَةِ الَّتِي لِبَيْتِ الله وَمَذْبَحَ الذَّهَبِ،"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْمَوَائِدَ"
+    },
+    {
+      "section_title": "2. كان سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلَيْهَا خُبْزُ الْوُجُوهِ [19]"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد أمام الحجاب الذي يفصل قدس الأقداس عن القدس. عليه يُقَدِّم الكهنة بخورًا في"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصباح والمساء، وهم يهتمون بالمنارة الذهبية (خر 30: 1-10؛ 37: 25-29)."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشير رفع"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البخور إلى رفع الصلوات لله (مز 141: 1-2؛ رؤ 5: 8؛ لو 1: 8-10)."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطى الله"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لموسى الخلطة الخاصة بالبخور الذي يُقدم في خيمة الاجتماع والهيكل (خر 30: 34-38)،"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الخلطة لا يجوز لأحد أن يستخدمها لغرض آخر."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في يوم الكفارة"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستخدم رئيس الكهنة الدم لغسل المذبح الذهبي وتطهيره (خر 30: 10). لا نستطيع أن"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقترب إلى الله بدون دم السيد المسيح الكفَّاري؛ إذ لا يجوز لنا الاقتراب إلا"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأيادٍ طاهرةٍ وقلبٍ نقيٍ (مز 24: 3-5)."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يُحرَق عليه البخور، ربما صُنِعَ بحجمٍ كبيرٍ كما حدث بالنسبة للمذبح النحاسي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا فقط يشير"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكتاب المقدس إلى كثرة من موائد خبز الوجوه."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْمَنَائِرَ وَسُرُجَهَا لِتَتَّقِدَ حَسَبَ الْمَرْسُومِ أَمَامَ الْمِحْرَابِ"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ ذَهَبٍ خَالِصٍ [20]"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَزْهَارَ وَالسُّرُجَ وَالْمَلاَقِطَ مِنْ ذَهَبٍ."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُوَ ذَهَبٌ"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَامِلٌ. [21]"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْمَقَاصَّ وَالْمَنَاضِحَ وَالصُّحُونَ وَالْمَجَامِرَ مِنْ ذَهَبٍ خَالِصٍ."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَابَ"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَيْتِ وَمَصَارِيعَهُ الدَّاخِلِيَّةَ لِقُدْسِ الأَقْدَاسِ،"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَصَارِيعَ"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَيْتِ الْهَيْكَلِ مِنْ ذَهَبٍ. [22]"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 أي 4"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أعظم عمل"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يديك في داخلي؟!"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يستطيع أن يبني هيكلك سواك؟!"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقوم"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتأسيسه غير نعمتك؟!"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتؤسس في داخلي"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعمدة الفضيلة الفضية."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمتك هي"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعمدة التي يقوم عليها بناء نفسي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتني أتحلَّى"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك، يا كلمة الله الكلِّي الجمال!"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتوسِّع تخوم هيكلك فيَّ،"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكون موضع"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرورك ورضاك."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتَّسِع"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحُبِّ لك ولكل إخوتي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا يكون"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للكراهية أو الحسد أو الكبرياء موضع في أفكاري."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تخرج كلمة"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جارحة من فمي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتُقم منارة ذهبية في داخلي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشرق بنور"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برِّك، فتتبدد كل ظلمة فيَّ."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنورك لا يقدر"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس مملكة الظلمة أن يتسلَّل داخلي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتُقِم مائدة خبز الوجوه المُشبِعة."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أقتات"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمحبة العالم وملذّاته."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما أتمتع"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخبز الملائكة، فتشبع نفسي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقتات بجسدك"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المحيي ودمك الكريم."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأتمتَّع"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحياة الأبدية."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليصعد بخور عطر كما إلى السماء."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكون صلواتي"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقبولة لديك."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحمل رائحتك"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذكية، فتدخل إلى عرشك الإلهي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقبلْ حياتي ذبيحة حب، مُحرَقة كاملة أمامك."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس لي ما"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُقَدِّمه لك من عندي."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي أن"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُقَدِّم لك مما تهبني."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدِّس عواطفي"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأحاسيسي وكلماتي،"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأُقَدِّم"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب، ذبيحة مرضية أمامك."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن كل طاقاتي ومواهبي ووزناتي أواني مقدسة لك،"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تتوقَّف عن"
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخدمة والعبادة والتسبيح لك."
+    },
+    {
+      "section_title": "مذبح الذهب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: (حب 3: 3)."
+    },
+    {
+      "section_title": "[1] Origen",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Exod. hom.9:4 (Ronald E. Heine)."
+    },
+    {
+      "section_title": "[1] Origen",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Exod. hom.9:4 (Ronald E. Heine)."
+    },
+    {
+      "section_title": "[1] Origen",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[2] In Jos."
+    },
+    {
+      "section_title": "[1] Origen",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "hom 2:1."
+    },
+    {
+      "section_title": "[1] Origen",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "أخبار ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 4 من سفر أخبار الأيام الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/m7d8ayv"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/m7d8ayv"
     }
   ]
 }

@@ -1,11 +1,117 @@
 {
-  "book_id": 15,
+  "book_id": "kings2",
   "book_title": "تفسير سفر الملوك الثاني",
   "chapter_number": 1,
   "chapter_title": "الأصحاح 1",
   "topic": "الأصحاح 1",
-  "chapter_outline": [],
-  "sections_count": 3,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "تنفيذ مشيئة الله",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "قيادة إلهية",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "بقوله \"مرض\"",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "زبوب\"",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "عقرون",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "هكذا",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "Divan",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "تمجيد الله",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "القديس أفراهاط الحكيم الفارسي",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "يَقُولُ الْمَلِكُ",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "ثقة في الله",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "بقوله",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "راجع الخوري بولس الفغالي",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "الملوك ثاني",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 944,
   "sections": [
     {
       "section_title": null,
@@ -17,13 +123,5659 @@
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
+      "text": "2 ملوك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطان فائق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطان فائق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باب الرجاء المفتوح وسط التأديب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اهتم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر الملوك الأول بالأكثر بالمملكة الشمالية خاصة الكشف عن القادة الوثنيين وكيف لم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تستمر أُسرهم في الحكم بسبب وثنيتهم وفسادهم. واهتم سفر الملوك الثاني بتوضيح أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إصرار القادة على ذلك هدم المملكة حيث سقطت المملكة تحت السبي الأشوري."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تتعظ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(الجنوب)، بل سلكت ذات طريق أختها إسرائيل (الشمال). وبسبب خيانتها لله وعدم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمانتها، خاصة بالخطايا التي سقط فيها الملك منسى، سمح الله لبابل أن تُحطِّم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل، وتقود شعب يهوذا إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي البابلي."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثلاثة آيات الأخيرة من السفر تفتح باب الرجاء لهم حيث أُخرج الملك يهوياكين من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السجن: وتمتع بمعاملة رقيقة من ملك بابل الجديد،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أويل مرودخ. وكأن الله يدعو الشعب كله بروح الرجاء أن يرجعوا إليه، فيردهم إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وطنهم ويُعيد بناء هيكله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما بدأ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر الملوك الأول بارتقاء سليمان للعرش عوض أبيه داود، وما ناله من مجدٍ وكرامةٍ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وغنى وسلطان، هكذا يبدأ سفر الملوك الثاني بإيليا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي صاحب السلطان العجيب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا من السماء أن تنزل نارًا لتحرق قائدي الخمسين المتعجرفين وجنودهما فاستجابت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء فورًا لطلبته. وينتهي السفر بفقدان المملكتين الشمالية والجنوبية لا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسلطانهما فحسب، بل ولكل كيانهما. هكذا بينما يتمتع المؤمن الحقيقي بسلطان سماوي،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفقد الإنسان المُصمِّم على مقاومة الحق حتى السلطان الطبيعي الزمني."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح الأول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هي هيئة الرجل؟"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
       "text": "إيليا الناري"
     },
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "2 ملوك"
+      "text": "خلال"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دراستي لسفري الملوك الأول والثاني انسحب قلبي نحو شخصية إيليا النبي، رجل الله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الناري. الذي عاش في خدمته بقلبٍ ناري، حتى في بعض معجزاته نزلت نار من السماء سواء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإبادة قائديّ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمسين وجنودهما (2 مل 1)، أو للإعلان عن قبول الله لذبيحته (1 مل 18: 38). استحق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاحب القلب الناري بالنعمة الإلهية أن يبعث له الله مركبة نارية بخيل نارية (2 مل 2: 11) لتحمله إلى السماء، فيشارك السمائيين الناريين، ويتمتع بحضرة الله النار"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآكلة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يروي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا هذا الأصحاح قصة مُرعِبة تكشف عن خطورة خطية الارتداد عن الله، والإصرار على"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عدم الرجوع إليه. فقد سقط أخزيا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك إسرائيل الشرير من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكوة، وهو في أمان في قصره الملكي. هل كان في حالة سُكر وغير وعي، وكيف حدث هذا؟"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يذكر الكاتب. لكنه سقط وترضض، وكانت جراحاته خطيرة. عوض التوبة والرجوع إلى الله،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وغالبًا بناء على مشورة أمه الشريرة إيزابل، أرسل إلى بعل زبوب إله عقرون يسأله إن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يُشفَى أم لا."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التقى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسل بإيليا النبي ليُقدِّم لهم رسالة من الله الغيور بأنه لن يُشفَى، لأنه التجأ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى إله وثني عاجز عن تقديم الحياة أو شفاء المرضى. عاد الرسل يخبرون الملك بما"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث، فعرف أنه إيليا. أرسل قائد خمسين ومعه جنوده للقبض عليه والانتقام منه، وجاء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القائد متشامخًا بسلطانه يأمره أن ينزل معه إلى الملك، فطلب النبي نارًا من السماء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلت وأحرقته هو وجنوده. وتكرر الأمر مع القائد الثاني، أما القائد الثالث فجاء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه وبروح التواضع تحدث معه. أرشده الرب أن ينزل ويلتقي مع الملك. وبالفعل التقى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به، وتحدث معه بكل صراحة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخآب والد أخزيا شريرًا، لكنه من الجانب السياسي والاقتصادي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان قويًا. أخضع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة موآب تحت سلطانه، وكانت تقدم له الجزية. وإذ مات وخلفه ابنه أحآز تمرد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على ابنه وطلب الاستقلال."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا هذا الأصحاح مقابلة بين الإنسان الشرير المُتمرِّد على الله وبين إنسان الله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلغت الملك رسالة إيليا النبي، كان سؤاله: ما هي هيئة الرجل الذي صعد للقائكم،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكلمكم بهذا الكلام؟ [7] لم تشغله رسالة الله إليه ما هي، ولا مراجعة نفسه، ولا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقيقة شخصية من أرسل له الرسالة، إنما توقف عند المظهر الخارجي!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا كرجل الله، فكان ما يشغله أن يُتمم مشيئة الله مهما كلَّفه الأمر."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين إيليا النبي ويوحنا المعمدان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم"
+    },
+    {
+      "section_title": null,
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقارنة بين شخصيتي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا النبي ويوحنا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعمدان،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيقول:"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[عاش"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا في البرية، وكذا يوحنا. كانت الغربان تعول الأول، أما الثاني ففي البرية داس"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل إغراء للملاهي وأحب الفقر وأبغض الترف."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الواحد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يسعَ لكسب رضاء أخآب الملك، والثاني ازدرى برضاء هيرودس الملك."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رداء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول شق مياه الأردن، والثاني جعل هذه المياه مغسلاً يهب خلاصًا."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول مع الرب في المجد (في التجلي)، والثاني عاش مع الرب على الأرض."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسبق مجيء الرب الثاني، والثاني سبق مجيء الرب الأول."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقط الأمطار على أرضٍ جفتْ لمدة ثلاث سنوات، والثاني غسل تراب أجسادنا في مياه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان خلال ثلاث سنوات."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسألونني: ما هي هذه السنوات الثلاثة؟ فأُجيبكم بما قيل: \"هوذا ثلاث سنين"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آتي أطلب ثمرًا في هذه التينة ولم أجد\" (لو 13: 7)..."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السنة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأولى هي عهد الآباء حيث بلغ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحصاد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدى لم يتحقق بعد ذلك."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والسنة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثانية هي عهد موسى والأنبياء."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السنة الثالثة لمجيء إلهنا ومخلصنا [ليكرز بسنة الرب المقبولة] (لو 4: 19)[1].]"
+    },
+    {
+      "section_title": "4. تنفيذ مشيئة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 ملوك 1: نار من السماء!"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَعَصَى مُوآبُ عَلَى إِسْرَائِيلَ بَعْدَ وَفَاةِ أَخْآبَ. 2 وَسَقَطَ أَخَزْيَا مِنَ الْكَوَّةِ الَّتِي فِي عُلِّيَّتِهِ الَّتِي فِي السَّامِرَةِ فَمَرِضَ، وَأَرْسَلَ رُسُلًا وَقَالَ لَهُمُ: «اذْهَبُوا اسْأَلُوا بَعْلَ زَبُوبَ إِلهَ عَقْرُونَ إِنْ كُنْتُ أَبْرَأُ مِنْ هذَا الْمَرَضِ». 3 فَقَالَ مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ: «قُمِ اصْعَدْ لِلِقَاءِ رُسُلِ مَلِكِ السَّامِرَةِ وَقُلْ لَهُمْ: أليس لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ، تَذْهَبُونَ لِتَسْأَلُوا بَعْلَ زَبُوبَ إِلهَ عَقْرُونَ؟ 4 فَلِذلِكَ هكَذَا قَالَ الرَّبُّ: إِنَّ السَّرِيرَ الَّذِي صَعِدْتَ عَلَيْهِ لاَ تَنْزِلُ عَنْهُ بَلْ مَوْتًا تَمُوتُ». فَانْطَلَقَ إِيلِيَّا. 5 وَرَجَعَ الرُّسُلُ إِلَيْهِ، فَقَالَ لَهُمْ: «لِمَاذَا رَجَعْتُمْ؟» 6 فَقَالُوا لَهُ: «صَعِدَ رَجُلٌ لِلِقَائِنَا وَقَالَ لَنَا: اذْهَبُوا رَاجِعِينَ إِلَى الْمَلِكِ الَّذِي أَرْسَلَكُمْ وَقُولُوا لَهُ: هكَذَا قَالَ الرَّبُّ: أَليسَ لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ أَرْسَلْتَ لِتَسْأَلَ بَعْلَ زَبُوبَ إِلهَ عَقْرُونَ؟ لِذلِكَ السَّرِيرُ الَّذِي صَعِدْتَ عَلَيْهِ، لاَ تَنْزِلُ عَنْهُ بَلْ مَوْتًا تَمُوتُ». 7 فَقَالَ لَهُمْ: «مَا هِيَ هَيْئَةُ الرَّجُلِ الَّذِي صَعِدَ لِلِقَائِكُمْ وَكَلَّمَكُمْ بِهذَا الْكَلاَمِ؟» 8 فَقَالُوا لَهُ: «إِنَّهُ رَجُلٌ أَشْعَرُ مُتَنَطِّقٌ بِمِنْطَقَةٍ مِنْ جِلْدٍ عَلَى حَقْوَيْهِ». فَقَالَ: «هُوَ إِيلِيَّا التِّشْبِيُّ»."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطر"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عدو للإنسان هو أن ينسحب قلبه وفكره عن أعماقه الداخلية والحياة الحقيقية إلى"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المظاهر الخارجية. سقوط أخزيا من الكوة التي في عليته، وما سببه له ذلك من جراحات"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطيرة كان كفيلاً أن يجعله يهتم بأبديته، وينتفع من أخطاء عائلته، ويطلب مشورة"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدير وعونه، عوض الالتجاء إلى الآلهة الباطلة. بعث إرسالية إلى بعل زبوب يسأله."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما إيليا رجل الله، فقد تدرَّب أن يكون قائده ومرشده هو الرب نفسه، لذلك أرسل له"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب ملاكًا يطلب منه أن يصعد ليلتقي برسل ملك إسرائيل، ويبعث رسالة إلهية له يوبخه"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على التجائه إلى بعل زبوب."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَصَى"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُوآبُ عَلَى إِسْرَائِيلَ بَعْدَ وَفَاةِ أخآب. [1]"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يومًا ما أخضعت إسرائيل (قض 3: 12-14) فتحها داود (2 صم 8: 2)."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما استقلت عند موت سليمان. ثم أخضعها عمري ملك إسرائيل، كما علمنا"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحجر الموآبي،"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو نصب تذكاري اُكتشف عام 1869[2]."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكان"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموآبيون"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤدون الجزية لإسرائيل (2 مل 4:3). وربما بعد تشتت الجيش بعد أن مات"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخآب انتهزت"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفرصة وَعَصَت إسرائيل (2 صم 8: 2؛ 2 مل 3: 4)."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمرُّد"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا ما يُقصد به تمرُّد ميشا"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Mesha"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعروف."
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَقَطَ أَخَزْيَا مِنَ الْكُوَّةِ الَّتِي فِي عُلِّيَّتِهِ"
+    },
+    {
+      "section_title": "1. قيادة إلهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّتِي فِي السَّامِرَةِ فَمَرِضَ،"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اذْهَبُوا اسْأَلُوا بَعْلَ زَبُوبَ إِلَهَ عَقْرُونَ إِنْ كُنْتُ أَبْرَأُ مِنْ"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَذَا الْمَرَضِ. [2]"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحديث عن أخزيا في (1 مل 22: 51) واستمر الحديث عنه هنا كتكملة للسفر السابق."
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البيوت في إسرائيل غالبًا ما تتكون من طابقٍ واحدٍ، أما القصور والبيوت الفخمة"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتتكون من طابقين. لعله سقط من كوة على السطح أو خلال درابزين (سور) يحيط بسقف"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البيت[3]."
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النص"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[نافذة شبكية]. إلى عصر قريب، كان كثير من النوافذ في مصر مزودة بشبكية خشبية،"
+    },
+    {
+      "section_title": "وَأَرْسَلَ رُسُلاً وَقَالَ لَهُمُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعوها البعض أرابسكو، وإن كانت منقولة عن الفن القبطي."
+    },
+    {
+      "section_title": "بقوله \"مرض\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعني لازم الفراش بسبب جراحاته."
+    },
+    {
+      "section_title": "بقوله \"مرض\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"بعل"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسمه الأصلي بعل زبول، أي رب الحياة، وكان أكبر جميع آلهة الفلسطينيين. كان هيكله"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مدينة عقرون، وكان يُظَن أن له قدرة على التنبؤ كقوةٍ سريةٍ خارقة. ولما كان"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذباب من أخطر ضربات بني البشر، وهو يتولد في الأقذار، وينقل جراثيم الأمراض، يظن"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض أن هذا الإله هو أحد أصنام الفلسطينيين المستخدم لغرض طبي، كما يمنع عنهم"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذباب، ويحميهم من الموت والمرض."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان في هذه العبادة إشارة إلى خروج الحياة من الموت، والشفاء من المرض."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإذ كان"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود مُغْرَمين بالتلاعب بالكلمات، فقد غيَّروا اسم هذا الإله عمدًا[4]،"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دعوه بعل زبوب، أي رب الذباب، في نوع من السخرية[5]."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعني حرفيًا \"إله الذباب\"، لكن لا يعرف إن كان هذا الاسم أُعطي للتكريم أو"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للاستخفاف بالبعل الفلسطيني، وهو بهذا يعني إله المزبلة (راجع مت 10: 25؛ 12: 24؛"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مر 3: 22؛ لو 11: 15، 18-19). كان البعض يقرأون بعل زبوب \"بعلزبول\"، أي سيد"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأقذار، ويحسبه اليهود"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشياطين (مت 12: 24)."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا ليس"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله الكنعاني \"البعل\" الذي عبده أخآب وإيزابل (1 مل 29:16-33)، بل إله آخر مشهور. والعجيب"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن اسم الملك أخزيا ويعني: \"يهوه يساند\"، يلجأ إلى بعل زبوب لكي يشفيه."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توجد في"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Taylor's Calmet"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صورة مُلفِتة للنظر لقطعة أثرية تُمثِّل رأس جوبتر وله مظهر ذبابة ضخمة."
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Scaliger"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الاسم الأصلي له هو \"بعل زباهيم\" Baal-zebahim،"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي سيد الذبائح، وبنوع من السخرية دعي \"بعل زبوب\" أي \"رب الذباب\"، أي يعجز عن أن"
+    },
+    {
+      "section_title": "زبوب\"",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطرد الذباب من الذبائح المُقَدَّمة له."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إحدى مدن الفلسطينيين الخمس، وموقعها في شمال أرض الفلسطينيين."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السؤال"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من بعل زبوب دليل على عدم إيمانه بالرب واحتقاره له."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرسالية"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك أخزيا لسؤال بعل زبوب إله عقرون عن شفائه تُمثِّل الانطلاق للشُرْبِ من مياه"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملوءة بسم الوثنية القاتل، عوض التمتُّع بمياه الله الحية."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو أن هذه المشورة قُدِّمتْ له من إيزابل أمه، هذه التي جعلت"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنيها أخزيا ويورام في كل حياتها عبدين لها، مثل أخآب زوجها الذي كان لها عبدًا[6]."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس مار أفرام السرياني"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرغم من وجود دور علوي في بيت الرب، إلا أن فشحور لم يلقِ"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرميا إلا في الجب السفلي. أما نحن فإننا نريد أن نأخذ إرميا الآن، ونُصعده"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الدور العلوي من بيت الرب؛ هذا الدور العلوي أقصد به المعنى الروحي المرتفع[7]،"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذلك كما سأوضح من خلال نصوص عديدة من الكتاب المقدس، تؤكد أن الأبرار يستقبلون"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنبياء في الأدوار العليا."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يذكر"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر الملوك أن أرملة صرفة صيدا التي جعلها الرب لإعالة إيليا استضافته عندها في"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العُليَّة الموجودة في منزلها (1 مل 17: 19)."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كذلك"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرأة الشونمية التي كانت تستضيف أليشع النبي كلما مرَّ بها، عملت له عُليَّة"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صغيرة لكي يستريح فيها كلما يجيء (2 مل 4: 8-10). وعلى العكس من ذلك، فإن أخزيا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخاطئ سقط من الطابق العلوي (2 مل 1: 2)."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوصيك"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسوع المسيح أنت أيضًا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا تنزل من السطح، فيقول: \"والذي على السطح فلا ينزل ليأخذ من بيته شيئًا\" (راجع مت 24: 15-17)."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذًا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوجود في الأدوار المرتفعة وعلى الأسطح هو أفضل شيء."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء عن"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسل الأطهار في سفر الأعمال، أنهم كانوا موجودين في العُليَّة حين كانوا مجتمعين"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للصلاة والتأمل في كلمة الرب، وحين حلَّ الروح القدس عليهم في شكل ألسنة"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نار."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كذلك"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحال بالنسبة للقديس بطرس عندما أراد أن يصلي، \"صعد بطرس على السطح ليصلي نحو"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساعة السادسة\" (أع 10: 9)، لو لم يصعد على السطح، لما استطاع أن يرى \"السماء"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مفتوحة وإناءً نازلاً"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل ملاءة عظيمة مربوطة بأربعة أطراف ومدلاة على الأرض\"."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشيء يُقال عن المرأة التي كانت ممتلئة أعمالاً صالحة والتي كان اسمها طابيثا، فهي"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن في الطابق الأرضي، بل كانت في عُليَّة (أع 9: 37)، حيث صعد إليها بطرس"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليُقِيمَها من الأموات."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كذلك"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السيد المسيح حينما كان يستعد ليأكل الفصح مع تلاميذه، وعندما سأله تلاميذه: \"أين"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تريد أن نُعدَّ لك لتأكل الفصح؟\"، أجاب: \"إذا دخلتما المدينة يستقبلكما إنسان حامل"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جرة ماء. اتبعاه إلى البيت حيث يدخل، وقولا لرب البيت يقول لك المعلم أين المنزل"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث آكل الفصح مع تلاميذي، فذاك يريكما علية كبيرة مفروشة، هناك أعدَّا\" (لو22: 10-12)."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذًا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَن يريد أن يحتفل بالفصح مثل يسوع المسيح لا يختار أبدًا الطابق الأرضي. إنما كل"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يحتفل بالعيد مع السيد المسيح لابد أن يكون مرتفعًا وجالسًا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في العلية الكبيرة، في العلية المفروشة، في العلية المُزيَّنة والمُعَدَّة. إذا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صعدت معه لتحتفل بالفصح، يُقدِّم لك كأس العهد الجديد، وخبز النعمة؛ يهديك جسده"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ودمه."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإننا ننصحكم بالصعود إلى المرتفعات: ارفعوا عيونكم إلى الجبال."
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "عقرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُمِ،"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اصْعَدْ لِلِقَاءِ رُسُلِ مَلِكِ السَّامِرَةِ،"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقُلْ"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُمْ: أليس لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ،"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَذْهَبُونَ لِتَسْأَلُوا بَعْلَ زَبُوبَ إِلَهَ عَقْرُونَ؟ [3]"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان آخر"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذكر لإيليا النبي حديثه مع أخآب في كرم نابوت قبل هذه الحادثة بحوالي أربع سنوات (1 مل 21: 17-24)."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتَّبع"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخزيا والديه في عبادتهما للبعل. ربما لم يرسل إلى المعبد الذي في السامرة، خشية أن"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتشر خبر مرضه الخطير."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلمنا"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا النبي أن الله يستطيع أن يدخل في حياة شعبه في الوقت الذي يريده[8]."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كل عصر يرسل الله قادة، تتناسب مواهبهم مع الظروف المحيطة، ليكون له شهود منيرون"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسط الظلمة. إنه دائم العمل لحساب ملكوته، حتى وإن ظن الإنسان كأن الله قد حوَّل"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجهه عن البشرية بسبب فسادها! يبقى الله أمينًا بالرغم من عدم أمانتنا. وكما يقول"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسول: [إن كنا غير أمناء، فهو يبقى أمينًا، لا يقدر أن ينكر نفسه] (2 تي 2: 13)."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق أن"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلنا إن أحداث حياة إيليا النبي غالبًا ما تحمل عنصر المفاجأة، كما حدث هنا."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ممَّا دفع بعض معلِّمي اليهود إلى الظنّ أن إيليَّا كان ملاكًا، ودُعي في"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحجادة"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Haggadah"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"طائر السماء\"[9]،"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهو كالطائر يطير في العالم لتحقيق رسائل سماويَّة[10]."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسله الله في عصر أخآب أشر ملوك إسرائيل وابنه اخزيا."
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنه: \"كان بهيًا وجميلاً وبارًا ولا عيب فيه، فقد ارتفع إلى موضع لا تدخل فيه"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العيوب\"، وذلك بمقارنته مع إخوته في البشرية، وليس كمالاً مطلقًا. لقد حمل رمز"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السيد المسيح في أمورٍ كثيرةٍ. كما"
+    },
+    {
+      "section_title": "مَلاَكُ الرَّبِّ لإِيلِيَّا التِّشْبِيِّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصوره"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا الساهر المستعد والمملوء جمالاً،"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صبر كثيرًا، حتى يخلط نفسه مع الله."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمج كل حياته في الله، وسكن في البرية بدون الأهواء العالمية."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقتنَى إرادة صالحة واحدة مع الله، لئلا يكون له ولله إرادتان"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(متناقضتان)."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كل الأمور التي طالبته أن يحارب ضد الشعب، كان يقوم ليُنَفِّذَ"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرادة الرب."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن يشتاق أن يفعل شيئًا بنفسه، لأنه كان مهتمًا أن يُكَمِّلَ كل"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعمال الرب."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يعش لنفسه، ولا تحرَّك ليُنَفِّذَ أعماله لأجله. كل حركات نفسه"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت في الله[11]."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتى إيليا وصعد في الطريق أمام المرسلين الذين أرسلهم ابن أخآب إلى"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعل زبوب."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم: اذهبوا وقولوا لسيدكم الملك، لماذا أرسل إلى عقرون مثل ناقصٍ؟"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد رب في الشعب، لترسل وتطلب من إله الفلسطينيين؟"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من لا"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعرف بأنه يوجد إله لبني يعقوب؟ ومن لم يسمع بأن الرب أعظم من الآلهة؟..."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مصر"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خبره، وجبروته في البحر، وفي حوريب بأسه، وفي"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيلوه"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزته."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سكينته"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مسكنه) في سيناء، ومخافته في العالم كله، في الأردن عجبه، وفي أريحا اسمه ظافر."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعوب سيفه، وقوسه عالٍ في كل المخاطر، رعبه في فلسطين، وفي الجزر قوته العظمى."
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من لا"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعرف بأنه يوجد إله لبني يعقوب؟ ولماذا الآن يُسخَر منه كأنه غير موجود؟[12]"
+    },
+    {
+      "section_title": "هكذا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنَّ"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّرِيرَ الَّذِي صَعِدْتَ عَلَيْهِ لاَ تَنْزِلُ عَنْهُ،"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَلْ"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَوْتًا تَمُوتُ."
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَانْطَلَقَ إِيلِيَّا. [4]"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرير أو"
+    },
+    {
+      "section_title": "فَلِذَلِكَ هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أريكة"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان السرير الملوكي كما هو حاليًا في بيوت الشرقيين الأثرياء، عبارة"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن أريكة على شكل منبر عرضها حوالي 3 أو 4 أقدام، وتمتد أحيانًا من أول الحجرة إلى"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهايتها، وأحيانًا تأخذ ثلاثة جوانب من الحجرة. تُستخدم في النهار كأريكة للجلوس،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكسرير للنوم بالليل. ارتفاعها من الأرض حوالي 6 بوصات إلى قدم."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأستاذ هاكيت Hackett أريكة مرتفعة بحيث تحتاج أن يصعد إليها الشخص بدرجتين أو ثلاث درجات. في قصر الملك"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحْتَمَل أن تكون أكثر ارتفاعًا عن الأريكة العادية، لذلك قيل: \"السرير الذي صعدت"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه\". كذلك قيل عن داود إنه لا يصعد إلى سريره (مز 132: 3)[13]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك رسالة إلهية من إله وثني غريب، لكن جاءته الإجابة من عند الله الذي في يده"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة والموت. ما نطق به إيليا النبي عن الملك: \"موتًا تموت\"، لم يصدر عنه"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيًا، إنما عن الله الذي له السلطان على الحياة، في يده الموت والحياة، الذي يقتل"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحيي. هذا الحكم هو ثمرة طبيعية لمن يلجأ للإله الوثني، ويظن أنه قادر أن يشفيه."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا إلى مكان إقامته،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبل الكرمل"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 مل 18: 42؛ 2 مل 2: 25)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقارنة مختصرة بين الله الحيّ الذي تجاهله الملك وبعل زبوب إله عقرون الذي"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجأ إليه."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحيّ هو واهب الحياة لمن يسأله، فكيف يُطلَب من بعل زبوب الشفاء؟"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحي صاحب سلطان، قادر أن يهب الحياة بقوته."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحيّ يسمع الصلاة ويستجيب، أما بعل زبوب، فعاجز عن الاستماع للصلاة."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة ليست في يدَيّ بعل زبوب لمن يطلبها منه."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب هو"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يحيي، وبما أنك لم تطلب منه، فإنك لن تحيا."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب هو"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاحب سلطان على حياة البشر، ومنه كان يجب أن تطلب الحياة، فيهبها لك."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيطان"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقرون لا يستجيب لك، فلا يُسأل، الرب الذي يعرف أجابك: موتًا تموت[14]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورَجَعَ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرُّسُلُ إِلَيْهِ."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُمْ: لِمَاذَا رَجَعْتُمْ؟ [5]"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسل إلى الملك، وهم لا يعرفون من هو هذا الشخص الغريب، الذي يتكلم بنغمة صاحب"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطان، والواثق مما نطق به على الملك. لم يستطيعوا أن يهاجموه أو ينتقدوه. هاجم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكهم، ولم يجسروا حتى أن يسألوا عن صفته واسمه. كان لحديث إيليا سلطان، فلم يجسر"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رسل الملك أن يُكَمِّلوا الطريق إلى إله عقرون، بل رجعوا ليُقدِّموا إجابة الله على"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسان إيليا النبي."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعجب"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك من رجوعهم قبل الوقت، ربما لأنهم قابلوا إيليا بالقرب من السامرة وهم نازلون"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من المدينة التي كانت مبنية على تلٍ. غالبًا ما عرفه أخزيا أنه إيليا التشبي. سمع"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا شك عن أعماله العظيمة، وما حدث بينه وبين أبيه أخآب وأمه إيزابل، وربما سبق أن"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رآه."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالُوا لَهُ: صَعِدَ رَجُلٌ لِلِقَائِنَا،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَنَا: اذْهَبُوا رَاجِعِينَ إِلَى الْمَلِكِ الَّذِي أَرْسَلَكُمْ،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقُولُوا لَهُ: هكَذَا قَالَ الرَّبُّ: أَليسَ لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْسَلْتَ لِتَسْأَلَ بَعْلَ زَبُوبَ إِلَهَ عَقْرُونَ؟"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِذَلِكَ السَّرِيرُ الَّذِي صَعِدْتَ عَلَيْهِ لاَ تَنْزِلُ عَنْهُ، بَلْ مَوْتًا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَمُوتُ. [6]"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخزيا عن والديه اللذين كانا يرتعبان منه، لأنهما حادا عن طريق الحق. الآن إذ لم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتفع بخبرة والديه، فكما حلَّ التأديب عليهما، جاءه الصوت النبوي: [لن تنزل من"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سريرك]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انحرف الشعب إلى العبادة الوثنية مع القادة وراء أخآب وإيزابل ثم أولادهما مثل"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخزيا، شعر إيليا النبي بالمسئولية في حث الشعب بالعودة إلى عبادة الله الحيّ. لقد"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقف أمام أخآب، تارة جعله يعاني من الجفاف لمدة ثلاث سنوات ونصف، وأخرى سأل أن تلحس"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلاب"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمه، وها هو في حزمٍ يعلن لأخزيا أنه لن ينزل من سرير مرضه، بل موتًا يموت. لم يكن"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتقم لنفسه، ولكنه كان كحارسٍ يخشى على هلاك الشعب كله بسبب انحراف الملوك. لقد"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراد أن يغلق باب الوثنية، لكي يرجع الشعب إلى عبادة الله الحيّ."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمع مبعوثو ابن أخآب من إيليا، وعادوا إليه حاملين أخبارًا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيئة."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخلوا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقالوا له كل ما سمعوه من إيليا، وردَّدوا أمامه بأنه لن ينزل أيضًا عن سريره."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقلوا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الوثني المريض بُشرَى الموت، وجرحوا قلبه بالكلمة التي سمعوها من إيليا."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جُعل"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي مثل حارسٍ لبني يعقوب، وكان توبيخه شديدًا للوثنيين منهم."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَتَلَ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخآب بحُكْمٍ أصدره عليه، وأتى ليلاحق عمليًا أولاده."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقصاصاته الروحية كان النبي مجتهدًا ليقتلع جذور تلك الوثنية من قلب الشعب."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمام أخآب: تلحس"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلاب"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمك، وأرسل إلى ابنه: سوف لن تنزل من سريرك."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محاربًا، فحارب ضد الملوك الوثنيين، ووبخهم في حضورهم دون خوفٍ."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا يحيدون عن الله إلى الآلهة، كان يلتقي بهم بقوةٍ في كل طرقهم."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعطي البعض للكلاب والبعض للموت، ليحرس شعبه بتأديبات الرب الرهيبة."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحين الفرص ليغلق طريق الوثنية، لئلا يسير فيها بنو إبراهيم المختونون[15]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُمْ: مَا هِيَ هَيْئَةُ الرَّجُلِ الَّذِي صَعِدَ لِلِقَائِكُمْ،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَلَّمَكُمْ بِهَذَا الْكَلاَمِ؟ [7]"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالُوا لَهُ: إِنَّهُ رَجُلٌ أَشْعَرُ مُتَنَطِّقٌ بِمِنْطَقَةٍ مِنْ جِلْدٍ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى حَقْوَيْهِ."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ: هُوَ إِيلِيَّا التِّشْبِيُّ. [8]"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك إيليا من وصف رسله له أنه رجل أشعر، وأنه متمنطق بمنطقة من جلدً. يُمكن إدراك"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مظهر إيليا الخارجي وروحه في القديس يوحنا المعمدان \"إيليا الثاني\" (مت 3: 4)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل أشعر"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشارة إلى شعره المرتخي،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير أن"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض يُرَجِّح بأن هذا التعبير يشير إلى ثوبه الجلدي، الذي كان لباس الأنبياء"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاعتيادي (زك 13: 4)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن مظهر إيليا يحمل نوعًا من الحياة البدائية، وأنه في تجلي السيد المسيح ظهر موسى"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإيليا معه، وكما يقول:"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[هذان"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكونا رجليْن بليغيْن. كان موسى ثقيل اللسان، جافًا في حديثه. وإيليا كان"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ريفيًا، له المظهر البدائي."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلاهما يحفظان حياة الفقر الاختياري بدقة."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يعمل"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موسى من أجل مكسبٍ عالميٍ، ولم يكن لدى إيليا أكثر من ثوبه الجلدي[16].]"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويرى"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الملك بإمكانياته كان محتاجًا إلى إيليا الذي يبدو فقيرًا."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الملك في حاجة إلى الإنسان الفقير."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي لديه ذهب كثير، مرتهن بكلمات ذاك الذي ليس لديه سوى الثوب الجلدي."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الثوب الجلدي أكثر سموًا من الأرجوان، ومغارة البار أعظم من قاعات الملوك، لذلك"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما صعد إلى السماء لم يترك لتلميذه شيئًا سوى الرداء الجلدي."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول:"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"بمعونة هذا (الثوب) جاهدت ضد الشيطان، فإنك إذ تأخذه تتسلح أنت ضده!\""
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالمثابرة سلاح قوي، مسكن للخلود لا يُقاوَم، حصن لا يتزعزع!"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسلَّم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أليشع الثوب الجلدي كأعظم ميراث، بالحق كان هكذا ثمينًا أكثر من كل الذهب."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا ثوبًا جلديَا لتلميذه، وابن الله الصاعد ترك لنا جسده."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحق خلع ثوبه قبل صعوده، والمسيح ترك جسده خلفه من أجلنا، لكنه عاد فصعد[17]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان إيليا يرتدي (ثيابًا خشنة)، وهكذا كان كل واحدٍ من القديسين،"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنهم في حالة عمل مستمر، فهم مشغولون برحلاتهم أو أمورهم الهامة، يطأون تحت"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقدامهم كل زينة، ويمارسون التقشف. أعلن المسيح أمرُا كهذا كأعظم مديح للفضيلة، إذ"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول: \"ماذا خرجتم لتنظروا؟ أإنسانًا لابسًا ثيابًا ناعمة؟! هوذا الذين يلبسون"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثياب الناعمة هم في بيوت الملوك\" (مت 8:11)[18]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرميا النبي مثل إيليا متمنطقًا بمنطقة من الجلد على حقويه، لا يعرف النعومة"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى في ملابسه، وكأنه يشارك شعبه المُحتفِل بعيد الفصح أو كما يوصي السيد المسيح"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تلاميذه: \"لتكن أحقاؤكم ممنطقة\" (لو 35:12). يرى"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في هذه الوصية دعوة ألا يُسمح للجسد"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشتهي ضد الروح (غل 17:5)[19]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدِّيس يوحنا الذهبيّ الفم أن التمنطق بمنطقة يشير إلى أن الإنسان دائم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحركة والعمل، سواء في الأسفارٍ أو القيام بمهامٍ ضرورية[20]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منذ زمن بعيد يُقدِّم لنا القديسون أمثلة عن ضرورة المنطقة."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوحنا يربط حقويه بمنطقة من جلد (مت 3: 4). وهكذا فعل قبله إيليا، إذ كُتب كما لو"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان هذا النوع من الملبس لائقًا على وجه الخصوص للرجل: \"رَجُلٌ أَشْعَرُ مُتَنَطِّقٌ بِمِنْطَقَةٍ مِنْ جِلْدٍ\" (2 مل 1: 8)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح أيضًا من كلمات الملاك لبطرس أنه كان يرتدي منطقة: \"تمنطق وألبس نعليك\" (أع 12: 8). ويتضح من نبوة أغابوس أن الطوباوي بولس أيضًا استخدم منطقة: [الرجل الذي له هذه المنطقة هكذا سيربطونه في أورشليم] (راجع أع 21: 11)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيضًا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيوب أمره الرب أن يمنطق نفسه (أي 38: 3)، إذ كان ذلك نوعًا من النشاط والاستعداد"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعمل."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان من"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عادة تلاميذ الرب أن يستخدموا المناطق كما يتضح من أنهم مُنعوا من حمل مال في"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناطقهم (مت 10: 9)[21]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يوحنا يرتدي منطقة من جلد حول حقويه، ولم يكن"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرتدي"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيئًا ما ناعمًا أو مدللاً، بل كان كل جزء منهٍ قاسيًا ورجوليًا. كان إنسانًا خشنًا[22]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ احتقر الطوباوي يوحنا (المعمدان) صوف الغنم بكونه نوعًا من"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الترف، اختار وبرْ الجمل والتحف به، مُقدِّمًا نفسه مثالاً"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للاقتصاد"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والبساطة في الحياة... كيف يستطيع أن يرتدي الثياب الأرجوانية، من ترك أُبَّهة"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدن، وانسحب إلى عزلة البرية، ليعيش في هدوءٍ مع الله، بعيدًا عن السعي وراء"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التفاهات وعن كل مظهرٍ باطلٍ للصلاح، وعن كل الأمور التافهة؟"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا ثوبًا من جلد الغنم، وكان يضمه بمنطقة من الشعر. وإشعياء نبي آخر كان عريانًا"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحافي القدمين، وغالبًا ما كان يكتسي بالخيش، لباس التواضع (إش 20: 2)."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استدعيتم إرميا لم يكن لديه سوى منطقة من كتان (إر 13: 1)[23]."
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "Divan",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إكليمنضس السكندري"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 فَأَرْسَلَ إِلَيْهِ رَئِيسَ خَمْسِينَ مَعَ الْخَمْسِينَ الَّذِينَ لَهُ، فَصَعِدَ إِلَيْهِ وَإِذَا هُوَ جَالِسٌ عَلَى رَأْسِ الْجَبَلِ. فَقَالَ لَهُ: «يَا رَجُلَ اللهِ، الْمَلِكُ يَقُولُ انْزِلْ». 10 فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ: «إِنْ كُنْتُ أَنَا رَجُلَ اللهِ، فَلْتَنْزِلْ نَارٌ مِنَ السَّمَاءِ وَتَأْكُلْكَ أَنْتَ وَالْخَمْسِينَ الَّذِينَ لَكَ». فَنَزَلَتْ نَارٌ مِنَ السَّمَاءِ وَأَكَلَتْهُ هُوَ وَالْخَمْسِينَ الَّذِينَ لَهُ. 11 ثُمَّ عَادَ وَأَرْسَلَ إِلَيْهِ رَئِيسَ خَمْسِينَ آخَرَ وَالْخَمْسِينَ الَّذِينَ لَهُ. فَأَجَابَ وَقَالَ لَهُ: «يَا رَجُلَ اللهِ، هكَذَا يَقُولُ الْمَلِكُ: أَسْرِعْ وَانْزِلْ». 12 فَأَجَابَ إِيلِيَّا وَقَالَ لَهُمْ: «إِنْ كُنْتُ أَنَا رَجُلَ اللهِ، فَلْتَنْزِلْ نَارٌ مِنَ السَّمَاءِ وَتَأْكُلْكَ أَنْتَ وَالْخَمْسِينَ الَّذِينَ لَكَ». فَنَزَلَتْ نَارُ اللهِ مِنَ السَّمَاءِ وَأَكَلَتْهُ هُوَ وَالْخَمْسِينَ الَّذِينَ لَهُ. 13 ثُمَّ عَادَ فَأَرْسَلَ رَئِيسَ خَمْسِينَ ثَالِثًا وَالْخَمْسِينَ الَّذِينَ لَهُ. فَصَعِدَ رَئِيسُ الْخَمْسِينَ الثَّالِثُّ وَجَاءَ وَجَثَا عَلَى رُكْبَتَيْهِ أمَامَ إِيلِيَّا، وَتَضَرَّعَ إِلَيْهِ وَقَالَ لَهُ: «يَا رَجُلَ اللهِ، لِتُكْرَمْ نَفْسِي وَأَنْفُسُ عَبِيدِكَ هؤُلاَءِ الْخَمْسِينَ فِي عَيْنَيْكَ. 14 هُوَذَا قَدْ نَزَلَتْ نَارٌ مِنَ السَّمَاءِ وَأَكَلَتْ رَئِيسَيِ الْخَمْسِينَيْنِ الأَوَّلَيْنِ وَخَمْسِينَيْهِمَا، وَالآنَ فَلْتُكْرَمْ نَفْسِي فِي عَيْنَيْكَ»."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَرْسَلَ إِلَيْهِ رَئِيسَ خَمْسِينَ مَعَ الْخَمْسِينَ الَّذِينَ لَهُ،"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَصَعِدَ إِلَيْهِ، وَإِذَا هُوَ جَالِسٌ عَلَى رَأْسِ الْجَبَلِ."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَهُ: يَا رَجُلَ الله،"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكُ يَقُولُ انْزِلْ. [9]"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكفي لجنديٍ واحدٍ أو للقائد أن يُلقي القبض على رجلٍ أعزل بلا سلاح، لكن ما سمعه"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخزيا عن موقفه مع أبيه"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو رآه منه جعله يخشاه."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعوض التوبة ظن في كثرة عدد الجنود ما يمكِّنه من إلقاء القبض عليه"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسجنه."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يقول"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس الخمسين له: \"يا رجل الله\"، يتضح أنه قد عرف أنه مُرسَل من قِبَل الله،"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وغالبًا ما عرف أنه سبق فأنزل نارًا من السماء تلتهم الذبيحة. لكنه ظن في الملك"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاحب سلطان عليه، وأن الخمسين جنديًا قادرون على القبض عليه، وأنه لن يفلت من"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أياديهم."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعوه"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمسين الشرير \"رجل الله\"، لأن الملك نفسه والقصر الملكي يدركون حقيقة"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصية إيليا النبي، لكنهم لا يطيقونه."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُعطي"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا اللقب أولاً لموسى النبي (تث 33: 1)، وبعد ذلك لصموئيل (1 صم 9: 6-7)، وإيليا [9-13]، وأليشع (2 مل 4: 9)، وداود (2 أي 8: 14)، وتيموثاوس (1 تي 6: 11)."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يخف الملك العنيد من كلمة النبي، قائلاً في قلبه: \"إنه يكذب\"."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولهذا لم يبالِ بتحذيره، إذ نصحه أن ينزع أسباب الشرور ويتوب."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صمَّم على عناده، وعوض التوبة عن كبريائه ورجوعه، ازداد في عناده، وأرسل قائد خمسين"
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع الخمسين للقبض على نبيّ الله، يقودونه إلى المحكمة[24]."
+    },
+    {
+      "section_title": "2. تمجيد الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس مار أفرام السرياني"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنْ"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُنْتُ أَنَا رَجُلَ الله،"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْتَنْزِلْ نَارٌ مِنَ السَّمَاءِ،"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتَأْكُلْكَ أَنْتَ وَالْخَمْسِينَ الَّذِينَ لَكَ."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَنَزَلَتْ نَارٌ مِنَ السَّمَاءِ،"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَكَلَتْهُ هُوَ وَالْخَمْسِينَ الَّذِينَ لَهُ. [10]"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق أن"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استدعى إيليا النبي نارًا من السماء تلتهم الذبيحة وتقاوم كهنة البعل (1 مل 18: 36"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "– 38). الآن يطلب نارًا من السماء ليدرك أخزيا ورجاله أن الله إله إسرائيل له سلطان"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الطبيعة ومخوف، وأن إله عقرون لا حول له ولا قوة."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعَلِّق"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على قول النبي: \"َأنَا رَجُلَ\"، بقوله إنه يوجد في الكنيسة أناس هم رجال"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله كقول إيليا عن نفسه: \"إن كنتُ أنا رجل الله، فلتنزل نار من السماء وتأكلك أنت"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والخمسين الذين لك\" (2 مل 1: 10)، أما الذين تركوا التعقُّل والفهم ويسلكون ببساطة،"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيُحسبون كحيواناتٍ، إذ يقول المرتل: \"الناس والبهائم تخلص يا رب\" (مز 36: 6). فإن"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مات أحد هؤلاء البسطاء بالخطية وصار كجيفة، فإن من يمسها ويسلك معها في خطيتها"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتدنس."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنسبة للحيوانات المستأنسة، أما بالنسبة لحيوانات البرية المفترسة، فيرى أن الأسد"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميت يُشير إلى الالتصاق بإبليس، الذي يقول عنه الرسول بطرس: \"لأن إبليس خصمكم"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأسدٍ زائرٍ يجول ملتمسًا من يبتلعه هو، فقاوموه راسخين في الإيمان\" (1 بط 5: 8-9)."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الذئاب فتُشير إلى الهراطقة، كقول الرسول بولس: \"بعد ذهابي سيدخل بينكم ذئاب"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خاطفة لا تُشفِق على الرعية\" (أع 20: 29)، فمن يتبعها في أفكارها الخاطئة يكون كمن"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنجس بلمس جيفة ذئبٍ ميتٍ."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجَّد الله طلب إيليا نزول نار من السماء تلتهم قائد الخمسين ورجاله الذين أصروا"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على العصيان في تشامخٍ. غالبًا ما تحقق نزول النار من السماء بُناء على توجيه الله"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإيليا. أما وقد نزل السيد المسيح إلى العالم، فأقام من مؤمنيه الحقيقيين خدامًا له"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هم لهيب نار، مملوءين حبًا؛ هذه النار تُحوِّل الأعداء إلى أحباء (رو 12: 14-21)."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلبت"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة إيليا النار المُهلِكة من السماء؛ نفس النار المُهلِكة عُرفت في (عد 11: 1)،"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتحدث عنها الرسل (لو 9: 54). سبق أن أعلن الله قبوله الذبيحة من إيليا النبي بنار"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، وأخزى كهنة البعل (1 مل 18). الآن ذات النار النازلة من السماء أحرقت جنود"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعل الذين ظنوا أنهم قادرون أن يلقوا القبض على رجل الله."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتراق"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القائدين وجنودهما ربما لأنهما قد اشتركا في قرار الملك إن لم يكن ظاهريًا فبقلوبهم"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشريرة."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمجد الله بواسطة نبيه إيليا حين قدَّم ذبيحة له، فالتهمتهما النار النازلة من"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، هكذا تمجد أيضًا باحتراق جنود البعل الذين ظنوا في أنفسهم أنهم قادرون على"
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقاومة الله ونبيه."
+    },
+    {
+      "section_title": "فَأَجَابَ إِيلِيَّا وَقَالَ لِرَئِيسَ الْخَمْسِينَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إن رئيسي الخمسين والمائة جندي احترقوا، لأنهم اقتربوا إلى الجبل الذي كان إيليا"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جالسًا عليه، هذا الذي ارتفع إلى السماء في مركبة نارية. لهذا أيها الأحباء يُمتحن"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار بالنار مثل الذهب والفضة والحجارة الكريمة، أما الأشرار فيحترقون في النار"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل الخشب والقش والعشب، فيكون للنار سلطان عليهم وهم يحترقون[25]\"."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البشر بوجه عام حتى شعب إسرائيل في حاجة إلى إدراك مخافة الرب، حتى يتركوا"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة الأوثان"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعصيانهم للوصية الإلهية. ولكن إذ جاء السيد المسيح ليرفع البشرية إلى النضوج"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحي، رفض طلب تلميذيه يعقوب ويوحنا أن يُنزل نارًا من السماء لتفني السامريين"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي لم يقبلوه في قريتهم (لو 9: 51-56)، إذ جاء ليكسب البشرية بحبه المُعلَن خلال"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصليب، وليس بحرقهم بالنار."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهوة قلب إيليا الانتقام، لكن ما نطق به هو إعلان مع تحذير من واقع كشفه له الرب."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه النار التي من السماء لا تتعارض مع محبة الله، وإنما يطيل الله أناته على"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشرار، وفي وقت مُعيَّن يسمح بالتأديب ليكون درسًا عمليًا أمام الآخرين. وقد نزلت"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من السماء ولم تصدر عن الأرض، فلا يجوز للناس أن يحرقوا بعضهم بعضًا، أو يطلبوا"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنفسهم من الله أن ينتقم لهم."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينئذ أرسل قائد الخمسين إلى إيليا، ومعه خمسين ليأتي به عنده حتى"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن رفض."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو كان"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا الوثني (أخزيا) والدة أخرى، لما كان يلزم أن تكون أمه إلا إيزابل."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو لم"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكن ابنها بالحقيقة يشبهها، كم بالأحرى الآن بعد أن ولدته وقامت بتربيته!"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القلب القاسي الذي يشبه إيزابل بأفعاله، أراد أن يحارب إيليا بخمسين رجلاً."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المخلوقات ترتعد أمام (إيليا)، فكيف يغلبه الخمسون الذين أُرسلوا إليه؟"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلو"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعمق يرهبان هذا القوي، وابن إيزابل يهدد ليأتي به مثل ضعيفٍ."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النارَ ونزلت حالما دعاها، واستجابت وأتت، كيف يغلبه القش لينزل معه؟"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعرف"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللهيب صوته ويطيعه، فلماذا لم يخف منه المريض الذي يهدده؟"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شابه"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمه التي هددت أيضًا الجبار، وأرادت أن تقتل ذاك الذي كان الموت يخاف منه."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وراءه قائد الخمسين، كما أُرسل، فنظره جالسًا على قمة الجبل بمفرده[26]."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَادَ وَأَرْسَلَ إِلَيْهِ رَئِيسَ خَمْسِينَ آخَرَ وَالْخَمْسِينَ الَّذِينَ لَهُ."
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَجَابَ وَقَالَ لَهُ: يَا رَجُلَ اللهِ"
+    },
+    {
+      "section_title": "القديس أفراهاط الحكيم الفارسي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَسْرِعْ وَانْزِلْ. [11]"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرتدع الملك بحرق رئيس الخمسين وجنوده، وعوض توبته والحزن على الذين تسبب في حرقهم،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في قسوة قلب أرسل رئيسًا للخمسين آخر ومعه جنوده. عاد فكرر الأمر للمرة الثالثة"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[13]، وإن كان رئيس الخمسين الثالث اتسم بالتواضع والحكمة أكثر من الملك نفسه الذي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان مع الكبرياء يتسم بالغباوة."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَجَابَ إِيلِيَّا: وَقَالَ لَهُمْ: إِنْ كُنْتُ أَنَا رَجُلَ اللهِ"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْتَنْزِلْ نَارٌ مِنَ السَّمَاءِ،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتَأْكُلْكَ أَنْتَ وَالْخَمْسِينَ الَّذِينَ لَكَ."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَنَزَلَتْ نَارُ الله مِنَ السَّمَاءِ وَأَكَلَتْهُ،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْخَمْسِينَ الَّذِينَ لَهُ. [12]"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل أيضًا قائد الخمسين ومعه خمسون، قسا قلبه وكان وثنيًا أكثر من"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صعد هو"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا إلى إيليا، وقال له: \"يا نبي الرب، يقول الملك: انزل من هناك\"."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعل القائد الأول الذي صعد عند إيليا لم يكن مُلامًا مثل القائد"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني الذي أُرسل."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يشاهد الآخرين الذين احترقوا كما احترق هو. الأول داهمته النار"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دون أن يشعر."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما حدث"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له لم يحدث لآخر قبله حتى يخاف من المشهد الذي كان قريبًا منه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلم بأن النار تنقض عليه، وعندما انقضت صار مثلاً مملوءًا بالمخاوف."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقاحة الوثني الثاني الذي أُرسل أعظم، لأنه تجاوز الواجب كثيرًا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأى الجثث مطروحة كالفحم على الجبل، ولم يخَف قلبه من سلوك الطريق"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى إيليا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفوح"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رائحة رفيقه القائد الذي احترق، ولم ترعبه ليعود إلى الوراء لئلا يصعد."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفوج"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي قبله دمَّرته النار وطرحته، وها هو يدوس عليه، ويصعد بغضبٍ إلى إيليا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العظام"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي أكلها اللهيب تبعثرت على الطريق، مع ذلك كان يخطو بشجاعة نحو الغيور الذي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحرقها."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من دخان"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفوج الذي احترق كان الجبل مضطربًا، ومع ذلك قسّى قلبه، ولم يكن ينظر إلى ما جرى."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اكتسب"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرادة شريرة وقاسية ومتوحشة، ولم يرتجف من النار التي أكلت رفاقه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قسّى وجهه كمن يحارب الله، وكان يهدد كأنه ينتصر على النار."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طريقه"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رهيبة كمن لا يخاف من اللهيب، وصوته يرتفع إلى إيليا لينزله معه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا نبي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب، الملك يقول: انزل. فأجابه أيضا إيليا، وقال له:"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو كنت"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبيًا، لتأكلك النار أنت والخمسين، فاتقد اللهيب واشتعل وسحقهم..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه اللهيب وسحقه، لأنه تخطَّى الحريق المخيف الذي رآه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاسٍ، كان يُجلد بقضيب النار، ولم يشأ أن يتعلم من تأديب (القائد) الأول."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإذ لم"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقبل أن يخاف، أصبح رعبًا، وإذ لم ينظر إلى من احترق، أصبح مثالاً."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راعي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب وقف على الجبل مثل نشيط ليحرس قطيعه بقوات وعظائم ومذهلات."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجمعت الذئاب صعدت لتفترسه، فأنزل نارًا من بيت ربه والتهمتها."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جُعل"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللهيب له قضيبًا عظيمًا، وبه كان يطرد الحيوان المفترس من رعيته."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنزل"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الكرمل نارًا، والتهمت ذبيحته، وبها جمع غنم يعقوب عند إلهه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا دعا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي النار مرتين ليجمع القطيع المبدد بالأعجوبة."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خضعت له النار، وعرفت صوته، وكلما تكلم استجابته، لتُنَفِّذ كل ما"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول لها[27]."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمح الله بإنزال نارٍ أحرقت قائديّ الخمسين ومن معهم؟"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحسب"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان[28]"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن القائدين الأول والثاني كانا نبيين كاذبين للإله بعل زبوب، لذلك"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنزول النار كان بسماح من الله لوقف نشر هذه العبادة الوثنية بالعنف والإلزام من"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل الملك وجيشه الذي يقوده كثير من الأنبياء الكذبة للبعل وغيره."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انحرف"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل إلى عبادة البعل وهو في ذهنهم إله المطر والنار والمحاصيل الزراعية، كما أن"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادته تتطلب إجازة الأطفال في النار كذبائح بشرية، لهذا أكّد كلاً من إيليا وأليشع"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبيين قوة الله الحقيقي، وسلطانه على النار والمطر والمزروعات فوق القوة المزعومة"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للبعل. كما أظهر اهتمامه بالصبيان كإقامة ابن الأرملة بصرفة صيدون (1 مل 17:17-24)،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإقامة الولد الميت (2 مل 18:4-37)."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد القديم كان العقاب يتم جسديًا بالنسبة لأية جريمة أو معصية تُرتكَب بين"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب. لقد كُتب: [عين بعينٍ، وسن بسنٍ] (خر 24:21)."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا عُوقب البعض لكي يخاف الباقون من العقاب الجسدي، فيكفوا عن الخطايا والمعاصي."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي الطوباوي إيليا، ترك كل الشعب اليهودي الله وذبحوا الأوثان، وليس فقط رفضوا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكريم أنبياء الله، بل غالبًا ما حاولوا قتلهم. لهذا امتلأ إيليا غيرة لله وكان"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سببًا في سقوط البعض تحت عقاب بدني، وذلك لكي يُشفَى أولئك الذين أهملوا خلاص"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفوسهم خلال خوفهم من العقاب الجسدي..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إننا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعرف أن نفس الأمر حدث خلال الطوباوي بطرس في حالة حنانيا وسفيرة، خلالِه سقطا تحت"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هلاك الموت ليصيرا مثلاً للبقية. لذلك قيل: \"صَارَ خَوْفٌ عَظِيمٌ عَلَى... جَمِيعِ الَّذِينَ سَمِعُوا بِذلِكَ\" (راجع أع 11:5)..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كان"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود التعساء يفكرون فقط في أجسادهم، ويرفضون الاهتمام بنفوسهم، لذلك بالله"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الديان يعانون من آلام في ذات الجسد الذي كرَّسوا الكثير لأجله[29](*)."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن تأملتم حسنًا أيها الأعزاء المحبوبون، تتحققون أنه ليس فقط الشعب"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهودي قد سقط في الكبرياء، بل وقائدا الخمسين أيضًا هلكا بسبب نفس الضعف."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كبرياء عظيم وتشامخ بدون تواضع جاء الثاني إلى الطوباوي إيليا، وقال له: \"يا رجل"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، الملك يقول انزل\" [9]."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ لم"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكرماه كشخصٍ كبير السن ولا كنبيٍ، تكلم الروح القدس خلال فم النبي، وضُربا بنفخة"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُرسلتْ من السماء..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعدل"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصاب قلة بالموت، لكي يمنح خلاصًا لكل أحدٍ[30]."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب قيصريوس أسقف آرل"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرق الناس محبوبًا لدى إيليا، لأنه لم يكن يتحرك لهذا العمل إلا بالروح."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يفكر"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد بأنه غضب جسديًا، وثار ثائرة، فعمل الحريق ليريح غضبه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاده"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروح حيثما شاء في كل الأعمال، ليدفع الوثنيين أن يتركوا آلهتهم."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جعله"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب مثل وسيط بينه وبينهم، ليصنع على يده قوات عجيبة ويعيدهم."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحرق المئة ليفيد أكثرية الشعب حتى يعيدهم من الوثنية بالآية التي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صنعها."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الوثنيون قساة، ومتمسكين بآلهتهم، ولم يكن يقدر أن يتكلم معهم"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلا بالنار..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أضرم فيهم نارًا تنطفئ، حتى يبطل جهنم التي يرثها الوثنيون إلى"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبد."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحرك الرجل روحيًا وبحبٍ عظيمٍ، ليحيي العالم المائت بالأصنام..."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأحرق، لتتحقق إرادة ربه، ويعظم اسمه، بينما لم يكن يريد هو مثل هذه الأمور."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلت"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النار كما أمرها، والتهمت الفوجين ومعهما القائدين كما سمعتم[31]."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَادَ فَأَرْسَلَ رَئِيسَ خَمْسِينَ ثَالِثًا وَالْخَمْسِينَ الَّذِينَ لَهُ."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَصَعِدَ رَئِيسُ الْخَمْسِينَ الثَّالِثُ،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَاءَ"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَثَا عَلَى رُكْبَتَيْهِ أمَامَ إِيلِيَّا،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتَضَرَّعَ إِلَيْهِ، وَقَالَ لَهُ: يَا رَجُلَ الله،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِتُكْرَمْ نَفْسِي وَأَنْفُسُ عَبِيدِكَ هَؤُلاَءِ الْخَمْسِينَ فِي عَيْنَيْكَ."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَذَا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدْ نَزَلَتْ نَارٌ مِنَ السَّمَاءِ،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَكَلَتْ رَئِيسَيِ الْخَمْسِينَيْنِ الأَوَّلَيْنِ وَخَمْسِينَيْهِمَا،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلْتُكْرَمْ نَفْسِي فِي عَيْنَيْكَ. [14]"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد دعا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القائدان الأول والثاني إيليا \"رجل الله\"، لكنهما في كبرياء قلب أرادا القبض"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه وتسليمه للملك. ودعاه الثالث بذات اللقب \"رجل الله\"، لكنه بتواضعٍ طلب"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرحمة، سائلاً إياه أن تكون نفسه ونفوس الجنود عزيزة لديه. فإن كانوا قد جاءوا"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه كأمر الملك الشرير، لكنهم يثقون في سلطان النبي ويطلبون رحمة الله. بتواضعه"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استحق القائد أن يرسل الله ملاكًا لإيليا النبي يدعوه أن يذهب معه إلى الملك."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاد وأرسل قائد خمسين للمرة الثالثة، ولم يحزن على الأوّلين الذين"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احترقوا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فوجان من مملكته، وكان قلبه مريضًا، ومملوءًا خوفًا، ومع ذلك لم يتغير."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائد الخمسين الذي أُرسل بتواضعٍ يقدر أن يُخضِع جميع الجبابرة."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نظر إلى"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا، وعرفه من هو، وكيف هو، فخاف منه كما من بحر اللهيب."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكَّر"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأوّلين، إذ نزلت النار وأكلتهم، وأدرك أنه من السهل أن يحترق هو أيضًا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكَّر"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم بوجود إيليا، وبأن لديه نارًا، ويقدر أن يحرق من يعصاه كما يشاء."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التمييز على نفسه، وشعر مثل العارف (بالأمور) أن النبي عظيم وإلهه عظيم، فخاف منه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتواضع"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى يقترب منه، طالبًا المراحم، وهيأ له توسلاً مفيدًا ينقذه."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ركع على"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ركبتيه، وأحنى نفسه متوسلاً، وبخوفٍ أحنى وجهه إلى الأرض أمام إيليا."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقترب"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقلبٍ منكسرٍ، ونفسٍ مروّعة، ورأسه منحنٍ، وصوته خافت طالبًا الرحمة."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال له:"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا نبي الرب، لتُكرم نفسي، ونفوس عبيدك، هؤلاء الذين أتوا وهم لا يريدون."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطان لتنزل النار من بيت ربك، وتحرق الناس كما تريد، إن عصوك."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيدي،"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسهل عليك أن تحرق الآن إن شئت، ويمطر الهواء اللهيب من كل الجهات."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عُرف"
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبروتك في الذين احترقوا، أظهر الآن رحمتك للعالم بي."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلطان أن تحرق أو لا تحرق، وهذا واضح، فإن كنت لا أحترق، فهذا يعود إليك."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقائدَين أظهرت قدرة قوة الله، ليظهر بي الآن حنانه كيف يغفر[32]."
+    },
+    {
+      "section_title": "يَقُولُ الْمَلِكُ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "15 فَقَالَ مَلاَكُ الرَّبِّ لإِيلِيَّا: «انْزِلْ مَعَهُ. لاَ تَخَفْ مِنْهُ». فَقَامَ وَنَزَلَ مَعَهُ إِلَى الْمَلِكِ."
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلاَكُ الرَّبِّ لإِيلِيَّا: انْزِلْ مَعَهُ."
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَخَفْ مِنْهُ."
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَامَ"
+    },
+    {
+      "section_title": "3. ثقة في الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَزَلَ مَعَهُ إِلَى الْمَلِكِ. [15]"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا تخف منه\"، يقصد الملاك المُرسَل من الرب ألا يخاف من رئيس الخمسين أو من"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك. بثقة كاملة في عمل الله لم يخشَ رجل الله أن يخبر الملك أنه لن يُشفى بل"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يموت، لأنه استخف بالله الحقيقي ولجأ إلى بعل زبوب."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحدث"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الحياة السعيدة أنها لا ترتبط بالظروف الخارجية، بل بأعماق القلب، يقارن بين"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا النبي وموسى النبي، وأيضًا بينه وبين داود الملك قائلاً:"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن إيليا أقل سعادة من موسى، ومع ذلك كان أحدهما محتاجًا إلى"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طعام ويرتدي جلد ماعز رخيصًا (عب 37:11) ، ليس له أولاد أو ممتلكات أو أصدقاء ،"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينما كان الآخر قائدًا للشعوب، يفرح بنسله، يتمنطق بالقوة."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بطرق مختلفة نالا استحقاقًا آمنًا متساويًا كما أعلن في الإنجيل"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما أضاءا مع الرب يسوع في مجد القيامة (مت 3:17). يبدو أنهما نالا مكافأة"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متساوية كشاهدين متساويين لمجده."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا أقل سعادة من داود، مع"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحدهما كان خاضعًا للملوك بينما ملك الآخر بسلطانٍ ملوكيٍ، لكنهما"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نالا بالتساوي نعمة النبوة والقداسة[33]."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخل توسل المتميز أمام إيليا، وشرعت الرحمة تخرج إليه لتنقذه."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب قلبًا مملوءًا تمييزًا، وبواسطة ساهرٍ (ملاك) بعث إلى إيليا أن ينزل معه."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراد أن"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبين أن كل من يتوسل له رجاء، وأن الباب مفتوح لكل من يأتي ليطلب الرحمة."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بوجهه إلى تلك الطلبة، لأنها كانت متواضعة، عندما تُقبل لدى الله ليقتنيها كل"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدٍ."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرَّف"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب أن هؤلاء الذين التهمتهم النار، يعود احتراقهم إليهم، لأنهم قسّوا قلوبهم."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي تواضع أمام إيليا أنقذه، واتضح أن هؤلاء احترقوا بسبب كبريائهم."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبَّخ"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هؤلاء الذين صاروا سبب ذلك الحريق، وأنقذ هذا ليظهر به حنانَه العظيم."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريد أن"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفيد البشر بكل أفعاله: عندما يقتل وعندما يحيي، فهدفه واحد."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحرق هؤلاء، أحرقهم حتى يترك الوثنيون أصنامهم بسبب الخوف."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنقذ هذا الذي توسل، أراد أن يظهر به أنه مملوء رحمة، وللتوسل موضع لديه."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توسل"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائد الخمسين الثالث، فقام ونزل مع المُعلِّم عند ابن أخآب."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصبحوا قساة أنزل نارًا قتلتهم، ولما تواضعوا قادوه ونزلوا كما أرادوا."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخضع محب البشر للتواضع، ولا يسمح للقسوة أن تقترب عنده[34]."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "4. تنفيذ مشيئة الله",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "16 وَقَالَ لَهُ: «هكَذَا قَالَ الرَّبُّ: مِنْ أَجْلِ أَنَّكَ أَرْسَلْتَ رُسُلًا لِتَسْأَلَ بَعْلَ زَبُوبَ إِلهَ عَقْرُونَ، أَلَيْسَ لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ لِتَسْأَلَ عَنْ كَلاَمِهِ! لِذلِكَ السَّرِيرُ الَّذِي صَعِدْتَ عَلَيْهِ لاَ تَنْزِلُ عَنْهُ بَلْ مَوْتًا تَمُوتُ». 17 فَمَاتَ حَسَبَ كَلاَمِ الرَّبِّ الَّذِي تَكَلَّمَ بِهِ إِيلِيَّا. وَمَلَكَ يَهُورَامُ عِوَضًا عَنْهُ فِي السَّنَةِ الثَّانِيَةِ لِيَهُورَامَ بْنِ يَهُوشَافَاطَ مَلِكِ يَهُوذَا، لأَنَّهُ لَمْ يَكُنْ لَهُ ابْنٌ. 18 وَبَقِيَّةُ أُمُورِ أَخَزْيَا الَّتِي عَمِلَ، أَمَا هِيَ مَكْتُوبَةٌ فِي سِفْرِ أَخْبَارِ الأَيَّامِ لِمُلُوكِ إِسْرَائِيلَ؟"
+    },
+    {
+      "section_title": "4. تنفيذ مشيئة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَجْلِ أَنَّكَ أَرْسَلْتَ رُسُلاً لِتَسْأَلَ بَعْلَ زَبُوبَ إِلَهَ عَقْرُونَ،"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلَيْسَ لأَنَّهُ لاَ يُوجَدُ فِي إِسْرَائِيلَ إِلهٌ لِتَسْأَلَ عَنْ كَلاَمِهِ"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِذَلِكَ السَّرِيرُ الَّذِي صَعِدْتَ عَلَيْهِ لاَ تَنْزِلُ عَنْهُ، بَلْ مَوْتًا"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَمُوتُ. [16]"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكل قوة"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام إيليا بتنفيذ مشيئة الله. وقف أمام الملك الطالب قتله وتحدث بكل جرأة، فسمعه"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك، وأطلق إيليا الذي اختفى دون أن يذكر الكتاب طريقة اختفائه والمكان الذي ذهب"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزل معهم عند ذاك الملك، ولم يخف منه، وملأ فمه توبيخًا ورفع صوته."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقال للملك وجهًا لوجهٍ كما أرسل إليه: موتًا تموت، وعن سريرك لن تنزل."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمته"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدة سواء كان قريبًا أو بعيدًا، لأن الحقيقة التي تكلم بها واحدة، ولا تردد فيها."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نظر إلى وجه الملك وبَّخه، لأن المحاباة لم تكن ترِدُ نهائيًا في كلمته."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو أرسل"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الملك ولم يتكلم في وجهه، لظهر بأنه خائف وغير صادق."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وحده يُكرَم وينظر إليه، ويهتم لينطق بالحق في كل مكانٍ."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخزيا كما قرر النبي العظيم، فثبتت كلمته، لتدحض الوثنيين وأصنامهم."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار موت"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثني علة صالحة ليقترب الكثيرون إلى الله، بفضل القوة التي رأوها."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فُضح"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضا إله العقرونيين، وارتاع المرضى، لن يدوسوا عتبته."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرغت"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دروبه فما أتى إليه أحد يستعطفه، لأن ما حدث بخصوصه كان قد سُمع (وانتشر)."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب (الإلهي) الملك الذي أرسل ليسأل، فمن لا يخاف من ذكر حتى اسم إيليا؟"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب لماذا احترق هؤلاء الذين احترقوا، وأن الملك مات بحكم إيليا عليه."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأن بعل"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زبوب لا يفيد شيئًا، انفضح، وتوقف السبيل الذي يؤدي إلى عقرون بالنسبة للعبرانيين."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأجل"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا جرت كل هذه الأمور، ولأجل هذا أيضًا تواجد إيليا في زمنٍ مضطربٍ[35]."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَمَاتَ"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ كَلاَمِ الرَّبِّ الَّذِي تَكَلَّمَ بِهِ إِيلِيَّا."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ يُورَامُ عِوَضًا عَنْهُ فِي السَّنَةِ الثَّانِيَةِ لِيَهُورَامَ بْنِ"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُوشَافَاطَ مَلِكِ يَهُوذَا،"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ لَمْ يَكُنْ لَهُ ابْنٌ. [17]"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحقق"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قول الرب لإيليا عن طريق ملاكه، ومات أخزيا على سرير مرضه، وملك أخوه يهورام في نفس"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوقت الذي كان فيه يهورام بن يهوشافاط ملكًا على يهوذا."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء عن"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهورام الأخير أنه ملك في السنة الخامسة ليهورام بن أخآب (2 مل 8: 16)؛ لهذا يرى"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعض الدارسين أن يهورام ملك مع أبيه في السنة الثامنة عشر من مُلك أبيه يهوشافاط."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذا يكون يورام بن أخآب ملك في السنة الثانية من مُلك يهورام بن يهوشافاط."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كثير"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الممالك القديمة كان الملك غالبًا ما يسند بعض مهام الحكم إلى ابنه البكر أو من"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يراه مناسبًا لتولي الحكم بعده. هذا التقليد كان متبعًا في وراثة العرش على ممر"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العصور. لذا يعتبر البعض أنه بدأ استلامه الحكم مع بدء مشاركة الابن لأبيه، وآخرون"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحسبونه يعد استقلاله بالحكم غالبًا بعد وفاة والده أو انسحابه من الحكم كنوعٍ من"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسفة والاهتمام بنوال الحكمة في هدوءٍ."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد موت أخزيا، إذ لم يكن له أبناء يمكنهم أن يرثوا المملكة، صار"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخوه ملكًا. لم يحدث هذا لأن الشريعة نادت بمثل هذا، وإنما لأنه هكذا كانت عادة"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جيرانهم الذين كان بنو إسرائيل يطيعونهم لسنوات طويلة. أما الله فكان له نظام آخر"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخصوص مملكة أبناء يهوذا، فقد أمرهم أن يكونوا من عائلة داود[36]."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس مار أفرام السرياني"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَقِيَّةُ أُمُورِ أَخَزْيَا الَّتِي عَمِلَ، أَمَا هِيَ مَكْتُوبَةٌ فِي سِفْرِ أَخْبَارِ الأَيَّامِ لِمُلُوكِ إِسْرَائِيلَ. [18]"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 ملوك 1"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نار من السماء!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأسكن مع نبيك إيليا وسط الجبال المقدسة."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسكن في كتابك المقدس، الجبل العالي."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأحمل روح القوة والشجاعة والاستنارة."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدرك ما وهبتني من سلطان."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أخاف ملكًا يحرك قادة وجنودًا،"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أخشى قادة مملوءين زهوًا وغرورًا."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمل الملوك سلطانًا، فيحركون القادة حسب هواهم."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحمل القادة سلطانًا، فيحركون الجند للعمل معهم حسب أفكارهم."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما أنا فاحمل سلطانًا من عندك."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدوس على الحيات والعقارب وكل قوات الظلمة."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحمل سلطانًا، فتتحرك السماء لخدمتي."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنزل نار، فتحرق قادة الشياطين، وتبدد أعمالهم!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقتدي بك، فلا أطلب نارًا تحرق بشرًا،"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنك أتيت لتخلص، لا لتهلك!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطلب نار روحك القدوس، حارق الخطايا!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطلب نارك السماوية، تلهب القلوب حبًا!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطلب نارُا مقدسة، تحطم نار الشر!"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In luc 1: 7."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Barnes' Notes on 2 Kings 1: 1."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Adam Clark's Commentary."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "CF. James M. Freeman: Manners and Customs of the Bible, 1972, article 324."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "W. Whitcomb: Solomon to the Exile, P. 64."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On the Second Book of Kings, 1:1."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي أن الذين لا يأخذون من نبوات إرميا سوى الجانب الحرفي، يفعلون مثل فشحور"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي ألقى النبي في الجب السفلي."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Orthodox Study Bible."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Ps. 8:9 Hebr."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Mid. Teh. ad loc., See also Ber. 4B. Targ. on Eccles.10:20."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 63 على محبة الله للبشر وعلى محبة الأبرار (راجع نص الراهب بول"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيجان والدكتور الأب"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهنام سوني)."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليا"
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي وأخزيا الملك (راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "لَهُ: هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "CF. James M. Freeman: Manners and Customs of the Bible, 1972, article 325."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي، عظات حول النبي إيليا، الجامعة الأنطونية، 2003، ص 144."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي، عظات حول النبي إيليا، الجامعة الأنطونية، 2003، ص 144-145."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Matthew, 56: 3."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. John Chrysostom: Concerning the Statues, Hom 2:25-26."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. John Chrysostom: Homilies on St. Matthew, Hom 10:4."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hom 91 on the Exodus."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Matt. Homily 10:4."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Long Rules, Q 23 Regarding"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "the cincture."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Exodus, homily 91."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Paesagogus, Books, ch. 6."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On the Second Book of Kings, 1:1."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Orthodox Study Bible."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إيليا النبي"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأخزيا"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك (راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي،"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظات حول النبي إيليا، الجامعة الأنطونية، 2003، ص 147-148."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إيليا النبي"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأخزيا"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك (راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي،"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظات حول النبي إيليا، الجامعة الأنطونية، 2003، ص 152-155."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Tertullian against Marcion, Book 4, ch, 23."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sermon 125:1."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: النص بالإنجليزية:\"Because the unfortunate Jews thought only of their body and refused to be solicitous for the salvation of their soul, with God as judge they suffered punishment in the very body to which they had devoted so much care.\".لذا تكون الترجمة الأوضح: \"لأن اليهود التعساء لم يفكروا إلا في أجسادهم ورفضوا الاهتمام بخلاص أرواحهم، فقد عانوا من العقاب في الجسد نفسه الذي كرَّسوا له الكثير من الرعاية، أمام الله كقاضي.\""
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) إضافة من الموقع: النص بالإنجليزية:\"Because the unfortunate Jews thought only of their body and refused to be solicitous for the salvation of their soul, with God as judge they suffered punishment in the very body to which they had devoted so much care.\".لذا تكون الترجمة الأوضح: \"لأن اليهود التعساء لم يفكروا إلا في أجسادهم ورفضوا الاهتمام بخلاص أرواحهم، فقد عانوا من العقاب في الجسد نفسه الذي كرَّسوا له الكثير من الرعاية، أمام الله كقاضي.\""
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"Because the unfortunate Jews thought only of their body and refused to be solicitous for the salvation of their soul, with God as judge they suffered punishment in the very body to which they had devoted so much care.\".لذا تكون الترجمة الأوضح: \"لأن اليهود التعساء لم يفكروا إلا في أجسادهم ورفضوا الاهتمام بخلاص أرواحهم، فقد عانوا من العقاب في الجسد نفسه الذي كرَّسوا له الكثير من الرعاية، أمام الله كقاضي.\""
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذا تكون الترجمة الأوضح: \"لأن اليهود التعساء لم يفكروا إلا في أجسادهم ورفضوا الاهتمام بخلاص أرواحهم، فقد عانوا من العقاب في الجسد نفسه الذي كرَّسوا له الكثير من الرعاية، أمام الله كقاضي.\""
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sermon 125:2."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إ"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إيليا"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأخزيا الملك (راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي، عظات حول النبي إيليا، الجامعة الأنطونية، 2003، ص 158-159."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Jacob and the Happy Life, 8: 38."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إيليا"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأخزيا الملك (راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "راجع الخوري بولس الفغالي: يعقوب السروجي، عظات حول النبي إيليا، الجامعة"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنطونية، 2003، ص 159-160."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميمر 114 عن إيليا النبي"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On the Second Book of Kings, 1:15."
+    },
+    {
+      "section_title": "راجع الخوري بولس الفغالي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 1 من سفر الملوك الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/9tt6vwb"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/9tt6vwb"
     }
   ]
 }

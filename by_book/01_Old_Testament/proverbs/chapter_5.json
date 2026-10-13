@@ -1,17 +1,3314 @@
 {
-  "book_id": 23,
+  "book_id": "proverbs",
   "book_title": "تفسير سفر الأمثال",
   "chapter_number": 5,
   "chapter_title": "الأصحاح 5",
   "topic": "صوت الزانية",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "دعوة لطلب الحكمة",
+      "verses": "1 -2"
+    },
+    {
+      "number": 2,
+      "title": "سمات المرأة المنحلّة",
+      "verses": "3 -14"
+    },
+    {
+      "number": 3,
+      "title": "علاج الانحلال",
+      "verses": "15 -21"
+    },
+    {
+      "number": 4,
+      "title": "نهاية الشر",
+      "verses": "22 -23"
+    }
+  ],
+  "sections_count": 547,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
       "text": "صوت الزانية"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تحدث عن طريق الحكمة من الجانبين الإيجابي والسلبي (ص4)، بدأ يحذرنا من حبائل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرأة الزانية، خاصة من صوتها اللَين كالزيت، مخصصًا الأصحاحات 5-6-7 لهذا التحذير."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان يميل بأذنيه الداخليتين إلى صوت المرأة الزانية المخادعة بالعذوبة الظاهرة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يستطيع أن يميلهما إلى صوت الحكمة. يروي لنا سفر الملوك الأول القصة المُرة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسليمان نفسه وقد مال بأذنيه لابنة فرعون وغيرها من الأجنبيات ففقد ملكوت الله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي في أعماقه. \"وأحب الملك سليمان نساء غريبة كثيرة مع بنت فرعون... فأمالت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نساؤه قلبه. وكان في زمان شيخوخة سليمان أن نساءه أملن قلبه وراء آلهة أخرى، ولم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكن قلبه كاملًا مع الرب إلهه كقلب داود أبيه... وعمل سليمان الشر في عيني الرب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يتبع الرب تمامًا كداود أبيه\" (1مل1:11-6)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطالبنا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم أن نتجنب كل ما يمكن أن ينحرف بنا إلى خطية الزنا، أو مجرد الميل إليها"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالفكر. فإن أفكار الشهوة قاتلة لكل بذور الفضيلة، والذين يسقطون في حبائلها"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصيرون على مقربة من أبواب الهاوية."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 يَا ابْنِي، أَصْغِ إِلَى حِكْمَتِي. أَمِلْ أُذُنَكَ إِلَى فَهْمِي، 2 لِحِفْظِ التَّدَابِيرِ، وَلْتَحْفَظَ شَفَتَاكَ مَعْرِفَةً."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسانٍ أذنان في أعماقه تنصتان إلى صوتٍ أو آخر، فمن لا تنصت أذناه لصوت الحكمة"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتمًا تنصتان إلى الأصوات الغريبة مثل صوت المرأة الزانية المخادعة. لهذا قبل أن"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحذرنا من هذا الصوت المدمر يقدم لنا الصوت الأبوي الحكيم البنَّاء."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكرر"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم هذه الدعوة لكي يصغي المؤمن ويميل بأذنيه كما بقلبه إلى صوت أبيه الروحي،"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحفظ التدابير وتصير له معرفة تنطق بها شفتاه."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يا ابني أصغِ إلى حكمتي."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمل أذنك إلى فهمي،"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحفظ التدابير،"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولتحفظ شفتاك معرفة\" [1-2]."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعونا"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للتمتع بالخبرات الحية الروحية التي يعيشها الأب الروحي في الرب."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحدث"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان في الكتاب الرابع من \"المؤسسات\" في الفصلين 9 و10 عن  التزام"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحديثين في الرهبنة ألا يعتمدوا على تمييزهم الشخصي، ولا يخفون شيئًا من أفكارهم"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الشيخ المختبر الذي يتعهدهم. بهذا لا يقدر الشيطان أن يدمر الشخص الحديث اللهم"
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلا إذ أغواه بالكبرياء وإخفاء أفكاره."
+    },
+    {
+      "section_title": "1. دعوة لطلب الحكمة",
+      "content_type": "قول آبائي",
+      "father_name": "الأب بيامون",
+      "text": "الأب بيامون"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا ابني أصغِ إلى حكمتي، أمل أذنك إلى تعقلي، لكي تُحفظ أفكارك [1]. فإنه حقًا ليس"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء مثل القلب يحاول الهروب (من الحكمة)، هذا الذي يخذلنا عندما ينزلق بالأفكار"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشريرة، لهذا يقول المرتل: \"قلبي قد تركني\" (مز12:40)."
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب غريغوريوس (الكبير)"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطلب الحكيم من"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنه الروحي أن يصغي كما يسأله أن يميل بأذنه إلى فهمه، فإن كان الإصغاء يشير"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الرغبة في التعلم والاستعداد للطاعة، فإن ميل الأذن الداخلية يشير إلى"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلاقة السرية الخفية، فمن يميل بأذنه ليستمع همسات آخر إنما يعلن عن شوقه"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للاستماع إلى كلمات خاصة غير معلنة. يقدم الإنسان مع"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أذنه قلبه وكل مشاعره"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأحاسيسه."
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم تعبير \"أمل أذنك إلى فهمي\" ربما نقلًا عن والده الذي كان"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحلو له أن يناجي الله قائلًا: \"أمل أذنك إليَّ (مز6:17). فقد أمال الآب أذنه"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى البشرية بنزول ابنه إلينا، يتحدث معنا ونحن معه كما في علاقة شخصية سرية،"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسمعها القلب وتتجاوب معها النفس بكل طاقاتها الخفية."
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا نستمع إلى صوت المرأة الزانية أو الخطية المخادعة فلنمل أذننا إلى حبيبنا"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماوي قائلين: \"صوت حبيبي، هوذا طافرًا على الجبال، قافزًا على"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التلال\" (نش8:2)."
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس إكليمنضس السكندري في الآية 2 \"لحفظ التمييز ولتحفظ شفتاك"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معرفة\" كشفًا عن نظرة المسيحية إلى الثقافة أو المعرفة العلمانية، إذ"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول:"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصحنا أن نستخدم حقًا الثقافة العلمانية، لكن لا نتباطأ ونقضي وقتًا (طويلًا)"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيها. فما يُمنح لكل جيل بطريقة نافعة وفي أوقات مناسبة، هو تدريب بدائي لكلمة"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب. فإنه فعلًا إذ سقط البعض في حبائل الوصيفات احتقروا فلسفتهم المرافقة لهم،"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشاخوا. سقط البعض خلال الموسيقى، وآخرون الرياضيات، وآخرون النحو، والغالبية"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البلاغة."
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس إكليمنضس السكندري"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملاخي النبي تعبير \"حفظ الشفتين للمعرفة\" قائلًا: \"لأن شفتي الكاهن"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحفظان معرفة، ومن فمه يطلبون الشريعة، لأنه رسول رب الجنود\""
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(ملا7:2). وكأن فم المؤمن الحيّ يصير أشبه بخزانة للمعرفة تحت حراسة الشفتين"
+    },
+    {
+      "section_title": "مكتوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيمتين، تخرجان من هذه الكنوز حسب الحاجة وبالقدر اللائق لبنيان النفوس."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنحلّة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "3 لأَنَّ شَفَتَيِ الْمَرْأَةِ الأَجْنَبِيَّةِ تَقْطُرَانِ عَسَلًا، وَحَنَكُهَا أَنْعَمُ مِنَ الزَّيْتِ، 4 لكِنَّ عَاقِبَتَهَا مُرَّةٌ كَالأَفْسَنْتِينِ، حَادَّةٌ كَسَيْفٍ ذِي حَدَّيْنِ. 5 قَدَمَاهَا تَنْحَدِرَانِ إِلَى الْمَوْتِ. خَطَوَاتُهَا تَتَمَسَّكُ بِالْهَاوِيَةِ. 6 لِئَلاَّ تَتَأَمَّلَ طَرِيقَ الْحَيَاةِ، تَمَايَلَتْ خَطَوَاتُهَا وَلاَ تَشْعُرُ. 7 وَالآنَ أَيُّهَا الْبَنُونَ اسْمَعُوا لِي، وَلاَ تَرْتَدُّوا عَنْ كَلِمَاتِ فَمِي. 8 أَبْعِدْ طَرِيقَكَ عَنْهَا، وَلاَ تَقْرَبْ إِلَى بَابِ بَيْتِهَا، 9 لِئَلاَّ تُعْطِيَ زَهْرَكَ لآخَرِينَ، وَسِنِينَكَ لِلْقَاسِي. 10 لِئَلاَّ تَشْبَعَ الأَجَانِبُ مِنْ قُوَّتِكَ، وَتَكُونَ أَتْعَابُكَ فِي بَيْتِ غَرِيبٍ. 11 فَتَنُوحَ فِي أَوَاخِرِكَ، عِنْدَ فَنَاءِ لَحْمِكَ وَجِسْمِكَ، 12 فَتَقُولَ: «كَيْفَ أَنِّي أَبْغَضْتُ الأَدَبَ، وَرَذَلَ قَلْبِي التَّوْبِبيخَ! 13 وَلَمْ أَسْمَعْ لِصَوْتِ مُرْشِدِيَّ، وَلَمْ أَمِلْ أُذُنِي إِلَى مُعَلِّمِيَّ. 14 لَوْلاَ قَلِيلٌ لَكُنْتُ فِي كُلِّ شَرّ، فِي وَسَطِ الزُّمْرَةِ وَالْجَمَاعَةِ»."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت شفتا المؤمن المنصت لصوت الحكمة تحفظان معرفة فإن شفتيْ المرأة المنحلة تنساب"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منهما كلمات معسولة لينة كالزيت."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأن شفتي المرأة الأجنبية تقطران عسلًا،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحنكها ألين من الزيت."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن عاقبتها مرة كالأفسنتين،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حادة كسيفٍ ذي حدّين\" [3-4]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا الحديث عن المرأة الأجنبية في هذا السفر، أنها تعني امرأة أممية زانية، لأنه"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحسب الشريعة المرأة الإسرائيلية التي تُضبط في الزنا تُرجم. لذلك جاءت بعض"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشريرات وسكنّ في وسط إسرائيل. وربما تعني أيضًا الإسرائيلية الساقطة في الزنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرًا، فإنها تُحسب أجنبية وغريبة لأنها فصلت نفسها عن العهد الإلهي وفقدت انتسابها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للشعب المقدس."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلماتها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الخارج حلوة كالعسل، وفي الداخل مرة للغاية كالأفسنتين؛ من الخارج لينة كالزيت"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومن الداخل كسيفٍ قاتلٍ ذي حدّين. يرى البعض أن العاقبة المرة كالافسنتين والسيف"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذو الحدين هي الأمراض التناسلية التي يعاني منها كثير من الساقطين في الزنا. ولعل الله سمح بذلك لكي خلال ما يحل بالجسد يدرك الإنسان خطورة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يحل بالنفس. فإن كان العالم قد اهتز منذ سنوات قليلة بسبب اكتشاف مرض الإيدز"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي غالبًا ما ينتقل خلال العلاقات الجسدية الخاطئة، فإن البشرية ستهتز حينما"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفقد الكثيرون أبديتهم ومجدهم السماوي وشركتهم مع السمائيين بسبب الاستعباد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للشهوات الجسدية الدنسة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالبًا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يُقصد بالشفتين والفم هنا القبلات المثيرة للشر مع الكلمات العاطفية الغاشة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتطلع"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان الحكيم إلى المرأة الشريرة بفمها ذي الشفتين الناعمتين كعدوٍ خطيرٍ يقف"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ممسكًا بسيف ذي حدين. كل شفاه أشبه بحد سيف، أينما توجه السيف يقطع ويدمر... هكذا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فم الشريرة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحدهم هذه النصيحة: \"لا تُلاحظ جمال المرأة الأجنبية، ولا تلتقي بامرأة تُدمن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزنا. إذ تقطر شفتا الزانية عسلًا، الذي إلى حين يبدو لينًا لحنجرتك، لكنه بعد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك تجده أكثر مرارة من الأفسنتين، وأكثر حدّة من سيفٍ ذي حدّين. فالمرأة الزانية"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تعرف كيف تُحب بل تصطاد؛ قبلاتها مملوءة سمًّا، وفمها مخدِر ضار. إن كان هذا لا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظهر في الحال، فبالأكثر يجب تجنبها، لأنها تحجب هذا التدمير وتختم على هذا الموت"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تسمح له بالظهور في البداية."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تبدو"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملامح الزانية مقبولة. أنا أعلم ذلك، إذ يقول الكتاب: \"شفتا المرأة الأجنبية"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقطران عسلًا\" [3]. لهذا السبب احمل كل هذا التعب حتى لا تكون لك خبرة هذا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العسل، فإنه في الحال يتحول إلى إفسنتين. هكذا يقول أيضًا الكتاب المقدس: \"هذا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي إلى حين ليّن لحنجرتك، لكنه بعد ذلك تجده أكثر مرارة من الإفسنتين، وأشد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حِدّة من سيفٍ ذي حدّين\" [3، 4] [LXX]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرم الإنسان نفسه من ثمار الأمور الصالحة وملأ (بطنه) بالثمر الذي يجلب دمارًا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال العصيان."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس أسقف نيصص"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قدماها تنحدران إلى الموت."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطواتها تتمسك بالهاوية."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لئلا نتأمل طريق الحياة،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمايلت خطواتها ولا تشعر\" [5-6]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصفه للمرأة الزانية بشفتيها اللتين تقطران عسلًا مسمومًا، قد دهنتهما بزيت الخداع"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتسحب كل قلب إليها. من يستمع إليها ينزل إلى الأسافل، \"قدماها تنحدران"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الموت\"، ولا يرتفع إلى قمم الجبال العالية والتلال الراسخة، فيعجز عن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إدراك صوت حبيبه الحقيقي. يفقد قدرته على الترنم قائلًا: \"صوت حبيبي. هوذا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آتيًا طافرًا على الجبال، قافزًا على التلال\" (نش8:2). وكما يعلق"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريغوريوس النيصي على هذه التسبحة الرائعة فيقول بأن العروس وقد تيقظت بطرق"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرة بلغت قمة السعادة. لقد تحدث معها عريسها خلال الآباء والأنبياء، خلال الجبال"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتلال، والآن قدُم إليها بنفسه ليتحدث معها فمًا لفمٍ ووجهًا لوجهٍ."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطورة المرأة الزانية أن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حركاتها تميل يمينًا ويسارًا، أو خطواتها غير ثابتة، لهذا تسحب قلب من يرتبط بها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى حيث لا يدري. الأمر الأكيد أنها تضم معها من يرتبط بها إلى مملكة الموت."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البداية تظهر كحيّة تبث سمومها، شهواتها الباطلة تشكل كل كيانها وحركاتها وكلماتها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكي تحدر النفوس إلى الموت آجلًا أو عاجلًا. الالتصاق بها يُسرع بالجسد إلى الدمار"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُسقط النفس في الموت الأبدي. إنها تسحب القلب والفكر من التأمل في طريق الحياة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدية، ليس علانية، ولكن بالخداع ومع مرور الزمن ينسى المُلتصق بها يوم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدينونة، فلا تشتهي نفسه أكاليل المجد، ولا تخشى نار جهنم."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلامات"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظاهرة لطريق الخطية هي: العاطفة والحب والعذوبة والتنعم والحياة المترفة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتدليل والميوعة... أسماء براقة جذابة للإنسان، فيظن أن الحياة بدونها لا طعم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لها، أما العلامات الخفية الحقيقية لهذا الطريق فهي الموت والهاوية والدمار"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدي. وإذ وضع الحكيم هذا اليوم العظيم أمام أعين تلاميذه يقول:"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"والآن أيها البنون اسمعوا لي،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا ترتدّوا عن كلماتي\" [8]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسنًا،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد بدأ يخاف يوم الدينونة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليته بالخوف يُصلح حياته، ليسهر ضد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعدائه، أي خطاياه."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليبدأ ينطلق نحو الحياة الداخلية مرة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى ويميت أعضاءه التي على الأرض كقول الرسول."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أبعد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طريقك عنها،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تقرب إلى باب بيتها\" [9]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا الحكيم هذه النصيحة، وهي الابتعاد عن طريق الخطية وعدم الاقتراب إلى مدخل"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيتها، حتى لا تسقط في حبائلها."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النصيحة التي يُقدمها لنا كاتب الأمثال: \"أبعد طريقك عنها، ولا تقرب إلى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باب بيتها\" [8] هي بخصوص الزانية. أود أن أردد نفس الأمر بالنسبة لمحبة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المال. فإنه بالدخول التدريجي إليها تسقط في محيط الجنون ولا تقدر أن تتخلص منها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسهولة. فتكون كمن في عاصفة، تجاهد ما استطعت لكنك لا تبلغ إلى الخلاص منها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسهولة. فإنك بعدما تسقط في هوة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطمع الشريرة تحطم نفسك وكل ما تملكه (أع20:8)."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا نصيحتي"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هي أنه يلزمنا أن نحذر من البداية، ونتجنب الشرور الصغيرة، فإن الشرور العظيمة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصدر عن هذه."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لئلا تُعطي زهرك (كرامتك) لآخرين،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسنينك للقاسي\" [9]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالمعنى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرفي يحذر الحكيم الإنسان الذي تخدعه الخطية، خاصةً الزنا، لئلا يكتشف الزوج ما"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفعله هذا الساقط مع زوجته الخائنة، فيفقد كرامته أمامه، بل وأمام الجماعة كلها،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُحكم عليه بالموت، أو يسقط تحت عقوبات تمرر حياته. أما روحيًا، فإن ما هو أخطر"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن ما يرتكبه الإنسان تعرفه السماء، فيفقد موضعه هناك، ولا يكون له نصيب بين"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السمائيين والقديسين. يفقد بهاءه الذي كان يليق به أن يقتنيه بالتقائه الدائم مع"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله وشركته مع السمائيين، فيهوي مع إبليس وجنوده إلى المذلة والعار والهوان."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتهاون الإنسان مع نفسه ويقترب من الخطية أو يقف بجوار بابها، يفقد احترامه لنفسه"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وينسى كرامته في الرب، ويُسلم بقية عمره لعدو الخير. الخطية، خاصة الزنا، غالبًا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما تبدو رقيقة ولطيفة، لكنها تُخضعنا لسيد عنيف، مستبدٍ، ومحطمة للنفس ولكرامتها"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحقيقية."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هم غرباء عنا إلا الأرواح المهلكة التي انفصلت عن جماعة السمائيين؟ وما هي كرامتنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوى أننا بالرغم من كوننا أجسادًا من"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطين خُلقنا على صورة صانعنا ومثاله؟! أو من"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو عنيف إلا الملاك المرتد الذي أصاب ذاته بألم الموت خلال الكبرياء ولم يتوقف عن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يجلب الموت على الجنس البشري مع أنه هو نفسه مفقود؟! لذلك يُعطي كرامته للغرباء"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاك الذي خُلق على صورة الله ومثاله وكرّس أزمنة حياته لملذات الأرواح المُهلكة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب غريغوريوس (الكبير)"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لئلا تُشبع الأجانب من قوتك،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتكون أتعابك في بيت غريب."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتنوح في أواخرك عند فناء لحمك وجسمك\" [10-11]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشر"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كالعاصفة العنيفة تهبّ فتُحطم كل شيء. حينما يرتكب الإنسان الخطية، خاصة الزنا،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظن أنه يتمتع بنوعٍ من الشبع عِوض الحرمان، وهو لا يدري أنه يُسلم قوته لعدو"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخير، ويُسلم كل ما يملكه إلى بيتٍ غريبٍ، ليس فقط من الجانب الروحي، بل حتى في"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمور المادية، إذ غالبًا ما تنتهي حياته بالمرارة. يفقد الكثير من ممتلكاته"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويخسر صحة جسده."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما يقصد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا أنه إذ يُكتشف أمر الزاني يلتزم بالإنفاق على من سقط معها في الزنا، وعلى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المولود منها مدى الحياة، بهذا يشبع الأجانب من قوته ويكون تعبه في بيت غريب."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فتقول: كيف إني أبغضت الأدب،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورذل قلبي التوبيخ،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم اسمع لصوت مرشدي،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم أمل أذني إلى مُعلمي."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لولا قليل لكنت في كل شرٍ في وسط الزمرة والجماعة\" [12-14]."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر ليس كما"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظن البعض مجالًا للتسلية، لكنه بحق خطير، فما يزرعه الإنسان إياه يحصد. ولعلنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نرى الآن كيف تئن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المجتمعات من ثمار"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الانحلال الذي بذرته في قلوب الأجيال الجديدة فحصدت مرارة ودمارًا."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسب الشريعة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموسوية يتعرض الزاني للرجم حتى الموت (تث22:22)، لكن ما هو أخطر يفقد الإنسان"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة الأبدية."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه في وسط الزمرة والجماعة، أي في وسط كنيسة العهد القديم أو العهد الجديد، لكنه"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرَم نفسه من سلامها وفرحها، وعزل نفسه بنفسه عنها خلال عدم سماعه لصوت أبيه"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحي، مرشده ومعلمه. رفض التأديب والتوبيخ ففقد عضويته الكنسية حتى وإن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حملها في الظاهر."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعتمد على رأيه الذاتي، ولو كان"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قديسًا، فهو مخدوع، وخطر خداعه أخطر من خطر المبتدئ الذي سلم تدبيره بيد غيره. فالأول يشبه ربان"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفينة ألقى بنفسه في مركبٍ بلا شراع ولا مجدافٍ في وسط البحر، متكلًا على حذاقته وفن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تدبيره. والثاني أي المبتدئ يشبه من لا خبرة له في سفر البحر، فيطلب من نوتيٍ ماهرٍ أن"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يركبه في سفينته العامرة بكل لوازمها واحتياجاتها."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينخدع أحدكم ويهرب من نير الطاعة اللين، عازمًا أن يتمسك برأيه في الأمور الروحية مثل الصوم والصلاة وغير"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك من علامات الإيمان والنسك، ظانًا أنه بذلك يخلص!!"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوحنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطاعة...هي"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جحود النفس، موت المشيئة، قبر الهوى، قيامة الاتضاع..."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطاعة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موت أعضاء الجسد وهوى النفس، وذلك يكون للمبتدئ بألم، وللمتوسط تارة بألم وأخرى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا ألم، وأما الكامل فلا يشعر بألم إلا إذا فعل شيئًا بحسب هوى نفسه..."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالذين"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريدون أن يحملوا نير المسيح على رقابهم، ويُحّملون أحمالهم على رقاب غيرهم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(آبائهم أو مرشديهم الروحيين)، سبيلهم أن يرفضوا أهواءهم الذاتية ويفعلون ما يرون"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه موافق لإرادة الله."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدبر لا تكون السلامة. فمن الطاعة الاتضاع، ومن الاتضاع الشفاء من الآلام. فقد"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُتب أنه باتضاعنا ذكرنا الرب وخلصنا من أعدائنا."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوحنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسعادة من يميت إرادته ويترك تدابير نفسه لذاك الذي أعطاه اللّه إياه أبًا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعلمًا، فسيكون مكانه عن يمين يسوع المسيح المصلوب."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* الذي يطيع أباه مرة ويخالفه مرة،"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويطيعه في شيء ويخالفه في آخر، فهو تارة يبني وأخرى يهدم، فيكون"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعبه باطلًا."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* ذاك"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يطيع أباه الروحي تارة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويعصاه أخرى، مثله مثل الذي يضع تارة ماء جيدًا لعينيه"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المريضتين، وأخرى يضع عليهما كلسًا حارًا."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآباء أن التسبيح بالمزامير سلاح، والصلاة حفظ، والدموع النقية غسل، والطاعة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفاضلة شهادة، فبغير اعتراف وطاعة لا يخلص الخطاة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طريق الطاعة هو أقصر المسالك، وإن يكن أكثرها صعوبة. ولا يوجد إلا طريق واحد متى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلكنا فيه ضللنا: وهو"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي ندعوه \"الاتكال على"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذات وعلى إرادتنا الشخصية\"."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* الطاعة"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتجاج أمام اللّه. فان سُئلت منه: لماذا فعلت هذا؟ تجيبه \"أنت يا سيد أمرت"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالطاعة، أنا"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعلت"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أمرت به\"، فتجاوبه هكذا وتتبرر."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السفر بهذه السفينة فيه أمان من الغرق. فيسافر الإنسان وهو نائم، كما يسافر"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان في السفينة نائمًا ولا يلتزم"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتدبيرها، لأن مدبرها حاضر. هكذا حال الإنسان السائر تحت الطاعة، يسافر نحو السماء"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والكمال وهو نائم من غير تعبٍ ولا تفكير فيما ينبغي أن يفعل. لأن الرؤساء هم مدبرو"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه السفينة والساهرون من أجله. لعمري أنه ليس بالأمر الهين بل هو عظيم جدًا."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالإنسان يجتاز بحر هذا العالم وهو على ساعد غيره وذراعه!! هذه هي النعمة الكبرى"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يفعلها الله مع السالك تحت الطاعة."
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "2. سمات المرأة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا الدرجي",
+      "text": "يوحنا الدرجي"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "15 اِشْرَبْ مِيَاهًا مِنْ جُبِّكَ، وَمِيَاهًا جَارِيَةً مِنْ بِئْرِكَ. 16 لاَ تَفِضْ يَنَابِيعُكَ إِلَى الْخَارِجِ، سَوَاقِيَ مِيَاهٍ فِي الشَّوَارِعِ. 17 لِتَكُنْ لَكَ وَحْدَكَ، وَلَيْسَ لأَجَانِبَ مَعَكَ. 18 لِيَكُنْ يَنْبُوعُكَ مُبَارَكًا، وَافْرَحْ بِامْرَأَةِ شَبَابِكَ، 19 الظَّبْيَةِ الْمَحْبُوبَةِ وَالْوَعْلَةِ الزَّهِيَّةِ. لِيُرْوِكَ ثَدْيَاهَا فِي كُلِّ وَقْتٍ، وَبِمَحَبَّتِهَا اسْكَرْ دَائِمًا. 20 فَلِمَ تُفْتَنُ يَا ابْنِي بِأَجْنَبِيَّةٍ، وَتَحْتَضِنُ غَرِيبَةً؟ 21 لأَنَّ طُرُقَ الإِنْسَانِ أَمَامَ عَيْنَيِ الرَّبِّ، وَهُوَ يَزِنُ كُلَّ سُبُلِهِ."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أشرب مياهًا من جُبّك،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومياهًا جارية من بئرك\""
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قديمًا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان أصحاب البيوت والحقول يعتزون بالآبار التي يشقونها والجُب الذي يحفرونه كأشياء"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خاصة وثمينة للغاية (2مل31:18؛ إر6:38)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا يشير إلى الأمانة في"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة الزوجية، حيث يرتبط الزوجان معًا في الرب، فيشرب كل منهما من جبّه، حيث يرى"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مياه الحب في قلب الطرف الآخر، حاسبًا إياها جُبُّه وبئرُه العميق وينبوعه."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم الحكيم هنا نظرة سامية"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومقدسة للحب الزيجي، في وقت كان فيه الحديث عن العلاقات الجسدية بين الزوجين"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعتبر أمرًا مخجلًا ومشينًا. هنا يعلن أن الزواج يقدسه الله، فيشعر كل من الزوجين"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتقديره للآخر وتقديس المشاعر العاطفية، وحتى جسده وجسد الطرف الآخر. يحدث الرسول"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بطرس الأزواج، قائلًا: \"معطين إياهن كرامة كالوارثات أيضًا معكم نعمة الحياة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكي لا تُعاق صلواتكم\" (1بط7:3)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطلب العاطفة أو الحب الشهواني أو يُسلم جسده لآخر غير (زوجته أو زوجها) إنما يفيض"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينبوعه إلى الخارج، ويُبدد مياهه في الشوارع، يفقد ما له حيث يُسلم مياه حبه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأجنبي."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلاحظ أن"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة \"بئر\" أو \"جب\" في العبرية بصيغة المفرد، كأن سليمان"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم الذي لظروف سياسية سقط في تعدد الزوجات يوضح هنا ارتباط الشخص بزوجة واحدة،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يتطلع إليها كينبوعه الواحد، كما تتطلع هي إلى زوجها ينبوعها الواحد... الله"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلق حواء وحدها لآدم، ويكون هو لها."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* يقول"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء \"أيها العطاش هلمّوا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى المياه\" (إش1:55). ويحثنا سليمان: \"اشرب مياهًا من آنيتك\"..."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أفلاطون"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفيلسوف الذي تعلّم من العبرانيين يأمر الأزواج ألا يشربوا أو يأخذوا ماءً من"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آخرين، بل يحفروا أولًا في أرضهم (الارتباط بالزوجة وحدها) التي يُقال عنها أنها"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرض بكر."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس إكليمنضس الإسكندري",
+      "text": "اكليمنضس السكندري"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تطلعت في غير طهارة مشتهيًا زوجة قريبك، يكون نصيبك مع الزناة... دعْ ينبوعك لك"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واشرب ماء من بئرك. لتكن ينابيعك لك وحدك ولا تدع آخر يشرب معك. اطلب طهارة جسدك"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما تطلب ذلك من الطرف الآخر. فإنك كما لا تريد زوجة صباك أن تتنجس مع رجلٍ آخر،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تتنجس أنت مع امرأة أخرى زوجة رجل آخر."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس إفرام السرياني",
+      "text": "مار إفرام السرياني"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكن"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينبوع مياهك (زوجتك) لك وحدك وليس لأجانب معك.. عندئذ لا تهتم"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنهرٍ غريب (سيدة أخرى) ولا أن تبهج الآخريات أكثر من زوجتك."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لئلا إن حُملت إلى"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موضع آخر، تمارس شريعة النجاسة مع الطرف الآخر أيضًا."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النزينزي",
+      "text": "القديس غريغوريوس النزينزي"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والينبوع"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الداخلي هو فيض الحب الإلهي الذي يفجره الروح القدس فينا."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* حسنة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه المياه، التي هي نعمة الروح."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهبني هذا الينبوع لصدري؟"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لينبع"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في داخلي، ليفض ذاك الذي يهب حياة أبدية عليّ."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليفض"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الينبوع عليّ وليس خارجًا عني. إذ يقول الحكمة: \"اشرب مياهًا من جُبكّ،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومياهًا جارية من بئرك، لا تفض ينابيعك إلى الشوارع\"."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتفظ بهذا الماء لكي لا يفيض وينحدر بعيدًا؟"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتفظ بالإناء  حتى لا يصيبه شق الخطية، فتتسلل منه مياه الحياة الأبدية؟"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علمنا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها الرب! علمنا كما علمت تلاميذك، قائلًا: \"لا تكنزوا لكم كنوزًا على الأرض"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث يُفسد السوس والصدأ، وحيث ينقب السارقون ويسرقون\" (مت19:6)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الحكيم يتحدث هنا عن"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقاوة المتزوجين، فإن حديثه أيضًا ينطبق على نقاوة التعليم. فالمعلم الذي يكرز بما"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقوله الآخرون دون أن يختبره في حياته العملية، لا يشرب من مياه جُبّه، ولا يتمتع"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمياه بئره. يليق بنا أن نشرب من ينابيع قلوبنا الداخلية حيث يفيض الروح القدس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمياهه فيها فنرتوي ونفيض على الغير."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "افتح"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رواق قلبك لكلمة الله الذي يقول لك: \"افتح فاك وأنا أملأه!\""
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين لا يحبون الله غرباء وأضداد للمسيح. وبالرغم من حضورهم إلى الكنائس لا يُمكن"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إحصائهم بين أولاد الله، ولا ينتمي ينبوع الحياة إليهم."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن يعتمد الإنسان هذا ممكن حتى بالنسبة للشرير، أن يتنبأ"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان هذا ممكن للشرير!"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا تفض ينابيعك إلى الخارج،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سواقي مياه في الشوارع."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن لك وحدك وليس لأجانب معك\""
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا يعني بالذي يفيض بمياهه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الخارج، ويلقي بمياه السواقي في الشوارع؟ إنه ذاك الغبي الذي لا يبالي بقيمة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المياه في المناطق النائية، فيبددها برشها في الشوارع."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض هنا صورة بعض"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجال في العصور القديمة الذين لم يقدسوا الحياة الأسرية، فلم يكتفي الرجل بزوجة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدة ليهتم بها مع أبنائهما، بل كل ما كان يشغله إشباع شهواته مع أكثر من زوجة،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإرضائهن جميعهن بأن يكون لهن أطفال منه... حتى أنه أحيانًا لا يعرف أسماء أبنائه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من كثرة عددهم، وبالتالي لا يقدم لهم روح الأبوة ويهتم بتربيتهم وخلاصهم."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما يقصد أن من يشرب من"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الينبوع الخارجي أي من غير زوجته (أو رجلها) إنما يدفع الطرف الآخر أن يسلم نفسه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للزنا. بينما يشرب الرجل من ينبوع ليس له، يفقد ينبوعه (زوجته) التي تسلم عواطفها"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما جسدها لغيره. بهذا يخطئ في حق نفسه وفي حق شريكة حياته."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*  عندما"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينحرف أي شخص بطاقة أفكاره إلى"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشر يكون قد بدد فيض المياه على الغرباء."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مادمنا نروي طريق حياتنا الذي تنتشر فيه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشواك بمياه الأفكار الشريرة تجف النباتات الصالحة وتنتهي، لأن جذورها لا تنتعش"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برطوبة الأفكار الصالحة."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس أسقف نيصص"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ليكن ينبوعك مباركًا،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وافرح بامرأة شبابك\""
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الظبية المحبوبة والوعلة الزهية،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليُروِك ثدياها في كل وقت،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبمحبتها اسكر دائمًا\" [19]."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله حيّ، والنفس التي تستقبله"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيَّة. هذا النوع من الماء يفيض من الله، إذ يقول الينبوع نفسه: \"لأني خرجت"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من قِبَل الله\" (يو42:8). لدى العروس فيض من الماء في داخل بئر نفسها، فتصير"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خزانة لهذا الماء الحيّ الذي يفيض من لبنان (نش15:4)"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس أسقف نيصص"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليسلك"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزوجان بروح البساطة مع الحب، فكما يشبع الرضيع من ثديي أمه، هكذا يشبع الزوجان"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من حبهما المشترك."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشبيه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزوجة بالظبية المحبوبة والوعلة المبتهجة إنما يُشير إلى نقاوة الحب وسرعة"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجاوب بينهما. فالظبية ترمز إلى طهارة الجسد، والوعلة المبتهجة إلى سرعة الحركة."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سليمان الحكيم كلمات مشابهة في سفر نشيد الأناشيد (نش 9:2، 17؛5:4؛3:7)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فلم تُفتن يا ابني بأجنبية وتحتضن غريبة\""
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفعل هنا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأصل يعني أن يجول الإنسان أو يضل حتى يصير أسيرًا. هكذا من يسقط في حبائل"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زانية (أجنبية) أو زوجة رجل آخر. يظن أنها تتعلق به وتحبه، ولا يدري أنها تأسره في"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبال الخطية المحطمة للحرية."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأن طرق الإنسان أمام عيني الرب وهو يزن كل سبله."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير تأخذه آثامه،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبحبال خطيته يُمسك."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه يموت من عدم الأدب،"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبفرط حمقه يتهور\" [21-23]."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسألنا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النقاوة الداخلية والخارجية، فلا نُفتن بأجنبية خلال نظراتنا الخفية أو الفكر، ولا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحتضن غريبة بسلوكٍ عملي. فإن الله ينظر إلى الإنسان ويعرف أسراره الخفية وتصرفاته"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظاهرة. وكما يقول الرسول: \"ليس خليقة غير ظاهرة قدامه، بل كل شيء عريان"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومكشوف لعيني ذلك الذي معه أمرنا\" (عب13:4)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسقط في الخطية إنما يربط نفسه بحبالها، ويشرب من كأسها، ويأكل ثمارها المهلكة."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالخطية تحمل في داخلها أجرتها، حيث تستعبده وتذله وتهلكه."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* إنك لا تؤذي أحدًا، إنما كل إنسان يُربط بحبال خطيته. (راجع مز15:7-16؛ 6:57)."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ليسقطوا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الفخ (الذي نصبوه)... مجازاة خطيرة، ليس عدل أكثر من هذا! لقد أخفوا فخًا لكي"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا أعرفه، ليمسك الفخ بهم الذي لا يعرفونه... الشرير يُربط بحبال خطيته، لذلك"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُخدع الأشرار بما يريدون أن يخدعوا به الغير. حينئذ يحل بهم الضرر عندما يودون"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضرر الغير. لذلك قيل: \"لتمسك بهم الشبكة التي أخفوها، وليسقطوا في فخهم\"."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه كمن يعد كأس سم لآخر، وينسى أنه"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيشرب هو منه، أو من يحفر حفرة لكي يُسقط عدوه فيها وسط"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظلام ناسيًا أنه سيسير"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو أولًا في الطريق الذي حفر فيه ويسقط..."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* الملذات"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاتها التي نتمتع بها تصير عذابًا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا، والمباهج والمسرات التي للجسد تتحول إلى معذبين لمن أصدرهم."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "22 الشِّرِّيرُ تَأْخُذُهُ آثَامُهُ وَبِحِبَالِ خَطِيَّتِهِ يُمْسَكُ. 23 إِنَّهُ يَمُوتُ مِنْ عَدَمِ الأَدَبِ، وَبِفَرْطِ حُمْقِهِ يَتَهَوَّرُ."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختم حديثه هنا"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنهاية"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الأحمق\" المتهور الذي لا يضبط نفسه. ويلاحظ أن كلمة \"ضبط"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النفس\" وردت 42 مرة في هذا السفر، وكلمة \"جاهل\" تكررت 40 مرة، فمن"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يضبطون أنفسهم يعيشون بروح الحماقة والجهل، ومن يسلكون بحماقة يفقدون ضبطهم لأنفسهم."
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلاصة هذا الأصحاح"
+    },
+    {
+      "section_title": "3. علاج الانحلال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن مَن ينحني بنفسه أمام الشهوات الجسدية يفقد ضبطه لنفسه، فيعيش في غباوة."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤكد هذا الأصحاح أن كل علاقة"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسقط فيها الشاب قبل زواجه لها أثرها على بيته في المستقبل، فالطهارة تحفظ الإنسان"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في بيته ليشرب من ينبوعه الصالح. العلاقات الخاطئة تحطم سلام الشاب الداخلي وتفقده"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدسية النظرة إلى الحياة الزوجية، خاصة في العلاقات الجسدية، فيشرب مرارة ويفقد"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عذوبة الحياة الأسرية."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحي الأمثال 5"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأمل أذني إلى صوتك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أستعذب الأصوات الغريبة"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أملت"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها الآب أذنيك إليَّ،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنزل الكلمة الإلهي ينصت إلى أنات قلبي"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرة،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصت إليَّ بالحب،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُسمعني صوته الفائق بلغة الصليب."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* هب"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تميل أذني إليك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأسمع صوتك وأستعذبه،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشبع بالحكمة والمعرفة والفهم."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأميّز صوت الغريب وأهرب منه."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* صوت"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبيبي هوذا آتيًا طافرًا على"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجبال،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قافزًا على التلال."
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عشت عند السفح زمانًا فلم أميّز صوتك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتحملني إلى جبال كلمتك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولترفعني إلى تلال محبتك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأعرف صوتك يا حبيب نفسي!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* هب"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لي ألا"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتطلع إلى امرأة غريبة!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إني ابنك، والخطية غريبة عني!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هب لي ألا أطلب ملذاتها!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توّد أن تقتلني، تبعث بسمومها في أعماقي!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طرقها متمايلة،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنها بالتأكيد تحدر نفسي إلى الموت!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفتاها"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيف ذو حدين،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقدر أن يخلُص منهما؟!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقبلاتها تحطم وتدمر بلا رحمة!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنزل بمجد الإنسان إلى التراب،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتفقده كل تعب يديه!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتفني لحمه وجسمه!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* لأهرب"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقترب إلى باب بيتها،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأهرب إليك أيها الباب الملوكي!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أدخل إلى بهجة الخلاص،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أتمتع بفرح السماء!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت ملجأي وحصن حياتي!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هب لي أن أشرب من ينبوع الروح القدس،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمل إلى أعماقي فارتوي وألتهب حبًا!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعم لأرفض كل ينبوع غريب!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أبدد ينبوعي الداخلي!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* هب"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا قدسية"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة الزوجية،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيشبع العروسان من ينابيع حبك،"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويستظل الاثنان تحت جناحي نعمتك!"
+    },
+    {
+      "section_title": "التعليم الإلهي الخاص بالعلاقات الجسدية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Fr. Gregory (the"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Great), Pastoral Rule, 14."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Clement of Alexandria: Stromata 1:5."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. John Chrysostom: Homilies on 1 Thessalonians,"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "hom. 5."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Song of Songs, 12. PG 44:1021."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Augustine: On the"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Epistle of St. John, hom. 9:2."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. John Chrysostom: Homilies on Romans, 12."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Clement of Alexandria: Stromata 1:1."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Ephraim the Syrian: Three"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies, On admonition and repentance, 8."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Gregory Nazianzen: Oration 37:8."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Ambrose: Of the"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Holy Spirit, 1:16:182."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Ambrose: Of the"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Holy Spirit, 3:17:120."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Augustine: On the"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Epistle of St. John, hom. 7:6."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Robert L. Alden: Proverbs 1995,"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "p.52."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hom on"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Song.9; PG 44:965."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hom on"
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Song 9; PG 44:977."
+    },
+    {
+      "section_title": "أمثال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 5 من سفر الأمثال)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/fmy3pny"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/fmy3pny"
     }
   ]
 }

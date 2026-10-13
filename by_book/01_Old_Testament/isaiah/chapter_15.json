@@ -1,17 +1,1569 @@
 {
-  "book_id": 27,
+  "book_id": "isaiah",
   "book_title": "تفسير سفر إشعياء",
   "chapter_number": 15,
   "chapter_title": "الأصحاح 15",
   "topic": "وحي من جهة موآب",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "سرعة تحقيق النبوة",
+      "verses": "1"
+    },
+    {
+      "number": 2,
+      "title": "تحطيم المدن العظمى",
+      "verses": "2 -5"
+    },
+    {
+      "number": 3,
+      "title": "حلول مجاعة",
+      "verses": "6 -9"
+    }
+  ],
+  "sections_count": 257,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "وحيّ من جهَة موآب"
+      "text": "وحيّ من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جهَة موآب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم إشعياء النبي نبوات تخص"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعض الأمم المحيطة بيهوذا وإسرائيل تتحقق سريعًا حتى يتأكد الشعب من أمرين: صدق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبوات إشعياء النبي فيما يخص المستقبل البعيد مثل السبي والرجوع منه ومجيء المسيا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأعماله الخلاصية، وأن الله هو إله الأرض كلها، ضابط الكرة الأرضية ومحرك الشعوب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في هذا الأصحاح يبرز النبي تحطيم موآب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على يديْ ملك أشور سرحدون أو سنحاريب بطريقة قاضية، الأمر الذي لأجله صرخ قلب النبي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشتاقًا إلى رجوعهم إلى الله وخلاصهم عوض الدمار الذي حلّ بهم بسبب جحد الإيمان."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وَحْيٌ مِنْ جِهَةِ مُوآبَ: إِنَّهُ فِي لَيْلَةٍ خَرِبَتْ عَارُ مُوآبَ وَهَلَكَتْ. إِنَّهُ فِي لَيْلَةٍ خَرِبَتْ قِيرُ مُوآبَ وَهَلَكَتْ.\" [1]."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء الموآبيون من نسل لوط، لذا فهم"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمتّون بصلة قرابة لإسرائيل، سكنوا شرق"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الميت، وكانت بلادهم تنقسم إلى بلاد"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب وعربات موآب وهذه كانت في وادي الأردن مقابل أريحا. سمح بنو رأوبين للموآبيين"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالسكنى في مدنهم وأخذوا عنهم عبادة"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله كموش، كما وجدت علاقات طيبة أحيانًا بين"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب وإسرائيل، فقد تغربت نُعمى هناك ورجعت ومعها راعوث، وعندما قاوم شاول داود"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أودع الأخير والديه لدى ملك موآب، ومع هذا فقد حمل الموآبيون روح عداوة تجاه"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل ويهوذا، فكثيرًا ما تحالفوا مع الشعوب المجاورة ضدهم."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتنبأ إشعياء النبي عن خراب المدن الكبرى"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في موآب، وقد تحققت هذه النبوة حرفيًا وبدقة خلال ثلاث سنوات من إعلانها (إش 16: 14)، وقد حلّ الخراب على يديْ ملك آشور فجأة وبطريقة غير متوقعة."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"عار\": اسم سامي معناه"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مدينة\"؛ تبعد هذه المدينة حوالي 14 ميلًا جنوبي نهر أرنون (عد 21: 15؛ 22: 36)، سميت أيضًا عروعير (تث 2: 36)، دعاها الإغريق عريوبوليس نسبة إلى إله"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرب \"أريس\" Ares، ودعاها اليهود \"ربة موآب\"، وهي خربة الربة."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قير\" اسم سامي معناه"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"سور\" أو \"مدينة ذات أسوار\"، تبعد حوالي أحد عشر ميلًا شرقي"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجزء الجنوبي من"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الميت، موضعها اليوم مدينة كرك في الأردن."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هلكت المدينتان عار وقير في ليلة واحدة،"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وليس في يوم واحد أو نهار واحد. فإنه إذ يغيب شمس البر عن النفس البشرية التي تشبه"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة عظيمة مسوّرة، يحل بها ظلام الشر والجهل وتفقد كل ما تعبته لسنوات طويلة"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليحل بها الخراب. لذلك يقول القديس بولس: \"جميعكم أبناء نور وأبناء نهار،"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسنا من ليل ولا ظلمة، فلا ننم إذًا كالباقين بل لنسهر ونصح، لأن الذين ينامون"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فبالليل ينامون، والذين يسكرون فبالليل يسكرون\" (1 تس 5: 5-6)."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها الأحباء، ليتنا لا ننخدع بأننا"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ساهرون، لأن من لا يسهر بالبر، فسهره لا يُحسب له!"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس مار أفرام السرياني"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يترك الإنسان (محبة) العالم المظلم يصبح نقيًا طاهرًا بعمل الروح وبالتصاقه"
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنقاء الحقيقي... فتشع النفس ضوءًا وتصير هي نفسها نورًا كوعد الرب (مت 13: 43)."
+    },
+    {
+      "section_title": "1. سرعة تحقيق النبوة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس النيسي"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "2 إِلَى الْبَيْتِ وَدِيبُونَ يَصْعَدُونَ إِلَى الْمُرْتَفَعَاتِ لِلْبُكَاءِ. تُوَلْوِلُ مُوآبُ عَلَى نَبُو وَعَلَى مَيْدَبَا. فِي كُلِّ رَأْسٍ مِنْهَا قَرْعَةٌ. كُلُّ لِحْيَةٍ مَجْزُوزَةٌ. 3 فِي أَزِقَّتِهَا يَأْتَزِرُونَ بِمِسْحٍ. عَلَى سُطُوحِهَا وَفِي سَاحَاتِهَا يُوَلْوِلُ كُلُّ وَاحِدٍ مِنْهَا سَيَّالًا بِالْبُكَاءِ. 4 وَتَصْرُخُ حَشْبُونُ وَأَلْعَالَةُ. يُسْمَعُ صَوْتُهُمَا إِلَى يَاهَصَ. لِذلِكَ يَصْرُخُ مُتَسَلِّحُو مُوآبَ. نَفْسُهَا تَرْتَعِدُ فِيهَا. 5 يَصْرُخُ قَلْبِي مِنْ أَجْلِ مُوآبَ. الْهَارِبِينَ مِنْهَا إِلَى صُوغَرَ كَعِجْلَةٍ ثُلاَثِيَّةٍ، لأَنَّهُمْ يَصْعَدُونَ فِي عَقَبَةِ اللُّوحِيثِ بِالْبُكَاءِ، لأَنَّهُمْ فِي طَرِيقِ حُورُونَايِمَ يَرْفَعُونَ صُرَاخَ الانْكِسَارِ."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُصَوِّر إشعياء النبي ما حلّ بالمدن الكبرى"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في موآب بجانب عار وقير، فيقول:"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إلى البيت"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Bajith وديبون يصعدون إلى"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرتفعات للبكاء\""
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[2]. إذ حل الخراب بموآب لجأ الكثيرون إلى الآلهة الوثنية يصرخون بدموع"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعويل لعلها تستطيع أن تنقذهم،"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن بلا جدوى، وذلك كما فعل أنبياء وكهنة البعل في أيام إيليا النبي."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد لجأوا إلى"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"البيت\"؛ ويرى البعض"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Bajith تعني"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"هيكلًا\"، أو \"بيت\""
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "bayit أي \"بيت"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله كموش أو هيكل الإله\" أو"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "bat بمعنى \"بنت\" أو \"ابنة\" أي \"ابنة"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدينة\" أو سكانها."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ديبون\" اسم موآبي يعني"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مرتفعات\" أو \"هزالًا\" أو \"انحلالًا\". وهي مدينة"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تبعد ثلاثة أميال شمال نهر أرنون، شمال غربي عرعير، تُسمى بالعربية"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ذيبان\"، فيها وجد مرتفع"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله كموش الموآبي."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُترجم البعض"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"البيت وديبون\" \"بيت"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ديبون\" أو \"ابنة"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ديبون\"، كأن"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموآبيين قد هربوا إلى هيكل"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإله كموش أو بيته في"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ديبون، يبكون وينوحون على ما"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلّ بهم من خراب."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"تولول موآب على نبو وعلى"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميدبا\""
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد خربت \"نبو\"، بالقرب من"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجبل العظيم نبو، شرقي الأردن في نهاية جنوب"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الميت، وهو الجبل الذي صعد"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه موسى النبي لينظر من بعيد أرض الموعد فتتهلل نفسه مشتاقًا أن يعبر إلى أرض"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأحياء وينعم بكنعان السماوية، وقد مات هناك (تث 34)."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت نبوة محصنة بالجبل"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العظيم، مركز دفاع للموآبيين، لكنها ضاعت وخربت فصارت علة للولولة. في ذات الموضع"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي تهلل فيه موسى ولول الموآبيون؛ ما يُفرح قلب المؤمن يُحطم نفس الجاحد عديم"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان!"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولولوا أيضًا على \"ميدبا\"،"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناها \"مياه الراحة\"، تُسمى حاليًا \"مادبا\"، تبعد حوالي 5 أميال"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جنوب شرقي نبو، 14 ميلًا شرقي بحر لوط، دعيت هكذا لأن بها بركة في الجنوب طولها"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعرضها 360 قدمًا كما توجد بها برك أصغر في الشرق والشمال."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول النبي \"في كل رأس منها"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قرعة، كل لحية مجزوزة، في أزقتها يأتزرون بمسح، على سطوحها وفي ساحاتها يولول كل"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحد منها سيالًا بالبكاء\" [2-3]. هذه جميعها علامات الحزن الشديد"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(إر 48: 37؛ 2 صم 3: 31؛ إر 4: 8؛ 41: 5؛ مرا 2: 10). قرع الرأس يُشير إلى المذلة،"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ اعتاد الغالبون أن يحلقوا شعر الذكور والإناث المسبيين علامة العبودية والقبح؛"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجز اللحية إشارة إلى مهانة الكهنوت وفقدان سلطانه الروحي وكرامته، والاتزار"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالمسح علامة اليأس الشديد، أما البكاء حتى تصير الدموع كالسيل فمعناه فقدان الفرح"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الداخلي."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه هي صورة النفس التي تعتزل إلهها"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليسبيها العدو الشرير؛ تفقد حريتها وجمالها وسلطانها وكرامتها وفرحها، لتصير أشبه"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأمة قبيحة ذليلة منكسرة، لا تجد راحة لا في الأزقة ولا على السطوح (حيث يضع"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنيون آلهتهم) ولا في الساحات؛ أينما وجدت لا تشعر بالراحة."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وتصرخ"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون وألعالة، يسمع صوتهما"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ياهص، لذلك يصرخ متسلحو موآب، نفسها ترتعد فيها\" [4]. كأن"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموآبيين قد هربوا من مدينة إلى مدينة، وكان صراخهم يسمع من بعيد، من مدن بعيدة؛"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صراخ سكان"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون وألعالة يدوي في"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ياهص."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حشبون\" اسم موآبي معناه"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حسبان\" أو \"تدبير\"، وهي مدينة سيحون ملك الأموريين، أخذها"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموآبيون من"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاوي (يش 21: 29؛ 1 أي 6: 81)، تُعرف حاليًا باسم"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حسبان\"، وهي مدينة خربة قائمة على تل منعزل بين أرنون ويبوق، تقع نحو"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبعة أميال ونصف شمال مادبا."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ألعالة\"، كلمة عبرية ربما تعني"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الله صعد\"، تبعد حوالي ميلين شمال"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون، تُسمى حاليًا"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"العال\"، تقع على تل."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتعتبر المدينتان في أقصى الشمال، كانتا"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موضع نزاع بين إسرائيل وموآب."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما \"ياهص\" فكلمة عبرية تعني"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"موضعًا مدوسًا\"، تُسمى \"يهصه\"، يُقال إنها قرية أم المواليد"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو خربة اسكندر، تبعد حوالي 10 أو 12 ميلًا جنوب"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يحتمل إشعياء النبي أن يرى ما يحل"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه المدن العظيمة، وكيف تحول شعبها إلى الصراخ المستمر، حتى صارت موآب ترتعد في"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داخلها: \"نفسها ترتعد فيها\" [4]، لذلك يقول \"يصرخ"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبي من أجل موآب\" [5]. لا يقف شامتًا في الأعداء، إنما يشاركهم"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرارتهم، مشتاقًا إلى رجوعهم عن عداوتهم وتمتعهم بالخلاص. هذه هي سمة رجال"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله: الحب الداخلي الصادق والرغبة العميقة لخلاص حتى المقاومين لهم!"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن شريرًا ما كان قد صار لكم عدوًا. إذن اشتهوا له الخير فينتهي شره، ولا يعود"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد عدوًا لكم. إنه عدوكم لا بسبب طبيعته البشرية وإنما بسبب خطيته!"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفيدنا الصلاة من أجل الأصدقاء بقدر ما تنفعنا لأجل الأعداء... فإن صلينا مِنْ"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أجل الأصدقاء لا نكون أفضل من العشارين، أما إن أحببنا أعداءنا وصلينا من أجلهم"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنكون قد شابهنا الله في محبته للبشر."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول النبي: \"يصرخ قلبي من أجل"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب، الهاربين منها إلى صوغر كعِجْلة ثلاثية لأنهم يصعدون في عقبة"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللوحيث"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالبكاء، لأنهم في طريق"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حورونايم يرفعون صراخ الانكسار\" [5]."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت كلمة \"الهاربين\" في"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبرية في صيغة المفرد؛ وكأن إشعياء النبي يصور لنا الهاربين من أقصى الشمال إلى"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صوغر في الجنوب، المدينة الصغيرة التي لجأ إليها لوط عند حرق سدوم وعمورة، أشبه"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعجلة واحدة عمرها ثلاث سنوات قد هربت كما من النير الثقيل الذي لم تعتد عليه."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاروا كشخص واحد ليس من يسنده ولا من يعزيه، يهرب إلى الأماكن الصغيرة (صوغر) فلا"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجد له ملجأ."
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللوحيث وحورونايم فلا يعرف موضعهما،"
+    },
+    {
+      "section_title": "2. تحطيم المدن العظمى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما غالبًا ما كانا بجوار صوغر."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "6 لأَنَّ مِيَاهَ نِمْرِيمَ تَصِيرُ خَرِبَةً، لأَنَّ الْعُشْبَ يَبِسَ. الْكَلأُ فَنِيَ. الْخُضْرَةُ لاَ تُوجَدُ. 7 لِذلِكَ الثَّرْوَةُ الَّتِي اكْتَسَبُوهَا وَذَخَائِرُهُمْ يَحْمِلُونَهَا إِلَى عَبْرِ وَادِي الصَّفْصَافِ. 8 لأَنَّ الصُّرَاخَ قَدْ أَحَاطَ بِتُخُومِ مُوآبَ. إِلَى أَجْلاَيِمَ وَلْوَلَتُهَا. وَإِلَى بِئْرِ إِيلِيمَ وَلْوَلَتُهَا، 9 لأَنَّ مِيَاهَ دِيمُونَ تَمْتَلِئُ دَمًا، لأَنِّي أَجْعَلُ عَلَى دِيمُونَ زَوَائِدَ. عَلَى النَّاجِينَ مِنْ مُوآبَ أَسَدًا وَعَلَى بَقِيَّةِ الأَرْضِ."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يقف الأمر عند خراب المدن والهزيمة"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنكرة والهروب والصراخ وإنما يحل بموآب مجاعة كثمرة طبيعية للهزيمة في الحرب"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتحطيم الموارد الطبيعية والبشرية، أو ربما كعلامة من علامات ثورة الطبيعة نفسها"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضدهم. يقول النبي: \"لأن مياه"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نمريم تصير خربة، لأن العشب يبس،"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلأ فنى،"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخضرة لا توجد، لذلك الثروة التي اكتسبوها وذخائرهم يحملونها إلى عبر وادي"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصفصاف\" [6-7]."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"نمريم\" اسم سامي معناه"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مياه صافية\"، وهي ينابيع في وادي نميرة في الساحل الجنوبي الشرقي للبحر"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميت. والمعنى هنا أن جماهير اللاجئين تكون عظيمة فلا تستطيع الواحة أن تكفيهم هم"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحيواناتهم، لذا يتركون حيواناتهم ويأخذون ما يستطيعون حمله من ثروة وذخائر"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكملوا الطريق لعلهم يصيرون في غير عوز، لكنهم لا يقدرون أن يحملوا كل احتياجاتهم. ويرى بعض الدارسين أنه"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بجانب ما يحل ببلادهم من مجاعة يقوم الأعداء بالاستيلاء على ثروتهم وذخائرهم"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحملونها إلى بلادهم ليتركوا موآب خرابًا."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتحول موآب كلها إلى موضع صراخ وولولة،"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدوي الصراخ في كل تخومها، يُسمع في الجنوب في وادي نميرة حتى اجلايم بجوار قير"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبير ايليم في الشمال. وتتحول مياه ديمون إلى دم [9] بسبب كثرة سفك الدماء في تلك"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الليلة الشهيرة [ديمون أو ديبون ومعناها دم، غالبًا ما يقصد مياه نهر أرنون]، فلا"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجد أحد ما يروى ظمأه."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البقية التي تنجو تصير كما في حالة رعب،"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تواجه أسدًا مفترسًا لا يمكن مقاومته [9]!"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في اختصار تفقد موآب مدنها العُظْمَى،"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحقولها، ومياهها، وسلامها لتصير في خراب تام."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Nativity, hymn 1."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Virginity 11."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. R.E. Clements: The New Century Bible Commentary,"
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Isaiah 1-39, 1987, p. 152."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الأماني الذهبية من مقالات إكليل القديسين يوحنا الذهبي الفم، 1972، ص 49."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "New International Comm, on the O.T., Isaiah 1-39, p. 338-9."
+    },
+    {
+      "section_title": "3. حلول المجاعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "36 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "37 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "38 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "39 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "40 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "42 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "43 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "44 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "45 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "46 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "47 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "48 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "49 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "50 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "51 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "52 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "53 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "54 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "55 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "56 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "57 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "58 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "59 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "60 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "61 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "62 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "63 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "64 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "65 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 15 من سفر أشعياء)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/c4mg8a3"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/c4mg8a3"
     }
   ]
 }

@@ -1,23 +1,6613 @@
 {
-  "book_id": 13,
+  "book_id": "nehemiah",
   "book_title": "تفسير سفر نحميا",
   "chapter_number": 9,
   "chapter_title": "الأصحاح 9",
   "topic": "الأصحاح 9",
-  "chapter_outline": [],
-  "sections_count": 2,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "توبة ورجوع إلى الله",
+      "verses": "1 -3"
+    },
+    {
+      "number": 2,
+      "title": "دعوة للتسبيح",
+      "verses": "4 -5"
+    },
+    {
+      "number": 3,
+      "title": "تسبحة جماعية",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "وعد مع إبراهيم",
+      "verses": "7 -8"
+    },
+    {
+      "number": 5,
+      "title": "خروج بني إسرائيل",
+      "verses": "9 -10"
+    }
+  ],
+  "sections_count": 1096,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "صوم وتوبة وتسبيح لله"
+      "text": "عزرا ونحميا ودانيال مخصص للاعتراف بخطايا جماعية على مستوى الأمة كلها مع"
     },
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "مجد الله في ذاته"
+      "text": "صلوات لطلب نعمة الله."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بشعب الله كما بكل عضوٍ في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنيسة السيد المسيح الرجوع إلى التاريخ لتذكر معاملات الله مع مؤمنيه (تث 26: 5-9؛ يش 24: 1-3). عبر التاريخ نتذكر بركات الرب ووعوده (نح 9: 6-15؛ مز 105)، كما نذكر بالأسف تمردنا وأخطاءنا (نح 9: 16؛ مز 106)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال تذكر معاملات الله عبر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التاريخ اقتنع الشعب بضرورة التوبة والاعتراف، وأدركوا أنهم شعب له هدف مقدس،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مكرس لحساب ملكوت الله [2]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرة أخرى قرأوا في الشريعة [3]،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث تكشف عن عطايا الله ووعوده. لقد اعترفوا بخطاياهم، وعبدوا الله وسبحوه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادهم عزرا إلى الصلاة الكاملة،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ ركز أذهانهم على الله الخالق [6]، الذي أقام عهدًا مع إبراهيم ونسله [7-8]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الخروج إعدادًا لتسليم الشريعة في سيناء [13-14]. لكن الشعب رفض التدابير"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية حتى حاولوا العودة إلى مصر (نح 9: 16-17؛ عد 14: 4). ومع هذا فقد غفر لهم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمردهم وعبادتهم للأوثان [18-19]، واستمر يعلمهم بروحه في موسى وغيره (نح 9: 20؛ عدد 11: 16-17؛ إش 63: 10-11). أخيرًا جاء بهم إلى أرض الموعد بكل خيراتها [21-25]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أظهرت الصلاة أيضًا مغفرة الله؛"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا لن يتحقق إلا كاستجابة للصرخة نحو التمتع بالمراحم الإلهية. تحمل هذه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصرخة رغبة صادقة للتوبة، أي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجوع إلى الله. وقد أظهر عزرا وشعبه هذا الأمر."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما ما يربط الأجيال ببعضها البعض فهو الميثاق [8، 32] الذي يقدمه الله نفسه."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فما أن يُقام الميثاق حتى تتحقق العلاقة الدائمة بين الله والشعب. لكن يلتزم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان أن يثبت هذا العهد ويجدده من وقتٍ إلى آخر، لأن الله أمين في وعوده،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الإنسان فسرعان ما ينسى ما تعهد به. هكذا يليق تثبيت العهد، لا على مستوى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشخص فقط، بل وعلى مستوى الجماعة أيضًا. هذا هو عمل الكنيسة الدائم: تجديد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد الذي كتبه الآب بدم ابنه على الصليب. يبقى هو أمينًا، وتلتزم الكنيسة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تحث أبناءها على الأمانة في تحقيق العهد."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد فتره فاصلة قصيرة من العيد جاء يوم المذلة العظيم. اعتزل الشعب تمامًا كل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هو ليس في العهد، وأسلموا أنفسهم للاعتراف بتواضع أمام الله. تمموا هذا كله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت قيادة اللاويين."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرض هذا الأصحاح صلاة رائعة قدموها بهذه المناسبة، أُعدت خصيصًا من أجلهم،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستخدمها الجميع."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورجوع إلى الله"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَفِي الْيَوْمِ الرَّابعِ وَالْعِشْرِينَ مِنْ هذَا الشَّهْرِ اجْتَمَعَ بَنُو إِسْرَائِيلَ بِالصَّوْمِ، وَعَلَيْهِمْ مُسُوحٌ وَتُرَابٌ. 2 وَانْفَصَلَ نَسْلُ إِسْرَائِيلَ مِنْ جَمِيعِ بَنِي الْغُرَبَاءِ، وَوَقَفُوا وَاعْتَرَفُوا بِخَطَايَاهُمْ وَذُنُوبِ آبَائِهِمْ. 3 وَأَقَامُوا فِي مَكَانِهِمْ وَقَرَأُوا فِي سِفْرِ شَرِيعَةِ الرَّبِّ إِلهِهِمْ رُبْعَ النَّهَارِ، وَفِي الرُّبْعِ الآخَرِ كَانُوا يَحْمَدُونَ وَيَسْجُدُونَ لِلرَّبِّ إِلهِهِمْ."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي الْيَوْمِ الرَّابِعِ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْعِشْرِينَ مِنْ هَذَا الشَّهْرِ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اجْتَمَعَ بَنُو إِسْرَائِيلَ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِالصَّوْمِ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلَيْهِمْ مُسُوحٌ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتُرَابٌ. [1]"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن النص هنا يشير إلى"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يومٍ للتوبة. كان عيد الأبواق في اليوم الأول من هذا الشهر، وعيد المظال يبدأ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في اليوم الرابع عشر، ويستمر لمدة سبعة أيام حيث ينتهي في اليوم الثاني"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعشرين. وفي اليوم الثالث والعشرين اعتزلوا نساءهم غير الشرعيات والأولاد"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين منهن، وفي الرابع والعشرين قدسوا يومًا للصوم والاعتراف بالخطايا مع"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قراءة الشريعة، وختموه بتجديد العهود."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُنظر إلى شهر تشري على وجه"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخصوص أنه شهر الصوم (زك 7: 5)."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُسُوحٌ: المسوح عبارة عن ثياب من جلد الماعز، تغطي الأجزاء العارية من الحقوين أثناء وقت الحزن"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والندامة."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضع التراب على الرأس كان علامة على الحزن، أُشير إليه في (يش 7: 6؛ مرا 2: 10؛ حز 27: 30؛ 2صم 13: 19؛ أي 2: 12)(*)."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*ثمين هو الصوم الطاهر أمام الله، وهو محفوظ ككنزٍ في السماء."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصوم سلاح أمام الشرير، وترس"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقابل به سهام العدو"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*يوجد من"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصوم عن اللحم والخمر وبعض المأكولات، ويوجد من يصوم ليقيم سياجًا لفمه، فلا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينطق بكلمات شريرة."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويوجد من يصوم عن الغضب، ويضبط"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهوته فلا تغلبه."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويوجد من يصوم عن المقتنيات،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليجرد نفسه من عبوديتها."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد من يصوم عن النوم، فيكون"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ساهرًا في الصلاة..."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد من يصوم ليصير تائبًا،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيرضى ربّه بندامته."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويوجد من يجمع هذا كله، ويجعل"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منه صومًا واحدًا..."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يصوم عن هذا كله ويجيز لنفسه"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدة منها في وقت من الأوقات لا يُحسب له صومه... من نذر على نفسه أن يصوم عن"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا كله وأخذ يحلل لنفسه الواحدة بعد الأخرى تكون خطيئته عظيمة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "* إن لم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توجد نقاوة القلب لا يُقبل الصوم. تذكر أيها الحبيب أنه من الأفضل للإنسان أن"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينقي قلبه ويحفظ لسانه ويحجم يديه عن الشر... إذ لا يليق بالإنسان أن يمزج"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العسل بالعلقم. فإن صام الإنسان عن الخبز والماء لا يمزج صومه بالتجاديف"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واللعنات. واحد هو باب بيتك الذي هو هيكل الله، فلا يليق أن يخرج منه الزبل"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والوحل في باب يدخل منه الملك."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حين يصوم الإنسان عن القبائح"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتناول جسد المسيح ودمه فلينتبه إلى ابن الملك الذي دخل في فمه، فلا يجوز لك"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تخرج من فمك كلمات نجسة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "الحكيم أفراهاط",
+      "text": "القديس أفراهاط"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَانْفَصَلَ نَسْلُ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِسْرَائِيلَ مِنْ جَمِيعِ بَنِي الْغُرَبَاءِ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَقَفُوا وَاعْتَرَفُوا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِخَطَايَاهُمْ وَذُنُوبِ آبَائِهِمْ. [2]"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العجيب أنهم إذ سمعوا الكتاب"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفهموه دفعهم هذا لحياة الفرح بالرب، وإذ تمتعوا بالشركة المفرحة مع الرب صاروا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يحتملون الخطية ولا يطيقونها، فلبسوا المسوح وصاموا، واعترفوا بخطاياهم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذنوب آبائهم."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قطعوا كل شركة مع العالم الشرير،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن حطم زواجهم بالغرباء الوثنيين علاقتهم مع الله. فرحهم بالرب الذي أشبعهم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جعلهم يرفضون الشر والنجاسة، ولا يريدون بعد أن يشاكلوا أهل العالم."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان اليهود يقدمون اعترافًا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخطاياهم على المستوى الشخصي أمام الكاهن مع تقديم ذبائح خطية عنها، وأيضًا على"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مستوى جماعي مع تقديم ذبائح أيضًا عنها."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قضى الشعب حوالي ثلاث ساعات في"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاستماع للأسفار الإلهية وتفسيرها، وحوالي ثلاث ساعات في العبادة للرب (نح 8: 3)."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأينا في"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا (الأصحاح التاسع)"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرؤساء يتقدمون إلى عزرا يشتكون أن شعب إسرائيل والكهنة واللاويين لم ينفصلوا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن شعوب الأراضي المحيطة وأن الزرع المقدس اختلط بشعوب الأراضي الوثنية. وكانت"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يد الرؤساء والولاة في هذه الخيانة أولًا. إذ سمع عزرا بهذا الأمر مزق ثيابه"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورداءه ونتف شعر رأسه وذقنه وجلس متحيرًا. لقد سقط في هذا الخطأ القادة،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانحرف وراءهم الشعب."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الزواج من الأمم الوثنية"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعتبر خيانة زوجية ضد الرب نفسه، لأن شعب كان يمثل العروس الملتزمة بالاتحاد"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معه خلال الحياة المقدسة."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نتف عزرا شعره، أما نحميا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فخاصمهم ولعنهم وضرب منهم أناسًا ونتف شعورهم (نح 13: 25)."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدأ إصلاح هذا الموقف في (عز 10: 3)، حيث قطعوا عهدًا بالانفصال عن الوثنيات وأولادهن الذين رفضوا وصيه الله."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن يبدو هنا أن الحديث خاص بأناسٍ آخرين كانوا متزوجين وثنيات ولم يكونوا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبلًا معروفين، أو أن الذين انفصلوا عنهن في أيام عزرا قبلوهن ثانية."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن يعترف الحاضرون أن هذه"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطية سقط فيها آباؤهم قبلًا، وبسببها تعرضوا للتأديب، ومع هذا لم يتعظوا مما"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث مع آبائهم بل أخطأوا في حق الله بتمثلهم بآبائهم المخطئين."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود أيضًا يقول في المزمور: [أعترف بخطيتي ولا أكتم إثمي، وأنت غفرت آثام قلبي] (راجع مز 32: 5). ها أنتم ترون أن من يعلن الخطية يتأهل لغفرانها. فإن الشيطان"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يسبق فيشتكي لا يستطيع أن يتهمنا، إن كنا نتهم أنفسنا، فهذا يفيدنا في"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلاصنا. أما إذا تأخرنا، فإن الشيطان يشتكي علينا، وهذه الشكوى تسلمنا للعقوبة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشخص البار يعرف ضعفه... الحكيم يعرف ذلك، أما الجاهل فلا يفعل هذا. حقًا إن الحكيم يتحرك للتوبة بأخطائه، أما الجاهل فيجد فيها لذة. البار يتهم نفسه، أما الشرير فيقدم أعذارًا. الإنسان البار يود أن يسبق متهمه في الاعتراف بخطيته، أما"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير فيود أن يغطيها. واحد يسرع في البداية ليعلن عن أفعاله الشريرة، والآخر"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحاول اتهام الآخرين بحديثه الثرثار لكي لا تفضح أفعاله الشريرة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعترف للرب يتحرر من عبوديته: \"البار يتهم نفسه في بدء حديثه\". ليس فقط هو حرّ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما أيضًا بار. لأن البرّ في الحرية، والحرية في الاعتراف، وما أن يعترف"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان يُغفر له"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لا تنطق"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمديح نفسك، ولا تصارع ليفعل الآخرون هكذا."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تصغِ إلى حديثٍ غير لائق."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاول أن تغطي ما استطعت على مواهبك السامية. ومن جانب آخر، متى تورطت في"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطية كن متهمًا لنفسك، ولا تنتظر حتى يقدم آخرون الاتهام ضدك. بهذا تكون"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل إنسانٍ بارٍ يتهم نفسه في بدء حديثه في المحكمة، أو مثل أيوب الذي لم يمتنع"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن أن يعلن خطيته الشخصية أمام الكل في حضرة جموع الشعب في المدينة (أي 31: 34)"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترتكب خطية لا تنظر حتى يتهمك إنسان آخر، إنما قبل أن تُتهم وتدخل محاكمة، يليق"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك حسنًا أن تدين ما قد فعلته. عندئذ متى اتهمك آخر مؤخرًا، لا يكون الأمر خاص"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالاعتراف، بل بإصلاح ما قدمته من اتهامٍ لنفسك... أخطأ بطرس خطية فاحشة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإنكاره للمسيح. لكنه أسرع وتذكر خطيته، وقبل أن يتهمه أحد أعلن عن خطأه وبكى"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمرارة (مت 26: 69-75؛ مر 14: 66-72). بهذا غسل خطية جحوده"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طوبى"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمن يعرف أنه خاطي كما يفعل الرسول: \"أنا الذي لست أهلًا لأن أُدعى رسولًا،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأني اضطهدت كنيسة الله\" (1 كو 15: 9). إن كان الرسول يقدم اعترافًا كهذا، كم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأكثر يليق بالخاطي؟"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَقَامُوا فِي مَكَانِهِمْ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَرَأُوا فِي سِفْرِ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَرِيعَةِ الرَّبِّ إِلَهِهِمْ رُبْعَ النَّهَارِ،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي الرُّبْعِ الآخَرِ"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانُوا يَحْمَدُونَ وَيَسْجُدُونَ لِلرَّبِّ إِلَهِهِمْ. [3]"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرسوا اليوم كله للرجوع إلى"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، فتوقفوا عن العمل اليومي، وقضوا ربع النهار في الاستماع لكلمة الله،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والربع الآخر في التسبيح والسجود لله. لم يشتكِ منهم أحد بالملل بسبب طول مدة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاجتماع."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاعتراف بالخطية بانسحاق قلب مع"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استمرارهم في قراءة الشريعة والاستماع إليها بعث فيهم روح الحمد والشكر لله."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكأن دموع الحزن على الخطية امتزجت بدموع الفرح بمراحم الله غافر الخطايا."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلما اعترف الإنسان بخطيته وقدم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توبة صادقة بانسحاق قلب، تهللت نفسه وابتهجت بنواله غفران خطاياه."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المفيد جدًا قراءة الكتاب المقدس، فإنها تجعل النفس حكيمة، وتوجّه الروح نحو"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، وتحرّك الإنسان نحو الشكر، وتهلك الرغبة في الأمور الأرضية،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتدع أذهاننا تتمعن باستمرار في العالم الآخر."
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يمكن"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمن أنعم عليه بفاعلية كلام الله أن يبقى هكذا في هذا الانحطاط الحاضر،"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل بالأحرى يطلب له جناحين ينطلق بهما حالًا إلى الأرض العلوية، مكتشفًا نور"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصالحات غير المحدودة"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أعلم"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه مكتوب: \"كثرة الكلام لا تخلو من معصية\" (أم 10: 19). ليت كل كلامي يكون فقط"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكرازة بكلمتك، والتسبيح لك! عندئذ لا أهرب فقط من المعصية، مهما كانت كمية"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلامي، بل وأنال مكافأة صالحة!"
+    },
+    {
+      "section_title": "1. توبة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للتسبيح"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "4 وَوَقَفَ عَلَى دَرَجِ اللاَّوِيِّينَ: يَشُوعُ وَبَانِي وَقَدْمِيئِيلُ وَشَبَنْيَا وَبُنِّي وَشَرَبْيَا وَبَانِي وَكَنَانِي، وَصَرَخُوا بِصَوْتٍ عَظِيمٍ إِلَى الرَّبِّ إِلهِهِمْ. 5 وَقَالَ اللاَّوِيُّونَ: يَشُوعُ وَقَدْمِيئِيلُ وَبَانِي وَحَشَبْنِيَا وَشَرَبْيَا وَهُودِيَّا وَشَبَنْيَا وَفَتَحْيَا: « قُومُوا بَارِكُوا الرَّبَّ إِلهَكُمْ مِنَ الأَزَلِ إِلَى الأَبَدِ، وَلْيَتَبَارَكِ اسْمُ جَلاَلِكَ الْمُتَعَالِي عَلَى كُلِّ بَرَكَةٍ وَتَسْبِيحٍ."
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَقَفَ عَلَى دَرَجِ"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اللاَّوِيِّينَ يَشُوعُ وَبَانِي وَقَدْمِيئِيلُ وَشَبَنْيَا وَبُنِّي"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَرَبْيَا وَبَانِي وَكَنَانِي،"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَرَخُوا بِصَوْتٍ عَظِيمٍ"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى الرَّبِّ إِلَهِهِمْ. [4]"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدرج"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا ربما الدرجات (السلالم) التي تؤدي إلى المنبر المذكور في (نح 8: 4)."
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"صرخوا بصوتٍ عظيمٍ\" إذ"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعروا بثقل خطاياهم، استخدموا وسيلة غير عادية وهي الصراخ بصوتٍ عظيمٍ."
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دعا اللاويون الشعب لتقديم"
+    },
+    {
+      "section_title": "2. دعوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التسبيح والحمد لله، وقد وقف الكل في حضرة الرب يطلبون بكل قلوبهم تكريس حياتهم"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السرمدي"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلي الجلال (نح 9: 5)."
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "2. الله هو الخالق الوحيد،"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المهتم بكل الخليقة السماوية والأرضية (نح 9: 6)، الذي \"فيه يقوم الكل\" (كو 1: 17)، \"حامل كل الأشياء بكلمة قدرته بعد ما صنع بنفسه تطهيرًا لخطايانا جلس في"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمين العظمة في الأعالي\" (عب 1: 3). من أجلنا خلق العالم، ولأجلنا يعتني به،"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذا يليق بنا أن نكرس أنفسنا لذاك الذي أوجدنا ويرعانا. من جانب آخر إن كان"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهنا هو ضابط الكل وحافظ المسكونة، فإنه قادر أن يحل كل مشاكلنا، ولا يقف"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمامه شيء."
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "3. اختيار أبرام [7]: اختار"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبرام لكنه يريد أن يقدم الميراث لنسله، وقد حقق وعده [8]. إنه يطلب كل أحدٍ"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليدخل معه في الميثاق الجديد خلال الصليب."
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "4. رعاية لشعبه المُستعبد [9]،"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادهم بنفسه مظللًا إياهم في النهار كسحابة تحميهم، وكعمود نور"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يضيء لهم الطريق. إنه يشعر بآلامنا، ويود أن يحررنا ويقودنا من عبودية إبليس"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويدخل بنا إلى ميراثه السماوي، مرافقًا إيانا في برية هذا العالم."
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط البرية لم يعوزهم شيء، لم"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحتاجوا طول الأربعين عامًا [21]. يهتم حتى بأقدامهم فلم تتورم في تجوالهم كل"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الزمان. وكما يقول الرسول: \"فيملأ إلهي كل احتياجكم بحسب غناه في المجد في"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح يسوع\" (في 4: 19)."
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجد الله في"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاته"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ اللاَّوِيُّونَ يَشُوعُ"
+    },
+    {
+      "section_title": "1. إدراكهم عظمة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَدْمِيئِيلُ وَبَانِي وَحَشَبْنِيَا وَشَرَبْيَا وَهُودِيَّا وَشَبَنْيَا"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُومُوا بَارِكُوا الرَّبَّ"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهَكُمْ مِنَ الأَزَلِ إِلَى الأَبَدِ."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلْيَتَبَارَكِ اسْمُ"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَلاَلِكَ الْمُتَعَالِي عَلَى كُلِّ بَرَكَةٍ وَتَسْبِيحٍ. [5]"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكرار اسم اللاويين مرة أخرى جعل"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض يعتقدون بأنه تم اجتماع عام لكل الشعب، وبعد ذلك انقسم الجمع إلى ثماني"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجموعات، كل مجموعة تحت قيادة لاوي. فعند قراءة الشريعة كان الكل معًا، وقام"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزرا بالقراءة، وعند التسبيح تم توزيع الشعب على مجموعات."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الصوم يرتبط بالتوبة"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاعتراف بالخطايا، فإنه يلزم أن يرتبط أيضًا بالتسبيح لله غافر الخطايا،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتمجيده على حنوه ومعاملاته معنا كما مع آبائنا."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما عندما صرخوا بصوت عظيم"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقطوا على الأرض بانسحاق قلب، لذلك سألهم اللاويون أن يقوموا ليباركوا الرب"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويسبحوه بروح التهليل والفرح."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استعرضوا في هذه التسبحة معاملات"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله وفيض نعمته عليهم خلال الخلقة ومع الآباء، وفي مصر، وعبور البحر الأحمر،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي البرية وسيناء، وفي غزو كنعان، وفي عصر القضاة، وخلال الأنبياء وأخيرًا في"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوقت المعاصر."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن اللاويين حثوا"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب على القيام، حتى يسبحوا الرب بروح ملتهبة وقلب ناري، لأن التسبيح"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والإنسان جالس يحمل نوعًا من التهاون ما دام ليس ما يلزمه بالجلوس لأسباب صحية."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*يليق"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقلب المسيحي وفمه ألا يكفا عن التسبيح لله ، فلا يمجده في الفرج، ويتذمر عليه"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الشدة."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسبحة جماعية"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْتَ هُوَ الرَّبُّ"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحْدَكَ."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْتَ صَنَعْتَ"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّمَاوَاتِ وَسَمَاءَ السَّمَاوَاتِ وَكُلَّ جُنْدِهَا،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَرْضَ وَكُلَّ مَا"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهَا،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْبِحَارَ وَكُلَّ مَا"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِيهَا وَأَنْتَ تُحْيِيهَا كُلَّهَا."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجُنْدُ السَّمَاءِ لَكَ"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَسْجُدُ. [6]"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"جند السماء\": يُقصد بهم"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملائكة (1 مل 22: 19؛ مز 103: 20- 21؛ 148: 2). هكذا يبدأ التمجيد بالتوجه"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الله الذي وحده هو الرب الساكن في وسط شعبه. إنه خالق السماوات وكل جنودها،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والأرض وكل ما عليها. فتشترك الخليقة السماوية مع الأرضية في التسبيح له. كان"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجميع يمثلون فرقة موسيقية متناغمة معًا، تقدم سيمفونية الحب لله في وحدة"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مفرحة ومبهجة."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أنه توجد سماء ثالثة كما جاء في (2 كو 12: 2). وأن العهد القديم يشير إلى ثلاثة أقسام للسماء: السماء"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي تطير فيها الطيور، والسماء التي توجد فيها الكواكب، وأخيرًا السماء التي"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد فيها عرش الله والتي تدعى سماء السماوات"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أيها"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالي غير المفحوص الجالس على المركبة، أعطني كلمتك لأكرز على الأرض كلها بأنك"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير محدود."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها الخفي العالي عن"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلويين الحاملين لك، ليتك تختارني، فأرتل لك بين الأرضيين المخلصين لك."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها الأزلي العارف بذاته وحده،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف لا يخدمك لساني بالترنم بخيراتك؟"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها المخوف الذي تخجل منه"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمس أن تنظر إليه، فلينظر فيك العقل، ويتحرك بعظمة تمجيدك..."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها المحمول من الكاروبيم،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والذي لا يقدر الأرضيون أن يتكلموا عنه، تكلَّم فيَّ من أجل مراحمك التي فيك."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها العظيم فوق صفوف السمائيين،"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرني دهشك غير المفحوص لأتكلم عنك..."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها المبارك بحركات العجلة"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الناطقة، حرك أصواتي لتُخرج تمجيدك غنيًا..."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفم عاجز عن تمجيدك أيها الرب"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلي؛ اصنع لي فمًا جديدًا يصلح للترتيل لك."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتنطق فيَّ الشفة المختارة التي"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعدت بها في الأنبياء، فتنطق بقول مدهشٍ عن ألوهيتك، وذلك بالحب الذي هو"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعلم، وكلي الحكمة..."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم صغير، لا تكفيك الأماكن؛"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أين يمضي لكي يطلبك...؟"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت قريب لِمَنْ يطلب أن يلتصق"
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك..."
+    },
+    {
+      "section_title": "وَفَتَحْيَا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع إبراهيم"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 أَنْتَ هُوَ الرَّبُّ الإِلهُ الَّذِي اخْتَرْتَ أَبْرَامَ وَأَخْرَجْتَهُ مِنْ أُورِ الْكَلْدَانِيِّينَ وَجَعَلْتَ اسْمَهُ إِبْرَاهِيمَ. 8 وَوَجَدْتَ قَلْبَهُ أَمِينًا أَمَامَكَ، وَقَطَعْتَ مَعَهُ الْعَهْدَ أَنْ تُعْطِيَهُ أَرْضَ الْكَنْعَانِيِّينَ وَالْحِثِّيِّينَ وَالأَمُورِيِّينَ وَالْفَرِزِّيِّينَ وَالْيَبُوسِيِّينَ وَالْجِرْجَاشِيِّينَ وَتُعْطِيَهَا لِنَسْلِهِ. وَقَدْ أَنْجَزْتَ وَعْدَكَ لأَنَّكَ صَادِقٌ."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْتَ هُوَ الرَّبُّ"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإِلَهُ الَّذِي اخْتَرْتَ أَبْرَامَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخْرَجْتَهُ مِنْ أُورِ"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكِلْدَانِيِّينَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلْتَ اسْمَهُ"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِبْرَاهِيمَ. [7]"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيرّ الله اسم \"أبرام\""
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتعني \"الأب الممجد\" إلى \"إبراهيم\" أي \"أب الجموع\" (تك 17: 4-5)."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في التسبيح لله نحسب معاملاته مع"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل البشرية كأنها معاملات مع الكنيسة الحاضرة، بل ومع كل عضوٍ فيها. بدأوا هنا"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإبراهيم الذي يعتزون به كأبٍ روحيٍ، أب جميع المؤمنين. إن كان الله قد غيّر"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسمه، فعوض كونه أبًا فحسب، صار أبًا للجميع، أي اتسع قلبه للجموع، هكذا يتقدم"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل مؤمنٍ لله كي يهبه ما وهب أبيه إبراهيم، نوعًا من الحب الذي يحتضن إن أمكن"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البشرية كلها. بهذا يتأهل المؤمن للتمتع ببركات العهد الجديد في استحقاقات دم"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لم يكن ممكنًا عندما كان لا يزال \"أبرام\" يحمل اسم ميلاده الجسدي أن يتقبل عهد الله وعلامة الختان. لكنه عند ترك بلده وأقرباءه تجاوب مع قرابة أكثر قدسية سُلمت إليه في ذلك الحين. أولًا قال له الله: \"لا يُدعى اسمك بعد أبرام، بل يكون اسمك إبراهيم\" (تك 17: 5). عندئذ للحال تقبل الميثاق مع الله وقبل الختان كعلامة"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للإيمان، الأمر الذي لم يستطع أن يناله حين كان لا يزال في بيت أبيه، وفي علاقة"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسدية، وكان يُدعى أبرام"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*غيّر"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله اسم إبراهيم، مضيفًا إليه حرفًا واحدًا، فعوض أبرام صار يُدعى إبراهيم. أي"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدلًا من كونه أبًا بلا نفع -هكذا هو تفسير اسمه- دُعي أبًا ساميًا"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(لكثيرين)، أبًا مختارًا"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَجَدْتَ قَلْبَهُ أَمِينًا"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَامَكَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَطَعْتَ مَعَهُ الْعَهْدَ"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْ تُعْطِيَهُ أَرْضَ الْكَنْعَانِيِّينَ وَالْحِثِّيِّينَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَمُورِيِّينَ"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْفِرِزِّيِّينَ وَالْيَبُوسِيِّينَ وَالْجِرْجَاشِيِّينَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتُعْطِيَهَا لِنَسْلِهِ."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَدْ أَنْجَزْتَ وَعْدَكَ،"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّكَ صَادِقٌ. [8]"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أمينًا\": نادرًا ما"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُستخدم عن أفراد، مثل موسى (عد 12: 7)."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان إبراهيم أمينًا في إيمانه"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأن الله يهبه ابنًا (تك 15: 6)، وفي رغبته الجادة لتقديم ابنه ذبيحة (تك 22)."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأنك صادق\": تشير هنا"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى قداسة الله وأمانته بالرغم من عدم استحقاقنا (إش 6: 1-5؛ لو 5: 8)."
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله الأمين في مواعيده، يود أن"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسكب روح الأمانة في مؤمنيه، فيسمع المؤمن الصوت الإلهي يباركه: \"كنت أمينًا في"
+    },
+    {
+      "section_title": "4. وعد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القليل، أقيمك على الكثير\"."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بني إسرائيل"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 وَرَأَيْتَ ذُلَّ آبَائِنَا فِي مِصْرَ، وَسَمِعْتَ صُرَاخَهُمْ عِنْدَ بَحْرِ سُوفٍ، 10 وَأَظْهَرْتَ آيَاتٍ وَعَجَائِبَ عَلَى فَرْعَوْنَ وَعَلَى جَمِيعِ عَبِيدِهِ وَعَلَى كُلِّ شَعْبِ أَرْضِهِ، لأَنَّكَ عَلِمْتَ أَنَّهُمْ بَغَوْا عَلَيْهِمْ، وَعَمِلْتَ لِنَفْسِكَ اسْمًا كَهذَا الْيَوْمِ."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرَأَيْتَ ذُلَّ آبَائِنَا"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي مِصْرَ،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَمِعْتَ صُرَاخَهُمْ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عِنْدَ بَحْرِ سُوفٍ [9]"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمح الله لآبائهم بمذلة العبودية"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أرض مصر، ليصرخوا إلى الله القادر وحده أن يسمع أنات القلب وصرخاته الخفية،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقدم لهم خلاصًا عجيبًا!"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل: [فقال الرب إني رأيت مذلة شعبي الذي في مصر، وسمعت صراخهم من أجل مسخريهم. إني علمت أوجاعهم. فنزلت لأنقذهم من أيدي المصريين، وأصعدهم من تلك الأرض إلى أرض جيدة وواسعة] (خر 3: 7-8)."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شتان بين صراخ سدوم وعمورة وصراخ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بني إسرائيل، فقد قيل عن الأولين: \"وقال الرب إن صراخ سدوم وعمورة قد كثر،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخطيتهم قد عظمت جدًا\" (تك 18: 20)."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*الصراخ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا ليس كصراخ أهل سدوم، الذي يعني الشر بلا خوف ولا خجل"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَظْهَرْتَ آيَاتٍ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَجَائِبَ عَلَى فِرْعَوْنَ،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلَى جَمِيعِ عَبِيدِهِ،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلَى كُلِّ شَعْبِ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْضِهِ،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّكَ عَلِمْتَ أَنَّهُمْ"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَغُوا عَلَيْهِمْ،"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلْتَ لِنَفْسِكَ اسْمًا"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَهَذَا الْيَوْمِ. [10]"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآيات والعجائب هنا تخص أحداث"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخروج، خاصة الضربات العشر (خر 7: 3؛ تث 4: 34؛ 6: 22؛ 7: 19)."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الله قد سمح لهم بمذلة"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبودية لفرعون، فقد كان قادرًا في لحظة أن يخلصهم منها، لكنه سمح بالضربات"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العشر لأجل فرعون ورجاله، لعلهم يدركون خطأهم ويقدمون توبة. أعلن الله طول"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أناته على الأشرار حتى التزم فرعون أن يعترف أن الله بار وأنه هو ورجاله قد"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطأوا في حق الله! بحكمة عجيبة، في طول أناة مع محبة للبشرية يخطط الله لصالح"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البشرية."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان قد أطال الله أناته على"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرعون المستبد الطاغية، فكم بالأكثر يطيل أناته على شعبه، حتى يرجعوا إليه"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتوبة."
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*اعتدنا"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن نغني بالتسبحة: \"الله أمين بلا خداع!\" لهذا يلزمنا أن نؤمن دون شك بخصوص"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرعون أنه قد صار قاسيًا من أجل"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طول أناة الله وليس من أجل قوته. هذه الحقيقة"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعرفها بوضوح مما قاله عندما عوقب، معترفًا أن العدالة ألزمته بالقول: \"الرب هو"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البار، وأنا وشعبي الأشرار\" (خر 9: 27). بأية مشاعر يشتكي المسيحي أن الله"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظالم، إن كان الملك الشرير يقول إنه البار؟"
+    },
+    {
+      "section_title": "5. خروج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب قيصريوس أسقف آرل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحر سوف"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَلَقْتَ الْيَمَّ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَامَهُمْ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَبَرُوا فِي وَسَطِ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَحْرِ عَلَى الْيَابِسَةِ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَطَرَحْتَ مُطَارِدِيهِمْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي الأَعْمَاقِ كَحَجَرٍ فِي مِيَاهٍ قَوِيَّةٍ. [11]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حوّل الله البحر الذي كان يقف"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عائقًا أمامهم، للهروب من وجه فرعون إلى أداة لخلاصهم، إذ شقه، وجعل من المياه"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سورًا عن يمينهم ويسارهم يصد أمواجه وتياراته العنيفة. أما مطاردوهم فهلكوا في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذات البحر الذي عبروا في وسطه شعبه. إنه يحرك الطبيعة لحساب مؤمنيه، أحيانًا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على خلاف قوانينها."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول المرتل: \"شقَّ البحر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعبَّرهم، ونصب المياه كندٍ\" (مز 78: 13). ويقول الرسول: \"فإني لست أريد أيها"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإخوة أن تجهلوا أن آباءنا جميعهم كانوا تحت السحابة، وجميعهم اجتازوا في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر\" (1 كو 10: 1). \"بالإيمان اجتازوا في البحر الأحمر كما في اليابسة، الأمر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي لما شرع فيه المصريون غرقوا\" (عب 11: 29). ويقول إشعياء النبي: \"هكذا يقول"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب الجاعل في البحر طريقًا، وفي المياه القوية مسلكًا. المخرج المركبة والفرس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجيش والعز، يضطجعون معًا، لا يقومون. قد خمدوا. كفتيلة انطفأوا\" (إش 43: 16-17)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما خلصهم من عبودية فرعون، هكذا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حررهم من السبي البابلي، وكلاهما تهيئة للحرية التي تمتعنا بها حيث عبر بنا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المخلص من العبودية لإبليس إلى حرية مجد أولاد الله."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لقد"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعاق عجلات مركباتهم حتى لا يستطيعوا أن يتعقبوا الشعب أو يهربوا من البحر."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنهم لم يخافوا الرب الذي ظهر لهم، ولا ارتدعوا بواسطة عجلاتهم المعوقة. في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسارة ساقوا مركباتهم بكل عنفٍ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس مار أفرام السرياني"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*شعب"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله هذا وقد تحرر من مصر العظيمة المتسعة، قيد كما خلال البحر الأحمر، أي في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعمودية، لتقضي على أعدائهم. فإنه بالسّر الذي كما بالبحر الأحمر، أي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالمعمودية، تقدسوا بدم المسيح، بينما هلك المصريون الذين اقتفوا أثارهم، أي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطايا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رعاية في البرية"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "12 وَهَدَيْتَهُمْ بِعَمُودِ سَحَابٍ نَهَارًا، وَبِعَمُودِ نَارٍ لَيْلًا لِتَضِيءَ لَهُمْ فِي الطَّرِيقِ الَّتِي يَسِيرُونَ فِيهَا."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يركز هنا على القلب الذي يتشدد ويتقوى بالتأمل في المجد الإلهي، والنعمة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية الدائمة، وبهذا يصرخ في الداخل طالبًا العون الإلهي."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَدَيْتَهُمْ بِعَمُودِ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَحَابٍ نَهَارًا،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبِعَمُودِ نَارٍ لَيْلًا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِتُضِيءَ لَهُمْ فِي الطَّرِيقِ الَّتِي يَسِيرُونَ فِيهَا. [12]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وهديتم بعمود سحاب\" (خر 13: 21-22؛ عد 14: 14؛ تث 1: 33)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يقف أمر خلاصهم عند عبورهم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الأحمر وهلاك فرعون، لكنه رافقهم كل الطريق يهديهم بعمود سحاب في النهار"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يظللهم من الحر، وعمود نور بالليل يبدد الظلمة، ويكشف لهم الطريق."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله في محبته يود أن يرافق"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مؤمنيه نهارًا وليلًا، يقودهم ويرشدهم، حتى يدخل بهم إلى كنعان السماوية."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسليم الشريعة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَزَلْتَ عَلَى جَبَلِ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِينَاءَ وَكَلَّمْتَهُمْ مِنَ السَّمَاءِ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَيْتَهُمْ أَحْكَامًا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُسْتَقِيمَةً،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَرَائِعَ صَادِقَةً"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَرَائِضَ وَوَصَايَا صَالِحَةً. [13]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط البرية وهبهم شريعته،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلمها لموسى النبي لكيما يَتَشَكَّل الشعب بما يليق به كعروسٍ سماويةٍ، تحمل سمات"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عريسها. حقًا كانت الوصية بالنسبة لهم صعبة، لكنها كشفت أخطاءهم وهيأتهم أو"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادتهم إلى المسيح المخلص الذي يعطي للوصية عذوبة فائقة، ويهبنا بَّره. \"لأن"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غاية الناموس هي المسيح للبّر لكل من يؤمن\" (رو 10: 4)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*إشراق"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجيء المسيح بإنارة ناموس موسى ببهاء الحق يرفع البرقع الذي يُغطّي حرف الناموس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُغلق عليه، وذلك لكل من يؤمن به ويخفي في داخله هذه الأمور الصالحة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحدثنا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الناموس أنه يقي البشر من المضرات."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*وضع"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الناموس وأعطى الوصية ليقيهم من المضرات بالفرائض."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما تحفظ الحرية ذاتها"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالبرّ، يرفع الترابَ إلى قمة العلو، لأنه قد تبرر."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولهذا أنزل موسى اللوحين من جبل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيناء، ليحيا العالم بالناموس الروحي."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبما أن حياة البشر هي عزيزة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه، فقد علّمهم كيف يحيون ببرٍّ."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإذ أحبهم كثيرًا أرسل ابنه،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليقيمهم من السقوط الذي كانوا فيه"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الناموس النيَّر الذي نزل من جبل سيناء لطرد ظلام الوثنية من الخليقة، كان"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتهز كل الوسائل ليبرهن أن للعالم خالقًا... الشعب المثقف كان ماسكًا الناموس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كضوءٍ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقارن"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين تسليم الشريعة لبنت يعقوب خلال موسى النبي على جبل سيناء ونزول كلمة الله"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه لتتمتع به بنت الشعوب."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*تلك"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتقرت ذلك العزيز في ذلك البهاء، وهذه الطاهرة تبعت الابن بالجهالة."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم ينزل عندها بواسطة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملائكة، كما (نزل) على سيناء، ولم يرتل لها بأبواق السماويين."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا بالنواميس، ولا بالضباب، ولا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالغيوم، ولا باللهيب، ولا ببروق اللهيب."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا بتدخين البيت حيث حلّ، إنما"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزل ابن العزيز على الأرض بالتواضع."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظهر للإنسانية بالأقماط، والجوع،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعطش، والنوم، والتعب، والحاجة."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو يُجرب من قبل الشيطان في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البرية الخربة، ويُسمى رئيس الشياطين من قبل غير المؤمنين."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتهبّ عليه أمواج الشكوك من كل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجهات، ويُذم لأنه كان يأكل مع الخطاة."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهم يصرخون به، لأنه كان يختلط"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع العشارين، ويطالبونه بأن يدفع الجزية للملك."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يكن له موضع ليسند إليه"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأسه، ولم يكن يُزيح إلا على عفو عار فقط."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو متمنطق بإزار على حقويه مثل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبد، ويغسل أرجل التراب التي جبلتها يداه."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو يُباع مِن قِبَل أصحاب الدار"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين كانوا يرافقونه، ويكفر به الأمناء الذين يتبعونه."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو يُسْاَل مِنْ قبل الحاكم مثل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجاني، ويُجلد بالسياط مثل المذنب."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو يحتضن العمود في المحكمة،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويشرب العذابات، وهو لابس ثياب العار من قبل المجانين."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لما ضفر الدنسون"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إكليل الأشواك"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على رأسه، ولما كان يُلطم ويُسأل: من ضربك؟"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولما كان يحمل على كتفه خشبة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصليب ويخرج، ويداه ورجلاه مسمرة من قبل الضالين."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولما كان يُقترع على ثيابه لمن"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ستكون، ولما قُدمت له المرارة والخل على الإسفنجة."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولما جُرح جنبه"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرمح بدون"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفقة، ولما كان يُحنط ويُلفّ ويُقبر، مبارك ذكاؤها"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اهتمامه باحتياجاتهم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَرَّفْتَهُمْ سَبْتَكَ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُقَدَّسَ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَمَرْتَهُمْ بِوَصَايَا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَرَائِضَ وَشَرَائِعَ عَنْ يَدِ مُوسَى عَبْدِكَ. [14]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"سبتك المقدس\" (خر 20: 8-11؛ 31: 13-17؛ تث 5: 15)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو أن اليهود أهملوا حفظ يوم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب في أرض السبي، وحتى بعد عودتهم إلى أورشليم لم يحفظوه."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن تحدث عن الشرائع والأحكام"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية بصفة عامة، يتحدث هنا عن وصية حفظ السبت بصفة خاصة، ويدعوها \"سبتك"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدس\". فإن كانت كلمة \"سبت\" تعني \"راحة\"، فإن الله يقدم وصيته لا ليصدر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوامر ونواهٍ، وإنما ليستريح فيهم، بكونه أبًا سماويًا يتمتع أولاده بسمة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القداسة، فيسكن فيهم، ويستريحون هم فيه وبه، لأنه هو راحتهم وسلامهم وفرحهم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومجدهم."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*\"استراح"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله في اليوم السابع\". كانت نبوة تنظر إلى المسيح وهو متعب جسميًا في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجمعة ليستريح من تعب الصليب يوم السبت. لما أعطوه ليشرب الخل على الصليب"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاق وقال: \"قَدْ أُكْمِلَ\"... ها قد كمل الآلام، قد كُمل درب الصليب... لم يبطل من"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل دربه (في اليوم السابع) عندما دخل عند الموتى. لأن السبت لا يبطل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعمال... لم يبطل المسيح فيه من درب تفقده، لأنه صار كارزًا للنفوس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المحبوسة في الجحيم... شعر به كل الموتى، وتعامل في تعليمه المليء حياة مع"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النفوس التي تمردت على تعليم نوح البار. صار المسيح جنينًا ليستقبله الأجنة"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(يوحنا المعمدان في بطن أمه)، وصار ميتًا ليستقبله الموتى... كانت"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أليصابات عاقرًا وكان الجحيم عاقرًا. من حضنين عاقرين استقبلاه آدم ويوحنا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(المعمدان). آدم من الجحيم، ويوحنا من"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أليصابات."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما صنعه ربنا بين الموتى في يوم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبت يفوق الوصف، ولا يستطيع اللسان أن يردده. فزع الجحيم أمامه يوم دخله، كما"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفرغ المدينة أمام الملك الذي يدخل ليحرر من فيها. في نفس يوم السبت هذا لما"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استراح من آلام الصليب حيث كان دربه يسير في عمل الخلاص، لأن غاية مجيئه هي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يدخل ويحل الأسرى من جب الهلاك..."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لما سار وأتى من عند الآب إلى"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البتول، ومن البتول إلى المذود... وصُلب بين فاعلي شرور، واحتمل بإرادته كل ما"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكلم عنه الأنبياء، فإنه جاز في هذه الأمور لأجل هذا العمل الذي أنجزه يوم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبت في الجحيم. (الرسالة الثالثة والعشرون)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبت الحزين كان ابن الأحرار بين الموتى، وفي الأحد كان يُزيح (يُزف بموكبٍ)"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من قبل أفواج المستيقظين (السمائيين)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجمعة بددت مصاف الرسل بالسيف،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهذا اليوم أبهج وجمع التلمذة."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البارحة كان الرسل مختبئين في"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكمائن، واليوم خرجوا ليروا الانبعاث بعجب."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البارحة الهزيمة والتبعثر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاختفاء، واليوم الركض والتجمع والتبشير"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمردهم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "15 وَأَعْطَيْتَهُمْ خُبْزًا مِنَ السَّمَاءِ لِجُوعِهِمْ، وَأَخْرَجْتَ لَهُمْ مَاءً مِنَ الصَّخْرَةِ لِعَطَشِهِمْ، وَقُلْتَ لَهُمْ أَنْ يَدْخُلُوا وَيَرِثُوا الأَرْضَ الَّتِي رَفَعْتَ يَدَكَ أَنْ تُعْطِيَهُمْ إِيَّاهَا. 16 «وَلكِنَّهُمْ بَغَوْا هُمْ وَآبَاؤُنَا، وَصَلَّبُوا رِقَابَهُمْ وَلَمْ يَسْمَعُوا لِوَصَايَاكَ، 17 وَأَبَوْا الاسْتِمَاعَ، وَلَمْ يَذْكُرُوا عَجَائِبَكَ الَّتِي صَنَعْتَ مَعَهُمْ، وَصَلَّبُوا رِقَابَهُمْ. وَعِنْدَ تَمَرُّدِهِمْ أَقَامُوا رَئِيسًا لِيَرْجِعُوا إِلَى عُبُودِيَّتِهِمْ. وَأَنْتَ إِلهٌ غَفُورٌ وَحَنَّانٌ وَرَحِيمٌ، طَوِيلُ الرُّوحِ وَكَثِيرُ الرَّحْمَةِ، فَلَمْ تَتْرُكْهُمْ. 18 مَعَ أَنَّهُمْ عَمِلُوا لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا: هذَا إِلهُكَ الَّذِي أَخْرَجَكَ مِنْ مِصْرَ، وَعَمِلُوا إِهَانَةً عَظِيمَةً."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَيْتَهُمْ خُبْزًا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنَ السَّمَاءِ لِجُوعِهِمْ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخْرَجْتَ لَهُمْ مَاءً"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنَ الصَّخْرَةِ لِعَطَشِهِمْ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقُلْتَ لَهُمْ أَنْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَدْخُلُوا وَيَرِثُوا الأَرْضَ الَّتِي رَفَعْتَ يَدَكَ أَنْ تُعْطِيَهُمْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِيَّاهَا. [15]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسمح الله لنا في طريق برية هذا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم أن نجوع ونعطش، لنختبر عذوبة الشبع؛ فهو لا يتركنا في الطريق معتازين"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى شيءٍ. إنه هو شبعنا في هذا العالم والدهر الآتي."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[خبز من السماء] (خر 16: 4؛ 10-35؛ مز 78: 24؛ 105: 40؛ يو 6: 32، 51، 58)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ماء من الصخرة\" (خر 17: 6؛ عد 20: 8؛ مز 105: 41)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العطايا الإلهية لم تُلَيِّن"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عناد قلوبهم."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتريد أن أوضح لك هذا بأمثلة من جميع الأمم؟!"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أية عطايا قُدِّمتْ لليهود (عند"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خروجهم من مصر)؟"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألم تقم المخلوقات المنظورة كلها"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخدمتهم، وأُعطيتْ لهم وسائل جديدة وفريدة للحياة؟"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنهم (في البرية) لم يكونوا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يذهبون إلى سوق، إنما يأخذون ما يُشترَى بمال مجانًا، ولم يفلحوا أرضًا، ولا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدموا محراثًا ولا مهَّدوا الأرض للزراعة، ولا ألقوا بذورًا، ولم يحتاجوا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى أمطار ورياح أو فصول للسنة للزراعة، أو أشعة شمس أو شكل معين للقمر أو طقس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معين، ولا شيء من هذا القبيل. إنهم لم يعدّوا الأرض لدرس الحنطة، ولا درسوا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حنطة، ولا استخدموا مذراة لفصل الحنطة عن القش، ولا طاحونًا ولا فرنًا ولا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحضروا خشبًا أو نارًا في بيت. ولم يحتاجوا إلى أدوات للعجن... ولا أي نوع آخر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الأدوات الخاصة بالنسج والبناء وصنع الأحذية، بل كانت كلمة الله هي كل شيء"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنسبة لهم."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد كانت لهم مائدة لم تعدها يد"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بشرية، أُعدتْ بدون جهادٍ أو تعبٍ. لأنه هكذا كانت طبيعة المن، إنه جديد،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وطازج، ولا يحملهم أية مشقة أو جهاد"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*صار"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح كل شيء بالنسبة لكم: المائدة والملبس والمنزل والرأس والأصل. [فإنكم جميعا الذين اعتمدتم قد لبستم المسيح] (غل 27:3)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انظروا كيف صار ملبسكم؟ أتريدون"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تعرفوا كيف صار طعامكم؟ يقول المسيح: [كما أنا حيّ بالآب هكذا من يأكلني يحيا بي] (يو57:6)؟"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد صار منزلكم: \"مَن يأكل جسدي... يثبت فيَّ وأنا فيه\" (يو 6: 56)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويظهر أنه هو أصلنا وأساسنا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يقول: \"أنا هو الكرمة وأنتم الأغصان\" (يو5:15)، لكي يظهر أنه أخوكم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصديقكم وعريسكم، يقول: [لا أعود أدعوكم عبيدًا، إذ أنتم أصدقائي] (يو15:15)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": null,
+      "text": "يقول القديس بولس: [قد خطبتكم لرجل واحد، لأقدم عذراء عفيفة للمسيح] (2كو2:11). وأيضا \"ليكون... بِكرا بين"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوة كثيرين\" (رو29:8)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم نصر فقط إخوته بل أولاده، إذ يقول: [هاأنذا والأولاد الذين أعطانيهم الله] (إش 18:8). لم نصر أولاده فقط بل"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأعضاءه وجسده (اكو27:12)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كانت هذه الأمور التي أشرت"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليها غير كافية لتبرهن على حبه ولطفه اللذين يظهرهما لنا، يقدم لنا شيئًا آخر"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أكثر تقربًا من هذه عندما يتحدث عن نفسه أنه رأسنا (أف 22:1-23)"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَكِنَّهُمْ بَغُوا هُمْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَآبَاؤُنَا،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَلَّبُوا رِقَابَهُمْ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ يَسْمَعُوا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِوَصَايَاكَ [16]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"صلبوا رقابهم\" مجاز"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مأخوذ عن قيادة الثور العنيد الذي يقاوم من يقوده."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*غالبا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما كان الشعب الجاحد غير الأمين يحتقر موسى، وكاد أن يرجمه، ومع هذا فإنه"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باللطف وطول الأناة صلى إلى الرب لأجلهم (عد 14: 13)"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كبريانوس",
+      "text": "الشهيد كبريانوس"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*كل خطية"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هي تعبير عن الاستخفاف بالناموس الإلهي، وتُدعى \"علوًا يرتفع ضد معرفة الله\""
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَبُوا الاِسْتِمَاعَ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَمْ يَذْكُرُوا"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَجَائِبَكَ الَّتِي صَنَعْتَ مَعَهُمْ،"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَلَّبُوا رِقَابَهُمْ."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعِنْدَ تَمَرُّدِهِمْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَقَامُوا رَئِيسًا لِيَرْجِعُوا إِلَى عُبُودِيَّتِهِمْ."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْتَ إِلَهٌ غَفُورٌ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَنَّانٌ وَرَحِيمٌ طَوِيلُ الرُّوحِ وَكَثِيرُ الرَّحْمَةِ فَلَمْ"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَتْرُكْهُمْ. [17]"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أبوا الاستماع\" (1 صم 8: 19؛ إر 11: 10)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[لم يذكروا عجائبك] (مز 106: 7)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إله غفور\" (مز 130: 4؛"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دا 9: 9)."
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للعجب كثيرًا ما يفضل الإنسان"
+    },
+    {
+      "section_title": "6. عبور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العودة إلى العبودية لأخيه الإنسان العنيف الطاغية والعاجز عن التمتع بحرية مجد"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا يشير إلى ما ورد في [14]."
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد تذمر كل الشعب على موسى وعلى هرون، وقالوا: \"ليتنا مُتنا في أرض مصر، أو"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتنا مُتنا في هذا القفر. ولماذا أتى بنا الرب إلى هذه الأرض لنسقط بالسيف."
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصير نساؤنا وأطفالنا غنيمة. أليس خيرًا لنا أن نرجع إلى مصر؟ فقال بعضهم لبعض،"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقيم رئيسًا ونرجع إلى مصر\" (عد 14: 2-4)."
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أنا"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخاطي على الدوام أحتاج دومًا إلى علاج"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*كلما"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبلناه (بالتناول) نعلن موت الرب. بالموت نعلن غفران الخطايا. إن كان سفك الدم"
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل غفران الخطايا، فيليق بي دائمًا أن أقبله لكي يغفر دومًا خطاياي."
+    },
+    {
+      "section_title": "أولاد الله الصانع العجائب.",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعَ أَنَّهُمْ عَمِلُوا"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَذَا إِلَهُكَ الَّذِي"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَخْرَجَكَ مِنْ مِصْرَ،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلُوا إِهَانَةً"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَظِيمَةً [18]"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ تمردوا على الله مخلصهم،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونسوا عجائبه معهم، تمرغوا في الفساد، وفي خيانة خطيرة أقاموا لأنفسهم تمثال"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العجل (خر 32: 4-8؛ تث 9: 16) إلهًا لهم، وحسبوه مخلصهم من أرض مصر. بإرادتهم"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صلبوا رقابهم ضد الله مخلصهم، واحنوها للتمثال الذهبي، عجل أبيس"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "، يستعبدون"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنفسهم له."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*الذي"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتمرغ في حفر الوحل، ويغرق فيها، يسقط في شباك الخيانة. لأن الشعب جلس ليأكل"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويشرب، وطلبوا أن تُصنع لهم آلهة"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مراحمه الكثيرة"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "19 أَنْتَ بِرَحْمَتِكَ الْكَثِيرَةِ لَمْ تَتْرُكْهُمْ فِي الْبَرِّيَّةِ، وَلَمْ يَزُلْ عَنْهُمْ عَمُودُ السَّحَابِ نَهَارًا لِهِدَايَتِهِمْ فِي الطَّرِيقِ، وَلاَ عَمُودُ النَّارِ لَيْلًا لِيُضِيءَ لَهُمْ فِي الطَّرِيقِ الَّتِي يَسِيرُونَ فِيهَا. 20 وَأَعْطَيْتَهُمْ رُوحَكَ الصَّالِحَ لِتَعْلِيمِهِمْ، وَلَمْ تَمْنَعْ مَنَّكَ عَنْ أَفْوَاهِهِمْ، وَأَعْطَيْتَهُمْ مَاءً لِعَطَشِهِمْ. 21 وَعُلْتَهُمْ أَرْبَعِينَ سَنَةً فِي الْبَرِّيَّةِ فَلَمْ يَحْتَاجُوا. لَمْ تَبْلَ ثِيَابُهُمْ، وَلَمْ تَتَوَرَّمْ أَرْجُلُهُمْ."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْتَ بِرَحْمَتِكَ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَثِيرَةِ لَمْ تَتْرُكْهُمْ فِي الْبَرِّيَّةِ،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ يَزُلْ عَنْهُمْ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَمُودُ السَّحَابِ نَهَارًا لِهِدَايَتِهِمْ فِي الطَّرِيقِ،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ عَمُودُ النَّارِ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَيْلًا لِيُضِيءَ لَهُمْ فِي الطَّرِيقِ الَّتِي يَسِيرُونَ فِيهَا. [19]"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة \"رحمة\" (بِرَحْمَتِكَ) تُنسب \"للرحم\""
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي تحمل معنى المشاعر العميقة الحانية نحو من هم أعزاء علينا أو يحتاجون إلى"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مساندتنا"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله في طول أناته احتمل عنادهم"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتصرفاتهم غير اللائقة، فلم يحرمهم من عمود السحاب نهارًا وعمود النور ليلًا."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَيْتَهُمْ رُوحَكَ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصَّالِحَ لِتَعْلِيمِهِمْ،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ تَمْنَعْ مَنَّكَ عَنْ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَفْوَاهِهِمْ،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَيْتَهُمْ مَاءً"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِعَطَشِهِمْ [20]"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"روحك الصالح\": لقد وهب"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله السبعين شيخًا الروح نفسه الموهوب لموسى، وصاروا يحملون معه ذات الأثقال،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتنبأوا. تفرغوا بعد ذلك لتدبير أمور الشعب الذي كان يتزايد في شره وعدم التقوى"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(عد 11: 24-25)."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعُلْتَهُمْ أَرْبَعِينَ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَنَةً فِي الْبَرِّيَّةِ فَلَمْ يَحْتَاجُوا."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَمْ تَبْلَ ثِيَابُهُمْ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ تَتَوَرَّمْ أَرْجُلُهُمْ. [21]"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لم يحتاجوا\""
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تث 2: 7؛ 8: 4)."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ثيابهم لم تَبْلَ\" (تث 29: 5)."
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أما"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيابهم وأحذيتهم وأبدانهم فقد فقدت ضعفها الطبيعي. فثيابهم وأحذيتهم لم تبلَ"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعامل الزمن وأرجلهم لم تتورم رغم كثرة السير. ولم يذكر قط أن بينهم كان أطباء"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو دواء أو أي شيء من هذا القبيل. وهكذا قد انتُزع كل ضعف من بينهم. فقد قيل:"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فأخرجهم بفضة وذهب ولم يكن في أسباطهم عاثر (هزيل)\" (مز 105: 37)... أشعة"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمس في حرارتها لم تضربهم، لأن السحابة كانت تظللهم وتحيط بهم كمأوى متحرك"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمي أجساد الشعب كله. ولم يحتاجوا إلى مشعل يبدد ظلام الليل، بل كان لهم عمود"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النار كمصدر إضاءة لا يُنطق به، يقوم بعمليْن: الإضاءة بالإضافة إلى توجيههم في"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طريق رحلتهم... قائدًا هؤلاء الضيوف الذين بلا عدد في وسط البرية بدقة أفضل من"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي مرشد بشري. ولم يرحلوا فقط على البرّ بل وفي البحر كما لو كان أرضًا"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يابسة... فقد قاموا بتجربة جريئة تخالف قوانين الطبيعة. إذ وطأوا البحر الثائر،"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سائرين فيه كما على صخر يابس صلب. فإذ وضعوا أقدامهم فيه صارت مادته كالأرض"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليابسة... وإذ وصل إليه الأعداء عاد إلى ما كانت عليه طبيعته، فصارت للأولين"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مركبة وللأعداء قبرًا... فقام البحر الذي لا يفهم بدور مُحكَمٍ كأعقل وأذكى"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان، قام مرة بدور حارس، ومرة أخرى بدور منتقم، مُعلِنًا هذا العمل المتناقض"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في يوم واحد"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس يوحنا"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "الذهبي الفم"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*الإنسان"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير غير المؤمن حتى أن افترضنا أنه يلتحف بجسمٍ سماويٍ يبقى عاريًا لأنه لا"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفعل شيئًا لينال رداء الإنسان الداخلي"
+    },
+    {
+      "section_title": "لأَنْفُسِهِمْ عِجْلًا مَسْبُوكًا وَقَالُوا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس ديديموس الضرير",
+      "text": "القديس ديديموس الضرير"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرض الموعد"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "22 وَأَعْطَيْتَهُمْ مَمَالِكَ وَشُعُوبًا، وَفَرَّقْتَهُمْ إِلَى جِهَاتٍ، فَامْتَلَكُوا أَرْضَ سِيحُونَ، وَأَرْضَ مَلِكِ حَشْبُونَ، وَأَرْضَ عُوجٍ مَلِكِ بَاشَانَ. 23 وَأَكْثَرْتَ بَنِيهِمْ كَنُجُومِ السَّمَاءِ، وَأَتَيْتَ بِهِمْ إِلَى الأَرْضِ الَّتِي قُلْتَ لآبَائِهِمْ أَنْ يَدْخُلُوا وَيَرِثُوهَا. 24 فَدَخَلَ الْبَنُونَ وَوَرِثُوا الأَرْضَ، وَأَخْضَعْتَ لَهُمْ سُكَّانَ أَرْضِ الْكَنْعَانِيِّينَ، وَدَفَعْتَهُمْ لِيَدِهِمْ مَعَ مُلُوكِهِمْ وَشُعُوبِ الأَرْضِ لِيَعْمَلُوا بِهِمْ حَسَبَ إِرَادَتِهِمْ. 25 وَأَخَذُوا مُدُنًا حَصِينَةً وَأَرْضًا سَمِينَةً، وَوَرِثُوا بُيُوتًا مَلآنَةً كُلَّ خَيْرٍ، وَآبَارًا مَحْفُورَةً وَكُرُومًا وَزَيْتُونًا وَأَشْجَارًا مُثْمِرَةً بِكَثْرَةٍ، فَأَكَلُوا وَشَبِعُوا وَسَمِنُوا وَتَلَذَّذُوا بِخَيْرِكَ الْعَظِيمِ. 26 وَعَصَوْا وَتَمَرَّدُوا عَلَيْكَ، وَطَرَحُوا شَرِيعَتَكَ وَرَاءَ ظُهُورِهِمْ، وَقَتَلُوا أَنْبِيَاءَكَ الَّذِينَ أَشْهَدُوا عَلَيْهِمْ لِيَرُدُّوهُمْ إِلَيْكَ، وَعَمِلُوا إِهَانَةً عَظِيمَةً. 27 فَدَفَعْتَهُمْ لِيَدِ مُضَايِقِيهِمْ فَضَايَقُوهُمْ. وَفِي وَقْتِ ضِيقِهِمْ صَرَخُوا إِلَيْكَ، وَأَنْتَ مِنَ السَّمَاءِ سَمِعْتَ، وَحَسَبَ مَرَاحِمِكَ الْكَثِيرَةِ أَعْطَيْتَهُمْ مُخَلِّصِينَ خَلَّصُوهُمْ مِنْ يَدِ مُضَايِقِيهِمْ. 28 وَلكِنْ لَمَّا اسْتَرَاحُوا رَجَعُوا إِلَى عَمَلِ الشَّرِّ قُدَّامَكَ، فَتَرَكْتَهُمْ بِيَدِ أَعْدَائِهِمْ، فَتَسَلَّطُوا عَلَيْهِمْ ثُمَّ رَجَعُوا وَصَرَخُوا إِلَيْكَ، وَأَنْتَ مِنَ السَّمَاءِ سَمِعْتَ وَأَنْقَذْتَهُمْ حَسَبَ مَرَاحِمِكَ الْكَثِيرَةِ أَحْيَانًا كَثِيرَةً. 29 وَأَشْهَدْتَ عَلَيْهِمْ لِتَرُدَّهُمْ إِلَى شَرِيعَتِكَ، وَأَمَّا هُمْ فَبَغَوْا وَلَمْ يَسْمَعُوا لِوَصَايَاكَ وَأَخْطَأُوا ضِدَّ أَحْكَامِكَ، الَّتِي إِذَا عَمِلَهَا إِنْسَانٌ يَحْيَا بِهَا. وَأَعْطَوْا كَتِفًا مُعَانِدَةً، وَصَلَّبُوا رِقَابَهُمْ وَلَمْ يَسْمَعُوا. 30 فَاحْتَمَلْتَهُمْ سِنِينَ كَثِيرَةً، وَأَشْهَدْتَ عَلَيْهِمْ بِرُوحِكَ عَنْ يَدِ أَنْبِيَائِكَ فَلَمْ يُصْغُوا، فَدَفَعْتَهُمْ لِيَدِ شُعُوبِ الأَرَاضِي. 31 وَلكِنْ لأَجْلِ مَرَاحِمِكَ الْكَثِيرَةِ لَمْ تُفْنِهِمْ وَلَمْ تَتْرُكْهُمْ، لأَنَّكَ إِلهٌ حَنَّانٌ وَرَحِيمٌ."
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطَيْتَهُمْ مَمَالِكَ"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشُعُوبًا وَفَرَّقْتَهُمْ إِلَى جِهَاتٍ،"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأمْتَلَكُوا أَرْضَ"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِيحُونَ وَأَرْضَ مَلِكِ"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَشْبُونَ،"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْضَ عُوجٍ مَلِكِ"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَاشَانَ. [22]"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقوله \"إلى الجهات\" ربما"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشير إلى عبر الأردن، فقد قادهم طول رحلة البرية، ووهبهم ممالك وأمم شرق وغرب"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأردن. لم يكن بالأمر السهل لشعب بلا خبرة عسكرية منذ نشأتهم في أرض مصر،"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمارسون رعاية الغنم في وادي النيل دون دخول في معارك مع قبائل أو شعوب أن"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينالوا نصرات مستمرة، فامتلكوا الكثير حتى أرض سيحون، وأرض ملك"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون، وأرض عوج"
+    },
+    {
+      "section_title": "12. في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك باشان."
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك أموري حاول أن يمنع اليهود من المرور في أرضه، وهم في طريقهم إلى أرض"
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموعد، فانهزم جيشه، ووزعت أرضه على"
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسباط إسرائيل (عد 21: 21-29). صار عبرة"
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمن يقاوم الله وشعبه. وكما يقول المرتل: \"الذي ضرب أممًا كثيرة، وقتل ملوكًا"
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعزاء؛ سيحون ملك الأموريين وعوج ملك باشان وكل ممالك كنعان، وأعطى أرضهم"
+    },
+    {
+      "section_title": "سيحون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميراثًا. ميراثًا لإسرائيل شعبه\" (مز 135: 10-12)."
+    },
+    {
+      "section_title": "حشبون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاصمة مُلك سيحون ملك الأموريين. كانت أصلًا للموآبيين، استولى عليها سيحون، ثم"
+    },
+    {
+      "section_title": "حشبون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخذها بنو إسرائيل بقيادة موسى النبي (عد21: 25-26). تعرف حاليًا باسم حسبان."
+    },
+    {
+      "section_title": "حشبون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقع على الحدود بين سبطي جاد ورأوبين."
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك الأموريين في باشان، من سلالة الرفائيين. كان طويل القامة، جبار بأس، له"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرير من حديد ضخم. ذبحه بنو إسرائيل في أذرعي، واحتلوا مملكته."
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَكْثَرْتَ بَنِيهِمْ"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَنُجُومِ السَّمَاءِ،"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَتَيْتَ بِهِمْ إِلَى"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأَرْضِ الَّتِي قُلْتَ لآبَائِهِمْ أَنْ يَدْخُلُوا وَيَرِثُوهَا. [23]"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحقق وعد الله لإبراهيم (تك 22: 17؛ 26: 4)"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدَخَلَ الْبَنُونَ"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَرِثُوا الأَرْضَ،"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخْضَعْتَ لَهُمْ سُكَّانَ"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْضِ الْكَنْعَانِيِّينَ،"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَفَعْتَهُمْ لِيَدِهِمْ"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعَ مُلُوكِهِمْ وَشُعُوبِ الأَرْضِ،"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَعْمَلُوا بِهِمْ حَسَبَ"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِرَادَتِهِمْ. [24]"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخول نسله إلى أرض الموعد (تك 22: 17؛ 26: 4؛ خر 32: 13؛ تث 1: 8؛ 10: 22)."
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أخضعت لهم سكان أرض"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكنعانيين\" (تث 9: 3؛ قض 1: 4) مع ملوكهم (تث 7: 24؛ يش 11: 12، 17)"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذُوا مُدُنًا حَصِينَةً"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْضًا سَمِينَةً،"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَرِثُوا بُيُوتًا مَلآنَةً"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلَّ خَيْرٍ وَآبَارًا مَحْفُورَةً وَكُرُومًا وَزَيْتُونًا وَأَشْجَارًا"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُثْمِرَةً بِكَثْرَةٍ."
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَكَلُوا وَشَبِعُوا"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَمِنُوا وَتَلَذَّذُوا بِخَيْرِكَ الْعَظِيمِ. [25]"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه القائمة الخاصة بالأراضي"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمدن والبيوت إلخ. تتفق مع القائمة الواردة في عهد سيناء وتجديده كما ورد في"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تث 6: 10- 11؛ يش 24: 13)"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير المدن المحصنة إلى"
+    },
+    {
+      "section_title": "عوج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أريحا ولخيش وحاصور."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لما كان المطر نادرًا في أغلب"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيام السنة، لهذا كان كل بيت يلحق به بئر أو مخزن مياه تجمع فيه مياه الأمطار"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 18: 31؛ أم 5: 15)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حوالي سنة 1200 ق.م. تم إنشاء"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخازن المياه للانتفاع بالأمطار التي تتساقط على تلال يهوذا. أهم أشجار فلسطين"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت الزيتون والتين والتفاح واللوز والجوز والتوت والجميز والرمان (تث 8: 8؛ 2 مل 18: 32). أما أشجار النخيل فكانت تنمو في وادي الأردن."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما دخلوا كنعان حذر الله شعبه"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من قطع أية شجرة للفاكهة. كان لديهم من المحاصيل ما يشبعهم ويبهج حياتهم."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَصُوا وَتَمَرَّدُوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَطَرَحُوا شَرِيعَتَكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرَاءَ ظُهُورِهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَتَلُوا أَنْبِيَاءَكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ أَشْهَدُوا عَلَيْهِمْ لِيَرُدُّوهُمْ إِلَيْكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلُوا إِهَانَةً"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَظِيمَةً. [26]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنسبة لوضع الشريعة وراء ظهورهم وقتل الأنبياء (راجع 1 مل 18: 4؛ 19: 10، 14؛ 2 أي 24: 20- 22؛ إر 26: 20- 23) مرتكبين تجاديف خطيرة."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما جاء في التقاليد الأولى الله"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستمر في العطاء وإسرائيل كان مستمرًا في الجحود."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ليس نبي مقبولًا في وطنه\""
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(لو 4: 24)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كانت عَنَاثُوث وطن إرميا (إر 11: 21) لم تُحسن استقباله. وأيضًا إشعياء"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبقيَّة الأنبياء، رفضهم وطنهم أي أهل الختان... أما نحن الذين لا ننتسب للعهد"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل كنَّا غرباء عن الوعد، فقد استقبلنا موسى والأنبياء الذين يعلنون عن المسيح،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استقبلناهم من كل قلوبنا أكثر من اليهود الذين رفضوا المسيح، ولم يقبلوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشهادة له"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدَفَعْتَهُمْ لِيَدِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُضَايِقِيهِمْ فَضَايَقُوهُمْ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي وَقْتِ ضِيقِهِمْ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَرَخُوا إِلَيْكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْتَ مِنَ السَّمَاءِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَمِعْتَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَسَبَ مَرَاحِمِكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَثِيرَةِ أَعْطَيْتَهُمْ مُخَلِّصِينَ خَلَّصُوهُمْ مِنْ يَدِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُضَايِقِيهِمْ. [27]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطاهم مخلصين ينقذونهم من"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مضايقهم مثل جدعون ويفتاح وشمشون، إذ كانوا قادة حرب جبابرة."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَكِنْ لَمَّا اسْتَرَاحُوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَجَعُوا إِلَى عَمَلِ الشَّرِّ قُدَّامَكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَتَرَكْتَهُمْ بِيَدِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَعْدَائِهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَتَسَلَّطُوا عَلَيْهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ رَجَعُوا وَصَرَخُوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَيْكَ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْتَ مِنَ السَّمَاءِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَمِعْتَ وَأَنْقَذْتَهُمْ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ مَرَاحِمِكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَثِيرَةِ أَحْيَانًا كَثِيرَةً. [28]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسجل لنا سفر القضاة دورات"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مستمرة متكررة من عمل الله للخلاص ثم راحة الشعب فتمردهم، فالسماح بمضايقين"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم، وإذ يصرخوا يرسل لهم الله قاضيًا يخلصهم، وتبدأ حلقة جديدة متكررة."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*الخطية"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثقيلة جدًا، تحتاج إلى مراحم عظيمة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَشْهَدْتَ عَلَيْهِمْ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِتَرُدَّهُمْ إِلَى شَرِيعَتِكَ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَمَّا هُمْ فَبَغُوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ يَسْمَعُوا لِوَصَايَاكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخْطَأُوا ضِدَّ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَحْكَامِكَ الَّتِي إِذَا عَمِلَهَا إِنْسَانٌ يَحْيَا بِهَا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْطُوا كَتِفًا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُعَانِدَةً وَصَلَّبُوا رِقَابَهُمْ وَلَمْ يَسْمَعُوا. [29]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَاحْتَمَلْتَهُمْ سِنِينَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَثِيرَةً، وَأَشْهَدْتَ عَلَيْهِمْ بِرُوحِكَ عَنْ يَدِ أَنْبِيَائِكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلَمْ يُصْغُوا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدَفَعْتَهُمْ لِيَدِ شُعُوبِ الأَرَاضِي. [30]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَكِنْ لأَجْلِ مَرَاحِمِكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَثِيرَةِ لَمْ تُفْنِهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ تَتْرُكْهُمْ لأَنَّكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهٌ حَنَّانٌ وَرَحِيمٌ. [31]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعتراف بالخطايا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "32 «وَالآنَ يَا إِلهَنَا، الإِلهَ الْعَظِيمَ الْجَبَّارَ الْمَخُوفَ، حَافِظَ الْعَهْدِ وَالرَّحْمَةِ، لاَ تَصْغُرْ لَدَيْكَ كُلُّ الْمَشَقَّاتِ الَّتِي أَصَابَتْنَا نَحْنُ وَمُلُوكَنَا وَرُؤَسَاءَنَا وَكَهَنَتَنَا وَأَنْبِيَاءَنَا وَآبَاءَنَا وَكُلَّ شَعْبِكَ، مِنْ أَيَّامِ مُلُوكِ أَشُّورَ إِلَى هذَا الْيَوْمِ. 33 وَأَنْتَ بَارٌّ فِي كُلِّ مَا أَتَى عَلَيْنَا لأَنَّكَ عَمِلْتَ بِالْحَقِّ، وَنَحْنُ أَذْنَبْنَا. 34 وَمُلُوكُنَا وَرُؤَسَاؤُنَا وَكَهَنَتُنَا وَآبَاؤُنَا لَمْ يَعْمَلُوا شَرِيعَتَكَ، وَلاَ أَصْغَوْا إِلَى وَصَايَاكَ وَشَهَادَاتِكَ الَّتِي أَشْهَدْتَهَا عَلَيْهِمْ. 35 وَهُمْ لَمْ يَعْبُدُوكَ فِي مَمْلَكَتِهِمْ وَفِي خَيْرِكَ الْكَثِيرِ الَّذِي أَعْطَيْتَهُمْ، وَفِي الأَرْضِ الْوَاسِعَةِ السَّمِينَةِ الَّتِي جَعَلْتَهَا أَمَامَهُمْ، وَلَمْ يَرْجِعُوا عَنْ أَعْمَالِهِمِ الرَّدِيَّةِ. 36 هَا نَحْنُ الْيَوْمَ عَبِيدٌ، وَالأَرْضَ الَّتِي أَعْطَيْتَ لآبَائِنَا لِيَأْكُلُوا أَثْمَارَهَا وَخَيْرَهَا، هَا نَحْنُ عَبِيدٌ فِيهَا. 37 وَغَلاَّتُهَا كَثِيرَةٌ لِلْمُلُوكِ الَّذِينَ جَعَلْتَهُمْ عَلَيْنَا لأَجْلِ خَطَايَانَا، وَهُمْ يَتَسَلَّطُونَ عَلَى أَجْسَادِنَا وَعَلَى بَهَائِمِنَا حَسَبَ إِرَادَتِهِمْ، وَنَحْنُ فِي كَرْبٍ عَظِيمٍ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ يَا إِلَهَنَا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإِلَهَ الْعَظِيمَ الْجَبَّارَ الْمَخُوفَ حَافِظَ الْعَهْدِ وَالرَّحْمَةِ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ تَصْغُرْ لَدَيْكَ كُلُّ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَشَقَّاتِ الَّتِي أَصَابَتْنَا،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نَحْنُ وَمُلُوكَنَا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرُؤَسَاءَنَا وَكَهَنَتَنَا وَأَنْبِيَاءَنَا وَآبَاءَنَا وَكُلَّ شَعْبِكَ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ أَيَّامِ مُلُوكِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشُّورَ إِلَى هَذَا الْيَوْمِ. [32]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد هذا العرض المطول لتاريخ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معاملات الله مع شعبه وإن كان لم يشر إلى فترات مملكة شاول وداود وسليمان،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتقل إلى الموقف الحاضر. فيمزج التاريخ الماضي بالحاضر، ليصير حديثه حيًا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعمليًا. فإن الله العامل في التاريخ لازال يعمل وهو القدير والحافظ العهد (تث 7: 9؛ 1 مل 8: 23؛ 2 أي 6: 14)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد صار الأمر خطيرًا منذ الغزو"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوري، فالضيقات المتوالية حلت على كل الفئات من الملوك والرؤساء حتى رجال"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنوت والأنبياء وعامة الشعب."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*يحمل"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان جانبين: الحب والخوف، كل يكمل الآخر. إنني لا أخاف الأب كخوفي من"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحيوان المفترس، إذ أخافه وأكرهه، لكنني أخاف الأب وأحبه في نفس الوقت. كذلك"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما أخاف العقاب إنما هو حب لنفسي خلال الخوف. فمن يخاف أن يعصى أباه إنما"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحب نفسه طوبى للذي له الإيمان، فإنه يحمل الحب والخوف معًا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس إكليمنضس السكندري"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْتَ بَارٌّ فِي كُلِّ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَا أَتَى عَلَيْنَا،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّكَ عَمِلْتَ بِالْحَقِّ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَحْنُ أَذْنَبْنَا. [33]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع مرارة الضيقة يعترف نحميا أن"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بار، وما حل بالجميع هو ثمر طبيعي للإثم."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمُلُوكُنَا وَرُؤَسَاؤُنَا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَهَنَتُنَا وَآبَاؤُنَا لَمْ يَعْمَلُوا شَرِيعَتَكَ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ أَصْغُوا إِلَى"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَايَاكَ وَشَهَادَاتِكَ الَّتِي أَشْهَدْتَهَا عَلَيْهِمْ. [34]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرة أخرى يعترف نحميا أنه كان"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن أن يتقدس الكل فبين أيديهم كل الإمكانيات، لكن الجميع أبوا أن ينصتوا إلى"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصايا الله وشهاداته."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُمْ لَمْ يَعْبُدُوكَ فِي"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَمْلَكَتِهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي خَيْرِكَ الْكَثِيرِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِي أَعْطَيْتَهُمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي الأَرْضِ الْوَاسِعَةِ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّمِينَةِ الَّتِي جَعَلْتَهَا أَمَامَهُمْ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ يَرْجِعُوا عَنْ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَعْمَالِهِمِ الرَّدِيئَةِ. [35]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما ينشغل الإنسان"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالبركات التي يهبه الله إياها عن الله نفسه، فنتكل على ممتلكاتنا وثروتنا لا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على واهبها."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقصد بخير الله صلاحه، فإنه كل"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يقدمه لنا هو من قبيل صلاح هو حبه. أما وقد جاء الصالح إلينا في الجسد، وحل"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيننا فإننا إذ نتحد به ننعم بروح الصلاح، ونصير أيقونة له."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الأرض التي وهبهم إياها"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فواسعة أشارة إلى السماء المتسعة لكل المؤمنين وسمينة أو خصبة أشارة إلى السماء"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي تفيض علينا بثمر الفرح والسلام."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَا نَحْنُ الْيَوْمَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَبِيدٌ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَرْضَ الَّتِي"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَعْطَيْتَ لآبَائِنَا،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَأْكُلُوا أَثْمَارَهَا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَيْرَهَا هَا نَحْنُ عَبِيدٌ فِيهَا [36]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يأكل الخطية ويشربها يسقط في"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فخاخٍ، فتنحل إرادته وتضعف، ويجد نفسه عبدًا لها في مذلةٍ، لا يقدر الخلاص"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها، بل يعطش إليها، لا نعجب من هذا، فإن من يستخدم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المخدرات كلما استخدمها"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصير بالأكثر أسيرًا في فخاخها، ويزداد بالأكثر تعلقه بها."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصٍ: يهودي أو يوناني، غني أو فقير، صاحب سلطة أو في مركز عام، الإمبراطور أو"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشحاذ، \"كل مَن يعمل الخطية هو عبد للخطية\" (يو 8: 34). إن عرف الناس عبوديتهم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرون كيف يقتنون الحرية."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المولود حرًا ويسبيه البرابرة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحول من حرٍ إلى عبدٍ، وإذ يسمع عنه شخص آخر يتحنن عليه ويتطلع أن لديه مالًا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيفديه، يذهب إلى البرابرة ويعطيهم مالًا ويفدي الرجل. إنه بالحق يرد له"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرية، إذ ينزع الظلم..."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إني أسأل الذي تمتع بالفداء: هو"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطأت؟ يجيب \"أخطأت\". إذن لا تفتخر بنفسك أنك قد افْتُدِيت، ولا تفتخر يا مَن"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "افتديته، بل ليهرب كليكما إلى الفادي الحقيقي. أنه جزئيًا يُدعى الذين تحت"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطية عبيدًا، إنهم يدعون أمواتا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يخشاه الإنسان حلول السبي"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه الذي جلبه الإثم عليه فعلًا. لماذا؟ هل لأنهم يبدون أنهم أحياء؟ هل أخطأ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القائل: \"دع الموتى يدفنون موتاهم\" (مت 8: 22)؟ إذن فكل الذين تحت الخطية هم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أموات، عبيد أموات، أموات في خدمتهم، وخدام (عبيد) في موتهم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَغَلاَّتُهَا كَثِيرَةٌ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِلْمُلُوكِ الَّذِينَ جَعَلْتَهُمْ عَلَيْنَا لأَجْلِ خَطَايَانَا،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُمْ يَتَسَلَّطُونَ عَلَى"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَجْسَادِنَا وَعَلَى بَهَائِمِنَا حَسَبَ إِرَادَتِهِمْ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَحْنُ فِي كَرْبٍ عَظِيمٍ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هم هؤلاء الملوك الذين"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتسلطون على أجسادنا وبهائهمنا إلا الشهوات والخطايا التي نفتح لها باب الفكر"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والقلب، فتتسلم قيادة إنساننا الداخلي وتستعبدنا حسب أهوائها. وكما كتب"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنجيلي يوحنا: \"أجابهم يسوع: الحق الحق أقول لكم إن كل من يعمل الخطية هو"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبد للخطية\" (يو 8: 34)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*إنه"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبد، يا ليته لإنسان بل للخطية!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من لا يرتعب أمام مثل هذه"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلمات؟ الرب إلهنا يهبنا - أنتم وأنا - أن أتكلم بتعبيرات لائقة عن هذه"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرية، باحثًا عنها، وأن أتجنب تلك العبودية..."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا لها من عبودية بائسة! عندما"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعاني البشر من سادة أشرار يطلبون على أي الأحوال تغيير السيِّد. ماذا يفعل عبد"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطية؟ لمن يقدم طلبه؟ إلى من يطلب الخلاص...؟ أين يهرب عبد الخطية؟ فإنه يحمل"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(سيِّدته، أي الخطية) أينما هرب. لا يهرب الضمير الشرير من ذاته، لا يوجد موضع"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يذهب إليه."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعم لا يقدر أن ينسحب من نفسه،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن الخطية التي يرتكبها هي في داخله. يرتكب الخطية لكي يحصل على شيءٍ من اللذة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجسدية. لكن تعبر اللذة وتبقى الخطية. ما يبتهج به يَعبر، وتبقى"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشوكة خلفها. يا لها من عبودية شريرة...!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنهرب جميعًا إلى المسيح، ونحتج"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد الخطية إلى الله بكونه مخلصنا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنطلب أن نُباع لكي ما يخلصنا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدمه. إذ يقول الرب: [مجانًا بُعتم وستخلصون بدون مالٍ] (إش 52: 3). تخلصون"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدون ثمن من جانبكم؛ هكذا يقول الرب، لأنه هو دفع الثمن لا بمالٍ بل بدمه،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإلاَّ بقينا عبيدًا معوزين"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غلبتنا الشهوات الجسدية وصرنا عبيدًا لها في هذه المعركة لا نكون حاملين لعلامة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرية، ولا لعلامة القوة، ونُستبعد من النضال ضد القوات الروحية كغير أهلٍ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكعبيدٍ بكل ما يسببه ذلك من ارتباك. لأن \"كل من يفعل الخطية هو عبد للخطية\""
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(يو 34:8). هكذا يصفنا الرسول بمثل هذه التسمية \"زناة\". \"لم تصبكم تجربة إلا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بشرية\". (1 كو13:10). لأننا إن لم نهدف لإدراك قوة الفكر لن نكون أهلًا للدخول"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في صراع أشد ضد الشر على مستوى أعلى، إن كنا لم ننجح في إخضاع جسدنا الضعيف"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يقاوم الروح"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*تهبنا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعمودية المقدسة حرية كاملة، ومع ذلك فللإنسان مطلق الحرية والإرادة، إما أن"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُستعبد مرة أخرى لرباطات شهوانية، أو يبقى حرًا في تنفيذ الوصايا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن التصقت إحدى الشهوات بالفكر،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهذا يكون من عمل إرادتنا الخاصة، وليس رغمًا عنا. إذ يقول الكتاب أنه قد"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُعْطِيَ لنا سلطانًا \"هادمين ظنونًا\" (2 كو 10: 5)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويكون الفكر الشرير، بالنسبة لمن"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهدمونه، علامة على حبهم لله وليس للخطية. لأن وجود الفكر الشرير ليس فيه خطية،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما تكمن الخطية في حديث العقل معه حديث ودٍ وصداقةٍ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلو أننا لسنا مغرمين بالفكر"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير، فلماذا نتباطأ نحن فيه؟ إذ ما نبغضه من كل القلب، يستحيل أن تطيل"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوبنا الحديث معه إلاَّ إذا كان لنا شركة خبيثة معه!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب مرقس الناسك"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجديد العهد"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ أَجْلِ كُلِّ ذَلِكَ"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نَحْنُ نَقْطَعُ مِيثَاقًا وَنَكْتُبُهُ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرُؤَسَاؤُنَا"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَوِيُّونَا وَكَهَنَتُنَا يَخْتِمُونَ. [38]"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يقدم الشعب توبة جماعية يلتزم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتجديد العهد أو الميثاق مع الله."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ اعترف الشعب أنهم كآبائهم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كسروا العهد مرة ومرات، ولم يظهروا الأمانة مقابل أمانة الله وطول أناته عليهم،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طلبوا أن يُسجل قطع العهد كتابة، ويوقع عليه رؤساؤهم واللاويون والكهنة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويختمونه، حتى يكون شاهدًا عليهم في المستقبل إن أرادوا كسره من جديد."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الله قد وهب آباءهم أرض"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموعد، وطرد أمامهم الأمم والشعوب ليعيشوا في كمال الحرية، لكن الخطية ربطتهم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من جديد في قيود العبودية، حتى وإن وجدوا في أرض الموعد. صار الإنسان في حاجة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا إلى تغيير المكان، بل إلى تجديد الأعماق ليتمتع بحرية مجد أولاد الله ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي نح 9"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأرجع إليك يا عظيم في المراحم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*هب لي"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب أن أصوم عن كل شيءٍ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأنت هو شبعي وكفايتي."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لست أعيش في حرمان،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما دمت أنت تملأ كل فراغي."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقتنيك، فلا أعتاز إلى شيءٍ."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لأقوم"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من تهاوني،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأجلس عند قدميك مع مريم أخت"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعازر ومرثا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسمع صوتك، وأتمتع بعذوبة وصيتك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حملك حلو، ونيرك هين."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصيتك تلهب كل أعماقي بنار حبك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اشترك مع كل الخليقة في التسبيح"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا أيها الخالق المبدع في حبه،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا أيها المخلص الفاتح أبواب"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سماواته لنا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا نرد لك من أجل كثرة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إحساناتك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أعود"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الماضي، فأرى التاريخ كله بين يديك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبت أبي أبرام اسمًا جديدًا،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنال أبوة نحو كل المؤمنين،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وساراي صارت أمًا للجميع."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هب لي حبًا لكل إنسانٍ في"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيئني فاحمل أيقونتك يا أيها"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لم تدع"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبائي معوزين شيئًا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أغدقت بالمراحم عليهم."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدمت لهم أكثر مما سألوا، وفوق"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما احتاجوا."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنت على الدوام طويل الأناة"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معهم،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما هم فقدموا الجحود والتذمر."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صليبك ينزع عني جحودي."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صليبك يحملني إلى أحضانك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صليبك يحررني من عبودية الخطية!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*أنقذت"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبك من عبودية فرعون،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحررته من سبي بابل،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وها أنت تحرر مؤمنيك من عبودية"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إبليس!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أجحد إبليس وكل قواته."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أتمتع ببِّرك وأحيا معك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أتمتع بنصرات لا تنقطع"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "*لأرجع"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليك والتصق بك."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليقودني روحك القدوس،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويجدد على الدوام أعماقي،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرفعني من مجدٍ إلى مجدٍ،"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى يوم لقائي معك!"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) هناك شواهد أخرى عن وضع التراب أو الرماد على الرأس: (1 صم 4: 12؛ 2 صم 1: 2؛ 13: 19؛ 15: 32؛ يهو 9: 1؛ تتمة أس 14: 2؛ 1 مك 11: 71)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstrations, 3:1 (Of Fasting)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstrations, 3:1 (Of Fasting)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstrations, 3:1 (Of Fasting)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstrations, 3:2 (Of Fasting)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Leviticus 3:4:5."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[5] The prayer of Job and David 1:6:20."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[6] Letter 54."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[7] On Humility."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[8] Discourses Against Judaizing"
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Christians, 8:3:3-4."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[9] Homilies on Psalms, 47 (Ps. 135)."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In John hom 1:6."
+    },
+    {
+      "section_title": "الآبار المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[12] On the Trinity 15:51."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hard Sayings of the Bible, Intervarsity Press, Illinois,1996, p.626"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Genesis, 3: 3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[15] On Abraham, 1: 4: 27."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Questions on Exodus, 5."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sermon 101: 5."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Exod. 14: 5."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Ps 107: 3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "De principiis 1:1:3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 84 على قول ربنا: لا تحلفوا البتة (مت 5: 34) (راجع نص بول بيجان والدكتور"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهنام سوني)."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "راجع الدكتور الأب بهنام سُوني: الإنسان في تعليم مار يعقوب السروجي"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملفان، 1995، ص 213."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 2"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على نزول العلي على جبل سيناء وسرّ الكنيسة"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 54 لأحد القيامة الكبير"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(راجع نص بول بيجان والدكتور بهنام سوني)."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "من كتابات القديس يوحنا الذهبي الفم، 2007، ص 71."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Baptismal Instructions, 12:13, 14."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[27] The Good of Patience, 10."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On The Judgment Of God."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Sacraments 4:6:29."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[30] Letter 27 : 16."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Zondrvan NIV Bible"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentry, Neh. 9:19- 21."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "من كتابات القديس يوحنا الذهبي الفم، 2007، ص 71."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Pauline Comm. From the Greek Church."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Luc. hom 33:3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Epistle 122: 3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Stromata 3:12."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sermon on N.T. Lessons, 84:3."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[38]St."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Augustine: On the Gospel of St. John, tractate"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41: 3 - 4."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Institutions 5:16."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا: \"وفقدها إياهم كعمود نور يضيء لهم الطريق\"، ولكن تم تعديلها حيث"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن مفهومة، فأخبرنا إن كنت تعرف الكلمة الصحيحة أو المقصودة بكلمة"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فقدها\"."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا: \"وفقدها إياهم كعمود نور يضيء لهم الطريق\"، ولكن تم تعديلها حيث"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن مفهومة، فأخبرنا إن كنت تعرف الكلمة الصحيحة أو المقصودة بكلمة"
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فقدها\"."
+    },
+    {
+      "section_title": "Kaiser, Davids, Bruce, Brauch",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "نحميا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "نحميا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "نحميا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "نحميا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "نحميا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 9 من سفر نحميا)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/87b5bd4"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/87b5bd4"
     }
   ]
 }

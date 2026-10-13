@@ -1,17 +1,4200 @@
 {
-  "book_id": 12,
+  "book_id": "chronicles1",
   "book_title": "تفسير سفر أخبار الأيام الأول",
   "chapter_number": 5,
   "chapter_title": "الأصحاح 5",
   "topic": "الأصحاح 5",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "رأوبين يفقد",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "انتصار",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "نصف سبط",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "خيانة إله",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "لم ينل نصيب",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "أ. بينما دنَّس",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "ب. العجيب أن",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "فقد رأوبين",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "في نبوة",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "رأوبين",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "حنوك",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "فلو",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "حصرون",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "كرمي",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "شمعيا",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "شمعي",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "ميخا",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "رآيا",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "بئيرة",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "يعيئيل",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "زكريا",
+      "verses": ""
+    },
+    {
+      "number": 22,
+      "title": "عزاز",
+      "verses": ""
+    },
+    {
+      "number": 23,
+      "title": "عروعير",
+      "verses": ""
+    },
+    {
+      "number": 24,
+      "title": "شامع",
+      "verses": ""
+    },
+    {
+      "number": 25,
+      "title": "نبو",
+      "verses": ""
+    },
+    {
+      "number": 26,
+      "title": "بعل معون",
+      "verses": ""
+    },
+    {
+      "number": 27,
+      "title": "سبط جاد",
+      "verses": ""
+    },
+    {
+      "number": 28,
+      "title": "سلخة",
+      "verses": ""
+    },
+    {
+      "number": 29,
+      "title": "رجل من",
+      "verses": ""
+    },
+    {
+      "number": 30,
+      "title": "رئيس جادي",
+      "verses": ""
+    },
+    {
+      "number": 31,
+      "title": "شافاط",
+      "verses": ""
+    },
+    {
+      "number": 32,
+      "title": "يعناي",
+      "verses": ""
+    },
+    {
+      "number": 33,
+      "title": "مشلام",
+      "verses": ""
+    },
+    {
+      "number": 34,
+      "title": "شبع",
+      "verses": ""
+    },
+    {
+      "number": 35,
+      "title": "يوراي",
+      "verses": ""
+    },
+    {
+      "number": 36,
+      "title": "يعكان",
+      "verses": ""
+    },
+    {
+      "number": 37,
+      "title": "زيع",
+      "verses": ""
+    },
+    {
+      "number": 38,
+      "title": "عابر",
+      "verses": ""
+    },
+    {
+      "number": 39,
+      "title": "أبيجايل",
+      "verses": ""
+    },
+    {
+      "number": 40,
+      "title": "حوري",
+      "verses": ""
+    },
+    {
+      "number": 41,
+      "title": "ياروح",
+      "verses": ""
+    },
+    {
+      "number": 42,
+      "title": "جلعاد",
+      "verses": ""
+    },
+    {
+      "number": 43,
+      "title": "ميخائيل",
+      "verses": ""
+    },
+    {
+      "number": 44,
+      "title": "يشيشاي",
+      "verses": ""
+    },
+    {
+      "number": 45,
+      "title": "يحدو",
+      "verses": ""
+    },
+    {
+      "number": 46,
+      "title": "بوز",
+      "verses": ""
+    },
+    {
+      "number": 47,
+      "title": "أخي",
+      "verses": ""
+    },
+    {
+      "number": 48,
+      "title": "عبديئيل",
+      "verses": ""
+    },
+    {
+      "number": 49,
+      "title": "جوني",
+      "verses": ""
+    },
+    {
+      "number": 50,
+      "title": "باشان",
+      "verses": ""
+    },
+    {
+      "number": 51,
+      "title": "شارون",
+      "verses": ""
+    },
+    {
+      "number": 52,
+      "title": "يوثام",
+      "verses": ""
+    },
+    {
+      "number": 53,
+      "title": "يطور",
+      "verses": ""
+    },
+    {
+      "number": 54,
+      "title": "أولاد إسماعيل. حاربت قبيلة يطور",
+      "verses": ""
+    },
+    {
+      "number": 55,
+      "title": "نافيش",
+      "verses": ""
+    },
+    {
+      "number": 56,
+      "title": "نوداب",
+      "verses": ""
+    },
+    {
+      "number": 57,
+      "title": "أ. الحب",
+      "verses": ""
+    },
+    {
+      "number": 58,
+      "title": "ب. شعورهم",
+      "verses": ""
+    },
+    {
+      "number": 59,
+      "title": "ج. مع اتكالهم",
+      "verses": ""
+    },
+    {
+      "number": 60,
+      "title": "د. اتسَّموا",
+      "verses": ""
+    },
+    {
+      "number": 61,
+      "title": "و. مَعركتهم",
+      "verses": ""
+    },
+    {
+      "number": 62,
+      "title": "حرمون",
+      "verses": ""
+    },
+    {
+      "number": 63,
+      "title": "سنير",
+      "verses": ""
+    },
+    {
+      "number": 64,
+      "title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "verses": ""
+    },
+    {
+      "number": 65,
+      "title": "عافر",
+      "verses": ""
+    },
+    {
+      "number": 66,
+      "title": "يشعي",
+      "verses": ""
+    },
+    {
+      "number": 67,
+      "title": "أليئيل",
+      "verses": ""
+    },
+    {
+      "number": 68,
+      "title": "عزريئيل",
+      "verses": ""
+    },
+    {
+      "number": 69,
+      "title": "هودويا",
+      "verses": ""
+    },
+    {
+      "number": 70,
+      "title": "يحديئيل",
+      "verses": ""
+    },
+    {
+      "number": 71,
+      "title": "حلح",
+      "verses": ""
+    },
+    {
+      "number": 72,
+      "title": "خابور",
+      "verses": ""
+    },
+    {
+      "number": 73,
+      "title": "هارا",
+      "verses": ""
+    },
+    {
+      "number": 74,
+      "title": "نهر الجوزان",
+      "verses": ""
+    },
+    {
+      "number": 75,
+      "title": "جوزان",
+      "verses": ""
+    },
+    {
+      "number": 76,
+      "title": "أخبار أول",
+      "verses": ""
+    },
+    {
+      "number": 77,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 78,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 633,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "الأسباط في عبر (شرق) الأردن: سرُّ القوة وسرُّ الضعف"
+      "text": "اَلأَصْحَاحُ الْخَامِسُ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عالج هذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط الذين اختاروا نصيبهم شرقي الأردن، وهم رأوبين وجاد ونصف"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى. وقد خُصِّصت مساحة صغيرة جدًا لهذه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط، وفي حدوث السبي كانوا أول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط التي رُحِّلت إلى السبي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أخ 5: 26)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يُقَدِّم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا هذا الأصحاح السبطيْن ونصف شرق الأردن، يكشف لنا عن سرِّ القوة وسرِّ الضعف في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة الجماعة كما في حياة المؤمن."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكشف عن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التفاعل المُشترَك بين الجماعة والأفراد. هذا الأصحاح في جوهره دعوة للتمتُّع بروح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القوة خلال نعمة الله وبرِّه وقداسته، يسكب مما له فينا. ويهبنا روح الشركة معه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاتكال عليه والشعور بحضرته الإلهية مع الحب للإخوة والعمل معًا بروح الأمانة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاجتهاد والتدقيق فلا نسمح لعدو الخير أن يتسلل خفية حتى في أحلامنا!"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امتيازاته"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسباط عبر الأردن على الهاجريين"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منسّى"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبائهم وسبيهم بواسطة أشور"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 5: بروحك القدوس هَبْ لي"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روح القوة!"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امتيازاته"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَبَنُو رَأُوبَيْنَ بِكْرِ إِسْرَائِيلَ. لأَنَّهُ هُوَ الْبِكْرُ، وَلأَجْلِ تَدْنِيسِهِ فِرَاشَ أَبِيهِ، أُعْطِيَتْ بَكُورِيَّتُهُ لِبَنِي يُوسُفَ بْنِ إِسْرَائِيلَ، فَلَمْ يُنْسَبْ بِكْرًا. 2 لأَنَّ يَهُوذَا اعْتَزَّ عَلَى إِخْوَتِهِ وَمِنْهُ الرَّئِيسُ، وَأَمَّا الْبَكُورِيَّةُ فَلِيُوسُفَ. 3 بَنُو رَأُوبَيْنَ بِكْرِ إِسْرَائِيلَ: حَنُوكُ وَفَلُّو وَحَصْرُونُ وَكَرْمِي. 4 بَنُو يُوئِيلَ: ابْنُهُ شَمْعِيَا، وَابْنُهُ جُوجُ، وَابْنُهُ شِمْعِي، 5 وَابْنُهُ مِيخَا، وَابْنُهُ رَآيَا، وَابْنُهُ بَعْلٌ، 6 وَابْنُهُ بَئِيرَةُ الَّذِي سَبَاهُ تَغْلَثُ فَلْنَاسَرَ مَلِكُ أَشُّورَ. هُوَ رَئِيسُ الرَّأُوبَيْنِيِّينَ. 7 وَإِخْوَتُهُ حَسَبَ عَشَائِرِهِمْ فِي الانْتِسَابِ حَسَبَ مَوَالِيدِهِمِ: الرَّئِيسُ يَعِيئِيلُ وَزَكَرِيَّا، 8 وَبَالِعُ بْنُ عَزَازَ بْنِ شَامِعَ بْنِ يُوئِيلَ الَّذِي سَكَنَ فِي عَرُوعِيرَ حَتَّى إِلَى نَبُوَ وَبَعْلِ مَعُونَ. 9 وَسَكَنَ شَرْقًا إِلَى مَدْخَلِ الْبَرِّيَّةِ مِنْ نَهْرِ الْفُرَاتِ، لأَنَّ مَاشِيَتَهُمْ كَثُرَتْ فِي أَرْضِ جِلْعَادَ. 10 وَفِي أَيَّامِ شَاوُلَ عَمِلُوا حَرْبًا مَعَ الْهَاجَرِيِّينَ فَسَقَطُوا بِأَيْدِيهِمْ وَسَكَنُوا فِي خِيَامِهِمْ فِي جَمِيعِ جِهَاتِ شَرْقِ جِلْعَادَ."
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَأُوبَيْنَ بِكْرِ إِسْرَائِيلَ."
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ الْبِكْرُ وَلأَجْلِ تَدْنِيسِهِ فِرَاشَ أَبِيهِ،"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُعْطِيَتْ"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَكُورِيَّتُهُ لِبَنِي يُوسُفَ بْنِ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلَمْ"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُنْسَبْ بِكْراً. [1]"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع كل ما"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّمه الله من امتيازات للإنسان، فإن سرَّ قوته، لا في الامتيازات الممنوحة له،"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا في مركزه أو عمله، وإنما في أمانته والتصاقه بالله."
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد كان رأوبين"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الابن البكر ليعقوب من ليئة، ومن امتيازات البكر التمتُّع بنصيبيْن من الميراث،"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستلامه مركز القيادة. غير أن رأوبين فقد امتيازات الباكورية بسبب الخطية التي"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتكبها مع إحدى سراري والده، فدنَّس مضجعه"
+    },
+    {
+      "section_title": "1. رأوبين يفقد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تك 35: 22؛ 49: 4)."
+    },
+    {
+      "section_title": "1. لم ينل نصيب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اثنين في الميراث، إنما نال يوسف هذا الامتياز، فأخذ كل من ابنيه أفرايم"
+    },
+    {
+      "section_title": "1. لم ينل نصيب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومنسى نصيبًا، مع أنهما من زوجته المصرية. سرُّ هذه البركة التي أُعطيت ليوسف إنه"
+    },
+    {
+      "section_title": "1. لم ينل نصيب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَمتَّع بحياة مقدسة، فاقت حياة البكر رأوبين."
+    },
+    {
+      "section_title": "أ. بينما دنَّس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأوبين مضطجع أبيه، وهو الابن البكر، ويحيا في دفء الأسرة (تك 35: 22؛ 49: 3-4)،"
+    },
+    {
+      "section_title": "أ. بينما دنَّس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذا بأخيه الصغير في أرض الغربة، ومذلة العبودية، مع الحرمان من دفء الأسرة ووجود"
+    },
+    {
+      "section_title": "أ. بينما دنَّس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضغط وإغراء امرأة سيده عليه، رفض السقوط في الخطية مع امرأة فوطيفار."
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا من الشعب الإسرائيلي عَبْر العصور كانوا يسقطون في عبادة آلهة الأمم"
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنية، مع خيانتهم لله الحي، بالرغم مما وهبهم الله من نصرات على هذه الشعوب"
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الأمم\"، أما يوسف الذي عاش في مصر لا حَوْل له ولا قوة، لم يترك عبادة الله الحي،"
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا انحرف إلى العبادة الوثنية في فترة عبوديته، وفي داخل السجن، وحين صار الرجل"
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني في المملكة وتزوج فتاة مصرية، بحق فاق الكثيرين من شعبه عبر الأجيال في"
+    },
+    {
+      "section_title": "ب. العجيب أن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمانه وأمانته!"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الامتياز الثاني الخاص باستلام مركز القيادة، فلم نجد في كل تاريخ إسرائيل حتى"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العودة من السبي، بل وإلى مجيء السيد المسيح قائدًا واحدًا لإسرائيل من"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين؛"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فليس بينهم نبي ولا ملك ولا كاهن!"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد استلم"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا مركز القيادة، وجاء أول ملك تقي موضع سرور الله، داود، من نسل يهوذا،"
+    },
+    {
+      "section_title": "2. فقد رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل وتجسد كلمة الله من القديسة مريم من نسل داود، وهو الملك الأبدي السماوي."
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعقوب الوداعية لأبنائه قال بمرارة: \"رَأُوبَيْنُ، أَنْتَ بِكْرِي، قُوَّتِي وَأَوَّلُ قُدْرَتِي، فَضْلُ الرِّفْعَةِ وَفَضْلُ الْعِزِّ. فَائِرًا كَالْمَاءِ لاَ تَتَفَضَّلُ، لأَنَّكَ صَعِدْتَ عَلَى مَضْجَعِ أَبِيكَ. حِينَئِذٍ دَنَّسْتَهُ. عَلَى فِرَاشِي صَعِدَ\" (تك 49: 3-4)."
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد شُبِّه"
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالماء الفائر أو المغلي، فقد ألهبته الشهوات الجسدية، ففقد ثباته وهدوءه. وكما"
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول يعقوب الرسول: \"لأن المرتاب يُشبه موجًا من البحر تخبطه الريح وتدفعه، فلا يظن"
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك الإنسان أنه ينال شيئًا من عند الرب\" (يع 1: 6-7)."
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا أفسد"
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأوبين عطايا الله له وامتيازاته التي لا فضل له فيها، فصارت لا لبنيانه بل"
+    },
+    {
+      "section_title": "3. في نبوة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدينونته. لأن من يُعطَى كثيرًا يُطاَلب بالكثير."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُلد في فدان أرام (تك 29: 32). اسمه مشتق \"رأى بي أوني\" بالعبرية، وتعني \"رأى"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مذلتي\"."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض في"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محاولته لإنقاذ يوسف من"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَتله بواسطة"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوته تكشف عن شهامته."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال لهم: \"لا نقتله ... لا تسفكوا دمًا. اطرحوه في هذه البئر التي في البرية، ولا"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمدوا إليه يدًا، لكي ينقذه من أيديهم ليرده إلى أبيه\" (تك37: 21-22). يرى بعض"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدارسين أنه أراد أن يتصالح مع أبيه الذي غضب عليه لأنه دنَّس مضجعه. غير أن"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرين يرفضون ذلك، حاسبين تصرفه هذا نابع عن رغبة صادقة في إنقاذ يوسف من أيدي"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوته."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعر رأوبين أن"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتاعب التي أصابتهم في مصر هي مجازاة لتصرُّفهم بقسوة مع أخيهم (تك 42: 22). وقد"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبْدَى استعداده للتضحية بابنيه ضمانًا لأبيه يعقوب برجوع بنيامين سالمًا من مصر"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينما طلب يوسف منهم أن يحضروه معهم ليراه (تك 42: 37)."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحتمَل أن"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤامرة التي قام بها بنو رأوبين \"داثان وأبيرام\" بالتعاون مع قورح اللاوي، محاولة"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من السبط لتأكيد حقه كمُمَثِّلٍ لبكر إسرائيل (عد 16)."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعل موسى شعر"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بانكسار قلب هذا السبط الذي فقد امتيازاته، لذا طلب لهم: \"ليحيي رأوبين ولا يمت ولا"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكون رجاله قليلين\" (تث 33: 6)، وقد سمع الرب له."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُوذَا اعْتَزَّ عَلَى إِخْوَتِهِ وَمِنْهُ الرَّئِيسُ،"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَمَّا"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَكُورِيَّةُ فَلِيُوسُفَ. [2]"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم ينل"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا الباكورية، إنما صار السبط الملكي، لأن داود كان قلبه نقيًا وطاهرًا، فجاء"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُخَلِّص متجسدًا من نسله!"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يعلن عن نقل"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البكورية من رأوبين إلى يوسف، فإن سفر أخبار الأيام يجد نفسه مُلزَمًا للإشارة بأن"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا كان الأقوى، أنجب قائد شعب الله."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَأُوبَيْنَ بِكْرِ إِسْرَائِيلَ: حَنُوكُ وَفَلُّو وَحَصْرُونُ وَكَرْمِي. [3]"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق أن أُشير"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى أبناء رأوبين الأربعة (تك 46: 9؛ خر 6: 14؛ عد 26: 5)."
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان تعدادهم"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما جاء في (عد 1: 20-21) هو 46,500"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما بعد الوبأ"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي حلَّ بسبب غضب الرب على إسرائيل في شطيم، لأن الشعب ابتدأ يزني مع بنات"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب،"
+    },
+    {
+      "section_title": "رأوبين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فدعوا إياهم إلى ذبائح آلهتهن، فأكلوا وسجدوا لآلهتهن، فنزل إلى 43,730 (عد 26: 7)."
+    },
+    {
+      "section_title": "حنوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "حنوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"دارس، مدرب، مكرس\". بكر رأوبين، ومؤسس عشيرة سبطية، وهي عشيرة الحنوكيين (1 أي 5: 3)."
+    },
+    {
+      "section_title": "فلو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "فلو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"مشهور\"، ابن لرأوبين ورئيس عشيرة الفلويين (1 أي 5: 3)."
+    },
+    {
+      "section_title": "حصرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "حصرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"حصار أو حظيرة\". مؤسس أسرة الحصرونيين (1 أي 5: 3). حصرون وكرمي هنا غير"
+    },
+    {
+      "section_title": "حصرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حصرون وكرمي من"
+    },
+    {
+      "section_title": "حصرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا."
+    },
+    {
+      "section_title": "كرمي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "كرمي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"عامل في الكروم\" وهو اسم ابن رأوبين الرابع، وأبو الكرميين (عد 26: 6)."
+    },
+    {
+      "section_title": "كرمي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو يُوئِيلَ"
+    },
+    {
+      "section_title": "كرمي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابْنُهُ شَمَعْيَا وَابْنُهُ جُوجُ وَابْنُهُ شَمْعِي. [4]"
+    },
+    {
+      "section_title": "شمعيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"يهوه يسمع\". رأوبيني ابن يوئيل (1 أي 5: 4)."
+    },
+    {
+      "section_title": "شمعيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جوج: رأوبيني (1 أي 5: 4)."
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"يهوه يسمع\". رأوبيني (1 أي 5: 4)."
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِيخَا وَابْنُهُ رَآيَا وَابْنُهُ بَعْلٌ [5]"
+    },
+    {
+      "section_title": "ميخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"من كيهوه؟\" وهو اسم رجل من نسل رأوبين (1 أي 5: 5) وأحد أجداد بئيرة"
+    },
+    {
+      "section_title": "ميخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي سباه تلغث فلاسر."
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \" يهوه رأى\" أو \"يهوه اعتنى\". ابن ميخا من"
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين."
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَئِيرَةُ الَّذِي سَبَاهُ تَغْلَثُ فَلاَسَرَ مَلِكُ أَشُّورَ."
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ"
+    },
+    {
+      "section_title": "رآيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَئِيسُ الرَّأُوبَيْنِيِّينَ. [6]"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"بئر\". هو الجيل التاسع من رأوبين سباه تغلث فلاسر أو فول. فبلا شك أنه تُركت"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعض الأجيال من هذا الجدول."
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِخْوَتُهُ"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ عَشَائِرِهِمْ فِي الاِنْتِسَابِ حَسَبَ مَوَالِيدِهِمِ:"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّئِيسُ"
+    },
+    {
+      "section_title": "بئيرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَعِيئِيلُ وَزَكَرِيَّا [7]"
+    },
+    {
+      "section_title": "يعيئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"الله يعني\" وهو رئيس رأوبيني (1 أي 5: 7)."
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"يهوه قد ذكر\" (1 أي 5: 7)."
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَالِعُ بْنُ"
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَزَازَ بْنِ شَامِعَ بْنِ يُوئِيلَ،"
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِي"
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَكَنَ فِي عَرُوعِيرَ حَتَّى إِلَى نَبُوَ وَبَعْلِ مَعُونَ. [8]"
+    },
+    {
+      "section_title": "زكريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالع بن"
+    },
+    {
+      "section_title": "عزاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "عزاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"البلع\" أو \"الفلك\"، وهو اسم رأوبيني وهو ابن عزاز. نحن نعلم أن مدن عروعير"
+    },
+    {
+      "section_title": "عزاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونبو وبعل معون سقطت تحت الحكم الموآبي خلال القرن التاسع ق.م."
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم موآبي"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعبري، معناه \"عارية\". وهي بلدة شرقي الأردن على حدود"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب ورأوبين، إلى الشمال من"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهر أرنون في"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب، وإلى الجنوب من مملكة سيحون العمورية. كانت من نصيب رأوبين ثم"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استولى عليها حزائيل ملك"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوريا، بعد أن احتلها وحصَّنها الجاديون وميشا ملك"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب."
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكانت تابعة لموآب أيام إرميا. وتُسَمَّى الآن عراعير، على بعد اثني عشر ميلاً شرقي"
+    },
+    {
+      "section_title": "عروعير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الميِّت، جنوبي ذيبان بقليلٍ."
+    },
+    {
+      "section_title": "شامع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "شامع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"خبر\" وهو رأوبيني، ابن يوئيل، وقد ورد هذا الاسم في الأصل بصورة \"شمع\"."
+    },
+    {
+      "section_title": "نبو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم بابلي،"
+    },
+    {
+      "section_title": "نبو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"مذيع\" (1 أي 5: 8)."
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآبي، معناه \"بعل السكن\" مدينة بناها الرأوبينيون، وهي على بعد 9 أميال"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جنوب غرب حسبان، وتوجد فيها الآن خرب كثيرة، ورد ذكرها في"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحجر الموآبي."
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَكَنَ"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَرْقًا إِلَى مَدْخَلِ الْبَرِّيَّةِ مِنْ نَهْرِ الْفُرَاتِ،"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَاشِيَتَهُمْ كَثُرَتْ فِي أَرْضِ جِلْعَادَ. [9]"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان رأوبين"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجاد يميلان للرعي بينما بقية"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط تهتم بالزراعة، لذلك عاش السبطان متجاورين في"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مناطق متداخلة في شرق الأردن في مناطق الرعي."
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مهتمًا بالأمور الجسدية، فأعطاه الله سؤل قلبه، فقد وسَّع تخومه [10]، لكن ليس في"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البرِّ والفضيلة، إنما كثرت ماشيتهم في جلعاد [9]. ليس شيء يُحَطِّم حياة الإنسان"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل الخطية، ولا شيء يفيض بالخيرات مثل الحب حتى للمقاومين مع الإيمان برعاية الله"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصالح، الذي يخرج من الشرور خيرات لمؤمنيه."
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي أَيَّامِ"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَاوُلَ عَمِلُوا حَرْبًا مَعَ الْهَاجَرِيِّينَ، فَسَقَطُوا بِأَيْدِيهِمْ،"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَكَنُوا"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي خِيَامِهِمْ فِي جَمِيعِ جِهَاتِ شَرْقِ جِلْعَادَ. [10]"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الوجود في وقتٍ مُبَكِّرٍ، وتشتَّت ما بقى منه. يبدو من هذا النص أن مجموعات رأوبينية عاشت عيشة نصف بدوية عند حدود الصحراء الشرقية إلى عهد شاول."
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْهَاجَرِيِّينَ: الهاجريون هم قبائل من أهل البادية، سكنت إلى الشرق من بلاد جلعاد (في شرقي الأردن)، لم يثبت"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنهم من نسل هاجر وإسماعيل. وكانت غنية في خيولها وجمالها ومواشيها. وقد تغلَّب"
+    },
+    {
+      "section_title": "بعل معون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليها العبرانيون الساكنون في شرقي الأردن في عهد شاول الملك (1 أي 5: 10، 18–22)."
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "11 وَبَنُو جَادَ سَكَنُوا مُقَابِلَهُمْ فِي أَرْضِ بَاشَانَ حَتَّى إِلَى سَلْخَةَ. 12 يُوئِيلُ الرَّأْسُ، وَشَافَاطُ ثَانِيهِ، وَيَعْنَايُ وَشَافَاطُ فِي بَاشَانَ. 13 وَإِخْوَتُهُمْ حَسَبَ بُيُوتِ آبَائِهِمْ: مِيخَائِيلُ وَمَشُلاَّمُ وَشَبَعُ وَيُورَايُ وَيَعْكَانُ وَزِيعُ وَعَابِرُ. سَبْعَةٌ. 14 هؤُلاَءِ بَنُو أَبِيحَايِلَ بْنِ حُورِيَ بْنِ يَارُوحَ بْنِ جِلْعَادَ بْنِ مِيخَائِيلَ بْنِ يَشِيشَايَ بْنِ يَحْدُوَ بْنِ بُوزٍ. 15 وَأَخِي بْنُ عَبْدِئِيلَ بْنِ جُونِي رَئِيسُ بَيْتِ آبَائِهِمْ. 16 وَسَكَنُوا فِي جِلْعَادَ فِي بَاشَانَ وَقُرَاهَا، وَفِي جَمِيعِ مَسَارِحِ شَارُونَ عِنْدَ مَخَارِجِهَا. 17 جَمِيعُهُمُ انْتَسَبُوا فِي أَيَّامِ يُوثَامَ مَلِكِ يَهُوذَا، وَفِي أَيَّامِ يَرُبْعَامَ مَلِكِ إِسْرَائِيلَ."
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ عالج موضع"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استقرار رأوبين في شرق الأردن والبحر الميِّت، أُعدَّ فكر الكاتب أن يتحدث عن"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد [11-17] ونصف"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى [23-24] اللذين استقرّا أيضًا في جلعاد وباشان. تميَّز"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد بحسٍ روحيٍ أفضل من رأوبين. كان يسعى مثل رأوبين لأرض المراعي [16]، غير"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه كانت رغبته مخلصة في أن يكون جزءًا من شعب الله في أيام يوثام ملك يهوذا."
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو جَادَ"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَكَنُوا مُقَابِلَهُمْ فِي أَرْضِ بَاشَانَ حَتَّى إِلَى سَلْخَةَ. [11]"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينفرد هذا"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السفر بالأنساب الخاصة بجاد وبنصف"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى؛ قد تكون صادرة عن إحصاءٍ تم في عهد"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يربعام الثاني [17][1]."
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان نصيب بنو"
+    },
+    {
+      "section_title": "2. سبط جاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاد شمال رأوبين وجنوب منسّى."
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبراني، معناه \"سياحة\" أو \"سلوك السبيل\". هي سلخد عند طرف جبل الدروز الجنوبي، كانت"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في نصيب منسّى على تخم جاد (تث 3: 10)، وكانت باشان لمنسّى (يش 13: 30)، لكن"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجاديين أخذوا قسمًا منها."
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سكن جاد مقابل"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأوبين في أرض باشان حتى إلى سلخة، ونستدل من ذلك على أن"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط غيَّروا حدود"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقسامهم."
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُوئِيلُ"
+    },
+    {
+      "section_title": "سلخة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّأْسُ وَشَافَاطُ ثَانِيهِ وَيَعْنَايُ وَشَافَاطُ فِي بَاشَانَ. [12]"
+    },
+    {
+      "section_title": "1. رجل من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين (1 أخ 5: 4، 8)."
+    },
+    {
+      "section_title": "2. رئيس جادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 5: 12)."
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"قد قضى\". ورد هذا الاسم مرتين في [12]، ففي الأول يجب أن يكون \"شافام\""
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسب الأصل العبري، وفي الثاني \"شافاط\"، وهما رئيسان للجاديين. شافام اسم رئيس في"
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد، سكن في باشان. وقد حارب شافام ورئيسه يوئيل المهاجرين في أيام شاول الملك"
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 5:7-10؛ 18–22)."
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"يهوه يجيب\" وهو رئيس جادي (1 أي 5: 12)."
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِخْوَتُهُمْ"
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ بُيُوتِ آبَائِهِمْ،"
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِيخَائِيلُ"
+    },
+    {
+      "section_title": "يعناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَشُلاَّمُ وَشَبَعُ وَيُورَايُ وَيَعْكَانُ وَزِيعُ وَعَابِرُ. سَبْعَةٌ. [13]"
+    },
+    {
+      "section_title": "مشلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"من نال جزاءه\". من نسل جاد في أيام يوثام ملك يهوذا."
+    },
+    {
+      "section_title": "شبع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "شبع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"سبعة\" أو \"قسم\". رئيس للجاديين، يقيم في جلعاد، في باشان."
+    },
+    {
+      "section_title": "يوراي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس جادي"
+    },
+    {
+      "section_title": "يوراي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 5: 13)."
+    },
+    {
+      "section_title": "يعكان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس جادي"
+    },
+    {
+      "section_title": "يعكان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 5: 13)."
+    },
+    {
+      "section_title": "زيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "زيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما معناه \"حركة أو مرتعش\". من بني جاد، ربما كان رئيس عشيرة."
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"عبر\". وهو أحد الجاديين، ورئيس بيت في جلعاد بباشان."
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ"
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو أَبِيجَايِلَ بْنِ حُورِيَ بْنِ يَارُوحَ بْنِ جِلْعَادَ بْنِ مِيخَائِيلَ"
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بْنِ يَشِيشَايَ بْنِ يَحْدُوَ بْنِ بُوزٍ [14]"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"أبو القوة أو الأب قوة\". وهو اسم أحد رؤساء"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد."
+    },
+    {
+      "section_title": "حوري",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "حوري",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُطلَق على فرد من عشيرة حور رجل من بني جاد (1 أي 5: 14)."
+    },
+    {
+      "section_title": "ياروح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "ياروح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"لبن أو رقيق\"، جادي (1 أي 5: 14)."
+    },
+    {
+      "section_title": "جلعاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "جلعاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"صلب أو خشن\"، جادي (1 أي 5: 14)."
+    },
+    {
+      "section_title": "ميخائيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من مثل الله\"، جادي سكن أرض باشان وأحد أسلافه."
+    },
+    {
+      "section_title": "يشيشاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "يشيشاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"شيخ وقور\". وهو جادي من نسل بوز (1 أي 5: 14)."
+    },
+    {
+      "section_title": "يحدو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "يحدو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"اتحاد\". جادي بن بوز (1 أي 5: 14)."
+    },
+    {
+      "section_title": "بوز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "بوز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"احتقار\". وهو اسم رجل من"
+    },
+    {
+      "section_title": "بوز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد (1 أي 5: 14)."
+    },
+    {
+      "section_title": "بوز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخِي بْنُ"
+    },
+    {
+      "section_title": "بوز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَبْدِئِيلَ بْنِ جُونِي رَئِيسُ بَيْتِ آبَائِهِمْ. [15]"
+    },
+    {
+      "section_title": "أخي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "أخي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما معناه \"أخي\"، أو ربما تكون اختصار \"أخيا\". وقد ورد اسم واحد من رؤساء"
+    },
+    {
+      "section_title": "أخي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد"
+    },
+    {
+      "section_title": "أخي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين كانوا يسكنون جلعاد في باشان (1 أي 5: 15)."
+    },
+    {
+      "section_title": "عبديئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"عبد الله\". جادي سكن في جلعادا في باشان، وهو ابن جوني."
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"مدهون أو أحمر فاتح\". رجل من ذرية جاد (1 أي 5: 15)."
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَكَنُوا فِي"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جِلْعَادَ فِي بَاشَانَ وَقُرَاهَا،"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَمِيعِ مَسَارِحِ شَارُونَ عِنْدَ مَخَارِجِهَا. [16]"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلعاد"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هي في جنوب"
+    },
+    {
+      "section_title": "جوني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باشان ومُميَّزة عنها، غير أن حدودها تغيَّرت من جيلٍ إلى جيلٍ."
+    },
+    {
+      "section_title": "باشان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "باشان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"أرض مستوية أو ممهدة\"، وهي مقاطعة في أرض كنعان واقعة شرقي الأردن بين جبلي حرمون وجلعاد (عد 21: 33)."
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناها \"سهل\"، وهو مرعى شرقي الأردن أقام فيه"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط جاد، ويُرَجِّح البعض أن الأرض"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يحدها نهر أرنون ومدينة"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حشبون، هي شارون المقصودة هنا (تث 3: 10)، غير شارون"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي في الغرب نحو شاطئ البحر."
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإشارة إلى"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شارون هنا عجيبة للغاية، فإن أرض شارون ليست بالقرب من هذه المنطقة."
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَمِيعُهُمُ"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انْتَسَبُوا فِي أَيَّامِ يُوثَامَ مَلِكِ يَهُوذَا،"
+    },
+    {
+      "section_title": "شارون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيَّامِ يَرُبْعَامَ مَلِكِ إِسْرَائِيلَ. [17]"
+    },
+    {
+      "section_title": "يوثام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"يهوه تام، كامل\" (1 أي 5: 17)."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسباط عبر الأردن على الهاجريين"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "18 بَنُو رَأُوبَيْنَ وَالْجَادِيُّونَ وَنِصْفُ سِبْطِ مَنَسَّى مِنْ بَنِي الْبَأْسِ، رِجَالٌ يَحْمِلُونَ التُّرْسَ وَالسَّيْفَ وَيَشُدُّونَ الْقَوْسَ وَمُتَعَلِّمُونَ الْقِتَالَ، أَرْبَعَةٌ وَأَرْبَعُونَ أَلْفًا وَسَبْعُ مِئَةٍ وَسِتُّونَ مِنَ الْخَارِجِينَ فِي الْجَيْشِ. 19 وَعَمِلُوا حَرْبًا مَعَ الْهَاجَرِيِّينَ وَيَطُورَ وَنَافِيشَ وَنُودَابَ، 20 فَانْتَصَرُوا عَلَيْهِمْ. فَدُفِعَ لِيَدِهِمِ الْهَاجَرِيُّونَ وَكُلُّ مَنْ مَعَهُمْ لأَنَّهُمْ صَرَخُوا إِلَى اللهِ فِي الْقِتَالِ، فَاسْتَجَابَ لَهُمْ لأَنَّهُمُ اُتَّكَلُوا عَلَيْهِ. 21 وَنَهَبُوا مَاشِيَتَهُمْ: جِمَالَهُمْ خَمْسِينَ أَلْفًا، وَغَنَمًا مِئَتَيْنِ وَخَمْسِينَ أَلْفًا، وَحَمِيرًا أَلْفَيْنِ. وَسَبَوْا أُنَاسًا مِئَةَ أَلْفٍ. 22 لأَنَّهُ سَقَطَ قَتْلَى كَثِيرُونَ، لأَنَّ الْقِتَالَ إِنَّمَا كَانَ مِنَ اللهِ. وَسَكَنُوا مَكَانَهُمْ إِلَى السَّبْيِ."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَأُوبَيْنَ وَالْجَادِيُّونَ وَنِصْفُ سِبْطِ مَنَسَّى مِنْ بَنِي الْبَأْسِ،"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رِجَالٌ"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَحْمِلُونَ التُّرْسَ وَالسَّيْفَ وَيَشُدُّونَ الْقَوْسَ وَمُتَعَلِّمُونَ"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْقِتَالَ،"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْبَعَةٌ"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْبَعُونَ أَلْفاً وَسَبْعُ مِئَةٍ وَسِتُّونَ مِنَ الْخَارِجِينَ فِي"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْجَيْشِ. [18]"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدا السبطان"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والنصف كأنهم كيان واحد."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لهم موقف نبيل للغاية عندما دخلوا أرض الموعد. فإنهم بمحبة صادقة حاربوا مع"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقية"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في غرب الأردن حتى في النهاية سمح لهم يشوع بالذهاب إلى شرق الأردن"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليستقروا في الأرض التي اختاروا هناك."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلُوا"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَرْباً مَعَ الْهَاجَرِيِّينَ وَيَطُورَ وَنَافِيشَ وَنُودَابَ، [19]"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يذكر السفر"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا عن تاريخ هذه المعركة. ففي أيام شاول لم يكن الاتحاد بين هذه"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قويًّا، وكان كل سبطٍ يهتم بما هو لمصلحته الخاصة. نال"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط رأوبين نصرة على الهاجريين،"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما في عصر لاحق. إذ كان العمل المشترك بين هذه"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط قويًّا، قاموا بهجومٍ قوي"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الهاجريين."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع ما اتَّسمت"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به جيوش رأوبين وجاد ومنسّى من شجاعة وخبرة في ممارسة القتال، غير أن سرَّ نصرتهم"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنهم لجأوا إلى الرب، واستعانوا به أثناء القتال واتَّكلوا عليه. حسن أن يكون"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للإنسان مواهب وقدرات، لكن يليق به أن يُقَدِّسها بالاتكال على الرب (مز 20: 7)."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخل السبطان"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والنصف في حرب مع الهاجريين ويطور ونافيش ونوداب، وانتصروا عليهم، لأنهم اتكلوا"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الله وصرخوا إليه."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقَدِّم هذا"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح ملاحظتين عن الحروب مع الهاجريين وهم جماعة عربية تعيش شرق الأردن، الأولى"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خاصة بأواخر القرن الحادي عشر [10] والأخرى واضح أنها في فترة متأخرة [19-20]."
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع أنهم"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُزِموا مرتين، غير أنه من الصعب إبادتهم، فقد ذُكِروا في وقتٍ متأخرٍ بواسطة"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكُتَّاب اليونانيين ستربوا Strabo"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبطليموس Ptolemy،"
+    },
+    {
+      "section_title": "3. انتصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكاتب لاتيني بليني Pliny."
+    },
+    {
+      "section_title": "يطور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو أحد"
+    },
+    {
+      "section_title": "أولاد إسماعيل. حاربت قبيلة يطور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسباط بني إسرائيل شرقي الأردن (1 أي 5: 19). وسكن"
+    },
+    {
+      "section_title": "أولاد إسماعيل. حاربت قبيلة يطور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسله في إيطورية (لو 3: 1). مقاطعة بين اللجاه والجليل."
+    },
+    {
+      "section_title": "نافيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد أبناء"
+    },
+    {
+      "section_title": "نافيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسماعيل (تك 25: 15)، والقبيلة المتناسلة منه التي سكنت شرقي الأردن (1 أي 1: 31؛ 5: 19)."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي،"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"كرامة أو نُبْل\"، وهي قبيلة عربية من بادية الشام، حاربها العبرانيون الذين"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا يسكنون شرقي الأردن."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَانْتَصَرُوا"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهِمْ."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدُفِعَ"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَدِهِمِ الْهَاجَرِيُّونَ وَكُلُّ مَنْ مَعَهُمْ،"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُمْ"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَرَخُوا إِلَى الله فِي الْقِتَالِ،"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَاسْتَجَابَ لَهُمْ لأَنَّهُمُ اتَّكَلُوا عَلَيْهِ. [20]"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهاجريين هم أنفسهم الإسماعليين، أو فريق منهم، وقد دُعوا هكذا نسبة إلى هاجر"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجارية."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كان"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسماعيل قد عُرِفَ بالقوة مع العنف، فإن هاجر عُرِفَت بالضعف والعجز. ففي معركتنا"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد إبليس وكل قواته يليق بنا أن نذكر ونثق في وعد الله أنه قد أعطانا سلطانًا أن"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ندوس على الشيطان والخطية والموت، لأننا نحمل روح القوة والسلطان والغلبة."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم لنا"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الأصحاح لمسات جميلة في هذه"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط، فمع ما اتسَّموا به من شجاعة وخبرات"
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عسكرية، شعروا أن الحرب للرب، فصرخوا إليه."
+    },
+    {
+      "section_title": "نوداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكننا أن"
+    },
+    {
+      "section_title": "أ. الحب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والالتصاق والوحدة الصادقة مع الإخوة."
+    },
+    {
+      "section_title": "ب. شعورهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحضرة الإلهية"
+    },
+    {
+      "section_title": "ب. شعورهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى في المعركة، هذا لا يعني إنهم لم يصرخوا إلى الله وهم في القتال."
+    },
+    {
+      "section_title": "ج. مع اتكالهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الله،"
+    },
+    {
+      "section_title": "ج. مع اتكالهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صرخوا أثناء"
+    },
+    {
+      "section_title": "ج. مع اتكالهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القتال."
+    },
+    {
+      "section_title": "د. اتسَّموا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالشجاعة."
+    },
+    {
+      "section_title": "د. اتسَّموا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هـ. سلكوا بروح"
+    },
+    {
+      "section_title": "د. اتسَّموا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التعقُّل."
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحية هي حرب للرب."
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَهَبُوا"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَاشِيَتَهُمْ: جِمَالَهُمْ خَمْسِينَ أَلْفاً،"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَغَنَماً"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِئَتَيْنِ وَخَمْسِينَ أَلْفًا،"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَمِيرًا"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلْفَيْنِ."
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَبُوا"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُنَاساً مِئَةَ أَلْفٍ. [21]"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَقَطَ قَتْلَى كَثِيرُونَ،"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْقِتَالَ إِنَّمَا كَانَ مِنَ الله."
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَكَنُوا"
+    },
+    {
+      "section_title": "و. مَعركتهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَكَانَهُمْ إِلَى السَّبْيِ. [22]"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منسّى"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "23 وَبَنُو نِصْفِ سِبْطِ مَنَسَّى سَكَنُوا فِي الأَرْضِ وَامْتَدُّوا مِنْ بَاشَانَ إِلَى بَعْلِ حَرْمُونَ وَسَنِيرَ وَجَبَلِ حَرْمُونَ. 24 وَهؤُلاَءِ رُؤُوسُ بُيُوتِ آبَائِهِمْ: عَافَرُ وَيَشْعِي وَأَلِيئِيلُ وَعَزْرِيئِيلُ وَيَرْمِيَا وَهُودَوْيَا وَيَحْدِيئِيلُ، رِجَالٌ جَبَابِرَةُ بَأْسٍ وَذَوُو اسْمٍ وَرُؤُوسٌ لِبُيُوتِ آبَائِهِمْ."
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقَدِّم لنا"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا أسماء رؤوس آباء نصف"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى، الذين ملكوا شرق الأردن. كان نصيبهم في البداية"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باشان وحدها، لكنهم نموا جدًا واغتنوا وصاروا أصحاب سلطان وقوة، إذ انتشروا في أقصى"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمال حتى بلغوا حرمون [23]."
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صارت منطقتهم"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضخمة بالمقارنة مع مناطق"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط الأخرى. لكنهم أساءوا استخدام البركات الإلهية."
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عوض الاقتراب إليه بالشكر على نعمته وعطاياه، تحوَّلوا عنه، وخانوا إله آبائهم"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمح الله لأشور"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تسبيهم، وحُوِّلوا إلى حلح وخابور وهارا ونهر جوزان، وقد كانوا في هذه المناطق"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى كتابة سفريّ أخبار الأيام."
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو نِصْفِ"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِبْطِ مَنَسَّى سَكَنُوا فِي الأَرْضِ،"
+    },
+    {
+      "section_title": "4. نصف سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَامْتَدُّوا مِنْ بَاشَانَ إِلَى بَعْلِ حَرْمُونَ وَسَنِيرَ وَجَبَلِ حَرْمُونَ."
+    },
+    {
+      "section_title": "حرمون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"جبل مقدس\". وكان هو الحد الشمالي الشرقي لغزوات العبرانيين بقيادة"
+    },
+    {
+      "section_title": "حرمون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موسى ويشوع (1 أي 5: 23)."
+    },
+    {
+      "section_title": "سنير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم أموري،"
+    },
+    {
+      "section_title": "سنير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما كان معناه \"جبل السنا أو النور\". نجد هنا أن سنير وحرمون مذكوران كجبليْن"
+    },
+    {
+      "section_title": "سنير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مختلفيْن، والأغلب أن سنير اسم قسم من"
+    },
+    {
+      "section_title": "سنير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبل حرمون (جبل الشيخ)."
+    },
+    {
+      "section_title": "سنير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَؤُلاَءِ"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَافَرُ"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَشْعِي وَأَلِيئِيلُ وَعَزْرِيئِيلُ وَيَرْمِيَا وَهُودَوْيَا وَيَحْدِيئِيلُ،"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رِجَالٌ"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَبَابِرَةُ بَأْسٍ وَذَوُو اسْمٍ وَرُؤُوسٌ لِبُيُوتِ آبَائِهِمْ. [24]"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدَّم بقية"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح الخامس حسابًا مختصرًا عن مصير هذه"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط. فقد حاربوا بنجاح الإسماعيليين"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أبناء هاجر). بجيشٍ صغيرٍ يبلغ عدده 44.760 رجلاً غلبوا قوات الأعداء الضخمة. لقد"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتكلوا على الله [20]، فوهبهم النصرة وغنائم كثيرة [21]."
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرغم من خبرة"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هؤلاء الرؤساء ومهارتهم في الحرب حتى ذاع صيتهم وشهرتهم في الأرض، إلا أنهم نسوا"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وخانوه. خلال علاقتهم بالأمم الوثنية انجذبوا لآلهة تلك البلاد، لهذا أسلمهم"
+    },
+    {
+      "section_title": "رُؤُوسُ بُيُوتِ آبَائِهِمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب للتأديب على يدَي ملك أشور، ففقدوا وطنهم، وعاشوا في مذلة وعبودية لأشور."
+    },
+    {
+      "section_title": "عافر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "عافر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"غزال صغير\". وهو أحد رجال"
+    },
+    {
+      "section_title": "عافر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا من سلالة عزرة (1 أي 4: 17). كما بحمل"
+    },
+    {
+      "section_title": "عافر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الاسم رئيس في"
+    },
+    {
+      "section_title": "عافر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى، في شرقي الأردن (1 أي 2: 27)."
+    },
+    {
+      "section_title": "يشعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "يشعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"مُخَلِّص\". وهو: رئيس بيت من نصف منسى شرقي الأردن."
+    },
+    {
+      "section_title": "أليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "أليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"إيل هو الله\"، رئيس في نصف"
+    },
+    {
+      "section_title": "أليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى الذي سكن شرقي الأردن."
+    },
+    {
+      "section_title": "عزريئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري معناه \"عون الله\"، رئيس بيت في"
+    },
+    {
+      "section_title": "عزريئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى، وكان رجلاً جبَّارًا."
+    },
+    {
+      "section_title": "هودويا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري"
+    },
+    {
+      "section_title": "هودويا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"المجد ليهوه\" أحد رؤوس البيوت، من"
+    },
+    {
+      "section_title": "هودويا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى سكن إلى الشرق من نهر الأردن (1 أي 5: 24)."
+    },
+    {
+      "section_title": "يحديئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"الله يفرح\". من رؤساء نصف"
+    },
+    {
+      "section_title": "يحديئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط منسَّى شرقي الأردن."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبائهم وسبيهم بواسطة أشور"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "25 وَخَانُوا إِلهَ آبَائِهِمْ وَزَنَوْا وَرَاءَ آلِهَةِ شُعُوبِ الأَرْضِ الَّذِينَ طَرَدَهُمُ الرَّبُّ مِنْ أَمَامِهِمْ. 26 فَنَبَّهَ إِلهُ إِسْرَائِيلَ رُوحَ فُولَ مَلِكِ أَشُّورَ وَرُوحَ تَغْلَث فَلْنَاسَرَ مَلِكِ أَشُّورَ، فَسَبَاهُمُ، الرَّأُوبَيْنِيِّينَ وَالْجَادِيِّينَ وَنِصْفَ سِبْطِ مَنَسَّى، وَأَتَى بِهِمْ إِلَى حَلَحَ وَخَابُورَ وَهَارَا وَنَهْرِ جُوزَانَ إِلَى هذَا الْيَوْمِ."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَانُوا"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهَ آبَائِهِمْ، وَزَنُوا وَرَاءَ آلِهَةِ شُعُوبِ الأَرْضِ،"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طَرَدَهُمُ الرَّبُّ مِنْ أَمَامِهِمْ. [25]"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما أشار هذا"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح إلى النصرة المجيدة لهذه"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط المُتَّحِدة معًا على الهاجريين، ذكر"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا انهيارهم أمام أشور بسبب خيانتهم لله."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآيتان 25، 26"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في ختام الأصحاح تشيران إلى ما حلَّ بهذه"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط التي في الشرق، إذ خانوا الرب"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلههم، وعبدوا آلهة الأمم المطرودة الوثنية. تركوا عبادة"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله الحي، بالرغم من خبرات آبائهم الطويلة والعجيبة في معاملات الله معهم."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإبراهيم"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أب الآباء عاش في جو وثني، حتى والديه كانا يعبدان القمر، أما فهو فبإيمان حي، دخل"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في عهد مع الله، وتمتَّع بحياة روحية إيمانية مُثمِرة، ونال وعودًا إلهية لحساب"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسله الذي يصير كنجوم السماء ورمل البحر. ويعقوب الذي قاومه أخوه عيسو وأراد"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قتله، فاضطر للهروب من بيت أبيه. في وسط الضيق في البرية تمتَّع برؤية السماء"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المفتوحة وملائكة الله صاعدين ونازلين والرب نفسه كمن يُرَحِّب به. ويوسف"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتفظ بإيمانه بالله وهو مبيع كعبدٍ في أرض غريبة (مصر)، وسُجِنَ بدون ذنب، كما لم"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينسَ الله حين صار الرجل الثاني بعد فرعون وتزَّوج بمصرية وثنية. أما هؤلاء"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فانحرفوا عن عبادة الله بعد أن تمتَّعوا بأرض الموعد، وصارت لهم شريعة، وكهنة"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولاويون."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما فشل فيه"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهاجريون، نجحت فيه العبادة الوثنية والرجاسات. لقد غلبوا الهاجريين، لكن هزمتهم"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهواتهم وفسادهم."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لو أنهم"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استمروا في أمانتهم للرب كما كانوا في البداية، لاحتفظوا بالمناطق التي استولوا"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليها، واتسعت أكثر فأكثر."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله الذي سمح"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم أن يمتلكوا هذه الأرض حين اتكلوا عليه، سمح لأشور بأَسْرِهم وطردهم إلى أرض"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي بسبب خيانتهم له."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَنَبَّهَ"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهُ إِسْرَائِيلَ رُوحَ فُولَ مَلِكِ أَشُّورَ وَرُوحَ تَغْلَث فَلاَسَرَ مَلِكِ"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشُّورَ،"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَبَاهُمُ"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّأُوبَيْنِيِّينَ وَالْجَادِيِّينَ وَنِصْفَ سِبْطِ مَنَسَّى،"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَتَى"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِهِمْ إِلَى حَلَحَ وَخَابُورَ وَهَارَا وَنَهْرِ جُوزَانَ إِلَى هَذَا الْيَوْمِ."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم الله"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعوب الوثنية كآلات لتأديب شعبه المُنحرِف عن عبادة الله الحيّ. لقد استخدم الله"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تارة المصريين وتارة أخرى الأشوريين ثم البابليين والفارسيين واليونانيين والرومان."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتكرر هذا عبر التاريخ لتأديب شعب الله (إش 10: 5-6)."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحديث هنا عن"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جميع"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط المذكورة في هذا الأصحاح."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع ما ناله"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هؤلاء القادة من قوة وشهرة، لم يضعوا الله في المكانة الأولى في حياتهم فانهاروا."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو نفسه تغلث فلاسر، غيَّر اسمه إلى تغلث فلاسر على اسم ملك أشوري كان قد سبقه"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واشتهر."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء فول إلى"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السامرة في أيام منحيم (2 مل 15: 19-20)، وأخذ منه مالاً ورجع عنه. وبعد نحو أربع"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنوات اتَّحد مع آحاز ملك يهوذا، وصعد إلى"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق، وأخذها وسباها وقتل ملكها، وأخذ"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا القسم الشمالي من أرض إسرائيل وسبي أهلها (2 مل 15: 29)، وسبى أيضًا الساكنين"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شرق الأردن. استخدمه الله لتأديب شعبه."
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هذا السبي"
+    },
+    {
+      "section_title": "5. خيانة إله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن رجوع، واختلط إسرائيل بالشعوب، وضاع اسمهم وجنسهم."
+    },
+    {
+      "section_title": "حلح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُرَجَّح"
+    },
+    {
+      "section_title": "حلح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه اسم أشوري، لا يُعرَف معناه، وهو اسم مقاطعة في إمبراطورية آشور، حُمِلَ إليها"
+    },
+    {
+      "section_title": "حلح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسبيون من"
+    },
+    {
+      "section_title": "حلح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط العشرة. وربما كانت هي المقاطعة التي عرفت فيما بعد باسم"
+    },
+    {
+      "section_title": "حلح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلكيتيس، فيما بين النهرين، قرب جوزان، في حوض نهري الخابور والساوكوراس."
+    },
+    {
+      "section_title": "خابور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم أكادي،"
+    },
+    {
+      "section_title": "خابور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يُعرَف معناه. ولفظه في العبرية \"كبار\". وهو نهر استقر على ضفتيه بعض المسبيين"
+    },
+    {
+      "section_title": "خابور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود."
+    },
+    {
+      "section_title": "هارا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم أرامي"
+    },
+    {
+      "section_title": "هارا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"الجبل\" وهو مكان في دولة أشور، نُقِلَ إليه بعض المسبيين من"
+    },
+    {
+      "section_title": "هارا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط العشرة."
+    },
+    {
+      "section_title": "هارا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما كانت كرجة بغلر بالقرب من تل حلاف هي المقصودة."
+    },
+    {
+      "section_title": "نهر الجوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أرض الكلدانيين، يجري جنوبًا مخترقًا بلاد ما بين النهرين، وبعد مائة وتسعين"
+    },
+    {
+      "section_title": "نهر الجوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميلاً يلتقي بالفرع الشرقي لنهر الفرات عند قرقيسيا. أُخِذَ إليه مسبيو"
+    },
+    {
+      "section_title": "نهر الجوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": "نهر الجوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العشرة، بينهم حزقيال النبي، وهناك رأى النبي الكثير من الرؤى."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلدة"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومقاطعة في بلاد مادي على نهر خابور، كان يسكنها بعض من بني إسرائيل دعاها بطلمايس"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جوزنيتيس."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 5"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بروحك"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوس هَبْ لي روح القوة!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمتع رأوبين بعطية الباكورية، لكنه في استهتار استخفَّ بها."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبتني أن"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُحسَب عضوًا في كنيسة الأبكار،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتأهَّل للميراث"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدي، وأنعم بانعكاس بهائك عليَّ!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَرم رأوبين"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه من نصيب اثنين من الميراث،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتأهَّل يوسف"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصغير بنوالهما، فصار سبطيْن."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَرم رأوبين"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه من مركز القيادة للشعب كله."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يَقُمْ من"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسله قائد حقيقي للعمل لحساب ملكوت الله."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتمتَّع يهوذا"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالقيادة، فجاء من نسله الملك داود البار،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومن نسله تجسد"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة الله ملك الملوك!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لي أن أتمسك بميراثي، فأصير أيقونتك البهية."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتحسبني مع"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوتي أشبه بطغمة سماوية."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَطَّمَ رأوبين نفسه وكل سبطه،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صعد على مضجع"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه ودنَّسه، فصار بالشهوة الرديئة كماءٍ يغلي!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي روح"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطهارة والنقاوة، فأصير بك مُقدَّسًا، وأرتدي بِرَّك العجيب."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي بروحك الناري أن أَتقدَّس، ويلتهب قلبي بنار الحُبِّ للأجيال المُقبِلة."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أكون عثرة"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأبنائي وأحفادي."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل الكنيسة"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقُدْسِيتها لن أسمح للخطية أن تتسلل إلى قلبي أو فكري."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا يَحِلُّ"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غضبك على الآخرين بسببي!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي روح الحب والوحدة خاصة مع إخوتي."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كنت"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتقدَّس بروحك لأجلهم، فلن أتمتع به بانعزالي عنهم."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لألتصق بكل"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماقي بهم، فيتحوَّل إنساني الداخلي إلى سماء جديدة."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشعر معهم"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحضورك الإلهي المُفرِح."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشعر في معركتي"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع إبليس والخطية، إنها معركة للرب،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأنت سلاحي"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونصرتي وإكليلي."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتكئ عليك،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأصرخ بروح الرجاء."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحسب كل نصرة"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحية هي هبتك المجانية لي!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بروحك القدوس أتحدَّى إبليس وكل حيله،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أيها"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيامة أتحدَّى الموت."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك يا ضابط"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكل لا أخشى الأحداث."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأختفي فيك،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلستُ أنا وحدي في المعركة."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت قائد"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعركة ومُحَطِّم الظلمة وواهب النصرة."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت سلاحي،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمي كل كياني الروحي والنفسي والجسدي."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبتَني روح"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البنوة، فكيف أخشى حتى الموت"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي النُصْرَة الداخلية،"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضع لي حارسًا"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحواسي وعواطفي وكل أعماقي!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يُرَوِّض"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لساني وفكري ومشاعري سواك!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بروحك تُجَدِّد"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الدوام بنياني الداخلي."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأتلذذ كل يوم"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخبرة عربون السماء!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لك الشكر"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحمد والتسبيح يا واهب الخلاص!"
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد القديم، الترجمة اليسوعية، المكتبة الشرقية، بيروت 1991."
+    },
+    {
+      "section_title": "جوزان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 5 من سفر أخبار الأيام الأول)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/vzpnv66"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/vzpnv66"
     }
   ]
 }

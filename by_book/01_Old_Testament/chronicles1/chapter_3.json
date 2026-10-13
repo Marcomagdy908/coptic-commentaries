@@ -1,17 +1,4751 @@
 {
-  "book_id": 12,
+  "book_id": "chronicles1",
   "book_title": "تفسير سفر أخبار الأيام الأول",
   "chapter_number": 3,
   "chapter_title": "الأصحاح 3",
   "topic": "الأصحاح 3",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "نسل داود في",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "أنسال",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "من وحي أخبار الأيام الأول 3",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "Hebron",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "أ. إذ يركز",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "ب. أخذت حبرون",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "ج. من حبرون",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "د. صارت حبرون",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "و. عُرِفَتْ",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "ز. إذ",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "دانيئيل",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "أبيجايل",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "معكة",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "تلماي ملك جشور",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "أبيطال",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "حجيث أو أدونيا",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "يثرعام",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "نسل داود في أورشليم",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "أ. دُعِيت",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "ب. ارتبطت",
+      "verses": ""
+    },
+    {
+      "number": 22,
+      "title": "ج. في أورشليم",
+      "verses": ""
+    },
+    {
+      "number": 23,
+      "title": "شوباب",
+      "verses": ""
+    },
+    {
+      "number": 24,
+      "title": "ناثان",
+      "verses": ""
+    },
+    {
+      "number": 25,
+      "title": "Ammiel",
+      "verses": ""
+    },
+    {
+      "number": 26,
+      "title": "يبحار",
+      "verses": ""
+    },
+    {
+      "number": 27,
+      "title": "أليشامع",
+      "verses": ""
+    },
+    {
+      "number": 28,
+      "title": "من شخص يحمل هذا الاسم، من بينهم",
+      "verses": ""
+    },
+    {
+      "number": 29,
+      "title": "ابن آخر",
+      "verses": ""
+    },
+    {
+      "number": 30,
+      "title": "أليفالط",
+      "verses": ""
+    },
+    {
+      "number": 31,
+      "title": "ابن داود",
+      "verses": ""
+    },
+    {
+      "number": 32,
+      "title": "نوجة",
+      "verses": ""
+    },
+    {
+      "number": 33,
+      "title": "أليداع",
+      "verses": ""
+    },
+    {
+      "number": 34,
+      "title": "أليفلط",
+      "verses": ""
+    },
+    {
+      "number": 35,
+      "title": "يافيع",
+      "verses": ""
+    },
+    {
+      "number": 36,
+      "title": "ثامار",
+      "verses": ""
+    },
+    {
+      "number": 37,
+      "title": "أنسال سليمان",
+      "verses": ""
+    },
+    {
+      "number": 38,
+      "title": "رحبعام",
+      "verses": ""
+    },
+    {
+      "number": 39,
+      "title": "حزقيا الملك",
+      "verses": ""
+    },
+    {
+      "number": 40,
+      "title": "يوشيا الملك",
+      "verses": ""
+    },
+    {
+      "number": 41,
+      "title": "يوحانان",
+      "verses": ""
+    },
+    {
+      "number": 42,
+      "title": "ابن",
+      "verses": ""
+    },
+    {
+      "number": 43,
+      "title": "يهوياقيم",
+      "verses": ""
+    },
+    {
+      "number": 44,
+      "title": "صدقيا",
+      "verses": ""
+    },
+    {
+      "number": 45,
+      "title": "شلوم",
+      "verses": ""
+    },
+    {
+      "number": 46,
+      "title": "يكنيا",
+      "verses": ""
+    },
+    {
+      "number": 47,
+      "title": "أسير",
+      "verses": ""
+    },
+    {
+      "number": 48,
+      "title": "شألئيل",
+      "verses": ""
+    },
+    {
+      "number": 49,
+      "title": "ملكيرام",
+      "verses": ""
+    },
+    {
+      "number": 50,
+      "title": "فدايا أو فداية",
+      "verses": ""
+    },
+    {
+      "number": 51,
+      "title": "شنأصر[9]",
+      "verses": ""
+    },
+    {
+      "number": 52,
+      "title": "يقمية",
+      "verses": ""
+    },
+    {
+      "number": 53,
+      "title": "هوشاماع",
+      "verses": ""
+    },
+    {
+      "number": 54,
+      "title": "ندبيا",
+      "verses": ""
+    },
+    {
+      "number": 55,
+      "title": "فَدَايَا",
+      "verses": ""
+    },
+    {
+      "number": 56,
+      "title": "زرُبابل",
+      "verses": ""
+    },
+    {
+      "number": 57,
+      "title": "شمعِي",
+      "verses": ""
+    },
+    {
+      "number": 58,
+      "title": "مشلام",
+      "verses": ""
+    },
+    {
+      "number": 59,
+      "title": "حننيا",
+      "verses": ""
+    },
+    {
+      "number": 60,
+      "title": "شلوميث",
+      "verses": ""
+    },
+    {
+      "number": 61,
+      "title": "حشوبة",
+      "verses": ""
+    },
+    {
+      "number": 62,
+      "title": "أوهل",
+      "verses": ""
+    },
+    {
+      "number": 63,
+      "title": "برخيا",
+      "verses": ""
+    },
+    {
+      "number": 64,
+      "title": "حسديا",
+      "verses": ""
+    },
+    {
+      "number": 65,
+      "title": "حسد",
+      "verses": ""
+    },
+    {
+      "number": 66,
+      "title": "فلطيا",
+      "verses": ""
+    },
+    {
+      "number": 67,
+      "title": "يشعيا",
+      "verses": ""
+    },
+    {
+      "number": 68,
+      "title": "رفايا",
+      "verses": ""
+    },
+    {
+      "number": 69,
+      "title": "أرنان أو أرونة",
+      "verses": ""
+    },
+    {
+      "number": 70,
+      "title": "عوبديا",
+      "verses": ""
+    },
+    {
+      "number": 71,
+      "title": "شكنيا",
+      "verses": ""
+    },
+    {
+      "number": 72,
+      "title": "شمعَيا",
+      "verses": ""
+    },
+    {
+      "number": 73,
+      "title": "حطوش",
+      "verses": ""
+    },
+    {
+      "number": 74,
+      "title": "يجآل",
+      "verses": ""
+    },
+    {
+      "number": 75,
+      "title": "باريح",
+      "verses": ""
+    },
+    {
+      "number": 76,
+      "title": "نعريا",
+      "verses": ""
+    },
+    {
+      "number": 77,
+      "title": "شافاط",
+      "verses": ""
+    },
+    {
+      "number": 78,
+      "title": "اليوعينيّ",
+      "verses": ""
+    },
+    {
+      "number": 79,
+      "title": "حزقيا",
+      "verses": ""
+    },
+    {
+      "number": 80,
+      "title": "عزريقام",
+      "verses": ""
+    },
+    {
+      "number": 81,
+      "title": "هود",
+      "verses": ""
+    },
+    {
+      "number": 82,
+      "title": "ألياشيب",
+      "verses": ""
+    },
+    {
+      "number": 83,
+      "title": "فلايا",
+      "verses": ""
+    },
+    {
+      "number": 84,
+      "title": "عقوب",
+      "verses": ""
+    },
+    {
+      "number": 85,
+      "title": "دلايا",
+      "verses": ""
+    },
+    {
+      "number": 86,
+      "title": "عناني",
+      "verses": ""
+    },
+    {
+      "number": 87,
+      "title": "كعادته لم يُعاتِبك",
+      "verses": ""
+    },
+    {
+      "number": 88,
+      "title": "مع أبي داود أتغنى، قائلاً",
+      "verses": ""
+    },
+    {
+      "number": 89,
+      "title": "أخبار أول",
+      "verses": ""
+    },
+    {
+      "number": 90,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 91,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 714,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "نسل داود"
+      "text": "اَلأَصْحَاحُ الثَّالِثُ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تستمر جداول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنساب بخصوص يهوذا، الآن يخصصها لداود ثم ابنه سليمان ثم سلسلة الملوك من بيت"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يوجد بين كل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عائلات إسرائيل أسرة تضاهي عائلة داود. قدَّم لنا هذا الأصحاح قائمة بكل أبناء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود، والملوك الذين خلفوه على العرش حتى تحطَّمت المملكة، وتحدث عن عائلته سواء في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السبي أو بعد السبي. أما سرُّ عظمة هذه العائلة فهو تَجَسُّد كلمة الله من مريم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنة داود."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُقَدِّم لنا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السلسلة تسعة عشر اسمًا من أبناء داود، ستة منهم وُلِدوا في حبرون، وأربعة أبناء له"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع، ويوجد تسعة آخرون. من التسعة عشر الذين بلا شك أقاموا عائلات شريفة، ومع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك لم يُشِرْ التاريخ إلا إلى ابن واحد لداود، اختير ليرث العرش وهو سليمان،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخلاله توالي الملوك من نسله ليملكوا على يهوذا، وحُمِلَ بعضهم إلى السبي."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما تحدث"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح عن أبناء داود من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع لم يُشِرْ إلى خطيته معها. إنما أُشير إلى أبنائه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها بكونهم أبناء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع. في السفر كله لم تذكر خطاياه سوى إحصاء الشعب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأسفار"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي كُتِبَتْ بعد الرجوع من السبي إذ أشاروا إلى وعد الله بإقامة خيمة بيت داود"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساقطة، لم يكن المجال مناسبًا للحديث عن خطايا الذين اختارهم الله كأدوات لتحقيق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هدفه الإلهي، إنما ما يشغله هو عمل الله خلال هذه الآلات أو القنوات[1]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيت داود والرجوع من السبي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكننا القول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأن الأصحاحين السابقين كانا تمهيدًا للعبور بنا من آدم إلى نوح، ومن نوح إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إبراهيم، ومن إبراهيم إلى إسرائيل، ومن إسرائيل إلى يهوذا حتى يتحدث عن داود الملك،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو محور سفريّ أخبار الأيام، لأن من نسله يأتي من يُقِيم خيمة داود الساقطة ويملك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الأبد. لذلك يستحضر هذا الأصحاح نسب داود حتى أجيال قليلة قبل يسوع المسيح."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء هذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح محصورًا في الخط الملوكي الداودي لمدة خمسة قرون تقريبًا من تجليس داود ملكًا إلى عودة إسرائيل من السبي بلا ملك. وقد جاءت نبوة واضحة أنه لا يعود يقوم ملك من بيت داود يحكم في يهوذا، إذ يقول إرميا: \"هَلْ هذَا الرَّجُلُ كُنْيَاهُو وِعَاءُ خَزَفٍ مُهَانٍ مَكْسُورٍ، أَوْ إِنَاءٌ لَيْسَتْ فِيهِ مَسَرَّةٌ؟ لِمَاذَا طُرِحَ هُوَ وَنَسْلُهُ وَأُلْقُوا إِلَى أَرْضٍ لَمْ يَعْرِفُوهَا؟ يَا أَرْضُ، يَا أَرْضُ، يَا أَرْضُ اسْمَعِي كَلِمَةَ الرَّبِّ! هكَذَا قَالَ الرَّبُّ: اكْتُبُوا هذَا الرَّجُلَ عَقِيمًا، رَجُلًا لاَ يَنْجَحُ فِي أَيَّامِهِ، لأَنَّهُ لاَ يَنْجَحُ مِنْ نَسْلِهِ أَحَدٌ جَالِسًا عَلَى كُرْسِيِّ دَاوُدَ وَحَاكِمًا بَعْدُ فِي يَهُوذَا\" (إر 22: 28-30)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما أعاد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفارسيون المجتمع اليهودي من بابل في عام 538 ق. م، سمحوا بوجود قادةٍ وحكامٍ من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود مثل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زرُبابل ونحميا بجانب القادة الدينيين مثل عزرا الكاهن، لكن لم يُقِيموا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليهم ملكًا يهوديًا من نسل داود. فإن كان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زرُبابل من نسل داود، غير أنه لم يكن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكًا، ولا وجدت نيّة لدى فارس أن تقيمه ملكًا، كما لم يكن الشعب في أورشليم يفكر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في إقامة ملك من بيت داود أو من عشيرة أخرى."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان رجاء"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنبياء سواء قبل السبي أو أثناءه أو بعده هو إقامة خيمة داود الساقطة بمجيء ابن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود، ملك الملوك. فيقول الرب على لسان زكريا النبي: \"وَأُفِيضُ عَلَى بَيْتِ دَاوُدَ وَعَلَى سُكَّانِ أُورُشَلِيمَ رُوحَ النِّعْمَةِ وَالتَّضَرُّعَاتِ، فَيَنْظُرُونَ إِلَيَّ، الَّذِي طَعَنُوهُ، وَيَنُوحُونَ عَلَيْهِ كَنَائِحٍ عَلَى وَحِيدٍ لَهُ\" (زك 12: 10). إنه الملك المصلوب المطعون بالحربة، ليملك على العقول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويهبها نعمته وبرَّه!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُسَجِّل هذا الأصحاح أُسرة داود، ونجد فيه بعض أسماء لأبناء داود لم يُذكَروا في أسفار صموئيل والملوك، على سبيل المثال أول ثلاثة ذُكروا في آية 5: \"وَهؤُلاَءِ وُلِدُوا لَهُ فِي أُورُشَلِيمَ: شِمْعَى وَشُوبَابُ وَنَاثَانُ وَسُلَيْمَانُ. أَرْبَعَةٌ مِنْ بَثْشُوعَ بِنْتِ عَمِّيئِيلَ\" (1 أي 3: 5)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ نعود إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسب ربنا يسوع المُسَجَّل في إنجيل القديس لوقا، نجده يأخذ لقب الدم لعرش"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود كذبيحة خلال ناثان، وليس خلال سليمان، فالقديسة مريم والدة الإله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منسوبة إلى ناثان."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي إنجيل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس متى نجد أن ربنا يسوع أخذ اللقب القانوني لعرش داود كملكٍ خلال"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سليمان، فالقديس يوسف منسوب إلى سليمان."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهذا يهمنا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا، لأن في نسب سليمان يظهر يكنيا (مت 1: 11) الذي لقَّبه الله \"كنياهو\" (إر 22: 28)، والوحي الإلهي يذكر: \"هكذا قال الرب. اكتبوا هذا الرجل عقيمًا، رجًلا لا ينجح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيامه، لأنه لا ينجح من نسله أحد جالسًا على كرسي داود وحاكمًا بعد في يهوذا\""
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(إر 22: 30)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الرجل وحده"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبَّب انقطاع في الحلقة المؤدية إلى المسيا، وفي ذلك برهان آخر على الميلاد البتولي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من العذراء مريم."
+    },
+    {
+      "section_title": "1. نسل داود في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبرون"
+    },
+    {
+      "section_title": "2. نسل داود في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم"
+    },
+    {
+      "section_title": "3. أنسال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سليمان"
+    },
+    {
+      "section_title": "من وحي أخبار الأيام الأول 3",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتَدْخُلْ بي إلى العُرْسِ الأبدي، فأنعم بشركة أمجادك"
+    },
+    {
+      "section_title": "1. نسل داود في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبرون"
+    },
+    {
+      "section_title": "1. نسل داود في",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَهؤُلاَءِ هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ: الْبِكْرُ أَمْنُونُ مِنْ أَخِينُوعَمَ الْيَزْرَعِيلِيَّةِ. الثَّانِي دَانِيئِيلُ مِنْ أَبِيجَايِلَ الْكَرْمَلِيَّةِ. 2 الثَّالِثُ أَبْشَالُومُ ابْنُ مَعْكَةَ بِنْتِ تَلْمَايَ مَلِكِ جَشُورَ. الرَّابعُ أَدُونِيَّا ابْنُ حَجِّيثَ. 3 الخَّامِسُ شَفَطْيَا مِنْ أَبِيطَالَ. السَّادِسُ يَثَرْعَامُ مِنْ عَجْلَةَ امْرَأَتِهِ. 4 وُلِدَ لَهُ سِتَّةٌ فِي حَبْرُونَ. وَمَلَكَ هُنَاكَ سَبْعَ سِنِينٍ وَسِتَّةَ أَشْهُرٍ، ثُمَّ مَلَكَ ثَلاَثًا وَثَلاَثِينَ سَنَةً فِي أُورُشَلِيمَ."
+    },
+    {
+      "section_title": "1. نسل داود في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَؤُلاَءِ"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبِكْرُ"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمْنُونُ مِنْ أَخِينُوعَمَ الْيَزْرَعِيلِيَّةِ."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثَّانِي"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَانِيئِيلُ مِنْ أَبِيجَايِلَ الْكَرْمَلِيَّةِ [1]"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حديثه عن"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسل داود بدأ بالبكر أمنون [1] وانتهى بثامار [9]. أمنون بكر بحسب الجسد، وهو خزي"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيت أبيه، لذلك لزم استبعاده."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل أبناء داود"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين وُلِدوا قبل التأسيس الكامل للملكية هم تحت دينونة عامة، مثل أمنون وأبشالوم"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب الفساد والتمرُّد والكبرياء. هؤلاء وقعوا تحت القضاء. ولابد من وصول الملكية"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتحديد إلى أورشليم، وكان الاختيار حسب النعمة (مز 132: 13)."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمعي وشوباب"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وناثان يُذكَرون كأبناء"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع، لكنهم يختفون ليأتي سليمان، الابن الأصغر. ثم إن كل"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبناء الآخرين الذين أتوا بعده لم يكن لهم الحق في المُلْك[2]."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الترجمة السبعينية امتدت القائمة الخاصة بالسبط الملكي إلى حوالي سنة 250 ق.م، وهو زمن"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الترجمة نفسها."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشير النص إلى"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسماء أمهات لستة أبناء لداود، وُلدوا في حبرون قبل تحويل عاصمته إلى"
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم (993 ق.م). يبدأ هنا نسل داود بأبنائه في حبرون."
+    },
+    {
+      "section_title": "هُمْ بَنُو دَاوُدَ الَّذِينَ وُلِدُوا لَهُ فِي حَبْرُونَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبرون"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة هامة، كما أُطلِقَ اسم حبرون على أناسٍ كثيرين. هذا ووجدت مدينة صغيرة بهذا"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاسم وإن كانت بشكلٍ متغيرٍ بالعبرية."
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تبعد هذه"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المدينة 18 ميلاً جنوب أورشليم، ونفس المسافة شمال"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بئر سبع، وهي لا تزال قائمة إلى"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليوم."
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا يبدأ هنا"
+    },
+    {
+      "section_title": "Hebron",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسل داود بأبنائه في حبرون؟"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفرا أخبار الأيام على ملكوت الله المُفرِح، والذي يتحقق بالخلاص الذي يُقَدِّمه"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن داود، فقد قدَّم سفر أخبار الأيام الأول شخصية داود وأبناءه المُقَدَّسين كرموز"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للسيد المسيح. فلا نعجب من عدم إشارة السفر للأحداث المجيدة في حياة داود منذ صباه،"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث اختاره الرب له ملكًا وهو بعد كان يرعى غنم أبيه، وكان ذلك في سريةٍ، في بيت"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه يسّى. كما تجاهل السفر المتاعب التي لاحقت داود، خاصة من شاول الملك، إنما"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما شغله هو إقامة داود ملكًا على"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط كلها في حبرون لتمليكه على إسرائيل."
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حبرون\""
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه جماعة أو صحبة أو رباط أو اتحاد أو قران أو زواج. فما يود"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يُقَدِّمَه السفر كبداية انطلاق لمملكة إسرائيل تحت قيادة داود الملك، هو أنه"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كممثل للسيد المسيح ملك الملوك أن يكون جميع المؤمنين جماعة مقدسة واحدة، يربطها"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب والقداسة، في صحبة دائمة معًا في المسيح يسوع. سنرى فيما بعد، خاصة في الأصحاح"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني عشر أنه \"كان فرح في إسرائيل\" (1 أخ 12: 40)، سرّه التصاق كل"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط، حتى"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين الذي منه شاول الملك المقاوم لداود التصق به وبيهوذا حتى بعد انقسام"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المملكة، إذ لم يفارق بنيامين يهوذا."
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقوم مملكة"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السيد المسيح على الحب والوحدة والصحبة، لذا يليق بالمؤمن لكي يتمتَّع بالملكوت"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي أن ينفتح قلبه بالحب على كل البشرية."
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم \"حبرون\""
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذن يُقَدِّم لنا إشارة عملية للطريق الحقيقي للعُرْسِ الملوكي السماوي."
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفوس كل الرجال والنساء تُعرَف أنها عروس المسيح، إن أرادوا حفظ العفة الجسدية"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبتولية القلب. ليفهموا أن المسيح هو عريس نفوسهم لا أجسادهم[3]."
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب قيصريوس"
+    },
+    {
+      "section_title": "أ. إذ يركز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسقف آرل"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهرتها بسبب أحداث شهيرة تمَّتْ في أيام البطاركة. كمثال عندما ماتت سارة في حبرون"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اشترى زوجها إبراهيم حقل عفرون الحثّي الذي في المكفيلة، ودفنها في مغارة بالحقل"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصارت قبرًا للأسرة (تك 23: 19-20)، ولازالت المغارة قائمة. أُقيمَت مدينة في الوادي،"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقضى كل من"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إبراهيم وإسحق"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويعقوب فترات طويلة بالمنطقة، ودُفِنَ الثلاثة في حبرون."
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كانت حبرون هي مكان الموت والقبور، فالحاجة إلى ملك يُقِيم من الأموات،"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتحدَّى الموت."
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكأن ابن داود"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلن مجده بإقامة الراقدين في قبور الخطايا ليختبروا عربون الأبدية، يَقْبَلوا ابن"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود بكونه الباب والطريق والحياة والقيامة والإكليل والكنز ومصدر الفرح السماوي."
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاق الموت من أجل الكل. وإن كان بالطبيعة هو نفسه الحياة، وهو القيامة، فقد حوَّط"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسمه بالموت. وبقوته القادرة وطأ الموت في جسمه، ليصير البكر بين الأموات، وبكر"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين رقدوا... إن كانت القيامة من الأموات يُقَال أنها تتم خلال إنسانٍ، والإنسان"
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي نعرفه خلالها هو الكلمة المولود من الله، خلاله تحطَّمت قوة الموت[4]."
+    },
+    {
+      "section_title": "ب. أخذت حبرون",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انطلق يوسف المرفوض من إخوته يبحث عن إخوته (تك 37: 14)، هكذا كان رمزًا للسيد"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح الذي وهو ربُّ الجميع، لم يستنكف أن يصير للبشرية أخًا بِكْرًا، يأخذ ما لهم"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(بشريتهم): ويهبهم ما له شركاء الطبيعة الإلهية (2 بط 1: 4)."
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يدعو بولس أهل كورنثوس المسيحيين إخوته،"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنه يضع"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أساسًا أعظم تأكيدًا. إذ"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صرنا إخوة خلال"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل المسيح في حياته الأرضية وموته. فوق هذا كله ما هو الإنجيل إلا الرسالة بأن"
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله صار إنسانًا، صُلِبَ وقام؟ هذا أعلنه الملاك جبرائيل للعذراء مريم (لو 1: 26-38)، وما كرز به الأنبياء للعالم، وما أعلنه الرسل بالحق[5]."
+    },
+    {
+      "section_title": "ج. من حبرون",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة ملجأ (يش 20: 7)، تحمي القاتل خطأ من ولي الدم، فلا يمد يده عليه حتى"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يموت رئيس الكهنة، فيعيش في كمال الحرية، لا ينتقم منه أحد. وكأن حبرون تشير إلى"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صليب السيد المسيح."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء في شريعة"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدن الملجأ على القاتل"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سهوًا أن يلجأ بسرعة إلى أقرب مدينة ملجأ. ثم يعرض دعواه أمام شيوخ المدينة،"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيضمونه إليهم إن رأوه قد اعترف أنه قتل وتحققوا أن القتل قد تم سهوًا، وليس عن"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمدٍ أو بقصد الإضرار به. حينئذ يعود إلى مدينة الملجأ، ويبقى داخل أسوارها، فلا"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحق للولي، أي من هو أقرب للقتيل أن ينتقم لدم القتيل. يبقى هكذا حتى يموت رئيس"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة، فيحق له الخروج من المدينة ولا يحق للولي أن يقترب إليه."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موت رئيس"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة، يشير إلى موت السيد المسيح، الذي به عتقنا من أجرة الخطية، ووهبنا الحرية"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكاملة فيه. إذ كانت مدينة الملجأ تشير إلى السيد المسيح، فقد كان الإنسان التائب"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبقى في أمان ما دام في داخل السيد، أما إن هرب منه فيتعرَّض للموت."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قل لي لنرى عندما كان يموت الكاهن الأعظم، لماذا كان السجناء يعودون جميعًا إلى"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تخومهم؟"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا هو سرُّ"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس الأحبار الذي مات على الجلجثة، وبه عاد الخارجان من عدن، لأنهما كانا مطروديْن[6]."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هـ. حبرون موضع"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُكنَى الكهنة بني هارون، حتى يأتي ربنا يسوع المسيح رئيس الكهنة السماوي"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على رتبة ملكي صادق (مز 110: 4)، حيث لم يقدم حيوانات، بل قدَّم قلبه وضميره، كما"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدَّم خبزًا وخمرًا، كرمزٍ لما يُقَدِّمه رب المجد يسوع، محولاً الخبز والخمر إلى"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسده ودمه المبذولين."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ عرف داود هؤلاء (الكهنة) بوضوح في نبوته، لم يُشَبِّه واحًدا منهم بالابن."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأى أن جميعهم يجلبون الذبائح غير الخاصة بهم وخارجة عنهم ليُقَدِّموها لله."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتطلع بأن المسيح لما أراد وتوجَّه ليصير كاهنًا، لم يُقرِّب لأبيه شيئًا خارجًا"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنه."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ نظر داود الملك إلى جميع الكهنة، من يشبه ابن الله ومن لا يشبهه."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجد أن ملكي صادق قد جُعِلَ كاهنًا بدون ذبائح، ولم يسكب دم الحيوانات قدام"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يجلب الأبكار إلى بيت القربان مثل هابيل، ولم يصعد المحرقة من الحيوانات"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطاهرة مثل نوح."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يذبح (حيوانات عمرها) ثلاثة سنوات أمام الرب مثل إبراهيم"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تك 15: 9)،"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يُقَرِّب الثيران ولا الكباش مثل اللاويين."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يسكب دم اليمام وأفراخ الحمام، ولم يجعل الثيران والعجول قربانًا"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(خر 24؛ لا 21: 8؛ لو 2: 24)."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنه وقف أمام الله بقلبٍ نقيٍ، وأفكارٍ طاهرةٍ تسمو على الذبائح."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكَّر في نفسه بأن يكون طاهرًا كالقربان، ويذبح عقله لا الحيوانات قدام الله."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يصنع مُحرَقة للرب إلا نفسه، ويكون الضمير الطاهر ذبيحة بلا نتانة."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(قال): إني لا أجلب اللحم لأُقَرِّبه للرب، لأنه لا يأكل أكلاً الذبيحة التي"
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُقرَّب له."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها إهانة أن تصير ذبيحة من الحيوانات للرب، أُطَهِّر نفسي، وأذبح فكري لله."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه التحركات النقية والروحية السامية، صار ملكي صادق المشهور كاهنًا."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جُعِلَ كاهنًا بآلام نفسه بدون الذبائح، ولهذا تشبَّه بابن الله[7]."
+    },
+    {
+      "section_title": "د. صارت حبرون",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة حبرون قبل"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق، وكان اسمها قرية أربع (يش 14: 15؛ 15: 3؛ 21: 11؛ قض 1: 10). جاء في يشوع"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح الرابع عشر أن كالب بن يفنة القنزي طالب بحقه الذي وعده به الرب على لسان"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موسى، وهو امتلاك الجبل حيث المدن الحصينة وحبرون التي تعني \"قران\" أو"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"اتحاد\" أو \"جماعة\". والآن إذ تسلَّم كالب \"حبرون\" والتي تُدعَى أيضًا \"قرية"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أربع\"، \"طرد من هناك بني عناق الثلاثة: شيشاي وأخيمان وتلماي أولاد عناق\" (يش 15: 14). فإن كان كالب بن يفنة القنزي الذي يُشِير إلى القلب الذي تحوَّل عن"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاحتقار ودخل إلى المجد، قد نال حبرون مكافأةً له، فدخل في زواج أو قران مُقَدَّس"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وروحي، فيه تتحد النفس مع عريسها إلى الأبد، فإن حبرون من جانب آخر تُدعَى قرية"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أربع. رقم 4 يُشِير إلى العالم باتجاهاته الأربعة: الشرق والغرب والشمال"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والجنوب، ويُشير أيضًا إلى الجسد المأخوذ من هذه الأرض أو هذا العالم. فصاحب القلب"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُقدَّس، الذي تحوَّل إلى عريسه الأبدي، يملك على جسده طاردًا منه بني عناق"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثلاثة ليملك الرب أيضًا فيه. لا يكفي أن تكون قلوبنا أو حياتنا الداخلية"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدسة، وإنما يلزم أن نتطلع إلى أجسادنا بنظرة مقدسة، فكما نُقَدِّم للعريس قلوبنا"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الداخلية، هكذا نُقَدِّم له أجسادنا، فيعمل الإنسان في كليته بنغمٍ متوافق."
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُشَبِّه"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس غريغوريوس النيصي الإنسان في كليته بالقيثارة التي تحمل"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوتارًا مختلفة لكنها تُقَدِّم بالروح القدس قطعة موسيقية متناسقة تُفَرِّح قلب"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله."
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأن حبرون هنا"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ ترتبط باسمها القديم \"قرية أربع\" تدعونا أن نتقدَّس بكل كياننا الداخلي كما"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأجسادنا لحساب ابن داود ملك الملوك."
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في اختصار"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكننا القول إن كان السفران يدفعاننا للتعرُّف على المسيح الفادي والمُخَلِّص،"
+    },
+    {
+      "section_title": "و. عُرِفَتْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حامل خطايا العالم، فهو يؤكد على وجه الخصوص ملوكيته."
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير حبرون إلى الاتحاد مع السيد المسيح، فتصير النفس عروسًا ملتصقة بعريسها، تنسى"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع داود كل حياتها بأعمالها الخطيرة كالنصرة على جليات الجبار، واستقبال النسوة له"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأغاني لأنه أنقذ وطنه، وإنقاذ شاول من الروح الشرير بالعزف على القيثارة"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتسابيح للرب، ومعارك شاول ضده، وخِطَط شاول المستمرة للخلاص منه. لا يعود يشغل"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤمن إلا التصاقه بملك الملوك، فيرى كل"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط قادمة إليه لتُمَّلكه على"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل. بروح التواضع يتطلَّع المؤمن مع داود في حبرون في دهشةٍ كيف يجذب الرب كل"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطاقات الجبارة لتعمل معه لحساب ملكوت الله."
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حبرون يزداد"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود تواضعًا، إذ يُدرِك أن تنصيبه ملكًا ليس إلا نعمة إلهية مجانية، لا فضل له"
+    },
+    {
+      "section_title": "ز. إذ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيها، إنما هي عمل رب الصباؤوت لمجد اسمه القدوس، لأجل البشرية موضوع حبه الفائق."
+    },
+    {
+      "section_title": "دانيئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو دانيال: معناه \"الله يدين\"، أحد أبناء داود من أبيجايل، وقد وُلِد في حبرون (1 أي 3: 1). جاء اسمه"
+    },
+    {
+      "section_title": "دانيئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيلآب في (2 صم 3: 3) ، ويرى البعض أنه كان له اسمان."
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وردت قصتها في (1 صم 25-30). زوجة جميلة وفاضلة اتَّسمت بجانب جمالها بحكمتها،"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأدارت ثروة رجلها نابال بحكمة. كانت مُشِيرة ناجحة لرَجُلِها الغبي، كما لداود، إذ"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منعته من الانتقام من نابال."
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تشغلها ثروة"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجلها الضخمة، ولا ما ورثته منه، لكن وهبت نفسها وما تملكه لداود، إذ أدركت أنه رجل"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله. قال لها داود المرتل: \"مبارك الرب إله إسرائيل الذي أرسلكِ هذا اليوم"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاستقبالي، ومبارك عقلك، ومباركة أنتِ، لأنكِ منعتِني اليوم من إتيان الدماء،"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانتقام يدي لنفسي\" (1 صم 25: 32-33)."
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثَّالِثُ"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَبْشَالُومُ ابْنُ مَعْكَةَ بِنْتِ تَلْمَايَ مَلِكِ جَشُورَ."
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّابِعُ"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَدُونِيَّا ابْنُ حَجِّيثَ.[2]"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْخَامِسُ"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَفَطْيَا مِنْ أَبِيطَالَ."
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّادِسُ"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَثَرْعَامُ مِنْ عَجْلَةَ امْرَأَتِهِ. [3]"
+    },
+    {
+      "section_title": "أبيجايل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبشالوم ابن"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يُذكَر عنه شيء في أخبار الأيام. كان جميل الصورة، طويل الشعر محبوبًا من أبيه"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومن الشعب. إذ اعتدى أخوه أمنون – من أبيه وليس من أمه – على ثامار أخته، ولم"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعاقبه والده اغتاظ أبشالوم جدًا، واغتال أمنون بواسطة عبيده. هرب أبشالوم من وجه"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه عند الملك جشور والد أمه (2 صم 3: 3؛ 13: 37)، وبقى هناك لمدة ثلاث سنوات،"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولما عاد إلى أورشليم رفض داود أن يلتقي معه."
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم كل"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسيلة لجذب الشعب نحوه؛ واستطاع أن يعلن تمرُّدَه على والده واستلام العرش. حدثت"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معركة بين أبشالوم بجيشه ضد جيش والده. وإذ كان أبشالوم راكبًا على بغلٍ، دخل تحت"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أغصان شجرة بطم، فتعلق رأسه بغصنٍ، فصار مُعَلَّقًا بين السماء والأرض (2 صم 18: 6-9). صوّب يوآب ثلاثة سهام إلى قلب أبشالوم، مع أن داود أوصى قادة الجيش ألاْ"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمسُّوه. ضربه عشرة من فتيان"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب فقتلوه، ودفنوه في حفرة عظيمة، وأقاموا عليه رجمة"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظيمة من الحجارة، كنوعٍ من التشهير بالثوّار والمُجرِمين."
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزن عليه داود"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا ورثاه، لكنه اضطر أن يلتقي بالجيش العائد منتصرًا حتى لا يثور الشعب عليه."
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان داود قد"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُسِحَ ملكًا على كل إسرائيل في حبرون (1 صم 2: 1-4، 11)، وجعل منها مركزه الملوكي،"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأسف ابنه أبشالوم الذي من صُلْبِه، تمرَّد على داود في حبرون!"
+    },
+    {
+      "section_title": "تلماي ملك جشور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي، معناه \"خاص بالأخاديد أو الحرَّاث\". ويرجع أن تكون مشتقة من الكلمة"
+    },
+    {
+      "section_title": "تلماي ملك جشور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحورية \"تلمأ\" ومعناها \"كبير\"."
+    },
+    {
+      "section_title": "تلماي ملك جشور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفطيا من"
+    },
+    {
+      "section_title": "أبيطال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه أوقع القضاء\"، وهو ابن داود الخامس (1 أي 3:3)، الذي وُلِدَ"
+    },
+    {
+      "section_title": "أبيطال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حبرون من أبيطال."
+    },
+    {
+      "section_title": "أبيطال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدونيا ابن"
+    },
+    {
+      "section_title": "حجيث أو أدونيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه هو السيد\" أو \"الرب هو السيد\"."
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"العمّ كريم\" ابن داود ولد في حبرون (1 أي 3: 3)."
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُلِدَ لَهُ"
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِتَّةٌ فِي حَبْرُونَ."
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ"
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُنَاكَ سَبْعَ سِنِينٍ وَسِتَّةَ أَشْهُرٍ،"
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ مَلَكَ"
+    },
+    {
+      "section_title": "يثرعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثَلاَثاً وَثَلاَثِينَ سَنَةً فِي أُورُشَلِيمَ: [4]"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "5 وَهؤُلاَءِ وُلِدُوا لَهُ فِي أُورُشَلِيمَ: شِمْعَى وَشُوبَابُ وَنَاثَانُ وَسُلَيْمَانُ. أَرْبَعَةٌ مِنْ بَثْشُوعَ بِنْتِ عَمِّيئِيلَ. 6 وَيِبْحَارُ وَأَلِيشَامَعُ وَأَلِيفَالَطُ 7 وَنُوجَهُ وَنَافَجُ وَيَافِيعُ 8 وَأَلِيشَمَعُ وَأَلِيَادَاعُ وَأَلِيفَلَطُ. تِسْعَةٌ. 9 الْكُلُّ بَنُو دَاوُدَ مَا عَدَا بَنِي السَّرَارِيِّ. وَثَامَارُ هِيَ أُخْتُهُمْ."
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينطلق بنا"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السفر من مدينة حبرون بكونها بداية مملكة داود على كل إسرائيل إلى"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة أورشليم"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكونها مدينة الله أو المدينة المقدسة (نح 11: 1، 16؛ مت 4: 5). ويدعوها العرب"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعاصرون القدس. أما أصل الكلمة العبري، فمُختلِف عليها، يرى البعض أنها تعني"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امتلاك السلام أو أساس السلام. وقد دُعِيت السماء نفسها \"أورشليم العليا\" (غل 4: 26)."
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كانت بداية"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطريق للتمتُّع بملكوت المسيح هي الاتحاد والصحبة مع الله والناس (حبرون)، فإن"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهاية الطريق هي التمتُّع بالسلام الأبدي السماوي. هذا هو الطريق الذي يرمز إليه"
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفرا أخبار الأيام."
+    },
+    {
+      "section_title": "2. نسل داود في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعل أهم ما"
+    },
+    {
+      "section_title": "أ. دُعِيت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قديمًا ساليم وكان ملكها هو ملكي صادق، الذي على رُتْبَتِه ظهر السيد المسيح رئيس"
+    },
+    {
+      "section_title": "أ. دُعِيت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة السماوي الذي بدَمه يحملنا إلى حضن الآب مُبَرَّرين."
+    },
+    {
+      "section_title": "ب. ارتبطت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم بجبل المريا الذي بلغ إليه إبراهيم في اليوم الثالث من انطلاقه من"
+    },
+    {
+      "section_title": "ب. ارتبطت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بئر سبع"
+    },
+    {
+      "section_title": "ب. ارتبطت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع ابنه اسحق ليُقَدِّمه ذبيحة (تك 22)، ورجع معه حيًّا، إذ يشير رقم ثلاثة إلى"
+    },
+    {
+      "section_title": "ب. ارتبطت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيامة السيد المسيح."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنى سليمان الهيكل إشارة إلى الحضور الإلهي الدائم وسط شعبه. وكأن أورشليم تحثنا"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على التمتُّع بالسيد المسيح بكونه الملك الكاهن (على رتبة ملكي صادق)، والذبيحة"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واهبة البرّ والقيامة، والتمتُّع بالشركة مع الله."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَؤُلاَءِ"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُلِدُوا لَهُ فِي أُورُشَلِيمَ."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَمْعَى"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشُوبَابُ وَنَاثَانُ وَسُلَيْمَانُ."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْبَعَةٌ"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَثْشُوعَ بِنْتِ"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَمِّيئِيلَ. [5]"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُلِدَ هؤلاء"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أورشليم، وقد ذُكِروا في (2 صم 5: 14-16؛ 1 أي 14: 4-7)، غير أننا نجد اختلافًا"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأسماء."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمعى"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Shimea،"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورد في صموئيل وفي (1 أي 14) باسم شموع Shammua."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أليشامع"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[6]: جاء في صموئيل وفي (1 أي 14) اليشوع."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الياداع"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[8]: جاء في (1 أي 14) بعلياداع، والاسمان يحملان ذات المعنى \"الرب يعلم\"."
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يذكر سفر"
+    },
+    {
+      "section_title": "ج. في أورشليم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صموئيل أليفالط [6] ونوجه [7]، ولعلهما ماتا صغيريْن."
+    },
+    {
+      "section_title": "شوباب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"مرتد\". وهو ابن بثشوع من داود، ولد في أورشليم."
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله قد أعطى\"."
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشوع"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Bath-shua: تحريف"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع Bathsheba،"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"ابنة القسم\" أو \"ابنة اليوم السابع\". وردت قصتها في (2 صم 11-12؛ 1 مل 1). سقط معها داود في الخطية، فاستدعى"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زوجها أوريّا الحثّي الذي كان قائدًا في"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجيش، مُخْلِصًا وأمينًا لداود ولبني إسرائيل، وطلب منه أن يبيت الليلة في بيته،"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأبى أن ينام مع زوجته والجيش في المعركة. دبَّر داود قتله في الجيش حتى لا يُفضَح"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطأه. أرسل الله لداود ناثان النبي الذي وبَّخه، وأعلن له تأديبات الرب له. تولَّى"
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنها سليمان الحكيم العرش بعد والده داود، وقام ببناء الهيكل (1 مل 1-11؛ 2 أي 2-9)."
+    },
+    {
+      "section_title": "ناثان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عميئيل"
+    },
+    {
+      "section_title": "Ammiel",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يُدعَى أيضًا أليعام (2 صم 11: 3)."
+    },
+    {
+      "section_title": "Ammiel",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيِبْحَارُ"
+    },
+    {
+      "section_title": "Ammiel",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيشَامَعُ وَأَلِيفَالَطُ [6]"
+    },
+    {
+      "section_title": "يبحار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يختار\"، أحد أبناء داود، وُلِدَ في أورشليم."
+    },
+    {
+      "section_title": "أليشامع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قد سمع الله\"، جاء في (2 صم 5: 16؛ 1 أي 14) \"أليشمع\". يوجد أكثر"
+    },
+    {
+      "section_title": "من شخص يحمل هذا الاسم، من بينهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "1. ابن داود،"
+    },
+    {
+      "section_title": "من شخص يحمل هذا الاسم، من بينهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد وُلِدَ في أورشليم (1 أي 3: 1، 5-6)."
+    },
+    {
+      "section_title": "2. ابن آخر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لداود (1 أي 3: 8)."
+    },
+    {
+      "section_title": "أليفالط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله نجاه\"، جاء في (2 صم 5: 16؛ 1 أي 14) \"أليفلط\". يوجد أكثر من"
+    },
+    {
+      "section_title": "1. ابن داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُلِدَ في أورشليم (1 أي 3: 5-6، 14؛ 14: 5)."
+    },
+    {
+      "section_title": "2. ابن آخر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لداود وُلِدَ في أورشليم أيضًا، وربما بعد موت الابن السابق."
+    },
+    {
+      "section_title": "2. ابن آخر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنُوجَهُ"
+    },
+    {
+      "section_title": "2. ابن آخر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنَافَجُ وَيَافِيعُ [7]"
+    },
+    {
+      "section_title": "نوجة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"لمعان\"، وهو أحد أبناء داود."
+    },
+    {
+      "section_title": "نوجة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيشَمَعُ"
+    },
+    {
+      "section_title": "نوجة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيَادَاعُ وَأَلِيفَلَطُ. تِسْعَةٌ. [8]"
+    },
+    {
+      "section_title": "نوجة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياداع أو"
+    },
+    {
+      "section_title": "أليداع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من يعرف الله\" ابن لداود ولد في أورشليم."
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن لداود غير اليفالط، وربما بعد أن مات اليفاط وُلِدَ أخوه ودُعِي باسمه مع تغيير"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسمه."
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي، معناه \"يضيء\"."
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكُلُّ بَنُو"
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَاوُدَ مَا عَدَا بَنِي السَّرَارِيِّ."
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَثَامَارُ"
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هِيَ أُخْتُهُمْ. [9]"
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لداود"
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سراري، لم يُذكَر أسماء أبنائهن، ولعل علة ذلك أن السراري قمن بنوعٍ من الخيانة"
+    },
+    {
+      "section_title": "يافيع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لداود في شأن أبشالوم."
+    },
+    {
+      "section_title": "ثامار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لداود"
+    },
+    {
+      "section_title": "ثامار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنات أخريات غير ثامار، ذكرت ثامار من أجل الحادثة الخاصة بأخيها أمنون. اتَّسمت"
+    },
+    {
+      "section_title": "ثامار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالجمال، اعتدى عليها أمنون أخوها من والدها، وبقدر ما أحبَّها جدًا حتى مرض بسبب"
+    },
+    {
+      "section_title": "ثامار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبه لها، أبغضها بعد اعتدائه عليها، وطردها من أمامه، فلحق العار بها (2 صم 13-14)."
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "10 وَابْنُ سُلَيْمَانَ رَحُبْعَامُ، وَابْنُهُ أَبِيَّا، وَابْنُهُ آسَا، وَابْنُهُ يَهُوشَافَاطُ، 11 وَابْنُهُ يُورَامُ، وَابْنُهُ أَخَزْيَا، وَابْنُهُ يُوآشُ، 12 وَابْنُهُ أَمَصْيَا، وَابْنُهُ عَزَرْيَا، وَابْنُهُ يُوثَامُ، 13 وَابْنُهُ آحَازُ، وَابْنُهُ حَزَقِيَّا، وَابْنُهُ مَنَسَّى، 14 وَابْنُهُ آمُونُ، وَابْنُهُ يُوشِيَّا. 15 وَبَنُو يُوشِيَّا: الْبِكْرُ يُوحَانَانُ، الثَّانِي يَهُويَاقِيمُ، الثَّالِثُ صِدْقِيَّا، الرَّابعُ شَلُّومُ. 16 وَابْنَا يَهُويَاقِيمَ: يَكُنْيَا ابْنُهُ وَصِدْقِيَّا ابْنُهُ. 17 وَابْنَا يَكُنْيَا: أَسِّيرُ وَشَأَلْتِئِيلُ ابْنُهُ 18 وَمَلْكِيرَامُ وَفَدَايَا وَشِنْأَصَّرُ وَيَقَمْيَا وَهُوشَامَاعُ وَنَدَبْيَا. 19 وَابْنَا فَدَايَا: زَرُبَّابِلُ وَشِمْعِي. وَبَنُو زَرُبَّابِلَ: مَشُلاَّمُ وَحَنَنْيَا وَشَلُومِيَةُ أُخْتُهُمْ، 20 وَحَشُوبَةُ وَأُوهَلُ وَبَرَخْيَا وَحَسَدْيَا وَيُوشَبُ حَسَدَ. خَمْسَةٌ. 21 وَبَنُو حَنَنْيَا: فَلَطْيَا وَيِشْعِيَا، وَبَنُو رَفَايَا، وَبَنُو أُرْنَانَ، وَبَنُو عُوبَدْيَا، وَبَنُو شَكَنْيَا. 22 وَبَنُو شَكَنْيَا: شِمْعِيَا وَبَنُو شِمْعِيَا: حَطُّوشُ وَيَجْآلُ وَبَارِيحُ وَنَعَرْيَا وَشَافَاطُ. سِتَّةٌ. 23 وَبَنُو نَعَرْيَا: الْيُوعِينِيُّ وَحَزَقِيَّا وَعَزْرِيقَامُ. ثَلاَثَةٌ. 24 وَبَنُو الْيُوعِينِيِّ: هُودَايَاهُو وَأَلْيَاشِيبُ وَفَلاَيَا وَعَقُّوبُ وَيُوحَانَانُ وَدَلاَيَا وَعَنَانِي. سَبْعَةٌ."
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأسف وُجِدَ"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين أبناء داود من سبَّبوا له مرارة شديدة، مثل أمنون وأبشالوم وأدونيّا. ولم نسمع"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن أحدٍ من أولاده ممن تمثَّلوا بتقواه سوى سليمان، وإن كان سليمان نفسه انحرف بسبب"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زواجه بالوثنيات."
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلس سليمان وهو"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الابن الرابع من"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بثشبع من المولودين في أورشليم، وجاءت أنسال سليمان تتناغم مع ما"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورد في سفري ملوك الأول والثاني وما ورد أثناء السبي والرجوع منه."
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُ"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سُلَيْمَانَ رَحُبْعَامُ وَابْنُهُ أَبِيَّا وَابْنُهُ آسَا وَابْنُهُ"
+    },
+    {
+      "section_title": "3. أنسال سليمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُوشَافَاطُ [10]"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استلم الملك بعد موت أبيه، كان ضيِّق التفكير، فتسبَّب في انقسام المملكة إذ أجاب"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعنفٍ على الذين طلبوا منه أن يُخَفِّفَ النير الذي حمَّلهم به أبوه. تمَّ ذلك بناء"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على مشورة الشبان الذين نشأوا معه، ورفض مشورة الشيوخ مستشاري أبيه. استغل يربعام"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر، فجمع حوله عشرة أسباط باسم مملكة إسرائيل، وبقى مع رحبعام يهوذا وبنيامين"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باسم"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا."
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استمرت الحرب"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين المملكتيْن زمانًا طويلاً، وكثيرًا ما تحالفت إحدى المملكتين مع مملكة غريبة"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل أرام أو أشور ضد أختها. تولَّى كثيرون من نسل سليمان الحكم في"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا، وقد"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق لنا الحديث عن هؤلاء الملوك في ملوك الثاني، وأخبار الأيام الثاني."
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيّا،"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو أبيام (1 مل 14: 31)."
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوشافاط (2 أي 17-20): يبدو أنه تعلَّم من أبيه آسا، واقتدى بأعماله الإيجابية، لكن في مناسبات"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عديدة نراه يَتَمَثَّل بأبيه في شرِّه. كثيرًا ما رجع إلى الرب يطلب مشورته فينجح،"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير أنه سمح لابنه أن يتزوج عثليا ابنة آخاب ملك إسرائيل الشرير، فكانت صورة لأمها"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيزابل الشريرة."
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ يُورَامُ، وَابْنُهُ أَخَزْيَا، وَابْنُهُ يُوآشُ [11]"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَصْيَا وَابْنُهُ عَزَرْيَا وَابْنُهُ يُوثَامُ [12]"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزريا (عزيّا)،"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 أي 26): كان ملكًا ناجحًا، قام بانجازات كثيرة، نجح في الحروب ووقت السلام،"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتَّسم بالتعمير والتخطيط السليم. للأسف دفعته شهوته لا لتقديم الشكر لله بل للسقوط"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكبرياء. حاول اغتصاب العمل الكهنوتي، فأُصيب بالبرص. كما فشل في إزالة الكثير"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من رموز الوثنية في البلاد."
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "رحبعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحَازُ وَابْنُهُ حَزَقِيَّا وَابْنُهُ مَنَسَّى [13]"
+    },
+    {
+      "section_title": "حزقيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا الحديث عنه في (2 مل 18-20)."
+    },
+    {
+      "section_title": "حزقيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "حزقيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آمُونُ وَابْنُهُ يُوشِيَّا. [14]"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا الحديث عنه"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في (2 مل 22-23)."
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُوشِيَّا: الْبِكْرُ يُوحَانَانُ، الثَّانِي يَهُويَاقِيمُ، الثَّالِثُ"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صِدْقِيَّا، الرَّابِعُ شَلُّومُ. [15]"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من عدد 15"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فصاعدًا بعد حكم يوشيا المُخْلِص والمؤمن، نجد الملوك في وقت خراب يهوذا النهائي."
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه المجموعة بلغت بالمملكة إلى السبي."
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأنساب"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخاصة بيسوع المسيح (مت 1) لم يُذكَر حننيا وشكنيا ونعريا وأليوعيني وهودياهو. يرى"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعض أن حكام بابل قد غيَّروا هذه الأسماء لكي يطمسوا كل أثرٍ للملكية من روح"
+    },
+    {
+      "section_title": "يوشيا الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود المسبيين (دا 1: 6-7)[8]."
+    },
+    {
+      "section_title": "يوحانان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"يهوه حنون\"، يوجد أكثر من شخص يحمل هذا الاسم، من بينهم:"
+    },
+    {
+      "section_title": "يوحانان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "1. بكر يوشيا،"
+    },
+    {
+      "section_title": "يوحانان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلا أنه لم يتبوأ العرش. لم يُذكَر يوحانان إلا هنا، ولعله مات في صباه."
+    },
+    {
+      "section_title": "2. ابن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليوعينيّ من نسل داود (1 أي 3: 24)."
+    },
+    {
+      "section_title": "يهوياقيم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الياقيم (2 مل 23: 34). (راجع إر 22-28؛ 35-36)."
+    },
+    {
+      "section_title": "صدقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو الرابع، وكان اسمه الأول متنيا (2 مل 24: 17). راجع (إر 21-39)."
+    },
+    {
+      "section_title": "شلوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو يهوآحاز (2 مل 23: 30)، وهو ثالث الإخوة، وإن ذُكِرَ أخيرًا."
+    },
+    {
+      "section_title": "شلوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنَا"
+    },
+    {
+      "section_title": "شلوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُويَاقِيمَ: يَكُنْيَا ابْنُهُ وَصِدْقِيَّا ابْنُهُ. [16]"
+    },
+    {
+      "section_title": "يكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو كنياهو في (إر 22: 24، 28؛ 37: 1)؛ معناه \"يُقِيم\" أو \"الرب يُقِيم\"."
+    },
+    {
+      "section_title": "صدقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن لفظة ابنه هنا بمعنى \"خلفه\". صدقيا هنا هو صدقيا بن يوشيا، الملك الذي"
+    },
+    {
+      "section_title": "صدقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلف يهوياكين، ذُكِرَ هنا لأنه لم يذهب إلى السبي."
+    },
+    {
+      "section_title": "صدقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنَا"
+    },
+    {
+      "section_title": "صدقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَكُنْيَا: أَسِّيرُ وَشَأَلْتِئِيلُ ابْنُهُ [17]"
+    },
+    {
+      "section_title": "أسير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة عبرية، معناها \"أسير\"، وقد ظن بعضهم أن هذا الاسم يعني وصف يكنيا \"بالأسير\""
+    },
+    {
+      "section_title": "أسير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولكن يتضح من النص العبري، ومن الترجمات القديمة على أنه لا يدل على وصف، بل على"
+    },
+    {
+      "section_title": "أسير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم علم."
+    },
+    {
+      "section_title": "أسير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شألتئيل أو"
+    },
+    {
+      "section_title": "شألئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"سألت الله\"، وهو ابن نيري (لو 3: 27)، تبنَّاه يكنيا بعد سبيه"
+    },
+    {
+      "section_title": "شألئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتأخر في مارس 597 ق.م."
+    },
+    {
+      "section_title": "شألئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلْكِيرَامُ"
+    },
+    {
+      "section_title": "شألئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَدَايَا وَشِنْأَصَّرُ وَيَقَمْيَا وَهُوشَامَاعُ وَنَدَبْيَا. [18]"
+    },
+    {
+      "section_title": "ملكيرام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الملك مرتفع\"، وهو ابن يهوياكين (يكنيا) ملك يهوذا."
+    },
+    {
+      "section_title": "فدايا أو فداية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"يهوه قد فدى\" وهو اسم أخو شألتيئيل وأبو"
+    },
+    {
+      "section_title": "فدايا أو فداية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زرُبابل."
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من نسل يكنيا. تعادل \"شيشبصر رئيس يهوذا عند العودة من بابل في (538/537 ق.م.) (عز 1: 8). كلاهما اختصار للكلمة الأكادية Sin-aba-usur"
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعناها: \"احمني أيها الإله القمر (بصّر)\". خلف ابن أخيه"
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زرُبابل، الابن الطبيعي"
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأخ الكبير التالي Pedaiah،"
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولكنه نُسِبَ شرعًا للابن الأكبر شألتئيل (عز 3: 2؛ حج 1:1، 12؛ مت1: 12؛ لو 3: 27). فقد مات شالتئيل غالبًا دون أن يكون له نسل، لذلك أقام له أخوه نسلاً يُنسَب"
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه حسب الشريعة (تث 25: 5-10)."
+    },
+    {
+      "section_title": "شنأصر[9]",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقميا أو"
+    },
+    {
+      "section_title": "يقمية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه يقوم\"، وهو رجل من يهوذا من النسل الملكي."
+    },
+    {
+      "section_title": "هوشاماع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"قد سمع يهوه\"، وهو أحد ذرية الملك يكنيا."
+    },
+    {
+      "section_title": "ندبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه كريم\" وهو ابن الملك يكنيا."
+    },
+    {
+      "section_title": "ندبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنَا"
+    },
+    {
+      "section_title": "فَدَايَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زَرُبَّابِلُ وَشَمْعِي."
+    },
+    {
+      "section_title": "فَدَايَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "فَدَايَا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زَرُبَّابِلَ: مَشُلاَّمُ وَحَنَنْيَا وَشَلُومِيَةُ أُخْتُهُمْ [19]"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم أكادي"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"زُرِعَ ببابل\" أو \"المولود ببابل\"، ابن شالتيئيل. مات شالتئيل بدون ذرية،"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولعل فدايا أخوه أخذ امرأته وأقام نسلاً لأخيه حسب الناموس، فصار"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل ابنًا له."
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائد أول"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجموعة من العائدين من سبي بابل إلى أورشليم بناء على منشور كورش. أرسله كورش في"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القرن السادس ق.م، وموَّل مشروعه، وأعاد معه الأواني الذهبية والفضية التي كان قد"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استولى عليها نبوخذنصّر من الهيكل. بدأ ببناء المذبح لعبادة الله، ووضع أساسات من"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل. ثارت مشكلتان الأولى أن بعض الشيوخ حزنوا عندما قارنوا الهيكل الذي سبق أن"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقامه سليمان والهيكل الذي أعاد بناءه"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل. والمشكلة الثانية هي أن بعض الأعداء"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسلَّلوا وأوقفوا العمل بضغط سياسي. فانشغل البعض ببناء بيوتهم قائلين إنه لم يحن"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوقت لبناء بيت الرب. فأرسل الله النبيين حجّي وزكريّا لتشجيع"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل، وابتدأ"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العمل من جديد بعد 16 سنة وأُكْمِل الهيكل في أربع سنوات. لم يكن مثل نحميا،"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالأخير لم يسمح للمشكلات والمقاومة أن توقفه عن البناء."
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رسالة الرب"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه: \"لا بالقدرة ولا بالقوة، بل بروحي قال رب الجنود. من أنت أيها الجبل العظيم"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمام"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زرُبَّابل تصير سهلاً، فيُخرج حجر الزاوية بين الهاتفين كرامة كرامة له\" (زك 4: 6-7)."
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذُكِرَ في [19]"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنان وأختهما، وفي [21] خمسة. ولعل هؤلاء الخمسة كانوا من أُم أخرى أو وُلِدُوا بعد"
+    },
+    {
+      "section_title": "زرُبابل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجوع من السبي."
+    },
+    {
+      "section_title": "شمعِي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه يسمع\"، وهو أخو"
+    },
+    {
+      "section_title": "شمعِي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل (1 أي 3: 19)."
+    },
+    {
+      "section_title": "مشلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من نال جزاءه\"، وهو اسم لأحد أبناء"
+    },
+    {
+      "section_title": "مشلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل"
+    },
+    {
+      "section_title": "مشلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 3: 19)."
+    },
+    {
+      "section_title": "حننيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"يهوه قد أنعم، قد تحنَّن\". وهو ابن"
+    },
+    {
+      "section_title": "حننيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل، وأبو فلطيا ويشعيا."
+    },
+    {
+      "section_title": "حننيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شلومية أو"
+    },
+    {
+      "section_title": "شلوميث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مؤنث \"شلومي\" أو \"سليمان\"، وهي ابنة"
+    },
+    {
+      "section_title": "شلوميث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل (1 أي 3: 19)."
+    },
+    {
+      "section_title": "شلوميث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَشُوبَةُ"
+    },
+    {
+      "section_title": "شلوميث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأُوهَلُ وَبَرَخْيَا وَحَسَدْيَا وَيُوشَبُ حَسَدَ، خَمْسَةٌ. [20]"
+    },
+    {
+      "section_title": "حشوبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"محسوب أو مقدار\" وهو ابن"
+    },
+    {
+      "section_title": "حشوبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل"
+    },
+    {
+      "section_title": "حشوبة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 3: 20)."
+    },
+    {
+      "section_title": "أوهل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"خيمة\" وهو واحد من بني رزبابل (1 أي 3: 20)."
+    },
+    {
+      "section_title": "برخيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"المبارك من الله\". ابن"
+    },
+    {
+      "section_title": "برخيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل من ذرية داود (1 أي 3: 20)."
+    },
+    {
+      "section_title": "حسديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"قد كان الرب منعمًا\"، وهو ابن"
+    },
+    {
+      "section_title": "حسديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل من نسل داود الملكي."
+    },
+    {
+      "section_title": "حسديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوشب أو يوشب"
+    },
+    {
+      "section_title": "حسد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"الرأفة تُكافأ\" وهو ابن"
+    },
+    {
+      "section_title": "حسد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل من نسل داود."
+    },
+    {
+      "section_title": "حسد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "حسد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَنَنْيَا: فَلَطْيَا وَيِشْعِيَا وَبَنُو رَفَايَا وَبَنُو أُرْنَانَ وَبَنُو"
+    },
+    {
+      "section_title": "حسد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عُوبَدْيَا وَبَنُو شَكَنْيَا. [21]"
+    },
+    {
+      "section_title": "فلطيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه قد أعتق\"، أحد أبناء حننيا، وحفيد"
+    },
+    {
+      "section_title": "فلطيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لزربابل."
+    },
+    {
+      "section_title": "يشعيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه قد خلَّص\". ابن حننيا من نسل داود (1 أي 3: 21)."
+    },
+    {
+      "section_title": "رفايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه قد شفى\". رجل من نسل داود (1 أي 3: 21)."
+    },
+    {
+      "section_title": "أرنان أو أرونة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يُعرَف معنى اللفظ العبري على وجه التحقيق."
+    },
+    {
+      "section_title": "عوبديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عبد يهوه\"، وهو رئيس بيت من ذرية داود (1 أي 3: 21)."
+    },
+    {
+      "section_title": "شكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة"
+    },
+    {
+      "section_title": "شكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرامية، معناها \"يهوه ساكن\". من نسل داود، ومؤسس أسرة."
+    },
+    {
+      "section_title": "شكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "شكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَكَنْيَا: شَمَعْيَا وَبَنُو شَمَعْيَا حَطُّوشُ وَيَجْآلُ وَبَارِيحُ وَنَعَرْيَا"
+    },
+    {
+      "section_title": "شكنيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَافَاطُ. سِتَّةٌ. [22]"
+    },
+    {
+      "section_title": "شمعَيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله يسمع\". وهو ابن داود من بثشوع."
+    },
+    {
+      "section_title": "حطوش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"مجتمع\". رجل من يهوذا، ابن شمعيا، وأسرة شكنيا."
+    },
+    {
+      "section_title": "يجآل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يفدي\". وهو ابن شمعيا من نسل شكنيا الملك (1 أي 3: 22)."
+    },
+    {
+      "section_title": "باريح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"هارب أو شارد\"."
+    },
+    {
+      "section_title": "نعريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حامل ترس يهوه\" وهو أبو اليوعينيّ وحزقيا وعزريقام، أحد أبناء"
+    },
+    {
+      "section_title": "نعريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمعيا الستة، من نسل سليمان (1 أي 3: 22-23)."
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قد قضى\". ابن شمعيا من نسل داود الملك من"
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا."
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "شافاط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نَعَرْيَا: اليوعينيّ وَحَزَقِيَّا وَعَزْرِيقَامُ. ثَلاَثَةٌ. [23]"
+    },
+    {
+      "section_title": "اليوعينيّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عيناي نحو يهوه\"، وهو ابن نعريا من"
+    },
+    {
+      "section_title": "اليوعينيّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط يهوذا."
+    },
+    {
+      "section_title": "حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الرب قد قوَّى\" أو \"الرب قوة\". وهو ابن نعريا، قريب لأسرة يهوذا"
+    },
+    {
+      "section_title": "حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملكية (1 أي 3: 23)."
+    },
+    {
+      "section_title": "عزريقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قام عوني\"، وهو ابن نعريا اليوعينيّ، أحد أعقاب داود (1 أي 3: 23)."
+    },
+    {
+      "section_title": "عزريقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "اليوعينيّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُودَايَاهُو"
+    },
+    {
+      "section_title": "اليوعينيّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلْيَاشِيبُ وَفَلاَيَا وَعَقُّوبُ وَيُوحَانَانُ وَدَلاَيَا وَعَنَانِي."
+    },
+    {
+      "section_title": "اليوعينيّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَبْعَةٌ. [24]"
+    },
+    {
+      "section_title": "هود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"المجد\", وهوداياهو: معناه \"المجد ليهوه\" وهو ابن اليوعينيّ، أحد"
+    },
+    {
+      "section_title": "هود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذرية داود (1 أي 3: 24)."
+    },
+    {
+      "section_title": "ألياشيب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من يرده الله\". وهو ابن اليوعينيّ، من نسل"
+    },
+    {
+      "section_title": "ألياشيب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زربابل."
+    },
+    {
+      "section_title": "فلايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه عجيب\"، وهو اسم رجل من يهوذا من ذرية شكنيا."
+    },
+    {
+      "section_title": "عقوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"تابع أو يتعقب\"، ابن اليوعينيّ من بين شكنيا، من نسل داود."
+    },
+    {
+      "section_title": "دلايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من حرره الرب\"، وهو من ذرية داود، ابن اليوعينيّ."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري اختصار لاسم \"عننيا\"، أحد أبناء اليوعينيّ السبعة، من نسل داود."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي أخبار"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأيام الأول 3"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتَدْخُلْ"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بي إلى العُرْسِ الأبدي،"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأنعم بشركة"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمجادك"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليحملني روحك القدوس مع داود إلى حبرون."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في دهشةٍ، أقف"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأرى أبي داود وهو في ظلِّ الناموس،"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينطلق إلى"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبرون رمز العرس والاتحاد والالتصاق بك."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا ينشغل بكل"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحداث ماضيه،"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما يذكر"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماله المجيدة بك، وضعفاته وتجاربه المُرَّة."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يعد يذكر"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقاومة الملك شاول له المستمرة."
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عُرْسه الروحي"
+    },
+    {
+      "section_title": "عناني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتمتُّعه ببهاء مجدك فيه سَحبَ كل مشاعره!"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أين وعدك لي"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنا صبي أن أصير ملكًا على كل إسرائيل؟"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يشغله أن"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتمتَّع بك يا ملك الملوك."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يراك بروح"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبوة على الصليب ملكًا!"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سحبت كل أفكاره"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعواطفه وحواسه بحُبِّك ومجدك!"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكفيه أن يراك"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا مُخَلِّص العالم،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تضم السمائيين"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والبشريين معًا."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقاؤه معك صنع عجبًا في كل رجال البأس."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوة شاول"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير وقادة جيشه انسحبوا إليك."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحوَّلوا إلى"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طاقات عاملة لحساب ملكوتك."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرون فيك"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك العجيب الذي في حضن ملك الملوك."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرون فيك"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُبوَّة، هي ظلُّ أُبوَّة الله المملوءة حنانًا."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حبرون مقبرة سارة وإبراهيم ويعقوب وإسحق."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشتَّمون رائحة"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيامتك العطرة والجميلة،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عوض رائحة"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموت والفساد."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رآك كل"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهم قادمون إلى داود."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمتَّعوا بك يا"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أشرقتَ ببهاء القيامة على قلب داود."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تعد حبرون"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مركزًا لزيارة مقابر العظماء،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل صارت"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظلاً للعرس السماوي."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتمتَّع به"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأموات والأحياء في شركة السمائيين،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا، بل وفي"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شركة وتمتُّع بالثالوث القدوس!"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تعد حبرون مَسْكَن الكهنة واللاويين،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل صارت ظلاً"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحجال رئيس الكهنة السماوي ولعرش ملك الملوك."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرونك كما في"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقادس السماوية تشفع بدمك عن البشرية."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لك الحمد والشكر، لأنك تدخل بي إلى حبرون."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تستريح نفسي،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس لأنها مدينة ملجأ فحسب،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل صارت لي"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موضع لقاء معك يا حِصْنَ حياتي."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي مع داود أن أنطلق من حبرون إلى أورشليم."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحق ماذا"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقول؟ وبماذا أتكلم على"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدينة الله المقدسة؟"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائمة على"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبال، ليست حجرية، بل سماوية."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي عدو يقدر أن"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتسلل إليها، وأية أذية يمكن أن تلحق بها!"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قديمًا دُعِيَت أورشليم ساليم، وملكها ملكي صادق."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَبْ لي أن"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتمتَّع بعربون أورشليم العليا،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت ملكها،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واهب البرّ الحقيقي والسلام السماوي."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعتز أورشليم بهيكلها،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما أورشليم"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العليا، فهيكلها غير مصنوعٍ بأيدٍ بشريةٍ."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو شمسها"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونورها، ليس للظلام موضع فيها."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو سرُّ"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجدها وبهجتها وفرحها."
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أعبر إليها،"
+    },
+    {
+      "section_title": "كعادته لم يُعاتِبك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأعيش في أحضانك الإلهية."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرفتك يا ابن"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود عريس نفسي!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو ملك"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملوك، تُقِيمني ملكًا!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيامة، تهبني النصرة على الموت!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو رئيس"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة السماوي،"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تدخل بي إلى"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حضن الآب!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو ملجأي"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي السماوي!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحملني إلى"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، أورشليم العليا!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحلُّ بي سلامك"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي،"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتُغَطِّيني"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ببرِّك يا أيها القدوس!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتمتع ببهاء"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقادس السماوية."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُشرِق عليَّ"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنورك، فلن يحوط بي ظلام!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت هو مجدي"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفرحي يا بهجة نفسي!"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "G. Campbell Morgan: An Exposition of the Holy Bible, NY., 1959, 1"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Chronicles ch.3."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ل. هـ. روسييه: تأملات في أخبار الأيام الأول، أصحاح 3."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[3] Sermons, 155:4. On the Ten"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Virgins."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Letter 17:11."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Cor. 38:2."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 80 على أسرار وأنماط وصور المسيح."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الميمر 41"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على قول داود عن ربنا: أنت حبر إلى الأبد بشبه ملكي صادق (مز 110: 4)"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(راجع نص بول بيجان ترجمة الدكتور بهنام سوني)؛ الخوري بولس الفغالي: يعقوب"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السروجي من ملكيصادق وهرون إلى يسوع المسيح، 2009، ص 12-14."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ل. هـ. روسييه: تأملات في أخبار الأيام الأول، أصحاح 3."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. McClintock & Strong’s"
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cyclopedia."
+    },
+    {
+      "section_title": "مع أبي داود أتغنى، قائلاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 3 من سفر أخبار الأيام الأول)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/hz35dfc"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/hz35dfc"
     }
   ]
 }

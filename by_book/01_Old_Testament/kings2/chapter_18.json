@@ -1,11 +1,157 @@
 {
-  "book_id": 15,
+  "book_id": "kings2",
   "book_title": "تفسير سفر الملوك الثاني",
   "chapter_number": 18,
   "chapter_title": "الأصحاح 18",
   "topic": "الأصحاح 18",
-  "chapter_outline": [],
-  "sections_count": 3,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "حزقيا",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "عصيانه على",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "ضرب",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "السبي",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "الهجوم",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "الملوك الثاني ولم يرد في إشعياء",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "إشعياء دون الملوك",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "لخيش",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "شبنة",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "رَبْشَاقَى",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "أن يسأل نفسه",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "المحفورة",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "نادى",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "كان الشعب",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "خلال فترة",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "جدَّد هيكل",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "عمل الفصح",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "بالرغم من",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "نجا من حصار",
+      "verses": ""
+    },
+    {
+      "number": 22,
+      "title": "الاسم",
+      "verses": ""
+    },
+    {
+      "number": 23,
+      "title": "المدينة",
+      "verses": ""
+    },
+    {
+      "number": 24,
+      "title": "العائلة",
+      "verses": ""
+    },
+    {
+      "number": 25,
+      "title": "المهنة",
+      "verses": ""
+    },
+    {
+      "number": 26,
+      "title": "الإنجازات",
+      "verses": ""
+    },
+    {
+      "number": 27,
+      "title": "الملوك ثاني",
+      "verses": ""
+    },
+    {
+      "number": 28,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 29,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 1059,
   "sections": [
     {
       "section_title": null,
@@ -17,13 +163,6349 @@
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "يهوذا حتى السبي البابلي"
+      "text": "ملوك 18-25"
     },
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "حزقيا وإزالة الأصنام"
+      "text": "بعد السبي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوري وإزالة مملكة إسرائيل وُجِدَ بعض ملوك صالحين في يهوذا مثل حزقيا ويوشيا،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن الأغلبية العظمى كانوا أشرارًا، بل وتفاقم شرُّهم جدًا حتى زاد عن شر مملكة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل. هذا ما تحدَّث عنه إرميا النبي موبخًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ومن جانب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آخر فإن الإصلاح الذي قام به الملوك مثل يوشيا كان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصليح الهيكل وممارسة الطقوس بطريقة حرفية دون إصلاح للقلب ورغبة جادة في الرجوع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الرب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ما نلاحظه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكل قوةٍ في سفر إرميا، حيث جاء محور أحاديثه \"القلب\" وختانه."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلأَصْحَاحُ الثَّامِنُ عَشَرَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطى الكتاب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقدس مجالاً للحديث عن حزقيا ملك يهوذا أكثر من أي ملك آخر منذ موت سليمان، ذلك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن حياته تُقدِّم لنا شهادة حية عن معاملات الله مع المؤمنين، خاصة الراغبين في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الالتصاق به، كما تكشف عن جانب آخر، أنه مهما بلغت قداسة الإنسان واهتمامه بالسلوك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالروح، فإنه يتعرَّض لضعفات قد لا يسقط فيها الشخص الأقل منه في القداسة. وكأن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة حزقيا الملك تُحسَب إنذارًا لكل مؤمنٍ ألا يظن في نفسه شيئًا، فيعتمد على نفسه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متجاهلاً الاتكال على الله، ولو إلى لحظاتٍ قليلةٍ. فإن السقوط في لحظات نتيجة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإهمال أو الاتكال على قدراته أو طهارة حياته قد تُحَطِّم الكثير مما اقتناه، وقد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسبب خسائر لكثيرين."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وردت سيرة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك في (2 مل 18-20؛ 2 أي 29-32؛ إش36-39)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما استلم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا المُلك عمليًا، كانت يهوذا دولة خاضعة لأشور."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعتبَر حزقيا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد الملوك الذي كان له دور كبير في الإصلاح، قاد حملة ضد كل أشكال العبادة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنية."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصالح وإزالة الوثنية"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوري للسامرة"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول لسنحاريب على يهوذا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني لسنحاريب على يهوذا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 19: تعييرات معيريك وقعت عليَّ!"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصالح وإزالة الوثنية"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَفِي السَّنَةِ الثَّالِثَةِ لِهُوشَعَ بْنِ أَيْلَةَ مَلِكِ إِسْرَائِيلَ مَلَكَ حَزَقِيَّا بْنُ آحَازَ مَلِكِ يَهُوذَا. 2 كَانَ ابْنَ خَمْسٍ وَعِشْرِينَ سَنَةً حِينَ مَلَكَ، وَمَلَكَ تِسْعًا وَعِشْرِينَ سَنَةً فِي أُورُشَلِيمَ، وَاسْمُ أُمِّهِ أَبِي ابْنَةُ زَكَرِيَّا. 3 وَعَمِلَ الْمُسْتَقِيمَ فِي عَيْنَيِ الرَّبِّ حَسَبَ كُلِّ مَا عَمِلَ دَاوُدُ أَبُوهُ. 4 هُوَ أَزَالَ الْمُرْتَفَعَاتِ، وَكَسَّرَ التَّمَاثِيلَ، وَقَطَّعَ السَّوَارِيَ، وَسَحَقَ حَيَّةَ النُّحَاسِ الَّتِي عَمِلَهَا مُوسَى لأَنَّ بَنِي إِسْرَائِيلَ كَانُوا إِلَى تِلْكَ الأَيَّامِ يُوقِدُونَ لَهَا وَدَعَوْهَا «نَحُشْتَانَ». 5 عَلَى الرَّبِّ إِلهِ إِسْرَائِيلَ اتَّكَلَ، وَبَعْدَهُ لَمْ يَكُنْ مِثْلُهُ فِي جَمِيعِ مُلُوكِ يَهُوذَا وَلاَ فِي الَّذِينَ كَانُوا قَبْلَهُ. 6 وَالْتَصَقَ بِالرَّبِّ وَلَمْ يَحِدْ عَنْهُ، بَلْ حَفِظَ وَصَايَاهُ الَّتِي أَمَرَ بِهَا الرَّبُّ مُوسَى."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حزقيا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك أول من حفظ وصايا الرب منذ أيام داود الملك [6]، وأراد أن يُعِيدَ العبادة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحقيقية المستقيمة للرب على مستوى الشعب، وأن يعبدوا الله الحقيقي. لكنه إذ كشف"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكنوز لبعثة ملك بابل ربما في كبرياء، صدر الأمر الإلهي بالسبي ليهوذا."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ الثَّالِثَةِ لِهُوشَعَ بْنِ أَيْلَةَ مَلِكِ إِسْرَائِيلَ مَلَكَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا بْنُ آحَازَ مَلِكِ يَهُوذَا. [1]"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السنة الثالثة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهوشع هي 729 ق. م. التسع وعشرون سنة لحزقيا تضم فترة حكمه كشريك مع أبيه آحاز قبل"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يحكم لوحده (716-699 ق. م)."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حزقيا\" معناها"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الرب يُقوِّي\"."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانَ ابْنَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَمْسٍ وَعِشْرِينَ سَنَةً حِينَ مَلَكَ،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تِسْعًا وَعِشْرِينَ سَنَةً فِي أُورُشَلِيمَ."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَاسْمُ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُمِّهِ أَبِي ابْنَةُ زَكَرِيَّا. [2]"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلَك حزقيا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسعًا وعشرين سنة في أورشليم، كما يُعتقَد أنه شارك أباه آحاز في الحكم من سنة 728"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ق. م إلى سنة 716 ق. م، أي حوالي ثلاثة عشر عامًا."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَمِلَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُسْتَقِيمَ فِي عَيْنَيِ الرَّبِّ حَسَبَ كُلِّ مَا عَمِلَ دَاوُدُ أَبُوهُ."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع ما"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتسم به أبوه من الشر والفساد والفشل، نجد حزقيا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك سار في مخافة الرب، وللأسف خالف ابنه وصاياه حتى واجه تجربة الأسر. الحياة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحية والمبادئ الأخلاقية المقدسة أو الفاسدة لا تُورَّث. كل شخص له"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرية الكاملة في تبعية وصايا الله أو عصيانها."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل هنا عن"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك \"حسب كل ما عمل داود أبوه\" ، كما قيل في الملك آسا (1 مل 15: 11)، والملك يوشيا (2 مل 22: 2)، ولم يُقل هذا في غير هؤلاء الثلاثة من ملوك يهوذا،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكان كل من الثلاثة أبناء لآباءٍ أشرارٍ."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو أن إشعياء"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي كان مُشِيرًا لحزقيا في أيام شبابه قبل أن يتولى العرش، فتأثر به."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ أَزَالَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُرْتَفَعَاتِ، وَكَسَّرَ التَّمَاثِيلَ، وَقَطَّعَ السَّوَارِيَ،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَحَقَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَيَّةَ النُّحَاسِ الَّتِي عَمِلَهَا مُوسَى،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنِي إِسْرَائِيلَ كَانُوا إِلَى تِلْكَ الأَيَّامِ يُوقِدُونَ لَهَا وَدَعُوهَا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نَحُشْتَانَ. [4]"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطأ الملوك"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السابقون له إذ تركوا المرتفعات ولم يُحَطِّموا أصنامهم، فكانت مَرْكزًا لقبائح لا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تليق بالمؤمنين. أما حزقيا الملك فلم يسحق الأصنام فقط وإنما إذ أساء المؤمنون"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكريم الحية النحاسية التي احتفظوا بها منذ أيام موسى النبي وهو في البرية، قام"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسحقها."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع وجود ملوك"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليهوذا صالحين، يعملون المستقيم في عينيّ الرب، لكن غالبًا ما كانوا يتساهلون في"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترك المرتفعات. يرى"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس أن حزقيا هو أول ملك يُحَطِّم"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرتفعات."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أعمال"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس لتصحيح أفكار الدوناتست Donatists"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوضح أن الملك أو الحاكم يعبد الرب بمخافة (مز 2: 1-2، 10-11) بطريقين: أولاً"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كإنسانٍ مؤمنٍ يعبد الرب بمخافة بحياته الإيمانية العملية. ومن جانبٍ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آخر بكونه ملكًا يعبد الرب بإصداره شرائع تأمر بالسلوك بالبرّ، وتعاقب من"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفعل ضد ذلك، هكذا سلك حزقيا كملكٍ تقيٍ، فأزال المرتفعات وأباد الأصنام:"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خرَّب الملك حزقيا الخارج من نسل داود تلك المرتفعات، يصحب ذلك شهادة عن مدحه"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العظيم[1]."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخدم"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك الله بطريقة بكونه إنسانًا، وبطريقة أخرى بكونه ملكًا. يخدمه كإنسانٍ بأن"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحيا بالإيمان، ويخدمه كملكٍ إذ يمارس السلطة الضرورية لإصدار قوانين تأمر بالصلاح"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتمنع ما يضاد ذلك. هكذا حزقيا خدمه بإبادة أماكن الأصنام وهياكلها والمرتفعات التي"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقيمت على خلاف وصايا الله [4]. وهكذا خدمه يوشيا بممارسته ذات الأفعال (2 مل 23: 4-5). هكذا خدم ملك نينوى بإلزام كل المدينة أن ترضي الرب[2]."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى حزقيا خدم الرب بتحطيمه بساتين الأوثان ومعابدها، والمرتفعات التي أُقيمت"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بانتهاك وصايا الله [4]. وأيضًا يوشيا خدمه بقيامه بنفس العمل بدوره. وأيضًا ملك نينوى خدمه بإلزام كل شعب مدينته أن يفعلوا ما يسُر الرب (يون 3: 6-9). وداريوس خدمه بأن سلَّم التمثال لدانيال ليُحَطِّمه (دانيال والتنِّين 42)"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تتمة دانيال 14: 42) ونبوخذناصر خدمه... بإصداره تشريع رهيب يمنع أي من الخاضعين له أن يُجَدِّف على"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله (دا 3: 29)."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه الوسيلة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن للملوك أن يخدموا الرب بكونهم ملوكًا، عندما يمارسون في خدمتهم ما لا يمكنهم"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيام به لو كانوا ليسوا ملوكًا[3]."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيضًا سحق"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك الحيَّة النحاسية، فقد"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر الله موسى"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يعمل تمثالاً من النحاس لحيَّة محرقة (نارية) يضعها على عامودٍ في البرية، لتكون"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مصدر شفاء لكل من ينظر إليها (عد 21: 4-9). لقد حملت الحية النحاسية رمزًا لعمل السيد"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُخَلِّص العالم المصلوب، كقول الرب نفسه: [وكما رفع موسى النبي الحية في البرية"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا ينبغي أن يُرفَع ابن الإنسان، لكي لا يهلك كل من يؤمن به بل تكون له الحياة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدية] (يو 3: 14-15). لكن حين أساء الشعب استخدام تمثال الحية النحاسية وعبدوه"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كصنمٍ، مُقدِّمين له قرابين، فقدت الحية"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النحاسية مفهومها الروحي والرمزي بسبب فساد فكر الشعب وقلبه، لهذا قام حزقيا الملك"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسحقها [4]."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا الملك"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بضمير"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيّ في جدية، في غير مجاملة أو مداهنة أو خوف. لم يكن سهلاً عليه أن يسحق الحية"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النحاسية التي عملها موسى، لأن بني إسرائيل كانوا في تلك الأيام يوقدون لها ودعوها"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحشتان. \"نحشتان\""
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناها الحرفي \"شيء برنزي\"."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا شك كان"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا العمل شعبيته على مستوى القيادات اليهودية والشعب، لكنه لم يبالِ أن يفقد هذه"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعبية، ويقاوم كل فكرٍ خاطئٍ."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أثناء تقديس"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرّ الإفخارستيا، متى كان الأسقف حاضرًا، يمسك أحد الشمامسة عصا الأسقف يعلوها صليب"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذهبي تحوطه به حيَّتان ذهبيتان. هذه العصا تغاير عصا الرعاية التي يمسك بها الأسقف"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دائمًا علامة رعايته الرسولية."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء في (2 أي 29) أنه في السنة الأولى من ملكه (حزقيا) فتح أبواب بيت الرب وطهَّر الكهنة بيت"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب، وأصعدوا ذبائح وأوقف حزقيا اللاويين للتسبيح، وعملوا فصحًا للرب، ودعا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل ويهوذا وأفرايم ومنسى وزبولون. ولما أكمل هذا (2 أي 31: 1) خرج كل إسرائيل"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى مدن يهوذا، وكسروا الأنصاب، وقطعوا السواري، وهدموا المرتفعات (1 مل 14: 23)."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُفظتْ هذه الحيّة سليمة لذكرى المعجزة، لكن بعد ذلك عُبِدَتْ كصنمٍ بواسطة أناس"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير مُخلِصين، حتى جاء حزقيا الذي استخدم سلطانه الديني في خدمة الله، حطَّمها،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبهذا نال شهرة عظيمة لتقواه[4]."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى الرَّبِّ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَهِ إِسْرَائِيلَ اتَّكَلَ،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَعْدَهُ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَمْ يَكُنْ مِثْلُهُ فِي جَمِيعِ مُلُوكِ يَهُوذَا،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ فِي"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ كَانُوا قَبْلَهُ. [5]"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فاق حزقيا"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك كل ملوك يهوذا السابقين له واللاحقين (عدا داود النبي)، والعجيب أن أباه آحاز"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان شريرًا، لكن شر أبيه لم يؤثر عليه، بل صار ذلك لتزكيته،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ رفض طريق أبيه الشرير من أجل الرب."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كانت مملكة"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشمال قد انهارت أمام أشور بسبب شرها وكسر الوصية الإلهية وخيانة العهد مع الله،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن حزقيا استطاع أن يصد أشور في عنفوان قوته بتقواه واتكاله على الله. لقد واجه"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحملة الأخيرة التي لسنحاريب عام 701 ق. م، ونال عونًا إلهيًا."
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْتَصَقَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِالرَّبِّ، وَلَمْ يَحِدْ عَنْهُ،"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَلْ حَفِظَ"
+    },
+    {
+      "section_title": "1. حزقيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَايَاهُ الَّتِي أَمَرَ بِهَا الرَّبُّ مُوسَى. [6]"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَانَ"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ مَعَهُ،"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَيْثُمَا"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانَ يَخْرُجُ كَانَ يَنْجَحُ."
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَصَى عَلَى مَلِكِ أَشُّورَ وَلَمْ يَتَعَبَّدْ لَهُ. [7]"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رفض حزقيا خدمة"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور في مذلة، كما انتصر على الفلسطينيين. هذا ساعد يهوذا كأُمة مستقلة أن تحمل قوة"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جديدة في المنطقة. ولم تعد يهوذا تعاني أو تخشى أي تهديد من الأمم المجاورة لها."
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت يهوذا تقع"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين القوتين العالميتين العظيمتين في ذلك الحين، وهما أشور ومصر. وكانت يهوذا تضم"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطرق الرئيسية في الشرق الأوسط للتجارة العالمية، لهذا كانت كل من أشور ومصر"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتنافسان على السيطرة على يهوذا."
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ومن جانب"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخر، كلما حدثت معارك بين القوتين، تمر إحدى الدولتين بيهوذا لتعبر إلى الأخرى"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتُخَرِّبها. كانت يهوذا تُحسَب كموقع يحمي كل دولة من الأخرى، بهذا فإن الدولة"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي تُسيطر على يهوذا تكسب ميزات"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقتصادية وعسكرية على منافسيها."
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما صار"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا ملكًا كانت يهوذا تحت سيطرة أشور، لكنه بإيمانه وبقوة الله عصى تلك"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإمبراطورية القوية، بالرغم من أنه بحسب الفكر البشري يستحيل عصيان أشور."
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما عصى ملك"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور في بداية ملكه، ولم يحاربه ملك أشور لارتباكه في حروب مع السامرة وصور ومصر،"
+    },
+    {
+      "section_title": "2. عصيانه على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربما لأن حزقيا ضرب الفلسطينيين وانتصر عليهم."
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ ضَرَبَ"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْفِلِسْطِينِيِّينَ إِلَى غَزَّةَ وَتُخُومِهَا،"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ بُرْجِ"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النَّوَاطِيرِ إِلَى الْمَدِينَةِ الْمُحَصَّنَةِ. [8]"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان سنحاريب قد"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطى قسمًا من يهوذا إلى ملك غزة. وربما كانت حرب حزقيا لاسترجاعه. كان بعض"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين مع ملك أشور، والبعض ضده، فحارب حزقيا الذين كانوا مع ملك أشور، وساعد"
+    },
+    {
+      "section_title": "3. ضرب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين كانوا عليه."
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوري للسامرة"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 وَفِي السَّنَةِ الرَّابِعَةِ لِلْمَلِكِ حَزَقِيَّا، وَهِيَ السَّنَةُ السَّابِعَةُ لِهُوشَعَ بْنِ أَيْلَةَ مَلِكِ إِسْرَائِيلَ، صَعِدَ شَلْمَنْأَسَرُ مَلِكُ أَشُّورَ عَلَى السَّامِرَةِ وَحَاصَرَهَا. 10 وَأَخَذُوهَا فِي نِهَايَةِ ثَلاَثِ سِنِينَ. فَفِي السَّنَةِ السَّادِسَةِ لِحَزَقِيَّا، وَهِيَ السَّنَةُ التَّاسِعَةُ لِهُوشَعَ مَلِكِ إِسْرَائِيلَ، أُخِذَتِ السَّامِرَةُ. 11 وَسَبَى مَلِكُ أَشُّورَ إِسْرَائِيلَ إِلَى أَشُّورَ، وَوَضَعَهُمْ فِي حَلَحَ وَخَابُورَ نَهْرِ جُوزَانَ وَفِي مُدُنِ مَادِي، 12 لأَنَّهُمْ لَمْ يَسْمَعُوا لِصَوْتِ الرَّبِّ إِلهِهِمْ، بَلْ تَجَاوَزُوا عَهْدَهُ وَكُلَّ مَا أَمَرَ بِهِ مُوسَى عَبْدُ الرَّبِّ، فَلَمْ يَسْمَعُوا وَلَمْ يَعْمَلُوا."
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ الرَّابِعَةِ لِلْمَلِكِ حَزَقِيَّا،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهِيَ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةُ السَّابِعَةُ لِهُوشَعَ بْنِ أَيْلَةَ مَلِكِ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَعِدَ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَلْمَنْأَسَرُ مَلِكُ أَشُّورَ عَلَى السَّامِرَةِ وَحَاصَرَهَا. [9]"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذُوهَا"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي نِهَايَةِ ثَلاَثِ سِنِينَ."
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَفِي"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ السَّادِسَةِ لِحَزَقِيَّا،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهِيَ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةُ التَّاسِعَةُ لِهُوشَعَ مَلِكِ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُخِذَتِ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّامِرَةُ. [10]"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَبَى مَلِكُ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشُّورَ إِسْرَائِيلَ إِلَى أَشُّورَ،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَضَعَهُمْ فِي حَلَحَ وَخَابُورَ نَهْرِ جُوزَانَ وَفِي مُدُنِ مَادِي [11]"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُمْ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لَمْ يَسْمَعُوا لِصَوْتِ الرَّبِّ إِلَهِهِمْ،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَلْ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَجَاوَزُوا عَهْدَهُ وَكُلَّ مَا أَمَرَ بِهِ مُوسَى عَبْدُ الرَّبِّ،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلَمْ"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَسْمَعُوا وَلَمْ يَعْمَلُوا. [12]"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"موسى عبد"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب\" كان أتقياء العهد القديم يعتزون بهذا اللقب بكونهم \"عبيد يهوه\" (مز 27: 9؛ 31: 16؛ 89: 50)، والآن إذ صار الكل في المسيح يسوع يتمتعون ببرّه وتقواه،"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتأهلون لهذا اللقب \"عبيد ليسوع المسيح\"، ويفخرون به دون سواه، الأمر الذي يشترك كل"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعضاء فيه. هذا وقد كان هذا اللقب يُنسَب بالأكثر لمن قاموا بدور في تاريخ الخلاص"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال خدمتهم ليهوه، مثل موسى [12]، ويشوع (قض 2: 8)، وإبراهيم (مز 105: 42). وكان بولس كرسول وهو مُفرَز لإنجيل الله يقوم بدور في تاريخ الخلاص، هو امتداد"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للدور الذي قام به آباء وأنبياء العهد القديم، لذا كثيرًا ما كان يدعو نفسه \"عبد"
+    },
+    {
+      "section_title": "4. السبي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليسوع المسيح\" (رو 1: 1؛ راجع غل 1: 10؛ في 1: 1؛ كو 4: 12)."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول لسنحاريب على يهوذا"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "13 وَفِي السَّنَةِ الرَّابِعَةَ عَشَرَةَ لِلْمَلِكِ حَزَقِيَّا، صَعِدَ سَنْحَارِيبُ مَلِكُ أَشُّورَ عَلَى جَمِيعِ مُدُنِ يَهُوذَا الْحَصِينَةِ وَأَخَذَهَا. 14 وَأَرْسَلَ حَزَقِيَّا مَلِكُ يَهُوذَا إِلَى مَلِكِ أَشُّورَ إِلَى لَخِيشَ يَقُولُ: «قَدْ أَخْطَأْتُ. ارْجعْ عَنِّي، وَمَهْمَا جَعَلْتَ عَلَيَّ حَمَلْتُهُ». فَوَضَعَ مَلِكُ أَشُّورَ عَلَى حَزَقِيَّا مَلِكِ يَهُوذَا ثَلاَثَ مِئَةِ وَزْنَةٍ مِنَ الْفِضَّةِ وَثَلاَثِينَ وَزْنَةً مِنَ الذَّهَبِ. 15 فَدَفَعَ حَزَقِيَّا جَمِيعَ الْفِضَّةِ الْمَوْجُودَةِ فِي بَيْتِ الرَّبِّ وَفِي خَزَائِنِ بَيْتِ الْمَلِكِ. 16 فِي ذلِكَ الزَّمَانِ قَشَّرَ حَزَقِيَّا الذَّهَبَ عَنْ أَبْوَابِ هَيْكَلِ الرَّبِّ وَالدَّعَائِمِ الَّتِي كَانَ قَدْ غَشَّاهَا حَزَقِيَّا مَلِكُ يَهُوذَا، وَدَفَعَهُ لِمَلِكِ أَشُّورَ."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ الرَّابِعَةَ عَشَرَةَ لِلْمَلِكِ حَزَقِيَّا،"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَعِدَ"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَنْحَارِيبُ مَلِكُ أَشُّورَ عَلَى جَمِيعِ مُدُنِ يَهُوذَا الْحَصِينَةِ"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذَهَا. [13]"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكم حزقيا مع"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه آحاز مدة من ثلاث عشرة سنة (729-716 ق.م)، وحكم منفردًا ثماني عشرة سنة"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(716-796 ق.م)، ومع ابنه منسى إحدى عشر سنة (796-686 ق.م) فكانت كل مدة حكمه 43"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنة. أما مدة التسع والعشرين سنة المُدوَّنة في (2 مل 1:18-2) فتشير إلى المدة التي"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لحزقيا فيها السيطرة الكاملة على المملكة. السنة الرابعة"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عشر لحزقيا الملك وهو منفرد بالحكم كانت تقابل 701 ق.م."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاصيل حالة"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التمرُّد العامة التي جعلت سنحاريب يهاجم الجزء الغربي من إمبراطوريته سُجِّلتْ في"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سجلاته، وفيها جاء عن حزقيا الذي انشغل بكل شئونه."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث ذلك في عام 701 ق.م بعد أربع سنوات من جلوس سنحاريب على عرش أشور، وكان سنحاريب ابنًا لسرجون"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني، الملك الذي أخذ شعب إسرائيل إلى السبي، ولكي يمنع ملك يهوذا أشور من مهاجمة"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكته كان يدفع له جزية سنوية. وعندما أصبح سنحاريب ملكًا أوقف حزقيا دفع الجزية."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعندما انتقم سنحاريب وجيشه أدرك حزقيا خطأه ودفع الجزية [14]، لكن سنحاريب هاجمه"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[19-25]. ومع أن سنحاريب هاجم يهوذا إلا أنه لم يكن مولعًا بالحرب مثل ملوك أشور"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السابقين، إذ كان يُفَضِّل أن يصرف معظم وقته في بناء عاصمة نينوى وتجميلها مع"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيام بغزوات أقل. هكذا استطاع حزقيا أن يقوم بإصلاحاته الكثيرة وتقوية مملكته."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما ورد هنا حتى"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهاية الأصحاح العشرين يُشبه مضمون ما ورد في (إشعياء 36) إلى (إش 39). ذكرها في سفر"
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء، لعلاقتهما الضرورية بالنبوات السابقة بشأن أشور مع الحوادث التاريخية."
+    },
+    {
+      "section_title": "5. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما ورد في"
+    },
+    {
+      "section_title": "الملوك الثاني ولم يرد في إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخبر بتسليم"
+    },
+    {
+      "section_title": "الملوك الثاني ولم يرد في إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا وتأديته الجزية لمَلِك أشور [14-16]."
+    },
+    {
+      "section_title": "الملوك الثاني ولم يرد في إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما ورد في"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسبيح حزقيا"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد شفائه (إش 38: 9-20)."
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما سبق أن قيل إن سنحاريب هو رمز للشيطان، وقد أكد هذا الافتراض بالكلمات الواردة"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في هذه العبارة والتي تكلم بها ربشاقى في تشامخٍ ضد الله، عندما قدَّم وعودًا كاذبة"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للشعب، محاولاً أن ينزع عن الله مديح قوته السامية، وتقديم تأكيد بأرضٍ خصبة"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومحاصيل بوفرة، حتى يحثهم على ترك المنطقة التي وهبهم الله إيّاها، وأن يرحلوا إلى"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مسكن جديد يعد به الأشوريون."
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحيلة مشابهة"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسعى رسل الشيطان وشركاؤه إلى خداع النفس البسيطة. ولهذا السبب فإنه في المركز"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأول يحاولون أن يقتلعوا كل الأفكار التي توحي بها العناية[5]."
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديس أفرام السرياني"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَ"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا مَلِكُ يَهُوذَا إِلَى مَلِكِ أَشُّورَ إِلَى لَخِيشَ يَقُولُ:"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدْ"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَخْطَأْتُ. ارْجِعْ عَنِّي،"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَهْمَا"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَعَلْتَ عَلَيَّ حَمَلْتُهُ."
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَوَضَعَ"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلِكُ أَشُّورَ عَلَى حَزَقِيَّا مَلِكِ يَهُوذَا،"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثَلاَثَ"
+    },
+    {
+      "section_title": "إشعياء دون الملوك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِئَةِ وَزْنَةٍ مِنَ الْفِضَّةِ وَثَلاَثِينَ وَزْنَةً مِنَ الذَّهَبِ. [14]"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تم العثور"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين بقايا قصر نينوى للملك الأشوري سنحاريب على بقايا طولها 62 قَدَمًا تُصوِّر"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقوط حصن لخيش عام 701 ق. م على مدى 100 عام قبل الهجوم على يهوذا وسقوطها."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشهد حفريات"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قصر نينوى لهزيمة لخيش في السجل الإنجيلي الخاص بحصار"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا في أيام الملك"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا. يقول الكتاب في (2 مل 13:18) \"وفي السنة الرابعة"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عشرة للملك حزقيا صعد سنحاريب ملك أشور على جميع مدن يهوذا الحصينة وأخذها\"،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن قبل أن يستطيع الأشوريون الاستيلاء على"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل، دمرهم الرب بـ\"مَلاَكَ الرَّبِّ\" وانسحب سنحاريب (2 مل 19: 35؛ 2 أي 32)."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ رفض حزقيا"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخنوع لأشور، الآن تهدده أشور بجيشها. جاءت سجلات سنحاريب تُصوِّر الهجوم الشامل"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على يهوذا. وإذ شعر حزقيا بالخطر المُحدِق به، وقد تم حصار لخيش، استسلم ووضعت أشور"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جزية ثقيلة. هذا الاستسلام جعل سنحاريب"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطمع بالأكثر، فحاصر أورشليم"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 18: 13 - 19: 30)."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عادوا بالكل"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى ذكريات أو إلى حالة عبر عليها قرابة قرن من الزمان. قدَّموا لهم حالة ميخا"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المورشتي (مي 3: 12) مثلاً، الذي"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكلمات مشابهة وقد سمع له الملك حزقيا (716-687 ق.م) والشعب، ولم يزدروا بكلماته،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل خافوا الرب وطلبوا وجهه، فتمتعوا بالمراحم الإلهية."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمح الله بهذا"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الضيق في أيام حزقيا الذي قام بإصلاحات كثيرة وسط الشعب وإن كان كثيرون - خاصة من"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القادة الدينيين والمدنيين - اهتموا بالإصلاح الخارجي دون الداخلي، فاهتموا"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالشكليات دون الحياة القدسية، وقد أراد الله أن يُزكِّي حزقيا، ويُحوِّل الضيق إلى"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمجيده. هذا ومن جانب آخر أراد أن يكشف عن ضعف حزقيا أمام نفسه، فقد خانته شجاعته،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يكن اتكاله على الله كاملاً. بالتجربة اعترف بضعفه وزاد إيمانه بالله وثقته"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيه."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَدَفَعَ"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا جَمِيعَ الْفِضَّةِ الْمَوْجُودَةِ فِي بَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَزَائِنِ بَيْتِ الْمَلِكِ. [15]"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النير الذي"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضعه أشور هو الجزية التي فرضها سنحاريب على حزقيا [14]. نقل كميات ضخمة"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الفضة والذهب والأشياء الثمينة من الهيكل إلى أشور، تبعه ما فعله يهوآش ملك"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل باقتحامه أورشليم وهدم جزء كبير من السور وسلب ما في خزائن الهيكل (2 مل 14: 14)."
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي ذَلِكَ"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزَّمَانِ قَشَّرَ حَزَقِيَّا الذَّهَبَ عَنْ أَبْوَابِ هَيْكَلِ الرَّب،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالدَّعَائِمِ"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّتِي كَانَ قَدْ غَشَّاهَا حَزَقِيَّا مَلِكُ يَهُوذَا،"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَفَعَهُ"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِمَلِكِ أَشُّورَ. [16]"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت الأولوية"
+    },
+    {
+      "section_title": "لخيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في ذهن حزقيا الملك ليس لذهب الهيكل، بل لحفظ بقية يهوذا (2 مل 19: 4)."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني لسنحاريب"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "17 وَأَرْسَلَ مَلِكُ أَشُّورَ تَرْتَانَ وَرَبْسَارِيسَ وَرَبْشَاقَى مِنْ لَخِيشَ إِلَى الْمَلِكِ حَزَقِيَّا بِجَيْشٍ عَظِيمٍ إِلَى أُورُشَلِيمَ، فَصَعِدُوا وَأَتَوْا إِلَى أُورُشَلِيمَ. وَلَمَّا صَعِدُوا جَاءُوا وَوَقَفُوا عِنْدَ قَنَاةِ الْبِرْكَةِ الْعُلْيَا الَّتِي فِي طَرِيقِ حَقْلِ الْقَصَّارِ. 18 وَدَعَوْا الْمَلِكَ، فَخَرَجَ إِلَيْهِمْ أَلِيَاقِيمُ بْنُ حِلْقِيَّا الَّذِي عَلَى الْبَيْتِ وَشِبْنَةُ الْكَاتِبُ وَيُواخُ بْنُ آسَافَ الْمُسَجِّلُ. 19 فَقَالَ لَهُمْ رَبْشَاقَى: «قُولُوا لِحَزَقِيَّا: هكَذَا يَقُولُ الْمَلِكُ الْعَظِيمُ مَلِكُ أَشُّورَ: مَا الاتِّكَالُ الَّذِي اتَّكَلْتَ؟ 20 قُلْتَ إِنَّمَا كَلاَمُ الشَّفَتَيْنِ هُوَ مَشُورَةٌ وَبَأْسٌ لِلْحَرْبِ. وَالآنَ عَلَى مَنِ اتَّكَلْتَ حَتَّى عَصَيْتَ عَلَيَّ؟ 21 فَالآنَ هُوَذَا قَدِ اتَّكَلْتَ عَلَى عُكَّازِ هذِهِ الْقَصَبَةِ الْمَرْضُوضَةِ، عَلَى مِصْرَ، الَّتِي إِذَا تَوَكَّأَ أَحَدٌ عَلَيْهَا، دَخَلَتْ فِي كَفِّهِ وَثَقَبَتْهَا! هكَذَا هُوَ فِرْعَوْنُ مَلِكُ مِصْرَ لِجَمِيعِ الْمُتَّكِلِينَ عَلَيْهِ. 22 وَإِذَا قُلْتُمْ لِي: عَلَى الرَّبِّ إِلهِنَا اتَّكَلْنَا، أَفَلَيْسَ هُوَ الَّذِي أَزَالَ حَزَقِيَّا مُرْتَفَعَاتِهِ وَمَذَابِحَهُ، وَقَالَ لِيَهُوذَا وَلأُورُشَلِيمَ: أَمَامَ هذَا الْمَذْبَحِ تَسْجُدُونَ فِي أُورُشَلِيمَ؟ 23 وَالآنَ رَاهِنْ سَيِّدِي مَلِكَ أَشُّورَ، فَأُعْطِيَكَ أَلْفَيْ فَرَسٍ إِنْ كُنْتَ تَقْدِرُ أَنْ تَجْعَلَ عَلَيْهَا رَاكِبِينَ. 24 فَكَيْفَ تَرُدُّ وَجْهَ وَال وَاحِدٍ مِنْ عَبِيدِ سَيِّدِي الصِّغَارِ، وَتَتَّكِلُ عَلَى مِصْرَ لأَجْلِ مَرْكَبَاتٍ وَفُرْسَانٍ؟ 25 وَالآنَ هَلْ بِدُونِ الرَّبِّ صَعِدْتُ عَلَى هذَا الْمَوْضِعِ لأَخْرِبَهُ؟ اَلرَّبُّ قَالَ لِي اصْعَدْ عَلَى هذِهِ الأَرْضِ وَاخْرِبْهَا». 26 فَقَالَ أَلِيَاقِيمُ بْنُ حِلْقِيَّا وَشِبْنَةُ وَيُواخُ لِرَبْشَاقَى: «كَلِّمْ عَبِيدَكَ بِالأَرَامِيِّ لأَنَّنَا نَفْهَمُهُ، وَلاَ تُكَلِّمْنَا بِالْيَهُودِيِّ فِي مَسَامِعِ الشَّعْبِ الَّذِينَ عَلَى السُّورِ». 27 فَقَالَ لَهُمْ رَبْشَاقَى: «هَلْ إِلَى سَيِّدِكَ وَإِلَيْكَ أَرْسَلَنِي سَيِّدِي لِكَيْ أَتَكَلَّمَ بِهذَا الْكَلاَمِ؟ أَلَيْسَ إِلَى الرِّجَالِ الْجَالِسِينَ عَلَى السُّورِ لِيَأْكُلُوا عَذِرَتَهُمْ وَيَشْرَبُوا بَوْلَهُمْ مَعَكُمْ؟» 28 ثُمَّ وَقَفَ رَبْشَاقَى وَنَادَى بِصَوْتٍ عَظِيمٍ بِالْيَهُودِيِّ وَتَكَلَّمَ قَائِلًا: «اسْمَعُوا كَلاَمَ الْمَلِكِ الْعَظِيمِ مَلِكِ أَشُّورَ. 29 هكَذَا يَقُولُ الْمَلِكُ: لاَ يَخْدَعْكُمْ حَزَقِيَّا، لأَنَّهُ لاَ يَقْدِرُ أَنْ يُنْقِذَكُمْ مِنْ يَدِهِ، 30 وَلاَ يَجْعَلْكُمْ حَزَقِيَّا تَتَّكِلُونَ عَلَى الرَّبِّ قَائِلًا: إِنْقَاذًا يُنْقِذُنَا الرَّبُّ وَلاَ تُدْفَعُ هذِهِ الْمَدِينَةُ إِلَى يَدِ مَلِكِ أَشُّورَ. 31 لاَ تَسْمَعُوا لِحَزَقِيَّا. لأَنَّهُ هكَذَا يَقُولُ مَلِكُ أَشُّورَ: اعْقِدُوا مَعِي صُلْحًا، وَاخْرُجُوا إِلَيَّ، وَكُلُوا كُلُّ وَاحِدٍ مِنْ جَفْنَتِهِ وَكُلُّ وَاحِدٍ مِنْ تِينَتِهِ، وَاشْرَبُوا كُلُّ وَاحِدٍ مَاءَ بِئْرِهِ 32 حَتَّى آتِيَ وَآخُذَكُمْ إِلَى أَرْضٍ كَأَرْضِكُمْ، أَرْضَ حِنْطَةٍ وَخَمْرٍ، أَرْضَ خُبْزٍ وَكُرُومٍ، أَرْضَ زَيْتُونٍ وَعَسَل وَاحْيَوْا وَلاَ تَمُوتُوا. وَلاَ تَسْمَعُوا لِحَزَقِيَّا لأَنَّهُ يَغُرُّكُمْ قَائِلًا: الرَّبُّ يُنْقِذُنَا. 33 هَلْ أَنْقَذَ آلِهَةُ الأُمَمِ كُلُّ وَاحِدٍ أَرْضَهُ مِنْ يَدِ مَلِكِ أَشُّورَ؟ 34 أَيْنَ آلِهَةُ حَمَاةَ وَأَرْفَادَ؟ أَيْنَ آلِهَةُ سَفَرْوَايِمَ وَهَيْنَعَ وَعِوَّا؟ هَلْ أَنْقَذُوا السَّامِرَةَ مِنْ يَدِي؟ 35 مَنْ مِنْ كُلِّ آلِهَةِ الأَرَاضِي أَنْقَذَ أَرْضَهُمْ مِنْ يَدِي، حَتَّى يُنْقِذَ الرَّبُّ أُورُشَلِيمَ مِنْ يَدِي؟». 36 فَسَكَتَ الشَّعْبُ وَلَمْ يُجِيبُوهُ بِكَلِمَةٍ، لأَنَّ أَمْرَ الْمَلِكِ كَانَ قَائِلًا: «لاَ تُجِيبُوهُ». 37 فَجَاءَ أَلِيَاقِيمُ بْنُ حِلْقِيَّا الَّذِي عَلَى الْبَيْتِ وَشِبْنَةُ الْكَاتِبُ وَيُوَاخُ بْنُ آسَافَ الْمُسَجِّلُ إِلَى حَزَقِيَّا وَثِيَابُهُمْ مُمَزَّقَةٌ، فَأَخْبَرُوهُ بِكَلاَمِ رَبْشَاقَى."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَ"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلِكُ أَشُّورَ تَرْتَانَ وَرَبْسَارِيسَ وَرَبْشَاقَى مِنْ لَخِيشَ إِلَى"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكِ حَزَقِيَّا بِجَيْشٍ عَظِيمٍ إِلَى أُورُشَلِيمَ،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَصَعِدُوا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَتُوا إِلَى أُورُشَلِيمَ."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمَّا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَعِدُوا جَاءُوا وَوَقَفُوا عِنْدَ قَنَاةِ الْبِرْكَةِ الْعُلْيَا الَّتِي فِي"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طَرِيقِ حَقْلِ الْقَصَّارِ. [17]"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ترتان"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وربساريس وربشاقى في مراكز كبرى في جيش أشور العظيم. كان تعداد جيش أشور يُعتبَر"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أضخم جيش وُجِدَ في الشرق الأوسط قديمًا. عَسْكَرَ هذا الجيش في يهوذا."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان حقل"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القصار في شمال غرب ركن المدينة، فكانت المنطقة قابلة للسقوط عند أي هجوم."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى ليس اسمًا لشخصٍ، إنما هو لقب يعادل \"رئيس سقاة\"، يتذوق الخمر قبل أن يشرب"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منه الملك حتى لا يتعرَّض الملك للتسمم، كما كان يقوم بأدوار أخرى رئيسية في القصر"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملكي."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نكث سنحاريب"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد، فقد دفع حزقيا مبلغًا كبيرًا ليترك الأرض ومع ذلك أرسل جيشه لاقتحامها [4، 17]."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدَّعي اليهود أن ربشاقى الذي تحدث باللغة العبرية هو ابن النبي إشعياء وهو نفسه"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان خائنًا، وأن لإشعياء ابن آخر يُدعَى ياشوب (إش 7: 3) الذي تحدث أيضًا بلساننا."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى آخرون أن"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(ربشاقى) كان سامريًا، ولهذا كان يعرف اللغة العبرية، وجدَّف على الرب بوقاحةٍ"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعقوقٍ هكذا. لهذا يليق بنا أن نتطلع إلى كلمات ربشاقى أنها باطلة[6]."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَعُوا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكَ،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَخَرَجَ"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَيْهِمْ أَلِيَاقِيمُ بْنُ حِلْقِيَّا الَّذِي عَلَى الْبَيْتِ،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشِبْنَةُ"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَاتِبُ وَيُواخُ بْنُ آسَافَ الْمُسَجِّلُ. [18]"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أجرى حزقيا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إصلاحات دينية ومدنية، وكانت له علاقة نامية مع الله. نما في حياة الصلاة القوية،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحسبه سفر الأمثال بطلاً (أم 1:25). أما من نقاط ضعفه فهي عدم الحكمة في التخطيط"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للمستقبل لحفظ الميراث الروحي للأجيال التالية. كما تهور في استعراض كل ثروته لرسل"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك بابل."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ألياقيم"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو مُدبِّر شئون القصر الأول (2 مل 15: 5)(*)."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول دميان"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماكي إنه على ضوء ما ورد في يهوديت، أن ألياقيم كان كبير موظفي القصر"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Major-domo"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو كبير التشريفات في البلاط الملكي، وكان يقوم بإدارة أمور القصر، فإن كلمة \"بيت\""
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 18:18) يُعنَى بها \"القصر الملكي\"، وإن كانت تُستخدَم أيضًا بالنسبة للهيكل"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كبيت الرب."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى دميان ماكي"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم (كما جاء في نص Douay)"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام بإثارة الشعب كملكٍ، وذلك كما فعل الملك حزقيا عندما حاول سنحاريب غزو أورشليم"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 أي 32: 2-8). وأنه هو"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم بن حلقيا الذي على البيت (2 مل 18:18؛ إش 36: 3)."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد ورد اسمه في السجلات الأشورية اليميتي Akhi"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عوض Elikim،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنه كان حاكم أشدود أو لخيش. لذا يرى البعض أنه كان رئيس كهنة سابق وقد عُيِّن"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيسًا على لخيش، لكنه في ذاك الوقت كان في أورشليم التي لم تكن مسكنه الدائم. وكان"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتولى الحكم على حصن لخيش الحصين سلسلة من رؤساء الكهنة السابقين كما على غيرها من"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المواقع كما يظهر من (1 مل 4: 2)"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام الملك"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سليمان."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشتاق"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير أن يكون كل مؤمنٍ ألياقيم الجديد، إذ يرى في كل"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان يتمتع بالحياة المقامة المجيدة في كنيسة المسيح هو"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يقول: \"أني أدعو عبدي ألياقيم\" (إش 22: 20)، فإن اسم"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم معناه \"قيامة"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله\"، لهذا فإن كل من هو ممجد في بيت أبيه يثق فيه [ألياقيم]. ومن هم المُمجَّدون"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هناك؟ أولئك الذين وضعوا ثقتهم في المسيح، والذين ليسوا ممجدين حسب حكم هذا العالم."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على العكس قد يكونون أصاغر حسب هذا الحكم. أما الله فعادل غير مجحفٍ. إنه يرد لكل"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدٍ حسب قياس قامته الروحية (نضوجه)، وبهذا فإن البعض هم آباء، بينما الآخرون لا"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يزالون يَحْبون (في المشي) ورضَّع ومراهقين[7]."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم بن حلقيا، الذي كان مديرًا للبيت، خرج إليه، وأيضًا شبنة الكاتب ويواخ بن"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آساف المُسجِّل. إنه نفس ألياقيم بن حلقيا الذي نقرأ عنه في رؤيا وادي صهيون: \"أني"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدعو عبدي ألياقيم بن حلقيا، وألبسه ثوبكَ، وأشده بمنطقتك، وأجعل سلطانك في يده،"
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكون أبًا لسكان أورشليم ولبيت يهوذا\" (إش 22: 20-21)[8]."
+    },
+    {
+      "section_title": "6. الهجوم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختلفت"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآراء من جهة مركز"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شبنة في قصر حزقيا الملك، هنا يبدو أنه المسئول عن خزينة الملك."
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دُعي بالكاتب، ويرى البعض أنه مشير للملك أو كبير حجاب القصر أو وزير. على أي"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأحوال كان ذا سلطان عظيم. ويبدو أنه كان غريب الجنس. أراد أن يُخَلِّد ذكراه،"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنحت لنفسه قبرًا عظيمًا في ذات الصخرة التي دفن فيها ملوك يهوذا. كان رجلاً"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شريرًا، فوبَّخه إشعياء ودعاه \"خِزْيَ بَيْتِ [الملك]\"(**)، كما تنبأ عن عزله وإقامة الياقيم"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عوضًا عنه، وقد تحقق ذلك حوالي سنة 701 ق.م."
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم أن"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شبنة المذكور هنا الكاتب والذي في صحبة ألياقيم بن حلقيا وبراخ بن"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آساف المُسجِّل، وهو غير شبنة المذكور في (إش 22: 15)، الذي وبَّخه إشعياء النبي"
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ودعاه \"خزي بيت الملك (سيدك)\" (إِش 22: 18)."
+    },
+    {
+      "section_title": "شبنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ لَهُمْ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُولُوا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِحَزَقِيَّا: هَكَذَا يَقُولُ الْمَلِكُ الْعَظِيمُ مَلِكُ أَشُّورَ."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاِتِّكَالُ الَّذِي اتَّكَلْتَ؟ [19]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لقب \"الملك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العظيم\" يُستخدَم في الشرق الأوسط بأنه صاحب القوة العظمى في المنطقة. ما يقوله"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى هو أن أمام ملك أشور لا يوجد الملك العظيم في الشرق الأوسط، لأنه هو الملك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العظيم في كل مكانٍ."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم[9]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن ربشاقى إنسان جسور ووقح بقوله هذه العبارة: \"هكذا يقول الملك العظيم ملك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور\"؛ إذ يحسب نفسه قوة مضادة لله، فكما اعتاد الأنبياء أن يقولوا: \"هكذا يقول"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب\"، وهم يتكلمون بقوة وسلطان المتكلم الآن يفعل نفس الشيء، وكأن ملك أشور العظيم"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبعث برسوله كما يبعث الله أنبياءه. كأن ربشاقى يحسب نفسه على مستوى الأنبياء وملك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور على مستوى الله نفسه، بل ويحسب نفسه قادرًا على الدخول في تحدٍ لله."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل إنه"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(ناحوم) هرب إلى يهوذا أثناء الغزو الأشوري على إسرائيل؛ ربما أقام في أورشليم حيث"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهد بعد 7 سنوات حصارها بواسطة سنحاريب ملك أشور، وقد هلك الأشوريون، فمات 185,000 نسمة (2 مل 19: 35؛ نا 1: 10-11) في ليلة واحدة."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤكد الرب"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحزقيا الملك ورجاله أن الله يكسر نير سنحاريب وجيشه ويقطع ربطه، حيث كان جيش"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوريين يقتحم الكثير من مدن يهوذا وقراها، يعبث بها في حرية بعنفٍ، وأورشليم"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاجزة عن الدفاع عن هذه المواضع، إذ كانت أشبه بمدينة مربوطة ومُقيَّدة. ستتمتع"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحرية، فلا يقوم جيش أشور بهجوم آخر حيث تخور قوته بقتل 185 ألفًا بواسطة ملاك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب، ويصير الجيش كأنه قد انقرض، لا قوة له."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[ما الاتكال"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي اتكلت عليه؟] لقد وجَّه قائد أشور هذا السؤال لشعب بني إسرائيل. وثق آحاز"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مصر وتحالف معها لتحميه من أشور وكانت النتيجة السقوط في الأسر، ووَضَع حزقيا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثقته في الله، فرُفِعَ عنه الحصار."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بالمؤمن"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنا مثل آحاز أم مثل حزقيا؟"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليوم ما الاتكال الذي أتكل عليه؟ المال أم الثقافة أم المركز الاجتماعي أم القوة"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أم التقدُّم العلمي"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلخ.؟ هذه كلها"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عطايا إلهية، تتقدَّس إن التصقنا بالله، واتكلنا عليه."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد أن استولى"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنحاريب ملك أشور فعلاً على مدن كثيرة كان يُجدِّف بوابلٍ من التهديدات ضد إسرائيل"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال ربشاقى، وليس ما حوَّله عن هدفه وأرسله إلى الأثيوبيين سوى الصوم. بعد ذلك ما"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي أهلك مئة ألف وخمسة وثمانين ألفًا من جيشه بيد الملاك، إلا تواضع حزقيا الملك؟[10]"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُلْتَ"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنَّمَا كَلاَمُ الشَّفَتَيْنِ هُوَ مَشُورَةٌ وَبَأْسٌ لِلْحَرْبِ."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى مَنِ اتَّكَلْتَ حَتَّى عَصَيْتَ عَلَيَّ؟ [20]"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَن يتجاسر ويقول بأنه ليس إله، هو عديم الفطنة وجاهل. هذه هي سمة ربساريس وربشاقى،"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنهما قالا هكذا: [هل أنقذ آلهة الأمم بلادهم والمتعبدين لهم، فكيف يحميكم إلهكم"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحمي مدينتكم؟!] أما بقلبيهما وضميرهما، فقالا إنه ليس إله. فالنبي بإلهام الروح"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدس سبق وعلم ما في ضميرهما (2 مل 18)."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيضًا نقول إن"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين ينكرون لاهوت المسيح هم جهال، لأن هدفهم أن ينقضوا عظائمه الظاهرة التي تثبت"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاهوته."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيضًا الذين"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقولون نعم الله موجود، خالق البداية، لكنه لا يهتم بها؛ هؤلاء يتكلون على القدرة"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البشرية، وهم جهال."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب أنسيمُس الأورشليمي"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَالآنَ"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَذَا قَدِ اتَّكَلْتَ عَلَى عُكَّازِ هَذِهِ الْقَصَبَةِ الْمَرْضُوضَةِ،"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِصْرَ، الَّتِي إِذَا تَوَكَّأَ أَحَدٌ عَلَيْهَا دَخَلَتْ فِي كَفِّهِ"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَثَقَبَتْهَا!"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ فِرْعَوْنُ مَلِكُ مِصْرَ لِجَمِيعِ الْمُتَّكِلِينَ عَلَيْهِ. [21]"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كانت أشور"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتطلع إلى مصر بأنها القوة المنافسة لها، لذا توقع ربشاقى أن حزقيا سيلجأ إلى مصر"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحمايته من أشور. وكما يقول ثيؤدورت أسقف كورش[11]"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن ربشاقى في هذا المثل يتهم المصريين بالضعف والشر، فهم يشبهون قصبةً، بل وقصبة"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرضوضة. هم ضعفاء كالقصبة التي تنبت على شاطئ النهر لا حول لها ولا قوة، عاجزة عن"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدفاع عن نفسها، فكيف تحمي غيرها، ومرضوضة، أي شريرة فمن يتكئ عليها تؤذي كفه[12]."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت مصر ليس"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقط على النيل كمصدر خيرات لها، إنما أيضًا كانت أحيانًا تتعبد له كإله. في مناطق"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرة كان على شاطئ النيل قصب. لهذا حذرت أشور حزقيا من الاتكال على مصر، فإن قصب"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النيل مرضوض، من يتكئ عليه بيده يسبب جراحات لليد بدلاً من تقديم عونٍ له. لقد"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم إشعياء النبي ذات التحذير (إش 30: 3-5؛ 31: 1-3) بتشبيهات مختلفة."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال هذا الضيق"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ندرك بطلان سعيّنا وراء الآخرين، إذ نقترب من المحبين فلا ندركهم، ونفتش عليهم ولا"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نجدهم. من هم هؤلاء المُحبُّون؟ ربما قصد بهم ملك أشور وفرعون مصر ومن هم على"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمثالهما، فالتحالف مع واحد منهم خوفًا من الغير هو تحالف باطل، فهؤلاء يعملون"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لمصلحتهم الخاصة، ويستغلون إسرائيل ويهوذا دون مساعدتهم في وقت الضيق. إنهم مثل"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"عُكَّازِ... الْقَصَبَةِ الْمَرْضُوضَةِ\" [21]. ولعله قصد بالمُحِبِّين أيضًا البعل والعشتاروت وما رافق العبادة الوثنية من سحر. هذه جميعها التي كرَّس إسرائيل حياته"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وطاقاته وكل مشاعره لها مع أنها لا تقدر أن تُنقِذَه أو تُخَلِّصه."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم في تفسيره لسفر إشعياء أن ربشاقى في حديثه هذا المُوجَّه للملك حزقيا خلط"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحقائق مع الأباطيل الكاذبة. مع قوله: \"هوذا قد اتكلت على عكاز هذه القصبة"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرضوضة\" [21] لا نجد في التاريخ أن حزقيا أرسل إلى مصر ليجعل من فرعون مُعِينًا"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له. ربما ذكر هذا كنوع من الحدس أو التخمين، بأن الملجأ الرئيسي لمن يهاجمه أشور هو"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الالتجاء إلى القوة المضادة لهم وهي مصر[13]."
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَإِذَا"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُلْتُمْ لِي: عَلَى الرَّبِّ إِلَهِنَا اتَّكَلْنَا،"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَفَلَيْسَ"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ الَّذِي أَزَالَ حَزَقِيَّا مُرْتَفَعَاتِهِ وَمَذَابِحَهُ،"
+    },
+    {
+      "section_title": "أن يسأل نفسه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَامَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَذَا الْمَذْبَحِ تَسْجُدُونَ فِي أُورُشَلِيمَ؟ [22]"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت كلمات"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى بخصوص اتكال حزقيا على إلهه كرد فعل لشهرة حزقيا كإنسانٍ تقيٍ يعبد الرب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويثق فيه [5]. هكذا بدأ ربشاقى بحرب نفسية ضد حزقيا، حيث أوضح له أنه لا يوجد على"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرض ولا في السماء من يُخلِّصه من يد أشور."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال أيضًا"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى الحق: \"وإذا قلتم على الرب إلهنا اتكلنا، أفليس هو الذي أزال مرتفعاته"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومذابحه، وقال ليهوذا ولأورشليم: أمام هذا المذبح تسجدون في أورشليم\" [22]. فإن هذا"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدث فعلاً إذ أزال المرتفعات والمذابح حتى التي كانوا يعبدون فيها الرب الإله،"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنها تدنست بالخلط بين عبادة الله والأصنام، فأراد حزقيا أن يُحَطِّم كل ما هو"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُعْثِر، وما يفتح الطريق للعبادة الوثنية. لكن ربشاقى صوَّر هذا كأنه ضد عبادة"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وليس لحساب تنقية العبادة للرب."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى ثيؤدورت"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقف كورش أن ربشاقى هنا يتهم حزقيا الملك الذي يدَّعي بأنه يتكل على الله، هو"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه يخطئ في حق الله، فقد أزال أماكن العبادة التي لله على المرتفعات مع أماكن"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبادة الوثنية، وأنه حدَّد العبادة أن تتم في الهيكل في أورشليم وكأن ربشاقى"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُخطِّئ حزقيا الذي لم يفعل مثل غيره من الملوك السابقين له، الذين عبدوا الرب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتركوا المرتفعات لأن بها أماكن مخصصة للرب[14]."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَاهِنْ سَيِّدِي مَلِكَ أَشُّورَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأُعْطِيَكَ أَلْفَيْ فَرَسٍ إِنْ كُنْتَ تَقْدِرُ أَنْ تَجْعَلَ عَلَيْهَا"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَاكِبِينَ. [23]"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في شيء من"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاستخفاف والسخرية بحزقيا، قال ربشاقى إنه مستعد أن يُقدِّم له ألفين من الخيل، إن"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يجد عنده 2000 شخص قادرين على استخدام الخيل في المعارك. في سخرية يعني أن"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا ليس له هذا العدد من الرجال، أو أن جيشه غير مُدرَّب على قيادة الخيل في"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعارك."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَكَيْفَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَرُدُّ وَجْهَ وَالٍ وَاحِدٍ مِنْ عَبِيدِ سَيِّدِي الصِّغَارِ،"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتَتَّكِلُ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى مِصْرَ لأَجْلِ مَرْكَبَاتٍ وَفُرْسَانٍ؟ [24]"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى ثيؤدورت"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقف كورش عبارة أن الوالي الواحد من عبيد سيده – جاءت في السبعينية لتعني"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأراميين، فإذ أرادات دمشق أن تهاجم حزقيا خاف منها ولجأ إلى أشور ودفع لها جزية"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتحميه، وهي تُمَثِّل واليًا واحدًا من عبيد ملك أشور، فلماذا يلجأ إلى مصر لتحميه"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من ملك أشور نفسه؟![15]"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكي يوضح ربشاقى عجز (حزقيا) على الدخول في رهينة، وعده بألفي فرسٍ إن وجد حزقيا"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راكبين لها. لم يقل هذا عن غباوة، إنما لإلتصاقه بالشعب اليهودي الذي ينقصه معرفة"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ركوب الخيل، وإنما من أجل إدراكه لوصايا الله التي أمر بها بواسطة موسى عن ملك"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل: \"لا يكثر له الخيل... ولا يكثر له نساء\" (تث 17: 16-17). لكن ربشاقى قال:"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[إن كنت لا تقدر أن تقف أمامي، أنا خادم سنحاريب، بل أنا الأخير في خدامه، فكيف"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ستقف أمام قوة الملك العظيمة]؟ الإجابة المتوقعة من حزقيا هي: \"نحن نتكِّل على الرب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهنا\". لذلك بمهارة جاءت إجابة ربشاقى أنه لم يأتٍ من نفسه، إنما جاء بناء على طلب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب. \"الرب قال لي: اصعد على هذه الأرض واخربها\" [25]. هذه باختصار حجته:"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنني ما كنتُ أستطيع أن آتي لو لم تكن هذه هي إرادة الرب. ولكن إذ جئت واستوليت على"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدن كثيرة، فإن كانت أورشليم لم تُمس بعد، فمن الواضح أن هذه إرادته أن أجيء[16]."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ هَلْ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِدُونِ الرَّبِّ صَعِدْتُ عَلَى هَذَا الْمَوْضِعِ لأَخْرِبَهُ؟"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَالَ لِي اصْعَدْ عَلَى هَذِهِ الأَرْضِ وَاخْرِبْهَا. [25]"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو أنه قد"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلغ الأشوريين النبوات الخاصة بأحكام الله التأديبية لشعبه (إش 10: 5-11)، لذلك حسب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى أن هذه الحملة لمهاجمة يهوذا هي بسماح من الله. بهذا أراد أن يبث الرعب في"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوب سكان أورشليم (2 أي 32: 18)، بأنه حتى الله إلههم يقف ضدهم."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى ثيؤدورت"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقف كورش أن ربشاقى لم يكن أشوريًا، لأن حديثه هنا يكشف عن شخصه أنه ليس بغريب"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن إسرائيل، إذ أدرك أن تسليم الأسباط العشرة للأسر الأشوري هو بأمر إلهي لتأديبهم"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقاومتهم لله."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلِيَاقِيمُ بْنُ حِلْقِيَّا وَشِبْنَةُ وَيُواخُ لِرَبْشَاقَى:"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَلِّمْ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَبِيدَكَ بِالأراميِّ لأَنَّنَا نَفْهَمُهُ،"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُكَلِّمْنَا بِالْيَهُودِيِّ فِي مَسَامِعِ الشَّعْبِ الَّذِينَ عَلَى السُّورِ."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت الأرامية"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في ذلك الوقت تُستخدَم في المعاملات الدولية، وكان مندوبو الملك يتوقعون أن ربشاقى"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتكلم بالأرامية لا باليهودية التي يتحدث بها عامة الشعب، لكن ما كان يهم الأشوريون"
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يتحدثوا مع الشعب ليُحَطِّموا نفسية الملك ورجاله."
+    },
+    {
+      "section_title": "لِيَهُوذَا وَلأُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ لَهُمْ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَلْ إِلَى سَيِّدِكَ وَإِلَيْكَ أَرْسَلَنِي سَيِّدِي لِكَيْ أَتَكَلَّمَ بِهذَا الْكَلاَمِ؟"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلَيْسَ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى الرِّجَالِ الْجَالِسِينَ عَلَى السُّورِ،"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَأْكُلُوا عَذِرَتَهُمْ وَيَشْرَبُوا بَوْلَهُمْ مَعَكُمْ؟ [27]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراد ربشاقى أن"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحدث بلغة الشعب العامية حتى يثور على الملك ورجاله، وفي نفس الوقت تحدث بعبارات"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تليق بأناسٍ مسئولين، إنما إن صح التعبير تحدث بلغة الشارع: \"ليأكلوا عذرتهم،"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويشربوا بولهم معكم\"."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد تشامخ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى وعيَّر الإله الحيّ، لذا يحتاج الأمر إلى تدخُّل هذا الإله لإعلان مجده"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقدرته، ولأجل خلاص البقية الأمينة له. يقول المرتل: \"حتى متى يا الله يُعيّر"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقاوم؟!\" (مز 74: 10)"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت عبارة"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى عما سيحل بالمدينة بسبب حصار الأشوريين غير لائقة، إذ شبَّه الشعب بأنه من"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شدة الجوع والعطش يأكلون الروث ويشربون بولهم. وإذ كان"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحدث مع الذين يذهبون إلى المسارح الخليعة يقول لهم: [الذين يجعلونكم تصغون إلى"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أغاني الباغيات يضعون روثًا في آذانكم. إنهم يجعلونكم تعانون ليس فقط من"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلمات بل ومن الأفعال ما يهدد به البرابرة: \"تأكلون روثكم\"[17].]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقع في أعمال سمجة يقول في قلبه: \"ليس إله\"، ويخرج من الإيمان الحقيقي،"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويسقط في الكفر، لأن بشنائعه يُفسِد ما قد زرعه الله في قلوب البشر من الاعتقاد"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القويم والرأي السليم. لأن الإيمان لا يكون قائمًا إلاَّ بالأعمال، كما كان"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرنيليوس وغيره لطهارة سيرتهم، وحسن أعمالهم، استناروا بنور الإيمان المستقيم، أما"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من كان مضادًا لذلك فإنه فاسد."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب أنسيمُس الأورشليمي"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ وَقَفَ رَبْشَاقَى وَنَادَى . عَظِيمٍ بِالْيَهُودِيِّ وَتَكَلَّمَ قَائِلًا:"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسْمَعُوا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَلاَمَ الْمَلِكِ الْعَظِيمِ مَلِكِ أَشُّورَ. [28]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَقُولُ الْمَلِكُ: لاَ يَخْدَعْكُمْ حَزَقِيَّا،"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ يَقْدِرُ أَنْ يُنْقِذَكُمْ مِنْ يَدِهِ. [29]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ربشاقى يحث"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب أن يتخلوا عن اتكالهم على الرب، ويثقوا في سنحاريب عوضًا عنه، وألا يثقوا في"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك. لقد كرَّر عبارة: \"لا يخدعكم حزقيا\" وما يعادلها [22، 29، 30]. أراد أن يثور"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب على الملك، ووعدهم بأن ملك أشور أعدّ لهم مكانًا أفضل مما يعيشون فيه."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَجْعَلْكُمْ حَزَقِيَّا تَتَّكِلُونَ عَلَى الرَّبِّ قَائِلاً:"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنْقَاذًا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُنْقِذُنَا الرَّبُّ وَلاَ تُدْفَعُ هَذِهِ الْمَدِينَةُ إِلَى يَدِ مَلِكِ"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشُّورَ. [30]"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ حاصَر الأشوريون أورشليم لم يراعوا الله بل أهانوه، لذلك أرسل ملاكه يُرعبهم (2 مل 18)."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي لا يدعو"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله لأجل الله نفسه، وإنما لأجل أمورٍ زمنيةٍ، يفقد فرحه ببهجة الخلاص، وعوض"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السلام يحل الخوف بلا سبب حقيقي سوى حرمانه من الله مصدر السلام."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتهام ربشاقى ضد حزقيا واضح أنه مع استيلاء أشور على مدن يهوذا (إش 36: 1) لا يزال"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتكل على الرب كما قال للشعب: [لا تخافوا ولا ترتعبوا من ملك الأشوريين وكل الجمهور"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي معه. فإن معه ذراع بشر، أما نحن فمعنا الرب إلهنا عوننا الذي يحارب عنا]. وقد"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشجع الشعب بكلمات حزقيا ملك يهوذا، ولهذا أراد ربشاقى أن يفسد ما فعله حزقيا، لذلك"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال للشعب: \"لا يخدعكم حزقيا... ولا يجعلكم حزقيا تتكلمون على الرب\" [29-30][18]."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ تَسْمَعُوا"
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِحَزَقِيَّا."
+    },
+    {
+      "section_title": "رَبْشَاقَى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّهُ"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعْقِدُوا"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعِي صُلْحًا وَاخْرُجُوا إِلَيَّ،"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكُلُوا"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ وَاحِدٍ مِنْ جَفْنَتِهِ، وَكُلُّ وَاحِدٍ مِنْ تِينَتِهِ،"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَاشْرَبُوا"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ وَاحِدٍ مَاءَ بِئْرِهِ [31]"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم لنا"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحليلاً لخطة ربشاقى الحربية، فقد بدأ بتهديد حزقيا الملك وقادته"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشعبه، وألحق هذا التهديد بوعود يُقدِّمها للشعب، بهذا يفتح الباب للشعب أن يثور"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الملك حزقيا ويَقْبَل الخضوع لملك أشور."
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الحال ألحق هذا التهديد بإغراءات لكي يخدع بالوعود المقابلة والتجاوب أولئك"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين لم يغلبهم بالرعب، قائلاً لهم نيابة عن ملك الأشوريين: [اعقدوا صلحًا معي"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واخرجوا إليّ] [31]، (إش 36: 16) أو \"اعقدوا معي ما هو نافع (لكم) وتعالوا"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليّ\"... يقول: [افعلوا ما هو لفائدتكم، فتزداد بركاتكم]. بمعنى آخر: \"باركوا ملك"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور واحمدوه، واعترفوا أنه سيدكم، فتنالون مكافأة. وأيضًا لتحيوا في مدنكم"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتتمتعون بمحاصيلكم حتى أرجع من مصر، أو حتى استرد \"لبنة\" المسلوبة. وعندما أجيء سأخذكم إلى أرض تشبه تمامًا أرضكم، بها قمح وخمر وزيت\". لم يذكر اسم هذه الأرض،"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه لا توجد أرض تعادل أرض الموعد[19]."
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "هَكَذَا يَقُولُ مَلِكُ أَشُّورَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآبار"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لما كان المطر"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نادرًا في أغلب أيام السنة، لهذا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لمعظم"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البيوت في أورشليم آبار خاصة [31]، (أم 5: 15) لتخزين المياه المتجمعة من"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمطار أو من الينابيع، وكانت في العادة على شكل كمثرى ذات فتحة صغيرة من أعلى حتى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن تغطيتها عند الضرورة لمنع الحوادث أو تلوث الماء. قديمًا كان أصحاب البيوت"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحقول يعتزون بالبئر التي يشقونها، والجُب الذي يحفرونه، كأشياء خاصة وثمينة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للغاية (إر 6:38)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحلول عام 1200"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ق.م. كانت الآبار تُقَوَّى بالأسمنت، مثل خزان قمران."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن مخاطبة شعب أورشليم بالإضافة إلى أشياء أخرى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشير إلى إبهاج الحواس والفرح في الكرمة والتينة. ولقد أشار أيضًا أنهم سيشربون"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الماء كل واحدٍ من بئره [31]، (إش 36: 16). إن قوة الشيطان تظهر فينا بطريقة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مزدوجة، عن طريق الانغماس في الملذات إما في ملذات خارج عنا أو في ملذات ناتجة عن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباب الطبيعية الداخلية. والتينة تمثل إبهاج الحواس (الشهوانية) الناتجة عن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخارج."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَتَّى آتِيَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَآخُذَكُمْ إِلَى أَرْضٍ كَأَرْضِكُمْ،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْضَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حِنْطَةٍ وَخَمْرٍ،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْضَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خُبْزٍ وَكُرُومٍ،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَرْضَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زَيْتُونٍ وَعَسَلٍ وَاحْيُوا وَلاَ تَمُوتُوا."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلاَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَسْمَعُوا لِحَزَقِيَّا لأَنَّهُ يَغُرُّكُمْ قَائِلاً: الرَّبُّ يُنْقِذُنَا."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى ثيؤدورت"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقف كورش أن ربشاقى بقوله: \"حتى آتي وآخذكم\"، بأن لديه خطة واضحة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقائمة بأسماء أمم وشعوبٍ ومدنٍ يثير عليهم حربًا ويخضعهم ثم يعود ويأخذهم بسهولة[20]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَلْ أَنْقَذَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آلِهَةُ الأُمَمِ كُلُّ وَاحِدٍ أَرْضَهُ مِنْ يَدِ مَلِكِ أَشُّورَ؟ [33]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ركَّز ربشاقى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على عجز كل آلهة الأمم التي حاربهم أشور عن أن ينقذوا شعوبهم من يده."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيْنَ آلِهَةُ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَمَاةَ وَأَرْفَادَ؟"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيْنَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آلِهَةُ سَفَرْوَايِمَ وَهَيْنَعَ وَعِوَّا؟"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَلْ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنْقَذُوا السَّامِرَةَ مِنْ يَدِي؟ [34]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيؤدورت أسقف كورش: [لقد أشار على وجه الخصوص إلى السامرة ليُظهر علانية أنه"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس أحد أظهر نفسه أقوى منهم (من الأشوريين)، ليس من ملكٍ ولا قائد ولا إله حامِ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذه المدن. يقول: لقد هزمنا في نفس الوقت كل البشر وكل الآلهة، فلن يقف إلهكم أمام"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سيدي[21].]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ مِنْ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلِّ آلِهَةِ الأَرَاضِي أَنْقَذَ أَرْضَهُمْ مِنْ يَدِي،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَتَّى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُنْقِذَ الرَّبُّ أُورُشَلِيمَ مِنْ يَدِي؟ [35]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في قصة يهوديت"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نرى عجرفة هولوفرنيس (أليفانا) واعتداده بذاته، إذ قال: [ولا ينجيهم إلههم](***)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذا أرسل سنحاريب إلى حزقيا الملك يقول: \"من مِنْ كل آلهة الأراضي أنقذ أرضهم من"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدي حتى ينقذ الرب أورشليم من يدي\" [35]. \"لا يخدعك إلهك الذي أنت مُتَّكل"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه قائلاً: لا تُدفَع أورشليم إلى يد ملك أشور\" (2 مل 19: 10)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابغض العظمة، لأنها الثمرة المملوءة موتًا."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن آدم أكل"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها في عدن، وأعطته الموت."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبها سقط"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشيطان من البدء."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بها سقط بيت"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آدم من الفردوس."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس عند الله"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء بخس ومكروه كمثل العظمة، ومن يتشامخ بالكبرياء."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مار يعقوب السروجي",
+      "text": "القديس مار يعقوب السروجي"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَكَتَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّعْبُ وَلَمْ يُجِيبُوهُ بِكَلِمَةٍ،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمْرَ الْمَلِكِ كَانَ: لاَ تُجِيبُوهُ. [36]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينما رفض"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربشاقى أن يصمت، تحدث باليهودية حتى يحث الشعب على"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجديف على الله، أما رب المجد"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسوع فصمت أمام المحاكمات الباطلة الموجهة ضده حتى يحمل أثقال الشعب ويدخل بهم إلى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معرفة الحق الإلهي."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التزم الشعب"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأمر الملك حزقيا ألا يجيبوا ربشاقى الذي استخف بالله [36]. بنفس الروح إذ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراد سنبلط أن يدخل في حوارٍ مع نحميا إذ أراد تحطيم عمل البناء، قال له: \"لا يكون"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل هذا الكلام الذي تقوله، بل إنما أنت مختلقه من قلبك\" (نح 6: 8)، ورفض الدخول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معه في حوارٍ كطلب سنبلط القائل: \"هلم... نتشاور معًا\" (نح 6: 7)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان من المتوقع"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يعلنوا عن ثورتهم وعصيانهم على الملك، لكنهم صمتوا علامة الطاعة والثقة منتظرين"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر الملك وتعليماته. أطاعوا الملك الذي سألهم ألا يجيبوه، أي لا يدخلوا معه في"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حوار لئلا يسقطوا في الضعف كما سقطت حواء بحوارها مع الحية القديمة. وكما يقول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم: [كان يجب عليها أن تصمت؛ كان يلزمها ألا تُبادلها"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحديث، ولكن في غباءٍ كشفت قول الرب، وبذلك قدَّمتْ للشيطان فرصة عظيمة... انظروا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي شر هذا أن نُسَلِّم أنفسنا في أيدي أعدائنا والمتآمرين علينا[22].]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما يقول: [إذ لم يكن الشيطان قادرًا على تقديم شيء عمليًا، قدَّم بالأكثر وعودًا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كلماتٍ. هكذا هي شخصية المخادعين[23].]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس: [الله هو قائدنا، والشيطان هو مُهلِكُنا، القائد"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم وصيته، وأما المُهلِك فيقترح خدعة، فهل نصغي إلى الوصية أم إلى الخداع؟![24]]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كمثالٍ، حينما"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسأل إنسان عن وجود تناقضات في الكتاب المقدس، إن كان الشخص يطلب ذلك للسخرية،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالحوار معه يتحوَّل إلى مناقشات غبية، أما إذا كان جادًا في المعرفة، فالحوار"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لازم، وكما يقول الرسول بطرس: \"قدِّسوا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب الإله في قلوبكم، مستعدين دائمًا لمجاوبة كل من يسألكم عن سبب الرجاء الذي"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيكم بوداعةٍ وخوفٍ\" (1 بط 3: 15)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفس الأمر إن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الحوار مع ملحدٍ ينكر وجود الله، فإن القرار بالحوار أو عدمه يتوقف على إدراكنا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنيَّة السائل. فبرفض الإجابة نحرص ألا ننزلق إلى حماقته، وبردِّنا عليه نود أن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحفظه من الحماقة التي سيطرت عليه."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيؤدورت أسقف كورش: [إذ سمعوا تجديفه هذا الذي تحدَّى كل حديث، لم يجب"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألياقيم"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورفاقه هذا الشرير بكلمة، بل مزَّقوا ثيابهم قبل الانطلاق بسرعة إلى الملك التقي"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإخباره بالكلام كما بمظهرهم عن مبالغته في"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجديف. والملك بدوره تعجب وفعل نفس"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمر، إذ مزَّق ثوبه الملوكي واستبدله بالمسوح، وجرى ليقترب من الله خالق المسكونة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي هاجموه كما هاجموا معه الملك[25].]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقى كل الشعب صامتًا، ولم ينطق أحد بشيءٍ له، إذ قبلوا تعليمات الملك ألا يجيبوه."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإذ كان حزقيا بالحق إنسانًا بارًا يعمل بإخلاصٍ تامٍ وبكل حكمةٍ، سألهم ألا يجيبوا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الأشوري المُجدِّف، لئلا يُثار إلى ارتكاب تجديف أعظم. لذلك كُتب: [تلهب جمر"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخاطي] (سي 8: 13). كما نقرأ في المزامير: \"حينما وقف الخاطي قبالتي، حبست لساني،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأذللت نفسي، ولزمت الصمت بخصوص الصلاح\" [(راجع مز 39: 2-3) الترجمة السبعينية]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيضًا: \"ضع يا رب حافظًا لفمي، وبابًا حصينًا لشفتيّ، ولا تُمِل قلبي إلى كلام"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشر\" [(مز 140: 3-4) الترجمة السبعينية][26]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بنا أن نتعلم حسنًا في معرفة إيماننا، حتى متى سألنا أحد عنه نكون قادرين أن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نُقَدِّم إجابة لائقة، وأن نفعل ذلك بوداعةٍ وفي مخافة الرب. فإن من يفعل هذا كأن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله نفسه حاضر يسمعه[27]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس ديديموس الضرير",
+      "text": "القديس ديديموس الضرير"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخبرنا الرسول أن نكون مستعدين أن نجاوب كل من يسألنا لنشرح له إيماننا، فإن سألني"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير مؤمنٍ عن سبب إيماني ورجائي، وأدرك أنه لا يستطيع قبول هذا ما لم يؤمن،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُقَدِّم له ذات السبب لكي يرى كيف أنه لأمرٍ سخيفٍ بالنسبة له أن يدركها دون أن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤمن[28]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَجَاءَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلِيَاقِيمُ بْنُ حِلْقِيَّا الَّذِي عَلَى الْبَيْتِ وَشِبْنَةُ الْكَاتِبُ وَيُوَاخُ بْنُ آسَافَ الْمُسَجِّلُ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا وَثِيَابُهُمْ مُمَزَّقَةٌ،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَخْبَرُوهُ بِكَلاَمِ رَبْشَاقَى. [37]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعود إلى الملك"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنراه عند سماعه كلمات ربشاقى \"مزَّق ثيابه وتغطَّى بمسح ودخل بيت الرب\"."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ذلك علامة حزنه مع تواضعه أمام الله ."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل حزقيا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الياقيم وشبنة وشيوخ الكهنة متغطين بمسوح إلى إشعياء النبي (2 مل 19: 2). لقد تغيَّر الحال،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فبعد أن كانت القيادات المدنية والدينية تسخر بإشعياء حين كان يسير حافيًا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعريانًا، منذرًا إياهم أن فرعون ورجاله لن يستطيعوا إنقاذهم (إش 21)، الآن ها هم"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يأتون إليه لابسين المسوح في مرارةٍ، يعلنون حاجتهم إلى صلواته ومشورته. أدركوا أنه"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يوم شدة وتأديب وإهانة\" (2 مل 19: 3)، فليكن يوم توبة وصلاة. شعروا \"أن"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجِنَّة دنت إلى المولد ولا قوة على الولادة\" (2 مل 19: 3)، من يستطيع أن يُعِين"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلاَّ الله خلال الصلاة؟! لا يقدر فرعون بكل إمكانياته أن يهب المرأة الحامل قدرة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الولادة حتى متى حان وقت الطلق... الصلاة هي \"المولِدة\" للرحمة التي تحقق"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الولادة."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت عادة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمزيق الثوب الخارجي التي تُعَبِّر عن الحزن الشديد، مثل موت أحد الأقرباء منتشرة"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كثير من الأمم، وإلى وقت قريب كانت منتشرة في بعض قُرَى الصعيد بمصر. أما عند"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهود، فكانت هذه العادة تُمارَس بالأكثر عند سماع تجديف على الله، ليُعلِنَ"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُستمِع أنه بريء من هذا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجديف ولا يطيق الاستماع إليه، وذلك كما فعل رئيس"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة في محاكمة السيد المسيح، وإعلانه بأنه مُجَدِّف."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم: [ليس شيء يُعادِل الصلاة! إنها تجعل المستحيل ممكنًا،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والصعب سهلاً. لا يمكن للإنسان الذي يُصلِّي أن يسقط في خطية[29]]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقول الأب ثيوفان الناسك: [الصلاة هي كل شيء؛ هي موجز كل شيء: الإيمان،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة حسب الإيمان، الخلاص إلخ.[30].]"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما يقول إن الصلاة هي [نسمة الروح[31]]،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هي [مقياس الحياة الروحية[32]]،"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكنيسة كلها [تتنسم خلال الصلاة[33]]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتأكيد لم يفرح البار حزقيا في كارثة السبي التي ستحل على أولاده، لكنه لم يستطع"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يعترض على إرادة الرب، فتقبَّل أمر الرب بصبر، بكونه خادمًا متواضعًا[34]."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصية حزقيا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 18-20؛ 2 أي 29-33؛ إش 36-39)"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَن هو حزقيا؟"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة \"حزقيا\""
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناها \"الرب يقوي\"."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك على يهوذا"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدة 29 عامًا (715-686 ق.م)، ابن آحاز وأبو منسى الذي تولى الحكم بعده. تُعتبَر"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيام حكمه من أفضل الفترات بعد داود الملك."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد أكثر من"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخص يُدعَى حزقيا، مثل ذاك الذي عاد من السبي البابلي مع عزرا (عز 16:2؛ نح 7: 21)(****)، وحزقيا من الأسرة المالكة في يهوذا (1 أي 23:3)، الجد الأكبر لصفنيا (صف 1:1)."
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنجازاته"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وثق حزقيا (2 أي 27:32) في عمل الله أكثر من أي ملك آخر في يهوذا (2 مل 5:18) وقد ترجم إيمانه"
+    },
+    {
+      "section_title": "المحفورة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعدة أعمال حيَّة. قاد حركة الإصلاح الديني والمدني والسياسي والدفاعي."
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتوبة وسط شعبه، ونزع"
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة الأوثان ومراكزها، وهدم طقوسها. أعلن إيمانه"
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العملي بالله عن طريق هدم كل مذابح الأوثان التي بناها آحاز (2 أي 22:28-25)،"
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجدَّد العهد مع الرب (2أي 10:29). وقد وصلت أمانته إلى حد تحطيم الحية النحاسية"
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي هي رمز هام لشعب إسرائيل من أجل استخدامهم لها في العبادة الوثنية. قام بكل"
+    },
+    {
+      "section_title": "1. نادى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك ليُعلنَ أن الله وحده له الحق في العبادة والسجود."
+    },
+    {
+      "section_title": "2. كان الشعب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسمع له. قيل: \"ليعملوا أمر الملك\" (2 أي 11:30-12) جاءت كلمة \"يعملوا\" في"
+    },
+    {
+      "section_title": "2. كان الشعب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصلها \"يسمعوا\"، وسماع الكلمة هي طاعة الأمر، ليس بالضغط، وإنما بمحض اختيارهم"
+    },
+    {
+      "section_title": "2. كان الشعب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برضا."
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكم حزقيا حدث إصلاح روحي، لأن الرب أعطى الشعب \"قلبًا واحدًا\" ليطيعوا"
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصاياه من خلال قادتهم الروحيين (2 أي 12:30)، تلك الوحدة في طاعة الله وتجديد"
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد نزعت لدى البعض روح التفكك والانقسام الذي حدث أيام رحبعام (2 أي 1:10-9). لقد دعا حزقيا الملك البقية من مملكة الشمال للانضمام إلى إخوتهم في يهوذا (2 أخ 6:30-9)، وقليلون قبلوا الدعوة (2 أخ 10:30-11). سبَب قبولهم الشعب لأتباع طريق الرب"
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بوحدة القلب هو أن حزقيا نفسه كان قدوة صالحة لهم. فالكتاب يشهد عنه أنه في كل عملٍ"
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام به لخدمة الرب \"إنما عمله بكل قلبه\" (2 أخ 31: 21). التزم حزقيا الملك"
+    },
+    {
+      "section_title": "3. خلال فترة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخدمة الله والآخرين بقلب واحد."
+    },
+    {
+      "section_title": "4. جدَّد هيكل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وأقام العبادة فيه، وجدَّد قادة اللاويين، فتقدَّسوا للرب (2 أي 1:29-36)."
+    },
+    {
+      "section_title": "5. عمل الفصح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للرب، وقاد بنفسه تقدمة الفصح، مُشجِّعًا الشعب لتقديم الذبائح والتقدمات. كما دعا"
+    },
+    {
+      "section_title": "5. عمل الفصح",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة الشمال المتبقية للمشاركة في الاحتفال به (2 أي 29؛ 30)."
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قوة أشور الحربية والتحطيم النفسي المُستمِر ليهوذا (2 أي 9:32-19)، إلا أن حزقيا"
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وثق في الله وحده، ولم يلجأ للتحالف مع البلاد المجاورة (2 مل 14:19-19) عكس"
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما فعل آحاز والده. وقد كرَّم الله إيمان حزقيا بمعجزة فائقة حيث طرد من أمامه ملك"
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور وجنوده (2 مل 35:19-36). في نفس الوقت قام حزقيا بخطوات عملية من خلال"
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمانه وثقته في الله، فقوَّى حصون أورشليم الدفاعية، وحفر عيون ماء"
+    },
+    {
+      "section_title": "6. بالرغم من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإمداد المدينة بالمياه اللازمة إن حدث حصار (2 أي 30:32)."
+    },
+    {
+      "section_title": "7. نجا من حصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنحاريب ملك أشور لأورشليم سنة 701 ق.م (2 أي 1:32)."
+    },
+    {
+      "section_title": "7. نجا من حصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضعفاته"
+    },
+    {
+      "section_title": "7. نجا من حصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرض كل كنوز خزائنه للمندوبين من بابل (2 مل 20: 12-18؛ 2 أي 31:32). يكشف ذلك عن كبرياء داخلي"
+    },
+    {
+      "section_title": "7. نجا من حصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحماقة أثَّرتْ على الذين جاءوا بعده في الحكم."
+    },
+    {
+      "section_title": "7. نجا من حصار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هو سنحاريب؟"
+    },
+    {
+      "section_title": "الاسم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إله القمر، معناه الخطية زادت من الإخوة."
+    },
+    {
+      "section_title": "المدينة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نينوى في أشور حيث بنَى له قصرًا. تفاخَر به أنه لا يُهْدَم، وعمل إصلاحات عديدة."
+    },
+    {
+      "section_title": "العائلة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن سرجون الثاني ووالد آسرحدون الذي ملك بعده بعد أن قتل أخواه أباه (2 مل 37:19)."
+    },
+    {
+      "section_title": "المهنة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائد جيوش أشور، ثم صار ملكًا لأشور بعد موت أبيه (705-681 ق.م)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاد حملته ضد يهوذا سنة 701 ق.م. فأخذ لخيش و45 مدينة أخرى من يهوذا، وأسر حوالي 200 ألف من يهوذا قبل حصاره لأورشليم. وكان دائمًا يسخر من ضعف حزقيا أمام قواته (2 مل 17:18-36؛ 2أخ9:32-22؛ إش1:36-21)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 18"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعييرات معيريك"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقعت عليَّ!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترك حزقيا أباه الشرير والتصق بك."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكره أباه،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم ينطق بكلمة جارحة ضده."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن أبغض الشر"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي التصق به."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحدَّى الفساد"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي حلَّ به،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يرث منه"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روح الفشل!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أزال المرتفعات"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي فشل أبوه وجدُّه أن يزيلاها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يترك مجالاً"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليرتد إنسان إلى الوثنية."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل وحطَّم حتى"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحية النحاسية التي حوَّلها الشعب إلى صنمٍ يعبدونه!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يقف عدو الخير مكتوف الأيدي،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل بخبرته"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطويلة وضع خطة لتحطيمه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أثار ضده أرام"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريبة الجنس لكي تبيده،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأثار إسرائيل"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي من بني جنسه للخلاص منه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحالف الغرباء"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع الأقرباء تحت قيادة عدو الخير."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في ضعفٍ التجأ"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى أشور لتحميه،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عِوَض أن يلجأ"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليك،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالحرب في"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقيقتها مع إبليس نفسه!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يسندني ضد إبليس عدوي الوحيد؟"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن أثار"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغرباء والأقرباء عداوة،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالعدو الحقيقي"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو إبليس بحيله الخفية."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن أنت سندي"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وملجأي."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقدر أن يقف"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمام إبليس سواك؟"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نجح أشور في قتل رصين ملك أرام،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحاصر السامرة"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستولى عليها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أذلَّ إسرائيل"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقاد الشعب أسرى."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استطاع أن"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُفقِدَ إسرائيل هويتها كشعب الله."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجعل منها"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثالاً للدمار الكامل."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استولى أشور"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على أممٍ وشعوبٍ ومدنٍ كثيرة."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل واستولى على"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدن حصينة في يهوذا."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظن أشور أنه لم تعد أورشليم تُمَثِّل قوة في عينيه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق فأذلها"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالجزية،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجعل من"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السامرة عِبْرَةً لها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانهارت الأمم"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع آلهتها قدامَه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حسب ملك أشور"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه أعظم من إله أورشليم."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يستطيع أن"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمي حزقيا وقادته وشعبه؟!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل سنحاريب الأشوري ربشاقى ورفاقه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وظن أنه في"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحظات تستسلم يهوذا بملكها وشعبها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظن ربشاقى أنه"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفير أعظم مَلِك في العالم."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كان حزقيا"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك يهوذا ينصت لصوت إلهه خلال الأنبياء."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالعالم كله"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصت لسنحاريب الأعظم من كل الآلهة خلاله."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ربشاقى آلة لا في يدي سنحاريب، بل في يديّ إبليس."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كبرياء"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعجرفة وقف أمام اليهود مستخدمًا تجاديف خطيرة."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ لم يستطيع"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرعب والتهديدات أن تحكم مندوبي حزقيا،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم أسلوب"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخداع والكلمات المعسولة."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعد شعب يهوذا"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يخلصهم من خداعات حزقيا،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقَدِّم لهم"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة آمنة سعيدة في بلدٍ لم يذكر اسمها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صوَّر لهم أنه"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادم بأمر الله إلههم ليؤدب حزقيا."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صوّر حزقيا"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كعدو لله أزال المرتفعات حيث كان الشعب يعبد الله فيها."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مزَّق مندوبو"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزقيا ثيابهم،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي مرارة"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مزَّق حزقيا الثوب الملكي."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهي، لن يكف عدو الخير عن أن يُعيِّرني."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعييرات معيريك"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقطت عليّ."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يُخلِّصني"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من تهديدات إبليس،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومن يقودني فلا"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقط في شباكه المتنوعة."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه يُهَدِّد"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تارة، ويلاطف تارة لتحطيمي."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبذل كل جهده"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليبث فيَّ روح الخوف والقلق والفشل."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها حرب بينك"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبينه، بين بِرّك وشره."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس من"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُخَلِّصني من مكائده إلا أنت!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليحمني روحك"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوس، ويرفعني فوق تجارب العدو."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليفتح لي أبواب"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، فتمتلئ نفسي رجاءً مُفرِحًا!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بك أنتصر ولا"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقوَى قوات الظلمة عليَّ،"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنك أنت النور"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واهب الحياة والنصرة والمجد!"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Eight Questions on Dulcitius, 5."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Letter 185:5:19."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Correction of the Donatists, ch. 5."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "City of God, 10:8."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On the Second Book of Kings, 18:19."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 1-10."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) توضيح من الموقع: المقصود بالشاهد هو لفت النظر لكلمة \"عَلَى الْبَيْتِ\" وأهميتها، فقد قيلت على ألياقيم مثله مثل الملوك كممثل لهم."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(*) توضيح من الموقع: المقصود بالشاهد هو لفت النظر لكلمة \"عَلَى الْبَيْتِ\" وأهميتها، فقد قيلت على ألياقيم مثله مثل الملوك كممثل لهم."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 22-10-14."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 1-10. (ACCS)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(**) إضافة من الموقع: عن الآية: \"شِبْنَا الَّذِي عَلَى الْبَيْتِ... يَا خِزْيَ بَيْتِ سَيِّدِكَ\" (إش 22: 15، 18)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(**) إضافة من الموقع: عن الآية: \"شِبْنَا الَّذِي عَلَى الْبَيْتِ... يَا خِزْيَ بَيْتِ سَيِّدِكَ\" (إش 22: 15، 18)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Commentary on Isaiah 11: 36: 1-5."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Fasting, 17."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُعلم نسطور، يُعتبر نسطوري أكثر من نسطور نفسه."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah through the Ages, Monastery Books, CA 1926, P. 531."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Of Commentary on Isaiah 1: 11: 36: 1-10."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah through the Ages, Monastery Books, CA 1926, P. 532."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah through the Ages, Monastery Books, CA 1926, P. 533."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 1-10. (ACCS)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Matthew. 37: 7.."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 11-12."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 11-12."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah through the Ages, Monastery Books, CA 1926, P. 534."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah through the Ages, Monastery Books, CA 1926, P. 534."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(***) إضافة من الموقع: عن كلام أليفانا في (يهو 6: 2-5)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(***) إضافة من الموقع: عن كلام أليفانا في (يهو 6: 2-5)."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "للمؤلف: هل للشيطان سلطان عليك؟ للقديس يوحنا الذهبي الفم، مقال 3."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In 2 Tim. Hom. 8."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "On Ps. 71."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Johanna Manley: Isaiah througy the Ages, Monastery Books, CA 1926, P. 534."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on Isaiah 11: 36: 11-12."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Catena."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Letter 120."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "De Anno Sermo 4; PG. 54:666."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Tomas' Spidlik: The"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Spirituality of the Christian East, 1986, P.307. Nacertanye"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "christianskago nravoucenija (Christian Moral Teaching), Moscow 1895, p. 122."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Tomas' Spidlik: The"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Spirituality of the Christian East, 1986, P.307. Nacertanye"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "christianskago nravoucenija (Christian Moral Teaching), Moscow 1895, p. 406."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Tomas' Spidlik: The"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Spirituality of the Christian East, 1986, P.307. Nacertanye"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "christianskago nravoucenija (Christian Moral Teaching), Moscow 1895,"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Theophane la Recluse, p. 240."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Tomas' Spidlik: The"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Spirituality of the Christian East, 1986, P.307. Nacertanye"
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "christianskago nravoucenija (Christian Moral Teaching), Moscow 1895, p. 241."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Jacob and the Happy Life, 1:8:36."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(****) توضيح من الموقع: كان مكتوبًا شاهد [نح 17:1]، والمقصود به (نح 10: 17)، ولكن تم تغييره من قبل الموقع لـ(نح 7: 21) ليتوافق مع الاسم المذكور، حيث أن حزقيا المذكور في (نح 10: 17) هو \"حزقيا\" آخر من خاتمي العهد."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(****) توضيح من الموقع: كان مكتوبًا شاهد [نح 17:1]، والمقصود به (نح 10: 17)، ولكن تم تغييره من قبل الموقع لـ(نح 7: 21) ليتوافق مع الاسم المذكور، حيث أن حزقيا المذكور في (نح 10: 17) هو \"حزقيا\" آخر من خاتمي العهد."
+    },
+    {
+      "section_title": "الإنجازات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 18 من سفر الملوك الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/y8szafn"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/y8szafn"
     }
   ]
 }

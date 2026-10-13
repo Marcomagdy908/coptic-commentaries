@@ -1,17 +1,1130 @@
 {
-  "book_id": 9,
+  "book_id": "samuel2",
   "book_title": "تفسير سفر صموئيل الثاني",
   "chapter_number": 8,
   "chapter_title": "الأصحاح 8",
   "topic": "انتصارات داود المستمرة",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "نصرته على الأمم المحيطة",
+      "verses": "1 -8"
+    },
+    {
+      "number": 2,
+      "title": "توعي يقدم له هدايا",
+      "verses": "9 -10"
+    },
+    {
+      "number": 3,
+      "title": "تقديس الهدايا والغنائم",
+      "verses": "11 -14"
+    },
+    {
+      "number": 4,
+      "title": "تدبير أمور المملكة الداخلية",
+      "verses": "15 -18"
+    }
+  ],
+  "sections_count": 183,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "انتصارات داود المستمرة"
+      "text": "انتصارات"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود المستمرة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن داود منشغلًا بمجده الذاتي ولا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باتساع رقعة مملكته وإنما كان مهتمًا بملكوت الله، لهذا لم يسعَ نحو إخضاع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت سلطانه إنما كان مشغولًا بخدمة الجميع ورعايتهم بكونهم شعب الله. الآن دخل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود النبي في حروب كثيرة وتكررت العبارة\" \"وكان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب يخلص داود حيثما توجه\" [6، 14]. حصل على"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هدايا وغنائم كرَّسها لخدمة بيت الرب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كإنسان حكيم مهتم بملكوت الله لم تشغله"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحروب الخارجية عن الاهتمام بتدبير أمور مملكته الداخلية بحكمة واتزان."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نصرته على"
+    },
+    {
+      "section_title": "الأمم المحيطة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَبَعْدَ ذلِكَ ضَرَبَ دَاوُدُ الْفِلِسْطِينِيِّينَ وَذَلَّلَهُمْ، وَأَخَذَ دَاوُدُ «زِمَامَ الْقَصَبَةِ» مِنْ يَدِ الْفِلِسْطِينِيِّينَ. 2 وَضَرَبَ الْمُوآبِيِّينَ وَقَاسَهُمْ بِالْحَبْلِ. أَضْجَعَهُمْ عَلَى الأَرْضِ، فَقَاسَ بِحَبْلَيْنِ لِلْقَتْلِ وَبِحَبْل لِلاسْتِحْيَاءِ. وَصَارَ الْمُوآبِيُّونَ عَبِيدًا لِدَاوُدَ يُقَدِّمُونَ هَدَايَا. 3 وَضَرَبَ دَاوُدُ هَدَدَ عَزَرَ بْنَ رَحُوبَ مَلِكَ صُوبَةَ حِينَ ذَهَبَ لِيَرُدَّ سُلْطَتَهُ عِنْدَ نَهْرِ الْفُرَاتِ. 4 فَأَخَذَ دَاوُدُ مِنْهُ أَلْفًا وَسَبْعَ مِئَةِ فَارِسٍ وَعِشْرِينَ أَلْفَ رَاجِل. وَعَرْقَبَ دَاوُدُ جَمِيعَ خَيْلِ الْمَرْكَبَاتِ وَأَبْقَى مِنْهَا مِئَةَ مَرْكَبَةٍ. 5 فَجَاءَ أَرَامُ دِمَشْقَ لِنَجْدَةِ هَدَدَ عَزَرَ مَلِكِ صُوبَةَ، فَضَرَبَ دَاوُدُ مِنْ أَرَامَ اثْنَيْنَ وَعِشْرِينَ أَلْفَ رَجُل. 6 وَجَعَلَ دَاوُدُ مُحَافِظِينَ فِي أَرَامِ دِمَشْقَ، وَصَارَ الأَرَامِيُّونَ لِدَاوُدَ عَبِيدًا يُقَدِّمُونَ هَدَايَا. وَكَانَ الرَّبُّ يُخَلِّصُ دَاوُدَ حَيْثُمَا تَوَجَّهَ. 7 وَأَخَذَ دَاوُدُ أَتْرَاسَ الذَّهَبِ الَّتِي كَانَتْ عَلَى عَبِيدِ هَدَدَ عَزَرَ وَأَتَى بِهَا إِلَى أُورُشَلِيمَ. 8 وَمِنْ بَاطِحَ وَمِنْ بِيرَوَثَايَ، مَدِينَتَيْ هَدَدَ عَزَرَ، أَخَذَ الْمَلِكُ دَاوُدُ نُحَاسًا كَثِيرًا جِدًّا."
+    },
+    {
+      "section_title": "الأمم المحيطة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت حروب داود النبي ضد الأمم الوثنية"
+    },
+    {
+      "section_title": "الأمم المحيطة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي انجرفت تمامًا في الرجاسات مع العنف والقسوة، تشير إلى جهاد المؤمن ضد الخطية"
+    },
+    {
+      "section_title": "الأمم المحيطة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكل رجاساتها وعنفها."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أ. الفلسطينيين: \"أخذ... «زِمَامَ الْقَصَبَةِ»"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أيدي الفلسطينيين\" [1]؛ أي أخذ جت وقراها، بكونها قصبتهم وزمام"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دولتهم المتسلطة على يهوذا ودان، إذ كانت جت على تخم يهوذا وبالقرب من دان."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت الكلمة العبرية لزمام"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القصبة"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Meth-eg-ammah، تعني"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرفيًا \"لجام الأمة\"، إذ كانت جت عاصمتهم تمثل من يمسك بلجام يحرك إسرائيل"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيفما شاء. لقد أمسك داود بهذا اللجام وقبض عليه في يده ليستخدمه للتحكم فيهم عوض"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحكمهم هم فيه."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ب. الموآبيين: سبق أن أودع داود والديه"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدى ملك موآب (1 صم 22: 3-4)، لسنا نعرف متى تحولت"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الصداقة إلى عداوة لتستمر بعد ذلك. ربما كان موآب يسند داود عندما كان شاول"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقاومه، يهدف بذلك إلى مقاومة شاول كملك رسمي، لكن إذ صار داود ملكًا واتحدت"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط معًا تحت قيادته واستقرت مملكته ثار موآب ضده."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضرب داود المدينة، قتل"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثلثين، واستبقى الثلث يدبرون أمورهم الداخلية مقابل دفع جزية (تقديم هدايا). وقد"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحققت نبوة بلعام: \"يقوم قضيب من إسرائيل فيُحطم طرفي موآب\" (عد 24: 17)."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقى موآب يدفع الجزية حتى"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موت آخاب حيث ثار ملك موآب ضد إسرائيل وعصاه (2 مل 3: 3-4)."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ج. السوريين أو الآراميين: كانت آرام تضم"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الشمال مملكتين عظيمتين متمايزتين: آرام صوبة (عاصمتها صوبة يظن البعض أنها"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حمص) تسيطر على عدة ملوك؛ وآرام النهرين (عاصمتها"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق)."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدأ داود بمحاربة هدد (هدر)"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزر ملك آرام صوبة. كانت صوبة في أيام شاول"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وداود وسليمان مملكة آرامية قوية غرب الفرات. امتد سلطانها يومًا إلى حدود حماة"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الشمال الغربي (2 صم 8: 10؛ 1 أي 18: 3)"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكانت دمشق إلى جنوبها أو إلى الجنوب الغربي منها، لأن إحدى مدنها بيروثاي كانت"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقع بين حماة ودمشق."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضربه داود من الغرب في حماة"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 18: 3)، من الوراء، فجاء ملك آرام دمشق"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنجدته فضربه داود (يرى البعض أن آرام دمشق هي ذاتها آرام النهرين، موقعها فدان"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آرام حيث عاش الآباء"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إبراهيم وإسحق"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويعقوب)."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بضرب داود آرام صوبة وآرام"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق حطم كل ممالك آرام العظيمة؛ ولكي لا تتجمع جيوشهم ثانية لمحاربته أقام"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "محافظين في صوبة ودمشق، وألزمهم بدفع جزية (تقديم هدايا)."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استولى داود على أتراس الذهب"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مطلية بالذهب)، وهي أتراس حراس الملك، وجاء بها إلى أورشليم."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما جاء بنحاس كثير"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا من مدينتي هدد \"باطح\" و\"بيروثاي\" وهما طبحة وخون"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 18: 8)، الأولى ربما تكون هي طبحة التي بين حلب"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والفرات (باطح تعني ثقة)، أما الثانية فيرى البعض أنها بيروت، بينما يرجح آخرون أنها قرية بريتان على"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد 6 أميال جنوب غربي بعلبك (بيروثاي تعني \"آبارًا\")."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استخدم سليمان الحكيم النحاس"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي أُخذ من هاتين المدينتين في صنع بحر النحاس والأعمدة والآنية النحاسية."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترنم داود النبي بالمزمور"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الستين عندما حارب آرام صوبة وآرام النهرين (دمشق) وغلبهما. يعلن"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس على عنوان المزمور قائلًا: [إنه حمل روحًا نبويًا، إذ يعلن ما لم"
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نجده في التاريخ ليكشف لنا خلال الرمز ما سيحدث مستقبلًا]."
+    },
+    {
+      "section_title": "لقد ضرب داود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنوان المزمور كما جاء في"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(إلى الذين لا زالوا يتغيرون."
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى نصب تذكاري منقوش، لأجل"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود،"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للتعليم،"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما حرق المصيصة السريانية"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(ما بين النهرين، آرام النهرين"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Mesopatamaia وصوبة السريانية (آرام صوبة)."
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرجع يوآب وضرب من آدوم في"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وادي الملح اثنى عشر ألفًا)."
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدم لنا"
+    },
+    {
+      "section_title": "الترجمة السبعينية هو",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "تفسيرًا رمزيًا لهذا العنوان موجزه الآتي (بتصرف)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف يحدث هذا التغيير؟"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Mesopatamaia"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(ما بين النهرين) السورية (آرام): يرى"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس أن"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوريا تعني"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"تعالٍ\" و\"مصيصة\" تعني \"دعوة\". وكأنه لكي تتغير"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياتنا يحرق الرب تعالينا وعجرفتنا لننعم باتضاعه. أرسل روحه القدوس الناري إلى"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم ليحرق كل فساد مجددًا طبيعتنا (في مياه المعمودية)؛ عوض أن يُدخل العالم"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى النار فيهلك أرسل ناره إلى العالم ليجدده، بحرق أعمال الإنسان العتيق ومنح"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان الجديد الداخلي أو الحياة الجديدة التي في المسيح. ليتنا لا نخاف نار"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح وإن كانت تحرق فهي تحرق ما هو قديم فينا."
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ب. برجوع \"يوآب\"؛"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في رأيه أن كلمة \"يوآب\" معناها \"عدو\". وكأن المسيحي يرجع إلى"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن داود المنتصر بعد أن كان عدوًا لله... لنرجع إلى مسيحنا أحباء بعد العداوة"
+    },
+    {
+      "section_title": "أ. بحرق المصيصة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديمة."
+    },
+    {
+      "section_title": "ج. ضرب اثني عشر ألفًا من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آدوم في وادي الملح. إن كانت \"آدوم\" تعني \"أرضًا\"، فتغييرنا"
+    },
+    {
+      "section_title": "ج. ضرب اثني عشر ألفًا من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعني ما هو أرضي فينا لنحمل ما هو سماوي. كما لبسنا صورة التراب (آدم الأول) هكذا"
+    },
+    {
+      "section_title": "ج. ضرب اثني عشر ألفًا من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزمنا أن نلبس صورة السماوي (آدم الثاني) (1 كو 15: 49)."
+    },
+    {
+      "section_title": "توعي يقدم له هدايا",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 وَسَمِعَ تُوعِي مَلِكُ حَمَاةَ أَنَّ دَاوُدَ قَدْ ضَرَبَ كُلَّ جَيْشِ هَدَدَ عَزَرَ، 10 فَأَرْسَلَ تُوعِي يُورَامَ ابْنَهُ إِلَى الْمَلِكِ دَاوُدَ لِيَسْأَلَ عَنْ سَلاَمَتِهِ وَيُبَارِكَهُ لأَنَّهُ حَارَبَ هَدَدَ عَزَرَ وَضَرَبَهُ، لأَنَّ هَدَدَ عَزَرَ كَانَتْ لَهُ حُرُوبٌ مَعَ تُوعِي. وَكَانَ بِيَدِهِ آنِيَةُ فِضَّةٍ وَآنِيَةُ ذَهَبٍ وَآنِيَةُ نُحَاسٍ."
+    },
+    {
+      "section_title": "توعي يقدم له هدايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل توعي أو توعو ملك حماة"
+    },
+    {
+      "section_title": "توعي يقدم له هدايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنه إلى داود ليسأل عن سلامته ويباركه بسبب ضربه هدد عزر، الذي كان عدوًا لتوعي."
+    },
+    {
+      "section_title": "توعي يقدم له هدايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم الابن هدايا: آنية فضة، آنية ذهب، آنية نحاس، قدسها داود لحساب بيت الرب. هكذا"
+    },
+    {
+      "section_title": "توعي يقدم له هدايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل داود هذه الإرسالية، معلنًا أنه لا يهوى الحرب بل يطلب السلام."
+    },
+    {
+      "section_title": "الهدايا والغنائم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "11 وَهذِهِ أَيْضًا قَدَّسَهَا الْمَلِكُ دَاوُدُ لِلرَّبِّ مَعَ الْفِضَّةِ وَالذَّهَبِ الَّذِي قَدَّسَهُ مِنْ جَمِيعِ الشُّعُوبِ الَّذِينَ أَخْضَعَهُمْ. 12 مِنْ أَرَامَ، وَمِنْ مُوآبَ، وَمِنْ بَنِي عَمُّونَ، وَمِنَ الْفِلِسْطِينِيِّينَ، وَمِنْ عَمَالِيقَ، وَمِنْ غَنِيمَةِ هَدَدَ عَزَرَ بْنِ رَحُوبَ مَلِكِ صُوبَةَ. 13 وَنَصَبَ دَاوُدُ تَذْكَارًا عِنْدَ رُجُوعِهِ مِنْ ضَرْبِهِ ثَمَانِيَةَ عَشَرَ أَلْفًا مِنْ أَرَامَ فِي وَادِي الْمِلْحِ. 14 وَجَعَلَ فِي أَدُومَ مُحَافِظِينَ. وَضَعَ مُحَافِظِينَ فِي أَدُومَ كُلِّهَا. وَكَانَ جَمِيعُ الأَدُومِيِّينَ عَبِيدًا لِدَاوُدَ. وَكَانَ الرَّبُّ يُخَلِّصُ دَاوُدَ حَيْثُمَا تَوَجَّهَ."
+    },
+    {
+      "section_title": "الهدايا والغنائم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان داود الملك يهيئ الطريق"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آرام النهرين وآرام صوبة وآدوم، وإقامة علاقات ودّ مع الأمم المسالمة مثل مملكة"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حماة... حتى يعيش سليمان متفرغًا لبناء بيت الرب في جو من السلام."
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ب. إعداد الإمكانيات للبناء،"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ لم يستخدم داود الغنائم والهدايا لصالحه الخاص ولا لإثراء أسرته وسبطه وإنما"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم الغنائم مع الهدايا لحساب بيت الرب."
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميز داود النبي بين التماثيل"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذهبية والآنية الذهبية؛ الأولى حرقها (2 صم 5: 21)  والثانية خصصها"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لخدمة بيت الرب. الأولى أي الأصنام تشير إلى الشر الذي يجب تحطيمه تمامًا، فإن"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله ليس في حاجة إلى الذهب أو الفضة... والثانية تشير إلى تحويل الطاقات والمواهب"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المستخدمة للشر إلى طاقات ومواهب لحساب ملكوت الله. الله يرفض الشر ويقدس ما"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دنسناه خلال الشر، يكره الخطية لا الخطاة."
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيل أيضًا: \"ونصب"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود تذكارًا عند رجوعه من ضربه ثمانية عشر ألفًا من آدوم في وادي الملح\""
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[13]. هكذا أقام نصبًا تذكاريًا يعلن تحطيمة آدوم (أي ما هو"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرضي)... ما هو هذا النصب إلا صليب ربنا يسوع المسيح الذي حولنا عن الزمنيات إلى"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماويات. لذلك جاء في"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور 60 الذي تغنى به داود عند ضربه آدوم"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وآرام: \"زلزلتَ الأرضَ فَصَمْتَها، أجْبُرْ كسرها لأنها متزعزعة... على آدوم"
+    },
+    {
+      "section_title": "أ. إخضاع الأمم المقاومة مثل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَطْرحُ نعلي\". بصليب ربنا تتزلزل فينا الأفكار الأرضية لنطأها تحت أقدامنا!"
+    },
+    {
+      "section_title": "تدبير أمور المملكة الداخلية",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "15 وَمَلَكَ دَاوُدُ عَلَى جَمِيعِ إِسْرَائِيلَ. وَكَانَ دَاوُدُ يُجْرِي قَضَاءً وَعَدْلًا لِكُلِّ شَعْبِهِ. 16 وَكَانَ يُوآبُ ابْنُ صَرُويَةَ عَلَى الْجَيْشِ، وَيَهُوشَافَاطُ بْنُ أَخِيلُودَ مُسَجِّلًا، 17 وَصَادُوقُ بْنُ أَخِيطُوبَ وَأَخِيمَالِكُ بْنُ أَبِيَاثَارَ كَاهِنَيْنِ، وَسَرَايَا كَاتِبًا، 18 وَبَنَايَاهُو بْنُ يَهُويَادَاعَ عَلَى الْجَلاَّدِينَ وَالسُّعَاةِ، وَبَنُو دَاوُدَ كَانُوا كَهَنَةً."
+    },
+    {
+      "section_title": "تدبير أمور المملكة الداخلية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما نجح داود في حروبه ضد الأمم المقاومة"
+    },
+    {
+      "section_title": "تدبير أمور المملكة الداخلية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكسب صداقات الأمم المسالمة نجح أيضًا في الاهتمام بشئون مملكته الداخلية ورعاية"
+    },
+    {
+      "section_title": "تدبير أمور المملكة الداخلية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعب الله على خلاف شاول الذي كان قويًا في الحروب وفاشلًا في سياسته الداخلية."
+    },
+    {
+      "section_title": "أولًا: اهتم بكل الشعب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبالقضاء لهم بالعدل: \"وملك داود على جميع إسرائيل، وكان داود يجري قضاءً"
+    },
+    {
+      "section_title": "أولًا: اهتم بكل الشعب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعدلًا لكل شعبه\" [15]."
+    },
+    {
+      "section_title": "جاء في (المزمور 72)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يدين شعبك بالعدل ومساكينك بالحق، تحمل الجبال سلامًا للشعب والآكام بالبر."
+    },
+    {
+      "section_title": "جاء في (المزمور 72)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقضي لمساكين الشعوب. يخلص بني البائسين ويسحق الظالم\" (مز 72: 2-4)."
+    },
+    {
+      "section_title": "ثانيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نجح في توزيع"
+    },
+    {
+      "section_title": "المسئوليات على قادة يسندونه، فأقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أ. يوآب على الجيش."
+    },
+    {
+      "section_title": "ب. يهوشفاط بن أخيلود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُسجِّلًا يكتب أحكام الملك ويحفظها."
+    },
+    {
+      "section_title": "ج. صادوق بن أخيطوب من نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أليعازار وأخيمالك بن أبيأثار كاهنين."
+    },
+    {
+      "section_title": "ج. صادوق بن أخيطوب من نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "د. سرايا كاتبًا، أي وزيرًا"
+    },
+    {
+      "section_title": "ج. صادوق بن أخيطوب من نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومفتشًا للدولة."
+    },
+    {
+      "section_title": "ه. بناياهو بن يهوياداع رئيسًا على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجلادين والسعاة الذي يعاقبون المذنبين، وهم أيضًا حراس الملك"
+    },
+    {
+      "section_title": "ه. بناياهو بن يهوياداع رئيسًا على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(2 مل 11: 4). الكلمة الأصلية لجلادين"
+    },
+    {
+      "section_title": "ه. بناياهو بن يهوياداع رئيسًا على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"كريتيون\"، ربما لأن الملوك كانوا يفضلون استخدام حراس من الأجانب حتى"
+    },
+    {
+      "section_title": "ه. بناياهو بن يهوياداع رئيسًا على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذا ما حدثت فتنة من الشعوب لا يتسترون عليهم بسبب القرابة."
+    },
+    {
+      "section_title": "و. بنيه (بني داود) كهنة أي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفعاء. كلمة \"كهنة\" هنا لا تعني ممارسة العمل الكهنوتي التعبدي وإنما"
+    },
+    {
+      "section_title": "و. بنيه (بني داود) كهنة أي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل الشفاعة كحكام تحت يديْ داود ويعملون لحساب الشعب وخدمتهم؛ يقدمون لداود طلبات"
+    },
+    {
+      "section_title": "و. بنيه (بني داود) كهنة أي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب الحقيقية... لذا حسبوا ككهنة."
+    },
+    {
+      "section_title": "و. بنيه (بني داود) كهنة أي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاموس الكتاب المقدس، ص 207."
+    },
+    {
+      "section_title": "و. بنيه (بني داود) كهنة أي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "صموئيل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 8 من سفر صموئيل الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/s2s579q"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/s2s579q"
     }
   ]
 }

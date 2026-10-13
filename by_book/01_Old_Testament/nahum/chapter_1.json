@@ -1,17 +1,3421 @@
 {
-  "book_id": 37,
+  "book_id": "nahum",
   "book_title": "تفسير سفر ناحوم",
   "chapter_number": 1,
   "chapter_title": "الأصحاح 1",
   "topic": "الأصحاح 1",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "مقدمة",
+      "verses": "1"
+    },
+    {
+      "number": 2,
+      "title": "قدير في مراحمه وفي غضبه على الخطية",
+      "verses": "2 -8"
+    },
+    {
+      "number": 3,
+      "title": "دمار مملكة أشور وجيشها",
+      "verses": "9 -11"
+    },
+    {
+      "number": 4,
+      "title": "تحرير أورشليم",
+      "verses": "12 -14"
+    },
+    {
+      "number": 5,
+      "title": "الخلاص العظيم",
+      "verses": "15"
+    }
+  ],
+  "sections_count": 564,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
       "text": "الله الغيور"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصَّور هذا السفر مدى الدمار الذي يحل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنينوى بسبب الفساد الذي حل بمملكة أشور ووحشية ملوكها، خاصة في تعاملهم مع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسرى، فإن هذه النبوة موجهة للأمم كما لليهود. فمن جهة الأمم سبق الله فرحم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نينوى حين تابت، لكن إصرارها على العودة إلى الشر يسقطها في الدمار الشامل. هذا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدرس موجه إلى الأممي كما إلى اليهودي، ليعلم الإنسان أن الله قدير في حبه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومراحمه ولكنه لا يهادن الخطية."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحْيٌ عَلَى نِينَوَى."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِفْرُ رُؤْيَا نَاحُومَ الأَلْقُوشِيِّ."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منذ حوالي قرن ونصف أرسل الله يونان"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي لينذر نينوى المدينة العظيمة بخرابها بسبب فسادها، وإذ قدم الملك مع الشعب"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توبة غفر لهم، وعفا عنهم. لكن سرعان ما رجعوا إلى خطاياهم، وصاروا إلى حالٍ أشر،"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى دعيت \"مدينة الدماء\" (نا 3: 1). وإذ أصروا على شرورهم بصورة"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بشعة لم يرسل لهم نبيًا، بل أرسل إليهم نبوة تعلن عن ما سيحل بالمدينة من دمارٍ."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكما جاء في سفر إرميا: \"تارة أتكلم على أمةٍ وعلى مملكة بالبناء والغرس،"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتفعل الشر في عيني، فلا تسمع لصوتي، فأندم عن الخير الذي قلت إني أحسن إليها"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به\" (إر 18: 9-10)."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد تحققت هذه النبوة على أيدي نبوخذنصر"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأحشويرش"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Ahsuerus أو"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Xerxes."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معنى"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة \"وحي\" هو شيء من هذا النوع، وهو إذ يرغب في إعطاء الأنبياء"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بصيرة غالبًا ما يصدر نشوة بهجة، فيُسبب الله تحولًا مفاجئًا لأذهانهم، حتى أنهم"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهم في هذه الحالة يتقبلون معرفة المستقبل بمخافة عميقة. إنه يدعوها"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وحيًا\"، وبعد ذلك نعمة الروح حيث يمسك ذهن النبي فجأة، محولًا إيَّاه"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برؤية إعلان لما يحدث بوضوحٍ. يقول نفس الشيء هنا أيضًا: \"وحي على نينوى،"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر رؤيا ناحوم الألقوشي\"، كأنه يقول: لقد أُمسك ذهن النبي فجأة بنعمة"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروح وتحول للتأمل في تلك الأمور التي منها تعلم ما هو مصير نينوى، الأمر الذي"
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُدم لسامعيه كتعليمٍ بما قد أُظهر له."
+    },
+    {
+      "section_title": "1. مقدمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيؤدور أسقف المصيصة"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "2 اَلرَّبُّ إِلهٌ غَيُورٌ وَمُنْتَقِمٌ. الرّبُّ مُنْتَقِمٌ وَذُو سَخَطٍ. الرّبُّ مُنْتَقِمٌ مِن مُبْغِضِيهِ وَحَافِظٌ غَضَبَهُ علَى أَعْدَائِهِ. 3 الرَّبُّ بَطِيءُ الْغَضَبِ وَعَظِيمُ الْقُدْرَةِ، وَلكِنَّهُ لاَ يُبَرِّئُ الْبَتَّةَ. الرَّبُّ فِي الزَّوْبَعَةِ، وَفِي الْعَاصِفِ طَرِيقُهُ، وَالسَّحَابُ غُبَارُ رِجْلَيْهِ. 4 يَنْتَهِرُ الْبَحْرَ فَيُنَشِّفُهُ وَيُجَفِّفُ جَمِيعَ الأَنْهَارِ. يَذْبُلُ بَاشَانُ وَالْكَرْمَلُ، وَزَهْرُ لُبْنَانَ يَذْبُلُ. 5 اَلْجِبَالُ تَرْجُفُ مِنْهُ، وَالتِّلاَلُ تَذُوبُ، وَالأَرْضُ تُرْفَعُ مِنْ وَجْهِهِ، وَالْعَالَمُ وَكُلُّ السَّاكِنِينَ فِيهِ. 6 مَنْ يَقِفُ أَمَامَ سَخَطِهِ؟ وَمَنْ يَقُومُ فِي حُمُوِّ غَضَبِهِ؟ غَيْظُهُ يَنْسَكِبُ كَالنَّارِ، وَالصُّخُورُ تَنْهَدِمُ مِنْهُ. 7 صَالِحٌ هُوَ الرَّبُّ. حِصْنٌ فِي يَوْمِ الضَّيقِ، وَهُوَ يَعْرِفُ الْمُتَوَكِّلِينَ عَلَيْهِ. 8 وَلكِنْ بِطُوفَانٍ عَابِرٍ يَصْنَعُ هَلاَكًا تَامًّا لِمَوْضِعِهَا، وَأَعْدَاؤُهُ يَتْبَعُهُمْ ظَلاَمٌ."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلرَّبُّ إِلَهٌ غَيُورٌ وَمُنْتَقِمٌ."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ مُنْتَقِمٌ وَذُو سَخَطٍ."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ مُنْتَقِمٌ مِن مُبْغِضِيهِ"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَافِظٌ غَضَبَهُ علَى أَعْدَائِهِ. [2]"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت النبوة قاسية وعنيفة، لكنها مملوءة"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحنو والعاطفة على النفوس التي تلتصق بالله. يبدأ بالحديث عن الرب أنه إله غيور."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الغيرة يتسم بها الزوج على زوجته، فلا يسمح لأحد أن يمسها أو يعتدي عليها،"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتسم بها الملك على الخاضعين في ولاء له، فيخطط ويعمل لحمايتهم. هكذا غيرة الله"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الإنسان، إنما هي من قبيل حبه له. فهو لا يقبل أن ينافسه أحد أو شيء ما ليحتل"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلب محبوبه الإنسان."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيرته تقتضي أحيانًا أن يستخدم عصا"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التأديب على الإنسان، لأن الأخير يجرح علاقة الحب المتبادلة، بإعطائه القفا لله لا"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوجه."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الغيرة يسكبها في قلوب خدامه"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمناء، فيقولون مع الرسول بولس: \"فإني أغار عليكم غيرة الله، لأني"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطبتكم لرجلٍ واحدٍ، لأقدم عذراء عفيفة للمسيح\" (2 كو 11: 2)."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التهب قلب فينحاس الكاهن بالغيرة على"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدسية الشعب وخيمة الاجتماع حين زنى إسرائيل مع بنات موآب وعبدوا آلهتهن الوثنية،"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد تجاسر أحدهم وقدم لإخوته مديانية ودخل بها إلى خيمة الاجتماع. فإنه إذ طعنها"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكاهن قال الرب: \"قد ردَّ سخطي عن بني إسرائيل بكونه غار غيرتي في وسطهم"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى لا أفنٍ بني إسرائيل بغيرتي\" (عد 25: 11)."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول أيضًا إيليا النبي:"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قد غرت"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيرة للرب إله الجنود لأن بني إسرائيل قد تركوا عهدك، ونقضوا مذابحك، وقتلوا"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنبياءك بالسيف\" (1 مل 19: 10)."
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الرب إله غيور ومنتقم\""
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "]2[،"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهو غيور على مؤمنيه السالكين"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في طريقه، المخلصين في حبهم له، والذين يتكلون عليه. إن أخطأوا يؤدبهم لغيرته وحبه"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشديد لهم؛ وهو منتقم ليس من أجل ذاته وإنما لحماية أولاده، حاسبًا كل من يأخذ"
+    },
+    {
+      "section_title": "غضبه على الخطية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موقف العداوة منهم، إنما يأخذها ضده شخصيًا. لذلك يقول: \"حافظ غضبه على"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمح الله لمملكة أشور أن تسبي شعبه لأجل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تأديبهم، لكن أشور ظنت أن أصنامها أعظم من الله، فصارت تسخر منه؛ كما تمادت في"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذلال شعب الله."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيور، وهو لا يسخر باستهزاء بأحدٍ. إنه لا يسخر كمن يفتخر بصلاحه هو، بل هو طويل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأناة، لكنه يهدد."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إخوتي، مخيف هو الوقوع في يدي الرب. ومخيف هو وجه الرب ضد فاعلي الشر (مز 34: 16)... مخيفة هي أُذن الرب، وهي تسمع لصوت هابيل يتكلم خلال دمه الصامت. مخيفتان"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هما قدماه اللتان تتخطَّان صنع الشر. مخيف أيضًا ملؤه للمسكونة، حيث يستحيل أن"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهرب موضع ما من عمل الله (إر 23: 24)، حتى بالطيران إلى السماء، أو الدخول في"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجحيم، أو الهروب إلى الشرق الأقصى، أو باختفائنا في الأعماق، في نهاية البحار"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مز 139: 7-8). ناحوم القوشي أمامي مرتعب عندما أعلن عن ثقل نينوى، فإن الله غيور،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والرب منتقم في سخطه على مقاوميه."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النزينزي",
+      "text": "القديس غريغوريوس النزينزي"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاحظوا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا أبنائي المحبوبين كيف أن الرب إلهنا رحوم وبار، كم هو رءوف ولطيف مع الناس،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنه بتأكيدٍ عظيمٍ \"لا يبرِّئ المخطئ\" (راجع نا 1: 2). مع أنه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرحب بعودة الخاطئ ويهبه الحياة، ولا يترك مجالًا لأي شكْ هكذا كمن يدين بقسوة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويرفض الآثمة تمامًا، ويرفض أن يقدم لهم نصائح ليردهم إلى التوبة. وإنما على"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العكس، يقول الله بإشعياء إلى الأساقفة: \"عزُّوا، عزُّوا شعبي، أيها الكهنة، تكلموا بحنوٍ مع أورشليم\" (راجع إش 40: 1). لذلك يليق بكم عند سماعكم كلماته هذه أن تشجعوا الذين أذنبوا، وتقودوهم إلى التوبة، وتقدموا لهم الرجاء. وليس"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باطلًا تحسبون أنكم ستشاركونهم معاصيهم على حساب حبكم لهم."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقبلوا التائبين"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ببهجة، وافرحوا بهم، واحكموا على الخطاة بالرحمة وأحشاء الحنو. فإن كان شخص ما"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سائرًا على شاطئ النهر، وصار متعثِّرًا، وأنتم دفعتموه وألقيتموه في النهر، عوض أن"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقدموا له يد المساعدة، تكونوا قد ارتكبتم جريمة قتل أخيكم."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قوانين الرسل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ بَطِيءُ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْغَضَبِ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَظِيمُ الْقُدْرَةِ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَكِنَّهُ لاَ يُبَرِّئُ الْبَتَّةَ."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبُّ فِي الزَّوْبَعَةِ، وَفِي"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْعَاصِفِ طَرِيقُهُ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالسَّحَابُ غُبَارُ رِجْلَيْهِ. [3]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بطيء"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب، ينتظر توبة الإنسان"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورجوعه إليه، فكان يليق بأشور أن يدرك أن ما ناله من نصرة على شعب الله هو لتأديب"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب، فيتعظ ويترك أصنامه ويؤمن بالله، خاصة وأن لهم خبرة سابقة في أيام يونان النبي."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن عوض الإيمان بالله استخدم أشور كل وسيلة للاستخفاف بالله والتجديف عليه،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإذلال شعبه بطريقة وحشية. وكما يقول الرسول بولس: \"أم تستهين بغنى لطفه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإمهاله وطول أناته، غير عالمٍ أن لطف الله إنما يقتادك إلى التوبة، ولكنك من أجل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قساوتك وقلبك غير التائب تذخر لنفسك غضبًا في يوم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب، واستعلان دينونة الله"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العادلة\" (رو 2: 4-5)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طول أناة الله على الأشرار ليس عن عجز في"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدرة، إذ \"عظيم القدرة\"، يتمهل منتظرًا توبتهم، وإلا لا يبرئهم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الرب رحيم ورؤوف، طويل الروح وكثير"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرحمة؛ لا يحاكم إلى الأبد، ولا يحقد إلى الدهر\" (مز 103: 6-7)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد أظهر الرب لموسى أنه رحوم عن قوةٍ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحبٍ، إذ نزل الرب في السحاب، واجتاز قدامه، ونادى الرب: \"الرب إله رحيم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورؤوف، بطيء"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب، وكثير الإحسان والوفاء؛ حافظ الإحسان إلى ألوف...\""
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(خر 34: 5-7). فخرَّ موسى إلى الأرض وسجد."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله طويل الأناة، لكنه لا يبرئ البتة،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي لا يترك الشر حتى النهاية. فالذين يصرون على شرهم ولا يتوبون لا يبرئهم قط."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما لا يستطيع الإنسان أن يقاوم الزوابع"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعواصف ويمنع السحاب، هكذا لا يقدر أن يقف أمام غضب الله في تشامخٍ وكبرياءٍ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما بالتوبة والتواضع يتمتع بالمراحم الإلهية."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الرب"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رحيم ورءوف، طويل الروح، وكثير الرحمة\""
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مز 103: 8). لماذا هو طويل الأناة هكذا؟"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا كثير الرحمة؟ الناس يخطئون ويعيشون، الخطايا مستمرة والحياة مستمرة. الناس"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجدفون كل يوم، وهو يشرق شمسه على الصالحين والأشرار (مت 5: 45). على كل الأحوال،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه يدعو إلى الإصلاح، يدعو إلى التوبة، يدعو بمباركته للخليقة؛ يدعو بأن يعطي"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زمنًا للحياة (فرصًا للتوبة)، يدعو خلال القارئ (للكلمة في الكنيسة)، وخلال"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكارز، ويدعو خلال الفكر الداخلي"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعصا الإصلاح، ويدعو"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمراحم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التعزيات. إنه طويل الأناة ورحوم. ولكن لتحذر لئلا بإساءة استخدام عظم مراحم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله تخزن لنفسك غضبًا في يوم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب، كقول الرسول (رو 2: 7)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى: \"أنا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُقيم عهدي معكِ، فتعلمين أني أنا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب؛ لكي تتذكري فتخزي، ولا تفتحي فاكِ بعد بسبب خِزيك، حين أغفر لك كل ما فعلتِ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول الرب الله\" (حز 16: 62-63). هكذا يشير بوضوح بهذه الكلمات الإلهيَّة إلى"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما قيل في موضع آخر بالعبارة: \"وإن كان يطهرك لا يجعلك بارًا\". فإنه حتى"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار إذ يرجعون عن حالهم السابق بعد ارتكابهم خطيَّة، لا يتجاسرون ليفتحوا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أفواههم، بل يقولون مع الرسول: \"لست مستحقًا أن أُدعى رسولًا، لأني اضطهدت"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنيسة الله\" (1 كو 15: 9)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الرب"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طويل الأناة، وعظيم القدرة، وبالتأكيد لا يبرئ البتَّة\" (مي 1: 3). إنه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يوقع العقوبة (التأديب) للحال فجأة، وإنما بعد طول أناة عظيمة. أنتم يا أهل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نينوي شهود لذلك، فإنكم إذ مارستم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التوبة وجدتم الخلاص، بعد ارتكابكم شرورًا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرة ولمدة طويلة لم تنالوا عقوبة عنها. ولكن إذ يمارس الشعب الشرور مدة طويلة،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنه يوقع العقوبة على غير التائبين. (معنى \"لا يبرئ البتَّة\" أنه لا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعفي من العقوبة من يستحق ذلك من الخطاة)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثيؤدورت أسقف قورش"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"السحاب غبار رجليه\"."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا استعارة عن سرعة المركبات والخيول الفائقة، إذ تسبب سحابة من التراب، حتى يصعب"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رؤيتها. هكذا فإن الرب كمن يأتي من السماء في مركبته السريعة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كالبرق، فيحيط به"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السحاب كما يحيط التراب بالمركبات والخيول."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَنْتَهِرُ الْبَحْرَ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَيُنَشِّفُهُ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيُجَفِّفُ جَمِيعَ الأَنْهَارِ."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَذْبُلُ بَاشَانُ وَالْكَرْمَلُ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزَهْرُ لُبْنَانَ يَذْبُلُ. [4]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلق الله كل شيء بكلمةٍ، وبكلمة منه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتهر البحر فينشفه، ويجفف جميع الأنهار التي تصب المياه في البحار. في القديم شق"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر الأحمر ليعبر شعبه كما على اليابسة، وأوجد لهم طريقًا ليعبروا الأردن."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحار والأنهار بكل قدراتها تجف بكلمة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منه، والإنسان بضعفه الشديد يأخذ موقف العصيان والتمرد على خالقه الطويل الأناة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليه والمحب له!"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان الإنسان يظن في نفسه شيئًا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فليتطلع إلى باشان والكرمل ولبنان، المناطق المتسمة بالخضرة والزهور الجميلة،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنها تذبل أمام حر الصيف أو"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صقيع الشتاء، فمن هو الإنسان ليقف أمام خالق الزمن"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومدبر الكون كله؟"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت باشان مشهورة بمراعيها الخضراء"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(يوئيل 1: 10)، والكرمل بحقول الحنطة والكروم، ولبنان بغاباتها (إش 33: 9)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان هنا نبوَّة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن السيِّد المسيح الذي انتهر الرياح فهدأت وسكنت الأمواج: [هنا نبوَّة عن المسيح"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السائر على المياه، وقد سبقت مجيئه. لقد تحقَّقت كلمات المزمور بعبور المسيح"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحيرة، إذ يقول المرتل: \"الرب على المياه الكثيرة\" (مز 29: 3). عندما"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدَّد أمواجها تحققت كلمات حبقوق القائل: \"يحصي المياه عند سيره\" (حب 3: 10) LXX، وعندما انتهر"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البحر فهدأ تحققت كلمات ناحوم أيضًا: \"ينتهر البحر فينشفه\" (نا 1: 4)، مشيرًا إلى الرياح الذي هيَّجت البحر]."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اَلْجِبَالُ تَرْجُفُ مِنْهُ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالتِّلاَلُ تَذُوبُ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالأَرْضُ تُرْفَعُ مِنْ وَجْهِهِ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالْعَالَمُ وَكُلُّ السَّاكِنِينَ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِيهِ. [5]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَنْ يَقِفُ أَمَامَ سَخَطِهِ؟"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَنْ يَقُومُ فِي حُمُوِّ غَضَبِهِ؟"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غَيْظُهُ يَنْسَكِبُ كَالنَّارِ،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالصُّخُورُ تَنْهَدِمُ مِنْهُ. [6]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشَّبه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب الإلهي بنيران البراكين"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والزلازل التي تهدم الصخور وتذوب التلال وتدمر مدنًا بأكملها، وليس من إمكانية"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للوقوف أمام هذه الظواهر الطبيعية. فإن كانت الصخور التي تبدو راسخة، ليس من يقدر"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يحركها تنهار أمام نيران البراكين المتفجرة، فكيف يقف الإنسان أمام نيران الغضب"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي؟"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لذلك هكذا قال السيد الرب:"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غضبي وغيظي ينسكبان على هذا الموضع على الناس والبهائم وعلى شجر الحقل وعلى ثمر"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرض، فيتقدان ولا ينطفئان\" (إر 7: 20)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَالِحٌ هُوَ الرَّبُّ."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حِصْنٌ فِي يَوْمِ الضَّيقِ."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُوَ يَعْرِفُ الْمُتَوَكِّلِينَ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهِ. [7]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لئلا يظن أحد، حتى الآشوريين، أن الله"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَّبار منتقم، يبرز النبي صلاح الله وحنوه على المتكلمين عليه."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حين يغضب الإنسان يفقد سلامه وحبه وحنوه،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الله ففي غضبه على الشر مملوء حنوًا. يقول حبقوق النبي في صلاته:"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الغضب أذكر الرحمة\" (حب 3: 2). في غضبه على الشر يترقب أن يرحم الخاطئ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كشف عن شوقه الحقيقي للتوبة بينما يرتعب الأشرار من اللقاء مع الله، يترنم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتكلون عليه قائلين: \"صالح هو الرب، حصن في يوم الضيق، وهو يعرف"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتوكلين عليه\" [7]."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى الأبرار في قدرة الله أنه"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نار آكلة تحفظهم، قادر أن يخلصهم، يحوط حولهم فيحفظهم من كل سهمٍ ناريٍ موجه ضدهم."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول القديس بطرس: \"يعلم الرب أن ينقذ الأتقياء من التجربة، ويحفظ الآثمة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى يوم الدين معاقبين\" (2 بط 2: 9)."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أشكروا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب فإنه صالح\""
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مز 106: 1). يا أيها الذين تخطئون خطايا خطيرة وتيأسون من الخلاص، وتظنون أنه بسبب فداحة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطاياكم لا تقدرون أن تنالوا صفحًا، أنصحكم -بالحري ينصحكم النبي- أن تشكروا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب، فإنه صالح. عظيمة هي خطاياكم، ولكن عظيم هو الرب الذين يتحنن عليكم. اعترفوا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخطاياكم للرب، اندموا ولا تيأسوا من خلاصكم، فإن الرب رءوف. لا تتكلوا على قوتكم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل اتكلوا على رحمة الرب."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأن"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب صالح\"، صالح ليس بذات الطريقة التي بها الأشياء التي خلقها صالحة."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن الله خلق كل الأشياء حسنة جدًا (تك 1: 31)، ليس فقط حسنة، وإنما أيضًا حسنة"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا..."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان قد خلق كل هذه الأشياء صالحة، فأي نوع (من الصلاح) ذاك الذي"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلقها...؟ إلى أي مدى يمكننا الحديث عن صلاحه؟ من يقدر أن يدرك ما في قلبه، ويفهم"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف أن الرب صالح؟ لنرجع إلى نفوسنا، فإننا لسنا أهلًا أن نتأمل فيه بذاته."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبالرجاء أنه يمكننا أن نتأمله عندما تتنقى قلوبنا بالإيمان عندئذ نفرح بالحق."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن إذ لا يمكننا رؤيته فلنتطلع إلى أعماله حتى لا نحيا بدون التسبيح له. لهذا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقول: أشكروا الرب فإنه صالح، غنوا لاسمه، فإنه حلو... أي شيء أحلى من طعام"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملائكة؟ كيف لا يكون الله حلوًا حيث أكل الإنسان طعام الملائكة؟ فإن البشر يحيون"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بطعام غير مختلفٍ. هذا حق، إنه الحكمة، إنه صلاح الله، لكنكم لا تقدرون أن تتمتعوا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به بنفس الطريقة مثل الملائكة."
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلكِنْ بِطُوفَانٍ عَابِرٍ يَصْنَعُ"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَلاَكًا تَامًّا لِمَوْضِعِهَا،"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَعْدَاؤُهُ يَتْبَعُهُمْ ظَلاَمٌ. [8]"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض في هذه العبارة نبوة عما سيحل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنينوى من جيش مادي وبابل، حيث يقتحم الجيش المدينة، وكأنه طوفان قد حلّ بها، ليس"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يقدر أن يقف أمامه. ويرى آخرون أنها نبوة عن تصرف هذا الجيش حين أسر نينوى بعمل"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيضان في النهر الذي حطم السور البالغ 20 فرلنغًا"
+    },
+    {
+      "section_title": "أولاده\".",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Furlongs (مقياس للطول يساوي 220 ياردة أو ثمن ميل)."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "9 مَاذَا تَفْتَكِرُونَ عَلَى الرَّبِّ؟ هُوَ صَانِعٌ هَلاَكًا تَامًّا. لاَ يَقُومُ الضِّيقُ مَرَّتَيْنِ. 10 فَإِنَّهُمْ وَهُمْ مُشْتَبِكُونَ مِثْلَ الشَّوْكِ، وَسَكْرَانُونَ كَمِنْ خَمْرِهِمْ، يُؤْكَلُونَ كَالْقَشِّ الْيَابِسِ بِالْكَمَالِ. 11 مِنْكِ خَرَجَ الْمُفْتَكِرُ عَلَى الرَّبِّ شَرًّا، الْمُشِيرُ بِالْهَلاَكِ."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَاذَا تَفْتَكِرُونَ عَلَى"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبِّ؟"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَ صَانِعٌ هَلاَكًا تَامًّا."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ يَقُومُ الضِّيقُ مَرَّتَيْنِ. [9]"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعله يُشير هنا إلى"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما فعله سنحاريب ونائبه ربشاقى الذين عيَّرا رب الجنود، وتحدثا عنه علانية كإله"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاجز عن حماية شعبه، وأنه لا يقدر أن ينقذهم من يد ملك أشور."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسخر النبي بمملكة أشور التي تظن أنها"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكة عظيمة قادرة على مقاومة الله العظيم في قدرته، فيسأل: ماذا تتخلين ضد الرب؟"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن مقاومتك ليست ضد بشرٍ مائتين، بل ضد الرب القدير."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا يقوم الضيق مرتين\"، فإذ حاول سنحاريب ملك أشور"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتح أورشليم تحطم جيشه، وقتله ابناه عند عودته إلى بلده، فلا مجال له أن يعيد"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكره، ويحاول فتح أورشليم مرة أخرى. يرى البعض أن المعنى هنا أنه إذ يتدمر جيش"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور مرة ليس من مجال لتدميره مرة أخرى، لأنه لا يعود يقوم ليحارب من جديد!"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يعلِّم ابنه ما لم يحبه. والسيد لا يُصلح من شأن تلميذه ما لم يرَ فيه علامات"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوعد. عندما يأتي الطبيب ولا يهتم بالمريض، هذه علامة أنه في يأسٍ منه. يليق بك"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تجيب هكذا: إذ قبل لعازر في حياته شرورًا، فإنني أتقبَّل بسرورٍ العذابات لكي"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتمتع بالمجد المقبل ليّ. لأن الضيق لا يقوم مرتين (نا 1: 9)."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسقف أو الكاهن أو الشماس الذي يسقط في"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زنا أو القسم كذبًا أو"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السرقة أن يُقطع من درجته الكهنوتية ولا يوقف، لأن الكتاب"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقولك [لا تنتقم مرتين لذات الجريمة بحزن] (راجع نا 1: 9) LXX."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القوانين الكنسية"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أظن أن السلطات القديمة اتبعت القانون القديم: \"لا تنتقم لنفس الشيء مرتين\""
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(نا 1: 9) LXX."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولهذا السبب أيضًا العلمانيون (الشعب) عندما يُستبعدون من موضع المؤمنين يُردون من"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقتٍ إلى آخر إلى الرتبة التي سقطوا منها. أما الشماس فيسقط تحت عقوبة نهائية"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالقطع من رتبته، فلا ترد إليه رتبة الشموسية، بل تبقى كعقوبة دائمة."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يرتكبون خطية للموت، يجردون من رتبتهم، لكنهم لا يُستبعدون من شركة"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلمانيين (الشعب)، إذ لا تُعاقب مرتين على نفس الخطأ (نا 1: 9) LXX."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "قول آبائي",
+      "father_name": "القديس باسيليوس الكبير",
+      "text": "القديس باسيليوس الكبير"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَإِنَّهُمْ وَهُمْ مُشْتَبِكُونَ مِثْلَ"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشَّوْكِ،"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَكْرَانُونَ كَمِنْ خَمْرِهِمْ"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُؤْكَلُونَ،"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَالْقَشِّ الْيَابِسِ بِالْكَمَالِ."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحسب سنحاريب الملك ورجاله وهم يعيرون"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رب القوات أشبه بشوكٍ جافٍ يقف أمام نار ملتهبة، أو كسكرى لا يدرون بما ينطقون."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنهم كالقش الكامل اليبوسة، تلتهمه النار بسرعة فائقة."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح أن هؤلاء القتلى من الجنود (185"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألفًا) كانوا يشاركون قائدهم روحه الشرير، وسخريته بالرب الإله، لذلك ضربهم ملاك"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب. هذا يظهر من قول النبي: \"مشتبكين مثل الشوك، وسكرانون\"."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكان كل منهم يشدد أيدي الآخرين في الشر، ويثيرهم على التجديف على الله، فصاروا"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشبه بكتلة من الأشواك لا يُمكن فصلها عن بعض، فيقوم المزارع بحرقها معًا بالنار."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكانوا أشبه بجماعة من السكرى، كل منهم يحث البقية على السكر والسخرية."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرمز الشوك"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للأشرار، فإنهم كالشوك"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يبدو مؤذيًا، لكنه يابس سرعان ما تشتعل فيه النار، فيصير رمادًا لا حول له."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ولكن"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بني بليعال جميعهم كشوكٍ مطروحٍ، لأنهم لا يؤخذون بيدٍ، والرجل الذي يمسهم يتسلح"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحديدٍ وعصا"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رمح، فيحترقون بالنار في مكانهم\" (2 صم 23: 6-7)."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يترنح السكارى ويتظاهرون"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالشجاعة، ويفتخرون بأنفسهم كعظماء وأغنياء وأقوياء، وإن كان يمكن لإنسان أن"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدفعهم للسقوط بطرف إصبعه."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يذكر ديؤدورس سيكولوس"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Diodorus Siculus أنه إذ دخل العدو"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نينوى قام ساردانابالوس"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sardanapalus بحرق قصره المشهور، بهذا تحققت نبوة ناحوم أنهم كالشوك يحترقون."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْكِ خَرَجَ الْمُفْتَكِرُ"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى الرَّبِّ شَرًّا،"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمُشِيرُ بِالْهَلاَكِ. [11]"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجه الحديث إلى نينوى التي خرج منها"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنحاريب ينطق على الرب بالشر، فيدمر نفسه كما يدمر المدينة التي خرج منها."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعو ربشاقى بالمشير الجاهل الذي أشار"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على رجال الحرب الجالسين على السور ألا يتكلوا على الرب، فإنه عاجز عن إنقاذهم من"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يد سنحاريب ملك أشور (إش 36). إنه مشير بالهلاك، لأنه تعييره لرب الجنود أدى إلى"
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قتل مئة وخمسة وثمانين ألفًا من جيشه في ليلة واحدة بواسطة ملاك الرب (إش 37: 36)."
+    },
+    {
+      "section_title": "وجيشها",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما قُتل سنحاريب نفسه بواسطة ابنيه أدرملك وشرآصر (إش 37: 38)."
+    },
+    {
+      "section_title": "4. تحرير أورشليم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "12 هكَذَا قَالَ الرَّبُّ: «إِنْ كَانُوا سَالِمِينَ وَكَثِيرِينَ هكَذَا، فَهكَذَا يُجَزُّونَ فَيَعْبُرُ. أَذْلَلْتُكِ. لاَ أُذِلُّكِ ثَانِيَةً. 13 وَالآنَ أَكْسِرُ نِيرَهُ عَنْكِ وَأَقْطَعُ رُبُطَكِ». 14 وَلكِنْ قَدْ أَوْصَى عَنْكَ الرَّبُّ: «لاَ يُزْرَعُ مِنِ اسْمِكَ فِي مَا بَعْدُ. إِنِّي أَقْطَعُ مِنْ بَيْتِ إِلهِكَ التَّمَاثِيلَ الْمَنْحُوتَةَ وَالْمَسْبُوكَةَ. أَجْعَلُهُ قَبْرَكَ، لأَنَّكَ صِرْتَ حَقِيرًا»."
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنْ كَانُوا سَالِمِينَ وَكَثِيرِينَ،"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَكَذَا فَهَكَذَا يُجَزُّونَ"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَيَعْبُرُ."
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَذْلَلْتُكِ."
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ أُذِلُّكِ ثَانِيَةً. [12]"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت مملكة أشور أشبه بموسى قام بجز"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الممالك كما يُجز الشعر من الرأس، لذلك جاءت العقوبة أنها تُجز هي. جاء في إشعياء:"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"في ذلك اليوم يحلق السيد بموسى مستأجرة في عبر النهر بملك أشور الرأس"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشعر الرجلين، وتنزع اللحية أيضًا\" (إش 7: 20)."
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ سبق هذا الجيش فهزم مدنًا كثيرة كانت"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعتمد على آلهتها الوثنية، وقفوا أمام أورشليم كمن في آمان وسلام يعتزون بكثرتهم"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقوتهم، فإذا بهم \"يُجزون\" كالعشب، ويعبر بهم الملاك المهلك"
+    },
+    {
+      "section_title": "هَكَذَا قَالَ الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويذلهم مرة واحدة، ولا يقومون من هذا الهلاك ليسقطوا مرة أخرى في هلاك جديد!"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أذللتك، لا أذلك"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثانية\" يكشف الرب غايته من التأديب، وهو توبة الخاطي في تواضع وتذلل، لكي"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما يرفعه الرب ويقيمه ممجدًا. لهذا قيل عن الرب: \"لأن السيد لا يرفض إلى"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبد، فإنه ولو أحزن يرحم حسب كثرة مراحمه، لأنه لا يذل من قلبه، ولا يُحزن بني"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان\" (مرا 3: 31-33)."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أذللتك، لا أذلك"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثانية\" يؤكد الله لحزقيا الملك أنه قد سمح له ولشعبه بهذا الحصار لكي"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتعرف الشعب على خطئه ويقدم توبة صادقة بروح التواضع. وأن الضربة التي ستصيب جيش"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور الذي يحاصر أورشليم ستكون قاضية فلا يعود سنحاريب بعد يحاصرها."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَالآنَ أَكْسِرُ نِيرَهُ عَنْكِ،"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَقْطَعُ رُبُطَكِ. [13]"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤكد الرب لحزقيا الملك ورجاله أن الله"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكسر نير سنحاريب وجيشه ويقطع ربطه، حيث كان جيش الأشوريين يقتحم الكثير من مدن"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقرى يهوذا، يعبث بها في حرية، وأورشليم عاجزة عن الدفاع عن هذه المواضع، إذ كانت"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشبه بمدينة مربوطة ومقيدة. ستتمتع بالحرية، فلا يقوم جيش أشور بهجوم آخر حيث تخور"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قوته بقتل 185 ألفًا بواسطة ملاك الرب، ويصير الجيش كأنه قد انقرض، لا قوة له."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النير الذي وضعه أشور هو الجزية التي"
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرضها سنحاريب على حزقيا (2 مل 18: 14)."
+    },
+    {
+      "section_title": "بقوله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلكِنْ قَدْ أَوْصَى عَنْكَ"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لاَ يُزْرَعُ مِنِ اسْمِكَ فِي مَا"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَعْدُ."
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنِّي أَقْطَعُ مِنْ بَيْتِ إِلَهِكَ"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التَّمَاثِيلَ الْمَنْحُوتَةَ وَالْمَسْبُوكَةَ."
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَجْعَلُهُ قَبْرَكَ، لأَنَّكَ صِرْتَ"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَقِيرًا. [14]"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد صدر الأمر بإبادة اسمه، فلا يتحدث"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنه أحد بعد كغالبٍ ومنتصرٍ، وتتبدد سمعته مع الريح كغبار يعبر ولا يعود. بقوله"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إني"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقطع من بيت إلهك التماثيل المنحوتة والمسبوكة\"، ربما يُشير إلى قتل"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سنحاريب الملك بواسطة ابنيه في بيت"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسروخ إلهه (إش 37: 38؛ 2 مل 19: 37). أظهرت هذه الجريمة البشعة عجز"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسروخ عن حماية من يعبده، وتطلع الشعب إلى هذا الهيكل وقد"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تدنس بالجريمة، فقطعوا منه التماثيل، وامتنعوا عن العبادة فيه. ولعله يُشير هنا"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى انهيار مملكة أشور، حيث قام العدو بتخريب نينوى، وتحطيم تماثيل آلهتهم التي"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا يظنون أنها سرّ نصرتهم."
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أجعله قبرك، لأنك صرت حقيرًا\"، تحول بيت"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسروخ إلهه إلى"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقبرة له، حيث رقد مُحتقرًا من ابنيه اللذين قتلاه غدرًا، فحُرم حتى من المحبة البنوية. ولعله يقصد هنا مدينة نينوى التي صارت مقبرة لأشور حيث تم دمارها بطريقة"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشينة."
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يدخل إلهنا في قلوبنا، نشتهي ألا"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُزرع اسمنا بعد إذ نحمل اسمه، فنترنم قائلين: \"مع المسيح صلبت فأحيا، لا"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنا، بل يحيا المسيح فيَّ\" (غل 2: 20). يحطم فينا الأنا"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ego ويقيم ملكوته الإلهي فينا. تُدفن"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنانية كما في قبر، فينزع عنا حقارتنا ليهبنا شركة أمجاده، فيتغنى السمائيون:"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مجد ابنة الملك من الداخل\" (مز 45: 13)، بل ويناجينا السماوي نفسه:"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"كلكِ جميلة يا حبيبتي، ليس فيكِ عيبة\" (نش 4: 7). \"من"
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هي المشرقة مثل الصباح، جميلة كالقمر، طاهرة كالشمس، مرهبة كجيشٍ بألوية؟\""
+    },
+    {
+      "section_title": "الرَّبُّ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(نش 6: 10)."
+    },
+    {
+      "section_title": "5. الخلاص العظيم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُوَذَا عَلَى الْجِبَالِ"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَيِّدِي يَا يَهُوذَا أَعْيَادَكِ."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَوْفِي نُذُورَكِ،"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَإِنَّهُ لاَ يَعُودُ يَعْبُرُ فِيكِ"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيْضًا الْمُهْلِكُ."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدِ انْقَرَضَ كُلُّهُ. [15]"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يبشر أورشليم بحل ربطها، وكسر نير جيش"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور، وهلاك ملكها سنحاريب وقطع تماثيل آلهتها، يتنبأ ناحوم عن ما هو أعظم وهو"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخلاص الذي يقدمه المسيا للعالم كله. فيرى في السيد المسيح القادم كما على الجبال"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لينادي بالسلام الداخلي الحقيقي الأبدي، حيث يصالح البشرية مع الآب، ويحول حياتنا"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى أعياد لا تنقطع، ويحطم عدو الخير ويقطعه، فلا يكون له سلطان على أولاد الله،"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل ينقرض هو وجنوده وحيله وأعماله وأفكاره \"قد انقرض كله\"."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هذه الجبال التي تسير عليها قدما"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنادي بالسلام، إلا النبوات التي هيأت البشرية لقبول المخلص؟"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتأكيد"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلب أخبارًا مفرحة لصهيون، وقدم سلامًا لأورشليم. إنه يصعد على جبلٍ، وهناك يقضي"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليلة في صلاة (لو 6: 12). لهذا، فلترجعوا إلى الأنبياء، وتتعلموا منهم دوره"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكامل. يقول إشعياء: \"على جبلٍ عالٍ اِصعدي يا مبشِّرة أورشليم\" (إش 40: 9). \"فبُهتوا من تعليمه، لأن كلامه كان بسلطان\" (لو 4: 32)..."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أنا حاضر، عندما تكون الساعة، على الجبال، أجلب البشارة بالسلام، وأبشِّر بالخير] (راجع إش 42: 7). وكما يقول أحد الاثني عشر (من"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنبياء الصغار)"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ناحوم: \"هوذا على الجبال قدما مبشرٍ منادٍ بالسلام مسرعتان\" (راجع نا 1: 15)."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة ترتليان",
+      "text": "العلامة ترتليان"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاك الذي يتذكر الإنجيل يذكر كيف صعد (السيد) من الجحيم، ونفخ الروح القدس في وجه يهوذا -أي"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التلاميذ اليهود- إذ ينتمون إلى العهد الجديد، الذين صارت أيام أعيادهم متجددة"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحيًا لا يمكن أن تصير قديمة. علاوة على هذا قد رأينا أن"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بقية النبوَّة (نا 1: 14) قد"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحقَّقت حيث دمَّر الإنجيل \"التماثيل المنحوتة والمسبوكة\"، أي"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصنام الآلهة الباطلة وسُلمت الآن النسيان في القبر."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحديثه"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الأقدام يعني مجيء الرسل الذين طافوا العالم يكرزون بمجيء ملكوت الله. فإن"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظهورهم أنار البشرية بإظهار الطريق للسلام مع الله، هذا الذي جاء يوحنا ليعد له (مر 1: 3؛ إش 40: 3). هذا هو السلام الذي يسرع إليه الذين يؤمنون بالمسيح."
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب أمبروسياستر"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلامي فقط هو الذي يوضح هذه الأمور، بل قد سبق النبي فأنبأ بذلك صارخًا:"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"هوذا على الجبال قدما مبشر منادِ بالسلام\" (نا 1: 15). وما هي رسالته التي بشر بها إلا التي أخذ يعلنها لهم،"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائلًا: \"عيدي يا يهوذا أعيادك، أوفي للرب نذورك. فإنهم لا يعودوا إلى ما هو"
+    },
+    {
+      "section_title": "قَدَمَا مُبَشِّرٍ مُنَادٍ بِالسَّلاَمِ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قديم. قد انتهى؛ لقد انقرض كله. لقد ارتفع ذاك الذي نفخ على الوجه وخلصك من"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هو هذا الذي ارتفع...؟ إن أردتم معرفة الحقيقة والتخلص من ادعاءات اليهود،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تطلعوا إلى مخلصنا الذي ارتفع ونفخ في وجه تلاميذه قائلًا: \"اقبلوا الروح"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدس\" (يو 20: 22). فبمجرد أن كمل هذا (الصلب) انتهت الأمور العتيقة، فانشق"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حجاب الهيكل (مت 27: 51)، وتحطم المذبح (اليهودي)، ومع أن المدينة لم تكن بعد قد"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خربت، إلا أن رجسة الخراب (مت 24: 15) كانت تستعد للجلوس في وسط الهيكل، فتتلقى"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم وكل تلك الفرائض العتيقة نهايتها."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقترب منا يوم العيد مرة أخرى، الذي أن صمتنا فيه نجعله غير مقدس، إنما يلزم أن"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكون مكرسًا للصلاة أكثر من كل الأيام، وفيه نحفظ الوصايا. لأنه وإن كنا في ضيق من"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أولئك الذين يحزنوننا، وبسببهم سوف لا نخبركم عن هذا الموسم (إذ لا يكون بين"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبه)، لكن شكرًا لله الذي يعزي الحزانى، حتى لا ننهزم بشرور أولئك الذين يتهموننا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنصمت، ففي طاعتنا لصوت الحق نصرخ معكم عاليًا في يوم العيد، لأن إله الكل قال بأن"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتكلما (موسى وهارون) مع الشعب لحفظ الفصح، ويعلن الروح في المزامير قائلًا: \"انفخوا في رأس الشهر بالبوق عيد الهلال كيوم عيدنا\". ويصرخ النبي قائلًا: \"عيدي يا يهوذا أعيادك\" (نا 1: 15)."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنا لا أرسل إليكم الكلمة كأنكم جاهلون،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل أعلنها للذين يعرفونها، حتى يدركوا بأنه وإن كان بعض البعض يفرقنا، لكن الله"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجمعنا، فإننا نعيد بنفس العيد، ونتعبد لنفس الإله على الدوام."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونحن لسنا نعيد كمتفرجين، عالمين أن"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسول يوبخ أمثال أولئك قائلًا: \"أتحفظون أيامًا وشهورًا وأوقاتًا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسنين\" (غل 4: 10)، بل بالحري نكرم هذا اليوم العظيم من أجل العيد، حتى نرضي"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "-نحن جميعًا الذين نخدم الله في كل مكان- وذلك بصلواتنا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجماعية. وقد أعلن بولس الطوباوي عن قرب سرور كهذا، وهو في هذا لم يعلن عن أيامٍ"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل عن الرب الذي من أجله نحفظ العيد، إذ يقول \"المسيح قد ذبح لأجلنا\" (1 كو 5: 7)، فإذ نتأمل أبدية الكلمة نقترب منه لخدمته."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحبائي الأعزاء لقد جاء بنا الله مرة أخرى"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى فصل الفصح، وخلال محبته المترفقة جمعنا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معًا للتعييد. لأن الله الذي أخرج إسرائيل من مصر لا يزال حتى الآن يدعونا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن للفصح، قائلًا على لسان موسى: \"احفظ"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شهر الثمار الجديدة، واعمل فصحًا للرب إلهك\" (تث 16: 10)، ويقول على لسان النبي: \"عيدي يا يهوذا أعيادك أوفي نذورك\" (نا 1: 15)."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن كان الله نفسه يحب العيد ويدعونا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه، فليس"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصواب يا إخوتي"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن نؤجله أو نمارسه"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتراخٍ، إنما"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزمنا أن نأتي إليه بغيرةٍ وسرورٍ، حتى إذ نبدأ هنا بالفرح تشتاق نفوسنا إلى"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العيد السماوي."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عيدنا هنا بنشاط، فإننا بلا شك"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نتقبل الفرح الكامل الذي في السماء، وكما يقول الرب: \"شهوة اشتهيت أن آكل"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الفصح معكم قبل أن أتألم. لأني أقول لكم إني لا آكل منه بعد حتى يكمل في ملكوت"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله\" (لو 22: 15-16)."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنحن نأكل منه الآن أن كان يفهمنا سبب"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العيد وبمعرفتنا للمخلص، نسلك حسب نعمته كقول بولس: \"إذًا لنعيد ليس بخميرة"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عتيقة، ولا بخميرة الشر والخبث، بل بفطير الإخلاص والحق\" (1 كو 5: 7). لأنه"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في هذه الأيام مات الرب، كي لا نعود نشتاق إلى أعمال الموت! لقد بذل حياته، حتى"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحفظ حياتنا من شباك الشيطان!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أثناسيوس الرسولي",
+      "text": "القديس أثناسيوس الرسولي"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[خاص"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالرهبان] يجدر بنا مراعاة الأيام المذكورة بطريقة كهذه حتى يمكن أن تكون"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الراحة مفيدة وغير مضرة للجسد والنفس. لأن فرحة أي عيد لا تُضعف أشواك الجسد، ولا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن لعدونا المتوحش (الشيطان) أن يهدأ بسبب أيام الراحة هذه."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلكي ما نحفظ تقاليد موسم"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العيد، ولكي لا نخضع لقانون الصوم... يكفي لنا في هذا الوقت أن نتناول"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساعة السادسة (12 ظهرًا) بدلًا من الساعة التاسعة، من غير أن نغيّر من كمية"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام ونوعه حتى لا نفقد نقاوة الجسد وصلاح النفس اللذين نلناهما أثناء الصوم"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبير..."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يجب أن نحترس بيقظة إلى المنتهى لئلا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تخور نفوسنا بسبب الغوايات فنفقد نقاوة طهارتنا التي نلناها وذلك بالراحة والإهمال"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وقت عيد الفصح بعد جهاد مستمر طوال الصوم الكبير."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا يلزمنا ألا نضيف شيئًا إلى نوع"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطعام أو كميته، بل حتى في اسمي الأعياد يجب أن نمتنع عن هذه الأطعمة حتى لا يثير"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فينا فرحنا بالعيد صراعًا مميتًا للغاية بسبب الشهوات الجسدانية، وهكذا نتحول إلى"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحزن. فنعود نبكي نقاوة قلبنا المفقودة بحزن الندم اللانهائي."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في نفس الوقت يجدر بنا أن نسعى لئلا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نُوبخ بهذا التحذير \"عَيِّدي يا يهوذا أعيادكِ أوفي نذوركِ\" (نا 1: 15)."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه إن كانت أيام العيد لا تتعارض مع استمرار زهدنا، فإننا نتمتع بأعياد روحية"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دائمة."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب ثيوناس"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي ناحوم 1"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدير أنت في حبك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غيور أنت على القداسة!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إله قدوس غيور، لا تداهن الخطية!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تريد أن تعرفها، ولا أن تعرفك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تسكب قداستك على المؤمنين بك،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتهب برَّك للراغبين في الشركة معك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحببتنا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتقدسنا، فنكون أيقونة لك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في غباوة أحببنا الخطية، وحسبناها حياة"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبهجة!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في طول أناتك تحثنا على العودة إليك."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن أصررنا على الشر، كيف نقف أمامك؟"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستطيع إنسان أن يواجه العواصف،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أن يسيطر على السحاب!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تقدر الصخور أن تقف أمام نيران"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البراكين،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكيف في جسارة نقف أمام نار غيرتك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت نار آكلة، تحرق الشر، وتنير البّر!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صالح"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت يا رب،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى في غضبك تؤدب لتخلص."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحرق الشر، لتنزع عنا التراب، وتقيم منا"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سماءً جديدة."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظن سنحاريب ملك أشور أنه قادر بجيشه أن"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعيرك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقف الشوك اليابس أمام النار!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سكر جيشه وترنح، وظن أنه قدير!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنك كسرت نيره، وأنقذت مدينتك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزعت عن نينوى سلطانها فانهارت!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخلها العدو وهدمها، وقطع تماثيل آلهتها."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل يد تمتد إلى شعبك تُقطع!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل نفسٍ تقاوم ملكوتك، إن لم تتب، تهلك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنقذت شعبك من سنحاريب،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي بيت إلهه"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسروخ قتله ابناه."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلاصك عجيب وقدير!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلاصك"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمتد ليشمل العالم كله!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هوذا أنت قادم على جبال النبوات،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلت إلينا تبشرنا بالمصالحة مع السماء،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حولت عالمنا إلى سماء،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيامنا إلى أعياد لا تنقطع!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلت بإبليس تحت أقدامنا."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد انقرض كل سلطان له!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه ساقط مثل البرق من سماء قلوبنا،"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس له موضع بعد في داخلنا!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس من يملك على قلوبنا سواك!"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Silence, 16."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Holy Apostles, 2:3:15."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "{102}."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(cf. St. Basil: Ad Amphilochium, 3.)"
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Prima), 3."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Secunda), 31."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Marcion ,4:13."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Epistles (Rom. 10:15)."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Conferences 21:23."
+    },
+    {
+      "section_title": "الغم\" (نا 1: 15؛ 1: 2) LXX. والآن",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "ناحوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "ناحوم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 1 من سفر ناحوم)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/7a27jsw"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/7a27jsw"
     }
   ]
 }

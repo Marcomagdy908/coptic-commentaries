@@ -1,17 +1,945 @@
 {
-  "book_id": 25,
+  "book_id": "esther",
   "book_title": "تفسير سفر أستير",
   "chapter_number": 3,
   "chapter_title": "الأصحاح 3",
   "topic": "هامَان ومقاومته للشعب",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "هامان ومردخاي",
+      "verses": "1 -6"
+    },
+    {
+      "number": 2,
+      "title": "المرسوم الملكي بالإبادة",
+      "verses": "7 -14"
+    },
+    {
+      "number": 3,
+      "title": "الملك وهامان يشربان",
+      "verses": "15"
+    }
+  ],
+  "sections_count": 153,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "وليمة أستير (أس 3-7)"
+      "text": "وليمة أستير"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أس 3-7)"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هامان ومقاومته للشعب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أس 3]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مردخاي يحث أستير"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أس 4]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أستير تدعو الملك للوليمة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أس 5]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله يمجد مردخاي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أس 6]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهاية هامان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[أس 7]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هامَان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومقاومته للشعب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتفع هامان فصار كرسيه فوق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كراسي جميع الرؤساء الذين معه [1]... وإذ كبر في عيني نفسه حمل سمة إبليس المتعجرف"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ صار قتالًا لا يستريح إلاَّ بسفك الدم. وإذ أحكم تدبير المؤامرة للقتل والإبادة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلس يشرب ويلهو."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 بَعْدَ هذِهِ الأُمُورِ عَظَّمَ الْمَلِكُ أَحَشْوِيرُوشُ هَامَانَ بْنَ هَمَدَاثَا الأَجَاجِيَّ وَرَقَّاهُ، وَجَعَلَ كُرْسِيَّهُ فَوْقَ جَمِيعِ الرُّؤَسَاءِ الَّذِينَ مَعَهُ. 2 فَكَانَ كُلُّ عَبِيدِ الْمَلِكِ الَّذِينَ بِبَابِ الْمَلِكِ يَجْثُونَ وَيَسْجُدُونَ لِهَامَانَ، لأَنَّهُ هكَذَا أَوْصَى بِهِ الْمَلِكُ. وَأَمَّا مُرْدَخَايُ فَلَمْ يَجْثُ وَلَمْ يَسْجُدْ. 3 فَقَالَ عَبِيدُ الْمَلِكِ الَّذِينَ بِبَابِ الْمَلِكِ لِمُرْدَخَايَ: «لِمَاذَا تَتَعَدَّى أَمْرَ الْمَلِكِ؟» 4 وَإِذْ كَانُوا يُكَلِّمُونَهُ يَوْمًا فَيَوْمًا وَلَمْ يَكُنْ يَسْمَعْ لَهُمْ، أَخْبَرُوا هَامَانَ لِيَرَوْا هَلْ يَقُومُ كَلاَمُ مُرْدَخَايَ، لأَنَّهُ أَخْبَرَهُمْ بِأَنَّهُ يَهُودِيٌّ. 5 وَلَمَّا رَأَى هَامَانُ أَنَّ مُرْدَخَايَ لاَ يَجْثُو وَلاَ يَسْجُدُ لَهُ، امْتَلأَ هَامَانُ غَضَبًا. 6 وَازْدُرِيَ فِي عَيْنَيْهِ أَنْ يَمُدَّ يَدَهُ إِلَى مُرْدَخَايَ وَحْدَهُ، لأَنَّهُمْ أَخْبَرُوهُ عَنْ شَعْبِ مُرْدَخَايَ. فَطَلَبَ هَامَانُ أَنْ يُهْلِكَ جَمِيعَ الْيَهُودِ الَّذِينَ فِي كُلِّ مَمْلَكَةِ أَحَشْوِيرُوشَ، شَعْبَ مُرْدَخَايَ."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"هامان\" اسم أحد الآلهة"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرئيسية في عيلام التي استولت عليها مملكة مادي وفارس وجعلتها إحدى ولاياتها،"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأقامت من عاصمتها \"شوشن\" أو \"سوسه\" عاصمة يقيم بها ملوك"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفرس في الشتاء."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء هامان الأجاجي من نسل عماليق (1 صم 15: 3، 9) الذين استهتر شاول بأمرهم ولم يحرمهم، فجاء منهم من كاد أن يُبيد الشعب"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كله في يوم واحد. بهذا يمثل هامان الخطية التي يستهين بها الإنسان ويستهتر في إقتلاعها فتعرض حياته كلها للخطر في الوقت المناسب."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"عظم الملك أحشويروش هامان بن"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "همداثا الأجاجي ورقاه وجعل كرسيه فوق جميع الرؤساء الذين معه، فكان كل عبيد الملك"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين بباب الملك يجثون ويسجدون لهامان\" [1-2]."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان هامان قد نال"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرامة عظيمة فوق الجميع فكبر في عيني نفسه، فأراد أن يخضع الكل له ويسجدون"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعبادته. كأنه يحمل روح سيده - إبليس- الذي أراد أن يقيم من نفسه إلهًا، لهذا"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما امتنع مردخاي اليهودي عن السجود له [2] \"امتلأ هامان غضبًا\""
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[5]، \"وَازْدُرِيَ في عينيه أن يمد يده إلى مردخاي وحده لأنهم أخبروه عن شعب"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مردخاي فطلب هامان أن يهلك جميع اليهود الذين في مملكة أحشويروش شعب مردخاي\""
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا لقد اعتاد اليهود أن يسجدوا أمام ملوكهم للتكريم (2 صم 14: 4؛ 18: 28؛ 1 مل 1: 16)، لكن الفارسيين كانوا يقدمون العبادة لملوكهم لهذا رفض المؤمنون"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاشتراك معهم في هذا العمل."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولمل سُئلّ مردخاي عن عدم سجوده \"أَخْبَرَهُمْ بِأَنَّهُ يَهُودِيٌّ\" [4] لا يجوز"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له الاشتراك معهم في هذا العمل."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس عجيبًا أن يطلب هامان ابادة كل"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب، فإنه إذ يمثل إبليس بينما يرمز مردخاي للسيد المسيح، فإن عدو الخير لا يطيق"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعب المسيح، بكونه مملكة الله."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا نقف قليلًا لنرى مردخاي كرمز للسيد"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح، الذي بسببه أراد هامان (إبليس) إبادة كل شعبه. يقول"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب أفراهات"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأنه كما كان مردخاي يضطهده هامان الشرير، هكذا كان الشعب الشرير يضطهد السيد"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح. وكما صلى مردخاي من أجل شعبه ليخلصهم من هامان، يشفع السيد المسيح عن شعبه"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(بدمه) ليخلصهم من إبليس. وكما خلص مردخاي من مضطهده لم يستطيع المضطهدون أن"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتصروا على السيد المسيح. وكما جلس مردخاي في المسوح وأنقذ شعبه، هكذا نزل كلمة"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله وحمل جسدنا كما في المسوح وفي اتضاع خلصنا. بمردخاي صارت أستير مرضية لدى"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك عوض وشتي، وبالمسيح يسوع صارت كنيسة العهد الجديد موضع رضى الآب عوض المجمع"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليهودي. وكما حث مردخاي أستير على الصوم مع فتياتها هكذا يحث السيد المسيح كنيسته"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكل أولادها على الصوم. أخيرًا نال مردخاي مجد هامان، ونودي قدامه: [هكذا يُصنع بالرجل الذي يُسر الملك بأنه يكرمه] (أس 6: 11) وأما يسوع المسيح فتمجد بالمجد"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي له منذ الأزل وقد شهد  له الحراس: \"حقًا كان هذا ابن الله\" (مت 27: 54)."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اكتشف هامان أن ما يفعله مردخاي لا يقوم"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على عداوة شخصية وإنما على أساس روحي تقوى لهذا ظن أنه لا علاج لهذه المشكلة إلاَّ"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإبادة الشعب كله."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن كلمة"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"هامان\" تعني (ظلمًا)؛ الآن إذ اشتعلت نيران الظلم غضبًا فإنها إنما"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحرق ذاتها، إذ يقول: [هامان الذي يعني (ظلمًا) احترق بالنار التي أشعلها بنفسه]."
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا يليق بنا أن نؤكد أن ما فعله مردخاي"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من عدم سجود لهامان لم يكن عن كراهية أو عداوة في داخل قلبه ولا عن كبرياء، وإنما"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما قال في صلاته الواردة في تتمة أستير: \"إنك تعرف كل شيء وتعلم أنيّ لا"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكبرًا ولا احتقار"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه لا يستنكف أن يقبل آثار قدمي هامان"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأجل خلاص إخوته، هكذا يتسع قلبه حبًا ويمتلئ اتضاعًا، لكنه لا يقبل أن يعبد غير"
+    },
+    {
+      "section_title": "1. هامان ومردخاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله!"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 فِي الشَّهْرِ الأَوَّلِ، أَيْ شَهْرِ نِيسَانَ، فِي السَّنَةِ الثَّانِيَةِ عَشَرَةَ لِلْمَلِكِ أَحَشْوِيرُوشَ، كَانُوا يُلْقُونَ فُورًا، أَيْ قُرْعَةً، أَمَامَ هَامَانَ، مِنْ يَوْمٍ إِلَى يَوْمٍ، وَمِنْ شَهْرٍ إِلَى شَهْرٍ، إِلَى الثَّانِي عَشَرَ، أَيْ شَهْرِ أَذَارَ. 8 فَقَالَ هَامَانُ لِلْمَلِكِ أَحَشْوِيرُوشَ: «إِنَّهُ مَوْجُودٌ شَعْبٌ مَّا مُتَشَتِّتٌ وَمُتَفَرِّقٌ بَيْنَ الشُّعُوبِ فِي كُلِّ بِلاَدِ مَمْلَكَتِكَ، وَسُنَنُهُمْ مُغَايِرَةٌ لِجَمِيعِ الشُّعُوبِ، وَهُمْ لاَ يَعْمَلُونَ سُنَنَ الْمَلِكِ، فَلاَ يَلِيقُ بِالْمَلِكِ تَرْكُهُمْ. 9 فَإِذَا حَسُنَ عِنْدَ الْمَلِكِ فَلْيُكْتَبْ أَنْ يُبَادُوا، وَأَنَا أَزِنُ عَشَرَةَ آلاَفِ وَزْنَةٍ مِنَ الْفِضَّةِ فِي أَيْدِي الَّذِينَ يَعْمَلُونَ الْعَمَلَ لِيُؤْتَى بِهَا إِلَى خَزَائِنِ الْمَلِكِ». 10 فَنَزَعَ الْمَلِكُ خَاتَمَهُ مِنْ يَدِهِ وَأَعْطَاهُ لِهَامَانَ بْنِ هَمَدَاثَا الأَجَاجِيِّ عَدُوِّ الْيَهُودِ. 11 وَقَالَ الْمَلِكُ لِهَامَانَ: «الْفِضَّةُ قَدْ أُعْطِيَتْ لَكَ، وَالشَّعْبُ أَيْضًا، لِتَفْعَلَ بِهِ مَا يَحْسُنُ فِي عَيْنَيْكَ». 12 فَدُعِيَ كُتَّابُ الْمَلِكِ فِي الشَّهْرِ الأَوَّلِ، فِي الْيَوْمِ الثَّالِثَ عَشَرَ مِنْهُ، وَكُتِبَ حَسَبَ كُلِّ مَا أَمَرَ بِهِ هَامَانُ إِلَى مَرَازِبَةِ الْمَلِكِ وَإِلَى وُلاَةِ بِلاَدٍ فَبِلاَدٍ، وَإِلَى رُؤَسَاءِ شَعْبٍ فَشَعْبٍ، كُلِّ بِلاَدٍ كَكِتَابَتِهَا، وَكُلِّ شَعْبٍ كَلِسَانِهِ، كُتِبَ بِاسْمِ الْمَلِكِ أَحَشْوِيرُوشَ وَخُتِمَ بِخَاتَمِ الْمَلِكِ. 13 وَأُرْسِلَتِ الْكِتَابَاتُ بِيَدِ السُّعَاةِ إِلَى كُلِّ بُلْدَانِ الْمَلِكِ لإِهْلاَكِ وَقَتْلِ وَإِبَادَةِ جَمِيعِ الْيَهُودِ، مِنَ الْغُلاَمِ إِلَى الشَّيْخِ وَالأَطْفَالِ وَالنِّسَاءِ فِي يَوْمٍ وَاحِدٍ، فِي الثَّالِثَ عَشَرَ مِنَ الشَّهْرِ الثَّانِي عَشَرَ، أَيْ شَهْرِ أَذَارَ، وَأَنْ يَسْلِبُوا غَنِيمَتَهُمْ. 14 صُورَةُ الْكِتَابَةِ الْمُعْطَاةِ سُنَّةً فِي كُلِّ الْبُلْدَانِ، أُشْهِرَتْ بَيْنَ جَمِيعِ الشُّعُوبِ لِيَكُونُوا مُسْتَعِدِّينَ لِهذَا الْيَوْمِ."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ حسب هامان الإهانة التي لحقت به من"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مردخاي لا يُكفر عنها قتل شخص واحد إنما طلب إبادة الشعب اليهودي كله، ففي إبريل"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عام 474 ق.م. أي بعد حوالي 4 سنوات من تتويج أستير سأل هامان العرافين والسحرة أن"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلقوا فورًا أي قرعة ليحددوا اليوم المناسب لإبادة هذا الشعب حتى لا تفشل خطته،"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فحددوه باليوم الثالث عشر من الشهر الأخير من السنة (شهر آذار)، وبهذا أعطوه مهلة"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طويلة وكافية لتحقيق هدفه في يوم واحد في كل أرجاء المملكة."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التقى هامان بالملك وأثاره"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد الشعب باتهامهم أنهم كاسري السنن ولا يستحقوا إلاَّ الإبادة، وقدم عشرة آلاف وزنة من"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفضة ثمنًا لهذا العمل، وكما قلنا أنه كان يود جمع ثروات كل اليهود فيغتني ويقدم"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا المبلغ للملك ربما ليعوضه هن خسائره منذ سنوات قلية في حربه ضد اليونان، أو"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقابل خسائره عن الجزية التي كان يدفعها اليهود، إذ عُرف اليهود بالغنى المبالغ"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيه حتى في أرض السبي، ففي الاكتشافات الحديثة وجدت أسماء يهودية كثيرة تقوم"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأعمال الصيارفة في منطقة بابل في فترة السبي."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلم الملك خاتمه لهامان، وقال له:"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الفضة..."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُعطيت لك، والشعب أيضًا، لتفعل به ما يحسن في عينيك\" [11]."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا كان الملك"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يثق في هامان ويحبه حتى سلمه الخاتم يكتب ما يشاء، حتى الفضة التي عرض هامان أن"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقدمها للملك كتعويض تنازل عنها له، وأما الشعب كله فبين يديه يفعل به كيفما"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاء... وبالفعل \"أرسلت الكتابات بيد السعاة إلى كل بلدان الملك لإهلاك"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقتل وابادة جميع اليهود من الغلام إلى الشيخ والأطفال والنساء في يوم واحد في"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثالث عشر من الشهر الثاني عشر أي آذار وأن يسلبوا غنيمتهم\" [13]."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صورة خفيفة للحكم الذي صدر علينا بسبب حسد هامان (إبليس) فصار الجميع بلا استثناء"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت حكم الموت، حتى أن كل من ينظر إلى نفسه يضع مناحة عظيمة ويبكي نهارًا وليلًا"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أس 4: 3). وكما يقول الرسول: \"من أجل ذلك كأنما بإنسان واحد دخلت الخطية إلى"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم وبالخطية الموت وهكذا اجتاز الموت إلى جميع الناس\" (رو 5: 12)."
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الحكم المرّ ينقلب على هامان وأتباعه"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خلال مردخاي وأستير ويصير خلاصًا وفرحًا وعيدًا لكل الشعب. هكذا إن كنا بإبليس"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقطنا تحت حكم الموت فبالمسيح يسوع (مردخاي الحقيقي) تمتعت أستير وشعبها (الكنيسة)"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالخلاص والفرح والعيد السماوي بينما انهار إبليس وكل جنوده تحت الصليب. وكما يقول"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسول: \"إذ محا الصك الذي علينا في الفرائض الذي كان ضدًا لنا وقد رفعه من"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوسط مسمرًا إياه بالصليب، إذ جرد الرياسات والسلاطين أشهرهم جهارًا ظافرًا بهم"
+    },
+    {
+      "section_title": "بالإبادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيّه\" (كو 2: 14-15)."
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "15 فَخَرَجَ السُّعَاةُ وَأَمْرُ الْمَلِكِ يَحُثُّهُمْ، وَأُعْطِيَ الأَمْرُ فِي شُوشَنَ الْقَصْرِ. وَجَلَسَ الْمَلِكُ وَهَامَانُ لِلشُّرْبِ، وَأَمَّا الْمَدِينَةُ شُوشَنُ فَارْتَبَكَتْ."
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان للملك أذن واحدة يسمع بها لهامان دون"
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يستفسر عن الجانب الآخر. فلم يفحص الأمر بنفسه بل سلم كل شيء في يد هامان. وإذ"
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خشى هامان لئلا يتراجع الملك ويدرك الأمر صار يشرب معه فيلتهي الملك بملذاته على"
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حساب شعبه."
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم لنا \"تتمة أستير\" الواردة"
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الترجمة السبعينية صورة من المرسوم الملكي المُرسل باسم أحشويروس موجهًا إلى كل"
+    },
+    {
+      "section_title": "يشربان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الولايات أو الكور المئة سبع وعشرين كورة، وقد جاء مطابقًا للحديث المذكور في هذا"
+    },
+    {
+      "section_title": "أولًا: اتهم اليهود بالجحود كأناس يحسن إليهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك، ويقابلون الإحسان بمخالفة السنن، واعتبر أن هلاكهم فيه سلام للبلدان كلها،"
+    },
+    {
+      "section_title": "أولًا: اتهم اليهود بالجحود كأناس يحسن إليهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يقول: \"حتى إذا هبط أولئك الناس الخبثاء إلى الجحيم في يوم واحد يرد إلى"
+    },
+    {
+      "section_title": "أولًا: اتهم اليهود بالجحود كأناس يحسن إليهم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكتنا السلام الذي أقلقوه\" (تتمة أس 13: 7)."
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دُعي هامان بالرجل الثاني بعد الملك وأن"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك يكرمه بمنزلة أب، لذا يلتزم الكل بمشورته الخاصة بإبادة هذا الشعب العدو، هم"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونسائهم وأولادهم. هنا نقف قليلًا عند دعوة هامان \"بأب\" فإنه يمثل إبليس"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يقدم لتابعيه أبوة شريرة، وكما قال السيد المسيح لليهود الأشرار: \"أنتم"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أب هو إبليس وشهوات أبيكم تريدون أن تعملوا\" (يو 8: 44). فكما يقدم لنا"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله أبوته فنحمل كأبناء سمات أبينا وننعم بشركة مجده الأبدي، هكذا يقدم عدو الخير"
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إبليس أبوته لتابعيه ليحملوا سماته ويشاركونه هلاكه الأبدي."
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Herodotus 7: 136."
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Demonstration 21, On Persection 20."
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "D.J. Wiseman: Illustrations From Biblical Archaeology, P 76."
+    },
+    {
+      "section_title": "ثانيًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أستير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 3 من سفر أستير)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wsx942j"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wsx942j"
     }
   ]
 }

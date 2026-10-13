@@ -1,33 +1,3640 @@
 {
-  "book_id": 24,
+  "book_id": "psalms",
   "book_title": "تفسير سفرالمزامير",
   "chapter_number": 35,
   "chapter_title": "المزمور 35",
-  "topic": "",
+  "topic": "الأصحاح 35",
   "chapter_outline": [
     {
       "number": 1,
       "title": "توسل لله البار",
-      "verses": "1 - 10"
+      "verses": "1 -10"
     },
     {
       "number": 2,
       "title": "وصف الآلام",
-      "verses": "11 - 16"
-    },
-    {
-      "number": 3,
-      "title": "تدخل الله",
-      "verses": "17 - 28"
+      "verses": "11 -16"
     }
   ],
-  "sections_count": 1,
+  "sections_count": 603,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "صرخة طلبًا للعون"
+      "text": "صرخة طلبًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعون"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سواء كُتب هذا المزمور كملازم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للمزمور 34 أم لا، فحسن أنه وُضع بعده مباشرة. ويكمن السبب ليس فقط في تشابه الصيغ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ووجود مقابلات بينهما [خصوصًا الحديث عن ملاك الرب الذي لا يوجد في أي موضع آخر في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر المزامير سوى هنا في (المزمور 34: 7)؛ و(المزمور 35: 5-6)]؛ وإنما يكمن السبب أيضًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الحديث هنا عن نوع الظلمة التي تبددت في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور السابق."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخلاص الذي أُحتفل به في"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور السابق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نراه الآن لا يتحقق سريعًا ولا بدون ألم؛ إنما يتعرض المؤمن لآلام قد يطول أمدها"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن شاء الله ذلك؛ غير أن داود النبي لم يشك قط أن يوم النجاة آتٍ حتمًا. مع كل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استغاثة تصدر عن قلبه طلبًا للعون تتطلع أنظاره إلى لحظة النجاة الأكيدة، لذلك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختتم كل قسم من أقسام هذا المزمور الثلاثة بالرجاء؛ ويُعتبر هذا المزمور مرثاة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصية."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتضرع داود النبي في هذا المزمور إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الديان العادل ضد أعدائه الذين أبغضوه وأصروا على اضطهاده؛ ويُفترض أنهم شاول"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورفقاؤه (1 صم 24: 9-15)، لأن الكلمات التي يبدأ بها هذا المزمور مذكورة في ذلك الأصحاح."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجاء في النسخة السريانية أنه كُتب بمناسبة هجوم الأدوميين، وذُكر في العربية أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا المزمور نبّوة عن التجسد الإلهي، وتخص المتاعب التي لقيها إرميا النبي من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور كله توسل قوي إلى الله العادل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كطلب تحقيق قضائه ضد أعدائه مضطهدي شعبه خائفي الرب. هذه الصرخات لا تعني أن داود"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي قد حمل كراهية شخصية ضد مقاوميه، وإنما كما سبق فقلنا إنها تمثل نبّوة عما"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتم بالنسبة للمصرّين على مقاومة الله دون توبة؛ كما تمثل صرخة ضد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان الخطية،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ضد المسيح\"، المقاوم لكنيسة الله بوحشية وعنف في أيام الضيقة العظيمة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمثل أيضًا صرخات دماء الشهداء وصرخات الأبرار الذين رحلوا من العالم (رؤ 6: 10)."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقتبس ربنا يسوع المسيح جزءًا من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآية [19]"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وطبقها على نفسه (يو 15: 25)، فقد كان داود النبي في حالات كثيرة رمزًا للسيد"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح. ويُحسب هذا المزمور طلبة الشفيع الأعظم الذي أبغضوه بلا سبب. يقول"
+    },
+    {
+      "section_title": null,
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس: [المتحدث هنا هو المسيح نفسه بلا شك، فقد تعَّرض للضيق مرة بكونه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرأس، وفي أوقات أخرى في جسده (الكنيسة)، ومع ذلك فهو يهب كل أعضائه الحياة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدية خلال الآلام؛ هذا الوعد جعله موضع اشتياق كل بشر]."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 خَاصِمْ يَا رَبُّ مُخَاصِمِيَّ. قَاتِلْ مُقَاتِلِيَّ. 2 أَمْسِكْ مِجَنًّا وَتُرْسًا وَانْهَضْ إِلَى مَعُونَتِي، 3 وَأَشْرِعْ رُمْحًا وَصُدَّ تِلْقَاءَ مُطَارِدِيَّ. قُلْ لِنَفْسِي: «خَلاَصُكِ أَنَا». 4 لِيَخْزَ وَلْيَخْجَلِ الَّذِينَ يَطْلُبُونَ نَفْسِي. لِيَرْتَدَّ إِلَى الْوَرَاءِ وَيَخْجَلِ الْمُتَفَكِّرُونَ بِإِسَاءَتِي. 5 لِيَكُونُوا مِثْلَ الْعُصَافَةِ قُدَّامَ الرِّيحِ، وَمَلاَكُ الرَّبِّ دَاحِرُهُمْ. 6 لِيَكُنْ طَرِيقُهُمْ ظَلاَمًا وَزَلَقًا، وَمَلاَكُ الرَّبِّ طَارِدُهُمْ. 7 لأَنَّهُمْ بِلاَ سَبَبٍ أَخْفَوْا لِي هُوَّةَ شَبَكَتِهِمْ. بِلاَ سَبَبٍ حَفَرُوا لِنَفْسِي. 8 لِتَأْتِهِ التَّهْلُكَةُ وَهُوَ لاَ يَعْلَمُ، وَلْتَنْشَبْ بِهِ الشَّبَكَةُ الَّتِي أَخْفَاهَا، وَفِي التَّهْلُكَةِ نَفْسِهَا لِيَقَعْ. 9 أَمَّا نَفْسِي فَتَفْرَحُ بِالرَّبِّ وَتَبْتَهِجُ بِخَلاَصِهِ. 10 جَمِيعُ عِظَامِي تَقُولُ: «يَا رَبُّ، مَنْ مِثْلُكَ الْمُنْقِذُ الْمِسْكِينَ مِمَّنْ هُوَ أَقْوَى مِنْهُ، وَالْفَقِيرَ وَالْبَائِسَ مِنْ سَالِبِهِ؟»"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"دِنْ يا رب الذين يظلمونني،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقاتل الذين يقاتلونني."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خذ سلاحًا وترسًا،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانهض إلى معونتي."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استل سيفك وسيَّج مقابل الذين يضطهدونني."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قل لنفسي: إني أنا هو خلاصك!\""
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التعبيرات العسكرية الواردة هنا تحمل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مفاهيم رمزية؛ فالحرب الروحية دائرة الآن، ونحن في حاجة شديدة إلى عون قوي من"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله. وكما سعى العدو طالبًا نفس داود، هكذا يسعى عدونا وراءنا ليهلك كياننا كله،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحطم أجسادنا ونفوسنا ويفسد أفكارنا وقلوبنا، ويشوّه طاقاتنا ومواهبنا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرفع المرتل دعواه أمام الله العادل كي"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدافع عنه وينتقم له. فالمزمور في كليته هو توسل صادر عن قلب له دالة لدى الله"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضمير خالص، متمرر بسبب ما يُعانيه من قهر واضطهاد. حقًا، يصعب على الإنسان أن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحتمل الظلم والجحود، لكن بالحياة المقدسة في المسيح يسوع والصلاة بانسحاق يقف"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بجوارنا في صفنا ويعمل لحسابنا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يسيء أحد إلى مواطن يشكو المواطن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخاه إلى حاكم البلد، كما فعل الرسول بولس حيث رفع شكواه إلى قيصر (أع 25: 11)،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن لم ينصفه يلجأ إلى ملك الملوك ورب الأرباب، قاضي المسكونة كلها. هكذا إذ وقف"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول الملك وقضاته والقيادات ضد داود النبي، فإلى من يلجأ إلا لله، صارخًا: \"دِنْ"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب الذين يظلمونني\". ونحن إذ نجد مقاومة وضيق ندرك أنها ليست صادرة عن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخوتنا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنما عن عدو الخير إبليس الذي يجد بهجته في الخصومات والانشقاقات وبث روح الظلم،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذا نرفع قلوبنا إلى الله الذي وحده يقدر أن ينصفنا من العدو الشرير. شكوانا ليست"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد بشر، لأن محاربتنا ليست مع لحم ودم بل مع أرواح الشر في السمويات، مع قوات"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحية وسلاطين الشر (أف 6: 12)، فالعالم كله قد وُضع في الشرير (1 يو 5: 19)..."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنها حرب ضد الشيطان وجنوده وأعماله الشريرة."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نطلب من الرب ليس فقط كقاضٍ وإنما كقائد"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حرب، كمن يحمل السلاح ليتقدم المعركة بنفسه، فنقول له: \"قاتل الذين"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقاتلونني\"."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه لمنظر رائع أن نشاهد الرب لابسًا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "درعه ليقاتل لحسابنا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن، ما هو درعه؟ وما هي أسلحته...؟ لقد"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَعَى الكتاب المقدس نفس البار سيف الله كما يدعوها أيضًا عرش الله. نفس الصديق هي"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرسي الحكمة. فالرب يجعل نفوسنا تتناسب مع مقاصده؛ إنها في يده، دعوة ليستخدمها"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما يشاء!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ندعوه ليقاتل بنفسه وبأسلحته الإلهية، هو"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسمح بالمعركة، وهو الذي يتقدمنا، يهبنا أسلحته، ويعطينا قوة الجهاد، ويمتعنا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالنصرة، ويقدم لنا الإكليل، وهو الذي يُكلل فينا!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحدثنا الرسول بولس عن الأسلحة الروحية"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير المنظورة القادرة بالمسيح يسوع أن تحطم العدو غير المنظور:"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترس الإيمان، خوذة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخلاص، سيف الروح الذي هو كلمة الله (أف 6: 16-17). هكذا يرى الرسول في الإيمان"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتمسك بالصليب (الخلاص) والالتصاق بكلمة الله ووعوده هي سلاح المؤمن."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت تعرف يقظة أعدائي،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضعف طبيعتي أنت تعلمه يا خالقي."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأني هأنذا أضع روحي في يديك."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فاسترني بأجنحة صلاحك لئلا أنام نوم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوفاة."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أضيء عيني بعظمة أقوالك..."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنك صالح وحدك ومحب البشر."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صلاة الستار (قطعة 1)"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تكون في نفوسنا غيرة ضد الشياطين."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُؤذن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للشيطان أن يُحارب القديسين حتى تُمتحن محبتهم لله ويظهروا أنهم محبون لله وثابتون"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا في محبته."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مار إسحق السرياني"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقوى من الذي يتمتع بالعون السماوي، كما أنه ليس أضعف من الذي يُحرم منه."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نخشى شيئًا، فإننا لكي نقهر الشيطان يلزمنا أن نعرف مهارتنا لن تفيد شيئًا، وأن كل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء هو من نعمة الله."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يؤكد المرتل أن الأسلحة الروحية في"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جوهرها ما هي إلا التمتع بالله المخلص نفسه، واهب النصرة، إذ يرتل قائلًا: \"قل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنفسي: إني أنا هو خلاصك!\" [3]. أي منفعة لي إن هلك إبليس وتحطمت كل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماله ما لم يكن لي نصيب في حضن الآب، أنعَمُ بالشركة مع ربنا يسوع المسيح، وأحمل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحه في داخلي! خلاصي هو الرب الذي نزل إلى أرضنا لكي يقدم نفسه لي، أتحد به،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنعم بحياته فيّ! إن كنت أدخل في معركة مع العدو فأنني لا أهوى الحرب في ذاتها،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أطلب إكليلًا لو لم يكن الرب نفسه هو إكليلي!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شتان بين أن أقرأ كتابًا عن الخلاص أو"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسمع عظة أو أدخل في حوار بخصوص الخلاص، وبين تجلي المخلص نفسه في داخلي ليعلن لي"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيًا: \"إني أنا هو خلاصك\"، يقدم نفسه لي خلاصًا بحلوله فيّ!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتقل المرتل من التوسل إلى الله للنجاة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[1-3] إلى إعلان ما يحل بالمضايقين والمضطهدين من لعنات [4-6]، إذ يقول:"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فليخزَ ويخجل الذين"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلتمسون نفسي."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وليرتد إلى الوراء،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويخز الذين يتآمرون عليّ بسوء\" [4-5]."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد التمسوا نفس السيد المسيح لا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتمتعوا بها وإنما ليهلكوها، أما السيد فلم يمنع نفسه عنهم، بل قال لهم \"من"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تطلبون؟\" (يو 18: 8)، وللحال تحققت النبّوة إذ رجعوا إلى الوراء (يو 18: 6)،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما هو فسّلم نفسه إليهم. لقد طلب منه القديس بطرس أن يهرب من صالبيه، قائلًا: \"حاشاك"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب\"، أما هو فقال له: \"اذهب عني يا شيطان\" (مت 16: 23)."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسلموا يسوع ليد بيلاطس جلبوا على أنفسهم الهلاك؛ فعلًا حطمهم العدو المستعمر"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروماني بالنار والسيف، وأحرق كل أرضهم، حتى الهيكل المقدس الموقر الذي كان في"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسطهم."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البابا كيرلس"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإسكندري"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فليخز"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويخجل الذين يطلبون نفس\" [4]. إنه لم ينطق باللعنات ضد الذين سببوا له خسارة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مالية، أو سلبوا أرضًا، أو خططوا لتصفيته جسديًا، إنما صرخ ضد الذين يخططون شرًا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد نفسه. ما هو تخطيط الشر ضد النفس إلا التغرب عن الله؟ لا يمكن للنفس البشرية أن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتغرب عن الله إلا إذا كان ذهنها مستعبدًا للشهوات... هذا هو معنى صلواته، أن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصره الله على أعدائه، وهؤلاء الأعداء هم الشهوات."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "قول آبائي",
+      "father_name": "القديس غريغوريوس النيسي",
+      "text": "القديس غريغوريوس أسقف نيصص"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا يرى بعض الآباء أن المرتل يصرخ ليس"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضد أعداء خارجين إنما ضد أعداء في الداخل، ضد الخطايا والشهوات المفسدة لعلاقته"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالله، والمحطمة لحياته الأبدية."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وليكونوا مثل الهباء"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمام وجه الريح،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وملاك الرب يضيق عليهم\" [5]."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقصد بالهباء"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العصافة؛ ربما يتصور"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرتل السيد المسيح كفلاح يذري المحصول لكي يفصل القمح عن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العصافة والأتربة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخفية وذلك بفعل الريح. هكذا يفصل السيد المسيح بروحه القدوس الخطايا والشهوات"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويطردها خارج القلب. لا تقدر الخطايا أن تصمد أمام روح الله القدوس الذي يحيا في"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوبنا، هيكل الله. إنه يهبنا برّ المسيح عاملًا فينا إن تجاوبنا مع عمله."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في النص العبري جاءت كلمة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الهباء\"، وسواء كانت هباءً أو"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عصافة أو ترابًا، فإن المرتل يفضح العدو"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي وإن كان شرسًا وعنيفًا، وإن كانت الخطية خاطئة جدًا، لكن أمام الروح القدس"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساكن فينا يصير العدو إبليس"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كالعصافة في مهب الرياح أو كذرّات تراب بلا قوة ولا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيمة!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتنا لا نخاف إبليس ولا الخطية فإن الروح"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدس يهبنا قوة محولًا حياتنا من التراب إلى السماء! ويرسل الرب ملائكته ليدحر"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير وكل أعماله من أمامنا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حدثنا المرتل في"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور السابق عن ملاك"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب الحاّل حول خائفي الرب يخلصهم، وهنا يظهر ذات الملاك ليضيّق على من ضايقوا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأتقياء... إنه يفرح قلوب الصالحين ويهلك الأعداء الأشرار المصرين على عدم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التوبة. عندما صلى حزقيا الملك أرسل الله ملاك وضرب من أجله جيش أشور فانهزم، إذ"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قُتل في ليلة واحدة 185.000 مثل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عصافة أمام وجه الريح."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لتكن طريقهم ظلمة"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعثرة،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وملاك الرب يضطهدهم\" [6]."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هم يضطهدون أولاد الله الذين يتشبهون"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بملائكته، فيرسل الله ملاكه يضطهدهم. في كبريائهم رفضوا السيد المسيح الوديع"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمتواضع القلب، رفضوا شمس البر فصار طريقهم ظلمة وعثرة. من لا يقبل المسيح"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طريقًا له يصير إبليس طريقه، عوض النار يختار الظلمة."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكى إرميا النبي شعبه الذي اختار"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكبريائه الظلمة طريقه، إذ يقول: \"أعطوا الرب إلهكم مجدًا قبل أن يجعل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظلامًا، وقبلما تعثر أرجلكم على جبال العتمة، فتنظرون نورًا، فيجعله ظل موتٍ،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويجعله ظلامًا دامسًا؛ وإن لم تسمعوا ذلك فإن نفسي تبكي في أماكن مستترة من أجل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبرياء، وتبكي عينيَّ بكاءً، وتذرف الدموع، لأنه قد سُبي قطيع الرب\" (إر 13: 16-17)."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يليق بهم وقد انحرفوا إلى طريق"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظلمة، وصار ملاك الرب يضطهدهم، أن يرجعوا إلى الرب يطلبونه نورًا لهم. لكنهم عوض"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التوبة نشبوا فخاخًا في"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظلام يصطادون بها نفوس الأبرار، فإذا بهم يسقطون هم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيها. هذه هي خبرة داود النبي الطويلة مع شاول الملك الذي سيطرت مملكة البغضة ضد"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود في قلبه فكرس بقية أيام حياته وكل قدراته وإمكانياته بل وإمكانيات مشيريه"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهدم داود وقتله... فإذا به يلقي بنفسه في الهاوية ويزداد داود مجدًا وبهاءً أمام"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله والناس، إذ يقول المرتل:"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لأنهم مجانًا أخفوا لي"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فساد فخهم،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعيّروا نفسي باطلًا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فليأتهم الفخ الذي لا يعلمونه؛"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمصيدة التي أخفوها تعرقِّلهم."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي الفخ يسقطون."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما نفسي فتفرح بالرب وتبتهج"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخلاصه\" [7-9]"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتسم الأشرار"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالعمى الداخلي والغباوة؛"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينصبون الشباك للأبرار في طريق مظلم بلا سبب، وسرعان ما ينسونها، ليعبروا هم عليها"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيسقطون فيها بسبب عمى بصيرتهم."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يزرع الأشرار أشواكًا في الظلمة لتحطيم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبرار فإذا بها تنفذ في أجساد زارعيها؛ ينصبون الشباك فتمسك بهم؛ يسعون وراء"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هلاك الغير فيدمرون أنفسهم. هلاكهم يحل على رؤوسهم من خلال أعمالهم، وكما يقول"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحكيم: \"من يحفر حفرة يسقط فيها، ومن يدحرج حجرًا يرجع إليه\" (أم 26: 27)."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصليب الذي أعده هامان لمردخاي صُلب هو عليه، والصليب الذي أعده الشيطان ليُحطم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة المسيح حطم مملكة إبليس ذاتها!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينشغل الأشرار بالفخاخ والمكائد فيقتنون"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل أيديهم فخاخًا ومرارة، أما الأبرار فينشغلون بالله السامع صلواتهم والمهتم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بخلاصهم فيقتنوه سرّ فرحهم الحقيقي، يفرحون بالرب ويبتهجون بخلاصه. هنا نلاحظ أن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفس البار لا تنشغل بالنجاة من الضيق في ذاته، إنما بالرب الذي يتجلى وسط الضيقات"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويعطي خلاصًا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوصية"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عامة بالنسبة لهم: \"افرحوا أيها الأبرار في الرب\" (مز 9: 14؛ 35: 9؛ 33: 1) وذلك لكي يجتمعوا معًا ليترنموا بهذا المزمور العام الخاص بالأعياد: \"هلم"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفرح بالرب\" (مز 95: 1)، لا بأنفسنا."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أثناسيوس الرسولي",
+      "text": "البابا أثناسيوس الرسولي"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"جميع عظامي تقول: يا رب"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من مثلك؟!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنقذ المسكين من أيدي من هو أقوى منه!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والفقير والبائس من أيدي الذين"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختطفونهما\" [10]."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ تفرح نفس المرتل برؤيتها المخلص تصرخ"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماقها الداخلية، أو هيكل كيان إنسانه الداخلي (عظامي): \"يا رب من"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثلك؟!\". تقتبس ما سبق أن قاله موسى: \"يا رب، من مثلك معتزًا في القداسة،"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخوفًا بالتسابيح، صانعًا عجائب!\" (خر 15: 11). لعل المرتل رأى السيد المسيح"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخلصه من الأعداء الحقيقيين مرفوعًا على الصليب لأجله، فصرخ: \"يا رب من"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثلك؟!\" لقد أنقذتني أنا المسكين من أيدي العدو القوي الذي خطط لاختطافي وافتراسي!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من مثلك في الحب يا من مُت لأجلي؟ من مثلك في القدرة إذ تهبني قوة قيامتك؟! من"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثلك في القداسة يا من تقدسني بروحك القدوس؟!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توقف المرتل عند قوله \"من مثلك؟!\""
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ استغرق في حب الله وعنايته وحنوه وقدرته إلخ... مدركًا أن المخلص يُريد أن يهبه"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاته ليحمل قدراته، فيعيش غالبًا للعدو القوي، ومتمتعًا بشركة المجاد."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا هو عمل الكنيسة الحقيقية أن تُسبِّح"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخلصها قائلة: \"يا رب من مثلك؟!\"، لقد دخل بيت القوي (إبليس) ونهب أمتعته"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(نفوس المؤمنين) بعد أن ربطه بالصليب (مت 12: 29)، وجرَّده وشهّر به جهارًا ظافرًا"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به (كو 2: 15)! تسبح رأسها الذي هو قوتها ومجدها وبرها وقداستها وميراثها الأبدي."
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار فقيرًا ليلتقي بها في مسكنتها واهبًا إياها غناه، ونزل إلى أرضها لكي يحل"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسرها وينطلق بها إلى حضن أبيه السماوي!"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باسم الكنيسة كلها يترنم المرتل وسط"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضيقته، واثقًا في خلاص الرب، قائلًا: \"يا رب من مثلك؟!\" وكما يقول"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مار إسحق السرياني في عظته \"عن عمل النعمة\": [إنه إذا استحق إنسان أن"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتقبَّل قوة الله في نفسه، تُبتلع أفكاره في دهشة مروعة، فتصمت حواسه، ويعجز لسانه"
+    },
+    {
+      "section_title": "1. توسل لله البار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الكلام، لكن حتى عظامه في صمتها تمجد الله!]."
+    },
+    {
+      "section_title": "2. وصف الآلام",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "11 شُهُودُ زُورٍ يَقُومُونَ، وَعَمَّا لَمْ أَعْلَمْ يَسْأَلُونَنِي. 12 يُجَازُونَنِي عَنِ الْخَيْرِ شَرًّا، ثَكَلًا لِنَفْسِي. 13 أَمَّا أَنَا فَفِي مَرَضِهِمْ كَانَ لِبَاسِي مِسْحًا. أَذْلَلْتُ بِالصَّوْمِ نَفْسِي، وَصَلاَتِي إِلَى حِضْنِي تَرْجعُ. 14 كَأَنَّهُ قَرِيبٌ، كَأَنَّهُ أَخِي كُنْتُ أَتَمَشَّى. كَمَنْ يَنُوحُ عَلَى أُمِّهِ انْحَنَيْتُ حَزِينًا. 15 وَلكِنَّهُمْ فِي ظَلْعِي فَرِحُوا وَاجْتَمَعُوا. اجْتَمَعُوا عَلَيَّ شَاتِمِينَ وَلَمْ أَعْلَمْ. مَزَّقُوا وَلَمْ يَكُفُّوا. 16 بَيْنَ الْفُجَّارِ الْمُجَّانِ لأَجْلِ كَعْكَةٍ حَرَّقُوا عَلَيَّ أَسْنَانَهُمْ."
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"قام عليّ شهود الظلمة،"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعما لم أعلم سألوني\" [11]."
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لما كان عدو الخير هو رئيس مملكة الظلمة،"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنه يحرك شهود الظلمة، يشهدون ضد السيد المسيح نفسه وضد كنيسته زورًا خلال عمى"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلوبهم وظلمة نفوسهم."
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما أُتهم داود بالخيانة الوطنية والتمرد"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاشتراك مع الوثنيين في عبادتهم، بهذا كان شاول يثير رجال الدولة بل والشعب ضد"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل الله ظلمًا (1 صم 24: 17). وعندما جاء مسيحنا اتهموه أنه بعلزبول رئيس"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشياطين، وأنه صانع شر، ومسبب فتنة ومحرّض على عدم دفع الجزية لقيصر... وهو لا"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلم شيئًا عن هذا كله، أي لم يمارس شيئًا من هذا!"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يلتصق بالسيد المسيح لا يرتبك متى"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُتهم ظلمًا، فإنه في هذا يشارك سيده القائل: \"لأنه إن كانوا بالعود الرطب"
+    },
+    {
+      "section_title": "1. اتهامه ظلمًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يفعلون هذا، فماذا يكون باليابس؟!\" (لو 23: 31)."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"جازوني بدل الخيرات شرورًا وعقمًا"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنفسي\" [12]."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد اعترف شاول نفسه بذلك، إذ رفع صوته"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبكى، ثم قال لداود: \"أنت أبرّ مني، لأنك جازيتني خيرًا وأنا أُجازيك"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شرًا\" (1 صم 24: 17)."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم السيد المسيح حبًا للبشرية فحملت له"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بغضة، جاء ليشفي جراحاتهم فثقبوا يديه ورجليه وطعنوا جنبه. وهبهم ذاته حياة فقدموه"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للموت. أراد أن يكرمهم فطلبوا ص-لبه!"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كشف المرتل عن حبه العجيب حتى لمقاوميه"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بفكر روحي إنجيلي عجيب، إذ قال:"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أما أنا ففي مرضهم كان لباسي مسحًا"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أذللت بالصوم نفسي"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصلاتي إلى حضني ترجع!\" [13]."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ما قد مارسه المرتل فعلًا، عندما"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاومه أعداؤه كان يُصلي لأجلهم كي ينجو وعندما سمع بخبر قتل شاول وأيضًا أبشالوم"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكى بكاءً مرًا."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرف داود النبي وهو تحت الناموس أن يعبر"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الفكر الإنجيلي، يرد شر الأشرار بالحب الداخلي الصادق. يرى عدوه مريضًا فيلبس"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأجله المسوح متذللًا بالصوم أمام الله، ومصليًا لأجله. لبس المسوح لم يكن"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مستخدمًا في أمور تافهة، إنما عند فقدان ابن أو موت رجل عظيم أو وقوع كارثة مُرّة،"
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا أظهر داود النبي حبه لأعدائه بلبسه المسوح علامة حزنه على مرضهم الخطير."
+    },
+    {
+      "section_title": "2. يردون حبه بالكراهية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا تعني: \"صلاتي إلى حضني ترجع\"؟"
+    },
+    {
+      "section_title": "أ. يعتقد البعض أن هذه العبارة تعني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصلاة المستمرة، كما لو كان توسله صادرًا عن القلب ليرجع إليه ويرتفع ثانية وهكذا"
+    },
+    {
+      "section_title": "أ. يعتقد البعض أن هذه العبارة تعني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا توقف."
+    },
+    {
+      "section_title": "ب. يرى البعض أنها تعني أن صلاته ترتد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه، فلا ينتفع بها من استخفوا بها واحتقروها إنما تتمتع بها أحضان المرتل"
+    },
+    {
+      "section_title": "ب. يرى البعض أنها تعني أن صلاته ترتد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأعماقه."
+    },
+    {
+      "section_title": "ج. يُشير المرتل هنا إلى عادة بعض",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرقيين، لأنهم حينما يصلون بجدية في حزن، فإنهم يخفون وجوههم في صدورهم. ربما"
+    },
+    {
+      "section_title": "ج. يُشير المرتل هنا إلى عادة بعض",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه العادة يُظهرون أن صلاتهم ترجع إليهم من حيث تنبعث."
+    },
+    {
+      "section_title": "ج. يُشير المرتل هنا إلى عادة بعض",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "د. عَنَى داود أن ترتد صلاته إلى قلبه،"
+    },
+    {
+      "section_title": "ج. يُشير المرتل هنا إلى عادة بعض",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فهو متيقن من صدق رغبته القلبية لهم بالخير. إن كان قد طلب لهم سوءًا فليرتد عليه،"
+    },
+    {
+      "section_title": "ج. يُشير المرتل هنا إلى عادة بعض",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإن كان يشتهي لهم خيرًا فليرجع أيضًا إليه!"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد اعتبر المرتل عدوه المريض كصديق بل"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكأخ، من أجله تذلل أمام الله وصام وصلى، ولم يكن ذلك في مخدعه فحسب، وإنما أعلن"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك بروح الاتضاع في سلوكه مع العدو، إذ يقول:"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مثل صاحب وأخ لي هكذا"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنت أرضيه،"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومثل الكئيب والعابس كذلك تواضعت\""
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس لأعدائي عذر في مقاومتهم لي فقد بذلت"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل الجهد لأرضيهم، وفي مرضهم وآلامهم باتضاع شاركتهم الكآبة والعبوسة بكوني عضوًا"
+    },
+    {
+      "section_title": "3. قابلوا صداقته بالاضطهاد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معهم، هكذا أحسب نفسي صديقهم وأخاهم بل وعضوًا معه أشاركهم كل أحاسيسهم، خاصة وسط"
+    },
+    {
+      "section_title": "آلامهم، أما هم فأصرّوا على اضطهادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إجتمعوا عليّ وفرحوا"
+    },
+    {
+      "section_title": "آلامهم، أما هم فأصرّوا على اضطهادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اجتمعت عليّ السياط ولم أعلم."
+    },
+    {
+      "section_title": "آلامهم، أما هم فأصرّوا على اضطهادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انشقوا ولم يندموا."
+    },
+    {
+      "section_title": "آلامهم، أما هم فأصرّوا على اضطهادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جربوني واستهزأوا بي هزءًا، صارين على أسنانهم\""
+    },
+    {
+      "section_title": "آلامهم، أما هم فأصرّوا على اضطهادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شتان ما بين سلوك داود النبي وسلوك"
+    },
+    {
+      "section_title": "أ. داود يشاركهم آلامهم في أعماقه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعبادته وسلوكه معهم، أما هم فيجتمعون ضده ويفرحون بتخطيطاتهم ضده."
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأمامهم لكي يستريحوا، أما هم فهيأوا السياط دون علمه لتنهال عليه."
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ج. حسبهم أصدقاءً وأخوة وأعضاءً معه،"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما هم فكوحوش ضارية اجتمعوا حول حظيرة الخراف، يُصرّون على أسنانهم ليفترسوا"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَملًا واحدًا!"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أعلنه المرتل"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود قد تحقق كنبوّة في شخص السيد المسيح الذي جاء إلى خاصته وخاصته لم تقبله،"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انشقوا عليه ولم يندموا، جربوه وسخروا به وأصرّوا بأسنانهم كي يفترسوه!"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس: [ما أصاب"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرأس يحل بالجسد أيضًا، وما حدث مع ربنا على الصليب يحدث لأعضاء جسده خلال"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاضطهاد المعاصر (ربما الذي أثاره الدوناتست"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Donatists)..."
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أينما التقوا بمسيحي اعتادوا أن يشتموه ويضايقوه ويستهزئون"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "به، ويدعونه"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحمق ومعتوهًا وجبانًا وبلا خبرة حياة. ليفعلوا ما يشاؤون، فقد مجّد"
+    },
+    {
+      "section_title": "ب. من أجلهم يتذلل وينسحق أمام الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح آلات تعذيبه، وختم صليبه الآن على جباه البشر...]."
+    },
+    {
+      "section_title": "3. تدخل الله",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "17 يَا رَبُّ، إِلَى مَتَى تَنْظُرُ؟ اسْتَرِدَّ نَفْسِي مِنْ تَهْلُكَاتِهِمْ، وَحِيدَتِي مِنَ الأَشْبَالِ. 18 أَحْمَدُكَ فِي الْجَمَاعَةِ الْكَثِيرَةِ. فِي شَعْبٍ عَظِيمٍ أُسَبِّحُكَ. 19 لاَ يَشْمَتْ بِي الَّذِينَ هُمْ أَعْدَائِي بَاطِلًا، وَلاَ يَتَغَامَزْ بِالْعَيْنِ الَّذِينَ يُبْغِضُونَنِي بِلاَ سَبَبٍ. 20 لأَنَّهُمْ لاَ يَتَكَلَّمُونَ بِالسَّلاَمِ، وَعَلَى الْهَادِئِينَ فِي الأَرْضِ يَتَفَكَّرُونَ بِكَلاَمِ مَكْرٍ. 21 فَغَرُوا عَلَيَّ أَفْوَاهَهُمْ. قَالُوا: «هَهْ! هَهْ! قَدْ رَأَتْ أَعْيُنُنَا». 22 قَدْ رَأَيْتَ يَا رَبُّ، لاَ تَسْكُتْ. يَا سَيِّدُ، لاَ تَبْتَعِدْ عَنِّي. 23 اسْتَيْقِظْ وَانْتَبِهْ إِلَى حُكْمِي، يَا إِلهِي وَسَيِّدِي إِلَى دَعْوَايَ. 24 اقْضِ لِي حَسَبَ عَدْلِكَ يَا رَبُّ إِلهِي، فَلاَ يَشْمَتُوا بِي. 25 لاَ يَقُولُوا فِي قُلُوبِهِمْ: «هَهْ! شَهْوَتُنَا». لاَ يَقُولُوا: «قَدِ ابْتَلَعْنَاهُ!». 26 لِيَخْزَ وَلْيَخْجَلْ مَعًا الْفَرِحُونَ بِمُصِيبَتِي. لِيَلْبِسِ الْخِزْيَ وَالْخَجَلَ الْمُتَعَظِّمُونَ عَلَيَّ. 27 لِيَهْتِفْ وَيَفْرَحِ الْمُبْتَغُونَ حَقِّي، وَلْيَقُولُوا دَائِمًا: «لِيَتَعَظَّمِ الرَّبُّ الْمَسْرُورُ بِسَلاَمَةِ عَبْدِهِ». 28 وَلِسَانِي يَلْهَجُ بِعَدْلِكَ. الْيَوْمَ كُلَّهُ بِحَمْدِكَ."
+    },
+    {
+      "section_title": "3. تدخل الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعدما وصف المرتل ما يُعانيه من آلام"
+    },
+    {
+      "section_title": "3. تدخل الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضطهاد مع اتساع قلبه بالحب لمضايقيه أعلن تدخل الله في حياته وأيضًا في معاقبة"
+    },
+    {
+      "section_title": "3. تدخل الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشرار المصرّين على شرهم."
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يا رب متى تنظر؟!"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُد نفسي من شر فعلهم،"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومن بين الأسود بنّوتي الوحيدة\""
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسط الضيق يشعر الإنسان بالعزلة، ليس من"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أب أو أم أو صديق يقدر أن يشارك الأعماق، فالحاجة إذن إلى تدخل الله نفسه الذي"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينقذ النفس من بين الأشرار بكونها شبل وحيد."
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قول المرتل \"ردّ نفسي\""
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشير إلى طلبة السيد المسيح القائل: \"الآن مجدني أنت أيها الآب عند ذاتك"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالمجد الذي كان لي عندك قبل كون العالم\" (يو 17: 5)، فإن ما يناله السيد"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح من مجد بقيامته وصعوده إنما هو رّد لما سبق أن أخلى نفسه عنه لأجلنا، حتى"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمل عارنا وخزينا، مقدمًا مجده لنا. دعى نفسه \"وحيدة\"، التي دخلت إلى"
+    },
+    {
+      "section_title": "1. التمتع بخلاص شخصي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجحيم وعادت إلى الجسد كشبل، لكي تقيم من نفوسنا أشبالًا قوية."
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أعترف لك يا رب في الجماعة الكثيرة،"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي شعب جزيل أُسبحك\" [18]."
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يرّد الله نفس داود، يوفي المرتل نذره"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالاعتراف والتسبيح وسط الجماعة، فما يناله من بركات الخلاص كعطايا شخصية تمس حياة"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجماعة كلها، وما تنعم به الجماعة يتذوقه كعطايا شخصية. ليس من فصلٍ بين خبرة"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤمن الشخصية وحياته الكنسية الجماعية."
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هي هذه الجماعة الكثيرة الجزيلة"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(الوقورة) المسبّحة لله إلا كنيسة العهد الجديد التي ضمت الشعوب والأمم لتشهد بعمل"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله الخلاصي وتسبحه بلا انقطاع! إنها كنيسة قوية بمسيحها، مكرمة فيه، تشارك"
+    },
+    {
+      "section_title": "2. تمتع بخلاص جماعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملائكته تسابيحهم له!"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كأن الأشرار قد كرسوا كل وقتهم وطاقاتهم"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للسخرية والاستهزاء بالمؤمنين مجانًا، أي بلا نفع لصالحهم، وبلا علة أو سبب، يهوون"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشر والبغضة لأجل الشر والغش."
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لا يشمت بي الذين"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعادونني ظلمًا"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يبغضونني مجانًا،"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتغامزون بالأعين."
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه إياي كانوا يكلمون بالسلام،"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفكروا مكرًا بالغضب."
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتحوا عليّ أفواههم،"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقالوا: نعمًا، نعمًا، قد رأيت"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعيننا\" [19-21]"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد كرّس الأشرار قلوبهم للبغضة، وعيونهم"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للغمز بسخرية، والشفاة للنطق بكلمات غاشة معسولة بالسلام الظاهر، والفكر بالمكر"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والغضب... كل أعضائهم وطاقاتهم تعمل للشر، أما الله خالق الجسد والنفس فيُحطم كل"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصرفاتهم ضد أولاده، الظاهرة والخفية."
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ صار داود طريًا شمت الأعداء وسخروا به"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علانية، وصاروا يقولون: \"نعمًا، نعمًا، قد رأيت أعيننا\" أو \"هه،"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هه، قد رأيت أعيننا\". تعبير عن الشعور بالنصرة بفرح مع مذلة الآخرين!"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد استهزأ الصالبون بالمسيح، قائلين: \"تنبأ"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنا أيها المسيح من ضربك؟\" (مت 26: 68)، \"يا ناقض الهيكل وبانيه في"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثلاثة أيام خلص نفسك؛ إن كنت ابن الله انزل عن الصليب فنؤمن بك\" (مت 27: 40)،"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"خلّصَ آخرين، وأما نفسه فما يقدر أن يخلصها؛ إن كان هو ملك إسرائيل فلينزل"
+    },
+    {
+      "section_title": "3. توقف شماتة الأشرار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآن عن الصليب فنؤمن به\" (مت 27: 42)."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تتوقف شماتة الأعداء بإعلان قيامة المسيح"
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غالب الموت، كمن يستيقظ من بين الراقدين."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قد رأيت يا رب فلا تصمت."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب لا تتباعد عني."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أستيقظ يا رب وأنظر في حكمي."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلهي وربي أنتقم لي."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أقضِ لي مثل عدلك يا ربي وإلهي."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يفرحوا بي ولا يقولوا في قلوبهم:"
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعمًا نعمًا لأنفسنا."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا يقولوا بأننا قد ابتلعناه..."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليخز ويخجل جميعًا الذين يفرحون بمضراتي"
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليلبس الخزي والعار المعظمون عليّ"
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلامهم."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبتهج ويُسر الذين يريدون بري."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وليقل في كل حين: ليتعظم الرب الذين"
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريدون سلامة عبدك."
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لساني يلهج بعدلك واليوم كله يحمدك\""
+    },
+    {
+      "section_title": "4. استيقظ يا رب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكشف هذه العبارات عن ثمار عمل الصليب"
+    },
+    {
+      "section_title": "أ. ظن الأشرار أن المصلوب قد صمت تمامًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بموته ودفنه، أما المرتل فقد عرفه أنه كلمة الله الذي لا يصمت بل دائم العمل في"
+    },
+    {
+      "section_title": "أ. ظن الأشرار أن المصلوب قد صمت تمامًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة شعبه: \"أبي يعمل حتى الآن وأنا أعمل\" (يو 5: 17)."
+    },
+    {
+      "section_title": "أ. ظن الأشرار أن المصلوب قد صمت تمامًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ نصرخ: \"يا رب لا تصمت\"، نطلب"
+    },
+    {
+      "section_title": "أ. ظن الأشرار أن المصلوب قد صمت تمامًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليه أن يعلن قيامته في حياتنا، يقول كلمة فنقوم ولا نبقى في قبر الشهوات"
+    },
+    {
+      "section_title": "أ. ظن الأشرار أن المصلوب قد صمت تمامًا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والخطايا."
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابتعد عن البشر وفارق شعبه وتلاميذه، ولم يدركوا أنه وهو في القبر انطلقت نفسه"
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحمل نفوس الراقدين على الرجاء ليدخل بها كغنائم حيَّة إلى فردوسه. قيامته أكدت أنه"
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يتباعد عنا، بل يضمنا إلى ملكوته الأبدي."
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ج. لنقل مع المرتل: \"استيقظ يا رب\"،"
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي أيقظ إيماننا بك، فلا نُحسب نائمين ومتراخين وموتى، بل نحيا معك أيها الغالب"
+    },
+    {
+      "section_title": "ب. ظن الصالبون أنه بدفن المسيح قد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للموت!"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"نعمًا نعمًا لأنفسنا\"، مهنئين أنفسهم بالخلاص منه، لكن فرحهم لم يدم إذ"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام ليهنئ المشتركين معه في آلامه وصلبه وقبره أيضًا."
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قالوا \"قد ابتلعناه\"، إذ ابتلعه"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموت، ولم يدركوا أنه دخل إليه بسلطانه ليخلص مؤمنيه الذين سبق فابتلعهم الموت."
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكما يقول القديس مار إفرآم السرياني: [إن الموت ابتلع كذئب السيد المسيح"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحمل، لكن معدته لم تحتمله داخلها فتفجرت وخرج معه المؤمنون به. بقيامته لا يقدر"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القبر ولا العالم كله ولا الجحيم أن يبتلعنا! بالقيامة ابتلعت الكنيسة العالم"
+    },
+    {
+      "section_title": "د. فرحوا بدفنه كغالبين، فكانوا يصرخون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحولته عن الوثنية والإلحاد إلى الإيمان الحيّ!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعار بينما انطلقت الكنيسة إلى الحياة المفرحة، حياة التسبيح غير المنقطع تعظم"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب وتمجده."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "و. نقول مع المرتل: \"اليوم كله"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمدك\"، فقد أشرق الرب بقيامته علينا لتصير حياتنا يومًا (نهارًا) بلا ليل."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد بدد ظلمة قبرنا الداخلي، إذ جعله هيكلًا مقدسًا له."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختتم المزمور بالهتاف والتسبيح لله الذي"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقيمنا من موت الخطية."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلنشكره"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونتبع القديسين: \"اليوم كله نحمدك\" كقول المرتل."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صرخة إلى القائم من الأموات"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنظر"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى مذلتي يا من دخلت معركة الصليب!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن أنت هو سلاحي، ونصرتي، وإكليلي،"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن أنت هو خلاصي، فإنني أود أن أقتنيك!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علمني"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف أُبذل معك من أجل مضايقيّ ومضطّهدي؛"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليتآمروا عليّ، أما أنا فأموت معك من"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أجلهم!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لينصبوا لي شباكًا في طريقهم المظلم!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولترفعني بروحك القدوس وتعبر بي إلى"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمواتك آمنًا!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لترتد صلاتي من أجلهم إلى حضني، فأتمتع"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بما أشتهيه لهم!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صمت لساني، فعظامي لن تصمت عن تمجيدك!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت الكلمة الإلهي الذي لم يستطع القبر"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يجعلك صامتًا!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قم، وأقمني معك، فأحيا بنور قيامتك."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتصر حياتي نهارًا يا شمس البر، لا تعرف"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظلمة قبر الشهوات."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأسبحك كل النهار ما دام نورك مشرق في"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داخلي!"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "أغسطينوس البراموسي: مار اسحق السرياني، 1990، ص 70."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Paralyt. PG 51: 51."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Act. PG 60: 124."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "hom. 135."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "The Lord's Prayer, sermon 1."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Paschal Letters 6: 7."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Plumer, p. 432."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Paschal Letters 2. 7."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اشترك في الترجمة الدكتور جرجس كامل يوسف والدكتورة نورا"
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العجمي."
+    },
+    {
+      "section_title": "ه. بقيامته دخل الأشرار إلى الخزي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "36 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "37 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "38 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "39 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "40 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "42 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "43 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "44 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "45 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "46 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "47 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "48 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "49 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "50 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "51 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "52 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "53 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "54 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "55 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "56 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "57 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "58 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "59 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "60 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "61 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "62 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "63 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "64 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "65 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "66 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "67 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "68 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "69 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "70 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "71 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "72 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "73 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "74 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "75 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "76 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "77 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "78 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "79 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "80 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "81 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "82 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "83 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "84 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "85 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "86 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "87 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "88 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "89 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "90 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "91 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "92 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "93 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "94 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "95 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "96 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "97 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "98 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "99 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "100 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "101 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "102 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "103 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "104 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "105 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "106 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "107 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "108 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "109 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "110 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "111 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "112 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "113 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "114 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "115 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "116 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "117 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "118 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "119 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "120 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "121 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "122 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "123 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "124 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "125 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "126 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "127 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "128 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "129 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "130 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "131 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "132 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "133 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "134 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "135 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "136 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "137 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "138 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "139 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "140 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "141 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "142 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "143 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "145 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "146 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "147 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "148 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "149 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "150 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 35 من سفر المزامير)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/5xtyp7v"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/5xtyp7v"
     }
   ]
 }

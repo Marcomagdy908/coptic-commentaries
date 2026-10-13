@@ -1,17 +1,3253 @@
 {
-  "book_id": 35,
+  "book_id": "daniel",
   "book_title": "تفسير سفر دانيال",
   "chapter_number": 5,
   "chapter_title": "الأصحاح 5",
   "topic": "الكتابة على الحائط",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "وليمة بيلشاصر",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "الكتابة على الحائط",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "إحضار دانيال للملك",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "تفسير دانيال",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "النتائج",
+      "verses": ""
+    }
+  ],
+  "sections_count": 536,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "بيلشاصر والكتابة على الحائط"
+      "text": "بيلشاصر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والكتابة على الحائط"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ عبرت السبعون عامًا الخاصة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالسبيّ التي تنبأ عنها إرميا النبي (إر 25: 11)، وحلّ موعد العودة، كانت مملكة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بابل قد تحولت إلى حياة الرخاوة والترف مع الفساد. جاء الملك بيلشاصر بشخصيته"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المستهترة لتنهار مملكة بابل في أيامه."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا كان لنبوخذنصَّر العنيف والمتكبر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطاءه، وقد أعطاه الله أكثر من فرصة لمراجعة نفسه، أما حفيده، الأرجح ابن ابنته، بيلشاصر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم ينتفع من دروس آبائه. تحدى الله نفسه، وأراد أن يهينه عن عمدٍ. لهذا أعلن له"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تأديبه السريع الذي تحقق فورًا. ما فعله بيلشاصر لم يصنعه سالفيه مثل نبوخذنصَّر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأويل مردوخ. وكما يقول"
+    },
+    {
+      "section_title": null,
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم: [لم يكن متزنًا حين صنع هذه الأمور،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل بالحري كان مخمورًا، ناسيًا العقوبة التي حلت بسالفه نبوخذنصَّر]."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يتعاطف دانيال النبي مع هذا الملك كما"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعل قبلًا مع جده نبوخذنصَّر، إذ اشتهر الملك بالفساد والظلم. هذا يتفق مع أورده"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنه المؤرخ الوثني زينوفون، الذي دعاه \"الشرير\"، وتحدث عن عنفه"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في التعامل مع عظمائه."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 بَيْلْشَاصَّرُ الْمَلِكُ صَنَعَ وَلِيمَةً عَظِيمَةً لِعُظَمَائِهِ الأَلْفِ، وَشَرِبَ خَمْرًا قُدَّامَ الأَلْفِ. 2 وَإِذْ كَانَ بَيْلْشَاصَّرُ يَذُوقُ الْخَمْرَ، أَمَرَ بِإِحْضَارِ آنِيَةِ الذَّهَبِ وَالْفِضَّةِ الَّتِي أَخْرَجَهَا نَبُوخَذْنَصَّرُ أَبُوهُ مِنَ الْهَيْكَلِ الَّذِي فِي أُورُشَلِيمَ، لِيَشْرَبَ بِهَا الْمَلِكُ وَعُظَمَاؤُهُ وَزَوْجَاتُهُ وَسَرَارِيهِ. 3 حِينَئِذٍ أَحْضَرُوا آنِيَةَ الذَّهَبِ الَّتِي أُخْرِجَتْ مِنْ هَيْكَلِ بَيْتِ اللهِ الَّذِي فِي أُورُشَلِيمَ، وَشَرِبَ بِهَا الْمَلِكُ وَعُظَمَاؤُهُ وَزَوْجَاتُهُ وَسَرَارِيهِ. 4 كَانُوا يَشْرَبُونَ الْخَمْرَ وَيُسَبِّحُونَ آلِهَةَ الذَّهَبِ وَالْفِضَّةِ وَالنُّحَاسِ وَالْحَدِيدِ وَالْخَشَبِ وَالْحَجَرِ."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\" بيلشاصر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك صنع وليمة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظيمة لعظمائه الألف وشرب خمرًا قدام الألف\" [1]."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يترجم البعض \"شاصر\""
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمعنى \"النار\"، أما كلمة \"بيلشاصر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(Bel-shar-usur)"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Bel-Sharra-Utsur\" فتعني \"بيل يحمي الملك\"."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت الولائم العظيمة من سمات الأزمنة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديمة. ومن الواضح أن كلمة \"الألف\" تعني الضخامة، وهي تمثل"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رقمًا تقريبيًا. وقد جرت العادة في الولائم الشرقية أن يجلس الملك أو رئيس المتكأ"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على منصة مرتفعة، فيراه كل الحاضرين. لذا جاء التعبير: \"شرب خمرًا قدام"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الألف\" يكشف عن دقة الحديث والوصف."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وإذ كان بيلشاصر يذوق"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمر،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر بإحضار آنية الذهب والفضة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي أخرجها نبوخذنصَّر أبوه من الهيكل الذي في أورشليم،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليشرب بها الملك وعظماؤه وزوجاته"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسراريه."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينئذ أحضروا آنية الذهب التي أخرجت من"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيكل بيت الله الذي في أورشليم،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشرب بها الملك وعظماؤه"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وزوجاته وسراريه [2-3]."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة \"أب\" تحمل معانٍ"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرة، هنا تعني جده أو أحد أسلافه."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينما كانت الدولة البابلية في خطر من"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فارس حيث كان كورش محاصرًا المدينة، كان بيلشاصر منشغلًا بإقامة وليمة تضم ألفًا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من العظماء القادمين من كل موضع، مع نسائه وسراريه. كان يظن أنه من المستحيل لكورش"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو غيره أن يقتحم أسوار المدينة الضخمة، فتركه يُحاصرها في استخفافٍ به وبجيشه."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت أسوار بابل كما جاء في"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيرودوت Herodotus لا يقل عرضها عن 87 قدمًا وارتفاعها عن 350"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدمًا، مع وجود 250 برجًا تعلو 100 قدمًا أخرى في الهواء. لذلك ظن بيلشاصر أنه لا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمكن غزو بابل."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجهد الذي بذله بيلشاصر في إقامة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوليمة والإمكانيات التي قُدمت لا يمكن تقديرها. هذا مع تحدِّيه لله، فعوض الصوم"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وقت الحصار، والصراخ لله لكي ينقذه وينقذ مدينته، إذا به يُقيم وليمة، ويستخدم"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأواني المقدسة للشرب، في جوٍ من الفساد والإباحية، يكشف عن إصرار الملك على"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة غير اللائقة."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد عرف كورش عن الوليمة لضخامتها ولدعوة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكثيرين بالاشتراك فيها، فأدرك أن الملك ورجاله غارقون في الخمر، لا يبالون بشئون"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلدهم، ووجدها فرصة ذهبية لاقتحام المدينة."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينما كان بيلشاصر يفتتح الوليمة كان جيش"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كورش على أبواب بابل. يروي لنا المؤرخ الوثني زينوفون"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Xenophon أن قائدي بيلشاصر جبرايس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Godatas,"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Gobryas المنشقين خاناه. فقد خصى أحدهما"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للتشهير به، وقتل ابن الثاني في أثناء حياة أبيه، لا لشيء إلاَّ لأنه كان يصطاد"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معه فضرب سهمه قبله، فأراد الانتقام منه. لقد حوَّل كورش مجاري كثيرة لنهر الفرات"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واقتحم المدينة فجأة."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن إحضار الآنية للتمتع بلذة الشرب،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما لإهانة الله وتدنيس الآنية المكرسة لخدمة هيكله وللتشهير. إمعانًا في"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإهانة مجدوا الأوثان أثناء الشرب بها."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان في مقدمة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتابه \"المعاهد\"، في هذه الوليمة تحذيرًا للمؤمنين من الانشغال"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالأواني المقدسة الذهبية أو الفضية التي يمكن للملوك الأشرار أن يسلبوها، بل"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزمهم الاهتمام بالأواني الروحية، أي نفوس المؤمنين المقدسة التي لا يمكن"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اغتصابها."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا كاسيان",
+      "text": "القديس يوحنا كاسيان"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجد النقاد فرصتهم لمهاجمة السفر خلال"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الأصحاح، فقد سبق أن قرر المؤرخان لبابل الوثنيان بيروسوس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Berosus وأبيدنس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Abydenus بأن نابونيدس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Nabonidus هو آخر ملوك بابل،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنه كان له مركزه المكرم حتى بعد استيلاء الفارسيين على بابل. بينما جاء في هذا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح أن بيلشاصر هو آخر ملوك بابل، وأنه لاقى الموت مقتولًا."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أكد علم الآثار أن كلًا ما ذكره المؤرخان"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيضًا دانيال حقيقي. فقد جاء في النقوش الآشورية التي وجدها"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sir Herbert Rawlinson عام 1854م أن بيلشاصر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان ابن الملك نابونيدس، وأنه شاركه في الحكم كما سبق فرأينا في مقدمة السفر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(دانيال وعلم الآثار) هذا يتفق مع القول بأن دانيال كان الثالث في المملكة."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الحفريات بأور Ur"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وُجد نقش لنابونيدس يحوي صلاة عن نفسه ثم عن ابنه البكر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Bel- Shar- Usur. مثل هذه الصلاة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تكن تقدم إلاَّ للذين تولوا الحكم. كما وُجدت مستندات \"إسفينية"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مسمارية\"، وهي حروف اُستخدمت في بابل، تُسجل كيف قدم بيلشاصر خرافًا وعجولًا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في هياكل سيبار"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sippar"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كذبائح"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الملك."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وقت قريب حدثت فياضانات غزيرة على حي"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في بابل القديمة يُدعى هيلا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Hillah،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فظهرت أواني فخارية ضخمة مملوءة بألواح تمثل إيصالات وعقود لمؤسسة خاصة بالبنوك في"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بابل، يظهر منها أن بيلشاصر كان له بيت وسكرتاريون وحراس."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيلشاصر هذا ربما هو نفس بلطشاصر المذكور"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في السجلات البابلية والذي قام بمهمة النائب الأول للملك. وقد أصبح ملكًا بالنيابة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن أبيه وفقًا للسجلات البابلية سنة 553 ق.م. واستمر في هذا المركز إلى سنة 539 ق.م."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومع أن نابونيدس كان متغيبًا طوال الوقت في تيماء بشمال شبه الجزيرة العربية إلاَّ"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه لم يترك الملك إلى أن فتح كورش بابل."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما لماذا تُرك بيلشاصر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكًا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في بابل؟ فذلك يرجع لشخصية والده نبونيدس الذي كان رجلًا له اهتمامات دينية وثقافية،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما كان عالمًا للآثار، فكان يبحث في نقوش الملوك القدماء وأساسات وأحجار المباني"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العامة، ويبحث عن الوثائق التي تكشف الماضي. وكانت اهتماماته الدينية قوية جدًا،"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكانت ابنته مكرسة لإله القمر، ويبدو أن أمه كانت كاهنة معبد \"سين"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sun\" إله القمر. وهذا ما شغله عن"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمور الحكم، ومن الواضح لنا، مما كشفه علم الآشوريات، أنه قضى معظم أيام حكمه ليس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في بابل ولكن في تيماء، ومن ثم فقد ترك ابنه بيلشاصر لحكم بابل، بنفس الطريقة التي"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان بها نبوخذنصَّر مع والده نبوبلاسر. هذه الحقائق قدمها لنا رايموند دورتى"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Raymond P. Dougherty أستاذ علم"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآشوريات [New"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Haven, Yale 1929]"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"كانوا يشربون الخمر"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويسبحون آلهة الذهب والفضة والنحاس والحديد والخشب والحجر\" [4]."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ دنسوا الأواني المقدسة، سبحوا الآلهة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنية بكونها واهبة النصرة على الإله الحقيقي، وكما جاء في سفر حبقوق:"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لذلك تذبح لشبكتها وتبخر لمصيدتها، لأنه بهما سمن نصيبها وطعامها"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُسمن\" (حب 1: 16). لقد أكلوا وشربوا فشبعوا وسمنوا، وسخَروا بالله واهب"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العطايا."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد أحضر الملك الأواني المقدسة عمدًا"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل الشرب، وأشعل السكر بالأكثر مشاعره الفاسدة، ودفعه إلى التمادي في السخرية."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا ولم يخطئ الملك وحده بل دفع عظماءه ونساءه وسراريه للاشتراك معه، فتحولت"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوليمة إلى مجلس مستهزئين."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعظم غباوتهم! إذ كانوا يشربون في أوانٍ ذهبية سبحوا آلهة من خشبٍ وحجارة."
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم أن"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آلهة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذهب تُشير إلى الذين يُهاجمون الحق مستخدمين براهين عقلية تبدو مقبولة، وآلهة"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفضة تُشير إلى الذين يستخدمون البلاغة والخطابة لنفس الهدف، وأما آلهة النحاس"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحديد فتُشير إلى من يستخدم الأشعار بما تحمله من خزعبلات واهية بعضها لها"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تذوقها الصالح والأخرى تحمل غباوة. آلهة الخشب والحجارة تُشير إلى من يقدم سخافات"
+    },
+    {
+      "section_title": "1. وليمة بيلشاصر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضحة."
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "5 فِي تِلْكَ السَّاعَةِ ظَهَرَتْ أَصَابعُ يَدِ إِنْسَانٍ، وَكَتَبَتْ بِإِزَاءِ النِّبْرَاسِ عَلَى مُكَلَّسِ حَائِطِ قَصْرِ الْمَلِكِ، وَالْمَلِكُ يَنْظُرُ طَرَفَ الْيَدِ الْكَاتِبَةِ. 6 حِينَئِذٍ تَغَيَّرَتْ هَيْئَةُ الْمَلِكِ وَأَفْزَعَتْهُ أَفْكَارُهُ، وَانْحَلَّتْ خَرَزُ حَقْوَيْهِ، وَاصْطَكَّتْ رُكْبَتَاهُ. 7 فَصَرَخَ الْمَلِكُ بِشِدَّةٍ لإِدْخَالِ السَّحَرَةِ وَالْكَلْدَانِيِّينَ وَالْمُنَجِّمِينَ، فَأَجَابَ الْمَلِكُ وَقَالَ لِحُكَمَاءِ بَابِلَ: «أَيُّ رَجُل يَقْرَأُ هذِهِ الْكِتَابَةَ وَيُبَيِّنُ لِي تَفْسِيرَهَا فَإِنَّهُ يُلَبَّسُ الأُرْجُوَانَ وَقِلاَدَةً مِنْ ذَهَبٍ فِي عُنُقِهِ، وَيَتَسَلَّطُ ثَالِثًا فِي الْمَمْلَكَةِ». 8 ثُمَّ دَخَلَ كُلُّ حُكَمَاءِ الْمَلِكِ، فَلَمْ يَسْتَطِيعُوا أَنْ يَقْرَأُوا الْكِتَابَةَ، وَلاَ أَنْ يُعَرِّفُوا الْمَلِكَ بِتَفْسِيرِهَا. 9 فَفَزَعَ الْمَلِكُ بَيْلْشَاصَّرُ جِدًّا وَتَغَيَّرَتْ فِيهِ هَيْئَتُهُ، وَاضْطَرَبَ عُظَمَاؤُهُ."
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"في تلك الساعة، ظهرت أصابع يد"
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان،"
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكتبت بإزاء النبراس (المنارة) على مكلس"
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حائط قصر الملك،"
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والملك ينظر طرف اليد\""
+    },
+    {
+      "section_title": "2. الكتابة على الحائط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلق"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"في تلك الساعة\" قائلًا: بأن اليد قد ظهرت في نفس الساعة ليعلن"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله أن ما يحدث هو تأديب بسبب"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجديفه وليس لسبب آخر."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح أن الحفل كان ليلًا حيث وُجدت"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المنارات، وأنه استمر حتى منتصف الليل حيث استولى كورش على بابل."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظهرت اليد للملك دون العظماء، لهذا ارتبك"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا وارتعب، فارتعب العظماء معه، دون أن يروا شيئًا."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم أن الكتابة"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت على حائط القصر الملكي لكي يدرك الملك أن المكتوب يخصه شخصيًا."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حينئذ تغيرت هيئة"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك، وأفزعته أفكاره،"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانحلت خرز حقويْه، واصطكت"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ركبتاه\" [6]."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منذ لحظات كان الملك يظن في نفسه إلهًا"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبارًا، يسخر بالله الحقيقي ويُدنس مقدساته، مسبحًا الأوثان. الآن يأخذ موقف المتهم"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذليل، ويدرك أن الله هو الديان الحقيقي. انحلت قوى الملك الجسمانية، وارتبك"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فكره، وفقد اتزانه وكرامته بين المدعوين للحفل. صار في موقفٍ لا يُحسد عليه."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فصرخ الملك بشدةٍ لإدخال"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السحرة والكلدانيين والمنجمين."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأجاب الملك وقال لحكماء بابل:"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي رجل يقرأ هذه الكتابة، ويُبين ليّ"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفسيرها،"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنه يلبس الأرجوان، وقلادةٍ من ذهب في"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنقه،"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتسلط ثالثًا في المملكة\" [7]."
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعر الملك أن جراحات عقله خطيرة، فاستدعى"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السحرة والحكماء والمنجمين لعله يجد دواءً لأعماقه، لكنه كان يشعر أنه ليس"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لجراحاته شفاء، وأنه لن يفلت من يديّ القدير. لقد نسيَ أنه ملك يُقيم وليمة"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعظماء، فأرسل يستدعي هؤلاء الرجال على وجه السرعة، ليدخلوا إليه وهو بعد في"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوليمة. لقد صرخ بشدة، الأمر الذي لا يليق بصاحب سلطان! لقد فقد أعصابه تمامًا!"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا لم يُستدع"
+    },
+    {
+      "section_title": "القديس جيروم على تعبير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دانيال؟"
+    },
+    {
+      "section_title": "1. ربما لأنه كان قد شاخ فأُحيل على",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المعاش."
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبوخذنصَّر أثار - على مدى الوقت - أحقاد الحكماء البابليين، إذ شعروا أن رجلًا"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريب الجنس مسبيًّا قد فاقهم جميعًا، فبذلوا كل الجهد بعد موت نبوخذنصَّر على"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استبعاده من القصر، حتى ينساه رجال القصر تمامًا، وقد وجد ذلك استطيابًا في قلب"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دانيال النبي الذي لا يُريد أن يُحصَى مع المجوس، وأن يكون كبيرهم. وفي نفس الوقت"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شوَّهوا صورة الشعب اليهودي وعبادتهم لدى الملك. هذا يظهر بوضوح مما فعله الملك"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما أقام الوليمة وأراد تدنيس المُقدسات الإلهية مع تمجيد أوثانه. هكذا استطاعوا"
+    },
+    {
+      "section_title": "2. ما ناله دانيال من كرامة من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يزيلوا كل أثر لدانيال على القصر الملكي."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه، ويفحص تصرفاته."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد دنس مقدسات الله ومجد أوثانه، فكان يليق به أن يبحث عن"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل الله، يطلب منه مشورة للتكفير عما فعله، لكنه عِوض البحث عن رجل الله طلب رجال"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأوثان من سحرة ومنجمين. لقد أرعبه الله، فكان يليق به أن يبحث عمن يقدم"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له الصوت الإلهي، لكنه حتى في وسط ارتباكه طلب صوت أوثانه. لقد أدرك أنه لا يستطيع"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهروب من حكم الله، فطلب أن يجد تعزيته في السحرة. يمكننا القول أن بيلشاصر كان"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعمى، أغلق عينيه عن معاينة النور الإلهي."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بإعلانه عن الهدايا التي يقدمها لمن يفسر"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له الرؤيا أوضح أن قلبه لم يتمتع بالمخافة الإلهية. لقد صار شبه ميت، ومع هذا ففي"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كبريائه الخفي يظن أنه يُغني من يفسر له الرؤيا، عِوض الوعد بالتوبة."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ثم دخل كل حكماء الملك،"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم يستطيعوا أن يقرءوا الكتابة، ولا أن"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُعرفوا الملك بتفسيرها."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ففزع الملك بيلشاصر"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا، وتغيرت فيه هيئته،"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضطرب عظماؤه\" [8-9]."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ظهرت لهم الكتابة أشبه بسفرٍ مختومٍ"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما جاء في (إش 29: 11)، لم يستطيعوا فتحه وقراءته. أو قل إنهم صاروا عميانًا غير"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادرين على الرؤية. وُضعت غشاوة على قلوبهم، فلم يستطيعوا القراءة."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهب الله الملك بيلشاصر أن يرى اليد"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخفية تكتب على الحائط، لكنه لم يهبه القدرة على قراءة ما هو مكتوب. وجاء الحكماء"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليقرءوا، لكنهم كانوا أشبه"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالعميان. لقد سمح الله بذلك حتى يزداد الملك رعبًا،"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيرتعب كل من حوله. ولعل هذا الحدث بين ألفٍ من العظماء غير الزوجات والسراري جعل"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خبر الرؤيا ينتشر سريعًا، لا على مستوى المدينة بل وخارجها؛ مما أعطى كورش طمأنينة"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وثقة أن ما يصنعه يلزم أن يتم سريعًا، لأن يدّ الله تسنده. هذه الأحداث التي حتمًا"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلغت كورش فيما بعد بتفاصيل دقيقة دفعته نحو تكريم دانيال وشعبه وإلهه، فسمح للشعب"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالعودة إلى أورشليم."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أدان الله تصرف الملك الشرير في ذات"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساعة، فجاءت الكتابة لا في حلم بل حقيقة ملموسة. وقد أدرك الملك أن عقوبة"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنتظره، لذلك خاف جدًا قبل معرفته بالتفسير. هذا يوضح أن ما فعله الملك لم يكن عن"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جهلٍ وإنما عن إدراك ووعي."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيلشاصر أصبع يد تكتب على الحائط، وفي الحال انطبعت صورة شيء مادي على روحه خلال"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حواس جسدية، وعندما انتهت الرؤيا بقيت الصورة في أفكاره، بقيت منظورة في الروح لكن"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير مفهومة..."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما فشل في اكتشاف المعنى، جاء دانيال"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الحال، وإذ كان ذهنه مستنيرًا بروح النبوة، كشف للملك المضطرب المعنى النبوي"
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعلامة."
+    },
+    {
+      "section_title": "3. مع كل ما حلّ به لم يُراجع الملك",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "10 أَمَّا الْمَلِكَةُ فَلِسَبَبِ كَلاَمِ الْمَلِكِ وَعُظَمَائِهِ دَخَلَتْ بَيْتَ الْوَلِيمَةِ، فَأَجَابَتِ الْمَلِكَةُ وَقَالَتْ: «أَيُّهَا الْمَلِكُ، عِشْ إِلَى الأَبَدِ! لاَ تُفَزِّعْكَ أَفْكَارُكَ وَلاَ تَتَغَيَّرُ هَيْئَتُكَ. 11 يُوجَدُ فِي مَمْلَكَتِكَ رَجُلٌ فِيهِ رُوحُ الآلِهَةِ الْقُدُّوسِينَ، وَفِي أَيَّامِ أَبِيكَ وُجِدَتْ فِيهِ نَيِّرَةٌ وَفِطْنَةٌ وَحِكْمَةٌ كَحِكْمَةِ الآلِهَةِ، وَالْمَلِكُ نَبُوخَذْنَصَّرُ أَبُوكَ جَعَلَهُ كَبِيرَ الْمَجُوسِ وَالسَّحَرَةِ وَالْكَلْدَانِيِّينَ وَالْمُنَجِّمِينَ. أَبُوكَ الْمَلِكُ. 12 مِنْ حَيْثُ إِنَّ رُوحًا فَاضِلَةً وَمَعْرِفَةً وَفِطْنَةً وَتَعْبِيرَ الأَحْلاَمِ وَتَبْيِينَ أَلْغَازٍ وَحَلَّ عُقَدٍ وُجِدَتْ فِي دَانِيآلَ هذَا، الَّذِي سَمَّاهُ الْمَلِكُ بَلْطَشَاصَّرَ. فَلْيُدْعَ الآنَ دَانِيآلُ فَيُبَيِّنَ التَّفْسِيرَ». 13 حِينَئِذٍ أُدْخِلَ دَانِيآلُ إِلَى قُدَّامِ الْمَلِكِ. فَأَجَابَ الْمَلِكُ وَقَالَ لِدَانِيآلَ: «أَأَنْتَ هُوَ دَانِيآلُ مِنْ بَنِي سَبْيِ يَهُوذَا، الَّذِي جَلَبَهُ أَبِي الْمَلِكُ مِنْ يَهُوذَا؟ 14 قَدْ سَمِعْتُ عَنْكَ أَنَّ فِيكَ رُوحَ الآلِهَةِ، وَأَنَّ فِيكَ نَيِّرَةً وَفِطْنَةً وَحِكْمَةً فَاضِلَةً. 15 وَالآنَ أُدْخِلَ قُدَّامِي الْحُكَمَاءُ وَالسَّحَرَةُ لِيَقْرَأُوا هذِهِ الْكِتَابَةَ وَيُعَرِّفُونِي بِتَفْسِيرِهَا، فَلَمْ يَسْتَطِيعُوا أَنْ يُبَيِّنُوا تَفْسِيرَ الْكَلاَمِ. 16 وَأَنَا قَدْ سَمِعْتُ عَنْكَ أَنَّكَ تَسْتَطِيعُ أَنْ تُفَسِّرَ تَفْسِيرًا وَتَحُلَّ عُقَدًا. فَإِنِ اسْتَطَعْتَ الآنَ أَنْ تَقْرَأَ الْكِتَابَةَ وَتُعَرِّفَنِي بِتَفْسِيرِهَا فَتُلَبَّسُ الأُرْجُوانَ وَقِلاَدَةً مِنْ ذَهَبٍ فِي عُنُقِكَ وَتَتَسَلَّطُ ثَالِثًا فِي الْمَمْلَكَةِ»."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أما الملكة فلسبب كلام الملك"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعظمائه دخلت بيت الوليمة،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأجابت الملكة وقالت: أيُّها الملك عش"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الأبد."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تفزعك أفكارك ولا تتغير هيئتك."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد في مملكتك رجل فيه روح الآلهة"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوسين،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي أيام أبيك وُجدت فيه نيرةُ وفطنة"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحكمة كحكمة الآلهة،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والملك نبوخذنصَّر أبوك جعله"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كبير المجوس والسحرة والكلدانيين والمنجمين\" [10-11]."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واضح أن الملكة قد عاصرت أحداث"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبوخذنصَّر جد بيلشاصر، غالبًا ما تكون زوجته، أي جدة بيلشاصر، وليست زوجته، لأن"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأخيرة كانت مع الملك في الوليمة. أما الجدة ففي حكمة ووقار لم تشترك في الوليمة،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ كان حضور النساء مع الرجال في الولائم يُخالف العادات الشرقية في ذلك الحين."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير أن مخاطبة الملكة للملك يشهد لدقة السفر، ففي بابل كان للملكة الأم منزلة"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عُليا في البيت الملكي."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ذكَّرت الملك بدانيال، الذي غالبًا"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما كان على المعاش أو مستبعدًا، لكن لا يمكننا الجزم بأن بيلشاصر لم يسمع عنه، فقد"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان كثيرون ينظرون إليه كملاكٍ نازلٍ من السماء. لقد كان الملك غارقًا في ملذاته"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي جعلته يتجاهل أو لا ينشغل برجل الله، ويقاوم الله نفسه."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاتبته الملكة بروح هادئ، وكأنها تقول"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له: \"لماذا تسلك في الظلمة وقد وهبك الله رجلًا يحمل مشعل النور"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفائق؟!\""
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"من حيث إن روحًا فاضلة"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعرفة وفطنة وتعبير الأحلام وتبيين ألغاز وحل عقد وُجدت في دانيال،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الذي سماه الملك بلطشاصر."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فليُدعَ الآن دانيال فُيبين"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التفسير\" [12]."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ميَّزت الملكة العجوز بين دانيال"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والسحرة. فقد كان السحرة يفتخرون بأنهم قادرون على تفسير الأحلام، لكن افتخارهم"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كاذب وباطل، أما دانيال فتمتع بثلاث عطايا إلهية، بها فاق الجميع، وميَّزه عنهم."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روح فاضلة."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معرفة وحكمة."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قادر"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على تفسير الأحلام وتبيين الألغاز وحلّ المشاكل."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كشفت أيضًا عن تقدير نبوخذنصَّر له إذ"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسبه إلى إلهه، وأعطاه اسمًا مكرمًا \"بلطشاصر\". لقد حمل اسمًا"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشابهًا لاسم الملك \" بيلشاصر\". لذا يليق به ألاَّ يحتقره لكونه"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غريب الجنس ومسبيًّا!"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"حينئذ أُدخل دانيال"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى قدام الملك، فأجاب الملك وقال لدانيال:"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أأنت هو دانيال من بني سبيّ يهوذا الذي"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جلبه أبي الملك من يهوذا؟"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قد سمعت عنك أن فيك روح الآلهة، وأن فيك"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نيرة وفطنة وحكمة فاضلة."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والآن أدخل قدامي الحكماء والسحرة ليقرءوا"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الكتابة،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُعرفوني بتفسيرها، فلم يستطيعوا أن"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبينوا تفسير الكلام."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنا قد سمعت عنك أنك تستطيع أن تفسر"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفسيرًا وتحل عقدًا."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإن استطعت الآن أن تقرأ الكتابة،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتُعرفني بتفسيرها،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتلبس الأرجوان، وقلادة من ذهب في عنقك،"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتتسلط ثالثًا في"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المملكة\" [13-16]."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع كل ما حلّ بالملك، وما سمعه من جدته"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يتضع، نادمًا على ما فعله، بل تحدث مع دانيال في عجرفة، ناظرًا إليه كرجلٍ ذليلٍ"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مسبيّ. ولعله استخدم هذا الأسلوب لكي يلزمه بالطاعة والالتزام بالنطق بالحق معه."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد اعترف الملك أنه التجأ إلى السحرة"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فظهر عجزهم التام، وأنه يأمل بسبب ما سمعه عنه أن يقدم له ما عجز عنه هؤلاء"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجال."
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم الملك وعودًا لدانيال من ثياب ملوكية"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أرجوان) وقلادة ذهبية مع سلطان، ولم يكن يدري أنه هو نفسه يفقد ممتلكاته وسلطانه"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل وحياته بعد ساعات. كان مرتعبًا أمام القضاء الإلهي، وربما كان يشعر أنه يفقد كل"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء سريعًا، لكنه أخفى هذا كله، مقدمًا وعودًا للآخرين لا يقدر أن يتمتع هو نفسه"
+    },
+    {
+      "section_title": "3. إحضار دانيال أمام الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بها."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "17 فَأَجَابَ دَانِيآلُ وَقَالَ قُدَّامَ الْمَلِكِ: «لِتَكُنْ عَطَايَاكَ لِنَفْسِكَ وَهَبْ هِبَاتِكَ لِغَيْرِي. لكِنِّي أَقْرَأُ الْكِتَابَةَ لِلْمَلِكِ وَأُعَرِّفُهُ بِالتَّفْسِيرِ. 18 أَنْتَ أَيُّهَا الْمَلِكُ، فَاللهُ الْعَلِيُّ أَعْطَى أَبَاكَ نَبُوخَذْنَصَّرَ مَلَكُوتًا وَعَظَمَةً وَجَلاَلًا وَبَهَاءً. 19 وَلِلْعَظَمَةِ الَّتِي أَعْطَاهُ إِيَّاهَا كَانَتْ تَرْتَعِدُ وَتَفْزَعُ قُدَّامَهُ جَمِيعُ الشُّعُوبِ وَالأُمَمِ وَالأَلْسِنَةِ. فَأَيًّا شَاءَ قَتَلَ، وَأَيًّا شَاءَ اسْتَحْيَا، وَأَيًّا شَاءَ رَفَعَ، وَأَيًّا شَاءَ وَضَعَ. 20 فَلَمَّا ارْتَفَعَ قَلْبُهُ وَقَسَتْ رُوحُهُ تَجَبُّرًا، انْحَطَّ عَنْ كُرْسِيِّ مُلْكِهِ، وَنَزَعُوا عَنْهُ جَلاَلَهُ، 21 وَطُرِدَ مِنْ بَيْنِ النَّاسِ، وَتَسَاوَى قَلْبُهُ بِالْحَيَوَانِ، وَكَانَتْ سُكْنَاهُ مَعَ الْحَمِيرِ الْوَحْشِيَّةِ، فَأَطْعَمُوهُ الْعُشْبَ كَالثِّيرَانِ، وَابْتَلَّ جِسْمُهُ بِنَدَى السَّمَاءِ، حَتَّى عَلِمَ أَنَّ اللهَ الْعَلِيَّ سُلْطَانٌ فِي مَمْلَكَةِ النَّاسِ، وَأَنَّهُ يُقِيمُ عَلَيْهَا مَنْ يَشَاءُ. 22 وَأَنْتَ يَا بَيْلْشَاصَّرُ ابْنَهُ لَمْ تَضَعْ قَلْبَكَ، مَعَ أَنَّكَ عَرَفْتَ كُلَّ هذَا، 23 بَلْ تَعَظَّمْتَ عَلَى رَبِّ السَّمَاءِ، فَأَحْضَرُوا قُدَّامَكَ آنِيَةَ بَيْتِهِ، وَأَنْتَ وَعُظَمَاؤُكَ وَزَوْجَاتُكَ وَسَرَارِيكَ شَرِبْتُمْ بِهَا الْخَمْرَ، وَسَبَّحْتَ آلِهَةَ الْفِضَّةِ وَالذَّهَبِ وَالنِّحَاسِ وَالْحَدِيدِ وَالْخَشَبِ وَالْحَجَرِ الَّتِي لاَ تُبْصِرُ وَلاَ تَسْمَعُ وَلاَ تَعْرِفُ. أَمَّا اللهُ الَّذِي بِيَدِهِ نَسَمَتُكَ، وَلَهُ كُلُّ طُرُقِكَ فَلَمْ تُمَجِّدْهُ. 24 حِينَئِذٍ أُرْسِلَ مِنْ قِبَلِهِ طَرَفُ الْيَدِ، فَكُتِبَتْ هذِهِ الْكِتَابَةُ. 25 وَهذِهِ هِيَ الْكِتَابَةُ الَّتِي سُطِّرَتْ: مَنَا مَنَا تَقَيْلُ وَفَرْسِينُ. 26 وَهذَا تَفْسِيرُ الْكَلاَمِ: مَنَا، أَحْصَى اللهُ مَلَكُوتَكَ وَأَنْهَاهُ. 27 تَقَيْلُ، وُزِنْتَ بِالْمَوَازِينِ فَوُجِدْتَ نَاقِصًا. 28 فَرْسِ، قُسِمَتْ مَمْلَكَتُكَ وَأُعْطِيَتْ لِمَادِي وَفَارِسَ». 29 حِينَئِذٍ أَمَرَ بَيْلْشَاصَّرُ أَنْ يُلْبِسُوا دَانِيآلَ الأَرْجُوانَ وَقِلاَدَةً مِنْ ذَهَبٍ فِي عُنُقِهِ، وَيُنَادُوا عَلَيْهِ أَنَّهُ يَكُونُ مُتَسَلِّطًا ثَالِثًا فِي الْمَمْلَكَةِ."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فأجاب دانيال وقال قدام الملك:"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتكن عطاياك لنفسك وهب هباتك لغيري."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكني أقرأ الكتابة للملك وأُعرفه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتفسير\" [17]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أظهر دانيال استخفافه بالعطايا الزمنية"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل أن يقرأ الكتابة ويفسرها، لئلا يظن الملك أن الرفض ليس من أعماق القلب، وإنما"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن دانيال أدرك أن ملكه ينتهي، وكأن دانيال استغل الرؤيا لحسابه الشخصي. على أي"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأحوال كما يقول"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم: [إن دانيال تبع الوصية الإنجيلية رافضًا"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أية مكافأة، إذ قيل: \"مجانًا أخذتم، مجانًا أعطوا\"]. لم يرتبط قلبه بغنى أو"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كرامة أو سلطة، ومن جانب آخر أدرك أنه ليس في سلطان بيلشاصر أن يقدم هذه الأمور،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن ساعة هلاكه قد حلّت."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختلفت طريقة تفسير دانيال للرؤيا هنا"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنها مع نبوخذنصَّر. لقد أظهر استهانته بالمكافأة، للأسباب التالية."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطية"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك هنا ليست عن جهل، فقد سبق أن عرف ما حدث مع جده."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هاجم"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيلشاصر الله القدير."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجَّد"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيلشاصر الأوثان ومدحها بقصد إهانة الله الحيّ."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت الكتابة: \"حُسبت، حُسبت،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وزنت، انقسامات\" ومعناها: أحصى الله مملكتك أو قيَّمها وأنهاها. وزنت"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالموازين ووُجدت ناقصًا. تقسم مملكتك وتعطى لإمبراطورية مادي وفارس."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم: [إنه بهذا"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحققت نبوة إشعياء النبي عن أنهيار مملكة بابل أثناء إقامة الوليمة بطريقة حرفية"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دقيقة، إذ يقول: \"تاه قلبي، بغتني رعب، ليلة لذتي جعلها ليّ رعدة، يرتبون"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المائدة، يحرسون الحراسة، يأكلون، يشربون - قوموا أيها الرؤساء امسحوا المجن\""
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(إش 21: 4-5)]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أنت أيها الملك، فالله"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلي أعطى أباك نبوخذنصَّر ملكوتًا وعظمة وجلالًا وبهاء."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وللعظمة التي أعطاه إياها،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت ترتعد وتفزع قدامه جميع الشعوب والأمم والألسنة."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأيا شاء قتل، وأيا شاء استحيا،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأيا شاء رفع، وأيا شاء وضع."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلما ارتفع قلبه، وقَسَت روحه تجبرًا،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انحط عن كرسي ملكه، ونزعوا"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنه جلاله\" [18-20]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوضح له دانيال أن ما تمتع به جده الملك"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبوخذنصَّر لم يكن سوى عطية إلهية، فإن كل سلطانٍ هو من الله (رو 8: 1)، إذ يُريد"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله أن تظهر قوته بطريقة منظورة خلال الممالك. لكنه أساء استخدام العطية، عوض أن"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُمجد الله ويخدم البشر تشامخ وتجبَّر قلبه."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان نبوخذنصَّر صاحب سلطان يقتل من يشاء ويعفو"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمن يشاء؛ يرفع من يشاء، ويذل من يشاء، ولم يدرك أن حياة الناس هي في يد الله، بل"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحياة الملك نفسه وكرامته وسلطانه هذه جميعها في يد الله."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان هذا هو الحال (يستطيع الملك أن يفعل ما يشاء)، يثور السؤال: كيف نفهم ما جاء"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الكتاب المقدس \"قلب الملك في يد الله حيثما شاء يميله\""
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(أم 21: 1). ربما يمكننا القول إن كل قديس هو"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك، لأن الخطية لا تملك في جسده المائت، بهذا يبقى قلبه محفوظًا في أمان،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه في يد الله (رو 6). حالما يوضع"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في يد الله الآب، فبحسب الإنجيل، لا يقدر أحد أن ينتزعه. أما من يُنتزع يُفهم أنه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن قط في يد الله."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وطُرد من بين الناس،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتساوي قلبه بالحيوان،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكانت سكُناه مع الحمير الوحشية، فأطعموه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العشب كالثيران،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأبتل جسمه بندى السماء،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى علم أن الله العلي سلطان في مملكة"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الناس،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنه يُقيم عليها من يشاء\" [21]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما حدث مع نبوخذنصَّر أمر له خطورته،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحسب درسًا لأجيال متعاقبه، لكن هوذا حفيده بيلشاصر سرعان ما نسي الدرس أو"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تناساه، فلم ينتفع من خبرة جده، الذي لتشامخه اعتزل البشرية ليعيش في مملكة"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحيوانات العجماوات كمن لا عقل له. هذا ما فعله حفيده بمحض إرادته حين صنع"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوليمة بغير تعقلٍ ودنَّس المُقدسات الإلهية، حاسبًا أنه يستخف بالله."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وأنت يا بيلشاصر"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابنه، لم تضع قلبك مع أنك"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عرفت كل هذا\" [22]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعو بيلشاصر ابنا للملك نبوخذنصَّر الذي"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقط تحت التأديب الإلهي بسبب كبريائه؛ وكأنه يقول له: \"لست أقدم لك مثالًا من"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمةٍ غريبةٍ، بل من بيت أبيك وعائلتك. أنت بلا عذر!\"."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم: [إن البعض يرى"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الحديث هنا ينطبق على"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح، فكما لم ينتفع بيلشاصر من تأديب أبيه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبوخذنصَّر الذي سقط في الكبرياء، هكذا لا ينتفع"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح مما حلَّ بأبيه إبليس"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب كبريائه. وكما انتقل المُلك من بيلشاصر بعد قتله إلى غيره، هكذا يموت"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح ويملك القديسون عِوضًا عنه."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"بل تعظمت على رب"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأحضروا قُدامك آنية بيته،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأنت وعظماؤك وزوجاتك وسراريك شربتم بها"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمر،"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسبحت آلهة الفضة والذهب والنحاس والحديد"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والخشب والحجر التي لا تبصر ولا تسمع"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا تعرف."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما الله الذي بيده نسمتك وله كل طرقك"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلم تمجده."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينئذٍ أرسل من قبله طرف اليد فكتبت هذه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكتابة."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهذه هي الكتابة التي سُطرت."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منا منا تقيل وفرسين."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهذا تفسير الكلام."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منا أحصى الله ملكوتك وأنهاه."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقيلُ وُزنت بالموازين، فوجدت ناقصًا."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فرس قُسِمت مملكتك وأُعطِيت لمادي وفارس."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حينئذ أمر بيلشاصر"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يُلبسوا دانيال"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرجوان، وقلادة من ذهب في عنقه، ويُنادوا عليه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه يكون متسلطًا ثالثًا في"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المملكة\" [29]."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدم له الملك عطاياه، لكنها لم تدم إلاَّ"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لساعاتٍ،. ربما قبلها دانيال النبي لئلا يظن الملك أنه ثائر ضده أو متعجرف عليه"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومتشامخ. ارتدى دانيال ثوب ارجواني ملوكي، وقلادة من ذهب تُشير إلى السلطة"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملوكية... بهذا أُعطيت الفرصة لكورش أن يتعرف عليه ويتساءل عن سبب تكريمه، فيسمع"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن الرؤيا."
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلل"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم تقديم الملك"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المكافأة لدانيال بأنه ظن أن هذه النبوة المؤلمة ستتحقق في المستقبل البعيد، أو"
+    },
+    {
+      "section_title": "4. تفسير دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه بتكريمه رجل الله يجد رحمة ونعمة لدى الله."
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "30 فِي تِلْكَ اللَّيْلَةِ قُتِلَ بَيْلْشَاصَّرُ مَلِكُ الْكَلْدَانِيِّينَ،"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "31 فَأَخَذَ الْمَمْلَكَةَ دَارِيُّوسُ الْمَادِيُّ وَهُوَ ابْنُ اثْنَتَيْنِ وَسِتِّينَ سَنَةً. [30-31]."
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بينما كان الشرب بكؤوس بيت الرب جاريًا"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قبل الصباح دخل كورش بابل بطريقة لم يتوقعها الحراس والرقباء في الأبراج العالية،"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد فاض نهر الفرات تحت أسوار بابل الضخمة. كان الفرس قد حفروا مجرى ضخمًا خارج"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بابل ولم يدري البابليون بذلك. وبسرعة قاموا بتوصيل المجرى بالنهر فتدفقت المياه"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في المجرى، فعبر الجيش إلى داخل المدينة خلال النهر الجاف تحت الأسوار. من داخل المدينة"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فتحوا الأبواب فاقتحم الجند المدينة من كل جانب وقُتل بيلشاصر في نفس الليلة أو"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما الليلة التالية. لقد تحولت المملكة من أيدي البابليين إلى الفارسيين، بهذا"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ننتقل من الرأس الذهبي للتمثال إلى الصدر والكتفين من الفضة كما جاء في"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني من السفر."
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحدث المؤرخون الوثنيون عن احتلال كورش"
+    },
+    {
+      "section_title": "5. النتائج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لبابل وهم مندهشون، فقد كشف له القائدان المنشقان عن بيلشاصر الطريق لفتح المدينة."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة داريوس بالفارسية معناها \"مالك"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخير\"، وهو لقب للملوك الفارسيين مثل فرعون بالنسبة لمصر، وقيصر لروما."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى البعض أن داريوس المادي هو نفسه"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كياكسريز الثانيCyaxares II"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بن"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Astyages"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خال كورش الذي أعطاه عرش بابل كشريكٍ له في الحكم. وكما يقول القس عبد المسيح"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسيط أبو الخير بأنه جاء في السفر أن \"داريوس بن أحشويرش من نسل الماديين الذي"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُلك على مملكة الكلدانيين\" (دا 9: 1). \"مُلك\" هنا تُعني"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"جُعل ملكًا\" \"was made ruler\""
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على بابل، أي أنه كان حاكمًا شريكًا ونائبًا عن الملك كورش. ويقول السفر أيضًا"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن المملكة لم تُعطَ لمادي وحدها، بل \"لمادي وفارس\" (دا 5: 28)، وكان الملك يحكم بحسب شريعة واحدة"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشتركة، هي \"شريعة مادي وفارس التي لا تُنسخ\" (دا 6: 8، 15)، والتي لم يكن"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مقدور داريوس أن يُغيرها أو يناقضها، أي أن دانيال النبي يتحدث عن إمبراطورية"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واحدة متحدة، هي إمبراطورية مادي وفارس، ولا يتحدث عن إمبراطوريتين متعاقبتين. كما"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه لم يكن في إمكانه تعديل أو تغيير أو مقاومة شريعة \"مادي وفارس\"،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شريعة المملكة المتحدة. لم يتحدث دانيال عن الحرب"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي قامت بين البابليين ومادي، إنما تحدث عنها إشعياء (إش 50-51). لسنا في حاجة إلى الإشارة إلى"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التحالف بين مادي وفارس، خاصة في احتلالهما بابل تحت قيادة داريوس وكورش، حيث احتل"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاثنان المدينة."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس جيروم",
+      "text": "القديس جيروم: [بعد أن قُتل"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(بيلشاصر) بواسطة داريوس ملك مادي، خال كورش الفارسي، تحطمت إمبراطورية الكلدانيين"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بواسطة كورش الفارسي. لقد تحدث"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء في الأصحاح 21 عن المملكتين (مادي وفارس)"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كقائدي مركبة يجرها جمل وحمار (إش 21: 7)]."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويرى البعض أنه هو جوباروا"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Gubaru أو"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Gubarn أو"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Gobryas القائد العام"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكورش، الذي احتل بابل وكان له دوره الفعال. جاء في النقوش المسمارية الإسفينية،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي كُشفت ونُشرت في القرن العشرين أن كورش عَين قائد جيشه جوباروا حاكمًا على"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بابل فور فتحها، هذا بدوره أقام حكامًا في بابل. هذا يعني أن كورش سلمه قيادة"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البلد وإقامة حكام، أما هو فخرج ليحقق النصرة على بقية البلاد. كما ذكرت الألواح"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسمارية Cuneiform اسمه كحاكم لبابل وما وراء النهرين أي؛ بابل وسوريا وفينيقية وفلسطين،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على مدى أربعة عشرة عامًا، وكان اسمه يبعث الرعب في قلوب المجرمين."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويرى آخرون أن كورش نفسه دُعي داريوس."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يشر"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيرودوت إلى داريوس كملك وذلك"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب ضعف شخصيته وفساده، خاصة وأنه سلم العرش لابن أخته كورش. كان داريوس في الثانية"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والستين من عمره، هذا يتفق مع ما ورد في زينوفون بكونه كياكسريز الثانيCyaxares II."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا سمح الله لدانيال أن يلبس"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأرجوان؟"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُقدم لنا حياة دانيال صورة حيَّة عن"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معاملات الله معنا. بين الحين والآخر يتمجد الله في حياة دانيال ويستخدمه لخدمة"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبه المسبي. لكن قدر ما كان الله يتمجد فيه، كان عدوّ الخير يخطط لتحطيمه، فتتحول"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخطة لبنيان ملكوت الله. الآن وقد بدى دانيال كمن هو خارج المسرح يجتذبه إلى"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القصر خلال رؤيا بيلشاصر، وينتهي الأمر أن يرتدي الأرجوان والقلادة من ذهب في عنقه"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويصير الرجل الثالث في المملكة. لم يدم هذا أكثر من ساعات قليلة حيث استولى كورش"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على بابل وقتل الملك بيلشاصر، ووجد دانيال بهذا اللباس، وإذ سأل عنه عرف أنه تنبأ"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن سقوط مملكة بابل وقيام مملكة فارس، وعن نصرة كورش إلخ. كرَّمه وقربه إليه كرجل"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله، وتعاطف مع شعبه. وكأن الله قد سمح بما ورد في هذا الأصحاح في اللحظات"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحاسمة لسقوط بابل ونصرة فارس حتى يصغي كورش لدانيال وشعبه، ويستمع إلى نبوات"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إرميا النبي عن عودتهم بعد سبعين عامًا من السبي، فأصدر أمره بذلك (عز 1: 1-4)."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحي دانيال 5"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأتمتع بوليمة حبك،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا اشتهي ولائم العالم!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسارة دنّس بيلشاصر الأواني المقدسة،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفي جهالة أُدنس جسدي، إناءك الثمين!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأتمتع بوليمة حبك يا مخلصي،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أشتهي بعد ولائم العالم!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امتدت"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدك لتُعلن حكمك على بيلشاصر المتجاسر،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكتب روحك الناري في قلبي كلمات حبك."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أستشير حكيمًا من العالم،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل أطلب دانيال نبيك،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأسمع صوتك الإلهي في داخلي!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احتقر"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دانيال كل عطايا الملك،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يشتهِ غنى ولا سلطانًا،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأعطيته نعمة في عيني كورش،"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليسند شعبك في سبيهم."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متى اَحتقر كل الزمنيات؟!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متى أقتنيك يا كنز نفسي ومجدها الداخلي؟!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ها أنا بين يديك استخدمني كيفما تريد!"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Commentary on the O.T., p. 1780."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Encyclopedia of Bible Difficulties, p.286."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "of the Bible; Bethany Parallel Commentary on O.T., p. 1780."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قاموس"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكتاب المقدس، ص 208."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "p.38-40."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "of Genesis, Book 12, ch. 11."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Daniel, PL 25:651D."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القس عبد المسيح بسيط"
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أو الخير، ص63،64."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحياة: موسوعة الكتاب المقدس، ص147."
+    },
+    {
+      "section_title": "داريوس المادي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "دانيال",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 5 من سفر دانيال)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/p4v727a"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/p4v727a"
     }
   ]
 }

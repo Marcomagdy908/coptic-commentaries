@@ -1,17 +1,4250 @@
 {
-  "book_id": 15,
+  "book_id": "kings2",
   "book_title": "تفسير سفر الملوك الثاني",
   "chapter_number": 16,
   "chapter_title": "الأصحاح 16",
   "topic": "الأصحاح 16",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "آحاز الملك",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "آحاز",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "محاربة ملكي",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "التجاؤه إلى",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "آحاز يلتقي",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "إعجاب آحاز",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "موت آحاز",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "تدمير دمشق",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "إعجاب آحاز بالمذبح الوثني",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "رواق السبت",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "خارج",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "أ. أمر أوريَّا",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "ب. قام بتحريك",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "ج. قام بتقديم",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "د. قطع أتراس",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "و. أزال مدخل",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "Fulgentius of Ruspe (c. 467-532)",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "الملوك ثاني",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 22,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 688,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "آحاز ملك يهوذا الفاشل!"
+      "text": "اَلأَصْحَاحُ السَّادِسُ عَشَرَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاش يوثام ملك"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوذا باستقامة أمام الرب (2 مل 15: 32-34)، غير أنه لم ينزع المرتفعات، وترك الشعب يذبحون"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويوقدون على المرتفعات، وإذ استلم ابنه آحاز المُلك صار مثلاً رديئًا للفشل في كل"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جوانب حياته!"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فشله في سلوكه [1-4]، فقد حمل الشر كسمةٍ رئيسيةٍ في ملامح شخصيته."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فشله في السياسة [5-9]، كما يظهر من دخوله في حرب مع رصين وفقح، ملكي أرام"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإسرائيل."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فشله في عبادته [12-18]، حيث مارس الارتداد إلى أبعد الحدود."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان النجاح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو عطية إلهية تُقدَّم للمؤمن في كل جوانب حياته، فالفشل هو ثمرة اعتزال الإنسان عن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله مصدر النجاح الحقيقي."
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعبادة الوثنية"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرام وإسرائيل له"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تغلث فلاسر"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتغلث فلاسر"
+    },
+    {
+      "section_title": "6. إعجاب آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالمذبح الوثني"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستلام حزقيا العرش"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 16: قلبًا نقيًا اخلقه فيّ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا الله!"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 فِي السَّنَةِ السَّابِعَةَ عَشْرَةَ لِفَقْحَ بْنِ رَمَلْيَا، مَلَكَ آحَازُ بْنُ يُوثَامَ مَلِكِ يَهُوذَا. 2 كَانَ آحَازُ ابْنَ عِشْرِينَ سَنَةً حِينَ مَلَكَ، وَمَلَكَ سِتَّ عَشَرَةَ سَنَةً فِي أُورُشَلِيمَ. وَلَمْ يَعْمَلِ الْمُسْتَقِيمَ فِي عَيْنَيِ الرَّبِّ إِلهِهِ كَدَاوُدَ أَبِيهِ،"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّنَةِ السَّابِعَةَ عَشْرَةَ لِفَقْحَ بْنِ رَمَلْيَا،"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلَكَ"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحَازُ بْنُ يُوثَامَ مَلِكِ يَهُوذَا. [1]"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أحاز\" معناها"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"الله يُمسِك\"."
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان كل من"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والد أحاز يوثام وجده عزاريا قد سلكا باستقامة في عينيّ الرب، غير أنهما لم يكونا"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل داود أبيهما، فقد انحرفا بعد ذلك وسلكا في الشر. أما آحاز فمع كونه من نسل"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود، إلا أنه لم يُطِعْ كلمة الله ولا اتكل عليه، بل سلك طريق ملوك إسرائيل في"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انحرافهم نحو العبادة الوثنية. عوض أن يقتدي بأبيه داود، فيكون موضع سرور الله،"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اقتدى بملوك إسرائيل الأشرار، ففشل مثلهم. إلا أننا لا نستطيع أن نتجاهل أن جده"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ووالده غرسا فيه بذور الارتداد بعدم إزالة المرتفعات، فأثمرت في شخصية آحاز وسلوكه"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علانية."
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَانَ آحَازُ"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابْنَ عِشْرِينَ سَنَةً حِينَ مَلَكَ،"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سِتَّ عَشَرَةَ سَنَةً فِي أُورُشَلِيمَ."
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَعْمَلِ الْمُسْتَقِيمَ فِي عَيْنَيِ الرَّبِّ إِلَهِهِ كَدَاوُدَ أَبِيهِ. [2]"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قد يعترض البعض"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأنه"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذُكِرَ هنا أن آحاز كان ابن عشرين سنة حين ملك، وملك ستة عشر سنة في أورشليم. وقد"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورد في (2 مل 18: 1-2) أن حزقيا بن آحاز كان ابن 25 سنة حين مَلكَ. وبقليل من"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المقارنة الحسابية نلاحظ أن آحاز تزوج وهو في العاشرة من عمره، وأنجب حزقيا وهو في"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحادي عشر، وهذا لا يتفق مع الناموس الطبيعي، وينافي المنطق السليم."
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُرَد على ذلك[1]"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه بالرجوع إلى تاريخ حياة آحاز، نجده قد أفسد نظم العبادة الهيكلية، وأحل محلها"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبادات الوثنية. وملك حزقيا ابنه ليجد نفسه أمام عبء ثقيل من الإصلاحات الدينية،"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استغرق منه عدة سنين، حتى تمكَّن من إعادة تنظيم العبادة الهيكلية من جديد، قبل أن"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُمسَح ملكًا بموجب المراسيم والطقوس الموسوية (2 أي 28-31). إذ من المعروف أن مسح"
+    },
+    {
+      "section_title": "1. آحاز الملك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملوك في العهد القديم كان يتطلب وجود العبادة الهيكلية، واستقرار نظمها وطقوسها"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تنظيم العبادة في الهيكل، التي استغرقت مدة زمنية ليست بقليلة. لهذا المقصود من"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النص الوارد في (2 مل 18: 2) في قوله عن حزقيا أنه \"كان ابن خمسة وعشرين سنة حين"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلَك\"، أي حين مُسح ملكًا بموجب شريعة موسى، بعد تنظيم العبادة الهيكلية من جديد. أي"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يتجاوز العشرين من عمره أثناء وفاة أبيه، وهذا يعني أن أباه أنجبه وهو في"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السادسة عشر من عمره أو يزيد، تبعًا للمدة غير المعروفة التي تم فيها تنظيم العبادة"
+    },
+    {
+      "section_title": "أولاً. لهذا من المُرجَّح أن حزقيا لم يُمسَحْ ملكًا بيد الكهنة إلا بعد إعادة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكلية على يدي حزقيا."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والعبادة الوثنية"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "3 بَلْ سَارَ فِي طَرِيقِ مُلُوكِ إِسْرَائِيلَ، حَتَّى إِنَّهُ عَبَّرَ ابْنَهُ فِي النَّارِ حَسَبَ أَرْجَاسِ الأُمَمِ الَّذِينَ طَرَدَهُمُ الرَّبُّ مِنْ أَمَامِ بَنِي إِسْرَائِيلَ. 4 وَذَبَحَ وَأَوْقَدَ عَلَى الْمُرْتَفَعَاتِ وَعَلَى التِّلاَلِ وَتَحْتَ كُلِّ شَجَرَةٍ خَضْرَاءَ."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَلْ سَارَ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي طَرِيقِ مُلُوكِ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَتَّى"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِنَّهُ عَبَّرَ ابْنَهُ فِي النَّارِ حَسَبَ أَرْجَاسِ الأُمَمِ،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طَرَدَهُمُ الرَّبُّ مِنْ أَمَامِ بَنِي إِسْرَائِيلَ. [3]"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد سلسلة من"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملوك في يهوذا الذين سلكوا بالبرّ نسبيًا، جاء آحاز يسلك بالشر مثل ملوك إسرائيل."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربما كان لملوك إسرائيل أن يدَّعوا بأن عبادتهم للعجلين في دان وبيت إيل كان أمرًا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضروريًا بدافع الحفاظ على مملكة إسرائيل، حتى لا يميل قلب الشعب إلى العودة إلى"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل في أورشليم عاصمة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا، والخضوع لملكها الذي من نسل داود. أما آحاز"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك يهوذا فلم يكن له ما يُبَرِّر به موقفه من الاقتداء بملوك إسرائيل، وعدم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مبالاته بعبادة الله الحيّ والالتزام بوصاياه والاهتمام بالهيكل."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان آحاز"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُرتدًا، قاد بنفسه الشعب في تبنِّي العبادات الكنعانية الوثنية (2 أي 28: 1-4)."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم لنا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سفر أخبار الأيام الثاني تقارير عن إجازة الإنسان ابنه في النار التي ارتبطت بعبادة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البعل والتي كانوا يمارسونها في وادي ابن هنوم (2 مل 23: 10؛ 2 أي 28: 2-3)."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أيام يوآش"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك ويهوياداع الكاهن هدم الشعب مذابح البعل وكسروا تماثيله (2 مل 11: 18). لكن"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ ملك آحاز عاد إلى ما عملته عثليا الشريرة ابنة أخآب وإيزابل. كما قدَّم ابنه"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُحرَقة للأوثان، إرضاءً للآلهة بتقديم أفضل ما عنده (مي 6: 7)، وهذا ما يُدعى"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالإجازة في النار، وهي من أبشع الممارسات الوثنية التي كثيرًا ما حذَّر الله شعبه"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منها."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لمولك صنم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من النحاس جالس على عرش، وكانوا يشعلون في التجويف نارًا، ويضعون على ذراعي الصنم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطفالهم ليحترقوا ويموتوا، أو يُسلِّمونهم لكاهن الوثن، فيلقيهم على الذراعين"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُحمرتين بالنار وسط ضربات الطبول حتى لا يسمع أحد صرخات الأطفال وهم يحترقون."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقف إرميا عند"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باب الفخار حيث تُلقَى القمامة ليوجه الحديث إلى ملوك يهوذا مع سكان أورشليم، لأنه"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن ملوك يهوذا يدخلون من هذا الباب. لكن اشتراكهم في سَفْك دم الأبرياء (2 مل 21: 16؛ 24: 4)، وتقديم أطفالهم ذبائح بشرية للأوثان (2 مل 16: 3؛ 21: 6)، جعلهم يُحصون"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع الشعب الداخل في باب القاذورات ليسمعوا معهم كلمة توبيخ قاسية، وصدور حُكْم إلهي"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عليهم جميعًا بغير محاباة!"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا ما أصعب"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على نفس ملك يهوذا أن يأتيه الخبر بأن إرميا يوجه إليه رسالة عنيفة عند باب"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القاذورات وإلقاء القمامة. لكن هكذا نزل الملك بنفسه إلى هذا المستوى باشتراكه في"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجاسات الوثنية وعنفها!"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد جاءت"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوصية الإلهية واضحة: \"لا تعمل هكذا للرب إلهك، لأنهم قد عملوا لآلهتهم كل رجسٍ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدى الرب مما يكرهه، إذ أحرقوا حتى بنيهم وبناتهم بالنار لآلهتهم\" (تث 12: 31)."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء في (2 أي 28: 3) عن آحاز أنه أوقد في وادي ابن هنّوم وأحرق بنيه بالنار حسب رجاسات الأمم،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كما قام منسّى وهو من أشر ملوك إسرائيل بنفس العمل (2 أي 33: 1، 6). هذا كان يتم في"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "توفة أو تفتة بوادي هنّوم. وهي تقع في وادي الربابة على السفح الشرقي"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لجبل صهيون (نح 11: 30). ربما هذا الاسم مُشتَق من كلمة معناها \"تنُّور أو فرن\"، أو"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من كلمة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرامية معناها \"مكان الحريق\". كانت هذه المنطقة في الأصل بستانًا مقدسًا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للكنعانيين، ثم صارت مركزًا لعبادة البعل حيث كان اليهود المنحرفون يجيزون بنيهم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبناتهم في النار لمولك (إر 32: 35)."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقام يوشيا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك الصالح بتنجيس توفة \"لكي لا يُعبِّر أحد ابنه أو ابنته في النار لمولك (2 مل 23: 10). وقد صارت توفة رمزًا للخراب والتأديب على هذه الخطايا والرجاسات، إذ يقول"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي: \"لذلك ها هي أيام تأتي يقول الرب ولا يُسمَّى بعد توفة ولا وادي ابن هنوم،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل وادي القتل، ويدفنون في توفة حتى لا يكون موضع. وتصير جثث هذا الشعب أُكلاً"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لطيور السماء ولوحوش الأرض ولا مُزعج\" (إر 7: 32-33). وقد امتلأ الوادي عبر التاريخ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالقمامة التي كانت تُلقَى من فوق أسوار المدينة حتى ضاعت الآن معالمها."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للعجب!"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدَّم ابنه ذبيحة للأصنام العاجزة عن حمايتها لنفسها، ظانًّا أنه بهذا يضمن أمانه"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونصرته، ولم يُقدِّم قلبه لله القدير ضابط الكل! يفقد الإنسان في فساده التعقُّل"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والاتزان وحتى الحكمة البشرية الطبيعية! في عصيانه لله يتعدَّى حدود الممارسة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنية في إسرائيل. إذ ينحطّ إلى مستوى شائن بتقديم ابنه مُحرَقة كطقس الإله مولك."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه لأمر محزن"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن أولاد الله الذين جعلهم الله ملوكًا وكهنة (رؤ 1: 6)، ليرتفعوا بروح أبيهم إلى"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حيث هو جالس، أن ينحدروا بأنفسهم ليسقطوا تحت الحُكْمِ مع أولاد إبليس الأشرار"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "باشتراكهم معهم في سلوكهم الشرير، وينحطوا أحيانًا إلى مستوى أدنى من الحيوانات!"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أية مأساة هذه؟!... لقد قدَّموا أبناءهم وبناتهم ذبائح للشيطان! رفضوا أن يتعرَّفوا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على الطبيعة، لقد نسوا آلام الولادة، ووطأوا بأقدامهم تربية أطفالهم، لقد سقطوا من"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أساسات شرائع القرابة، وصاروا أكثر وحشية من أي حيوان مفترس[2]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ خلق الله آدم، لم يزوده بأجنحة جسدية مثل الطيور، لكن قصد في"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصل أن تكون له أجنحة الروح القدس، تلك الأجنحة التي قصد أن يعطيها له في القيامة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لترفعه وتختطفه إلى حيث يشاء الروح. هذه الأجنحة التي تنال النفوس المُقدَّسة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "امتياز الحصول عليها منذ الآن، وتطير في عقولها إلى المجال السماوي. فالمسيحيون لهم"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عالم مختلف خاص بهم، ومائدة أخرى، وثوب آخر، ونوع آخر من التمتُّع والتنعم، وشركة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى، وطريقة أخرى للتفكير والعقل... إن لهم الامتياز أن ينالوا قوة هذه الأمور في"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داخل نفوسهم منذ الآن بواسطة الروح القدس. لذلك فإن أجسادهم تُحسَب أهلاً في"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القيامة للاشتراك في خيرات الروح الأبدية هذه، وسوف تختلط بذلك المجد الذي قد عرفته"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفوسهم بالاختبار في هذه الحياة[3]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مقاريوس الكبير",
+      "text": "القديس مقاريوس الكبير"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَذَبَحَ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَوْقَدَ عَلَى الْمُرْتَفَعَاتِ،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلَى"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التِّلاَلِ وَتَحْتَ كُلِّ شَجَرَةٍ خَضْرَاءَ. [4]"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مارس آحاز"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجاسات الوثنيين، الأمر الذي شدَّد الرب على الامتناع منه. لقد أهمل والده إزالة"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه المرتفعات، فكانت عثرة خطيرة لابنه الذي ليس فقط تجاهل وجودها، إنما اندفع"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وانغمس في العبادة الوثنية على هذه المرتفعات."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار آحاز"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثالاً شريرًا لشعبه في الذبح على المرتفعات للآلهة الوثنية. كما كان يُقدِّم ذبائح"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت الأشجار الكبيرة القديمة المنفردة، بزعم أنها مسكن الآلهة، ولا يجسر أحد أن"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقطعها أو يحتطب منها."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يثقون في الأصنام أغبياء. الأصنام هي من صُنعهم، أشياء يصنعونها بأياديهم،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكنهم يعودون ويقولون: \"هذه الأصنام هي خالقنا\". كيف يمكن لهؤلاء الناس أن يقولوا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن أشياء صنعوها أنها خِلقتهم؟ بجانب هذا هم يحرسون أصنامهم، حتى لا يسلبها لصوص..."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للغباوة! إن كانت الأصنام تعجز عن أن تحرس نفسها وتحميها، فكيف تحرس آخرين"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتخلصهم؟[4]"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا الدمشقي",
+      "text": "يوحنا الدمشقي"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الوصية الأولى من الوصايا العشر، كما أن عبادة الرب الإله الواحد قد أُمر بها"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكل وضوح، هكذا جاء المنع في غاية الشدة بخصوص العبادة والخدمة التي يُقدِّمها"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤمنون لأي مخلوق، إذ يُقال: \"أنا الرب إلهك الذي أخرجك من أرض مصر من بيت"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العبودية، لا يكن لك آلهة أخرى أمامي\" (خر 20: 2-3)[5]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب فولجنتيوس"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسقف Ruspe"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألا ترون أن هذا (تث 13: 9) لم يُقل بخصوص النادمين، بل عن الذين ليس فقط متمسكين"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالشر، وإنما لا يكفّون عن وضع عقبات لنا في طريقنا؟ هؤلاء الذين مهما كانوا أعزاء"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "علينا يلزم هجرهم. ومهما يبدو أنهم نافعون لنا يلزم التخلِّي عنهم[6]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيشان أسقف"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بارسيلونا"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُطلب من المسيحيين واليهود تجنُّب المعابد (الوثنية) والمذابح والصور (الأصنام)"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذلك حسب الوصية: [خف الرب إلهك، وإيّاه وحده تخدم...] (تث 6: 13) ليس فقط يتجنّبونها بل"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومستعدون عند الضرورة أن يبلغوا حتى الموت لتجنُّب تدنيس مفهومهم لإله المسكونة بأي"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تصرف من هذا النوع مخالف لناموسه[7]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما يحاول أُناس أن يغوونا نحو الارتداد، من المفيد أن نتأمل فيما يرغب الله أن يُعلِّمنا بقوله: \"أَنَا الرَّبُّ إِلهُكَ إِلهٌ غَيُورٌ\". في رأيي أن العريس الذي يرغب في عروسه"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تحيا بالطهارة، فتُقدِّم نفسها له بالكامل، وأن تحذر من أية علاقة مع أي إنسانٍ"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير زوجها، يبدو أنه بحكمة يكون غيورًا. يستخدم هذا المظهر كنوعٍ من الترياق"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعروسه. هكذا مُقدِّم الشريعة، خاصة عندما يُعلن عن نفسه كبكر كل خليقة (كو 1: 15)،"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول لعروسه – أي النفس – إنه إله غيور. بهذه الطريقة يحفظ تابعيه من أي زنا مع"
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشياطين والآلهة الباطلة[8]."
+    },
+    {
+      "section_title": "2. آحاز",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرام وإسرائيل له"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "5 حِينَئِذٍ صَعِدَ رَصِينُ مَلِكُ أَرَامَ وَفَقْحُ بْنُ رَمَلْيَا مَلِكُ إِسْرَائِيلَ إِلَى أُورُشَلِيمَ لِلْمُحَارَبَةِ، فَحَاصَرُوا آحَازَ وَلَمْ يَقْدِرُوا أَنْ يَغْلِبُوهُ. 6 فِي ذلِكَ الْوَقْتِ أَرْجَعَ رَصِينُ مَلِكُ أَرَامَ أَيْلَةَ لِلأَرَامِيِّينَ، وَطَرَدَ الْيَهُودَ مِنْ أَيْلَةَ. وَجَاءَ الأَرَامِيُّونَ إِلَى أَيْلَةَ وَأَقَامُوا هُنَاكَ إِلَى هذَا الْيَوْمِ."
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حِينَئِذٍ"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَعِدَ رَصِينُ مَلِكُ أرام وَفَقْحُ بْنُ رَمَلْيَا مَلِكُ إِسْرَائِيلَ إِلَى"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُورُشَلِيمَ لِلْمُحَارَبَةِ،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَحَاصَرُوا"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحَازَ،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمْ"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَقْدِرُوا أَنْ يَغْلِبُوهُ. [5]"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد أراد رصين"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وفقح، ملكا أرام وإسرائيل (2 مل 15: 37). أن يكونا سيديْن لأورشليم، ويقيما لها مَلِكًا"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من عندهما (إش 7: 6)، ومع ما بذلاه من مجهودٍ ضخمٍ واستعداداتٍ عسكرية إلا إنهما"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فشلا في الاستيلاء على أورشليم، وإقامة ملك عوض آحاز. فبالرغم من انحراف آحاز"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للعبادة الوثنية واقتدائه بملوك إسرائيل، إلاّ أن الله من أجل وعوده الصادقة لبيت"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود أرسل إليه إشعياء النبي لكي يُعلن له أنه سيهبه النصرة على رصين وفقح. جاء في"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء النبي (إش 7: 3 إلخ.) فقال الرب لإشعياء أخرج لملاقاة آحاز أنت وشآر ياشوب ابنك إلى طرف قناة البركة العليا... وَقُلْ لَهُ: اِحْتَرِزْ وَاهْدَأْ. لاَ تَخَفْ وَلاَ يَضْعُفْ قَلْبُكَ مِنْ أَجْلِ ذَنَبَيْ هَاتَيْنِ الشُّعْلَتَيْنِ الْمُدَخِّنَتَيْنِ، بِحُمُوِّ غَضَبِ رَصِينَ وَأَرَامَ..."
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فِي ذَلِكَ"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْوَقْتِ أَرْجَعَ رَصِينُ مَلِكُ أرام أَيْلَةَ لِلأراميِّينَ،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَطَرَدَ"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْيَهُودَ مِنْ أَيْلَةَ."
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَاءَ"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأراميُّونَ إِلَى أَيْلَةَ،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَقَامُوا"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُنَاكَ إِلَى هَذَا الْيَوْمِ. [6]"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاصر رصين"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أورشليم وانسحب، وكل ما ناله هو أنه استرد أيلة لأرام. سمح الله لآحاز بالنصرة،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لعله يرجع إلى الله، ويلتصق به، تاركًا"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة الأوثان، وسمح باسترداد الأراميين"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأيلة كتأديب لآحاز على تركه عبادة الله الحيّ."
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبق أن استولى"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عزيا ملك يهوذا، جد آحاز، على أيلة (2 مل 14: 21-22). وهي الآن ميناء رئيسي (1 مل 9: 26)،"
+    },
+    {
+      "section_title": "3. محاربة ملكي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُخذ من يهوذا، وأقام فيه الأراميون إلى يوم كتابة هذا السفر."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تغلث فلاسر"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 وَأَرْسَلَ آحَازُ رُسُلًا إِلَى تَغْلَثَ فَلاَسِرَ مَلِكِ أَشُّورَ قَائِلًا: «أَنَا عَبْدُكَ وَابْنُكَ. اصْعَدْ وَخَلِّصْنِي مِنْ يَدِ مَلِكِ أَرَامَ وَمِنْ يَدِ مَلِكِ إِسْرَائِيلَ الْقَائِمَيْنِ عَلَيَّ». 8 فَأَخَذَ آحَازُ الْفِضَّةَ وَالذَّهَبَ الْمَوْجُودَةَ فِي بَيْتِ الرَّبِّ وَفِي خَزَائِنِ بَيْتِ الْمَلِكِ وَأَرْسَلَهَا إِلَى مَلِكِ أَشُّورَ هَدِيَّةً. 9 فَسَمِعَ لَهُ مَلِكُ أَشُّورَ، وَصَعِدَ مَلِكُ أَشُّورَ إِلَى دِمَشْقَ وَأَخَذَهَا وَسَبَاهَا إِلَى قِيرَ، وَقَتَلَ رَصِينَ."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحَازُ رُسُلاً إِلَى تَغْلَثَ فَلاَسِرَ مَلِكِ أَشُّورَ قَائِلاً:"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَنَا"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَبْدُكَ وَابْنُكَ."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اصْعَدْ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَلِّصْنِي مِنْ يَدِ مَلِكِ أرام،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ يَدِ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلِكِ إِسْرَائِيلَ الْقَائِمَيْنِ عَلَيَّ. [7]"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يليق بآحاز"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يرجع إلى الله، ويُقدِّم له ذبيحة شكر، لأنه أرسل له إشعياء النبي يطمئنه، ووهبه"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالفعل نُصرَة على ملكيْ أرام وإسرائيل، لكن في جحودٍ وعدم إيمانٍ تمرَّد على الله،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتجأ إلى أشور ليسنده ويحميه. التجأ لا بروح الصداقة والتعاون، إنما بمذلة،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قائلاً: \"أنا عبدك وابنك. اصعد وخلِّصني\"."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للعجب"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما يُفضِّل الإنسان الالتجاء إلى بني البشر بمذلة عوض الالتجاء إلى الله"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بروح البنوة والعزة! يقبل العبودية للأرضيين عوض الحرية التي يهبها له السماوي."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطأ آحاز لأنه"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جعل اتكاله على تحالفات بشرية، وليس على"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرجوع إلى الله. فإنه إن تحالفت"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة يهوذا مع أرام وإسرائيل تتعرَّض لغضب أشور، وإذا اتحدت مع أشور تبتلعها وتستعبدها،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويكون هذا الاتحاد مثل صداقة الحمل والذئب. لهذا إذ استغاث آحاز بتغلث فلاسر صار له"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبدًا، عوض الالتجاء لله السماوي."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلب المسيحي وعقله وطريقة تفكيره دائمًا في المجال السماوي."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فالمسيحيون الحقيقيون ينظرون الخيرات الأبدية كما في مرآة، وذلك بسبب اقتنائهم"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروح القدس وشركته، لكونهم مولودين من الله من فوق، ولأنهم نالوا الامتياز أن"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصيروا أولاد الله بالحق وبالفعل، إذ يَصِلُون بعد حروب وأتعاب لفترة طويلة إلى"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حالة ثابتة مستقرة من الحرية والتحرُّر من الاضطراب، حالة الراحة، فلا يعودون"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُغربلون ويموجون بالأفكار القلقة الباطلة."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلامة"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المميزة"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للمسيحيين ليست هي في الأساليب والأشكال الخارجية، فكثيرون يظنون أن الذي يُميٍّزهم"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن العالم هو في الشكل أو الأساليب الظاهرة. ويا للأسف فإنهم في عقولهم وتفكيرهم هم"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مثل العالم، إذ يضطربون بقلق الأفكار غير الثابتة مثل أهل العالم، في عدم الإيمان"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والحيرة والاختلاط والخوف مثل كل الناس الآخرين."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يختلفون عن العالم في الشكل الخارجي والمظهر، ويختلفون عنه أيضًا في القليل من"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الممارسات الدينية، لكنهم في القلب والعقل مقيدون بالرباطات الأرضية، إذ لم يحصلوا"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبدًا على الراحة في الله وسلام الروح السماوي في قلبهم، لأنهم لم يطلبوها من الله، ولم يؤمنوا أنه سيمنح لهم هذه"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشياء[9]."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس مقاريوس الكبير",
+      "text": "القديس مقاريوس الكبير"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَأَخَذَ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحَازُ الْفِضَّةَ وَالذَّهَبَ الْمَوْجُودَةَ فِي بَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خَزَائِنِ بَيْتِ الْمَلِكِ،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَهَا إِلَى مَلِكِ أَشُّورَ هَدِيَّةً. [8]"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدًّم الله"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لآحاز تأكيدات لتطمئن نفسه، وفي حبٍ عظيمٍ ورعايةٍ فائقةٍ، قال له: \"اطلب لنفسك آية"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الرب إلهك. عمِّق طلبك أو رفِّعه إلى فوق\"، وإذ أجابه: \"لا أطلب، ولا أجرِّب"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب\" (إش 7: 12)، قدَّم له ولشعبه آية فريدة، ونبوّة فائقة: \"ولكن يعطيكم السيد"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه آية. ها العذراء تحبل وتلد ابنًا، وتدعو اسمه عمّانوئيل\" (إش 7: 14). كما"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطاه آية أخرى كعلامة على رعاية الله له: \"لأنه قبل أن يعرف الصبي أن يدعو يا أبي"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويا أمي، تُحمَل ثروة دمشق وغنيمة السامرة قدام ملك أشور\" (إش 8: 4). لقد أكد له أن"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملكين لن ينتصرا عليه، بل بالرب يغلبهما، وينعم بثروتيهما وغنائمهما. مع هذا كله"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لجأ إلى معونة ملك أشور، ودفع ثمن ذلك فضة وذهب بيت الرب وخزائن بيت الملك، أي ما"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ورثه عن أجداده."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا يظهر فشل"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحاز سياسيًا وعسكريًا، ففي عدم إيمانه بالله سلب هيكل الرب ليشتري من أشور حمايته"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأمانه، فسلَّم المقدسات والكنوز لأعدائه وهو لا يدري."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للعجب!"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتوسل الإنسان الشرير إلى أذرع البشرية كي تسنده، بتكلفة هذا قدرها، ويرفض حماية"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله المجّانية والتي تفيض معها الخيرات والبركات الزمنية والأبوية!"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرّ فشل آحاز"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو عدم إيمانه، إذ قال له إشعياء النبي وهو يُبلّغه رسالة الله بالنصرة على"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملكين: \"إن لم تؤمِنوا فلا تأمَنوا\" (إش 7: 9). فإن كان آحاز مع بلوغ هذه"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرسالة الإلهية إليه بكل وضوح شعر بعدم الأمان، ولجأ إلى ملك أشور، فسِّر ذلك عدم"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيمانه."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان آحاز رمزًا"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لليهود الذين بسبب جحودهم رفضوا قبول الخلاص الإلهي، رفضوا الآية التي قدَّمها الرب"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلههم نفسه، وحسبوا عمانوئيل رئيس الشياطين!"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد أُصيبوا"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالجهل وعدم الفهم بالرغم من ظهور الحق الإلهي بكل قوة. ما قبله المجوس الوثنيون"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بكرازة كوكبٍ منيرٍ، رفضه أبناء إبراهيم بكرازة الأنبياء عبر الأجيال."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إننا في حاجة"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الإيمان، فنستنير ونتمتع بالفهم لوعود الله وأعماله وقبول نبوات الأنبياء."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان الحقيقي والفهم الصادق أخوان متلازمان."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه لأمر حيوي أن نُدرِكَ بأن العبارة [إن لم تؤمِنوا فلا تأمَنوا] تعني الذين"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقرأونها لا يحتاجون فقط إلى الفهم، بل وأيضًا إلى الإيمان، ولا يحتاجون إلى"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإيمان فقط، بل وإلى الفهم. هؤلاء الذين في الختان الذين لا يؤمنون بمسيح الله،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فإنهم حتى الآن يسمعون هذه الكلمات، ولا يفهمون موضوع هذه النبوة، لأنهم لا يسمعون"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالذهن. سرّ عدم فهمهم هو عدم الإيمان، فإن النبوة تعلن بوضوح عنهم ولهم[10]."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسابيوس أسقف"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قيصرية"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يلزم العقل المسيحي أن ينتعش بالإيمان البسيط، حتى يمكنه أن يفهم الأمور السماوية"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدية. هذا ما قاله النبي: \"إن لم تؤمنوا فلا تأمنوا\" (إش 7: 9). الإيمان البسيط"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو ذاك الذي قبل أن نبلغ إلى أعالي معرفة محبة المسيح، فنمتلئ بكل كمال الله؛ نؤمن"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن تدبير تواضع المسيح لم يكن باطلاً، الذي به وُلد وتألم كإنسانٍ. هذا قد سبق"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأُخبر به بواسطة الأنبياء خلال الجنس النبوي، الشعب النبوي والمملكة النبوية[11]."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كنتَ غير قادر على الفهم، آمن أنك تفهم. الإيمان يتقدم، والفهم يأتي وراءه، إذ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول النبي: \"إن لم تؤمِنوا، فلا تأمَنوا\" (إش 7: 9)[12]."
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَمِعَ لَهُ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلِكُ أَشُّورَ،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَصَعِدَ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَلِكُ أَشُّورَ إِلَى دِمَشْقَ،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذَهَا"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَبَاهَا إِلَى قِيرَ،"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَتَلَ"
+    },
+    {
+      "section_title": "4. التجاؤه إلى",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَصِينَ. [9]"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سمع ملك"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور ما قد قيل عنه: \"جاء عليه تغلث فلاسر ملك أشور، وضايقه ولم يُشَدِّده، لأن"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحاز أخذ قسمًا من بيت الرب ومن بيت الملك ومن الرؤساء وأعطاه لملك أشور، ولكنه لم"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يساعده\" (2 أي 28: 20-21). لذلك بعث ملك أشور حملة (734-732 ق. م)، سقطت أمامها دمشق في"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عام 732 ق. م، وقتل ملكها رصين، وأقام هوشع ملكًا عوض فقح على عرش إسرائيل في ذات"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العام. كما وضع تغلث فلاسر جزية على كلٍ من هوشع وآحاز."
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُعتبَر"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق من أعرق المدن، ورَد ذكرها في أيام إبراهيم (تك 14: 15)؛ غزاها داود الملك"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأقام فيها حامية (2 صم 8: 5-6؛ 1 أي 18: 5-6). قام"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رزون وتمكَّن من تأسيس المملكة"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السورية ودامت الحرب بينها وبين إسرائيل زمانًا طويلاً، لكنهما تحالفا معًا فيما"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد ضد يهوذا وأشور. وقد تعرضت للهزيمة عدة مرات، ففي سنة 843 ق.م. هاجم شلمنأسَّر"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق وهزم ملكها حزائيل، كما هاجمها تغلث فلاسر سنة 732 ق.م.، وقتل ملكها رصين وقاد"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعبها إلى السبي (2 مل 16: 5-9؛ إش 7: 1-8؛ عا 1: 3-5). انتقلت بعد ذلك من"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشوريين إلى الكلدانيين، ثم إلى الفرس، فاليونانيين المقدونيين، فالرومان على يدي"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميتللوس عام 64 ق.م. لتصير"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سوريا مقاطعة رومانية عام 63 ق.م."
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان ملك"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشور قد أخذ موقفًا من دمشق التي تحالفت مع إسرائيل ضد آحاز، لكنه لم يسند آحاز ضد"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين، ولا قدَّم له عونًا ضد إسرائيل. هكذا أعانه قليلاً، لكنه سلب الكثير"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وضغط عليه."
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو في هذه"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفترة أن فقح ملك إسرائيل دمَّر يهوذا، إذ جاء في (2 أي 28: 6، 8) أنه قتل مئة"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعشرين ألفًا من بني البأس في يومٍ واحدٍ، وسبى من إخوتهم مائتيّ ألف من النساء"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والبنين والبنات، ونهبوا أيضًا منهم غنيمة وافرة إلى السامرة. وعند دخول الجيش ومعه"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسبيّون خرج للقائهم نبي للرب اسمه عوديد، وقال لهم: \"هُوَذَا مِنْ أَجْلِ غَضَبِ الرَّبِّ إِلهِ آبَائِكُمْ عَلَى يَهُوذَا قَدْ دَفَعَهُمْ لِيَدِكُمْ وَقَدْ قَتَلْتُمُوهُمْ بِغَضَبٍ بَلَغَ السَّمَاءَ. وَالآنَ أَنْتُمْ عَازِمُونَ عَلَى إِخْضَاعِ بَنِي يَهُوذَا وَأُورُشَلِيمَ عَبِيدًا وَإِمَاءً لَكُمْ. أَمَا عِنْدَكُمْ أَنْتُمْ آثَامٌ لِلرَّبِّ إِلهِكُمْ؟ وَالآنَ اسْمَعُوا لِي وَرُدُّوا السَّبْيَ الَّذِي سَبَيْتُمُوهُ مِنْ إِخْوَتِكُمْ لأَنَّ حُمُوَّ غَضَبِ الرَّبِّ عَلَيْكُمْ\" (2 أي 28: 9-11). وقام بعض رؤساء من بني أفرايم ورفضوا الدخول بالمسبيين إلى المدينة،"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقدَّموا ملابس للعراة منهم وأحذية وطعامًا وشرابًا ودهنًا وحملوا المعيين على حمير"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وذهبوا بهم إلى أريحا[13]."
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا قام الله"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتأديب يهوذا بسبب ارتدادهم عن الإيمان وفي نفس الوقت بعث من إسرائيل من يرفضون"
+    },
+    {
+      "section_title": "تدمير دمشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دخول المسبيين إلى المدينة، وتقديم العون للمسبيين. إنه يؤدب ويترفق!"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتغلث فلاسر"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَارَ"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكُ آحَازُ لِلِقَاءِ تَغْلَثَ فَلاَسِرَ مَلِكِ أَشُّورَ إِلَى دِمَشْقَ،"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرَأَى"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَذْبَحَ الَّذِي فِي دِمَشْقَ."
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَ"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكُ آحَازُ إِلَى أُورِيَّا الْكَاهِنِ شِبْهَ الْمَذْبَحِ،"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَكْلَهُ"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ كُلِّ صِنَاعَتِهِ. [10]"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ التجأ آحاز"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى ملك أشور لإنقاذه من أرام وإسرائيل، صار لزامًا عليه أن يخضع له، ويذهب"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعه الملوك"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخاضعون لأشور إلى دمشق"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عاصمة"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرام"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليهنئ"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك تغلث فلاسر بانتصاره،"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولتقديم"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فروض الولاء لملك أشور، ولدفع الجزية. خشى آحاز أن يزحف ملك أشور إلى الجنوب،"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فاتَّكل على المال (دفع جزية) لا على الله، بالتوبة والرجوع إليه، وقد سبَّب تغلث"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلاسر متاعب كثيرة ليهوذا حتى ندم آحاز على استنجاده به (2 أي 20:18-21)."
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هناك في"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق أُعجب آحاز بمذبح للوثن،"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينتظر أن يعود إلى أورشليم، إنما أرسل رسمًا تخطيطيًا له إلى أوريَّا الكاهن"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأورشليم لصنع مذبح مثله، وبهذا انحرف آحاز عن شريعة الرب، بل ودفع أوريا الكاهن"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأمين إلى ذلك الخطأ. كما ذبح لآلهة دمشق (2 أي 28: 23). هذا ثمن طبيعي للاتكال"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على ذراع البشر، لا على ذراع الله."
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد كان"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوريَّا الكاهن أحد شاهديْن أخذهما إشعياء النبي ليتنبّأ بأن ثروة دمشق وغنيمة"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل تُحمَل قدام ملك أشور (إش 8: 2). مع ذلك قام بالتنفيذ ليشبع رغبة الملك"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشرير المرتد عن الإيمان. إنها خيانة للرب الحيّ، خاصة وأنه أقامه بجوار المذبح"
+    },
+    {
+      "section_title": "5. آحاز يلتقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النحاسي، حيث قام الملك عند عودته بتقديم ذبائح عليه لآلهة دمشق، وليس للإله الحيّ."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "11 فَبَنَى أُورِيَّا الْكَاهِنُ مَذْبَحًا. حَسَبَ كُلِّ مَا أَرْسَلَ الْمَلِكُ آحَازُ مِنْ دِمَشْقَ كَذلِكَ عَمِلَ أُورِيَّا الْكَاهِنُ، رَيْثَمَا جَاءَ الْمَلِكُ آحَازُ مِنْ دِمَشْقَ. 12 فَلَمَّا قَدِمَ الْمَلِكُ مِنْ دِمَشْقَ رَأَى الْمَلِكُ الْمَذْبَحَ، فَتَقَدَّمَ الْمَلِكُ إِلَى الْمَذْبَحِ وَأَصْعَدَ عَلَيْهِ، 13 وَأَوْقَدَ مُحْرَقَتَهُ وَتَقْدِمَتَهُ وَسَكَبَ سَكِيبَهُ، وَرَشَّ دَمَ ذَبِيحَةِ السَّلاَمَةِ الَّتِي لَهُ عَلَى الْمَذْبَحِ. 14 وَمَذْبَحُ النُّحَاسِ الَّذِي أَمَامَ الرَّبِّ قَدَّمَهُ مِنْ أَمَامِ الْبَيْتِ مِنْ بَيْنِ الْمَذْبَحِ وَبَيْتِ الرَّبِّ، وَجَعَلَهُ عَلَى جَانِبِ الْمَذْبَحِ الشِّمَالِيِّ. 15 وَأَمَرَ الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ قَائِلًا: «عَلَى الْمَذْبَحِ الْعَظِيمِ أَوْقِدْ مُحْرَقَةَ الصَّبَاحِ وَتَقْدِمَةَ الْمَسَاءِ، وَمُحْرَقَةَ الْمَلِكِ وَتَقْدِمَتَهُ، مَعَ مُحْرَقَةِ كُلِّ شَعْبِ الأَرْضِ وَتَقْدِمَتِهِمْ وَسَكَائِبِهِمْ، وَرُشَّ عَلَيْهِ كُلَّ دَمِ مُحْرَقَةٍ وَكُلَّ دَمِ ذَبِيحَةٍ. وَمَذْبَحُ النُّحَاسِ يَكُونُ لِي لِلسُّؤَالِ». 16 فَعَمِلَ أُورِيَّا الْكَاهِنُ حَسَبَ كُلِّ مَا أَمَرَ بِهِ الْمَلِكُ آحَازُ. 17 وَقَطَعَ الْمَلِكُ آحَازُ أَتْرَاسَ الْقَوَاعِدِ وَرَفَعَ عَنْهَا الْمِرْحَضَةَ، وَأَنْزَلَ الْبَحْرَ عَنْ ثِيرَانِ النُّحَاسِ الَّتِي تَحْتَهُ وَجَعَلَهُ عَلَى رَصِيفٍ مِنْ حِجَارَةٍ. 18 وَرِوَاقَ السَّبْتِ الَّذِي بَنَوْهُ فِي الْبَيْتِ، وَمَدْخَلَ الْمَلِكِ مِنْ خَارِجٍ، غَيَّرَهُ فِي بَيْتِ الرَّبِّ مِنْ أَجْلِ مَلِكِ أَشُّورَ."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَبَنَى"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُورِيَّا الْكَاهِنُ مَذْبَحًا."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَسَبَ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلِّ مَا أَرْسَلَ الْمَلِكُ آحَازُ مِنْ دِمَشْقَ كَذَلِكَ عَمِلَ أُورِيَّا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْكَاهِنُ،"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَيْثَمَا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جَاءَ الْمَلِكُ آحَازُ مِنْ دِمَشْقَ. [11]"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَلَمَّا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَدِمَ الْمَلِكُ مِنْ دِمَشْقَ رَأَى الْمَلِكُ الْمَذْبَحَ،"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَتَقَدَّمَ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكُ إِلَى الْمَذْبَحِ وَأَصْعَدَ عَلَيْهِ، [12]"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ عاد آحاز من"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دمشق قدَّم على المذبح الوثني مُحرَقة وتقدمة وسكب سكيبة ورش دم ذبيحة السلام على"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذبح. خلط بين عبادة الله الحي والوثنية. وقام بتصرفات خاطئة ببيت الرب [14-18]؛ (2 أي 28: 2-4، 22-25) تحمل ارتدادًا، حتى أغلق باب الهيكل (2 أي 28: 24)."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأمر إلهي أخذ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء لوحًا كبيرًا كتب عليه بحروف واضحة \"مهير شلال حاش بز\" وتعني \"أسرع إلى"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السلب، بادر إلى النهب\". وضع إشعياء النبي اللوح في مكان ظاهر في الهيكل لكي يقرأه"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكل، وقد شهد كاهنان عليه هما: أوريا وزكريا، أوريا كان رئيس كهنة في أيام آحاز"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومشيره الروحي والمُشترِك معه في العبادة الوثنية."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما أقام"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موسى النبي خيمة الاجتماع، أقامها على المثال السماوي الذي أظهره له الرب، لكي يعيش"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشعب كما في السماء أثناء عبادتهم. أما آحاز، فأُعجب بالمذبح الوثني الجامد، لكي"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسكب روح البطلان على المتعبِّدين دون أن يدروا."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انجذب آحاز إلى"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إقامة مذبح جديد، ولم يدرك أن التجديد الحقيقي هو في القلب حيث يتمتع بخبرة الحياة"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماوية المتجددة على الدوام."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى يومنا هذا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريد البعض التجديد بقبول كل ما هو جديد دون تمييز ودراسة ورغبة في التمتُّع بالحق"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي. كما يخطئ البعض بالتمسُّك بالقديم لمجرد كونه قديمًا دون تجديد الأعماق"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونوال خبرات متجددة."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يربط إرميا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي بين ما هو قديم وجديد، فيقول: [لأن مراحمه لا تزول، هي جديدة في كل صباحٍ، كثيرة هي أمانتك] (مرا 3: 22-23)."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهب الرب كل"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسان سؤل قلبه، فمن يحب العالم يهبه العالم فينهار معه، ومن يحب الحق يلتصق به"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتمجد مع المسيح \"الحق\". يقول المرتل: \"تلذَّذ بالرب فيعطيك سؤل قلبك\" (مز 37: 4)،"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فأعطاهم سؤلهم، وأرسل هزالاً في أنفسهم\" (مز 106: 15)."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإذ تحدث الرب"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن السبي، قال لإرميا: \"ويكون حين تقولون: لماذا صنع الرب إلهنا بنا كل هذه؟ تقول"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم كما أنكم تركتموني وعبدتم آلهة غريبة في أرضكم، هكذا تعبدون الغرباء في أرضٍ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليست لكم\" (إر 5: 19)."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالتأكيد امتلك شعب إسرائيل الأرض المقدسة، الهيكل بيت الصلاة. وكان يليق بهم أن"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخدموا الله، لكنهم إذ عصوا الوصية الإلهية، عبدوا الأصنام، سواء الأصنام التي"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقلوها عن دمشق كما جاء في الملوك أو الأصنام الأخرى التي أحضروها من أممٍ وثنية"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى إلى الأرض المقدسة."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ قبلوا هذه"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصنام الوثنية تأهلوا أن يُطرَدوا إلى بلاد الأصنام ويسكنوا هناك حيث يعبدون"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصنام[14]."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَوْقَدَ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُحْرَقَتَهُ وَتَقْدِمَتَهُ وَسَكَبَ سَكِيبَهُ،"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرَشَّ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَمَ ذَبِيحَةِ السَّلاَمَةِ الَّتِي لَهُ عَلَى الْمَذْبَحِ. [13]"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما قدَّمه من"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبادة وإن كانت في هيكل الرب، غير أنها لم تُقدَّم لله، بل لآلهة دمشق التي سُر"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بها."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَذْبَحُ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النُّحَاسِ الَّذِي أَمَامَ الرَّبِّ قَدَّمَهُ مِنْ أَمَامِ الْبَيْتِ مِنْ بَيْنِ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَذْبَحِ وَبَيْتِ الرَّبِّ،"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَهُ"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى جَانِبِ الْمَذْبَحِ الشِّمَالِيِّ. [14]"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر الملك"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتحريك مذبح النحاس ليكون في الجانب الشمالي كما في ركن ليس بذي أهمية، أمام المذبح"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي صُنع مشابهًا لمذبح إله دمشق، فوضعه أمام الهيكل مباشرة. قام بتحريك المذبح من"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مكانه لكي ما يزيله تدريجيًا من الهيكل."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد دُعيت"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدرجات بعد ذلك \"درجات آحاز\" (2 مل 20: 11)، حيث يوجد مذبح آحاز، لا مذبح الرب."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو أن الملك"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقد صار مولعًا بما رآه في دمشق بخصوص المذبح والهيكل الوثني، أراد أن يقوم بهذا"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التعديل، لكي يصير الهيكل مطابقًا إلى حدٍ ما بما رآه في دمشق. وأن يُشكِّل العبادة"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهية بما يتفق بالعبادة التي تُقام في دمشق. لقد أراد أن يُكرِّم العبادة"
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوثنية عِوَض تكريم إله السماء. وكما قيل عنه: \"وأسخط الرب إله آبائه\" (2 أي 28: 25)[15]."
+    },
+    {
+      "section_title": "6. إعجاب آحاز بالمذبح الوثني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَمَرَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَذْبَحِ الْعَظِيمِ أَوْقِدْ مُحْرَقَةَ الصَّبَاحِ وَتَقْدِمَةَ الْمَسَاءِ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمُحْرَقَةَ الْمَلِكِ وَتَقْدِمَتَهُ،"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُحْرَقَةِ كُلِّ شَعْبِ الأَرْضِ وَتَقْدِمَتِهِمْ وَسَكَائِبِهِمْ،"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرُشَّ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَيْهِ كُلَّ دَمِ مُحْرَقَةٍ وَكُلَّ دَمِ ذَبِيحَةٍ."
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَذْبَحُ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النُّحَاسِ يَكُونُ لِي لِلسُّؤَالِ. [15]"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر آحاز الملك"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يوقد الكاهن على المذبح الأشوري المحرقات مرضاة لملك أشور."
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَعَمِلَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُورِيَّا الْكَاهِنُ حَسَبَ كُلِّ مَا أَمَرَ بِهِ الْمَلِكُ آحَازُ. [16]"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوريَّا"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"يهوه نوري\". اتسم بالطاعة للملك آحاز في كل ما يأمر به. لكنها طاعة"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملومة. لقد أخطأ، لأنه أراد تطوير المذبح بذوقٍ بشريٍ وهوى إنساني، متجاهلاً أن"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الهيكل وما يحتوي عليه من أساسات تم بدقة بأمر إلهي (خر 25: 40؛ 26: 30؛ 27: 1؛ 1 أي 28: 19)[16]."
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَطَعَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكُ آحَازُ أَتْرَاسَ الْقَوَاعِدِ وَرَفَعَ عَنْهَا الْمِرْحَضَةَ،"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَنْزَلَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَحْرَ عَنْ ثِيرَانِ النُّحَاسِ الَّتِي تَحْتَهُ،"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَهُ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلَى رَصِيفٍ مِنْ حِجَارَةٍ. [17]"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُظَن أن الملك"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قطع أتراس القواعد ليستخدمها كقواعدٍ لتمثال مُتقَن يُزيَّن به قصره[17]."
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَرِوَاقَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السَّبْتِ الَّذِي بَنُوهُ فِي الْبَيْتِ،"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَدْخَلَ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمَلِكِ مِنْ خَارِجٍ غَيَّرَهُ فِي بَيْتِ الرَّبِّ مِنْ أَجْلِ مَلِكِ"
+    },
+    {
+      "section_title": "الْمَلِكُ آحَازُ أُورِيَّا الْكَاهِنَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَشُّورَ. [18]"
+    },
+    {
+      "section_title": "رواق السبت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو رواق عند مدخل المبنى معمَّد، كان الكهنة يدخلون منه إلى الهيكل في يوم السبت[18]."
+    },
+    {
+      "section_title": "رواق السبت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدخل الملك من"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو مدخل سري خارجي خاص"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالملك"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليائس"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للدخول إلى الهيكل"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في سرية"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليستشير النبي المرذول من الملك وشعبه طويلاً."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما قد فعله"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آحاز الملك بإزالة هذه الأمور ربما كان يهدف أنه متى حدث حصار أشوري يبقى الهيكل في"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيءٍ من الأمان، فلا يدخل الأشوريون من هذه المنافذ[19]."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أهان آحاز الرب"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبيته وفرائضه وغيرها وأكرم آلهة أشور."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاء في (2 أي 28: 24) أن آحاز جمع آنية بيت الله، وقطع آنية بيت الله، وأغلق أبواب بيت الرب، وعمل"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لنفسه مذابح في كل زاوية. في أورشليم، وفي كل مدينة عمل مرتفعات للإيقاد لآلهة"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرى."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استبدل آحاز"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المذبح لخدمة الله إلى مذبح وثني إرضاءً لملك أشور، وكأنه يقيم إلهًا له يتكل عليه"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عِوَض الاتكال على الله."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا نعجب إن كان"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك الضعيف الذي يُرضِي الناس لا الله له رئيس كهنة على شاكلته، ضعيف وخانع، يهتم"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يُرضِي الملك لا الله."
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام آحاز"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتخريب بيت الرب تدريجيًا، فهو لم يأمر بهدم الهيكل، ولا أمر بتحويله إلى هيكل"
+    },
+    {
+      "section_title": "خارج",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للوثن، لكنه أفسد عمل الهيكل تدريجيًا."
+    },
+    {
+      "section_title": "أ. أمر أوريَّا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بصنع مذبح برسم مذبح دمشق."
+    },
+    {
+      "section_title": "ب. قام بتحريك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مذبح النحاس جانبًا، ووضع المذبح الجديد في مكان مرموق."
+    },
+    {
+      "section_title": "ج. قام بتقديم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُحرَقات والتقدِّمات على المذبح الجديد، وترك مذبح النحاس لكي ما يسأل الرب في"
+    },
+    {
+      "section_title": "ج. قام بتقديم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمر ما عند الضرورة."
+    },
+    {
+      "section_title": "د. قطع أتراس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القواعد، ورفع المرحضة..."
+    },
+    {
+      "section_title": "د. قطع أتراس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هـ. أزال رواق"
+    },
+    {
+      "section_title": "د. قطع أتراس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكهنة أو رواق السبت."
+    },
+    {
+      "section_title": "و. أزال مدخل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك إلى الهيكل."
+    },
+    {
+      "section_title": "و. أزال مدخل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت خطة آحاز"
+    },
+    {
+      "section_title": "و. أزال مدخل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مطابقة لعمل عدو الخير الذي يتسلل تدريجيًا لينزع من القلب قدسيته تحت أسماء"
+    },
+    {
+      "section_title": "و. أزال مدخل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برَّاقة مثل التجديد، وعدم الالتزام بطقسٍ مُعَيَّنٍ إلخ. إنه زحف عدو الخير في"
+    },
+    {
+      "section_title": "و. أزال مدخل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياة المؤمن دون المطالبة بترك الله وعبادته، ليُحَقِّقَ في النهاية هدفه."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واستلام حزقيا العرش"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَقِيَّةُ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُمُورِ آحَازَ الَّتِي عَمِلَ،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَا هِيَ مَكْتُوبَةٌ فِي سِفْرِ أَخْبَارِ الأَيَّامِ لِمُلُوكِ يَهُوذَا. [19]"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اضْطَجَعَ آحَازُ مَعَ آبَائِهِ،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدُفِنَ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعَ آبَائِهِ فِي مَدِينَةِ دَاوُدَ،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَلَكَ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حَزَقِيَّا ابْنُهُ عِوَضًا عَنْهُ. [20]"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقدِّم لنا"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس نصيحة عملية للتعامل مع عابدي الأوثان، قائلاً:"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[عندما يكون"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لديك سلطان شرعي افعل هذا [أي ما ورد في (تث 7: 1-5)]، عندما لا يكون لدينا سلطان لا"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفعل هذا؛ إنما متى أُعطي لنا سلطان لا نفشل في فعل هذا. كثير من الوثنيين لديهم"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الرجاسات في ممتلكاتهم، فهل نذهب إليهم ونُحَطِّمها؟"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أول ما ينبغي"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن نفعله هو أن نُحَطِّمَ الأصنام التي في قلوبهم. عندئذ يصيرون مسيحيين، عندئذ إما"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنهم يدعوننا لنُتَمِّم هذا العمل الصالح، أو يفعلون هذا بأنفسهم أمامنا. ما يجب أن"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفعله هو أن نُصَلِّي لأجلهم، لا أن نغضب عليهم[20].]"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 2 مل 16"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبًا نقيًا"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اخلقه فيّ يا الله!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترك عزاريا وابنه يوثام المرتفعات لِعلَّة أو أخرى."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجاء من"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صُلْبِهما آحاز ينغمس بكل قلبه في العبادة الوثنية."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أهمله الجد"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والأب تعثَّر فيه الحفيد والابن."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس لهما ما"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعتذرا به،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ قدَّما"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للابن السُمّ ولم يدريا!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وليس للابن"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عُذْرٌ،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقد ملك الفساد"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل كيانه!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبًا نقيًّا اخلقه فيّ يا الله،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأُقَدِّم لك"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل حبّي ومشاعري وأحاسيسي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا أترك شيئًا"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لحساب العدو في أعماقي،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى لا يجد له"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيَّ موضعًا يتسلل إليه،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أكون عثرة"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأحدٍ بسبب إهمالي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي يا ابن داود أن اقتدي بداود الملك والنبي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فمع ضعفاته"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان يهرب إليك،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيك يختفي"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويتحصّن سالكًا بروحك القدوس."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم تستطع كل"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظروف المقاومة أن تُفسِدَ شعوره بحضرتك الإلهية."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يستطع"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العرش وكل السلطة أن تسحب قلبه عنك."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سقط في ضعفات،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن سرعان ما انسحب قلبه إلى سماواتك."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تركك الملك آحاز، وفي ضيقته لم تتركه."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسلتَ له"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نبيّك إشعياء يسنده ويطمئنه،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعِوَض أن"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقَدِّمَ لك ذبيحة شكر،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التجأ إلى"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكة أشور تحميه وتدافع عنه."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وثَقَ في"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك الوثني، ولم يثق فيك يا أيها القدير."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هب لي أن ألجأ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إليك، فأنت حصن حياتي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت رجائي"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومصدر فرحي وبهجة قلبي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلولك في"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماقي يرفعني كما إلى سماواتك."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يقدر عدو"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يلحق بي ويغتصبني."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حضورك"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الدائم، لا تقدر خطية أن تتسلل فيَّ."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجلِّيك"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحوِّل أعماقي إلى مقادس طاهرة."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلولك يقيم من أعماقي سماءً جديدة أسوارها نار إلهية."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلولك يُشبِع"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسي، فلا تشتهي عونًا بشريًا."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلولك ينزع"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنّي المذلة،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويدخل بي إلى"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمجاد فائقة!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي الإيمان بك، فأصير في أمان."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفتح ذهني،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيستنير بالفهم والمعرفة."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتمتع بعربون"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء، وأختبر قُدسيتها!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "افتحْ قلبي"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبصيرتي، فيتعانق الفهم مع الإيمان."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أطلب"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفهم دون الإيمان بك، ولا الإيمان بغير الفهم!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي يا رب القلب النقي،"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا يجد"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مسرَّته إلاّ في أحضانك الإلهية."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي مع"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النقاوة الحكمة والجديَّة."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا يجد عدو"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخير ثغرة للتسلل إلى قلبي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع النقاوة هبْ"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لي التجديد المُستمِر الداخلي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي أن"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أمارس الطقس بفكر سماوي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا أسقط في"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحرف القاتل، ولا الاستهتار المُفسِد!"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هبْ لي نقاوة"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سماوية بعمل روحك القدوس الناري."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأختبر عربون"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماء مع كل نسمة من نسمات حياتي."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "د. وهيب جورجي: مقدمات العهد القديم 1985، ص 184."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Discourses against Judaizing"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Christias,1:6:7."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع عظات القديس أنبا مقار الكبير، ترجمة مؤسسة القديس أنبا أنطونيوس"
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدراسات الآباء، عظة 5: 11."
+    },
+    {
+      "section_title": "7. موت آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[4] Barlaam and Joseph 10."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Letter 8:4:9."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[6] Pacian of Barcelona (c. fourth"
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "century): Letter 3:7."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Adv. Celsus 7:64."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[8] Exhortation to Martyrdom 9."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "راجع عظات القديس أنبا مقار الكبير، ترجمة مؤسسة القديس أنبا أنطونيوس"
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدراسات الآباء، عظة 5: 4."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[10] Proof of the Gospel 7:1"
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[11] Reply to Faustus the Manichean 12:46."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[12] Sermon 68 :1."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "cf. Adam Clarke Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Homilies on Jeremiah 7:3:1."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Adam Clarke Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Jamieson, Fausset and Brown Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Jamieson, Fausset and Brown Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Jamieson, Fausset and Brown Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. Jamieson, Fausset and Brown Commentary."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "St. Augustine: Sermon 62:17."
+    },
+    {
+      "section_title": "Fulgentius of Ruspe (c. 467-532)",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "الملوك ثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 16 من سفر الملوك الثاني)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/9bg2jzt"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/9bg2jzt"
     }
   ]
 }

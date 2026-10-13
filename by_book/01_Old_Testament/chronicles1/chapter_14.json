@@ -1,17 +1,1791 @@
 {
-  "book_id": 12,
+  "book_id": "chronicles1",
   "book_title": "تفسير سفر أخبار الأيام الأول",
   "chapter_number": 14,
   "chapter_title": "الأصحاح 14",
   "topic": "الأصحاح 14",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "ملك حيرام يرسل عُمَّالاً ومواد بناء",
+      "verses": "1- 2"
+    },
+    {
+      "number": 2,
+      "title": "داود وتعدُّد الزوجات",
+      "verses": "3- 7"
+    },
+    {
+      "number": 3,
+      "title": "هجوم الفلسطينيين عليه",
+      "verses": "8- 17"
+    }
+  ],
+  "sections_count": 294,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "استقرار مملكة داود"
+      "text": "اَلأَصْحَاحُ الرَّابِعُ عَشَرَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح السابق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكشف لنا عن قلب داود النقي، فإنه إذ أقام أورشليم عاصمة لمملكته، أراد أن يُعْلِنَ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الملك الحقيقي هو الله، وأن كل نجاحٍ يبلغ إليه، إنما هو عطية من الله. لهذا وضع"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في قلبه أن ينقل تابوت العهد بكونه يُمَثِّل الحضور الإلهي إلى العاصمة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطأ داود كما رأينا،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه لم يسلك حسب تدبير الشريعة فيما يخص بحمل تابوت العهد، وعوض الاحتفال"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المُبهِج، أقيمت جنازة لعُزَّا الذي لمس التابوت فمات."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تطلَّع الرب إلى قلب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود النقي، فثبَّت مملكته، ووهبه نجاحًا ونموًّا ونصرة ومجدًا."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا النجاح ولَّد ثورة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحقدًا لدى الأعداء، فثاروا ضده. استشار داود الرب، فحاربهم وغلب."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطاه الرب هيبة من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنده على كل الأمم المحيطة به."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 14: لتُثبِّتْ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مملكتك في أعماقي يا ابن داود"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومواد بناء"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَأَرْسَلَ حِيرَامُ مَلِكُ صُورَ رُسُلًا إِلَى دَاوُدَ وَخَشَبَ أَرْزٍ وَبَنَّائِينَ وَنَجَّارِينَ لِيَبْنُوا لَهُ بَيْتًا. 2 وَعَلِمَ دَاوُدُ أَنَّ الرَّبَّ قَدْ أَثْبَتَهُ مَلِكًا عَلَى إِسْرَائِيلَ، لأَنَّ مَمْلَكَتَهُ ارْتَفَعَتْ مُتَصَاعِدَةً مِنْ أَجْلِ شَعْبِهِ إِسْرَائِيلَ."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَرْسَلَ حِيرَامُ مَلِكُ صُورَ رُسُلاً إِلَى دَاوُدَ،"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَشَبَ أَرْزٍ وَبَنَّائِينَ وَنَجَّارِينَ لِيَبْنُوا لَهُ بَيْتًا. [1]"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبرز هنا استقرار داود"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في أورشليم، مع فيضٍ من العطايا يُقَدِّمها له ملك غريب من الأمم. أظهر الله لداود"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نعمته، وأعطاه نعمة في عينيّ حيرام ملك صور، فأرسل إليه رسلاً يطلب وِدَّ داود. كما"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل له خشب أرز وبنَّائين مهرة، ونَجَّارين ليبنوا له بيتًا. هذه بداية صداقة قوية"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومُمْتَدَّة لفترة طويلة بين داود وحيرام ملك صور، استمرت حتى أيام سليمان."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار لداود مملكة عظيمة"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وممتدة، بينما كانت مملكة حيرام صغيرة لا تُقارَن بمملكة داود، لكن الله الذي كان"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسند داود في كل أعماله أراد أن يقوده إلى الحُبِّ مع التواضع. فمع كل إمكانيات"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود ما كان يمكنه أن يبني لنفسه قصرًا بدون مساندة حيرام ملك صور."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه يطالبنا ألا نحتقر"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هم أقل منَّا في الإمكانيات والسلطان. فالإنسان مهما بلغ نجاحه، ومهما نال من"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إمكانيات، في حاجة إلى أخيه. يطلب منه أن يسنده، ويشكره على خدماته ومساعداته حتى"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإن كانت بأجرٍ."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يستطيع أن يعيش"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان في معزلٍ عن أخيه، إنما كلما أُتيحَتْ له الفرصة، يكشف لأخيه أنه محتاج إلى"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مساندته والتعاون معه، فلا يعاني الأخ بصِغَرِ نفسٍ."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَلِمَ دَاوُدُ أَنَّ"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّبَّ قَدْ أَثْبَتَهُ مَلِكًا عَلَى إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ مَمْلَكَتَهُ ارْتَفَعَتْ مُتَصَاعِدَةً مِنْ أَجْلِ شَعْبِهِ إِسْرَائِيلَ."
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه إذ يقودهم ويهتم"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "برعايتهم وإشباع احتياجاتهم وحمايتهم، لا يشعر أن له فضلاً في ذلك، فإن هذا ما يلزم"
+    },
+    {
+      "section_title": "1. ملك حيرام يرسل عُمَّالاً",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يفعله كراعٍ صالحٍ ومُحِبٍ لشعب الله."
+    },
+    {
+      "section_title": "العامل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانت عينا داود مُرَكِّزتين على الله، فكل نجاحٍ وازدهارٍ وكرامةٍ تَحِلُّ به،"
+    },
+    {
+      "section_title": "العامل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحسب هذا كله عطايا إلهية، ليس لأنه أكثر ذكاءً أو قدرة أو حكمة، من غيره، إنما"
+    },
+    {
+      "section_title": "العامل الأول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأن الله معه."
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن ما يناله من نجاحٍ ومجدٍ وعظمةٍ وُهِبَ له، لا ليتنعَّم به شخصيًا، وإنما لكي"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخدم شعب الله. هكذا يليق بالمؤمن ألا يتمركز حول ذاته"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "his ego"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما يحسب نفسه"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مدعوًّا من الله لسعادة الآخرين وراحتهم ومجدهم وخلاصهم الأبدي. فإنه ما استحق أن"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يولد من عاش لأجل نفسه، ولا يبالي بأخيه."
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما تتمتع به مملكة داود"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من استقرار ليس مُحَصِّلة جاذبية شخصيته، حيث تجمَّعت حوله كل"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط،"
+    },
+    {
+      "section_title": "العامل الثاني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا محصلة محبة الناس وإخلاصهم وغيرتهم على بناء الشعب ونموّه، إنما سرّ عظمة مملكة"
+    },
+    {
+      "section_title": "1. ما تمتع به من نمو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "روحي وسمو ومجد وفرح، إنما هو عطية الله له."
+    },
+    {
+      "section_title": "2. مع محبة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفائقة لعبده داود، قَدَّم له من امتيازات فريدة، حتى وعده أن نسله يملك إلى"
+    },
+    {
+      "section_title": "2. مع محبة الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبد، هذا كله \"من أجل شعبه إسرائيل\". لقد أدرك داود هذا."
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "3 وَأَخَذَ دَاوُدُ نِسَاءً أَيْضًا فِي أُورُشَلِيمَ، وَوَلَدَ أَيْضًا دَاوُدُ بَنِينَ وَبَنَاتٍ. 4 وَهذِهِ أَسْمَاءُ الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ: شَمُّوعُ وَشُوبَابُ وَنَاثَانُ وَسُلَيْمَانُ 5 وَيِبْحَارُ وَأَلِيشُوعُ وَأَلِفَالَطُ 6 وَنُوجَهُ وَنَافَجُ وَيَافِيعُ 7 وَأَلِيشَمَعُ وَبَعَلْيَادَاعُ وَأَلِيفَلَطُ."
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخَذَ دَاوُدُ نِسَاءً أَيْضاً فِي أُورُشَلِيمَ،"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَلَدَ أَيْضاً دَاوُدُ بَنِينَ وَبَنَاتٍ. [3]"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان تعدُّد الزوجات"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والسراري عادة شائعة في ذلك العصر عند العائلات المالكة في الشرق الأوسط، ولم يكن"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذلك يتفق مع الوصية الإلهية وفكر الله (تك 2: 24)."
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان لداود ضعفاته، فقد"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمثَّل بالعادات التي كانت سائدة بين عائلات الملوك في الشرق الأوسط في ذلك الحين،"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وعدم التزامه بالزوجة الواحدة. كان بعض الملوك يستغلون هذه العادة للدخول في علاقة"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسب مع الملوك المُجاورِين، فيُعطِي نوعًا من السلام السياسي."
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه العادة كثيرًا ما"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُسَبِّب حسدًا وغيره في القصر الملكي بين النساء، وأيضًا بين الأبناء. بسببها دخل"
+    },
+    {
+      "section_title": "2. داود وتعدُّد الزوجات",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود في مشاكل أسرية كثيرة ونزاعات بين أولاده، ولم يكن لديه الوقت الكافي لتربية"
+    },
+    {
+      "section_title": "أولاده في مخافة الرب، كما حدث مع أبشالوم وأمنون، لأن الأخير اغتصب أخت الأول، وهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخته من نفس الوالد وليس من والدته."
+    },
+    {
+      "section_title": "أولاده في مخافة الرب، كما حدث مع أبشالوم وأمنون، لأن الأخير اغتصب أخت الأول، وهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتبط داود بزوجات"
+    },
+    {
+      "section_title": "1. ميكال ابنة شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الملك: لم تُنْجِبْ، ربما لأنها احتقرته عندما رأته يرقص أمام تابوت العهد (2 صم 6: 14). يبدو أنها قد تَبَنَّت خمسة من أبناء أختها. أعطى داود أبناء أختها"
+    },
+    {
+      "section_title": "1. ميكال ابنة شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الخمسة للجبعونيين ليقتلوهم من أجل خطايا شاول."
+    },
+    {
+      "section_title": "2. أخينوعم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اليزرعيلية: أنجبت أمنون، وهو البكر. اغتصب أخته غير الشقيقة ثامار. انتقم منه"
+    },
+    {
+      "section_title": "2. أخينوعم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبشالوم أخ ثامار شقيقتها."
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك جاشور: أنجبت أبشالوم وهو الابن الثالث لداود. قتل أخاه أمنون (غير الشقيق)"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأقام في خيمة على السطح ولم يرد أبوه أن يلتقي به. اضطجع مع نساء أبيه، تمرَّد على"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه، وقُتِلَ أثناء المعركة ضد جيش أبيه."
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "4. حجيث: أنجبت"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الابن الرابع أدونيا. أقام نفسه ملكًا قبل موت أبيه، لكن مؤامرته فشلت، وأبقى داود"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على حياته، غير أن سليمان قتله بعد تولِّيه العرش."
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "5. بثشبع: أخطأ"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معها داود ودبَّر مؤامرة لقتل رجلها"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أوريّا الحثِّي لكي يُخفِي جريمته: أنجبت طفلاً لم يُذكَر اسمه، مات وهو طفل."
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثم أنجبت سليمان الذي تولَّى العرش بعد والده. للأسف تزوج بنساء كثيرات وثنيّات"
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جذبنه للعبادة الوثنية."
+    },
+    {
+      "section_title": "3. معكة ابنة تلماوي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَذِهِ أَسْمَاءُ"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَمُّوعُ وَشُوبَابُ وَنَاثَانُ وَسُلَيْمَانُ [4]"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيِبْحَارُ"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيشُوعُ وَأَلِفَالَطُ [5]"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنُوجَهُ وَنَافَجُ"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَافِيعُ [6]"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيشَمَعُ"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَعَلْيَادَاعُ وَأَلِيفَلَطُ. [7]"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَذْكُر الأنساب لميلاد"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السيد المسيح اثنيْن من بنيه من بثشبع وهما ناثان (لو 3: 31)، وجاءت من نسله"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديسة مريم. والثاني سليمان (مت 1: 6)، وجاء من نسله القدِّيس يوسف"
+    },
+    {
+      "section_title": "الأَوْلاَدِ الَّذِينَ كَانُوا لَهُ فِي أُورُشَلِيمَ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطيبها."
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "8 وَسَمِعَ الْفِلِسْطِينِيُّونَ أَنَّ دَاوُدَ قَدْ مُسِحَ مَلِكًا عَلَى كُلِّ إِسْرَائِيلَ، فَصَعِدَ كُلُّ الْفِلِسْطِينِيِّينَ لِيُفَتِّشُوا عَلَى دَاوُدَ. وَلَمَّا سَمِعَ دَاوُدُ خَرَجَ لاسْتِقْبَالِهِمْ. 9 فَجَاءَ الْفِلِسْطِينِيُّونَ وَانْتَشَرُوا فِي وَادِي الرَّفَائِيِّينَ. 10 فَسَأَلَ دَاوُدُ مِنَ اللهِ قَائِلًا: «أَأَصْعَدُ عَلَى الْفِلِسْطِينِيِّينَ فَتَدْفَعُهُمْ لِيَدِي؟» فَقَالَ لَهُ الرَّبُّ: «اصْعَدْ فَأَدْفَعَهُمْ لِيَدِكَ». 11 فَصَعِدُوا إِلَى بَعْلِ فَرَاصِيمَ وَضَرَبَهُمْ دَاوُدُ هُنَاكَ. وَقَالَ دَاوُدُ: «قَدِ اقْتَحَمَ اللهُ أَعْدَائِي بِيَدِي كَاقْتِحَامِ الْمِيَاهِ». لِذلِكَ دَعَوْا اسْمَ ذلِكَ الْمَوْضِعِ «بَعْلَ فَرَاصِيمَ». 12 وَتَرَكُوا هُنَاكَ آلِهَتَهُمْ، فَأَمَرَ دَاوُدُ فَأُحْرِقَتْ بِالنَّارِ. 13 ثُمَّ عَادَ الْفِلِسْطِينِيُّونَ أَيْضًا وَانْتَشَرُوا فِي الْوَادِي. 14 فَسَأَلَ أَيْضًا دَاوُدُ مِنَ اللهِ، فَقَالَ لَهُ اللهُ: «لاَ تَصْعَدْ وَرَاءَهُمْ، تَحَوَّلْ عَنْهُمْ وَهَلُمَّ عَلَيْهِمْ مُقَابِلَ أَشْجَارِ الْبُكَا. 15 وَعِنْدَمَا تَسْمَعُ صَوْتَ خَطَوَاتٍ فِي رُؤُوسِ أَشْجَارِ الْبُكَا فَاخْرُجْ حِينَئِذٍ لِلْحَرْبِ، لأَنَّ اللهَ يَخْرُجُ أَمَامَكَ لِضَرْبِ مَحَلَّةِ الْفِلِسْطِينِيِّينَ». 16 فَفَعَلَ دَاوُدُ كَمَا أَمَرَهُ اللهُ، وَضَرَبُوا مَحَلَّةَ الْفِلِسْطِينِيِّينَ مِنْ جِبْعُونَ إِلَى جَازِرَ. 17 وَخَرَجَ اسْمُ دَاوُدَ إِلَى جَمِيعِ الأَرَاضِي، وَجَعَلَ الرَّبُّ هَيْبَتَهُ عَلَى جَمِيعِ الأُمَمِ."
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أكَّد له الرب مساندته"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "له، فبعد أن أظهر ملك صور خضوعه وتقديره لداود، وهبه نصرات على الفلسطينيين، وأعطاه"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هيبة على جميع الأمم."
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَسَمِعَ"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْفِلِسْطِينِيُّونَ أَنَّ دَاوُدَ قَدْ مُسِحَ مَلِكًا عَلَى كُلِّ إِسْرَائِيلَ،"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَصَعِدَ كُلُّ الْفِلِسْطِينِيِّينَ لِيُفَتِّشُوا عَلَى دَاوُدَ."
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَمَّا سَمِعَ دَاوُدُ خَرَجَ لاِسْتِقْبَالِهِمْ. [8]"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَجَاءَ"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْفِلِسْطِينِيُّونَ وَانْتَشَرُوا فِي وَادِي الرَّفَائِيِّينَ. [9]"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في حبرون لم يشعر"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيون بخطورة داود عليهم، أما في أورشليم فشعروا بخطورته، وأرادوا أن"
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُحَطِّموه، غير أن داود كان يستشير الرب قبل دخوله في المعارك."
+    },
+    {
+      "section_title": "3. هجوم الفلسطينيين عليه",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَأَلَ دَاوُدُ مِنَ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أَأَصْعَدُ عَلَى"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْفِلِسْطِينِيِّينَ، فَتَدْفَعُهُمْ لِيَدِي؟\""
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ لَهُ الرَّبُّ: \"اصْعَدْ فَأَدْفَعَهُمْ لِيَدِكَ.\" [10]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراد الكاتب بطريق غير"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مباشر أن يُقَدِّم لنا مقارنة بين تصرف شاول وتصرف داود. الأول استشار الجان (1 أخ 10: 13)، ولم يسأل الرب (1 أخ 10: 14) في معركته ضد الفلسطينيين في"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جبل جلبوع،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما داود فسأل الرب في معركته ضدهم في بعل فراصيم."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعتاد داود قبل أن يخرج"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للحرب يطلب مرافقة الله له، كما يطلب مشورته. يقول"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوسيفوس: \"لم يسمح داود لنفسه أن يفعل شيئًا بدون نبوة وأمر الله، وبدون"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاعتماد عليه كوقاية له في المستقبل[1].\""
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما نلجأ إلى"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بعد أن تحلَّ بنا الضيقات والمتاعب، أما داود فسأل الرب المشورة قبل أن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحرَّك. ليت استشارتنا لله لا تأتي في المؤخرة، بل في المقدمة، فنتحاشى الكثير من"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتاعب الخطيرة."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعد (قتله جليات) لم يدخل قط في حربٍ دون أن يستشير الرب. بهذا كان منتصرًا في كل"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معاركه، وحتى في أواخر حياته كان مستعدًا أن يحارب."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما قامت حرب مع"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين دخل المعركة معهم بفرقهم الشرسة..."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إننا نحسب ثبات"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(المؤمنين) مجيدًا، هؤلاء الذين بعظمة فكرهم \"بالإيمان... سدُّوا أفواه أسود،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أطفأوا قوة النار، نجوا من حدِّ السيف، تقوُّوا من ضعف\" (عب 11: 33-34). إنهم لم"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقتنوا نصرة عامة مع كثيرين، محاطين بمحاربين وتسندهم فرق، إنما ينالون نصرتهم"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وحدهم على أعدائهم المخادعين، وذلك بمجرد شجاعة نفوسهم[2]."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أمبروسيوس",
+      "text": "القديس أمبروسيوس"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَصَعِدُوا إِلَى"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَعْلِ فَرَاصِيمَ وَضَرَبَهُمْ دَاوُدُ هُنَاكَ."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَالَ دَاوُدُ: \"قَدِ اقْتَحَمَ الله أَعْدَائِي بِيَدِي كَاقْتِحَامِ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْمِيَاهِ\"."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِذَلِكَ دَعُوا اسْمَ ذَلِكَ الْمَوْضِعِ \"بَعْلَ فَرَاصِيمَ\". [11]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَتَرَكُوا هُنَاكَ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آلِهَتَهُمْ، فَأَمَرَ دَاوُدُ فَأُحْرِقَتْ بِالنَّارِ. [12]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لجأ داود إلى الله"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحيّ، فنال نصرة عظيمة على الوثنيين، فحرق أصنامهم ومتعلقاتها. كان تصرف داود"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حازمًا وجادًا أن يُحَطِّم الأوثان ويحرقها بالنار مع متعلقاتها. إذ لم يرد أن يترك"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي أثرٍ للشر في حياته وفي حياة إخوته والمجتمع الذي يعيش فيه. يليق بنا ألا نترك"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيئًا يحتل مركز الله في قلوبنا أو أفكارنا. لعل داود فعل هذا خشية أن يعجب بعض"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجنود ببعض الأصنام، خاصة المصنوعة من الذهب أو الفضة، فلم يترك لهم فرصة أن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُفَكِّروا في الاحتفاظ ببعض الأصنام الصغيرة الحجم."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تمَّم الوصية بكل قوة"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(تث 7: 5)، على عكس الكثير من الملوك من نسل داود الذين تهاونوا في إبادة الأصنام."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثُمَّ عَادَ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْفِلِسْطِينِيُّونَ أَيْضًا، وَانْتَشَرُوا فِي الْوَادِي. [13]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَسَأَلَ أَيْضًا"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دَاوُدُ مِنَ الله،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَقَالَ لَهُ الله: \"لاَ تَصْعَدْ وَرَاءَهُمْ،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تَحَوَّلْ عَنْهُمْ، وَهَلُمَّ عَلَيْهِمْ مُقَابِلَ أَشْجَارِ الْبُكَا. [14]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سرُّ نجاح داود وعظمته"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه في كل موقفٍ لا يتكل على خبرته القديمة أو إمكانياته، إنما يطلب مشورة الله. مع"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل موقف جديد كان داود يستشير الله، حتى يتجنَّب أية مخاطر تحلُّ به."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يليق بنا مع كل موقف،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نتطلَّع إليه كفرصة جديدة للقاء مع الله وطلب مشورته، فهو يريدنا أن نكون في لقاءٍ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دائمٍ معه."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلتكن حادثة هجوم"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين ثانية على داود وسؤاله مرة ثانية من الله درسًا لنا لنعترَّف بالرب:"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نهرب إليه في وقت المحنة، نلتجئ إليه عندما نُظلَم، وعندما لا نعرف ماذا نعمل."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسأله المشورة ونضع مشيئتنا تحت إرادته وتدبيره، ونلح في الطلب ليهدينا الطريق."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعِنْدَمَا تَسْمَعُ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صَوْتَ خَطَوَاتٍ فِي رُؤُوسِ أَشْجَارِ الْبُكَا،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَاخْرُجْ حِينَئِذٍ لِلْحَرْبِ،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأَنَّ اللهَ يَخْرُجُ أَمَامَكَ لِضَرْبِ مَحَلَّةِ الْفِلِسْطِينِيِّينَ\". [15]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكن سماع الصوت في"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعلى شجر البُكا دليًلا لنا لنسمع حركة الله في إلهامه الإلهي وتأثيرات روحه"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوس."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَفَعَلَ دَاوُدُ كَمَا"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَمَرَهُ الله،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَضَرَبُوا مَحَلَّةَ الْفِلِسْطِينِيِّينَ مِنْ جِبْعُونَ إِلَى جَازَرَ. [16]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام الفلسطينيون بهجومٍ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثانٍ، ونال داود النصرة بطريق آخر بمعونة الله."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَخَرَجَ اسْمُ دَاوُدَ"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَى جَمِيعِ الأَرَاضِي،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَعَلَ الرَّبُّ هَيْبَتَهُ عَلَى جَمِيعِ الأُمَمِ. [17]"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جعل الرب هيبة داود على"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل الأمم، إذ ارتعبت الأمم المحيطة، ونال داود شهرة في الأرض كلها [16-17]. فقد جاء"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوعد الإلهي: \"يقول الرب: حاشا لي، فإني أُكرم الذين يكرمونني، والذين يحتقرونني"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يصغرون\" (1 صم 2: 30)."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 14"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتُثبِّتْ مملكتك في أعماقي يا"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن داود"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَقمتَ داود من رعاية الغنمات،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليرعى شعبك الذي اخترته"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطيتَه نعمة في أعين"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبتَه نجاحًا ونصرةً"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كل عملٍ تمتد إليه يداه."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أتيت يا ابن داود في عالمنا،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكي تُقِيمَ ملكوتك في"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعماق قلوبنا."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تجعل من قلوبنا أورشليم"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المتلألئة ببهائك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتحوِّل ترابنا إلى"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أشبه بسماءٍ جديدة."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعطيته نعمة في عينيّ حيرام ملك صور،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فبعث برُسُلٍ إليه"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لإقامة علاقة ودٍّ وصداقة."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأرسل له بنَّائين"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ونجَّارين ليبنوا له قصرًا."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نزلتَ بنفسك إليَّ يا"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملك الملوك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأرسلتَ لي روحك القدوس"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدير."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا ليبني لي قصرًا، بل"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُقِيم مني هيكلاً لك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعالَ أيها الابن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الوحيد مع أبيك وروحك القدوس."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولتقم في داخلي، وتعلن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملكوتك فيَّ."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهبتَ داود أبناءَ في حبرون كما في أورشليم."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وها أنت تهبنا روح"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "البنوة للآب القدوس."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تعود تدعونا عبيدًا"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل أحبَّاء وأبناء."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نحن لسنا أهلاً أن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نُحسَب عبيدًا لك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُبُّك أقام منَّا ورثة"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله ووارثين معك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هو ميراثنا سوى"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُبِّك وحنانك؟!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليهج العدو علينا، فنحن مستترون فيك!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت ملجأ لنا، وحصن"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حياتنا!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنت قائد الموكب وواهب"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النصرة!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُحَطِّم إبليس، وتطرحه"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحت الأقدام."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مع كل صباح تتلألأ صورتك في حياتنا."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترد لنا جمالنا الروحي،"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتنزع عنَّا فسادنا!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تُعطِينا روح القوة"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والسلطة."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فنمتلئ من انعكاس"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهائك."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتتهلل نفوسنا بنُصرتك"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العجيبة!"
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Antiquities of the Jews, 7:4:1 ."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Duties of the Clergy 1:35:177."
+    },
+    {
+      "section_title": "الله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 14 من سفر أخبار الأيام الأول)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/g92q96t"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/g92q96t"
     }
   ]
 }

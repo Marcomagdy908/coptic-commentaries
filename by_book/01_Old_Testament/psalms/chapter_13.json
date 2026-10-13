@@ -1,5 +1,5 @@
 {
-  "book_id": 24,
+  "book_id": "psalms",
   "book_title": "تفسير سفرالمزامير",
   "chapter_number": 13,
   "chapter_title": "المزمور 13",
@@ -8,12 +8,12 @@
     {
       "number": 1,
       "title": "إلى متى يا رب؟",
-      "verses": "1 - 2"
+      "verses": "1 -2"
     },
     {
       "number": 2,
       "title": "توسل",
-      "verses": "3 - 4"
+      "verses": "3 -4"
     },
     {
       "number": 3,
@@ -21,19 +21,1831 @@
       "verses": "5"
     }
   ],
-  "sections_count": 2,
+  "sections_count": 304,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "إلى متى يا رب....؟"
+      "text": "إلى متى يا رب...؟"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يبدو"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن داود قد واجه تجارب لا تنتهي في فترةٍ ما من حياته. وقد جاء هذا المزمور بمثابة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تضرع يسكبه أمام الله حتى يعينه ضد أعدائه."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرى بعض الدارسين أن هذا المزمور لم يُكتب"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أثناء متاعب داود مع شاول، لأنه هذه المتاعب كانت قبل سقوطه في خطيته الشنعاء. ففي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأيهم أنه وضع هذا المزمور أثناء تمرد أبشالوم، عندما أسرع هاربًا من وجه ابنه."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "غير أن سحابة الحزن الخارجي لم تكن إلا رمزًا باهتًا لما قد ثقل على نفسه داخليًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب الخطية، الأمر الذي كان أكثر سوادًا من ظلمة منتصف الليل."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعبر هذا المزمور الصغير عن آلام داود"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشخصية، سجلها كصرخة قوية وصريحة تخرج من أعماق نفسه المتألمة ليرتمي في أحضان"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مخلصه الذي يخرج به من المرارة إلى حياة الفرح والتهليل. وقد جاء هذا المزمور صلاة"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تضم كل عناصر المرثاة: شكوى، توسل، ثقة، شكر؛ التي تناسب كل إنسان بار يعاني من"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متاعب داخلية وخارجية."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "وليم بلامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "[يأتي تسلسل هذا المزمور طبيعيًا وبطريقة رائعة. ففي الآيتين 1، 2 يصرخ داود:"
+    },
+    {
+      "section_title": "وليم بلامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إلى متى؟\"، مرددًا إياها أربع مرات؛ وفي الآية 3 يبدأ في جدية يصرخ"
+    },
+    {
+      "section_title": "وليم بلامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طالبًا العون. وفي الآية 4 يستخدم أسلوب المحاججة الذي غالبًا ما يستخدمه مع"
+    },
+    {
+      "section_title": "وليم بلامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله... وإذ يتوسل يزداد إيمانًا؛ وإذ يؤمن يفرح في الرب، وإذ يفرح ينطلق طافرًا"
+    },
+    {
+      "section_title": "وليم بلامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بتسابيح الحمد]."
     },
     {
       "section_title": "الإطار العام",
       "content_type": "شرح",
       "father_name": null,
       "text": "1. إلى متى يا رب؟"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 إِلَى مَتَى يَا رَبُّ تَنْسَانِي كُلَّ النِّسْيَانِ؟ إِلَى مَتَى تَحْجُبُ وَجْهَكَ عَنِّي؟ 2 إِلَى مَتَى أَجْعَلُ هُمُومًا فِي نَفْسِي وَحُزْنًا فِي قَلْبِي كُلَّ يَوْمٍ؟ إِلَى مَتَى يَرْتَفِعُ عَدُوِّي عَلَيَّ؟"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدأ داود النبي بسؤال، إذ رأى خارجه أن"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعداء قد ارتفعوا، ونفسه في داخله حزينة،"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والله من فوق صامت."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يكرر داود في (الآيتين 1، 2) \"إلى"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متى...؟\" أربع مرات، معبرًا عن"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إحباطه وفزعه، ويرى البعض أن التكرار هنا"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أربع مرات يُظهر أن المرتل يصرخ لا باسمه الشخصي وإنما باسم الشعب كله الذي سقط في"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسر أربع مرات: الأسر البابلي، والفارسي (المدياني)، والإغريقي، والروماني."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهكذا يُحسب هذا المزمور مرثاة جماعية ونبّوة تاريخية. وربما كرر المرتل"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الكلمات أربع مرات ليعلن أنه أينما ذهب: شرقًا أو غربًا أو شمالًا أو جنوبًا"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا يجد راحة، لأن الله قد حجب وجهه عنه."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس كل تكرار في الصلاة مرفوضًا إنما"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُرفض التكرار الباطل."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إلى متى يا رب تنساني"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الانقضاء؟"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى متى تصرف وجهك عني؟"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى متى أضع هذه المشورات في نفسي"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والأوجاع في قلبي النهار أجمع؟"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى متى يرتفع عدوي عليّ؟\" [1، 2]"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يجد داود راحة لنفسه في كل الأرض، لا"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسبب تمرد ابنه، وإنما بسبب خطيته التي تجعل الله يحجب وجهه عنه. وقد استعار"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المرتل هذا التعبير من إعلانات الله المحسوسة في هيكل قدسه، في خيمة"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاجتماع التي كانت ترمز إلى أن القدوس يسكن وسط شعبه المقدس. ليس ما يفرح القلب"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وينير البصيرة الداخلية مثل حضرة الله الواهبة النعم، بكونه هو حياة النفس ونورها."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وليس من ظلمة أكثر رعبًا من تلك التي تنبع عن الشعور بأن الله يحجب وجهه عن"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإنسان. لقد بلغت آلام أيوب ذروتها حين قال: \"من يعطيني أن أجده... هأنذا"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أذهب شرقًا فليس هو هناك، وغربًا فلا أشعر به، شمالًا حيث عمله فلا أنظره، يتعطَّفُ"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجنوبَ فلا أراه\" (أي 23: 3، 8-9)."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما نطق به داود يحمل نبوة عن السيد"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المسيح الذي يصرخ نائبًا عن البشرية وقد حمل ثقل خطاياها، فيقول للآب: \"إلهي إلهي لماذا تركتني؟\" ليتنا نتمثَّل به في اتضاعه وصراخه بإيمان سائلًا الآب"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يوجه وجهه نحونا."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحيانًا يشعر الإنسان في لحظات فتوره"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الروحي كأن الله قد تركه أو حجب وجهه عنه، وكأن الخطية - عدوه - قد ارتفعت عليه،"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لا تطلب إلا موته الأبدي... عندئذ لا يجد له ملجأ إلا الله مخلصه، يصرخ إليه لكي"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشرق ببهاء وجهه في داخله."
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وقت المرارة يشعر الإنسان كأن الله قد"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تركه زمانًا طويلًا، لكن إذ يعود فيلتقي بالله خلال مراحمه العظيمة يدرك القول"
+    },
+    {
+      "section_title": "الإطار العام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإلهي: \"لحيظة تركتك وبمراحم عظيمة سأجمعك\" (إش 54: 7)."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "3 انْظُرْ وَاسْتَجِبْ لِي يَا رَبُّ إِلهِي. أَنِرْ عَيْنَيَّ لِئَلاَّ أَنَامَ نَوْمَ الْمَوْتِ، 4 لِئَلاَّ يَقُولَ عَدُوِّي: «قَدْ قَوِيتُ عَلَيْهِ». لِئَلاَّ يَهْتِفَ مُضَايِقِيَّ بِأَنِّي تَزَعْزَعْتُ."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أنر عينَّي لئلا أنام نوم"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموت\" [3]."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شعر داود النبي باحتياجه إلى الله الذي"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حجب وجهه عنه بسبب خطيته أن يعود فيرد وجهه البهي نحوه، وينير إنسانه الداخلي"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنوره الإلهي، حتى لا يستمر في خطاياه، فلا ينام مع الذين ماتوا في خطاياهم."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صرخة المرتل"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"إلى متى\" ليست صادرة عن يأس إنما عن نفس متألمة تعرف كيف تحول الشكوى"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى صلاة، لتنطلق بإيمان إلى الله تطلب منه الاستنارة ببهاء وجهه. إنها بدالة الحب"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تطلب إليه قائلة: \"أنظر... أستجب... أنر\". فهو وحده القادر أن"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدخل إلى أعماقنا، ويتطلع إلى سرائرنا، يستجيب إلى تنهدات قلبنا الخفية، وينير"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طبيعتنا التي صارت ظلمة."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقترب من النور الحقيقي، أعني المسيح، نسبحه في المزامير، قائلين: \"أنر"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عينَّي لئلا أنام نوم الموت\". فإنه موت حقيقي هو موت النفس لا الجسد حين نسقط"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن استقامة التعاليم الصادقة ونختار الباطل عوض الحق. لذلك يلزم أن تكون أحقاؤنا"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ممنطقة وسرجنا موقدة كما قيل لنا هنا."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "قول آبائي",
+      "father_name": "القديس كيرلس الكبير",
+      "text": "القديس كيرلس الكبير"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أغلق الإنسان عينيهِ عن الرحمة، ينام في شهوات الملذات الجسدية."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأب قيصريوس أسقف آرل"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إذ يشرق مسيحنا في داخلنا يهبنا بروحه"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القدوس البصيرة المنيرة، فننال فهمًا جديدًا لحب الله وأبوّته وعمله الخلاصي،"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإدراكًا لسرّ المسيح الذي يضم الشعوب والأمم إليه كأعضاء جسده المقدس، وامتلاءً"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من روحه الناري الذي لا تقدر مياه كثيرة أن تطفئه في داخلنا؛ كما يهبنا العين"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المفتوحة القادرة أن تعاين الأمجاد السماوية، وأيضًا نظرة جديدة للبشرية كلها تتسم"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالحب الباذل العملي من أجل الكل."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بهذه الاستنارة لا يبقى للظلام موضعًا في"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النفس ولا في الجسد أو في الفكر أو القلب إلخ... بل يكون كل ما في داخلنا وخارجنا"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مستنيرًا بالرب."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"لئلا يقول عدوي: إني قد"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قويت عليه."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذين يحزنونني يتهللون إن أنا"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زللت\" [4]."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هكذا قدم داود النبي صلاة قصيرة"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نابعة"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن احتياجه، لكنها قوية. إنه إنما يطلب من الله أن يشرق عليه بنوره. وقد نصحنا"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آباء الكنيسة أن نردد صلوات قصيرة على الدوام، تسمى \"الصلاة السهمية\"،"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنها توجه كالسهم ضد الشيطان."
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هو هذا العدو الذي يخشى المرتل أن"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقوى عليه ويعيَّره؟ إنه إبليس أو الخطية. يخشى المرتل سخرية أعدائه، الذين"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتهللون إذا ما تزعزع مؤمن ما، ويُسر جدًا بهذا النجاح وإن كان مؤقتًا!"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما أعجب الله الذي كثيرًا ما يسمح لشعبه"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يسقطوا إلى حين تحت عنف أو استبداد أزواج أو والدين أو سادة أو قادة. كان لا بُد"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لدانيال وزملائه الأتقياء أن يعيشوا تحت سطوة حكام كلدانيين لهم نزواتهم. وعاشت"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيجايل مع زوج هو ابن لبليعال، لا يجسر أحد أن ينطق أمامه بكلمة. هذه هي المدرسة"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي يتتلمذ فيها القديسون لمنفعتهم ونوالهم المجد، فإن الصعاب غير المحتملة"
+    },
+    {
+      "section_title": "2. توسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تقودنا إلى البركة والنصرة."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "5 أَمَّا أَنَا فَعَلَى رَحْمَتِكَ تَوَكَّلْتُ. يَبْتَهِجُ قَلْبِي بِخَلاَصِكَ. 6 أُغَنِّي لِلرَّبِّ لأَنَّهُ أَحْسَنَ إِلَيَّ."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثقة داود أو إيمانه بالله قد حوّل حزنه"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى تسبحة مفرحة، وآلامه إلى خلاص، لهذا يقول المرتل:"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يبتهج قلبي بخلاصك."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسبح الرب المحسن إليّ."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأرتل لاسم الرب العالي\" [5-6]."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Stuhlmueller: [من الصعب أن ندلل على سبب هذا التحول المفاجئ: هل تعافى المرتل"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بسرعة؟ من المحتمل أن المزمور قد نُظم عبر ليالٍ طويلة من الأرق، والآلام المُرّة"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والصلوات اليائسة، والذكريات القاسية، كل هذا تطور تدريجيًا لينشئ سلامًا، حتى عند"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموت يتحول غضب الإنسان أو كآبته إلى سلام داخلي وحب راسخ]."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بدأ المزمور بالتنهدات وخُتم بالتسابيح،"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وكما تقول العروس: \"لأن الشتاء قد مضى، والمطر مرّ وزال؛ الزهور ظهرت"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الأرض؛ بلغ أوان القضب، وصوت اليمامة سُمع في أرضنا\" (نش 2: 11-12). وكما"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول ابن سيراخ: \"انظروا يا بني البشر واعلموا أنه ما من أحد توكل على الرب"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخزي\" (سي 2: 11)."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صلاة"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حوّل"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا رب مرارة نفسي إلى صلاة!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "انظر"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى أعماقي، واستجب لتنهدات قلبي، ولتنر بصيرتي!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أراك فأتعرف عليك وأحبك وأتحد بك وأشاركك"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مجدك!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عينيْ قلبي بنورك فلا يكون للظلمة موضع في أعماقي!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قدني"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في مدرسة الألم لكي استعذب شركة صلبك وأنعم بقوة قيامتك!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "احملني"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط وادي الدموع، فيبتهج قلبي بخلاصك، وينفتح فمي بتسبيحك!"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Plumer, p. 183."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Sermon 137:3."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Plumer, p. 188."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اشترك في ترجمة التفسير الدكتور جرجس كامل يوسف والدكتورة نورا"
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العجمي."
+    },
+    {
+      "section_title": "3. أغنية النصرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "36 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "37 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "38 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "39 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "40 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "42 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "43 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "44 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "45 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "46 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "47 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "48 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "49 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "50 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "51 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "52 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "53 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "54 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "55 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "56 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "57 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "58 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "59 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "60 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "61 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "62 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "63 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "64 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "65 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "66 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "67 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "68 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "69 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "70 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "71 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "72 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "73 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "74 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "75 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "76 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "77 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "78 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "79 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "80 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "81 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "82 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "83 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "84 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "85 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "86 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "87 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "88 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "89 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "90 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "91 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "92 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "93 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "94 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "95 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "96 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "97 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "98 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "99 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "100 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "101 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "102 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "103 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "104 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "105 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "106 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "107 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "108 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "109 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "110 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "111 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "112 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "113 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "114 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "115 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "116 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "117 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "118 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "119 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "120 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "121 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "122 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "123 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "124 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "125 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "126 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "127 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "128 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "129 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "130 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "131 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "132 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "133 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "134 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "135 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "136 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "137 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "138 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "139 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "140 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "141 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "142 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "143 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "145 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "146 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "147 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "148 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "149 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "150 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 13 من سفر المزامير)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/sk2zfzg"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/sk2zfzg"
     }
   ]
 }

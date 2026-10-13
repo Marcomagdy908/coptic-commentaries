@@ -1,28 +1,112 @@
 {
-  "book_id": 24,
+  "book_id": "psalms",
   "book_title": "تفسير سفرالمزامير",
   "chapter_number": 64,
   "chapter_title": "المزمور 64",
-  "topic": "",
+  "topic": "الأصحاح 64",
   "chapter_outline": [
     {
       "number": 1,
       "title": "فاعلو الإثم",
-      "verses": ""
+      "verses": "1 -6"
     },
     {
       "number": 2,
       "title": "التدخل الإلهي",
-      "verses": ""
+      "verses": "7 -10"
     }
   ],
-  "sections_count": 4,
+  "sections_count": 354,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
       "text": "تعزيات في وسط الضيق"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المزمور السابق نرى المرتل وقد عطش"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى الله، مشتاقًا أن يراه، ويُكرِّس كل طاقاته لحسابه؛ ويود أن يلتصق به، غير أن"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعداء يبذلون كل الجهد ليطلبوا نفسه. أما هنا فعلى العكس يتطلع المرتل حوله،"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيجد جمهورًا من الأعداء يقاومونه ويتآمرون عليه سرًا، فيصرخ من أعماق قلبه إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله القادر أن يحطم الشر. ينتهي المزمور بإعلان حماية الله له، وتمتعه بالفرح"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والبهجة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمثل هذا المزمور مرثاة شخصية، يقدمها"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المؤمن وهو في وسط الضيق. لقد وقف كواحدٍ وحيد وسط جمهورٍ من الأشرار وفاعلي"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الإثم. لقد تدربوا على وضع مؤامرات، وتحولت ألسنتهم إلى سيوف قاتلة، وكلامهم إلى"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سهام مُرَّة. يحسبون أنفسهم أنهم مخفيون عن الأنظار، ويحبكون اختراعاتهم، ولم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدركوا أن إله الصديق يرى ما لا ينظره أحد، قدير يبطل الخطط الشريرة."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إن كانت هذه المرثاة تُعبر عن عمق الألم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي تعانيه النفس بسبب الأعداء، فهو تسبحة شكر لله المحافظ على مؤمنيه؛ مُحطَّم"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشر ومعين مستقيمي القلوب."
     },
     {
       "section_title": null,
@@ -40,7 +124,2023 @@
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "لإِمَامِ الْمُغَنِّينَ. مَزْمُورٌ لِدَاوُدَ"
+      "text": "لإِمَامِ الْمُغَنِّينَ. مَزْمُورٌ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِدَاوُدَ"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 اِسْتَمِعْ يَا اَللهُ صَوْتِي فِي شَكْوَايَ. مِنْ خَوْفِ الْعَدُوِّ احْفَظْ حَيَاتِي. 2 اسْتُرْنِي مِنْ مُؤَامَرَةِ الأَشْرَارِ، مِنْ جُمْهُورِ فَاعِلِي الإِثْمِ، 3 الَّذِينَ صَقَلُوا أَلْسِنَتَهُمْ كَالسَّيْفِ. فَوَّقُوا سَهْمَهُمْ كَلاَمًا مُرًّا، 4 لِيَرْمُوا الْكَامِلَ فِي الْمُخْتَفَى بَغْتَةً. يَرْمُونَهُ وَلاَ يَخْشَوْنَ. 5 يُشَدِّدُونَ أَنْفُسَهُمْ لأَمْرٍ رَدِيءٍ. يَتَحَادَثُونَ بِطَمْرِ فِخَاخٍ. قَالُوا: «مَنْ يَرَاهُمْ؟». 6 يَخْتَرِعُونَ إِثْمًا، تَمَّمُوا اخْتِرَاعًا مُحْكَمًا. وَدَاخِلُ الإِنْسَانِ وَقَلْبُهُ عَمِيقٌ."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اِسْتَمِعْ يَا اللهُ صَوْتِي فِي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شَكْوَايَ."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ خَوْفِ الْعَدُوِّ احْفَظْ حَيَاتِي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس أنها صرخة"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ربنا يسوع المتألم في أحداث صلبه، كما هو متألم خلال جسده الكنيسة، التي تعاني من"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الآلام عبر كل العصور."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنها صرخة كل مؤمن يُصلَب مع سيده،"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويحتمل الآلام لأجله. ليس من مؤمنٍ حقيقي لا يسقط تحت الآلام."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس أن هذه"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصرخة يقدمها الشهداء عند اضطهادهم. وقد جاء في ابن سيراخ: \"هل توكل أحد على"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب فخزي...؟ أو هل دعاه فازدراه؟\" (سي 2: 10). هذه الصرخة لا تهدف إلى الخلاص"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من الاستشهاد، إنما الخلاص من الخوف من الاستشهاد."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس: [هذه"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الصلاة هي صوت الشهداء، \"خلِّص نفسي من الخوف من العدو\"، لا لكي لا"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقتلني العدو، وإنما لكي لا أخاف العدو وهو يقتلني... إنني أريد ألا أخاف ذاك الذي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقتل الجسد، بل أخاف من له سلطان أن يقتل كلًا من الجسد والنفس في نار جهنم. فإنني"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لست أريد أن أتحرر من الخوف، وإنما من خوف العدو وذلك خلال خوف الرب بكوني"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خادمًا.]"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا إن تاريخ الكنيسة مشحون بالضيقات"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والتجارب، فلا يظن الأشرار أن لهم سلطانًا على كنيسة الله، وإنما يضطهدون حسبما"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسمح لهم السيد المسيح. بهذا لا يخشى المؤمن التجارب والمحن."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "استجب"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا الله تضرعي، ونجني من خوف العدو، أي أيدني فلا أخاف من الأعداء."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نقول أيضًا إن الخوف نوعان: خوف الله"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وخوف الناس. أما مخافة الرب فهي محبة، وأما الخوف من الناس فهو عدو. يطلب النبي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إزالة الخوف من الناس، مثل شاول وأمثاله، لأنه خوف عدو مضر للنفس. لذلك يقول: نج"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسي. عن هذا الخوف يقول إشعياء النبي: \"لا تخافوا خوفه، ولا ترهبوا. قدسوا رب الجنود فهو خوفكم، وهو رهبتكم، ويكون لكم تقديسًا\" (راجع إش 8: 12-13)."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسْتُرْنِي مِنْ مُؤَامَرَةِ الأَشْرَارِ،"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ جُمْهُورِ فَاعِلِي الإِثْمِ [2]."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد تجمهر المتآمرون الأشرار على ربنا"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسوع المسيح. هكذا نحن كجسد المسيح نقبل الآلام الجسدية والمؤامرات التي تُدبر"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ضدنا، إذ تتحول الآلام إلى أمجاد في يوم الرب العظيم، أما نفوسنا فمحفوظة هنا تحت"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحماية الإلهية."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يطلب"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النبي حفظه من الأشرار، الذين بمؤامراتهم يفسدون المعتقدات السليمة، والذين"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يمارسون العنف والظلم."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الَّذِينَ صَقَلُوا أَلْسِنَتَهُمْ"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كَالسَّيْفِ."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَوَّقُوا سَهْمَهُمْ كَلاَمًا مُرًّا"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشبه ألسنه الأشرار بالسيف الحاد والقوس"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يوجه"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرماح للقتل."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما أشارت المزامير إلى ألسنة"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشرار التي تتحول إلى سهام ورماح وسيوف بسبب الحقد والدهاء (مز 55: 21؛ 57: 4؛ 59: 7). لقد عانى داود المرتل من هذه السهام القاتلة بكونه رمزًا لابن داود الذي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بلا لوم، وقد دُبرت مؤامرات لصلبه والخلاص منه."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِيَرْمُوا الْكَامِلَ فِي الْمُخْتَفَي"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَغْتَةً."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَرْمُونَهُ وَلاَ يَخْشُونَ [4]."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سلموه"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للوالي بيلاطس، حتى يظهروا كمن هم أبرياء من قتله. أصدر بيلاطس حكمه ضده، وأمر"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بصلبه، بطريقة صار قاتلًا له. وأنتم يا أيها اليهود قتلتموه. بسيف اللسان، فقد"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحذتهم ألسنتكم. متى قتلتموه، إلا عندما صرختم: \"اصلبه، اصلبه\" (لو 23: 21)؟"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعلق"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس على ما ورد"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في العهد الجديد أن المسيح صُلب في"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقت الساعة السادسة (يو 19: 14)، وأيضًا في"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساعة الثالثة (مر 15: 25)، كيف؟"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ارتفع على الصليب في"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقت الساعة"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السادسة، وفي نفس الوقت صُلب حينما صرخت الجموع: \"اصلبه، اصلبه\" في"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الساعة الثالثة."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صلبه اليهود بألسنتهم وقتلوه كما بسهام"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلماتهم، ونُفذ الصلب جسديًا في وقت الساعة السادسة."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحارب الأشرار الصديق خفية، لذلك"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشبه المرتل مؤامراتهم بالسهام. وكما يقول"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس إن الذين"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحاربون بالسهام يختفون، ويصوبون سهامهم خفية وبسرعة."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"بغتة"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرمونه ولا يخشونه\" [4] يا لقسوة القلب، يريدون قتل ذاك الذي أقام"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموتى! \"بغتة\"، أي بمكرٍ، كما لو كان الأمر غير متوقع، كمن لا"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُرون. فقد ظهر الرب كأنه غير عالمٍ بما يحدث."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُشَدِّدُونَ أَنْفُسَهُمْ لأَمْرٍ"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَدِيءٍ."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَتَحَادَثُونَ بِطَمْرِ فِخَاخٍ."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قَالُوا: مَنْ يَرَاهُمْ؟ [5]"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تشاور الأشرار معًا، ودبروا مؤامراتهم"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خفية، ظانين أنهم يطمرون فخاخهم ليسقط فيها البار، دون أن يراهم أحد."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينطبق هذا على محاكمة السيد المسيح، وكما"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس: [ارتعب الوالي لأنه يحكم على بارٍ، أما هم فلم"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرتعبوا، لأنهم سلموه للقضاء. صاحب السلطان ارتعب، والوحشية لا ترتعب. أراد هو أن"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يغسل يديه، وأما هم فدنسوا ألسنتهم، لماذا؟ \"يشددون أنفسهم لأمرٍ رديءٍ\":"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"اصلبه، اصلبه\". التكرار هنا هو تثبيت الأمر الرديء. لننظر كيف حدث"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا... قالوا: \"ليس لنا ملك إلا قيصر\" (يو 19: 15)... \"إنه مستوجب"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الموت\"... \"دمه علينا وعلى أولادنا\" (مت 27: 25).]"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَخْتَرِعُونَ إِثْمًا تَمَّمُوا"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اخْتِرَاعًا مُحْكَمًا."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَدَاخِلُ الإِنْسَانِ وَقَلْبُهُ"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَمِيقٌ [6]."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هي الاختراعات المُحْكَمة التي خططها"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشرار؟ \"لنَدَعْ تلميذه يخونه، وليس نحن. ليقتله الوالي وليس نحن، لنفعل كل"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء، ونبدو كأننا لم نفعل شيئًا\"."
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"وداخل الإنسان وقلبه عميق\"،"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ظنوا أن الله لا يراهم، والحقيقة أنهم هم لم يروا حقيقة يسوع المسيح. لقد صار"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنسانًا حقيقيًا، لكنه بقي الله الكلمة. رأوه إنسانًا مجردًا، يقدرون على قتله،"
+    },
+    {
+      "section_title": "1. فاعلو الإثم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولم يدركوا سرّ تجسده، واتساع قلبه لكل البشرية."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "7 فَيَرْمِيهِمِ اللهُ بِسَهْمٍ. بَغْتَةً كَانَتْ ضَرْبَتُهُمْ. 8 وَيُوقِعُونَ أَلْسِنَتَهُمْ عَلَى أَنْفُسِهِمْ. يُنْغِضُ الرَّأْسَ كُلُّ مَنْ يَنْظُرُ إِلَيْهِمْ. 9 وَيَخْشَى كُلُّ إِنْسَانٍ، وَيُخْبِرُ بِفِعْلِ اللهِ، وَبِعَمَلِهِ يَفْطَنُونَ. 10 يَفْرَحُ الصِّدِّيقُ بِالرَّبِّ وَيَحْتَمِي بِهِ، وَيَبْتَهِجُ كُلُّ الْمُسْتَقِيمِي الْقُلُوبِ."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فَيَرْمِيهِمِ اللهُ بِسَهْمٍ."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَغْتَةً كَانَتْ ضَرْبَتُهُمْ [7]."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يحمل الأشرار مظاهر المحبة في غشٍ وخداع،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكن الخيانة تختفي في أعماق قلوبهم. أما الله فمن الأعالي يفحص أعماق قلوبهم."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كيف ينطبق هذا على السيد المسيح المصلوب."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد أراد الأشرار أن يقتلوه فجأة بمكرٍ، ولكن ما حدث أن سهامهم ارتدت إليهم"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فقتلهم. وقد عبَّر"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أغسطينوس",
+      "text": "القديس أغسطينوس عن ذلك بقوله: [لم يقتل الموت الرب، بل"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب قتل الموت. أما هم فقتلهم الإثم، لأنهم لم يريدوا أن يقتلوا الإثم، لأنهم لم"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يريدوا أن يقتلوا الإثم.]"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حلّ بهم...؟ انظروا ماذا يحلّ بالنفس الشريرة. إنها تفارق نور الحق، وإذ هي لا ترى"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله تظن أن الله لا يراها."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيُوقِعُونَ أَلْسِنَتَهُمْ عَلَى أَنْفُسِهِمْ."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُنْغِضُ الرَّأْسَ كُلُّ مَنْ يَنْظُرُ"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إِلَيْهِمْ [8]."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "قول آبائي",
+      "father_name": "القديس أثناسيوس الرسولي",
+      "text": "القديس أثناسيوس الرسولي أن"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقاومة الأشرار للرسل بالرغم مما تحمله من خداع وتهديدات، لكنها كنبل الأطفال."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ويوقعون"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ألسنتهم على أنفسهم\". دعوهم يشحذون ألسنتهم مثل سيف، دعوهم يشددون أنفسهم"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأمر رديء، فإنهم يُوقعون ألسنتهم على أنفسهم. هل يمكن أن يقوى هذا ضد الله؟ يقول:"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"يرقد الإثم على نفسه\" (مز 27: 12) [Vulgate]... انظروا الرب الذي قُتل يقوم... ماذا تظنون في ذاك الذي لم"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهبط من الصليب، ومن القبر قام؟ ما هو فحوى ما فعلوه؟"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَخْشَى كُلُّ إِنْسَانٍ وَيُخْبِرُ"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِفِعْلِ اللهِ،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبِعَمَلِهِ يَفْطَنُونَ [9]."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"ويخشى"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل إنسان، ويخبر بفعل الله، وبعمله يفطنون\" [9]... هؤلاء الذين أرادوا"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "منه أن ينزل عن الصليب لم يفطنوا؛ ولكنه عندما قام، وتمجَّد بصعوده إلى السماء"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فطنوا إلى أعمال الله."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَفْرَحُ الصِّدِّيقُ بِالرَّبِّ"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَحْتَمِي بِه،ِ"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَبْتَهِجُ كُلُّ الْمُسْتَقِيمِي"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْقُلُوبِ [10]."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التلاميذ حزانى عند صلب الرب، غلبهم الحزن، وفي أسف تركوه، لقد فقدوا الرجاء. لقد"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قام، وعندما ظهر لهم وجدهم حزانى. لقد أُمسك بعيني رَجُليْن كانا يسيران في"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطريق، حتى لم يعرفاه، ووجدهما يتأوهان ويئنان. اُمسك عنهما إلى أن يشرح لهما"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكتب المقدسة، مظهرًا لهما إن ما حدث كان يجب حدوثه (لو 24: 16 إلخ.). لقد أظهر"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهم في الكتب المقدسة أنه كان يجب أن يقوم في اليوم الثالث... ليتنا إذن نفرح في"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرب لا في أنفسنا. لأن صلاحنا ليس من عندنا، بل هو جعلنا هكذا. هو نفسه صلاحنا،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي يجعلنا مبتهجين."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليته لا يفرح أحد بنفسه، لا يتكل أحد على"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذاته، ولا ييأس أحد من نفسه... \"يبتهج كل المستقيمي القلوب\"، ويُدان"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملتوو القلوب... يوجد الآن أمران أمامك، فاختر حيث لا يزال يوجد زمن... إن صرت"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ملتوي القلب تأتي إلى الدينونة."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي مز 64"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأحتمي بك وأتهلل!"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا هكذا قد فعلوا بك،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أيها العود الرطب،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فماذا يفعلون بي أنا الجاف؟"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دبروا مؤامرات خفية،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وصقلوا ألسنتهم كسيوفٍ قاتلة."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صوَّبوا سهامهم نحو واهب الحياة!"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظنوا أنهم يغتابون حياتك خلسة!"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصروا على مقاومتك والخلاص منك،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظنوا أنه ليس من يراهم، ولا من يعاقبهم."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في غباوة لم يعرفوا أنك رب المجد، مخلص"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العالم."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتحملني"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فيك فلا أخشى إنسانًا،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ولا أضطرب من الموت."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أصير شريكًا حيث أُصلبُ معك،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وأتمتع بقوة قيامتك!"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سهامهم"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ترتد عليهم بغتة."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وما نطقوا به ضدك، صار شاهدًا عليهم."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتعبوا وارتبكوا، إذ سمعوا عن قيامتك."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أما المؤمنون بك، فابتهَجوا وتهللوا."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لك المجد يا من دخلت طريق الصليب،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لتعطي للألم عذوبة،"
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتحملنا معك إلى قوة قيامتك."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وتُصعد قلوبنا بك إلى سماواتك."
+    },
+    {
+      "section_title": "2. التدخل الإلهي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "36 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "37 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "38 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "39 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "40 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "42 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "43 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "44 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "45 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "46 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "47 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "48 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "49 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "50 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "51 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "52 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "53 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "54 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "55 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "56 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "57 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "58 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "59 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "60 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "61 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "62 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "63 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "64 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "65 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "66 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "67 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "68 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "69 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "70 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "71 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "72 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "73 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "74 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "75 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "76 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "77 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "78 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "79 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "80 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "81 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "82 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "83 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "84 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "85 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "86 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "87 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "88 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "89 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "90 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "91 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "92 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "93 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "94 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "95 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "96 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "97 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "98 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "99 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "100 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "101 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "102 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "103 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "104 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "105 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "106 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "107 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "108 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "109 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "110 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "111 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "112 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "113 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "114 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "115 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "116 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "117 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "118 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "119 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "120 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "121 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "122 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "123 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "124 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "125 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "126 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "127 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "128 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "129 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "130 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "131 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "132 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "133 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "134 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "135 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "136 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "137 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "138 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "139 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "140 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "141 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "142 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "143 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "145 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "146 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "147 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "148 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "149 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "150 |"
+    },
+    {
+      "section_title": "مزامير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 64 من سفر المزامير)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wf8273d"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/wf8273d"
     }
   ]
 }

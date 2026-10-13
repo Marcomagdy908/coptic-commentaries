@@ -1,17 +1,3943 @@
 {
-  "book_id": 12,
+  "book_id": "chronicles1",
   "book_title": "تفسير سفر أخبار الأيام الأول",
   "chapter_number": 8,
   "chapter_title": "الأصحاح 8",
   "topic": "الأصحاح 8",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "يأتي بنا",
+      "verses": ""
+    },
+    {
+      "number": 2,
+      "title": "الأمر",
+      "verses": ""
+    },
+    {
+      "number": 3,
+      "title": "مع مقاومة",
+      "verses": ""
+    },
+    {
+      "number": 4,
+      "title": "سبط",
+      "verses": ""
+    },
+    {
+      "number": 5,
+      "title": "نسل",
+      "verses": ""
+    },
+    {
+      "number": 6,
+      "title": "سبط بنيامين",
+      "verses": ""
+    },
+    {
+      "number": 7,
+      "title": "بالع",
+      "verses": ""
+    },
+    {
+      "number": 8,
+      "title": "أشبيل",
+      "verses": ""
+    },
+    {
+      "number": 9,
+      "title": "أخرخ",
+      "verses": ""
+    },
+    {
+      "number": 10,
+      "title": "نوحة",
+      "verses": ""
+    },
+    {
+      "number": 11,
+      "title": "رافا",
+      "verses": ""
+    },
+    {
+      "number": 12,
+      "title": "أدار",
+      "verses": ""
+    },
+    {
+      "number": 13,
+      "title": "جيرا",
+      "verses": ""
+    },
+    {
+      "number": 14,
+      "title": "أبيهود",
+      "verses": ""
+    },
+    {
+      "number": 15,
+      "title": "أبيشوع",
+      "verses": ""
+    },
+    {
+      "number": 16,
+      "title": "نعمان",
+      "verses": ""
+    },
+    {
+      "number": 17,
+      "title": "أخوخ",
+      "verses": ""
+    },
+    {
+      "number": 18,
+      "title": "حورام",
+      "verses": ""
+    },
+    {
+      "number": 19,
+      "title": "آحود أو إهود",
+      "verses": ""
+    },
+    {
+      "number": 20,
+      "title": "جبع",
+      "verses": ""
+    },
+    {
+      "number": 21,
+      "title": "أخيّا",
+      "verses": ""
+    },
+    {
+      "number": 22,
+      "title": "عُزَّا",
+      "verses": ""
+    },
+    {
+      "number": 23,
+      "title": "أخيحود",
+      "verses": ""
+    },
+    {
+      "number": 24,
+      "title": "(شجرايم) أو شحرايم",
+      "verses": ""
+    },
+    {
+      "number": 25,
+      "title": "حوشيم",
+      "verses": ""
+    },
+    {
+      "number": 26,
+      "title": "بعرا",
+      "verses": ""
+    },
+    {
+      "number": 27,
+      "title": "خودش",
+      "verses": ""
+    },
+    {
+      "number": 28,
+      "title": "يوبآب",
+      "verses": ""
+    },
+    {
+      "number": 29,
+      "title": "ظبيا",
+      "verses": ""
+    },
+    {
+      "number": 30,
+      "title": "ملكام",
+      "verses": ""
+    },
+    {
+      "number": 31,
+      "title": "شبيا",
+      "verses": ""
+    },
+    {
+      "number": 32,
+      "title": "مرمة",
+      "verses": ""
+    },
+    {
+      "number": 33,
+      "title": "أبيطوب",
+      "verses": ""
+    },
+    {
+      "number": 34,
+      "title": "ألفعل",
+      "verses": ""
+    },
+    {
+      "number": 35,
+      "title": "عابر",
+      "verses": ""
+    },
+    {
+      "number": 36,
+      "title": "مشعام",
+      "verses": ""
+    },
+    {
+      "number": 37,
+      "title": "شامر",
+      "verses": ""
+    },
+    {
+      "number": 38,
+      "title": "أونو",
+      "verses": ""
+    },
+    {
+      "number": 39,
+      "title": "أونو ولود",
+      "verses": ""
+    },
+    {
+      "number": 40,
+      "title": "شمع",
+      "verses": ""
+    },
+    {
+      "number": 41,
+      "title": "أيلون",
+      "verses": ""
+    },
+    {
+      "number": 42,
+      "title": "أخيو",
+      "verses": ""
+    },
+    {
+      "number": 43,
+      "title": "رجل من",
+      "verses": ""
+    },
+    {
+      "number": 44,
+      "title": "رجل آخر من",
+      "verses": ""
+    },
+    {
+      "number": 45,
+      "title": "شاشق",
+      "verses": ""
+    },
+    {
+      "number": 46,
+      "title": "يريموت",
+      "verses": ""
+    },
+    {
+      "number": 47,
+      "title": "زبديا",
+      "verses": ""
+    },
+    {
+      "number": 48,
+      "title": "عراد",
+      "verses": ""
+    },
+    {
+      "number": 49,
+      "title": "عادر",
+      "verses": ""
+    },
+    {
+      "number": 50,
+      "title": "ميخائيل",
+      "verses": ""
+    },
+    {
+      "number": 51,
+      "title": "يشفة",
+      "verses": ""
+    },
+    {
+      "number": 52,
+      "title": "يوخا",
+      "verses": ""
+    },
+    {
+      "number": 53,
+      "title": "بريعة",
+      "verses": ""
+    },
+    {
+      "number": 54,
+      "title": "مشلام",
+      "verses": ""
+    },
+    {
+      "number": 55,
+      "title": "حزقي",
+      "verses": ""
+    },
+    {
+      "number": 56,
+      "title": "حابر",
+      "verses": ""
+    },
+    {
+      "number": 57,
+      "title": "يشمراي",
+      "verses": ""
+    },
+    {
+      "number": 58,
+      "title": "يزليا",
+      "verses": ""
+    },
+    {
+      "number": 59,
+      "title": "يوباب",
+      "verses": ""
+    },
+    {
+      "number": 60,
+      "title": "ياقيم",
+      "verses": ""
+    },
+    {
+      "number": 61,
+      "title": "زبدي",
+      "verses": ""
+    },
+    {
+      "number": 62,
+      "title": "أليعيناي",
+      "verses": ""
+    },
+    {
+      "number": 63,
+      "title": "صلتاي",
+      "verses": ""
+    },
+    {
+      "number": 64,
+      "title": "إليئيل",
+      "verses": ""
+    },
+    {
+      "number": 65,
+      "title": "عدايا أو عداية",
+      "verses": ""
+    },
+    {
+      "number": 66,
+      "title": "برايا",
+      "verses": ""
+    },
+    {
+      "number": 67,
+      "title": "شمرة",
+      "verses": ""
+    },
+    {
+      "number": 68,
+      "title": "شمعي",
+      "verses": ""
+    },
+    {
+      "number": 69,
+      "title": "يشفان",
+      "verses": ""
+    },
+    {
+      "number": 70,
+      "title": "بنياميني",
+      "verses": ""
+    },
+    {
+      "number": 71,
+      "title": "حننيا",
+      "verses": ""
+    },
+    {
+      "number": 72,
+      "title": "عيلام",
+      "verses": ""
+    },
+    {
+      "number": 73,
+      "title": "عنثوثيا",
+      "verses": ""
+    },
+    {
+      "number": 74,
+      "title": "يفديا",
+      "verses": ""
+    },
+    {
+      "number": 75,
+      "title": "فنوئيل",
+      "verses": ""
+    },
+    {
+      "number": 76,
+      "title": "شمشراي",
+      "verses": ""
+    },
+    {
+      "number": 77,
+      "title": "شحريا",
+      "verses": ""
+    },
+    {
+      "number": 78,
+      "title": "عثليا",
+      "verses": ""
+    },
+    {
+      "number": 79,
+      "title": "يعرشيا",
+      "verses": ""
+    },
+    {
+      "number": 80,
+      "title": "إيليا",
+      "verses": ""
+    },
+    {
+      "number": 81,
+      "title": "زكري",
+      "verses": ""
+    },
+    {
+      "number": 82,
+      "title": "يروحام",
+      "verses": ""
+    },
+    {
+      "number": 83,
+      "title": "جبعون",
+      "verses": ""
+    },
+    {
+      "number": 84,
+      "title": "أبو جبعون",
+      "verses": ""
+    },
+    {
+      "number": 85,
+      "title": "معكة",
+      "verses": ""
+    },
+    {
+      "number": 86,
+      "title": "صور",
+      "verses": ""
+    },
+    {
+      "number": 87,
+      "title": "ناداب",
+      "verses": ""
+    },
+    {
+      "number": 88,
+      "title": "جدور",
+      "verses": ""
+    },
+    {
+      "number": 89,
+      "title": "زاكر",
+      "verses": ""
+    },
+    {
+      "number": 90,
+      "title": "مقلوث",
+      "verses": ""
+    },
+    {
+      "number": 91,
+      "title": "نسل شاول",
+      "verses": ""
+    },
+    {
+      "number": 92,
+      "title": "نير",
+      "verses": ""
+    },
+    {
+      "number": 93,
+      "title": "شاول",
+      "verses": ""
+    },
+    {
+      "number": 94,
+      "title": "يوناثان بن شاول",
+      "verses": ""
+    },
+    {
+      "number": 95,
+      "title": "ملكيشوع",
+      "verses": ""
+    },
+    {
+      "number": 96,
+      "title": "أبيناداب",
+      "verses": ""
+    },
+    {
+      "number": 97,
+      "title": "أشبعل",
+      "verses": ""
+    },
+    {
+      "number": 98,
+      "title": "ميخا",
+      "verses": ""
+    },
+    {
+      "number": 99,
+      "title": "فيثون",
+      "verses": ""
+    },
+    {
+      "number": 100,
+      "title": "مالك",
+      "verses": ""
+    },
+    {
+      "number": 101,
+      "title": "آحاز",
+      "verses": ""
+    },
+    {
+      "number": 102,
+      "title": "يهوعدة",
+      "verses": ""
+    },
+    {
+      "number": 103,
+      "title": "علمث",
+      "verses": ""
+    },
+    {
+      "number": 104,
+      "title": "عزموت",
+      "verses": ""
+    },
+    {
+      "number": 105,
+      "title": "زمري",
+      "verses": ""
+    },
+    {
+      "number": 106,
+      "title": "بنياميني من",
+      "verses": ""
+    },
+    {
+      "number": 107,
+      "title": "قائد في جيش",
+      "verses": ""
+    },
+    {
+      "number": 108,
+      "title": "موصا",
+      "verses": ""
+    },
+    {
+      "number": 109,
+      "title": "بنعة",
+      "verses": ""
+    },
+    {
+      "number": 110,
+      "title": "رافة",
+      "verses": ""
+    },
+    {
+      "number": 111,
+      "title": "ألعاسة",
+      "verses": ""
+    },
+    {
+      "number": 112,
+      "title": "سِتَّةُ بَنِينَ وَهَذِهِ أَسْمَاؤُهُمْ",
+      "verses": ""
+    },
+    {
+      "number": 113,
+      "title": "آصيل",
+      "verses": ""
+    },
+    {
+      "number": 114,
+      "title": "عزريقام",
+      "verses": ""
+    },
+    {
+      "number": 115,
+      "title": "ابن جيرا من",
+      "verses": ""
+    },
+    {
+      "number": 116,
+      "title": "بكرو",
+      "verses": ""
+    },
+    {
+      "number": 117,
+      "title": "إسماعيل",
+      "verses": ""
+    },
+    {
+      "number": 118,
+      "title": "شعريا",
+      "verses": ""
+    },
+    {
+      "number": 119,
+      "title": "عوبديا",
+      "verses": ""
+    },
+    {
+      "number": 120,
+      "title": "حانان",
+      "verses": ""
+    },
+    {
+      "number": 121,
+      "title": "رجل شهير من",
+      "verses": ""
+    },
+    {
+      "number": 122,
+      "title": "عاشق",
+      "verses": ""
+    },
+    {
+      "number": 123,
+      "title": "أولام",
+      "verses": ""
+    },
+    {
+      "number": 124,
+      "title": "يعوش",
+      "verses": ""
+    },
+    {
+      "number": 125,
+      "title": "أليفلط",
+      "verses": ""
+    },
+    {
+      "number": 126,
+      "title": "يلاحظ في",
+      "verses": ""
+    },
+    {
+      "number": 127,
+      "title": "اهتم بنسل",
+      "verses": ""
+    },
+    {
+      "number": 128,
+      "title": "انتهت",
+      "verses": ""
+    },
+    {
+      "number": 129,
+      "title": "أخبار أول",
+      "verses": ""
+    },
+    {
+      "number": 130,
+      "title": "الكتاب المقدس",
+      "verses": ""
+    },
+    {
+      "number": 131,
+      "title": "تقصير الرابط",
+      "verses": ""
+    }
+  ],
+  "sections_count": 546,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "سبط بنيامين ونسل شاول"
+      "text": "اَلأَصْحَاحُ الثَّامِنُ"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "للمرة الثانية"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتحدَّث عن نسل بنيامين، لكن بهدفٍ مختلفٍ، وهو إبراز الأمور الخاصة بملكوت الله:"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "النسب هنا إلى شاول وأهل بيته، لإبراز قيام أول ملكٍ لإسرائيل حسب الفكر"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجسدي، فيه مواصفات يطلبها الشعب في الملك ويفتخر بها وسط الأمم المحيطة بهم،"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليكون له اعتباره وتقديره بين ملوك الأرض، وذلك من جهة قامته وقوته البدنيَّة وجماله"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الجسدي. لكنه فشل في تحقيق صورة الملكوت الإلهي في حياته وفي عبادته كما في"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معاملاته مع الشعب. فكان لابد من عبوره لكي يفسح المجال للملك داود الذي حسب اختيار"
+    },
+    {
+      "section_title": "1. يأتي بنا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله ومشورات النعمة الإلهية."
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثاني إبراز إمكانيات"
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين، إذ وُجِدَ فيه رجال جبابرة بأس، قادرون"
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على حمل القوس. لكن هذه القوة لم تسند شاول الشاب حين وقف جليات الجبار يُعَيِّر رب"
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القوات، ولا سندته في رعايته للشعب، إذ كان ما يشغله شعبيته وسُمْعته وكرامته"
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشخصية. وأخيرًا لم تنقذه هو وبنيه من الموت في خزيٍ وعارٍ في المعركة الأخيرة مع"
+    },
+    {
+      "section_title": "2. الأمر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الفلسطينيين في حياته، إذ مات هو وبنوه وتحققت خطة الله ووعوده باعتلاء داود العرش."
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول الرهيبة لداود والرغبة للخلاص منه، فقد بدأ بعض البنيامينيين وإخوة شاول"
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ينجذبون نحو داود حتى في أثناء حياة شاول، إذ شعروا أن الرب معه، فالتصقوا به."
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ازداد الارتباط بين السبطيْن مع الزمن، وصارا مملكة واحدة مع المُتسلِّلين من مملكة"
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل الشمالية أو المطرودين منها، وتمَّ سبيهم إلى بابل، ورجعا من السبي معًا."
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقتفي السفر"
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا نسل"
+    },
+    {
+      "section_title": "3. مع مقاومة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين بإشارة خاصة إلى شاول ويوناثان."
+    },
+    {
+      "section_title": "1. سبط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنيامين"
+    },
+    {
+      "section_title": "2. نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول"
+    },
+    {
+      "section_title": "2. نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 8: في"
+    },
+    {
+      "section_title": "2. نسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسط الأشواك الكثيفة تُقَدِّم لنا ورودًا جميلة!"
+    },
+    {
+      "section_title": "1. سبط بنيامين",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 وَبَنْيَامِينُ وَلَدَ: بَالَعَ بِكْرَهُ، وَأَشْبِيلَ الثَّانِي، وَأَخْرَخَ الثَّالِثَ، 2 وَنُوحَةَ الرَّابعَ، وَرَافَا الْخَامِسَ. 3 وَكَانَ بَنُو بَالَعَ: أَدَّارَ وَجَيْرَا وَأَبِيهُودَ 4 وَأَبِيشُوعَ وَنُعْمَانَ وَأَخُوخَ 5 وَحَيْرَا وَشَفُوفَانَ وَحُورَامَ. 6 وَهؤُلاَءِ بَنُو آحُودَ. هؤُلاَءِ رُؤُوسُ آبَاءِ سُكَّانِ جَبْعَ، وَنَقَلُوهُمْ إِلَى مَنَاحَةَ، 7 أَيْ: نُعْمَانُ وَأَخِيَا. وَجَيْرَا هُوَ نَقَلَهُمْ، وَوَلَدَ: عُزَّا وَأَخِيحُودَ. 8 وَشَحْرَايِمُ وَلَدَ فِي بِلاَدِ مُوآبَ بَعْدَ إِطْلاَقِهِ امْرَأَتَيْهِ حُوشِيمَ وَبَعْرَا. 9 وَوَلَدَ مِنْ خُودَشَ امْرَأَتِهِ: يُوبَابَ وَظِبْيَا وَمَيْشَا وَمَلْكَامَ 10 وَيَعُوصَ وَشَبْيَا وَمِرْمَةَ. هؤُلاَءِ بَنُو رُؤُوسِ آبَاءٍ. 11 وَمِنْ حُوشِيمَ وَلَدَ: أَبِيطُوبَ وَأَلْفَعَلَ. 12 وَبَنُو أَلْفَعَلَ: عَابِرُ وَمِشْعَامُ وَشَامِرُ، وَهُوَ بَنَى أُونُوَ وَلُودَ وَقُرَاهَا. 13 وَبَرِيعَةُ وَشَمَعُ. هُمَا رَأْسَا آبَاءٍ لِسُكَّانِ أَيَّلُونَ، وَهُمَا طَرَدَا سُكَّانَ جَتَّ. 14 وَأَخِيُو وَشَاشَقُ وَيَرِيمُوتُ 15 وَزَبَدْيَا وَعَرَادُ وَعَادَرُ 16 وَمِيخَائِيلُ وَيِشْفَةُ وَيُوخَا، أَبْنَاءُ بَرِيعَةَ. 17 وَزَبَدْيَا وَمَشُلاَّمُ وَحَزْقِي وَحَابِرُ 18 وَيِشْمَرَايُ وَيَزَلْيَاهُ وَيُوبَابُ، أَبْنَاءُ أَلْفَعَلَ. 19 وَيَاقِيمُ وَزِكْرِي وَزَبْدِي 20 وَأَلِيعِينَايُ وَصِلَّتَايُ وَإِيلِيئِيلُ 21 وَعَدَايَا وَبَرَايَا وَشِمْرَةُ، أَبْنَاءُ شِمْعِي. 22 وَيِشْفَانُ وَعَابِرُ وَإِيلِيئِيلُ 23 وَعَبْدُونُ وَزِكْرِي وَحَانَانُ 24 وَحَنَنْيَا وَعِيلاَمُ وَعَنَثُوثِيَا 25 وَيَفَدْيَا وَفَنُوئِيلُ، أَبْنَاءُ شَاشَقَ. 26 وَشِمْشَرَايُ وَشَحَرْيَا وَعَثَلْيَا 27 وَيَعْرَشْيَا وَإِيلِيَّا وَزِكْرِي، أَبْنَاءُ يَرُوحَامَ. 28 هؤُلاَءِ رُؤُوسُ آبَاءٍ. حَسَبَ مَوَالِيدِهِمْ رُؤُوسٌ. هؤُلاَءِ سَكَنُوا فِي أُورُشَلِيمَ. 29 وَفِي جِبْعُونَ سَكَنَ أَبُو جِبْعُونَ، وَاسْمُ امْرَأَتِهِ مَعْكَةُ. 30 وَابْنُهُ الْبِكْرُ عَبْدُونُ، ثُمَّ صُورُ وَقَيْسُ وَبَعَلُ وَنَادَابُ، 31 وَجَدُورُ وَأَخِيُو وَزَاكِرُ. 32 وَمِقْلُوثُ وَلَدَ شَمَاةَ. وَهُمْ أَيْضًا مَعَ إِخْوَتِهِمْ سَكَنُوا فِي أُورُشَلِيمَ مُقَابِلَ إِخْوَتِهِمْ."
+    },
+    {
+      "section_title": "1. سبط بنيامين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبِنْيَامِينُ وَلَدَ: بَالَعَ بِكْرَهُ،"
+    },
+    {
+      "section_title": "1. سبط بنيامين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَشْبِيلَ"
+    },
+    {
+      "section_title": "1. سبط بنيامين",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الثَّانِيَ وَأَخْرَخَ الثَّالِثَ [1]"
+    },
+    {
+      "section_title": "بالع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "بالع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"البلع\" أو \"الفلك\"."
+    },
+    {
+      "section_title": "أشبيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، وربما كان معناه صورة من صور الاسم \"أشبعل\"، وهو ابن بنيامين ومؤسس أسرة"
+    },
+    {
+      "section_title": "أشبيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحمل اسمه (1 أي 8: 1)."
+    },
+    {
+      "section_title": "أخرخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، وربما معناه \"تابع الأخ\"، وهو الابن الثالث لبنيامين (1 أي 8: 1)."
+    },
+    {
+      "section_title": "أخرخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنُوحَةَ"
+    },
+    {
+      "section_title": "أخرخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الرَّابِعَ وَرَافَا الْخَامِسَ. [2]"
+    },
+    {
+      "section_title": "نوحة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"راحة\". وهو رابع أبناء بنيامين (1 أي 8: 2). ولم يؤسس عشيرة مثلما"
+    },
+    {
+      "section_title": "نوحة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعل إخوته. ولم يرد اسمه مع الذين صحبوا يعقوب إلى مصر، وربما وُلِدَ في مصر."
+    },
+    {
+      "section_title": "رافا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"هو شَفَى أي الله شَفَى\". رجل من نسل بنيامين (1 أي 8: 2)."
+    },
+    {
+      "section_title": "رافا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَانَ"
+    },
+    {
+      "section_title": "رافا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو بَالَعَ أَدَّارَ وَجَيْرَا وَأَبِيهُودَ [3]"
+    },
+    {
+      "section_title": "أدار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمة عبرية، وربما معناها \"الرحب أو العظمة\". وهو اسم رجل بنياميني هو ابن بالع (1 اي 8: 3). وقد ورد هذا الاسم في بعض المخطوطات العبرية واليونانية باسم \"أرد\""
+    },
+    {
+      "section_title": "أدار",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُرَجَّح أن هذا هو الصواب."
+    },
+    {
+      "section_title": "جيرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \"نزيل لدى الله\". اسم رجل من أولاد بنيامين، واسم حفيد"
+    },
+    {
+      "section_title": "جيرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لبنيامين بن بالع (1 أي 8: 3، 5، 7)."
+    },
+    {
+      "section_title": "أبيهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"أبي جلال أو الأب جلال\". وكان ابن بالع بكر بنيامين."
+    },
+    {
+      "section_title": "أبيهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَبِيشُوعَ وَنُعْمَانَ وَأَخُوخَ [4]"
+    },
+    {
+      "section_title": "أبيشوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"أبو الخلاص\". وهو اسم رجل بنياميني من بيت بالع."
+    },
+    {
+      "section_title": "نعمان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"نعيم\"."
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، وربما معناه \"أخوي\". وهو اسم لابن بالع من"
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين (1 أي 8: 4)."
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُحتمَل إنه هو نفس الشخص المذكور باسم أخيا في [7] من نفس الأصحاح."
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَيْرَا"
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَفُوفَانَ وَحُورَامَ. [5]"
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفوفان أو"
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شفوفام"
+    },
+    {
+      "section_title": "أخوخ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حيَّة\". وهو بنياميني، رأس عشيرة الشفوفاميين."
+    },
+    {
+      "section_title": "حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم فينيقي وعبري، معناه \"الأخ رفيع\". وهو بنياميني، ربما ابن بالع."
+    },
+    {
+      "section_title": "حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهَؤُلاَءِ"
+    },
+    {
+      "section_title": "حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو آحُودَ."
+    },
+    {
+      "section_title": "حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ"
+    },
+    {
+      "section_title": "حورام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُؤُوسُ آبَاءِ سُكَّانِ جَبْعَ وَنَقَلُوهُمْ إِلَى مَنَاحَةَ [6]"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الاتحاد\". كان قاضيًا أشْول، وهو من سبط أبناء اليمين \"بنيامين\""
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(قض 3: 12-30)."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يربط"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس بين صراخ الشعب بعد ثماني عشرة سنة وإرسال الله إهود الأعسر"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كمُخَلِّصٍ لهم، فيقول:"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مكتوب: \"فعبد"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنو إسرائيل عجلون ملك"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب ثماني عشرة سنة\" (قض 3: 14). لاحظ أن الكتاب المقدس يُشير إلى مقدار العقاب وهو يذكر \"ثماني سنين\" (قض 3: 8) في المرة الأولى، وهنا \"ثماني عشرة سنة\". من المؤكد أن مدة العقاب حُدِّدت حسب مقدار الخطية وتأخير التوبة. بالنسبة للثماني عشرة سنة في العبودية، لم يذكر أثناء هذه الفترة إنهم صرخوا للرب، أو تحوَّلوا عن شرورهم. ولكن قيل مرة أخرى إنه بعد هذه الثماني عشرة سنة \"صرخ بنو إسرائيل إلى الرب، فأقام لهم الرب مُخَلِّصا إهود بن جيرا البنياميني، رجلاً أعسر\" (قض 3: 15)."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هي نوعية"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الإنسان الذي أُقيم لكي ينقذ شعب إسرائيل؟"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إنه ليس له"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في نفسه ما هو شمالي ليعمله."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بل له يد يمنى في الناحيتين يعملان، ولهذا دُعِي أعسر، لديه يد يمنى في كلا الجهتين[1]."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان مؤهَّلاً"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يكون قائدًا للشعب وقاضيًا للكنيسة. لا يعمل ما هو يساري، وأيضًا [يده اليسرى لا تعرف ما تفعله اليمنى] (مت 6: 3) إنه يميني في الإيمان وفي الأعمال. ليس لديه شيء"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مما لأهل اليسار الذين كُتِبَ عنهم: \"اذهبوا"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عني يا ملاعين إلى النار الأبدية المُعَدَّة لإبليس وملائكته\""
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(مت 25: 41). إذا اعتبرنا إمكانية ما سبق الربط بينه[2]،"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فأنا أعتقد من منظور الفهم الروحي، إن كل القديسين يجب أن يُدعوا \"عُسر\" وعلى العكس"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشيطان وأمراؤه يمكن أن يدعوا \"شماليين\"، لأن كل ما يفعلونه شمالي يقود للنار"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبدية التي لأهل اليسار..."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لِنَرَ ماذا"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فعل هذا القاضي الأعسر. \"فَأَرْسَلَ بَنُو إِسْرَائِيلَ بِيَدِهِ هَدِيَّةً لِعِجْلُونَ مَلِكِ مُوآبَ. فَعَمِلَ إِهُودُ لِنَفْسِهِ سَيْفًا، ذَا حَدَّيْنِ طُولُهُ ذِرَاعٌ، وَتَقَلَّدَهُ تَحْتَ ثِيَابِهِ عَلَى فَخِذِهِ الْيُمْنَى\" (قض 3: 15-16)."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنتم ترون"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن كل ما عمله \"إهود هذا الأعسر\" هو \"يميني\"[3]"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو صالح في اليدين والقدم. لأنه يحمل السيف على فخده اليمنى ليأتي إلى \"ملك"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب\""
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويقتله. كما قلنا سابقًا هؤلاء هم الذين إلههم أقامهم لخلاص الشعب، ويُحَرِّر شعب"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل هؤلاء المُخَلصين أو القضاة الذين يحملون صورة قادة من \"الجمهور السماوي\""
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(لو 2: 13) والقوات العليا الذين يرسلهم الله لمساعدة الذين يصرخون إليه من كل"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قلبهم، الذين من خلال تغيرهم بالتوبة تدركهم الرحمة الإلهية."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتطابق ذلك مع"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحداث أخرى في الكتاب المقدس؛ في سفر الخروج عندما كان آباؤنا شعب إسرائيل يخدمون"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "المصريين والملك فرعون القاسي جدًا لمدة طويلة في صنع \"الطين"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "واللبن\""
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(خر 1: 14)، [صرخوا للرب] (خر 2: 23)، \"فصعد"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صراخهم إلى الله\" (خر 2: 23)."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخرجهم الله"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بواسطة موسى أمام الكل ويذكر الكتاب المقدس أن: الملاك المهلك أُرسِلَ ليهلك كل"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأبكار في مصر، ولم يمس أحدًا من الإسرائيليين (خر 11: 5-7) أُعلِن إنه هناك قوة"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سماوية قادت الشعب بعيدًا عن نير العبودية والتدمير وأطاحت بالمصريين. وحدث شيء"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مشابه عبر التاريخ في أيام الأشوريين مع الملك سنحاريب؛ حيث أُرسِلَ \"ملاك من"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله\"، فحرَّر الشعب من الحصار ومن إبادة وشيكة، ذبح ملاك الرب 185 ألفًا من"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأعداء في ليلةٍ واحدةٍ (2 مل 19: 35)."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لذلك الآن لنفس"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباب يجب أن ننتبه عندما نُسلم للسبي بسبب خطايانا \"يجب أن نصرخ إلى الرب\"."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكننا لا نصرخ بالفم بل من القلب[4]"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حتى إن"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حزن قلبنا [قد ينتج ينبوع من الدموع من العيون] (إر 9: 1)"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"أعوم"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في كل ليلة سريري بدموعي. أذوب فراشي\" (مز 6: 6) إذا"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحوَّلنا من طرق الشر بحيث لا نلمس أعمال الشر مرةً أخرى، إذا توقفنا عن الكبرياء،"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحيث لا يكون بعد أي كبرياء ولا نعرف أي غرور، حينئذٍ يُرسِل لنا الله قوته"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "السماوية التي بها نتحرَّر من قبضة شيطان العبودية، هذه القوة تُقَدِّم لنا كل شيءٍ"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صالحٍ ومفيدٍ، ونهجر"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"رحب"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الطريق الذي يؤدي إلى الهلاك\" (مت 7: 13). يدعونا الله للطريق الصحيح الذي قال عن"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نفسه: \"أنا هو الطريق والحق والحياة\" (يو 14: 6)، يسوع المسيح ربنا \"الذي له المجد"
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والسلطان إلى أبد الآبدين. آمين\" (1 بط 4: 11)[5]."
+    },
+    {
+      "section_title": "آحود أو إهود",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "العلامة أوريجينوس"
+    },
+    {
+      "section_title": "جبع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"تل\"."
+    },
+    {
+      "section_title": "جبع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَيْ نُعْمَانُ"
+    },
+    {
+      "section_title": "جبع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخِيَا. وَجَيْرَا هُوَ نَقَلَهُمْ وَوَلَدَ عُزَّا وَأَخِيحُودَ. [7]"
+    },
+    {
+      "section_title": "أخيّا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"أخي\"."
+    },
+    {
+      "section_title": "عُزَّا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قوة، أن يهوه القوة\". وهو اسم ابن جيرا من أعقاب آحود البنياميني"
+    },
+    {
+      "section_title": "عُزَّا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 8: 7)."
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"أخو الاتحاد\". وكان من نسل أهود من"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من بلدة جبنة (1"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي 8: 7). وقد ذُكِرَ هذا الرجل في بعض المخطوطات باسم أخيهود."
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَحْرَايِمُ وَلَدَ فِي"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بِلاَدِ"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مُوآبَ بَعْدَ إِطْلاَقِهِ امْرَأَتَيْهِ"
+    },
+    {
+      "section_title": "أخيحود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُوشِيمَ وَبَعْرَا. [8]"
+    },
+    {
+      "section_title": "(شجرايم) أو شحرايم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الفجران\". وهو بنياميني أب لأسرة كبيرة (1 أي 8: 8)."
+    },
+    {
+      "section_title": "(شجرايم) أو شحرايم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يشير العهد"
+    },
+    {
+      "section_title": "(شجرايم) أو شحرايم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القديم أحيانًا إلى الطلاق وتعدُّد الزوجات دون تعليق، غير أن هذا لا يعني مَسرَّة"
+    },
+    {
+      "section_title": "(شجرايم) أو شحرايم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله بذلك. فقد أعلن أنه يمقت الطلاق (ملا 2: 15-16)، ويؤكد السيد المسيح: \"إن موسى"
+    },
+    {
+      "section_title": "(شجرايم) أو شحرايم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل قساوة قلوبكم أذن لكم أن تطلقوا نساءكم، ولكن من البدء لم يكن هكذا\" (مت 19: 8)."
+    },
+    {
+      "section_title": "حوشيم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عجلة، انفعال\". واحدة من نساء"
+    },
+    {
+      "section_title": "حوشيم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم البنياميني (1 أي 8: 8، 11)."
+    },
+    {
+      "section_title": "بعرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"محترقة\". وهي امرأة شحايم من"
+    },
+    {
+      "section_title": "بعرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين."
+    },
+    {
+      "section_title": "بعرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَوَلَدَ"
+    },
+    {
+      "section_title": "بعرا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِنْ خُودَشَ امْرَأَتِهِ يُوبَابَ وَظِبْيَا وَمَيْشَا وَمَلْكَامَ. [9]"
+    },
+    {
+      "section_title": "خودش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الهلال\". وهو اسم زوجة"
+    },
+    {
+      "section_title": "خودش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم (1 أي 8: 9)."
+    },
+    {
+      "section_title": "يوبآب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \"صراخ\". وهو اسم رئيسين بنيامينيين (1 أي 8: 9، 18)."
+    },
+    {
+      "section_title": "ظبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"ظبي\". بنياميني ابن"
+    },
+    {
+      "section_title": "ظبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم (1 أي 8: 9)."
+    },
+    {
+      "section_title": "ملكام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"ملكهم\". وهو رئيس بنياميني (1 أي 8: 9)."
+    },
+    {
+      "section_title": "ملكام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَعُوصَ"
+    },
+    {
+      "section_title": "ملكام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَبْيَا وَمِرْمَةَ. هَؤُلاَءِ بَنُو رُؤُوسِ آبَاءٍ. [10]"
+    },
+    {
+      "section_title": "ملكام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعوص:اسم"
+    },
+    {
+      "section_title": "ملكام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"الموعوظ\". رئيس بنياميني ابن شجرايم من زوجته خودش."
+    },
+    {
+      "section_title": "شبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، يُرَجَّح أن يكون معناه \"عُد يا يهوه\" وهو بنياميني، ابن"
+    },
+    {
+      "section_title": "شبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم"
+    },
+    {
+      "section_title": "شبيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 8: 10)، وقد ورد هذا الاسم بصورة \"سكية\" في بعض المخطوطات."
+    },
+    {
+      "section_title": "مرمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"غش\". وهو بنياميني ولد لشحرايم في"
+    },
+    {
+      "section_title": "مرمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "موآب من امرأة خودش."
+    },
+    {
+      "section_title": "مرمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِنْ"
+    },
+    {
+      "section_title": "مرمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حُوشِيمَ وَلَدَ"
+    },
+    {
+      "section_title": "مرمة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَبِيطُوبَ وَأَلْفَعَلَ. [11]"
+    },
+    {
+      "section_title": "أبيطوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"أبي طيب أو صلاح\". وهو اسم رجل بنياميني ابن"
+    },
+    {
+      "section_title": "أبيطوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم واسم أمه"
+    },
+    {
+      "section_title": "أبيطوب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حوشيم (1 أي 8: 11)."
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله قد فعل\". وهو رجل بنياميني ابن"
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم، وكان رئيس بيت من"
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بيوت الآباء (1 أي 8: 1، 8، 11، 12، 18)."
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَلْفَعَلَ: عَابِرُ وَمِشْعَامُ وَشَامِرُ،"
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُوَ بَنَى"
+    },
+    {
+      "section_title": "ألفعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُونُوَ وَلُودَ وَقُرَاهَا. [12]"
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عبر\". يوجد اثنان بنيامينيان لهما نفس الاسم: أحدهما بن ألفعل،"
+    },
+    {
+      "section_title": "عابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والآخر ابن شاشق (1 أي 8: 12، 22، 25)."
+    },
+    {
+      "section_title": "مشعام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"سريع\" وهو بنياميني (1 أي 8: 12)."
+    },
+    {
+      "section_title": "شامر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حارس\". وهو من بني بنيامين (1 أي 8: 12)."
+    },
+    {
+      "section_title": "أونو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قوي\". اسم مدينة في بنيامين. وقد بناها بنياميني يُدعَى شامر."
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ليس لهما ذِكْر مع مدن بنيامين في (يش 18: 21-28). ولود هي لدة في (أع 9: 32)."
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَرِيعَةُ"
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَمَعُ. هيكل،"
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هُمَا"
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رَأْسَا آبَاءٍ لِسُكَّانِ أَيَّلُونَ،"
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُمَا"
+    },
+    {
+      "section_title": "أونو ولود",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طَرَدَا سُكَّانَ جَتَّ. [13]"
+    },
+    {
+      "section_title": "شمع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"خبر\". بنياميني، أحد رؤوس الآباء الذين طردوا سكان جت."
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"بلوطة\". كانت"
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لسبط"
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دان (يش 19: 40-43)، ثم صارت لبنيامين، ثم ليهوذا"
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وبنيامين في زمان رحبعام (2 أي 11: 10)."
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخِيُو"
+    },
+    {
+      "section_title": "أيلون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَاشَقُ وَيَرِيمُوتُ [14]"
+    },
+    {
+      "section_title": "أخيو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"أخوي أو أخو يهوه\". يوجد أكثر من شخص يحمل هذا الاسم، من بينهم:"
+    },
+    {
+      "section_title": "1. رجل من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنيامين من بني ألفعل (1 أي 8: 14)."
+    },
+    {
+      "section_title": "2. رجل آخر من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنيامين وهو ابن يعوئيل (يعيئيل)، من امرأته معكة (1 أي 8: 29-31)."
+    },
+    {
+      "section_title": "شاشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"رغبة\". وهو أحد أبناء ألفعل من"
+    },
+    {
+      "section_title": "شاشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين (1 أي 8: 14، 25)."
+    },
+    {
+      "section_title": "يريموت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"وارم، ضخم، طويل\" وهو رأس أسرة بنيامينية (1 أي 8: 14). ربما كان"
+    },
+    {
+      "section_title": "يريموت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هو نفس يروحام."
+    },
+    {
+      "section_title": "يريموت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزَبَدْيَا وَعَرَادُ وَعَادَرُ [15]"
+    },
+    {
+      "section_title": "زبديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه قد أعطى\"، وهو اسم أطلق على تسعة أشخاص في العهد القديم،"
+    },
+    {
+      "section_title": "زبديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كانوا قليلي الأهمية. اثنان منهم من بني بنيامين وهم ابن بريعة [15-16] وابن ألفعل"
+    },
+    {
+      "section_title": "عراد",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حمار الوحش\"، وهو رجل من سلالة بنيامين (1 أي 8: 15)."
+    },
+    {
+      "section_title": "عادر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قطيع\" وهو ابن الفعل، من بني بنيامين (1 أي 8: 15)."
+    },
+    {
+      "section_title": "عادر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِيخَائِيلُ وَيِشْفَةُ وَيُوخَا أَبْنَاءُ بَرِيعَةَ. [16]"
+    },
+    {
+      "section_title": "ميخائيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من مثل الله\". وهو اسم بنياميني (1 أي 8: 16)."
+    },
+    {
+      "section_title": "يشفة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رئيس بنياميني ابن بريعة (1 أي 8: 16)."
+    },
+    {
+      "section_title": "يوخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو ابن بريعة ورئيس بنياميني (1 أي 8: 16)، وورد اسمه في بعض الترجمات بصورة يوحا."
+    },
+    {
+      "section_title": "بريعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"بارع\". وهو اسم رئيس بنياميني (1 أي 8: 13)."
+    },
+    {
+      "section_title": "بريعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزَبَدْيَا"
+    },
+    {
+      "section_title": "بريعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَشُلاَّمُ وَحَزْقِي وَحَابِرُ [17]"
+    },
+    {
+      "section_title": "مشلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من نال جزاءه\". وهو اسم ثلاثة أشخاص من نسل بنيامين."
+    },
+    {
+      "section_title": "حزقي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قوتي\"، أو اختصار حزقيا. وهو بنياميني، ابن ألفعل."
+    },
+    {
+      "section_title": "حابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"شركة، شريك\". بنياميني، ابن"
+    },
+    {
+      "section_title": "حابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شحرايم من ألفعل."
+    },
+    {
+      "section_title": "حابر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيِشْمَرَايُ وَيَزَلْيَاهُ وَيُوبَابُ أَبْنَاءُ أَلْفَعَلَ. [18]"
+    },
+    {
+      "section_title": "يشمراي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه يحرس\". وهو بنياميني ابن ألفعل (1 أي 8: 18)."
+    },
+    {
+      "section_title": "يشمراي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يزلياه أو"
+    },
+    {
+      "section_title": "يزليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"أزلي\". وهو بنياميني سكن في أورشليم."
+    },
+    {
+      "section_title": "يوباب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \"صراخ\"، وهو اسم رئيسين بنيامينيين."
+    },
+    {
+      "section_title": "يوباب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَاقِيمُ"
+    },
+    {
+      "section_title": "يوباب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزِكْرِي وَزَبْدِي [19]"
+    },
+    {
+      "section_title": "ياقيم",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يقيم\". وهو بنياميني (1 أي 8: 19)."
+    },
+    {
+      "section_title": "زبدي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله قد أعطى\"، وهو رجل من بين بنيامين (1 أي 8: 19)."
+    },
+    {
+      "section_title": "زبدي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَلِيعِينَايُ وَصِلَّتَايُ وَإِيلِيئِيلُ [20]"
+    },
+    {
+      "section_title": "أليعيناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ويُرَجَّح أنه اختصار \"اليهوعيناي\" ومعناه \"عيناه نحو يهوه\". وهو ابن"
+    },
+    {
+      "section_title": "أليعيناي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمعي، واحد من رؤساء بني بنيامين (1 أي 8: 20)."
+    },
+    {
+      "section_title": "صلتاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري معناه \"يهوه ظل أو ملجأ\". بنياميني من أبناء شمعي (1 أي 8: 20)."
+    },
+    {
+      "section_title": "صلتاي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إيليئيل أو"
+    },
+    {
+      "section_title": "إليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهما اسم واحد في الأصل العبري، ومعناه \"إيل هو الله\": اسم رجل بنياميني، وهو بن"
+    },
+    {
+      "section_title": "إليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شمعي (1 أي 8: 21-22)."
+    },
+    {
+      "section_title": "إليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَدَايَا"
+    },
+    {
+      "section_title": "إليئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَرَايَا وَشِمْرَةُ أَبْنَاءُ شَمْعِي. [21]"
+    },
+    {
+      "section_title": "عدايا أو عداية",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من زينة يهوه\". وهو ابن شمعي من بني بنيامين."
+    },
+    {
+      "section_title": "برايا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من خلقه يهوه\". وهو رئيس بنياميني وابن شمعي."
+    },
+    {
+      "section_title": "شمرة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"المراقب أو الحارس\". بنياميني، ابن شمعي (1 أي 8: 21)."
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(بكسر العين) اسم عبري، معناه \"يهوه يسمع\". وهو بنياميني رئيس بيت في عجلون (1 أي 8: 21). ودعي شمع في (1 أي 8: 13)."
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيِشْفَانُ"
+    },
+    {
+      "section_title": "شمعي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَابِرُ وَإِيلِيئِيلُ [22]"
+    },
+    {
+      "section_title": "يشفان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \"هو أقرع\". وهو رئيس بنياميني، ابن شاشق."
+    },
+    {
+      "section_title": "يشفان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعَبْدُونُ"
+    },
+    {
+      "section_title": "يشفان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزِكْرِي وَحَانَانُ [23]"
+    },
+    {
+      "section_title": "1. بنياميني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن شاشق (1 أي 8: 23)."
+    },
+    {
+      "section_title": "2. بنياميني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن يعوئيل الجبعوني (1 أي 8: 30؛ 9: 36)."
+    },
+    {
+      "section_title": "2. بنياميني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَحَنَنْيَا"
+    },
+    {
+      "section_title": "2. بنياميني",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَعِيلاَمُ وَعَنَثُوثِيَا [24]"
+    },
+    {
+      "section_title": "حننيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه قد أنعم\" أو \"قد تحنن\". بنياميني ابن شاشق."
+    },
+    {
+      "section_title": "عيلام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، من أصل أكادي، معناه \"مرتفعات\". وهو ابن شاشق، رئيس بيت في بنيامين (1 أي 8: 24)."
+    },
+    {
+      "section_title": "عنثوثيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان نسبة إلى \"عناثوث\". وهو ابن شاشق، من بني بنيامين."
+    },
+    {
+      "section_title": "عنثوثيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَفَدْيَا"
+    },
+    {
+      "section_title": "عنثوثيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفَنُوئِيلُ أَبْنَاءُ شَاشَقَ. [25]"
+    },
+    {
+      "section_title": "يفديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه يفدي\". وهو بنياميني ابن شاشق (1 أي 8: 25)."
+    },
+    {
+      "section_title": "فنوئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"وجه الله\". وهو اسم رجل بنياميني من أبناء شاشق."
+    },
+    {
+      "section_title": "فنوئيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشِمْشَرَايُ وَشَحَرْيَا وَعَثَلْيَا [26]"
+    },
+    {
+      "section_title": "شمشراي",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنياميني، من أبناء يروحام (1 أي 8: 26)."
+    },
+    {
+      "section_title": "شحريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه هو الفجر\". وهو بنياميني، ابن يروحام (1 أي 8: 26)."
+    },
+    {
+      "section_title": "عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه مرتفع\". وهو اسم ابن يروحام، من بني بنيامين."
+    },
+    {
+      "section_title": "عثليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَعْرَشْيَا وَإِيلِيَّا وَزِكْرِي أَبْنَاءُ يَرُوحَامَ. [27]"
+    },
+    {
+      "section_title": "يعرشيا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه يغرس\". وهو بنياميني ابن يروحام (1 أي 8: 27)."
+    },
+    {
+      "section_title": "إيليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"إلهي يهوه\". والصيغة اليونانية لهذا الاسم هي إلياس، وتستعمل"
+    },
+    {
+      "section_title": "إيليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحيانًا في العربية. وهو اسم ابن يروحام من"
+    },
+    {
+      "section_title": "إيليا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين (1 أي 8: 27)."
+    },
+    {
+      "section_title": "زكري",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"مذكور\"، وهو اسم لثلاثة من رؤساء بنيامين (1 أي 8: 19؛ 23: 27)."
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"من يرحمه (الله)، أو من يروق له\". وهو بنياميني، كان ابناه"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "زعيمين، وسكن في أورشليم (1 أي 8: 27)."
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رُؤُوسُ آبَاءٍ. حَسَبَ مَوَالِيدِهِمْ رُؤُوسٌ."
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سَكَنُوا فِي أُورُشَلِيمَ. [28]"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هنا كما في [32] أشار إلى أورشليم، وسيتحدث عنها بالتفصيل في"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأصحاح التالي."
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَفِي"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جِبْعُونَ سَكَنَ أَبُو جِبْعُونَ، وَاسْمُ امْرَأَتِهِ مَعْكَةُ. [29]"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما هدف إليه"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكاتب هنا، الحديث عن أسلاف شاول وذرِّيته بطريقة غير مباشرة. فالعلاقة التي تربط"
+    },
+    {
+      "section_title": "يروحام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بين الأسماء الواردة هنا هو تقديم الأسرة التي رُفِضَتْ وحلّ محلها أسرة داود."
+    },
+    {
+      "section_title": "جبعون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"تل\". سكنها أسلاف شاول وقتًا من الزمن، وكان لهم نفوذ."
+    },
+    {
+      "section_title": "أبو جبعون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي رئيس مدينة جبعون (1 أخ 9: 35). جبعون مذكورة في (يش 9-10)."
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي، معناه \"ظلم\" وهو اسم امرأة يعوئيل أبي جبعون، تسلسل منهما شاول."
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُهُ"
+    },
+    {
+      "section_title": "معكة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبِكْرُ عَبْدُونُ، ثُمَّ صُورُ وَقَيْسُ وَبَعَلُ وَنَادَابُ [30]"
+    },
+    {
+      "section_title": "صور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي، معناه \"صخر\". وهو ابن مؤسس جبعون (1 أي 8: 30)."
+    },
+    {
+      "section_title": "ناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"كريم\". وهو ابن"
+    },
+    {
+      "section_title": "ناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعوئيل، واسم أمه معكة. وهو من بني بنيامين. وكان"
+    },
+    {
+      "section_title": "ناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسكن في جبعون. وهو رئيس بيته (1 أي 8: 30)."
+    },
+    {
+      "section_title": "ناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَجَدُورُ"
+    },
+    {
+      "section_title": "ناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَأَخِيُو وَزَاكِرُ. [31]"
+    },
+    {
+      "section_title": "جدور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حصن\" أو \"مكان مُسَوَّر\". وهو ابن"
+    },
+    {
+      "section_title": "جدور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يعوئيل، وأخو نير وقيس من أسلاف شاول"
+    },
+    {
+      "section_title": "جدور",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 8: 30-31)."
+    },
+    {
+      "section_title": "زاكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"تذكار\"، رجل من بني بنيامين (1 أي 8: 31)."
+    },
+    {
+      "section_title": "زاكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمِقْلُوثُ"
+    },
+    {
+      "section_title": "زاكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ شَمَاةَ."
+    },
+    {
+      "section_title": "زاكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَهُمْ أَيْضاً"
+    },
+    {
+      "section_title": "زاكر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مَعَ إِخْوَتِهِمْ سَكَنُوا فِي أُورُشَلِيمَ مُقَابِلَ إِخْوَتِهِمْ. [32]"
+    },
+    {
+      "section_title": "مقلوث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عصى\". وهو اسم بنياميني (1 أي 8: 32)."
+    },
+    {
+      "section_title": "مقلوث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شماة أو شمآم"
+    },
+    {
+      "section_title": "مقلوث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنياميني، ابن مقلوث. كان مقيمًا في أورشليم."
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "33 وَنِيرُ وَلَدَ قَيْسَ، وَقَيْسُ وَلَدَ شَاوُلَ، وَشَاوُلُ وَلَدَ يُونَاثَانَ وَمَلْكِيشُوعَ وَأَبِينَادَابَ وَإِشْبَعَلَ. 34 وَابْنُ يَهوُنَاثَانَ مَرِيبْبَعَلُ، وَمَرِيبْبَعَلُ وَلَدَ مِيخَا. 35 وَبَنُو مِيخَا: فِيثُونُ وَمَالِكُ وَتَارِيعُ وَآحَازُ. 36 وَآحَازُ وَلَدَ يَهُوعَدَّةَ، وَيَهُوعَدَّةُ وَلَدَ عَلْمَثَ وَعَزْمُوتَ وَزِمْرِي. وَزِمْرِي وَلَدَ مُوصَا، 37 وَمُوصَا وَلَدَ بِنْعَةَ، وَرَافَةَ ابْنَهُ، وَأَلِعَاسَةَ ابْنَهُ، وَآصِيلَ ابْنَهُ. 38 وَلآصِيلَ سِتَّةُ بَنِينَ وَهذِهِ أَسْمَاؤُهُمْ: عَزْرِيقَامُ وَبُكْرُو وَإِسْمَاعِيلُ وَشَعَرْيَا وَعُوبَدْيَا وَحَانَانُ. كُلُّ هؤُلاَءِ بَنُو آصِيلَ. 39 وَبَنُو عَاشِقَ أَخِيهِ: أُولاَمُ بِكْرُهُ، وَيَعُوشُ الثَّانِي، وَأَلِيفَلَطُ الثَّالِثُ. 40 وَكَانَ بَنُو أُولاَمَ رِجَالًا جَبَابِرَةَ بَأْسٍ يُغْرِقُونَ فِي الْقِسِيِّ، كَثِيرِي الْبَنِينَ وَبَنِي الْبَنِينَ مِئَةً وَخَمْسِينَ. كُلُّ هؤُلاَءِ مِنْ بَنِي بَنْيَامِينَ."
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَنِيرُ"
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ قَيْسَ،"
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَقَيْسُ"
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ شَاوُلَ"
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَشَاوُلُ"
+    },
+    {
+      "section_title": "2. نسل شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ يُونَاثَانَ وَمَلْكِيشُوعَ وَأَبِينَادَابَ وَإِشْبَعَلَ. [33]"
+    },
+    {
+      "section_title": "نير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"نور، سراج\". وهو بنياميني وهو ابن يعوئيل ومعكة، وأبو قيس أبي"
+    },
+    {
+      "section_title": "نير",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول (1 أي 8: 33)."
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُقيم شاول بن قيس أول ملك على إسرائيل. كان له مظهر مثالي كملكٍ من جهة قامته"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وشكله الجسدي، كما أظهر نوعًا من التواضع والشجاعة والكرم عند اختياره ملكًا (1 صم 9)."
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كملك أطاع"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الله في بداية حكمه، فحقَّق نصرات عظيمة ونجاحًا. سرعان ما سقط في الكبرياء، واغتصب"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عمل الكهنوت. اعتماده على ذاته واهتمامه بشعبيته لا بالسلوك حسب إرادة الله، عزله"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عن شعبه وأفقده الكثير، بل وحطَّم شخصيته."
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاول أن يجتذب"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كل جبار بأس ليعمل معه، لكن ليس لمجد الله، وإنما لحساب نمو شعبيته، فنفر منه حتى"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعض أقربائه."
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حاول قتل داود"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أكثر من مرة. حسده لداود وتوجيه كل طاقاته وإمكانياته للخلاص منه أدَّى إلى فشل"
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شاول لا داود."
+    },
+    {
+      "section_title": "شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوناثان أو"
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري،"
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناه \"يهوه أعطى\". كان على نقيض أبيه، كان الوارث الشرعي للعرش، وقد أيقن أن الله"
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختار داود للعرش، وصار له صديقًا حميمًا، وأنقذ حياته من محاولات أبيه لقتله (1 صم 14-31). تعلَّقت نفسه بداود وأحبَّه جدًا كنفسه. بالرغم من تحذير شاول له من داود"
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنه سيستولي على العرش. لم يحسد داود على نصراته وشعبيته."
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اتَّسم"
+    },
+    {
+      "section_title": "يوناثان بن شاول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بالشجاعة والإخلاص والقيادة الصالحة مع الاتكال على الله."
+    },
+    {
+      "section_title": "ملكيشوع",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الملك خلاص\"."
+    },
+    {
+      "section_title": "أبيناداب",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الأب كريم أو منتدب\"."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري ومعناه \"رجل البعل\"، وهو الاسم الأول لأيشبوشت بن شاول (1 أي 8: 33)، أي"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجل عار. المقصود في تغيير الاسم الاحتقار لبعل."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَابْنُ"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُونَاثَانَ مَرِيبْبَعَلُ،"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمَرِيبْبَعَلُ وَلَدَ مِيخَا. [34]"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مريببعل،"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو مفيبوشث بن يوناثان وحفيد شاول، لأن لفظة بعل أُبدلت بلفظة \"بوشث\" بقصد"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الاحتقار. مفيبوشث: اسم عبري، معناه \"إزالة الأصنام\"."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوجد اسمان"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مرتبطان بالإله الصنم \"بعل\"، وهما"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشبعل ومريببعل. هذان الاسمان تغيَّرا في (2 صم 2: 8؛ 9: 6)، وهما إيشبوشث ومفيبوشث[6]."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما كان عمره"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خمس سنين وقع من يدي مربيته، فأصابه عرج لازمه طوال عمره. مفيبوشث هذا فتش عنه داود"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعدما صار ملكًا، وأسكنه في قصره، وردَّ إليه ما كان لأبيه، غير أنه إذ ظهرت منه"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بعض علامات الخيانة مدة عصيان أبشالوم، عاد فأخذ منه أولاً كل ما كان له، وأعطاه"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لصيبا غلامه. ثم بعد ذلك أشفق عليه، فأعطى النصف لصيبا، وردَّ إليه النصف الآخر."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ويُدعَى أيضًا مريبعل (1 أي 8: 34)."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لماذا ذكر"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تغيير الاسمين في صموئيل الثاني، وليس في أخبار الأيام؟"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صموئيل الثاني"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كان الكتاب المقدس العبري في القسم الثاني نبويم (الأنبياء)"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Nebiwim."
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذه الأسفار كانت تُقرأ في المجمع، حيث لا يليق ذكر اسم إله وثني \"البعل\"، فالقارئ"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يستبدل كلمة \"بعل\" إلى \"بوشيث bosheth\""
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "معناها \"عاري\". هذا التغيير اُستخدم في نص الكتاب، أما في سفريّ أخبار الأيام لم"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تكن توجد حاجة إلى هذا التغيير، إذ كان السفران في القسم الثالث \"كتوبيم\""
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Ketubim"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ومعناها \"الكتابات\". لم تكن أسفار هذا القسم تُقرَأ في المجمع إلى وقت متأخر. هذا"
+    },
+    {
+      "section_title": "أشبعل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُوَضِّح أن نصوص الكتاب المقدس كانت مرتبطة بالعبادة."
+    },
+    {
+      "section_title": "ميخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"مثل يهوه\". وهو ابن مفيبوشث أو مريبعل وحفيد يوناثان."
+    },
+    {
+      "section_title": "ميخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "ميخا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مِيخَا: فِيثُونُ وَمَالِكُ وَتَارِيعُ وَآحَازُ. [35]"
+    },
+    {
+      "section_title": "فيثون",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ابن يوناثان بن شاول (1 أي 8: 35)."
+    },
+    {
+      "section_title": "مالك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"ملك\"."
+    },
+    {
+      "section_title": "مالك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريع أو تحريم"
+    },
+    {
+      "section_title": "مالك",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"مكار\". وهو رجل من نسل شاول من جهة يوناثان."
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"هو أمسك\" أي \"الرب أمسك\". وهو ابن ميخا من نسل يوناثان."
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَآحَازُ"
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ"
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يَهُوعَدَّةَ،"
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَيَهُوعَدَّةُ وَلَدَ عَلْمَثَ وَعَزْمُوتَ وَزِمْرِي."
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَزِمْرِي"
+    },
+    {
+      "section_title": "آحاز",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ مُوصَا [36]"
+    },
+    {
+      "section_title": "يهوعدة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \"يهوه عدّ\". وهو ابن آحاز من نسل يوناثان بن شاول (1 أي 8: 36)."
+    },
+    {
+      "section_title": "علمث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"إخفاء\" وهو ابن"
+    },
+    {
+      "section_title": "علمث",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوعدة، من بني بنيامين، من أحفاد الملك شاول (1 أي 8: 36؛ 9: 42)."
+    },
+    {
+      "section_title": "عزموت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الموت قوي\". وهو: ابن"
+    },
+    {
+      "section_title": "عزموت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يهوعدة، وأحد أحفاد يهوناثان."
+    },
+    {
+      "section_title": "زمري",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ربما كان معناه \" من يشبه بقر الوحش\". يوجد أكثر من شخص يحمل هذا الاسم،"
+    },
+    {
+      "section_title": "1. بنياميني من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "نسل يوناثان بن شاول (1 أي 8: 36)."
+    },
+    {
+      "section_title": "2. قائد في جيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إسرائيل، كان على نصف مركبات أيلة بن بعشا ملك إسرائيل. ثم فتن على سيده وقتله،"
+    },
+    {
+      "section_title": "2. قائد في جيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "متممًا القضاء الإلهي على بيت بعشا. وقد اعتقد بعضهم أنه من نسل شاول، حاول أن"
+    },
+    {
+      "section_title": "2. قائد في جيش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يسترجع المُلك القديم (1 مل 16: 10-11)."
+    },
+    {
+      "section_title": "موصا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"خروج\"، وهو اسم رجل من نسل شاول."
+    },
+    {
+      "section_title": "موصا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَمُوصَا"
+    },
+    {
+      "section_title": "موصا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلَدَ بِنْعَةَ وَرَافَةَ ابْنَهُ وَأَلِعَاسَةَ ابْنَهُ وَآصِيلَ ابْنَهُ [37]"
+    },
+    {
+      "section_title": "بنعة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهو ابن موصا من نسل يوناثان بن شاول (1 أي 8: 37)."
+    },
+    {
+      "section_title": "رافة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"يهوه شفى أي الله شفى\". وهو رجل من نسل شاول."
+    },
+    {
+      "section_title": "ألعاسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبراني، معناه \"قد صنع الله\". وهو اسم رجل من نسل شاول ويوناثان ابنه (1 أي 8: 33-37). وقد ورد ذكره في هذا النص الأخير بصورة \"العسة\"."
+    },
+    {
+      "section_title": "ألعاسة",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَلآصِيلَ"
+    },
+    {
+      "section_title": "سِتَّةُ بَنِينَ وَهَذِهِ أَسْمَاؤُهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَزْرِيقَامُ وَبُكْرُو وَإِسْمَاعِيلُ وَشَعَرْيَا وَعُوبَدْيَا وَحَانَانُ."
+    },
+    {
+      "section_title": "سِتَّةُ بَنِينَ وَهَذِهِ أَسْمَاؤُهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ"
+    },
+    {
+      "section_title": "سِتَّةُ بَنِينَ وَهَذِهِ أَسْمَاؤُهُمْ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ بَنُو آصِيلَ. [38]"
+    },
+    {
+      "section_title": "آصيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، ومعناه \"شريف أو أصيل\". وهو اسم رجل من نسل يوناثان بن شاول."
+    },
+    {
+      "section_title": "عزريقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قام عوني\". يوجد أكثر من شخص يحمل هذا الاسم، من بينهم:"
+    },
+    {
+      "section_title": "عزريقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "1. ابن آصيل،"
+    },
+    {
+      "section_title": "عزريقام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أحد أعقاب يهوناثان بن شاول (1 أي 8: 38)."
+    },
+    {
+      "section_title": "2. ابن جيرا من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعقاب آحود البنياميني (1 أي 8: 6)."
+    },
+    {
+      "section_title": "بكرو",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"بكر\". وهو ابن آصيل (1 أي 8: 38)."
+    },
+    {
+      "section_title": "إسماعيل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبري، معناه \"يسمع الله\". وهو رجل بنياميني يُدعَى إسماعيل بن آصيل."
+    },
+    {
+      "section_title": "شعريا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قدرة يهوه\". وهو رجل من نسل شاول (1 أي 8: 38)."
+    },
+    {
+      "section_title": "عوبديا",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"عبد يهوه\" وهو ابن آصيل، من أحفاد يهوشافاط بن شاول (1 أي 8: 38؛ 9: 44)."
+    },
+    {
+      "section_title": "حانان",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"حنان، رحيم، كريم\". يوجد أكثر من شخص يحمل هذا الاسم، من بينهم:"
+    },
+    {
+      "section_title": "1. رجل شهير من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنيامين، ابن شاشاق (1 أي 8: 23)."
+    },
+    {
+      "section_title": "1. رجل شهير من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "2. ابن آصيل،"
+    },
+    {
+      "section_title": "1. رجل شهير من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من نسل يوناثان ابن شاول (1 أي 8: 38)."
+    },
+    {
+      "section_title": "1. رجل شهير من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنُو"
+    },
+    {
+      "section_title": "1. رجل شهير من",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَاشِقَ أَخِيهِ أُولاَمُ بِكْرُهُ وَيَعُوشُ الثَّانِي وَأَلِيفَلَطُ الثَّالِثُ."
+    },
+    {
+      "section_title": "عاشق",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"قسوة\". وهو رجل من سلالة شاول، من البنيامينيين."
+    },
+    {
+      "section_title": "أولام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"أول\". وهو ابن عاشق من"
+    },
+    {
+      "section_title": "أولام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين (1 أي 8: 39). وكان بنو أولام"
+    },
+    {
+      "section_title": "أولام",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبطال حرب (1 أي 8: 40)."
+    },
+    {
+      "section_title": "يعوش",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم سامي، معناه \"الله يعين\"، وهو رأس بيت بنيامين من نسل شاول."
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اسم عبري، معناه \"الله نجاه\". وهو ابن عاشق من"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(1 أي 8: 39)."
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَكَانَ"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بَنُو أُولاَمَ رِجَالاً جَبَابِرَةَ بَأْسٍ يُغْرِقُونَ فِي الْقِسِيِّ كَثِيرِي"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَنِينَ"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وَبَنِي"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الْبَنِينَ مِئَةً وَخَمْسِينَ."
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كُلُّ"
+    },
+    {
+      "section_title": "أليفلط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هَؤُلاَءِ مِنْ بَنِي بِنْيَامِينَ. [40]"
+    },
+    {
+      "section_title": "1. يلاحظ في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أنساب جميع"
+    },
+    {
+      "section_title": "1. يلاحظ في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط أنه لا توجد أية إشارة لأي ملك لإسرائيل بعد الانشقاق من بيت"
+    },
+    {
+      "section_title": "1. يلاحظ في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "داود. كما لم تذكر شيئًا عن بيت يربعام وبعشا وعمري وياهو، لأن هؤلاء جميعًا كانوا"
+    },
+    {
+      "section_title": "1. يلاحظ في",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عبدة أوثان."
+    },
+    {
+      "section_title": "2. اهتم بنسل",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يوناثان بن شاول ربما من أجل إخلاصه ووفائه في صداقته مع داود ."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأنساب بأولام وأبنائه، الذين صارت عائلتهم ذات شهرة خاصة في"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبط بنيامين بسبب"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثرة بنيه وبني بنيه الذين بلغوا مئة وخمسين عُرِفُوا كجبابرة بأس. سرّ عظمتهم ليس"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في سلطانهم أو مراكزهم الاجتماعية أو غناهم، وإنما في خدمتهم لوطنهم، لأنهم جبابرة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بأس في المعارك."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من وحي 1 أي 8"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأشواك الكثيفة تُقَدِّم لنا ورودًا جميلة!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يكن ممكنًا"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأسباط إسرائيل أن تتخيَّل ما بلغه بنيامين من فسادٍ (قض 19-20)."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صار بنو"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بنيامين بني بليعال الفاسدين."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في قباحة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اعتدوا على سرية لاوي طول الليل."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الصباح"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وجدوها ساقطة على باب البيت ميّتة ويديها على العتبة."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قسَّم اللاوي"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جسمها ووزَّعه على"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هجمت"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "على بنيامين، وكادوا يفنون السبط كله (قض 21: 3)."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من هذه السبط قام شاول الملك الذي عصى الرب."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أهمل تابوت"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العهد، وفي ضيقه استشار الجان لا الرب."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا للمرارة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التي حلَّت بكل شعب الله بسبب هذه السبط!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وسط هذه الأشواك الخطيرة رعى الله ورودًا جميلة،"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تحمل رائحة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحب والقداسة."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أية زهرة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يتعهَّدها الله مثل يوناثان بن شاول."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يبالِ أن"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يرث العرش من أبيه،"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ما دام الرب"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اختار رجل الله داود وارثًا للعرش!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أَحبَّ داود"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنفسه، وقَدَّمَ له ثوبه وسيفه."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بذل كل جهده"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لينقذ مُرتل إسرائيل الحلو من يَدَي شاول أبيه الشرير!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرون من أقارب شاول وهم رجال بأس،"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من أجل الرب"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تركوا شاول والتصقوا بداود."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "سبقوا الكثير"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط ليُمَّلكوا داود على كل إسرائيل."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صاروا"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رجال داود وحَرَسه، لأنه رجل الله."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عندما جرت"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأسباط وراء يربعام الذي شق مملكة إسرائيل."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صمَّم بنيامين"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن يلتصق"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بمملكة يهوذا."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يا لهم من ورود"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حبٍ وإخلاصٍ وأمانة لله ولوصاياه وتدابيره."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حقًا يشهد بنيامين في يوم الرب العظيم،"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أن الرب غرسهم"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كجنة مُبهِجة تحمل رائحة المسيح الذكية،"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط سبط له"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أخطاؤه وخطاياه الجسيمة!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عَلِّمني ألا احتقر أيّة جماعة من أجل الفاسدين فيها."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ففي وسط الظلمة"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الحالكة نور نعمتك يُشرِق على كثيرين!"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في وسط"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الظلام"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشديد تتلألأ كواكب بهية تشهد لنعمتك."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لأنه يعمل بيده اليسرى كما اليمنى."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي المعاني الروحية لكلمة أعسر."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أي صالح."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكلمة المستخدمة هنا"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "mente"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تعني ذكاء، الفكر، النية."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عظات على القضاة، عظة 3: 5-6."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Cf. P. H. Reardon: History and"
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Worship, Orthodox Christian Reflections on the Books of Chronicles, p. 49."
+    },
+    {
+      "section_title": "3. انتهت",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "أخبار أول",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 8 من سفر أخبار الأيام الأول)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/kp67h7t"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/kp67h7t"
     }
   ]
 }

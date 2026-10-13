@@ -1,17 +1,957 @@
 {
-  "book_id": 27,
+  "book_id": "isaiah",
   "book_title": "تفسير سفر إشعياء",
   "chapter_number": 39,
   "chapter_title": "الأصحاح 39",
-  "topic": "",
-  "chapter_outline": [],
-  "sections_count": 1,
+  "topic": "الأصحاح 39",
+  "chapter_outline": [
+    {
+      "number": 1,
+      "title": "استعراض الذخائر",
+      "verses": "1 -2"
+    },
+    {
+      "number": 2,
+      "title": "الأمر بسحب الذخائر",
+      "verses": "3 -7"
+    },
+    {
+      "number": 3,
+      "title": "اعتراف حزقيا بالخطأ",
+      "verses": "8"
+    }
+  ],
+  "sections_count": 155,
   "sections": [
     {
       "section_title": null,
       "content_type": "شرح",
       "father_name": null,
-      "text": "حزقيا يكشف ذخائره"
+      "text": "حزقيا يكشف"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ذخائره"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أُختتم الجزء الأول من سفر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إشعياء بهذا الأمر الصعب: سقوط حزقيا الملك في الكبرياء وكشف كل ذخائره وذخائر"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "آبائه لسفراء ملك بابل من باب الاستعراض لغناه ومجده، لذا صدر الأمر بسحبها جميعًا"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إلى بابل."
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد ارتفع نجم أورشليم بعد هزيمة ملك آشور"
+    },
+    {
+      "section_title": null,
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الذي أرعب جميع الأمم وابتدأ الغرور يتسلل إلى قلب حزقيا ليدفع به إلى الهاوية."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "1 فِي ذلِكَ الزَّمَانِ أَرْسَلَ مَرُودَخُ بَلاَدَانَ بْنُ بَلاَدَانَ مَلِكُ بَابِلَ رَسَائِلَ وَهَدِيَّةً إِلَى حَزَقِيَّا، لأَنَّهُ سَمِعَ أَنَّهُ مَرِضَ ثُمَّ صَحَّ. 2 فَفَرِحَ بِهِمْ حَزَقِيَّا وَأَرَاهُمْ بَيْتَ ذَخَائِرِهِ: الْفِضَّةَ وَالذَّهَبَ وَالأَطْيَابَ وَالزَّيْتَ الطَّيِّبَ، وَكُلَّ بَيْتِ أَسْلِحَتِهِ وَكُلَّ مَا وُجِدَ فِي خَزَائِنِهِ. لَمْ يَكُنْ شَيْءٌ لَمْ يُرِهِمْ إِيَّاهُ حَزَقِيَّا فِي بَيْتِهِ وَفِي كُلِّ مُلْكِهِ."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ارتفع نجم حزقيا بسبب هزيمة سنحاريب ملك آشور،"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وقدم حزقيا مزمور شكر لله خاصة بعد ما وهبه الله 15 عامًا على عمره، لكنه لم يمارس"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الشكر بحياته إذ ارتفع قلبه وتشامخ (2 أي 32: 26)، وصار له \"غنى وكرامة كثيرة"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا وعمل لنفسه خزائن للفضة والذهب والحجارة الكريمة والأطياب والأتراس وكل آنية"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ثمينة... وعمل لنفسه أبراجًا ومواشي غنم وبقر بكثرة لأن الله أعطاه أموالًا كثيرة"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جدًا\" (2 أي 32: 27-29)."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تركه الله في وسط هذا الغنى والمجد إلى"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حين وأراد أن يكتشف قلبه (2 أي 32: 31) فسمح أن يرسل مردوخ بلادان ملك بابل رسائل"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وهدية بعد شفائه. كان يليق بحزقيا أن يُمجد الله ويعرض نعمة الله لا أن يكشف عن"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خزائنه. لقد سقط في الاعتداد بذاته والإعلان عن مجده كما سبق أن سقط شمشون الذي"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أعلن عن سرّ قوته للزانية فانهار."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"مردوخ\" لقب حمله أشخاص"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرون، وهم اسم ملك الآلهة مذكور مع بيل (إر 50: 2)، ويرمز إليه بالسيار المريخ،"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كثيرًا ما يكون اسمه جزءًا من اسم ملك من ملوك بابل، أما \"بلادان\""
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فمعناها: \"قد أُعطى ابناُ\"."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقول"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس هيبوليتس",
+      "text": "القديس هيبوليتس: [دُهش"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مردوخ الكلداني ملك بابل في ذلك الحين إذ درس الفلك وقاس هذه الأجرام وعرف السبب"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فارسل خطابًا وهدايا كما فعل المجوس الذين من المشرق مع المسيح]."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "اندفع حزقيا بكبرياء قلبه وحبه للمجد"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الزمني الباطل ليكشف كل ما لديه لرسل مردوخ بلادان: \"لم يكن شيء لم يرهم"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "إياه حزقيا في بيته وفي كل ملكه\" [2]. لم يختبر حزقيا كلمات داود"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أبيه\" مجد ابنه الملك من الداخل\" (مز 45)."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يُستعبدون بغيرة لمجد هذا العالم الحاضر لا يقدرون أن ينالوا المجد الذي من عند الله."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لهذا يوبخهم السيد: \"كيف تقدرون أن تؤمنوا وأنتم تقبلون مجدًا من الناس"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "والمجد الذي من الإله (الواحد) لستم تطلبونه؟\" (راجع يو 5: 44)."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هذا الألم هو نوع من السكر الشديد، من"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يخضع له يصعُب علاجه. يفصل نفوس أسراه عن السمويات، ويُسمِرّها في الأرض، ولا"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يدعها تتطلع إلى النور الحقيقي بل يحثها على التمرغ في الوحل؛ يُقيم عليها سادة"
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عنفاء يسيطرون عليها حاجة إلى إصدار أوامر."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "من يُصاب بهذا المرض يعمل حسب هواه..."
+    },
+    {
+      "section_title": "1. استعراض الذخائر",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم"
+    },
+    {
+      "section_title": "الذخائر",
+      "content_type": "نص كتابي",
+      "father_name": null,
+      "text": "3 فَجَاءَ إِشَعْيَاءُ النَّبِيُّ إِلَى الْمَلِكِ حَزَقِيَّا وَقَالَ لَهُ: «مَاذَا قَالَ هؤُلاَءِ الرِّجَالُ، وَمِنْ أَيْنَ جَاءُوا إِلَيْكَ؟» فَقَالَ حَزَقِيَّا: «جَاءُوا إِلَيَّ مِنْ أَرْضٍ بَعِيدَةٍ، مِنْ بَابِلَ». 4 فَقَالَ: «مَاذَا رَأَوْا فِي بَيْتِكَ؟» فَقَالَ حَزَقِيَّا: «رَأَوْا كُلَّ مَا فِي بَيْتِي. لَيْسَ فِي خَزَائِنِي شَيْءٌ لَمْ أُرِهِمْ إِيَّاهُ». 5 فَقَالَ إِشَعْيَاءُ لِحَزَقِيَّا: «اسْمَعْ قَوْلَ رَبِّ الْجُنُودِ: 6 هُوَذَا تَأْتِي أَيَّامٌ يُحْمَلُ فِيهَا كُلُّ مَا فِي بَيْتِكَ، وَمَا خَزَنَهُ آبَاؤُكَ إِلَى هذَا الْيَوْمِ، إِلَى بَابِلَ. لاَ يُتْرَكُ شَيْءٌ، يَقُولُ الرَّبُّ. 7 وَمِنْ بَنِيكَ الَّذِينَ يَخْرُجُونَ مِنْكَ الَّذِينَ تَلِدُهُمْ، يَأْخُذُونَ، فَيَكُونُونَ خِصْيَانًا فِي قَصْرِ مَلِكِ بَابِلَ»."
+    },
+    {
+      "section_title": "الذخائر",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أرسل الله نبيه إشعياء إلى حزقيا"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "قال هؤلاء الرجال؟"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أين جاءوا إليك؟"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ماذا"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "رأوا في بيتك؟"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لم يجب على أهم سؤال: \"ماذا قال"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "هؤلاء الرجال؟\"."
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ظن أنهم جاءوا من أرض بعيدة من بابل [3]"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "فلا خطر عليه منهم، لذلك صدر الحكم الإلهي بالعقاب خلال بابل."
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "جاءت العقوبة قاسية لأن الكبرياء داء"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "خطير للغاية، يعني شركة في طبيعة الشيطان. لم يفقد حزقيا الخزائن التي كشفها فحسب"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "وإنما يفقد حرية أولاده إذ يصيرون خصيانًا في بيت ملك بابل [7]."
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "العلامة"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "قول آبائي",
+      "father_name": "العلامة أوريجانوس",
+      "text": "أوريجانوس أن"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الكبرياء هي خطية الشيطان الرئيسية.يقول"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "قول آبائي",
+      "father_name": "القديس يوحنا ذهبي الفم",
+      "text": "القديس يوحنا الذهبي الفم: [ما كان للشيطان أن ينحدر ويصير شيطانًا لو لم يُصب بهذا المرض."
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد طرحه خارج الثقة (بالله)، وأتى به إلى هُوّة النار، وهو علة كل الويلات. أنه"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كفيل بتحطيم كل صلاح للنفس، سواء وجد عطاء (تقديم صدقة) أو صلاة أو صومًا أو أي"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شيء آخر... ليس أَغْبَى من الإنسان المتكبر، حتى وإن أحاط به الغِنى أو نال الكثير من"
+    },
+    {
+      "section_title": "لتأديبه، فسأله",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "حكمة هذا العالم، أو وُجد في قصر ملوكي...]."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "\"فَقَالَ حَزَقِيَّا لإِشَعْيَاءَ: «جَيِّدٌ هُوَ قَوْلُ الرَّبِّ الَّذِي تَكَلَّمْتَ بِهِ». وَقَالَ: «فَإِنَّهُ يَكُونُ سَلاَمٌ وَأَمَانٌ فِي أَيَّامِي».\" [8]."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "في الظاهر نطق الملك بكلمات تحمل تسليمًا،"
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لكننا لا نعرف ما هي اتجاهاته ودوافعه، ربما يكون استسلامًا دون توبة وثقة في الله"
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القادر على غفران الخطايا."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "لقد اعترف أنه أخطأ لكنه لم يقدم توبة،"
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "دليل ذلك أنه عوض الصراخ إلى الله بدموع من أجل الرجوع إليه شعر بطمأنينة أن"
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "التأديب سيحل بعد موته في أيام أولاده. لقد حمل نوعًا من الأنانية، فقد أهتم أن"
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "يقضي أيامه في طمأنينة دون المبالاة بما سيحل بالشعب وبنسله فيما بعد."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Fragments from Comm. On the prophet Isaiah, 1."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In John hom. 3,5."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In Ezech. 9:2 PG. 13:734 CD."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "In John hom 16:4."
+    },
+    {
+      "section_title": "3. اعتراف حزقيا بالخطأ",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "← تفاسير أصحاحات"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "مقدمة |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "10 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "11 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "12 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "13 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "14 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "15 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "16 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "17 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "18 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "19 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "20 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "21 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "22 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "23 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "24 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "25 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "26 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "27 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "28 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "29 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "30 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "31 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "32 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "33 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "34 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "35 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "36 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "37 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "38 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "39 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "40 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "41 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "42 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "43 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "44 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "45 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "46 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "47 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "48 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "49 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "50 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "51 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "52 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "53 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "54 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "55 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "56 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "57 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "58 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "59 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "60 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "61 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "62 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "63 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "64 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "65 |"
+    },
+    {
+      "section_title": "إشعياء",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "(اقرأ إصحاح 39 من سفر أشعياء)"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "بحث،"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تفاسير |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "القراءات اليومية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "الأجبية |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أسئلة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "طقس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "عقيدة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "تاريخ |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كتب |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "شخصيات |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كنائس |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "أديرة |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "كلمات ترانيم |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "ميديا |"
+    },
+    {
+      "section_title": "الكتاب المقدس",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "صور | مواقع"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/42v4ds6"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copy"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "Copied"
+    },
+    {
+      "section_title": "تقصير الرابط",
+      "content_type": "شرح",
+      "father_name": null,
+      "text": "tak.la/42v4ds6"
     }
   ]
 }
